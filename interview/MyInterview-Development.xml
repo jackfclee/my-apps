@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Containerization</type>
+    <question>
+What is Containerization?
+    </question>
+    <answer>
+⏵ Containerization is a lightweight form of virtualization that involves encapsulating an application and its dependencies into a container. 
+⏵ The container includes everything needed to run the application: code, runtime, system tools, system libraries, and settings. 
+⏵ Containers are isolated from each other and the host system, but they share the host OS kernel, making them more efficient and faster than traditional virtual machines (VMs) that require a full OS for each instance.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Containerization</type>
+    <question>
+Benefits of Containerization in Software Development:
+    </question>
+    <answer>
+__Consistency Across Environments__
+⏵ Containers ensure consistency across different environments (development, testing, production), reducing the "it works on my machine" problem.
+__Efficiency and Speed__
+⏵ Containers share the host system's kernel, not requiring a full OS per application, leading to lower resource usage, faster startup times, and higher efficiency compared to VMs.
+__Isolation__
+⏵ Each container operates independently (process isolation, filesystem, etc.), minimizing conflicts between applications and making it easier to manage dependencies.
+__Scalability and Flexibility__
+⏵ Containers can be easily scaled up or down and deployed on various platforms, supporting microservices architecture where components can be independently scaled and updated.
+__Rapid Deployment and Rollback__
+⏵ Containers can be created, duplicated, and destroyed quickly, facilitating rapid deployment and rollback of applications and updates.
+__Development Productivity__
+⏵ Developers can focus on building software without worrying about the underlying infrastructure, streamlining development, and deployment processes.
+__Portability__
+⏵ Since containers include all necessary dependencies, they can run consistently across any platform or cloud, enhancing portability.
+__Resource Efficiency__
+⏵ Containers require less hardware resource, allowing more applications to run on the same hardware compared to running applications directly on the host or using VMs.
+__Simplified Configuration Management__
+⏵ Containers can be used to create reproducible environments, simplifying configuration management and reducing environment drift issues.
+__Enhanced Security__
+⏵ Isolation provided by containers can enhance security by limiting the impact of a breach to a single container.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Code Review</type>
+    <question>
+What do you consider during code review?
+    </question>
+    <answer>
+Code review is a process in which a team of developers reviews code changes to identify and address any issues or improvements before the code is merged into the main codebase. There are many factors that developers consider during code review, some of which include:
+
+⏵ Code quality: Is the code well-written and easy to understand? Does it follow established coding standards and conventions?
+⏵ Functionality: Does the code accomplish the intended task and meet the requirements?
+⏵ Performance: Is the code efficient and scalable?
+⏵ Test coverage: Are there sufficient tests in place to ensure the code is reliable and maintainable?
+⏵ Security: Does the code adhere to security best practices and mitigate any potential vulnerabilities?
+⏵ Maintainability: Is the code easy to modify and maintain over time?
+
+In addition to these technical considerations, code review is also an opportunity for developers to share knowledge and best practices with their team, as well as to improve communication and collaboration within the team. As such, code review may also involve discussions about design decisions, implementation approaches, and other non-technical aspects of the code.
+
+⏵ New vs Enhancement
+⏵ pull request from feature branch to main branch, and review the changes
+⏵ how does it work?
+⏵ Is the design maintainable? 
+⏵ Is the flow easy to follow? 
+⏵ Naming convention? 
+⏵ Any missing requirements?
+⏵ Is exceptional cases handled?
+⏵ Unit test: enough unit test cases ? Covers edge cases ?
+⏵ Follow the standard and best practice in the company?
+⏵ Any better / quicker way to achieve the same functionality?
+⏵ Have the code tidy up, formatted, align with the code?
+⏵ Pass the scanning tool in the CI pipeline?
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Code Review</type>
+    <question>
+why do we still need manual code review when automatic code review tool is available?
+    </question>
+    <answer>
+While automatic code review tools can be useful in identifying certain types of issues in code, they are not a replacement for manual code review by human developers. Here are a few reasons why manual code review is still important:
+
+⏵ Automatic tools can only check for issues that they are programmed to recognize. They may not be able to identify more subtle or complex issues that require a human's understanding of the code and its context.
+⏵ Automatic tools can produce false positives or false negatives, which can waste time and effort. For example, an automatic tool might report an issue that is actually a valid code pattern, or it might fail to report an actual issue.
+⏵ Code review is an opportunity for developers to share knowledge and best practices with their team, as well as to improve communication and collaboration within the team. This is difficult for an automatic tool to do.
+⏵ Code review is an opportunity for developers to learn from each other and to improve their skills. By participating in code review, developers can learn new techniques and approaches that they may not have been exposed to otherwise.
+
+Overall, while automatic code review tools can be useful supplements to manual code review, they should not be relied upon as a sole means of ensuring code quality. It is important for developers to remain involved in the code review process in order to fully understand and address the issues that are identified.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Code Review</type>
+    <question>
+What can the auto code detection tool do for code review and what cannot?
+    </question>
+    <answer>
+Some examples of things that code analysis tools can do during code review are:
+
+⏵ Identify syntax errors and other issues that would cause the code to fail to compile
+⏵ Check for coding style issues and violations of coding standards
+⏵ Detect potential security vulnerabilities, such as SQL injection attacks or cross-site scripting (XSS) attacks
+⏵ Identify potential performance issues, such as inefficient algorithms or expensive function calls
+⏵ Check for code duplication and other forms of code complexity
+⏵ Check for missing or incorrect documentation
+
+Some examples of things that code analysis tools cannot do are:
+
+⏵ Test the code to see if it works correctly
+⏵ Determine if the code is appropriate for the intended purpose
+⏵ Check for usability issues or user experience problems
+⏵ Verify that the code follows the desired design or architecture
+⏵ Catch logic errors or other problems that cannot be detected statically
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

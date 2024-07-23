@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Can you walk us through your experience with architecture design and implementation?
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Can you describe your experience with [specific technology or programming language]?
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+Design Pattern
+    </question>
+    <answer>
+⏵ Creational patterns: These patterns deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. Examples include the Singleton, Factory Method, and Prototype patterns.
+⏵ Structural patterns: These patterns deal with object composition, creating relationships between objects to form larger structures. Examples include the Adapter, Bridge, and Composite patterns.
+⏵ Behavioural patterns: These patterns deal with communication between objects, what goes on between objects and how they operate together. Examples include the Observer, Iterator, and Mediator patterns.
+⏵ Concurrency patterns: These patterns deal with multi-threaded programming, they ensure that shared resources are accessed in a thread-safe manner. Examples include the Monitor Object, Read-Write Lock and Double-Checked Locking patterns.
+⏵ Architectural patterns: These patterns deal with overall system structure, they provide a general, high-level structure for designing an application. Examples include the Model-View-Controller, Microservices and Event-driven architecture patterns.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Principle</type>
+    <question>
+Object Oriented Programming
+    </question>
+    <answer>
+⏵ Encapsulation: objects can hide their internal data and methods, and provide a public interface for interacting with them. This allows for a level of abstraction and information hiding, which makes the code more modular and easier to maintain.
+⏵ Inheritance: objects can inherit properties and methods from parent classes, which allows for code reuse and a more organized class hierarchy.
+⏵ Polymorphism: objects can be treated as instances of their parent classes, allowing for a single method or function to be used with multiple types of objects.
+⏵ Abstraction: objects can be abstracted away from their implementation details, making the code more flexible and adaptable.
+⏵ Dynamic binding: objects can be created and manipulated at runtime, allowing for greater flexibility and adaptability.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Principle</type>
+    <question>
+What is SOILD principle?
+    </question>
+    <answer>
+⏵ Single Responsibility Principle (SRP): This principle states that a class should have only one reason to change, and that it should have a single, well-defined responsibility.
+⏵ Open-Closed Principle (OCP): This principle states that a class should be open for extension but closed for modification. This means that it should be possible to add new functionality to a class without changing its existing code.
+⏵ Liskov Substitution Principle (LSP): This principle states that subtypes must be substitutable for their base types. This means that if a class is derived from another class, it should be able to be used in the same way as the base class without causing any issues.
+⏵ Interface Segregation Principle (ISP): This principle states that clients should not be forced to depend on interfaces they do not use. This means that interfaces should be designed in a way that allows clients to depend on only the methods they need, rather than being forced to depend on a large, monolithic interface.
+⏵ Dependency Inversion Principle (DIP): This principle states that high-level modules should not depend on low-level modules, but rather both should depend on abstractions. This helps to decouple the different parts of a system and make it more flexible and maintainable.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is layered architecture?
+    </question>
+    <answer>
+⏵ Presentation layer: This is the topmost layer, and it is responsible for handling user interactions, such as displaying the user interface, capturing user input, and providing feedback.
+⏵ Application layer: This layer is responsible for managing the application's logic and business rules, such as validating user input, coordinating with other layers, and performing calculations.
+⏵ Domain layer: This layer contains the core business logic and entities of the application, such as the data models and business objects.
+⏵ Data access layer: This layer is responsible for interacting with the application's data sources, such as databases and web services. It typically includes classes for performing CRUD (create, read, update, and delete) operations on the data.
+⏵ Infrastructure layer: This is the bottommost layer, and it contains the technical components that the other layers rely on, such as the database, web servers, and other services.
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is Vertical Scaling (Scale-Up)?
+    </question>
+    <answer>
+More RAM, more CPU, more HDD
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is Horizontal Scaling (Scale-out)?
+    </question>
+    <answer>
+More Hosts
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

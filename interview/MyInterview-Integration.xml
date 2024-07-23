@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+What is the difference between asynchronous and synchronous call?
+    </question>
+    <answer>
+In a synchronous call, the calling function blocks and waits for the call to complete before continuing execution. This means that the calling function is "paused" while the call is being processed, and cannot perform any other tasks during this time.
+
+In contrast, an asynchronous call does not block the calling function. Instead, the call is made and the calling function continues execution without waiting for the call to complete. This means that the calling function can perform other tasks while the call is being processed. Once the call completes, the calling function is typically notified of the completion in some way, such as through a callback or a return value.
+
+In general, synchronous calls are simpler to implement and understand, but can lead to poor performance if the call takes a long time to complete. Asynchronous calls, on the other hand, can improve performance, but are generally more complex to implement and may require additional work to handle the notification of completion.
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+Could you describe the correlation ID mechnaism in IBM MQ?
+    </question>
+    <answer>
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+How many kinds of integration pattern do you know?
+    </question>
+    <answer>
+⏵ Fire-and-Forget Pattern
+⏵ Synchronus Request-Response Pattern
+⏵ Asynchronus Request-Response Pattern
+⏵ Point to Point Messaging System (Queue)
+⏵ Publish-Subscribe Messaging System (Topic)
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+Why do we need messaging?
+    </question>
+    <answer>
+⏵ Asynchronous, non-blocking
+⏵ de-couple different services
+⏵ message streaming: revisit past message (Kafka)
+⏵ Internal access only
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+When to use event-driven architecture
+    </question>
+    <answer>
+when you need to capture real-world behaviour and the digital context around it and store it for future use.
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+When to use message-driven architecture
+    </question>
+    <answer>
+If the situation requires that a message is sent to only one recipient then a message-driven architecture would be better.
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+event-driven vs message-driven
+    </question>
+    <answer>
+The main difference between event-driven and message-driven systems is that a message is sent to a pre-determined location, whereas an event is broadcast to any potential listeners. Messages are stored in a queue and are then processed (and usually deleted) once, by a single, predefined consumer.
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+Request-Response (HTTP) vs. Data Streaming (Kafka)
+    </question>
+    <answer>
+Request-response (HTTP):
+⏵ Typically synchronous
+⏵ Point to point
+⏵ High latency (compared to data streaming)
+⏵ Pre-defined API
+
+Data streaming (Kafka):
+⏵ Continuous processing
+⏵ Often asynchronous
+⏵ Event-driven
+⏵ Low latency
+⏵ General-purpose events
+    </answer>
+  </entry> 
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+Kafka vs IBM MQ
+    </question>
+    <answer>
+Apache Kafka scales well and may track events but lacks some message simplification and granular security features. 
+It is perhaps an excellent choice for teams that emphasize performance and efficiency. 
+IBM MQ is a powerful conventional message queue system, but Apache Kafka is faster.
+
+Kafka is recommended for applications that demand high throughput or interaction with a big data stack. On the other hand, IBM MQ is best suited for applications that require a high level of reliability and cannot tolerate message loss.
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+In addition to command line tooling for management and administration tasks, Kafka has five core APIs for Java and Scala:
+    </question>
+    <answer>
+⏵ The Admin API to manage and inspect topics, brokers, and other Kafka objects.
+⏵ The Producer API to publish (write) a stream of events to one or more Kafka topics.
+⏵ The Consumer API to subscribe to (read) one or more topics and to process the stream of events produced to them.
+⏵ The Kafka Streams API to implement stream processing applications and microservices.
+⏵ The Kafka Connect API to build and run reusable data import/export connectors 
+    </answer>
+  </entry>  
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+Kafka vs RabbitMQ
+    </question>
+    <answer>
+⏵ Kafka is best suited for big data use cases requiring the best throughput
+⏵ RabbitMQ is perfect for low latency message delivery and complex routing.
+
+⏵ RabbitMQ queues are faster only when they're empty, unlike Kafka that can retain lots of data with minimal overhead. 
+⏵ Kafka is capable of processing millions of messages in a second. Though RabbitMQ can also process millions of messages in a second, it would require more resources to do so.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

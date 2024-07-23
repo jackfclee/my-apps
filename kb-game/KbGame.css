@@ -1,0 +1,121 @@
+html, body {
+  height: 100%; /* Make sure the body takes up the full viewport height */
+  margin: 0; /* Remove default margin */
+}
+
+.container {
+  display: flex; /* Enable Flexbox */
+  flex-direction: column; /* Stack children vertically */
+  height: 100vh; /* Set container height to full viewport height */
+}
+
+/* App Header Styles */
+.app-header {
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  padding: 5px 10px;
+  text-align: left;
+  display: flex;
+  justify-content: space-between; /* This will space out the child elements */
+  gap: 10px;
+}
+
+/* Question Content Styles */
+.jumbotron.question-content {
+  background-color: #f3f3f3;
+  color: black;
+  font-size: 20px; /* Suggestion for bigger font size, adjust as needed */
+  padding: 20px;
+  margin-bottom: 0px;
+  display: flex;
+  gap: 10px;
+}
+
+/* Answer Content Styles */
+.jumbotron.answer-content {
+  background-color: white;
+  color: black;
+  font-size: 20px; /* Suggestion for bigger font size, adjust as needed */
+  padding: 20px;
+  margin-right: 5px;
+}
+
+#questionText * {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+#answersForm * {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.answer-content {
+  flex-grow: 1; /* This will take up all available space */
+  overflow: auto; /* Add scroll if content is too big */
+}
+
+.form-check:hover {
+  background-color: lightyellow; /* Hover effect for rows */
+}
+
+.form-check-input {
+  transform: scale(1.8); /* Adjust the scale value as needed */
+}
+
+.form-check-label {
+  display: flex !important;
+  align-items: top !important;
+  white-space: pre-wrap; 
+  margin-left: 10px; 
+}
+
+/* Control Bar Styles */
+.control-bar {
+  text-align: right;
+  padding: 10px 0;
+  background-color: white;
+  padding-bottom: 50px; /* Adjust based on the height of .control-bar */
+}
+
+.btn {
+  width: 100px; /* Adjust this value to suit your needs */
+}
+
+.control-bar .btn {
+  margin: 2px 0px; /* Spacing between buttons */
+  text-align: center;
+}
+
+/* Disabled Button Styles */
+.control-bar .btn:disabled {
+  opacity: 0.5; /* Dim disabled buttons */
+}
+
+.markdownTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.markdownTable th, .markdownTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.markdownTable th {
+  background-color: #f2f2f2;
+}
+
+/* Adjust this media query for smaller screens */
+@media (max-width: 768px) {
+  .jumbotron.question-content {
+    font-size: 16px; /* Adjust for mobile screens */
+  }
+  .jumbotron.answer-content {
+    font-size: 16px; /* Adjust for mobile screens */
+  }
+  #topicOptions {
+    max-width: 200px; /* Set the maximum width as needed */
+  }
+}

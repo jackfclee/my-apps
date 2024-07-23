@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Command</type>
+    <question>
+Typical File and Text Operation command
+    </question>
+    <answer>
+__df__
+⏵ df -h to see disk usage by filesystem
+
+__du__
+⏵ du -sh in specific directories to find where disk usage is high
+    
+__cat__
+⏵ Concatenates and displays the content of files.
+⏵ Example: cat file1.txt displays the content of file1.txt.
+
+__grep__
+⏵ Searches text using patterns.
+⏵ Example: grep 'search_term' file.txt finds 'search_term' in file.txt.
+
+__sed__
+⏵ Stream editor for filtering and transforming text in files.
+⏵ Example: sed 's/old/new/g' file.txt replaces 'old' with 'new' in file.txt.
+
+__awk__
+⏵ Pattern scanning and processing language.
+⏵ Example: awk '{print $2}' file.txt prints the second column of file.txt.
+
+__sort__
+⏵ Sorts lines in text files.
+⏵ Example: sort file.txt sorts the lines in file.txt alphabetically.
+
+__uniq__
+⏵ Reports or omits repeated lines.
+⏵ Example: uniq file.txt filters adjacent duplicate lines in file.txt.
+
+__wc__
+⏵ Prints newline, word, and byte counts for files.
+⏵ Example: wc file.txt displays the count of lines, words, and bytes in file.txt.
+
+__diff__
+⏵ Compares files line by line.
+⏵ Example: diff file1.txt file2.txt shows differences between file1.txt and file2.txt.
+
+__head__
+⏵ Outputs the first part of files.
+⏵ Example: head file.txt displays the first ten lines of file.txt.
+
+__tail__
+⏵ Outputs the last part of files.
+⏵ Example: tail file.txt displays the last ten lines of file.txt.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Process</type>
+    <question>
+When I try to run a file on Linux, it won't execute. Why?
+    </question>
+    <answer>
+Check Permissions:
+⏵ Use ls -l filename to see if the file has execute permission (x).
+⏵ If not, add execute permission with chmod +x filename.
+
+Correct Path:
+⏵ Ensure you're in the right directory or provide the full path to the file.
+
+Use ./:
+⏵ If in the same directory, run the file with ./filename.
+
+Check File Type:
+⏵ Use file filename to see if it's an executable binary or a script.
+
+For Scripts, Check Shebang:
+⏵ The first line should be #!/bin/sh or another interpreter like #!/bin/bash.
+
+Dependencies:
+⏵ Ensure all required libraries or interpreters are installed.
+
+File System Not Mounted as Executable:
+⏵ If on a separate partition, ensure it's not mounted with noexec.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Process</type>
+    <question>
+Explain how the process is started in Linux (syscalls and etc)
+    </question>
+    <answer>
+User Requests Process Start:
+⏵ A user or system service requests to start a new process, usually by running a command in the terminal or a program triggering it.
+
+fork() System Call:
+⏵ The fork() syscall is used to create a new process. It makes a duplicate of the current process (parent) called the child process.
+
+exec() System Call:
+⏵ The child process uses exec() syscall to replace its memory space with a new program. The exec() family of functions loads the program into the child process's memory, replacing the forked process image.
+
+Process Setup by Kernel:
+⏵ The kernel sets up the process environment. This includes allocating memory, setting up security permissions, and initializing process identifiers (PIDs).
+
+Initialization:
+⏵ The new program may perform some initialization tasks, like reading configuration files or establishing database connections.
+
+Execution:
+⏵ The program starts executing its main function. It performs its tasks, like processing data, handling user input, or waiting for system events.
+
+System Resource Access:
+⏵ During execution, the process may request more resources or perform I/O operations using syscalls like read(), write(), open(), and close().
+
+Process Termination:
+⏵ The process terminates by calling exit() syscall, returning control back to the operating system, which then cleans up resources and closes the process.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Process</type>
+    <question>
+In what cases sigkill fails
+    </question>
+    <answer>
+SIGKILL is designed to immediately terminate processes without cleanup, and it cannot be caught or ignored by the process. 
+
+⏵ Zombie Processes
+⏵ Uninterruptible Sleep State 
+⏵ Kernel Space Operations
+⏵ Defunct Processes
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Process</type>
+    <question>
+What signal does the kill command send by default?
+    </question>
+    <answer>
+The kill command, by default, sends the SIGTERM (signal number 15) to the specified process. This signal requests the process to terminate gracefully, allowing it to clean up resources before exiting.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Command</type>
+    <question>
+In Linux, view a column in the csv in the command line
+    </question>
+    <answer>
+cut -d, -f2 file.csv
+
+⏵ -d, specifies the delimiter (comma for CSV files), and -f2 specifies the second field (column). 
+⏵ Adjust the number after -f to view a different column.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Command</type>
+    <question>
+＞  = "one greater than" character
+＞＞  = "two greater than" character
+    </question>
+    <answer>
+⏵ overwriting existing files
+⏵ append onto existing files
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Script</type>
+    <question>
+How to read a certain column in a file by using shell script?
+    </question>
+    <answer>
+while read index name age nickname; do
+    echo "$index : $name, $age, $nickname"
+done ＜ "input.txt"
+
+cat input.txt | while read index name age nickname; do
+    echo "$index : $name, $age, $nickname"
+done
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Memory</type>
+    <question>
+What is heap memory?
+    </question>
+    <answer>
+Heap memory is memory that is used for dynamic allocation of objects. It is called the "heap" because it is a large pool of unstructured memory that can be used to satisfy allocation requests. Heap memory is slower to allocate and deallocate than stack memory, but it can store objects of any size and is not limited by the size of the stack.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Memory</type>
+    <question>
+What is stack memory?
+    </question>
+    <answer>
+A stack is a special area of computer’s memory which stores temporary variables created by a function. In stack, variables are declared, stored and initialized during runtime.
+
+It is a temporary storage memory. When the computing task is complete, the memory of the variable will be automatically erased. The stack section mostly contains methods, local variable, and reference variables.
+
+Stack memory is memory that is reserved for storing function call frames and local variables. When a function is called, a new frame is created on the top of the stack to store the function's local variables and other information. When the function returns, its frame is removed from the stack.
+
+Stack memory is typically faster to allocate and deallocate than heap memory, but it has a fixed size and is not suitable for storing large or long-lived objects.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Command</type>
+    <question>
+Can you debug in linux?
+    </question>
+    <answer>
+GDB, the GNU Project debugger
+
+Java:
+(1) Start the program and find the PID.
+(2) Attach a debugger to the JVM somehow (this is what I don't know how to do, and lack the language to search for, apparently)
+(3) Use the debugger to set breakpoints, read/write arbitrary memory of the JVM, see the JVM's registers and stack.
+(4) Use a simple, open-source command-line tool to do this, like Radare2 or GDB.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Command</type>
+    <question>
+How do you monitor system utilsation in linux?
+    </question>
+    <answer>
+⏵ top Command to View Linux CPU Load
+⏵ mpstat Command to Display CPU Activity
+⏵ sar Command to Show CPU Utilization
+⏵ iostat Command for Average Usage
+⏵ Nmon Monitoring Tool
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Command</type>
+    <question>
+Do you know grep?
+    </question>
+    <answer>
+The grep command searches for the pattern specified by the Pattern parameter and writes each matching line to standard output. The patterns are limited regular expressions in the style of the ed or egrep command. The grep command uses a compact non-deterministic algorithm.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Command</type>
+    <question>
+How to grant admin privileges on an executable file so any user can execute the file?
+    </question>
+    <answer>
+Change the file owner to root (if it's not already):
+⏵ sudo chown root:root /path/to/your/executable
+
+Set the SUID bit on the executable:
+⏵ sudo chmod u+s /path/to/your/executable
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

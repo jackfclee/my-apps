@@ -1,0 +1,762 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Sorting</type>
+    <question>
+Explain the worst case of merge sort
+    </question>
+    <answer>
+The worst-case time complexity of Merge Sort is 
+O(n log n)
+where n is the number of elements in the array to be sorted. 
+
+⏵ Divide: The array is recursively divided into two halves until each sub-array contains a single element.
+⏵ Conquer: Each pair of single-element sub-arrays is merged into a sorted array of two elements, continuing the merge process until the entire array is reassembled as sorted.
+⏵ Combine: The merge operation, which is the core of the algorithm, requires comparing and rearranging elements, contributing to the O(n log n) complexity.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+What are the rules of method overloading and overriding in Java?
+    </question>
+    <answer>
+One of the most important rules of method overloading in Java is that the method signature should be different i.e. either the number of arguments or the type of arguments. Simply changing the return type of two methods will not result in overloading, instead, the compiler will throw an error. 
+
+On the other hand, method overriding has more rules e.g. name and return type must be the same, method signature should also be the same, the overloaded method cannot throw a higher exception, etc.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+Can we prevent overriding a method without using the final modifier?
+    </question>
+    <answer>
+Yes, you can prevent the method overriding in Java without using the final modifier. there are several ways to accomplish it e.g. you can mark the method private or static, those cannot be overriden.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+Can we override a private method in Java?
+    </question>
+    <answer>
+No, you cannot. Since the private method is only accessible and visible inside the class they are declared, it’s not possible to override them in subclasses. Though, you can override them inside the inner class as they are accessible there.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+What is an abstract class in Java?
+    </question>
+    <answer>
+An abstract class is a class that is incomplete. You cannot create an instance of an abstract class in Java. They are provided to define default behaviour and ensured that client of that class should adore to those contract which is defined inside the abstract class.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+The difference between Abstract class and interface?
+    </question>
+    <answer>
+In Java, the key difference is that abstract class can contain a non-abstract method but the interface cannot, but from Java 8 onward interface can also contain static and default methods that are non- abstract.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+What is the difference between Polymorphism, Overloading, and Overriding?
+    </question>
+    <answer>
+The word “polymorphism” means having many forms. In simple words, we can define polymorphism as the ability of a message to be displayed in more than one form. A real-life example of polymorphism is a person who at the same time can have different characteristics.
+
+This is a slight tricky OOP concept question because Polymorphism is the real concept behind on both Overloading and Overriding. Overloading is compiled time Polymorphism and Overriding are Runtime Polymorphism.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+Can an interface extend more than one interface in Java?
+    </question>
+    <answer>
+Yes, an interface can extend more than one interface in Java
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+Can a class extend more than one class in Java?
+    </question>
+    <answer>
+No, a class can only extend another class because Java doesn’t support multiple inheritances but yes, it can implement multiple interfaces.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+What is difference between FileInputStream and FileReader in Java?
+    </question>
+    <answer>
+Main difference between FileInputStream and FileReader is that former is used to read binary data while later is used to read text data, which means later also consider character encoding while converting bytes to text in Java.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+Difference between private, public, package and protected in Java?
+    </question>
+    <answer>
+⏵ public : accessible from everywhere. 
+⏵ protected : accessible by the classes of the same package and the subclasses residing in any package. 
+⏵ default (no modifier specified): accessible by the classes of the same package. 
+⏵ private : accessible within the same class only.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+What is difference between calling start() and run() method of Thread?
+    </question>
+    <answer>
+start method also starts a new thread. If you call the run method directly then it will run on same thread not on different thread, which is what original intention would be.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+what is deadlock
+    </question>
+    <answer>
+A deadlock is a situation in which two or more threads are blocked and unable to make progress because they are waiting for each other to release a resource that they have locked.
+suppose there are two threads, A and B, and two resources, X and Y. If thread A acquires a lock on resource X and then tries to acquire a lock on resource Y, while thread B acquires a lock on resource Y and then tries to acquire a lock on resource X, the threads will deadlock. This is because thread A is waiting for thread B to release the lock on resource Y, while thread B is waiting for thread A to release the lock on resource X. As a result, neither thread can make progress and the system becomes stuck in a deadlock.
+Deadlocks can be difficult to detect and resolve, and they can cause serious problems if not addressed. To prevent deadlocks, you can use synchronization techniques such as lock ordering, lock timeout, and deadlock detection to ensure that threads acquire locks in a consistent order and avoid waiting indefinitely for locks to be released.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Reactive</type>
+    <question>
+What is Reactive programming?
+    </question>
+    <answer>
+programming with asynchronous data streams.
+
+⏵ An event such as software-generated alerts, keystrokes or signals from an internet of things (IoT) system.
+⏵ A call, which is a function that invokes a routine as part of a workflow.
+⏵ A message, which is an information unit that the system sends back to the user or system operator with information about the status of an operation, an error, failure or other condition.
+
+Observable and Observer (RX Java)
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Reactive</type>
+    <question>
+What is WebFlux?
+    </question>
+    <answer>
+Reactor is the reactive library of choice for Spring WebFlux.
+non-blocking, supports Reactive Streams
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Reactive</type>
+    <question>
+Mono vs Flux
+    </question>
+    <answer>
+⏵ Mono is more relatable to the Optional class in Java since it contains 0 or 1 value.
+⏵ Flux is more relatable to List since it can have N number of values.
+⏵ Mono and Flux are both implementations of the Publisher interface. 
+⏵ In simple terms, we can say that when we're doing something like a computation or making a request to a database or an external service, and expecting a maximum of one result, then we should use Mono.
+⏵ When we're expecting multiple results from our computation, database, or external service call, then we should use Flux.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Spring</type>
+    <question>
+Constructor Autowired vs Field Autowired vs Method Autowired and when to use.
+    </question>
+    <answer>
+⏵ Mandatory = Constructor
+⏵ Optional = Method
+⏵ Field = Not Recommended
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Spring</type>
+    <question>
+What is tightly coupled vs loosed coupled?
+    </question>
+    <answer>
+We don’t want to hardcode the use of real implementation in a service class. It is difficult for us to change to another implementation due to the hard dependency.
+Instead, define an Interface (e.g. Transportation), then we create the implementation class (e.g. Bus, Taxi, Train). So, we can have many kinds of the implementations based on the interface.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Spring</type>
+    <question>
+What is dependency injection?
+    </question>
+    <answer>
+dependency injection is a design pattern in which an object or function receives other objects or functions that it depends on.
+aims to separate the concerns of constructing objects and using them.
+leading to loosely coupled programs.
+@Autowired @Component
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Spring</type>
+    <question>
+What is inversion of control?
+    </question>
+    <answer>
+is about providing any kind of callback (which controls reaction), instead of acting ourself directly (in other words, inversion and/or redirecting control to external handler/controller)
+
+IOC Contrainer (Bean Factories)
+⏵ Register and Find Beans (@Component)
+⏵ Wire Dependencies (@Autowired)
+⏵ Manage Lifecycle of Beans (
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Data Access</type>
+    <question>
+What is Hibernate?
+    </question>
+    <answer>
+Hibernate is an open-source Object-relational mapper solution in Java. It is lightweight and overcomes all the shortcomings that we face while working with JDBC.
+a framework in Java which comes with an abstraction layer and handles the implementations internally.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Data Access</type>
+    <question>
+Java JPA vs Hibernate
+    </question>
+    <answer>
+JPA stands for Java Persistence API
+JPA is described in javax.persistence package.
+It is not an implementation. It is only a Java specification.
+It is a standard API that permits to perform database operations.
+
+Hibernate is described in org.hibernate package.
+Hibernate is an implementation of JPA.
+It is used in mapping Java data types with SQL data types and database tables.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Data Access</type>
+    <question>
+What is @Transactional?
+    </question>
+    <answer>
+either at the class or method level
+provides the application the ability to declaratively control transaction boundaries
+It allows us to set propagation, isolation, timeout, read-only, and rollback conditions for our transaction.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Data Access</type>
+    <question>
+What is Spring JPA?
+    </question>
+    <answer>
+public interface CustomerRepository extends CrudRepository＜Customer, Long＞
+@Entity @Id @GeneratedValue
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Data Access</type>
+    <question>
+How do you use Spring JPA to connect the database?
+    </question>
+    <answer>
+Spring Data JPA ＜＞ JPA ＜＞ Hibernate ＜＞ JDBC
+
+⏵ Spring Data JPA is ann abstractin layer on top of JPA to reduce the amount of boilerplate code required to implement data access object.
+⏵ JPA is just a specification that facilities object relational mapping to manage relational data in Java app.
+⏵ Hibernate is a JPA implementation.
+⏵ Hibernate generates SQL query and executes using JDBC.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Stream API</type>
+    <question>
+What is Stream API?
+    </question>
+    <answer>
+A sequence of elements supporting sequential and parallel aggregate operations.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Stream API</type>
+    <question>
+flatMap()
+    </question>
+    <answer>
+Returns a stream consisting of the results of replacing each element of this stream with the contents of a mapped stream produced by applying the provided mapping function to each element.
+if you have a list of the list, then you can convert it to a big list by using 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Stream API</type>
+    <question>
+filter()
+    </question>
+    <answer>
+filter method, as its name suggests, it filters elements based upon a condition you gave.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Stream API</type>
+    <question>
+map()
+    </question>
+    <answer>
+Returns a stream consisting of the results of applying the given function to the elements of this stream.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Stream API</type>
+    <question>
+collect()
+    </question>
+    <answer>
+Performs a mutable reduction operation on the elements of this stream using a Collector.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Stream API</type>
+    <question>
+map() vs collect()
+    </question>
+    <answer>
+The Stream.map() method is used to transform one object into another by applying a function. The collect() method of Stream class can be used to accumulate elements of any Stream into a Collection.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Stream API</type>
+    <question>
+Which is better:  stream or loop?
+    </question>
+    <answer>
+Stream API is only used for processing group of data.
+
+⏵ If you have a small list, loops perform better.
+⏵ If you have a huge list, a parallel stream will perform better.
+    </answer>
+  </entry>
+  <entry>
+    <type>Stream API</type>
+    <question>
+What is flatMap vs map? How?
+    </question>
+    <answer>
+map() function produces one output for one input value, whereas flatMap() function produces can concert multi-dimensional array to single dimension array:
+
+＜R＞ Stream＜R＞ map(Function＜? super T, ? extends R＞ mapper)
+＜R＞ Stream＜R＞ flatMap(Function＜? super T, ? extends Stream＜? extends R＞＞ mapper)
+
+One-to-one mapping occurs in map().	
+One-to-many mapping occurs in flatMap().
+
+map() is used only for transformation.
+flatMap() is used both for transformation and mapping.	
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Threading</type>
+    <question>
+Runnable vs Thread
+    </question>
+    <answer>
+Java does not support multiple inheritance. Hence if your class had already extended some another class, it can not extend Thread class anymore.
+By implementing Runnable we can reuse the task to execute it on different threads. Also it could be run by other means like Executor.
+Implementing Runnable provide Composition and extending Thread is Inheritance . Try to favor composition over inheritance.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Threading</type>
+    <question>
+Runnable vs Callable
+    </question>
+    <answer>
+Both Runnable and Callable represent task which is intended to be executed in a separate thread. Runnable is there from JDK 1.0 while Callable was added on JDK 1.5. Main difference between these two is that Callable’s call() method can return value and throw Exception, which was not possible with Runnable’s run() method. Callable return Future object, which can hold the result of computation.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is Functional Programming
+    </question>
+    <answer>
+A functional interface is an interface with only one abstract method (it may have multiple non-abstract default methods). Functional interfaces can be instantiated with lambda expressions and method references.
+
+⏵ A Consumer is a functional interface that accepts a single input and returns no output. 
+⏵ A Supplier is a simple interface which indicates that this implementation is a supplier of results.
+⏵ A Predicate interface represents a boolean-valued-function of an argument.
+⏵ A Function interface is more of a generic one that takes one argument and produces a result.
+
+⏵ Consumer: function (input) =＞ void 
+⏵ Supplier: function () =＞ return output
+⏵ Predicate: function (input) =＞ return boolean
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is Java Serialization?
+    </question>
+    <answer>
+Serialization is the conversion of the state of an object into a byte stream; deserialization does the opposite. Stated differently, serialization is the conversion of a Java object into a static stream (sequence) of bytes, which we can then save to a database or transfer over a network.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is normal interface?
+    </question>
+    <answer>
+A regular interface can be created with any number of methods whereas a functional interface can only have one. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Framework</type>
+    <question>
+Can you describe your experience with Java frameworks such as Spring, Hibernate, or Apache Commons?
+    </question>
+    <answer>
+⏵ Spring is a popular Java framework that provides a comprehensive set of tools and technologies for building enterprise-grade applications. 
+⏵ Hibernate is an object-relational mapping (ORM) framework for Java that provides a set of APIs for mapping Java objects to and from relational databases.
+⏵ Apache Commons is a set of open-source Java libraries that provide a variety of useful utilities and components for common tasks, such as string manipulation, collections, and file handling. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Performance</type>
+    <question>
+How do you design and implement a scalable and high-performance Java application?
+    </question>
+    <answer>
+⏵ Performance optimization - use efficient algorithms and data structures, such as code refactoring, parallelization, and caching to improve performance.
+⏵ Scalability - modular and flexible architecture 
+⏵ Concurrency - multithreading and parallel streams to parallelize work and take advantage of multiple cores and processors.
+⏵ Data management - efficient data structures, algorithms, and techniques 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Threading</type>
+    <question>
+How do you implement thread-safety in a Java application?
+    </question>
+    <answer>
+⏵ Synchronization: You can use the synchronized keyword to synchronize access to shared resources, such as instance variables or methods. This ensures that only one thread can access the resource at a time, which can help to prevent race conditions and other concurrency issues.
+⏵ Atomic variables: You can use atomic variables, such as AtomicInteger or AtomicReference, to store and update shared data in a thread-safe manner. Atomic variables use low-level concurrency constructs, such as locks and compare-and-swap operations, to ensure that updates to the data are atomic (i.e., indivisible).
+⏵ Immutable objects: You can use immutable objects, which are objects that cannot be modified once they are created, to store shared data in a thread-safe manner. Because immutable objects cannot be modified, there is no need to synchronize access to them, which can help to improve performance.
+⏵ Thread-safe collections: You can use thread-safe collections, such as ConcurrentHashMap or CopyOnWriteArrayList, to store and access shared data in a thread-safe manner. These collections use low-level concurrency constructs, such as locks and compare-and-swap operations, to ensure that updates to the data are atomic and that access to the data is properly synchronized.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+Can you explain the difference between an interface and an abstract class in Java?
+    </question>
+    <answer>
+⏵ Implementation: An interface does not provide any implementation for the methods it defines, while an abstract class can provide both abstract and concrete methods.
+⏵ Inheritance: A class can only extend (inherit from) one superclass, but it can implement multiple interfaces.
+⏵ Access modifiers: An interface can only contain public methods, while an abstract class can contain public, protected, and default (package-private) methods.
+⏵ Constructors: An interface cannot have any constructors, while an abstract class can have one or more constructors.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>JavaScript</type>
+    <question>
+Javascript questions, whats the difference between == and ===?
+    </question>
+    <answer>
+= is used for assigning values to a variable, == is used for comparing two variables, but it ignores the datatype of variable whereas === is used for comparing two variables, but this operator also checks datatype and compares two values.
+= is called as assignment operator, == is called as comparison operator whereas It is also called as comparison operator.
+= does not return true or false, == Return true only if the two operands are equal while === returns true only if both values and data types are the same for the two variables.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+Do you know any java design patterns?
+    </question>
+    <answer>
+(1) Creational Design Patterns are concerned with the method of creating Objects.
+
+⏵ Factory Pattern 
+⏵ Abstract Factory Pattern
+⏵ Singleton Pattern 
+⏵ Prototype Pattern 
+⏵ Builder Pattern
+⏵ Object Pool Pattern
+
+(2) Structural Design Patterns deal with the composition of classes and objects which form larger structures.
+
+⏵ Facade Pattern
+⏵ Bridge Pattern
+⏵ Composite Pattern
+⏵ Decorator Pattern
+⏵ Adapter Pattern
+⏵ Flyweight Pattern
+⏵ Proxy Pattern
+⏵ Filter Pattern
+
+(3) Behaviour Design Patterns are concerned with the responsibility and interaction between the objects.
+
+⏵ Chain Of Responsibility Pattern
+⏵ Strategy Pattern
+⏵ Interpreter Pattern
+⏵ Iterator Pattern
+⏵ Mediator Pattern
+⏵ Memento Pattern
+⏵ Command Pattern
+⏵ State Pattern
+⏵ Observer Pattern
+⏵ Template Pattern
+⏵ Visitor Pattern
+
+(4) JEE Design Patterns are concerned with providing solutions to the Java EE-based software applications and frameworks.
+
+⏵ MVC Design Pattern
+⏵ Dependency Injection Pattern
+⏵ DAO Design Pattern
+⏵ Business Delegate Pattern
+⏵ Intercepting Filter Pattern
+⏵ Service Locator Pattern
+⏵ Transfer Object Pattern
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pattern</type>
+    <question>
+Of the design patterns mentioned, do you know of any libraries that use it?
+    </question>
+    <answer>
+⏵ Lombok -- Builder Pattern
+⏵ SLF4J -- Façade Pattern
+⏵ Mockito -- Proxy Pattern
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Benefits of constructor vs field injections?
+    </question>
+    <answer>
+Field injection:
+++ less code to write
+-- unsafe code
+ - more complicated to test
+
+Constructor injection:
+++ safe code
+ - more code to write (see the hint to Lombok)
+ + easy to test
+
+Constructor-based: should be used for mandatory dependencies. In constructor, we should assign constructor args to final member fields.
+
+Setter-based: Should be used for optional dependencies.
+
+Field-based: Spring discourages the use of this because it would possibly hide mandatory fields from outside which would otherwise be assigned in the constructor. This would take away the advantage of properly initialized POJO, specially if intended to use outside of Spring container. Even though, we are mostly using field based injection in this series of tutorials to simplify the concept we want to deliver, we suggest the developers to always avoid using field-based DI in real project scenarios.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+What is meant by immutability in java?
+    </question>
+    <answer>
+Immutable objects don't change their internal state in time, they are thread-safe and side-effects free.
+
+private final String value;
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+Do you know about the garbage collector works in the JVM?
+    </question>
+    <answer>
+As long as an object is being referenced, the JVM considers it alive. Once an object is no longer referenced and therefore is not reachable by the application code, the garbage collector removes it and reclaims the unused memory.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+Do you know how the garbage collector works?
+    </question>
+    <answer>
+JVM Heap Space
+Metadata space
+Eden Space -> Survivor Space 0 -> 1 (Young Generation)
+Tenured Space (Old Generation)
+
+Heap memory is used by all the parts of the application whereas stack memory is used only by one thread of execution.
+Whenever an object is created, it’s always stored in the Heap space and stack memory contains the reference to it. Stack memory only contains local primitive variables and reference variables to objects in heap space.
+Objects stored in the heap are globally accessible whereas stack memory can’t be accessed by other threads.
+Stack memory is short-lived whereas heap memory lives from the start till the end of application execution.
+The program counter (PC) is a register that manages the memory address of the instruction to be executed next.
+The stack is the memory set aside as scratch space for a thread of execution. When a function is called, a block is reserved on the top of the stack for local variables and some bookkeeping data. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Java</type>
+    <question>
+What is the key word static and why would you need to use it?
+    </question>
+    <answer>
+static keyword is mainly used for memory management. It can be used with variables, methods, blocks and nested classes. It is a keyword which is used to share the same variable or method of a given class. Basically, static is used for a constant variable or a method that is same for every instance of a class.
+
+The most important reason why static keywords are heavily used in Java is to efficiently manage memory.
+
+Static Variables in Java
+Static Methods in Java
+Static Blocks in Java
+Static Nested Classes in Java
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Spring</type>
+    <question>
+Springboot annotation, what is the component annotation?
+    </question>
+    <answer>
+@Component is an annotation that allows Spring to automatically detect our custom beans. In other words, without having to write any explicit code, Spring will: Scan our application for classes annotated with @Component. Instantiate them and inject any specified dependencies into them.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Spring</type>
+    <question>
+What is the difference between @Service and @Component annotation?
+    </question>
+    <answer>
+@Component is a generic stereotype for any Spring-managed component. @Service annotates classes at the service layer. @Repository annotates classes at the persistence layer, which will act as a database repository.
+
+We can use @Component across the application to mark the beans as Spring's managed components. Spring will only pick up and register beans with @Component, and doesn't look for @Service and @Repository in general.
+
+@Repository’s job is to catch persistence-specific exceptions and re-throw them as one of Spring’s unified unchecked exceptions.
+
+We mark beans with @Service to indicate that they're holding the business logic. 
+
+Although Spring’s @Service doesn’t add any extra functionality over @Component out of the box, the @Service annotation becomes very useful when used with Spring AOP in targeting your business layer entry point and injecting a service of your own. You will improve the maintainability of your AOP Pointcut expressions which read as clearly as your intent.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Spring</type>
+    <question>
+What is the difference between Spring singletons and Java singletons?
+    </question>
+    <answer>
+Java considers something a singleton if it cannot create more than one instance of that class within a given class loader, whereas Spring would consider something a singleton if it cannot create more than one instance of a class within a given container/context.
+
+Eager initialization
+Static block initialization
+Lazy Initialization
+Thread Safe Singleton
+Bill Pugh Singleton Implementation
+Using Reflection to destroy Singleton Pattern
+Enum Singleton
+Serialization and Singleton
+
+Singleton beans are created when the Spring container is created and are destroyed when the container is destroyed. Singleton beans are shared; only one instance of a singleton bean is created per Spring container. Singleton scope is the default scope for a Spring bean.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Spring</type>
+    <question>
+How do you inject spring dependencies?
+    </question>
+    <answer>
+Constructor based Dependency Injection
+Setter based Dependency Injection
+Field or Property-based Dependency Injection
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Python</type>
+    <question>
+How lists (data structure) work in python.
+    </question>
+    <answer>
+In Python, lists are dynamic arrays that can store elements of different types. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is the fastest Big O equation?
+    </question>
+    <answer>
+The fastest Big O notation in terms of algorithm complexity is O(1), also known as constant time complexity. It means the execution time or space used by the algorithm does not change with the size of the input data set.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Can you explain the difference between RESTful and SOAP web services?
+    </question>
+    <answer>
+__Design Philosophy__: REST is an architectural style that uses standard web protocols and patterns, while SOAP is a protocol with stricter standards and rules.
+__Data Format__: RESTful services can use various data formats (JSON, XML, etc.), but SOAP exclusively uses XML.
+__Performance:__ RESTful services generally offer better performance and scalability, partly due to the lighter weight of JSON and the stateless nature of REST.
+__Flexibility vs. Standardization__: REST provides more flexibility in how data is returned, while SOAP provides strict standards through WSDL, making it more suitable for scenarios where clear contracts between service and client are required.
+__Security__: SOAP has a more comprehensive standard for security, making it suitable for enterprise-level applications that demand rigorous security measures.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Describe your experience working with APIs and integrating them into existing systems.
+    </question>
+    <answer>
+⏵ Understanding API Specifications. (top-down vs bottom-up)
+⏵ Authentication and Authorization
+⏵ Environment Setup
+⏵ Integration Logic Design 
+⏵ Error Handling and Logging
+⏵ Performance Considerations
+⏵ Testing and Validation
+⏵ Documentation and Training
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Client</type>
+    <question>
+RestTemplate vs WebClient
+    </question>
+    <answer>
+⏵ RestTemplate uses the Java Servlet API, which is based on the thread-per-request model.
+⏵ WebClient uses an asynchronous, non-blocking solution provided by the Spring Reactive framework.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>REST</type>
+    <question>
+What are the HTTP RESTful response code?
+    </question>
+    <answer>
+⏵ 200 __OK__: Request succeeded; the response depends on the HTTP method used.
+⏵ 201 __Created__: The request succeeded, and a new resource was created.
+⏵ 202 __Accepted__: The request has been accepted for processing, but the processing has not been completed. 
+⏵ 204 __No Content__: The request was processed successfully, but no content is returned.
+⏵ 301 __Moved Permanently: The resource has been moved to a new URL permanently.
+⏵ 302 __Found__: The resource is temporarily under a different URL.
+⏵ 304 __Not Modified__: Indicates the cached version of the requested resource is still valid.
+⏵ 400 __Bad Request__: The server could not understand the request due to invalid syntax.
+⏵ 401 __Unauthorized__: Authentication is required and has failed or not been provided.
+⏵ 403 __Forbidden__: The server understands the request but refuses to authorize it.
+⏵ 404 __Not Found__: The server cannot find the requested resource.
+⏵ 405 __Method Not Allowed__: This response is sent when the HTTP method used in the request is known by the server but has been disabled and cannot be used for the target resource. For example, trying to use a POST request on a read-only resource.
+⏵ 406 __Not Acceptable__: This status code is returned when the server cannot produce a response matching the list of acceptable values defined in the request's headers, specifically in Accept headers. This happens when the server cannot return data in a format that the client can process.
+⏵ 409 __Conflict__: The request conflicts with the current state of the server.
+⏵ 500 __Internal Server Error__: The server encountered an unexpected condition.
+⏵ 501 __Not Implemented__: The server does not support the functionality required to fulfill the request.
+⏵ 502 __Bad Gateway__: This indicates that the server, while acting as a gateway or proxy, received an invalid response from an upstream server it accessed in attempting to fulfill the request.
+⏵ 503 __Service Unavailable__: The server is not ready to handle the request, often due to maintenance or overload.
+⏵ 504 __Gateway Timeout__: Similar to 502, but this status code indicates that the server, acting as a gateway or proxy, did not receive a timely response from the upstream server or some other auxiliary server it needed to access in order to complete the request.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>REST</type>
+    <question>
+What are the differences between REST and GraphQL?
+    </question>
+    <answer>
+One of the most common limitations of REST out-of-the-box is that of overfetching and underfetching. Get the particular attributes only from the resources based on the query language.
+⏵ Structure: REST APIs have a fixed structure, with a fixed set of endpoints for each resource. GraphQL APIs, on the other hand, have a flexible structure that allows the client to request exactly the data it needs, and nothing more.
+⏵ Overfetching and underfetching: With REST APIs, it is common for the client to either receive more data than it needs (overfetching), or to have to make multiple requests to get all of the data it needs (underfetching). With GraphQL, the client can request exactly the data it needs in a single request, reducing the amount of data transferred and the number of round trips needed.
+⏵ Versioning: When making changes to a REST API, new endpoints or changes to existing endpoints must be introduced in a new version. This can cause issues for clients that depend on the old version of the API. With GraphQL, the API can be evolved over time without breaking existing clients, as long as the underlying data structures remain unchanged.
+⏵ Security: REST APIs often use a combination of HTTP verbs (such as GET, POST, PUT, DELETE) and access control mechanisms (such as API keys or JWT tokens) to control access to resources. GraphQL APIs typically use a single endpoint and use JSON objects to specify the data being queried or modified, and can use the same types of access control mechanisms as REST APIs.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>REST</type>
+    <question>
+What response code should be returned during duplicate requests in POST and PUT?
+    </question>
+    <answer>
+If server just point the duplicate, look at 4xx:
+400 Bad Request - when the server will not process a request because it's obvious client fault.
+401 Unauthorized - missing or bad authentication
+403 Forbidden - when the user is authenticated but isn’t authorized to perform the requested operation on the given resource
+408 Request Timeout
+409 Conflict - if the server will not process a request, but the reason for that is not the client's fault.
+422 Unprocessable Entity - The client should not repeat this request without modification.
+
+For implicit handling of duplicates, look at 2XX:
+200 OK , 201 Created
+
+If the server is expected to return something, look at 3XX:
+302 Found , 303 See Other
+
+Server side error
+500 Internal Server Error , 504 Gateway Timeout
+
+If the client makes a duplicate request (i.e., a request that would create a resource that already exists or update a resource that has not changed), the server should generally return a response with a status code of 409 Conflict. This status code indicates that the request could not be completed due to a conflict with the current state of the resource.
+
+It is also possible for the server to return a 200 OK or 204 No Content response for a duplicate request, depending on the specific implementation and requirements of the API. In these cases, the server may choose to simply ignore the duplicate request and return a success response, rather than returning a 409 Conflict response.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>REST</type>
+    <question>
+how to prevent duplicate request in api microservices
+    </question>
+    <answer>
+⏵ unique ID validation
+⏵ request queue
+⏵ concurrency control
+⏵ transaction locking mechanism
+
+⏵ Use an idempotent design: An idempotent design means that the same request can be made multiple times without changing the result. This can be achieved by using HTTP verbs that are inherently idempotent (such as GET and DELETE) for read-only operations, and using HTTP verbs that are intended for resource modification (such as POST and PUT) in a way that does not allow them to be repeated.
+⏵ Implement a deduplication system: A deduplication system can be used to detect and eliminate duplicate requests before they reach the backend services. This can be done using a variety of approaches, such as adding a unique identifier to each request and storing it in a cache or database, or using a message queue or event streaming platform that supports deduplication.
+⏵ Use a retry policy: A retry policy can be used to automatically retry failed requests in the event of temporary failures or network errors. This can help to reduce the risk of duplicate requests being made, as the client will not need to resend the request if it is retried by the server.
+⏵ Use a locking mechanism: A locking mechanism can be used to ensure that only a single instance of a request is being processed at any given time. This can be done using a variety of approaches, such as using database transactions or distributed locks, or using a message queue or event streaming platform that supports message deduplication.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Gateway</type>
+    <question>
+What is the difference between API gateway and API mesh?
+    </question>
+    <answer>
+https://dzone.com/articles/api-gateway-vs-service-mesh
+https://blog.apilayer.com/service-mesh-vs-api-gateway/
+
+API gateways manage requests that originate externally, such as a request by an application user to view a certain page. 
+In contrast, service meshes handle the internal requests that microservices make to other microservices within an application. 
+In technical terms, API gateways supervise client-to-server communication, while service mesh deals with service-to-service communication.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Comparison</type>
+    <question>
+Microservices Architecture vs Monolithic Applications
+    </question>
+    <answer>
+Microservices Architecture Advantages Over Monolithic Applications:
+⏵ Scalability: Services can be scaled independently, allowing more efficient use of resources.
+⏵ Flexibility in Technology: Each microservice can use a technology stack best suited for its requirements.
+⏵ Faster Deployment: Smaller, independent services can be deployed faster than a large monolithic application.
+⏵ Resilience: Failure in one service doesn’t necessarily bring down the whole system.
+⏵ Easier Maintenance: Smaller codebases are easier to understand and maintain.
+⏵ Development Agility: Teams can work independently on different services, improving development speed.
+⏵ Better Scalability: Allows precise scaling of features that need more resources, without affecting the whole application.
+⏵ Continuous Deployment: Enables continuous deployment and integration practices, allowing regular updates without downtime.
+
+Monolithic Architecture Advantages Over Microservices Applications:
+⏵ Simplified Development Process: Easier to develop and test since all components are within a single codebase.
+⏵ Simplified Deployment: Deployment involves just one application, simplifying the process.
+⏵ Ease of Debugging and Monitoring: Easier to debug and monitor a single application than multiple services spread out.
+⏵ Consistent Development Environment: A single technology stack is used, making it easier for new developers to get up to speed.
+⏵ Transactional Integrity: Easier to implement transactions that span multiple modules or components.
+⏵ Lower Initial Cost: Initial setup and development costs can be lower without the overhead of managing multiple services and databases.
+⏵ Simplicity in Scaling: Scaling involves scaling a single application, which can be straightforward with the right infrastructure.
+⏵ Less Overhead: No need to manage inter-service communication, which can add complexity and latency.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

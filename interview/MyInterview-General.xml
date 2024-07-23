@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Question</type>
+    <question>
+More Technical Questions
+    </question>
+    <answer>
+⏵ Given two linked list, return a list that contains all elements that are in the intersection of both.
+⏵ What tools do you use for version control and collaboration on code projects?
+⏵ What are some best practices for ensuring data security in a software solution?
+⏵ Can you explain the difference between RESTful and SOAP web services?
+⏵ How do you ensure that your solutions are scalable and maintainable?
+⏵ Can you explain the concept of continuous integration and continuous deployment (CI/CD)?
+⏵ How do you approach testing and quality assurance for the solutions you develop?
+⏵ Can you explain the concept of serverless computing and its benefits?
+⏵ Have you ever had to deal with a security breach or vulnerability in a system you were responsible for? If so, how did you handle it?
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Question</type>
+    <question>
+More Behaviour Questions
+    </question>
+    <answer>
+⏵ Can you share an experience when you could not achieve your goals on a project?
+⏵ Have you ever led a team through a complicated situation? 
+⏵ What would your first three months in the position look like if we hire you?
+⏵ What project have you successfully executed and are proudest about finishing?
+⏵ Tell us about a time when you failed to achieve a goal or desired result.
+⏵ Tell me about a time you created something from nothing.
+⏵ Describe a time when you had to tell a customer "no".
+⏵ Have you ever had to troubleshoot an issue in a production environment? If so, how did you handle it?
+⏵ What is the most complex technical problem you have solved for a client? How did you approach it?
+⏵ Can you provide an example of when you had to learn a new technology quickly to solve a customer’s problem?
+⏵ Describe your experience with cloud platforms like AWS, Azure, or Google Cloud Platform.
+⏵ How do you stay up-to-date with the latest trends and advancements in technology?
+⏵ Describe a situation where you had to work closely with non-technical stakeholders to deliver a technical solution.
+⏵ What is your process for creating clear and concise documentation for both technical and non-technical users?
+⏵ How do you prioritize tasks when working on multiple projects simultaneously?
+⏵ Describe a time when you had to adapt a solution due to changing requirements or constraints.
+⏵ How do you handle situations where a client may not be satisfied with the technical solution you have provided?
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Introduction</type>
+    <question>
+Tips
+    </question>
+    <answer>
+TSE #1 - Troubleshooting and Coding:
+⏵ Focus on your strong analytical and troubleshooting skills, your proficiency in coding, and your experience in developing and debugging complex systems. 
+⏵ Mention any significant projects where you've successfully identified and resolved issues.
+
+TSE #2 - Technical and Customer Aptitude:
+⏵ Emphasize your technical knowledge, especially relating to Google Cloud Platform (GCP) and other relevant technologies. 
+⏵ Highlight your customer service philosophy, experience in providing technical support, and any instances where you've gone above and beyond to help customers or improve a product based on feedback.
+
+TSE #3 - System Design and General Cognitive Assessment:
+⏵ Share your experience with system architecture and design, focusing on projects where you've designed scalable and efficient systems. 
+⏵ Mention how you approach problem-solving, your ability to think critically and creatively, and your eagerness to tackle complex challenges that drive innovation.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Introduction</type>
+    <question>
+Example Introduction for TSE #1 - Troubleshooting and Coding
+    </question>
+    <answer>
+Hello, I am ____.
+
+I've been working in IT development for over 20 years, mainly with banking and finance sector. 
+
+Currrently, I work at Tata Consultancy Services as a Solution Architect role. They have assigned me to two projects.
+
+The 1st project is the Loan Origination migration in Westpac. 
+I helped the team to study a new vendor product, complete the proof of concept and create the framework for their integration development.
+The project gave me a chance to learn a new architecture requirement and design the ways on using the vendor product in the Loan Origination.
+The primary language used in the project was Java, and the vendor product is Lightbend Kalix.
+
+After one year in Westpac project, the contract finished. 
+TCS assigned me to a RamsayHealth project for their intergration and API management development on Cloud platforms.
+During this time, I've learnt to develop application on Cloud.
+The primary language used in the project was JavaScript, and the cloud platforms are GCP and AWS.
+I learnt to use Anthos, APIGEE, Kubernetes to build up a multicloud platforms for RamsayHealth.
+
+Before TCS employment, I was in HSBC as a technical lead in API and Integration domain for over 10 years. 
+The last rile was to lead the team in China and India for the Core Engineering Platform for mircoservices development.
+I was so grateful to work in such a global company so that 
+I could meet different people in different business domain around the world 
+as well as involve in many challenging entreprise projects, covering from backend, to middleware, frontend, and DevOps implementation.
+
+I'm excited to take this interview opportunity, 
+because I'm looking forward to using what I know about technology and problem-solving to help Google create new and better services for people around the world.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Introduction</type>
+    <question>
+Example Introduction for TSE #2 - Technical and Customer aptitude
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Introduction</type>
+    <question>
+Example Introduction for TSE #3 - System Design and General Cognitive assessment
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Keyword</type>
+    <question>
+Noun
+    </question>
+    <answer>
+⏵ Effort, Factor
+⏵ Time, Cost, Scope
+⏵ Peer, Colleague, Teammate
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Keyword</type>
+    <question>
+Verb
+    </question>
+    <answer>
+⏵ Prepare, Construct, Develop
+⏵ Collaborate, Coordinate, Manage, Coach, Lead, Drive
+⏵ Suggest, Recommend
+⏵ Publish, Subscribe
+⏵ Schedule / Hold a meeting
+⏵ Escalate to _____
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Keyword</type>
+    <question>
+Adjective
+    </question>
+    <answer>
+⏵ Loose Coupled, Tightly Coupled, Internal, External
+⏵ Advantage, Disadvantage, Benefit, Drawback
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Example</type>
+    <question>
+Key Sentences to Introduce Yourself at a Job Interview in English
+    </question>
+    <answer>
+⏵ Good morning/afternoon. My name is ______ and I want to thank you for this opportunity.
+⏵ Hello! My name is _______ and it’s a pleasure for me to be here.
+⏵ Good morning/afternoon. I’m _______ and I want to thank you for taking me into consideration for this position.
+⏵ Hello! My name is _______ and I’m glad you called me because I really want to work for this company.
+⏵ Hi! My name is ________ and I’m here because I think I have the profile you’re looking for.
+⏵ Hello! My name is _______ and first of all I want to congratulate you for making this company capable of offering a top quality service!
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Example</type>
+    <question>
+Asking Someone to Repeat a Question
+    </question>
+    <answer>
+⏵ I’m sorry. Would you please repeat the question?
+⏵ Excuse me, I didn’t hear you. Can you please say that again?
+⏵ Would you please say that again?
+⏵ Could you please repeat the question and speak a little bit harder?
+⏵ Sorry, I didn’t understand you. Could you please say that again?
+⏵ I’m sorry, I didn’t hear the last part. Can you repeat it, please?
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Example</type>
+    <question>
+Emphasizing Your Strengths
+    </question>
+    <answer>
+⏵ I think I’m the right choice for this job because I know how to…
+⏵ My (mention a set of skills relevant for the job) will allow me to do this easily.
+⏵ I’m very good at ________ and that’s why I think I’ll be able to handle this position. (Fill the blank space with the one you consider is your best strength.)
+⏵ I’d love to work here because I _______.
+⏵ I think my ________, my _________ and my __________ make me perfect for this job.
+⏵ I can say my top 3 skills are: ________, _________ and _________.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Example</type>
+    <question>
+Thanking the Interviewer at the End of the Interview in English
+    </question>
+    <answer>
+⏵ Thank you very much for your time. I’ll be waiting for your call!
+⏵ I want you to know that I’m very thankful for this.
+⏵ Before I leave I want to thank you for the opportunity. I hope we see each other again soon!
+⏵ I wanted to thank you before I leave. I hope I have the profile you’re looking for.
+⏵ It was a pleasure meeting you and then again I want to thank you for having me here!
+⏵ I want to thank you one last time and I’ll be expecting your call!
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Example</type>
+    <question>
+Some other sentences for a job interview in English 
+    </question>
+    <answer>
+⏵ I’ve been looking for this position for a long time.
+⏵ I love the idea of working here because I enjoy _______.
+⏵ This is what I always wanted to do and I know I can do it very well.
+⏵ I’m glad I was recommended by _______ for this position!
+⏵ I’m glad I saw this job post because I’m very excited about the idea of working for this company.
+⏵ You can expect nothing but proficiency and excellent results if you hire me.
+    </answer>
+  </entry>
+  <!-- ++⏵ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

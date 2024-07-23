@@ -1,0 +1,153 @@
+html {
+  font-size: 10px;
+}
+table.table-striped th {
+  padding: 2px 5px 2px 5px;
+  text-align: left;
+  white-space: pre-wrap; 
+  font-size: 12px;
+  color: grey;
+}
+table.table-striped td {
+  margin: 2px 2px 2px 2px;
+  padding: 2px 5px 2px 5px;
+  text-align: left;
+  white-space: pre-wrap; 
+  font-size: 16px;
+}
+#resultTable {
+  margin: 0px 0px 0px 0px;
+}
+#banner {
+  padding: 20px 20px 20px 20px;
+}
+#menu {
+  padding: 2px 2px 2px 2px;
+}
+#query {
+  padding: 0px 2px 0px 2px;
+  display: flex;
+}
+.btn-home {
+  border: 2px solid #2A3B4C;
+  color: #fff; /* White text for high contrast */
+  background-color: #dc3545; /* Red background */
+  border-color: #dc3545; /* Red border matching the background */
+  font-size: 12px;
+  cursor: pointer;
+  padding: 1px 24px;
+}
+.btn-home:hover {
+  color: #fff; /* White text on hover */
+  background-color: #c82333; /* Slightly darker red on hover */
+  border-color: #bd2130; /* Darker red border on hover */
+}
+.btn-home:focus, .btn-home.focus {
+  color: #fff; /* White text on focus */
+  background-color: #c82333; /* Slightly darker red on focus */
+  border-color: #bd2130; /* Darker red border on focus */
+  box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.5); /* Red glow for focus */
+}
+.btn-home.disabled, .btn-home:disabled {
+  background-color: #dc3545; /* Red background */
+  border-color: #dc3545; /* Red border */
+  opacity: 0.65; /* Button appears faded when disabled */
+}
+.btn-clear {
+  border: 2px solid #2A3B4C;
+  color: #212529; /* Dark text for contrast */
+  background-color: #ffc107; /* Yellow background */
+  border-color: #ffc107; /* Yellow border */
+  font-size: 12px;
+  cursor: pointer;
+  padding: 1px 24px;
+}
+.btn-clear:hover {
+  color: #212529; /* Dark text on hover */
+  background-color: #e0a800; /* Slightly darker yellow on hover */
+  border-color: #d39e00; /* Border color slightly darkens on hover */
+}
+.btn-clear:focus, .btn-clear.focus {
+  color: #212529; /* Dark text on focus */
+  background-color: #e0a800; /* Slightly darker yellow on focus */
+  border-color: #d39e00; /* Border color slightly darkens on focus */
+  box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.5); /* Focus shadow */
+}
+.btn-clear.disabled, .btn-clear:disabled {
+  background-color: #ffc107; /* Yellow background */
+  border-color: #ffc107; /* Yellow border */
+  opacity: 0.65; /* Button appears faded */
+}
+.btn-type {
+  border: 2px solid #2A3B4C;
+  color: #fff; /* White text for high contrast */
+  background-color: #28a745; /* Green background */
+  border-color: #28a745; /* Green border matching the background */
+  font-size: 12px;
+  cursor: pointer;
+  padding: 6px 12px;
+  margin: 1px 0px 1px 0px;
+}
+.btn-type:hover {
+  color: #fff; /* White text on hover */
+  background-color: #218838; /* Slightly darker green on hover */
+  border-color: #1e7e34; /* Darker green border on hover */
+}
+.btn-type:focus, .btn-type.focus {
+  color: #fff; /* White text on focus */
+  background-color: #218838; /* Slightly darker green on focus */
+  border-color: #1e7e34; /* Darker green border on focus */
+  box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5); /* Green glow for focus */
+}
+.btn-type.disabled, .btn-type:disabled {
+  background-color: #28a745; /* Green background */
+  border-color: #28a745; /* Green border */
+  opacity: 0.65; /* Button appears faded when disabled */
+}
+.status-box {
+  display: inline-block;
+  padding: 0.25em 0.6em;
+  font-size: 0.875em;
+  font-weight: bold;
+  line-height: 1;
+  color: #ffffff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 5px;
+}
+/* Specific styles for "Active" status */
+.status-box.active {
+  background-color: #0062cc; /* Green */
+}
+/* Specific styles for "Inactive" status */
+.status-box.inactive {
+  background-color: #F44336; /* Red */
+}
+.text-input {
+  padding: 0.375rem 0.75rem;
+  margin: 0px 0px 0px 0px;
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.loading-banner {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.7);
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 20px;
+  display: none; /* Initially hidden */
+}

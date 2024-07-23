@@ -1,0 +1,123 @@
+html {
+  font-size: 10px;
+}
+#imageDisplay {
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  display: flex; /* Use flexbox for image container */
+  flex-wrap: wrap; /* Allow images to wrap if multiple */
+  justify-content: center; /* Center-align images horizontally */
+  width: 100%; /* Full width to accommodate all sizes */
+  margin: 0px 0px 0px 0px;
+  align-items: center; /* Center-align items horizontally */
+}
+img {
+  max-width: 1200px; /* Set maximum width of images */
+  width: 100%; /* Make images responsive */
+  height: auto; /* Maintain aspect ratio */
+  margin: 10px;
+  border: 1px solid #ccc; /* Optional: adds a light border around images */
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1); /* Optional: adds a subtle shadow for better aesthetics */
+}
+table.table-striped th {
+  padding: 2px 5px 2px 5px;
+  text-align: left;
+  white-space: pre-wrap; 
+  font-size: 12px;
+  color: grey;
+}
+table.table-striped td {
+  margin: 2px 2px 2px 2px;
+  padding: 2px 5px 2px 5px;
+  text-align: left;
+  white-space: pre-wrap; 
+  font-size: 16px;
+}
+#frozenSector {
+  padding: 0px 0px 0px 0px;
+  position: fixed;    /* Keeps the menu bar fixed at the top of the viewport */
+  width: 100%;        /* Makes the menu bar extend across the full width of the viewport */
+  z-index: 1000;      /* Ensures the menu bar stays on top of other content */
+}
+#banner {
+  padding: 5px 10px 5px 10px;
+}
+#menu {
+  padding: 2px 2px 2px 2px;
+}
+#query {
+  padding: 0px 0px 0px 0px;
+  display: flex;
+}
+.sub-banner {
+  background-color: grey; /* Set the background color to yellow */
+  color: white;
+  width: 100%; /* Ensure it spans the full width */
+  padding: 1px 10px 1px 10px;
+  box-sizing: border-box; /* Include padding in width calculation */
+  margin: 0px; /* Add vertical space around paragraphs */
+}
+.text-input {
+  padding: 0.375rem 0.75rem;
+  margin: 0px 0px 0px 0px;
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.btn-clear {
+  border: 2px solid #2A3B4C;
+  color: #ffffff; /* Dark text for contrast */
+  background-color: #ffc107; /* Yellow background */
+  border-color: #ffc107; /* Yellow border */
+  font-weight: bold;
+  font-size: 12px;
+  cursor: pointer;
+  padding: 1px 24px;
+}
+.btn-clear:hover {
+  color: #ffffff; /* Dark text on hover */
+  background-color: #e0a800; /* Slightly darker yellow on hover */
+  border-color: #d39e00; /* Border color slightly darkens on hover */
+}
+.btn-clear.disabled, .btn-clear:disabled {
+  background-color: #ffc107; /* Yellow background */
+  border-color: #ffc107; /* Yellow border */
+  opacity: 0.65; /* Button appears faded */
+}
+.select-red {
+  border: 2px solid #2A3B4C;
+  color: #ffffff; /* Dark text for contrast */
+  background-color: #ff6347; /* Tomato red background */
+  border-color: #ff6347; /* Tomato red border */
+  font-weight: bold; /* Makes the text bold */
+  font-size: 12px;
+  cursor: pointer;
+  padding: 5px 24px; /* Adjust padding as needed for dropdown */
+  appearance: none; /* Remove default system dropdown arrow */
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  position: relative; /* For custom arrow positioning */
+}
+.select-red:hover {
+  color: #ffffff; /* Dark text on hover */
+  background-color: #e05241; /* Slightly darker red on hover */
+  border-color: #cc4736; /* Border color slightly darkens on hover */
+}
+.select-red:disabled {
+  background-color: #ff6347; /* Tomato red background */
+  border-color: #ff6347; /* Tomato red border */
+  opacity: 0.65; /* Dropdown appears faded */
+}
+@media (max-width: 768px) {
+  .select-red {
+    max-width: 100px; /* Set the maximum width as needed */
+  }
+}

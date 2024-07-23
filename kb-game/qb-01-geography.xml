@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bank>
+  <topic>GAME001 - Geography</topic>
+  <entry>
+    <question>Which one is the captial city of United State of America?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Washington</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Beijing</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Tokyo</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>London</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which one is the captial city of China?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Guangzhou</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Beijing</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Hong Kong</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Shanghai</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which country is known as the Land of the Rising Sun?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Japan</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>China</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Korea</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Vietnam</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>What is the capital of France?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>London</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Rome</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Paris</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Madrid</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which river is the longest in the world?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Nile</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Amazon</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Yangtze</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Mississippi</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which country is the largest by land area?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Russia</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Canada</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>China</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>United States</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which desert is the largest in the world?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Sahara</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Gobi</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Antarctic</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Arabian</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>What is the smallest country in the world by land area?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Monaco</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Nauru</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Vatican City</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Maldives</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>What is the highest mountain in Africa?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Mt. Kenya</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Mt. Everest</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Mt. Kilimanjaro</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Mt. Aconcagua</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which ocean is the largest by surface area?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Pacific Ocean</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Atlantic Ocean</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Indian Ocean</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Arctic Ocean</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which river flows through the Grand Canyon?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Nile River</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Amazon River</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Colorado River</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Mekong River</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which country is the largest by population in 2020?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>India</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>United States</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Indonesia</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>China</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which desert is the largest in Asia?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Gobi</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Karakum</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Arabian</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Thar</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which city is known as the "City of Seven Hills"?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>San Francisco</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Rome</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Rome</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Lisbon</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>What is the largest lake in Africa by surface area?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Lake Tanganyika</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Lake Turkana</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Lake Malawi</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Lake Victoria</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>What is the largest island in the Mediterranean Sea?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Sicily</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cyprus</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Corsica</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Sardinia</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which island nation is known as the "Land of the Long White Cloud"?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Madagascar</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>New Zealand</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Japan</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Philippines</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which mountain range separates Europe and Asia?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Rocky Mountains</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Ural Mountains</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Andes Mountains</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Himalayas</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which African country is known as the "Pearl of Africa"?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Ghana</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Nigeria</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Uganda</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Kenya</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which one is the city of United Kingdom? (Choose 3 answers)</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Cambridge</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Paris</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Osaka</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Palembang</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>London</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Oxford</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which of these rivers flow through South America? (Choose 3 answers)</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Amazon River</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Orinoco River</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Nile River</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Parana River</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Thames River</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which of these African countries are landlocked? (Choose 2 answers)</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Niger</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Nigeria</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Angola</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Zimbabwe</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Ghana</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which of the following are islands in the Caribbean Sea? (Choose 3 answers)</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Jamaica</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Bahamas</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Cuba</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Barbados</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Costa Rica</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which cities are located on the island of New Zealand? (Choose 2 answers)</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Auckland</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Melbourne</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Perth</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Sydney</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Wellington</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <entry>
+    <question>Which countries are part of the Scandinavian Peninsula? (Choose 2 answers)</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Norway</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Germany</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Sweden</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Denmark</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Spain</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  <!--
+  STRUCTURE DEFINITION:
+  <entry>
+    <question>XXX</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>XXX</detail>
+        </option>
+      </options>
+    </answer>
+  </entry>
+  -->
+</bank>

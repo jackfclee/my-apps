@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank>
+  <topic>PCA01 - Brain Dump</topic>
+  <!-- STRUCTURE DEFINITION:
+  <entry>
+    <question>XXX</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>XXX</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  -->
+  <entry>
+    <question>You are designing a cloud solution for a financial services company that requires strict compliance with data security regulations. Your application needs to handle sensitive customer data, and you must ensure all data at rest and in transit is appropriately encrypted. Which of the following approaches best aligns with security and compliance standards for managing encryption keys and secrets?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Use Cloud Key Management Service (KMS) to manage encryption keys and Cloud Identity-Aware Proxy (IAP) to handle access to those keys.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Embed encryption keys directly into application code to ensure they are readily available for use in encryption and decryption processes.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Utilize self-managed encryption keys stored on-premises, and use VPN connections to access these keys from cloud services as needed.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Store encryption keys in a regular cloud storage bucket and manage access using IAM roles.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your company is running several related applications on Compute Engine virtual machine instances and wants to expose each application through a DNS name. With Google's best practices in mind, what should you recommend to them?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>They should use Compute Engine's internal DNS service to assign DNS names to virtual machines and make them available to users.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should assign an alias IP address range to each virtual machine, and then make the internal DNS names public.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>They should use Cloud DNS to translate their domain names into IP addresses.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should assign Google Cloud routes to their virtual machines, assign DNS names to routes, and make the DNS names public.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>A healthcare company collects Personally Identifiable Information (PII) and they want to run a highly secure environment in Google Cloud. They want to use virtual machines to run workloads. What should you advise them?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>They should use Managed Instance Group.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should use Preemptible VMs.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should use Cloud Functions.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>They should use Shielded VMs that only runs digitally verified boot components.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your team needs to create development, test and production environments for project in Google Cloud. As a cloud architect, you need to effectively implement and manage these environments and ensure their consistency. With Google's best practices in mind, what should you do?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should create a Terraform configuration for each environment. Use them for repeated deployment.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should create a Cloud Shell script that uses gcloud commands to deploy the environments.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should create a single Terraform configuration for all environments.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should use the Cloud Foundation Toolkit to create a single deployment template that will work for all environments, and deploy with Terraform.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you are responsible for implementing a new application using a microservices architecture. You would like to run each microservice in containers. In addition, you want to minimize DevOps overhead and benefit from autoscaling. What should you recommend?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>You should run the containers in Kubernetes Engine.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should run the containers in Unmanaged Instance Group.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should use App Engine for this.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should run the containers in Managed Instance Group.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Anonymous users from all over the world access a public information website hosted in an on-premises data center. The servers that host this website are older, and users are complaining about slow response times. There has also been an increase in distributed denial-of-service attacks targeting a website in recent times. Attacks always come from the same IP address ranges. The management has identified the public information website as an easy, low risk application to migrate to Google Cloud. You need to improve access latency and provide a security solution that will prevent the denial-of-service traffic from entering your Virtual Private Cloud (VPC) network. What should you do?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should containerize the application and move it into Google Kubernetes Engine (GKE). Create an internal load balancer to expose the pods outside the cluster, and configure Identity-Aware Proxy (IAP) for access.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should containerize the application and move it into Google Kubernetes Engine (GKE). Create a GKE service to expose the pods within the cluster, and set up a GKE network policy.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should deploy an external HTTP(S) load balancer, configure VPC firewall rules, and move the applications onto Compute Engine virtual machines.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should deploy an external HTTP(S) load balancer, configure Google Cloud Armor, and move the application onto Compute Engine virtual machines.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You are the cloud architect for a multinational corporation which has decided to migrate its on-premises data warehouse to Google Cloud. The data warehouse needs to handle several petabytes of data, with frequent, unpredictable spikes in query activity. What approach should you recommend for scalable data warehouse solution on GCP?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Use Bigtable for data storage, with analysis using Data Studio.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud SQL for data storage, with Dataflow for analysis.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud Storage for data storage, with scheduled queries running in Dataflow.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use BigQuery for both data storage and analysis.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your company has a hybrid cloud computing model and your current network connection is using 50% of bandwidth. As a cloud architect, you are concerned that you only have one connection that you might lose in the event of a failure. What would you do to minimize this risk?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>You should use redundant network connections between the on-premises data center and GCP.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should increase the number of virtual machines for your workload.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should increase the performance of virtual machine disks.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should increase the bandwidth of your current network connection.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your organization is deploying a data-intensive application on GCP. The application requires 50 TB of storage for data that will be infrequently accessed - once per quarter. The data must be available for immediate access when needed, but cost optimization is a key requirement. Which storage class should you use?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Standard Storage Class for Cloud Storage.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Coldline Storage Class for Cloud Storage</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Archive Storage Class for Cloud Storage</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Nearline Storage Class for Cloud Storage.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>An e-commerce company runs all workload in the on-premises data center. In case the on-premises data center is not available, they want to use Google Cloud as a disaster recovery infrastructure. As a cloud architect, what network topology should you use in this case?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Gated ingress and egress topology</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Mirrored topology</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Handover topology</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Meshed topology</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Following your company's acquisition of another company, you have been assigned the task of integrating their existing Google Cloud environment with your company's data center. Upon examination, you uncover that certain RFC 1918 IP address ranges employed in the new company's Virtual Private Cloud (VPC) conflict with the IP address space utilized in your data center. What steps should you take to establish connectivity and prevent any routing conflicts once the connectivity is established?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Create a Cloud VPN connection from the new VPC to the data center, and apply a firewall rule that blocks the overlapping IP space.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Create a Cloud VPN connection from the new VPC to the data center, create a Cloud Router, and apply a custom route advertisement to block the overlapping IP space.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Create a Cloud VPN connection from the new VPC to the data center, and create a Cloud NAT instance to perform NAT on the overlapping IP space.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Create a Cloud VPN connection from the new VPC to the data center, create a Cloud Router, and apply new IP addresses so there is no overlapping IP space.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>A data science team wants to analyze very large data sets and prepares them for a machine learning model. As a cloud architect, which service should you recommend to use for interactive queries and online analytics?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Bigtable</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Spanner</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>BigQuery</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Datastore</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, it is your duty to oversee the expansion of a web application from North America to Europe. This web application collects Personally Identifiable Information (PII). What regulations must you bear in mind when entering the European market?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>SOX - Sarbanes-Oxley Act</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>GDPR - General Data Protection Regulation</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>HIPAA - Health Insurance Portability & Accountability Act</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>PCI DSS - Payment Card Industry Data Security Standard</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Refer to the EHR Healthcare case study for this question: https://services.google.com/fh/files/blogs/master_case_study_ehr_healthcare.pdf
+EHR is interested in establishing a connection between one of its data centers and Google Cloud. However, the data center is situated in a remote location that is over 100 kilometers away from a Google-owned point of presence (POP). Budget constraints prevent them from acquiring new hardware, but  an existing firewall can accommodate future throughput growth. Additionally, they provided the following information:
+- communication is required between servers in their on-premises data center and Google Kubernetes Engine (GKE) resources in the cloud
+- both on-premises servers and cloud resource are set up with private RFC 1918 IP addresses
+- the service provider has notified the customer that basic internet connectivity is provided as a best-effort service and does not come with any service level agreement (SLA)
+In your role as a cloud architect, what connectivity option would you recommend?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Provision a Partner Interconnect connection.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Provision Carrier Peering.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Provision a Dedicated Interconnect connection.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Provision a new Internet connection.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you need to establish a connection between two Virtual Private Cloud networks that uses private IP address space. Traffic stays within Google's network and doesn't traverse the public internet. Which option should you choose?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Custom subnets</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>VPC Network Peering</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Firewall rules</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud VPN</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Interconnect</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>An online marketing company has several critical applications running on its private data center. They want to use Compute Engine to handle traffic bursts and communicate via their internal IP addresses. What should you advise them?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>They should create a new GCP project and a new VPC and make this a shared VPC with the private network. Then, allow applications in the data center to scale to Google Cloud on the shared VPC.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should create a new VPC in GCP with an overlapping IP range and configure Cloud VPN between the private network and GCP.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should migrate all applications from private data center to the Google Cloud.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>They should allow applications in the data center to scale to Google Cloud through the VPN tunnel.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>A machine learning team needs to use a Kubernetes Engine cluster with specific GPUs to process long running jobs that cannot be restarted. In this case, how do you recommend configuring the Kubernetes Engine cluster?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>They should deploy the workload on a node pool with non-preemptible compute engine instances and GPUs attached. Enable cluster autoscaling and set min-nodes to 1.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should enable Kubernetes Engine cluster node auto-provisioning.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should enable Vertical Pod autoscaling.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should deploy the workload on a node pool with preemptible compute engine instances and GPUs attached.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you have the following three options for deploying MySQL database:
+1. Use Cloud SQL.
+2. Use Cloud Marketplace with click-to-deploy interface to install MySQL onto a Compute Engine instance.
+3. Manually install and customize MySQL on your Compute Engine instance.
+You want to minimize administrative duties as much as possible. Which option should you use?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>1</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>2</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>3</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>All options have the same administrative duties.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Consider a scenario where a large online retailer needs to implement a highly available and scalable NoSQL solution for its e-commerce platform. The solution must handle large amounts of traffic during peak periods, provide fast and reliable performance, and ensure the security of customer data. What is the most appropriate solution for the large online retailer to implement a highly available and scalable solution for its e-commerce platform while handling large amounts of traffic during peak periods, providing fast and reliable performance, and ensuring the security of customer data?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Use Compute Engine VM single instance for the e-commerce platform and use Cloud SQL for storage.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Compute Engine with autoscaling and load balancing for the e-commerce platform and use Cloud SQL for storage.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use App Engine for the e-commerce platform with a single instance and use Cloud Storage for storage.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Google Kubernetes Engine for the e-commerce platform with autoscaling and use Cloud Firestore for storage.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your organization stores sensitive customer data in Cloud Storage. You have been asked to design a solution that both prevents unauthorized data access and ensures regulatory compliance. Which of the following approaches would be the most appropriate?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Implement Cloud Identity-Aware Proxy (IAP) to control access to Cloud Storage.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud Audit Logs to monitor access to Cloud Storage.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Encrypt data using customer-managed encryption keys (CMEK) and enforce fine-grained access control with Identity and Access Management (IAM).</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use VPC Service Controls to isolate Cloud Storage.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+    <entry>
+    <question>One of your web application is becoming widely used. The frontend runs in App Engine and scales automatically. The backend runs in a Managed Instance Group on Compute Engine with the maximum number of instances set to 10. Sometimes the frontend sends more data than the backend can keep up and the data is lost, but you do not want to increase the maximum size of the MIG or change the VM instance type. As a cloud architect, what can you recommend to prevent data loss?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should store ingested data in Cloud Storage.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should use an unmanaged instance group.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should store ingested data in BigQuery.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should have the frontend writing data to the Cloud Pub/Sub topic, and the backend read from that topic. This provide a managed and scalable message queue, and stores ingested data until the backend can process it.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>The game's backend APIs run on a fleet of virtual machines behind a Managed Instance Group with autoscaling enabled. The scaling policy on this group adds more instances if the CPU utilization is consistently over 80%, and to scale down when the CPU utilization is consistently lower than 60%. You've noticed that autoscaling adds more virtual machines than necessary when scaling up, and you suspect that this may be due to a misconfiguration in health checks - the initial health check latency is set to 30 seconds. Each virtual machine takes less than 3 minutes to be ready to process requests. What can you do to fix this issue?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You can update the managed instances template to set the minimum instances to 3.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You can update the managed instances template to set the maximum instances to 3.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You can update the autoscaling health check from HTTP to TCP.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You can update the autoscaling health check to increase the initial delay to 200 seconds.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>A company is moving an enterprise application to the Google Cloud. This application runs on a cluster of virtual machines on private data center, and workloads are distributed by a load balancer. Select all true statements. (select 2)</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>The migration team decided not to make unnecessary changes before moving this application to the cloud. This migration strategy is called Improve and Move.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>The migration team decided to use containers and the Kubernetes Engine. This migration strategy is called Lift and Shift.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>The migration team decided not to make unnecessary changes before moving this application to the cloud. This migration strategy is called Lift and Shift.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>The migration team decided to use containers and the Kubernetes Engine. This migration strategy is called Remove and Replace.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>An insurance company uses several third-party enterprise applications that require special licenses. This company wants to migrate all workload to Google Cloud. As a cloud architect what should you check first?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>You should check if the licenses are transferable to the cloud.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You don't need to check if your licenses are transferable to the cloud. Everything is open source in the cloud.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should check the cost of such a migration using Cloud Pricing Calculator.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should go straight to migration process.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You are a cloud architect designing a new application for a global financial services company. The application will handle real-time transaction processing across multiple regions and should be resilient to regional outages. Your solution should also minimize latency. Which of the following is the most appropriate design for this use case?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Use Google Cloud Datastore as your primary database with multi-region distribution and Cloud CDN for cache optimization.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Google Cloud Spanner as your primary database with multi-region configuration and Cloud Load Balancing to distribute the traffic.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Google Cloud Bigtable as your primary database with regional replication and Cloud Load Balancing for distributing traffic.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Google Cloud SQL with multi-region replication and Cloud CDN for cache optimization.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your organization is developing a new multi-tier web application. The application architecture consists of a web front end, a REST API backend, and a relational database. The application is expected to experience heavy traffic, so it needs to be highly scalable and resilient. As a cloud architect, which of the following deployment strategies would you recommend for this application on Google Cloud?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Deploy the web front end on Cloud Functions, the REST API backend on App Engine, and the database on Firestore.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Deploy the web front end and REST API backend on separate App Engine services, and the database on Cloud Spanner.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Deploy the entire application on a single GKE cluster, using different namespaces for the front end, the backend, and the database.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Deploy the web front end on Compute Engine, the REST API backend on GKE, and the database on Cloud Bigtable.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>What is the recommended approach for securing access to Google Cloud resources for a multi-tier application architecture, such as a web frontend, application backend, and a database?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Use Google Cloud IAM roles to grant the necessary permissions to each Google Cloud group, and add the appropriate users to the relevant groups.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Google Cloud IAM roles to grant the necessary permissions to each Google Cloud user who requires access to the resources.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Create separate service accounts for each tier, and use Google Cloud IAM roles to grant the minimum necessary permissions to each tier.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Create a single service account with the necessary permissions and use it for all tiers.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you need to prepare a resource hierarchy for your company. Suppose your company has two different applications with development and production environment. With Google's best practices in mind, what should you do?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should create two projects, each for one environment.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should create four different projects (for each application and environment). This isolates the environments from each other, so changes to the development project don't accidently impact production environment. This also gives you better access control.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should create two projects, each for one application.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should create all applications in one project.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your organization has multiple applications deployed across different environments (development, staging, production) in Google Cloud. Recently, a misconfiguration in a configuration file led to a major issue in the production environment. To avoid such incidents in the future, what should you do?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Utilize Google Cloud Deployment Manager to automate deployment of resources and configuration files.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Enforce manual reviews for all configuration files before deployment.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Google Cloud Build to automate builds and apply unit tests to configuration files.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Utilize Google Cloud Shell to execute configuration changes.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You provide a service that you need to open to everyone in your partner network and have a server and an IP address where the application is located. You do not want to have to change the IP address on your DNS server if your server goes down or is replaced. You also want to avoid downtime and deliver a solution with minimal cost and setup. What should you recommend?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>You should reserve a static external IP address, and assign it using Cloud DNS.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should create a script that updates the domain's IP address when the server goes down or is replaced.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should reserve a static internal IP address, and assign it using Cloud DNS.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should use the Bring Your Own IP (BYOIP) method to use your own IP address.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+    <entry>
+    <question>In your Compute Engine managed instance group, an outage has occurred where all instances are continuously restarting every 6 seconds. Although you have a configured health check, autoscaling is currently disabled. To address this issue, your Linux expert colleague has offered to investigate. Your task is to ensure that your colleague has appropriate access to the VMs for troubleshooting purposes. What should you do?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Disable autoscaling for the instance group. Add his SSH key to the project-wide SSH keys.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Grant your colleague the IAM role of project Viewer.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Disable the health check for the instance group. Add his SSH key to the project-wide SSH keys.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Perform a rolling restart on the instance group.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your company is working on a real-time analytics solution that processes vast amounts of data collected from IoT devices across the globe. The system must be capable of low-latency read and write access, high throughput, and horizontal scalability. The data will be analyzed using both batch and stream processing. Which Google Cloud service would be the most appropriate solution for this scenario?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Firestore</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Google Bigtable</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Spanner</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>BigQuery</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>To implement a disaster recovery plan, your company is currently working on replicating its production MySQL database from a private data center to a GCP project utilizing a Google Cloud VPN connection. However, there are latency issues and a minor packet loss occurring during the replication process, causing disruptions. What course of action should they take?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Restore their database daily using Google Cloud SQL.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Add additional VPN connections and load balance them.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Configure a Google Cloud Dedicated Interconnect.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Configure their replication to use UDP.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You are a cloud architect working on a large-scale application that leverages various Google Cloud services, including Bigtable, Firestore, and Pub/Sub. Your development team is transitioning from a monolithic architecture to a microservices architecture, and you are tasked with implementing a testing strategy that includes the use of cloud emulators to ensure each service is properly tested in isolation before integration. Which of the following strategies would be most effective for managing this implementation using Google Cloud emulators?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Implement a single emulator that mimics all services (Bigtable, Firestore, and Pub/Sub) to simplify the testing process and reduce resource usage.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Utilize the Google Cloud SDK to deploy emulators for Bigtable, Firestore, and Pub/Sub directly in the production environment for live testing.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Only use local machine emulators for development and skip CI/CD integration, relying on developer discipline to conduct necessary tests.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Configure separate CI/CD pipelines to include stages that set up and tear down emulators for each service, ensuring isolated environment testing during development.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You want to have durable storage in a Kubernetes cluster. Pods are ephemeral, so they may be deleted or recreated. As a cloud architect, you want to decouple pods from persistent storage. What Kubernetes mechanism should you use?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>PersistentVolumes</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>ReplicaSets</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Deployments</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>DeamonSet</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you set up the optimal combination of CPU and memory resources for nodes in a Kubernetes cluster. You want to be notified whenever CPU utilization exceeds 80% for 5 minutes or when memory utilization exceeds 90% for 1 minute. What do you need to specify to receive such notifications?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Pub/Sub topic</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>An alerting condition</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>A logging message specification</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>An alerting policy</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Refer to the TerramEarth case study for this question: https://services.google.com/fh/files/blogs/master_case_study_terramearth.pdf
+To account for potential future use cases of the data collected by TerramEarth, a decision has been made to construct a system that captures and stores all raw data, ensuring its availability for future needs. As a cloud architect, what would be the most cost-effective approach to achieve this objective?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should have the vehicles in the field continue to dump data via FTP, adjust the existing Linux machines, and use a collector to upload them into Cloud Dataproc HDFS for storage</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should have the vehicles in the field pass the data to Cloud Pub/Sub and dump it into a Cloud Dataproc cluster that stores data in Apache Hadoop Distributed File System (HDFS) on persistent disks.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should have the vehicles in the field stream the data directly into BigQuery.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should have the vehicles in the field continue to dump data via FTP, and adjust the existing Linux machines to immediately upload it to Cloud Storage with gsutil.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>The stock market news application, which includes static content, is experiencing growing popularity. With users from various parts of the world, the application offers subscription plans. However, there is concern among the managers that extended page load times might lead to an increase in the churn rate. As a cloud architect, what recommendations should you provide in this situation?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>They should use Cloud VPN.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should use Regional Cloud Storage.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should use Managed Instance Group.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>They should use Cloud CDN, which distributes static content globally.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, it is necessary for you to adhere to your organization's guidelines when utilizing Cloud Storage for the storage of company data. These guidelines dictate the archiving of data that is more than one year old and the deletion of data that is older than three years. What course of action should you take?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should run a script every day. Copy data that is older than one year to an archive bucket, and delete data from three years ago.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should run a script every day. Set storage class to Archive for data that is older than one year, and delete data from three years ago.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should set up Object Lifecycle Management policies.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should set up default storage class for two buckets with storage classes: Standard and Archive. Use a script to move the data in the appropriate bucket when its needed.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>In your role as a cloud architect, you are tasked with designing a large distributed application comprising 20 microservices. Each of these microservices must connect to the database backend. Your objective is to ensure the secure storage of credentials for these connections. What is the recommended storage location for the credentials?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>In the source code</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>In a secret management system</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>In an environment variable</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>In a config file that has restricted access through ACLs</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Which of the following steps should be taken to ensure maximum data transfer speed while migrating 5TB of private data from on-premises to Google Cloud Storage?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Use a low-speed internet connection</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use a migration tool to automate the transfer process</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Transfer data during peak network hours</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Transfer all the data in one large piece</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your company has multiple GKE clusters running in different regions. You are tasked with setting up a centralized monitoring solution to have a single view of the health and performance of all the clusters. Which approach would you take?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Use Google Cloud's Operations suite and set up a Workspace for each GKE cluster, then create a combined dashboard.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Configure each GKE cluster to export logs and metrics to a central BigQuery dataset and create custom SQL queries to monitor the health.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Anthos to centrally manage and monitor all GKE clusters.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Deploy a Prometheus server in each GKE cluster and configure them to push metrics to a central Grafana dashboard.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you are responsible for preparing a cloud migration plan for services that include wide range of data. A company has 10 PB of different data in on-premises data center. This data need to be transferred to Cloud Storage and the network bandwidth between the on-premises data center and Google Cloud is 10 Gbps. What transfer option should you recommend?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Transfer Service</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>BigQuery Data Transfer</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Transfer Appliance</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>gsutil</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>gcloud</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>After adding a new version of your application in App Engine Standard, users have reported experiencing slow performance issues. Your immediate objective is to revert to the previous version as quickly as possible in response to these complaints. What should you do?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should deploy the previous version in Flexible environment and use traffic splitting feature to send all traffic to the new application.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should deploy the previous version as a new App Engine Application and use traffic splitting feature to send all traffic to the new application.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should set the previous version as default to route all traffic in App Engine Console.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should deploy the previous version on a Kubernetes cluster and use traffic splitting feature to send all traffic to the new application.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you are managing a project that consists of a single Virtual Private Cloud (VPC) and a single subnetwork located in the us-west1 region. Within this subnetwork, there is a Compute Engine instance hosting an application. Now, your development team intends to deploy a new instance within the same project, but in the europe-central2 region. They require access to the application and wish to adhere to Google's best practices. As a cloud architect, what guidance should you provide in this situation?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>They should create a subnetwork in the same VPC, in europe-central2 region. Than, create a new instance in the new subnetwork and use the first instance's private address as the endpoint.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should create a subnetwork in the same VPC, in europe-central2 region. Than, use Cloud VPN to connect these two subnetworks, and finally create a new instance in the new subnetwork and use the first instance's private address as the endpoint.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should create a VPC and a subnetwork in europe-central2 region. Than, peer the 2 VPCs, and finally create a new instance in the new subnetwork and use the first instance's private address as the endpoint.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>They should create a VPC and a subnetwork in europe-central2 region. Than, expose the application with an internal load balancer, and finally create a new instance in the new subnetwork and use the load balancer's address as the endpoint.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>In your organization, there is an application that operates on multiple Compute Engine instances. The objective is to establish seamless communication between your application and an on-premises service, which demands high throughput, using internal IP addresses. The goal is to minimize latency as much as possible. As a cloud architect, what recommendations should you provide in this scenario?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should configure a direct peering connection between the on-premises environment and Google Cloud.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should use Cloud VPN to configure a VPN tunnel between the on-premises environment and Google Cloud.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should use OpenVPN to configure a VPN tunnel between the on-premises environment and Google Cloud.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should configure a Cloud Dedicated Interconnect connection between the on-premises environment and Google Cloud.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>A shipment tracking application receives data from sensors. Sometimes more data arrives than the virtual machines can process. As a cloud architect, you don't want to use additional virtual machines and you also need the most economical solution. What can you do to prevent data loss?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>You should write data to the Cloud Pub/Sub queue, and the application should read data from the queue.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should write data to Cloud Memorystore, and the application should read data from the cache.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should increase the CPU.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should write data to local SSDs on the Compute Engine virtual machines.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You are taking charge of the migration process for a legacy application, moving it from an on-premises data center to the Google Cloud Platform. This application is responsible for handling SSL encrypted traffic from clients across the globe on TCP port 443. Which GCP load balancing service should you employ to minimize latency for all clients?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>SSL Proxy Load Balancer</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>External HTTP(S) Load Balancer</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Network TCP/UDP Load Balancer</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Internal TCP/UDP Load Balancer</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You are the lead cloud architect for a multinational firm which plans to deploy its complex microservices-based applications to the Google Cloud Platform (GCP). The firm has an SLA of 99.99% uptime and your application should be available all the time. The application also has varying loads throughout the day and spikes during the holiday season. Which is the most effective solution?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Deploy the application on Compute Engine instances within a single region.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Deploy the application on App Engine Standard with autoscaling enabled.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Deploy the application on Kubernetes Engine (GKE) with clusters in multiple regions and with autoscaling enabled.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Deploy the application on a combination of Compute Engine instances and Cloud Functions.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you are faced with the situation where you have recently deployed an application on a single Compute Engine virtual machine instance, but its popularity is not meeting your initial expectations. Your goal now is to minimize costs associated with this scenario. What would be the optimal deployment location for your application?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should deploy your application with Kubernetes Engine with horizontal pod autoscaling and cluster autoscaler enabled.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should deploy your application with App Engine Flexible.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>In this case, it is not possible to reduce costs.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should containerize your application an deploy with Cloud Run.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You have been hired to design a disaster recovery solution for a customer's Google Cloud Platform (GCP) environment. The customer requires that the solution provide low Recovery Time Objective (RTO) and Recovery Point Objective (RPO) in the event of a disaster. Which of the following GCP services would you use to meet these requirements?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud SQL and BigQuery</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Cloud Storage and Compute Engine with Persistent Disks</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Storage and Cloud Functions</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Storage only</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>For your application to function properly, it necessitates a filesystem that can be mounted using operating system commands. Furthermore, this filesystem must be accessible from numerous virtual machine instances. Which Google Cloud Platform (GCP) service would you suggest?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud SQL</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Firestore</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Spanner</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Cloud Filestore</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your team has created an updated version of an application that is currently hosted on the App Engine Standard environment. You aim to migrate 2% of your users to the new version while minimizing complexity. What course of action would you recommend?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should create a new App Engine application in the same project. Deploy a new version in that application. Use the App Engine to split the traffic.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should create a new App Engine application in the same project. Deploy a new version in that application. Configure your network load balancer to send 2% of the traffic to that new application.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should deploy a new version in the same application and split the traffic (98% to 2%).</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should deploy a new version in the same application and use the --migrate option.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>A small mobile gaming company wants to benefit from cloud solutions and migrate mobile game application that uses PostgreSQL database to Google Cloud. They have a small development team and want to minimize administrative tasks. What managed service do you recommend?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Cloud SQL</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Dataproc</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Bigtable</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Spanner</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>A company is planning to deploy a large-scale e-commerce platform on Google Cloud Platform (GCP) that must be able to handle millions of transactions per day and provide fast and reliable performance. The platform must also provide scalable and secure storage for product information, customer data, and transaction records. Additionally, the platform must be able to support real-time analytics and data processing. Which of the following options would be the most effective approach to meet these requirements while also optimizing cost?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud Datastore to store product information and customer data, and use Cloud Dataflow for real-time analytics and data processing. Use Cloud Storage for transaction records and serving product images.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud SQL to store product information and customer data, and use BigQuery for real-time analytics and data processing. Use Cloud Storage for transaction records and serving product images.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud Firestore to store product information, customer data, and transaction records, and use Cloud Dataproc for real-time analytics and data processing.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Cloud Spanner to store product information, customer data, and transaction records, and use BigQuery for real-time analytics and data processing.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect responsible for preparing a migration strategy, you are confronted with a scenario where a company possesses sensitive data that must be encrypted using keys under their control. The objective is to store the data in GCP while minimizing costs and operational overhead. What recommendations would you propose in this scenario?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should use a custom encryption algorithm for the data.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You cannot use your own keys with GCP.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should use Google default encryption for the data.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should use Cloud KMS for sensitive data.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>In your role as a cloud architect, you are in the process of designing a hybrid environment that is future-proof and necessitates a network connection between Google Cloud and your on-premises infrastructure. Your objective is to guarantee compatibility between the Google Cloud environment you are designing and your existing on-premises network environment. What course of action should you take?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should use the default VPC in your Google Cloud project. Use a Cloud VPN connection between your on-premises environment and Google Cloud.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should create a network plan for your VPC in Google Cloud that uses non-overlapping CIDR ranges with your on-premises environment. Use a Cloud Interconnect connection between your on-premises environment and Google Cloud.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should create a network plan for your VPC in Google Cloud that uses CIDR ranges that overlap with your on-premises environment. Use a Cloud Interconnect connection between your on-premises environment and Google Cloud.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should create a custom VPC in Google Cloud in auto mode. Use a Cloud VPN connection between your on-premises environment and Google Cloud.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you aim to enhance the processing speed of a web application that generates thumbnails from user-uploaded photos. Currently, the frontend application uploads photos to Cloud Storage, while the outdated backend relies on a cron job that checks Cloud Storage buckets every 20 minutes for new photos. Your objective is to optimize this application and process the photos as soon as possible. Which Google Cloud service would be the most suitable choice?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>App Engine Flexible</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>A cron job that checks the bucket more often.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Cloud Function</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Kubernetes pod</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You have completed the deployment of a brand new regional Kubernetes Engine cluster, where the default pool in the first zone consists of four machines. Additionally, you have maintained the default number of zones during the deployment. How many Compute Engine instances have been deployed and are being billed to your account?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>12</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>4</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>8</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>16</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your company's finance department has notified you that logs generated by a financial application will need to be kept for five years. It is not likely to be accessed, but it has to be available if needed within three days. How would you recommend storing that data?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should export it to BigQuery.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should export it to Cloud Pub/Sub.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should export it to Cloud Storage and use Coldline class storage.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should store it in Cloud Logging.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You are in the process of setting up a single second-generation Cloud SQL MySQL database that holds crucial transactional data for the business. Your objective is to minimize data loss in the event of a significant failure. Which two functionalities should you incorporate in the solution?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Binary logging</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Sharding</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Automated backups</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Read replicas</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>An online marketing company wants to migrate a local data warehouse to GCP and they want to use a managed cloud solution. As a cloud architect, you advise them which service they should use. What do you recommend?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Bigtable</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Compute Engine</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Dataproc</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>BigQuery</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Storage</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>A company wants to migrate on-premises data center to Google Cloud. As a cloud architect, you need to estimate monthly expenses that this company needs to run all their infrastructure in GCP. How can you calculate your expenses?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should migrate all applications to GCP and run them for a day. Then based on that, calculate monthly expenses.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should migrate all applications to GCP and run them for a week. Then based on that, calculate monthly expenses.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should capture the pricing from the products pricing page and manually calculate monthly expenses.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should use the Google Cloud Pricing Calculator to estimate the monthly expenses.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, your role involves developing an application using various microservices that should remain internal to the cluster. Your objective is to configure each microservice with a designated number of replicas. Additionally, you aim to establish a uniform addressing mechanism where any microservice can access a specific microservice, irrespective of its scaling level. This solution needs to be implemented on Google Kubernetes Engine. What course of action should you take in this situation?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Deploy each microservice as a Pod. Expose the Pod in the cluster using an Ingress, and use the Ingress IP address name to address the Pod from other microservices within the cluster.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Deploy each microservice as a Pod. Expose the Pod in the cluster using a Service, and use the Service DNS name to address the microservice from other microservices within the cluster.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Deploy each microservice as a Deployment. Expose the Deployment in the cluster using a Service, and use the Service DNS name to address it from other microservices within the cluster.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Deploy each microservice as a Deployment. Expose the Deployment in the cluster using an Ingress, and use the Ingress IP address to address the Deployment from other microservices within the cluster.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You are planning to make your API publicly available and you have concerns about potential DDoS attacks targeting your service. Which GCP service should be taken into consideration to ensure the protection of your API?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud IAM</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud CDN</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Cloud Armor</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud VPN</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>A Managed Instance Group adds more virtual machines than necessary, and then shuts them down. This pattern is repeated many times. What would you do to stabilize adding and removing virtual machines?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should decrease the time autoscalers consider when making decisions.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should increase the maximum number of virtual machines in a Managed Instance Group.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should increase the time autoscalers consider when making decisions.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should decrease the maximum number of virtual machines in a Managed Instance Group.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, your task is to transfer all on-premises workloads to Google Cloud. Specifically, you are interested in running a custom container within a managed service. What are the available options for you to consider?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>App Engine Standard</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Compute Engine</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>App Engine Flexible</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Functions</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Kubernetes Engine</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you are tasked with designing an architecture for an application that will operate on Compute Engine. It is essential to create a disaster recovery plan that ensures the application can seamlessly switch to another region in the event of a regional outage. What course of action should you take?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should deploy the application on two Compute Engine instance groups, each in a separate project and a different region. Use the first instance group to serve traffic, and use the HTTP load balancing service to fail over to the standby instance group in case of a disaster.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should deploy the application on two Compute Engine instance groups, each in the same project but in a different region. Use the first instance group to serve traffic, and use the HTTP load balancing service to fail over to the standby instance group in case of a disaster.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should deploy the application on two Compute Engine instances in the same project but in a different region. Use the first instance to serve traffic, and use the HTTP load balancing service to fail over to the standby instance in case of a disaster.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should deploy the application on a Compute Engine instance. Use the instance to serve traffic, and use the HTTP load balancing service to fail over to an instance on your premises in case of a disaster.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your organization has a large monolithic application running on-premises that has become difficult to maintain and scale. The application has a relational database backend and a web-based frontend. You have been tasked with migrating this application to Google Cloud Platform (GCP) and breaking it down into microservices. Which of the following strategies should you use?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Lift-and-shift migration, moving the application to GCP as-is, and then refactoring it into microservices.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Anthos Migrate to containerize the application and migrate it to GCP.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud Endpoints to break down the monolithic application into microservices, then migrate to GCP.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Refactor the application into microservices on-premises, then migrate each microservice to GCP one at a time.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You are designing a solution for a customer who needs to collect and analyze large amounts of log data from their web applications. The customer wants to store the log data for a minimum of 7 years for compliance purposes. Which of the following Google Cloud Platform (GCP) services would you use to meet this requirement?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud SQL</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Cloud Datastore</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Bigtable</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Cloud Storage</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+</bank>

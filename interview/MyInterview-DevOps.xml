@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Source Code Management</type>
+    <question>
+Could you explain how to use git flow (feature branch)?
+    </question>
+    <answer>
+git checkout main  (or release branch)
+git checkout -b develop
+git checkout -b feature_branch
+# work happens on feature branch
+git checkout develop
+git merge feature_branch
+git checkout main
+git merge develop
+git branch -d feature_branch
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Source Code Management</type>
+    <question>
+Could you explain how to use git flow (hot fix branch)?
+    </question>
+    <answer>
+git checkout main
+git checkout -b hotfix_branch
+# work is done commits are added to the hotfix_branch
+git checkout develop
+git merge hotfix_branch
+git checkout main
+git merge hotfix_branch
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Principle</type>
+    <question>
+Could you explain how to use git flow (hot fix branch)?
+    </question>
+    <answer>
+DevOps is a software development approach that combines software development (Dev) and information-technology operations (Ops) to shorten the development lifecycle and provide continuous delivery and deployment of software. It aims to bridge the gap between development and operations by automating the build, test, and deployment processes and enabling collaboration between developers and IT professionals.
+
+The goal of DevOps is to increase the speed, reliability, and efficiency of software development and delivery, as well as to improve communication and collaboration between development and operations teams. This is often achieved through the use of automation tools, agile methodologies, and continuous delivery practices.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Principle</type>
+    <question>
+The key practices of DevOps
+    </question>
+    <answer>
+⏵ Continuous integration: Developers integrate their code changes into a shared repository frequently, ideally several times a day.
+⏵ Continuous delivery: Code changes are automatically built, tested, and deployed to production, or at least to a staging environment.
+⏵ Continuous testing: Automated tests are run on every code change to ensure that the application is always in a deployable state.
+⏵ Infrastructure as code: The infrastructure needed to run the application is described in code and managed using version control.
+⏵ Monitoring and logging: The performance and behaviour of the application are monitored and logged in order to quickly identify and fix issues.
+
+By adopting a DevOps approach, organizations can improve the speed and quality of software development and deployment, as well as reduce the risk of errors and downtime.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Principle</type>
+    <question>
+What is DevOps working culture experience?
+    </question>
+    <answer>
+⏵ Collaboration: DevOps teams work closely together, with developers, operations, and other teams working in tandem to deliver software. This includes collaboration on design, coding, testing, and deployment.
+⏵ Automation: DevOps teams use automation tools to automate repetitive tasks and enable rapid and consistent delivery of software. This includes automating the build, test, and deployment processes.
+⏵ Continuous integration and delivery: DevOps teams use continuous integration and delivery practices to release software frequently and with minimal manual intervention. This allows for faster feedback and shorter development cycles.
+⏵ Monitoring and observability: DevOps teams use monitoring and observability tools to gain visibility into the performance and behaviour of their software in production. This allows for rapid identification and resolution of issues.
+⏵ Flexibility and experimentation: DevOps teams are encouraged to experiment with new technologies and practices in order to find new ways of delivering software faster and more reliably.
+⏵ Learning and improvement: DevOps teams continuously learn from their experiences and use feedback to improve processes, tools and practices to increase efficiency and reduce errors.
+⏵ Shared responsibility: DevOps culture promotes shared responsibility for the entire software development and delivery process, from development to deployment, and from scaling to monitoring.
+⏵ Culture of experimentation: DevOps culture encourages experimentation and rapid feedback loops that allow teams to quickly determine what works and what doesn't.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

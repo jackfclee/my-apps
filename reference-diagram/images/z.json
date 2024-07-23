@@ -1,0 +1,3641 @@
+[
+  {
+    "topic": "ai-ml",
+    "displayName": "AI and ML",
+    "references": [
+      {
+        "file": "AI Tools 2023.jpg",
+        "displayName": "AI Tools 2023 (Careerflow.ai)",
+        "tags": [
+          "AI",
+          "Tool"
+        ]
+      },
+      {
+        "file": "AI is more than ChatGPT.jpg",
+        "displayName": "AI is more than ChatGPT",
+        "tags": [
+          "AI",
+          "Deep Learning",
+          "Neural Networks",
+          "Machine Learning",
+          "Artifical Intelligence"
+        ]
+      },
+      {
+        "file": "ChatGPT - How we get here.png",
+        "displayName": "ChatGPT - How we get here? (bytebytego)",
+        "tags": [
+          "GPT",
+          "Timeline"
+        ]
+      },
+      {
+        "file": "DataLLM Open Source Platform for Tabular Data Generation.gif",
+        "displayName": "DataLLM Open Source Platform for Tabular Data Generation",
+        "tags": [
+          "DataLLM",
+          "Tabular Data Generation"
+        ]
+      },
+      {
+        "file": "Different Types of Machine Learning Algorithm.gif",
+        "displayName": "Different Types of Machine Learning Algorithm",
+        "tags": [
+          "Machine Learning",
+          "Algorithm"
+        ]
+      },
+      {
+        "file": "GPT (Generative Pre-Train) Timeline.png",
+        "displayName": "GPT (Generative Pre-Train) Timeline",
+        "tags": [
+          "GPT",
+          "Timeline"
+        ]
+      },
+      {
+        "file": "How does ChatGPT like system work.png",
+        "displayName": "How does ChatGPT like system work? (bytebytego)",
+        "tags": [
+          "GPT",
+          "Architecture",
+          "Design",
+          "Flow"
+        ]
+      },
+      {
+        "file": "MLOPS Pipeline.gif",
+        "displayName": "MLOPS Pipeline",
+        "tags": [
+          "MLOPS Pipeline"
+        ]
+      },
+      {
+        "file": "Mapping AI in the software development lifecycle.jpg",
+        "displayName": "Mapping AI in the software development lifecycle",
+        "tags": [
+          "AI",
+          "Tool",
+          "DevOps"
+        ]
+      },
+      {
+        "file": "Model Registry.gif",
+        "displayName": "Model Registry",
+        "tags": [
+          "Model Registry"
+        ]
+      },
+      {
+        "file": "Retrieval Augmented Generation (RAG).gif",
+        "displayName": "Retrieval Augmented Generation (RAG) based LLM System",
+        "tags": [
+          "Retrieval Augmented Generation",
+          "RAG",
+          "LLM"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "api-microservices",
+    "displayName": "API microservices",
+    "references": [
+      {
+        "file": "18 most common HTTP status codes.gif",
+        "displayName": "18 most common HTTP status codes",
+        "tags": [
+          "HTTP",
+          "Status",
+          "Code"
+        ]
+      },
+      {
+        "file": "9 Best Practices for Building Microservices.webp",
+        "displayName": "9 Best Practices for Building Microservices (bytebytego)",
+        "tags": [
+          "Best",
+          "Practices",
+          "Microservices"
+        ]
+      },
+      {
+        "file": "API Architectural Styles - Comparison.jpg",
+        "displayName": "API Architectural Styles Comparison",
+        "tags": [
+          "REST",
+          "API",
+          "Architecture",
+          "Design",
+          "Message",
+          "Format",
+          "Timeline",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "API Architectural Styles - Illustration.jpg",
+        "displayName": "API Architectural Styles - Illustration",
+        "tags": [
+          "REST",
+          "API",
+          "Architecture",
+          "Design",
+          "Flow"
+        ]
+      },
+      {
+        "file": "API Architectural Styles - Overview.jpg",
+        "displayName": "API Architectural Styles Overview (bytebytego)",
+        "tags": [
+          "REST",
+          "API",
+          "Architecture",
+          "Design",
+          "Flow"
+        ]
+      },
+      {
+        "file": "API Architectural Styles - Simple.jpg",
+        "displayName": "API Architectural Styles Simple",
+        "tags": [
+          "REST",
+          "API",
+          "Architecture",
+          "Design",
+          "Flow"
+        ]
+      },
+      {
+        "file": "API Architectural Styles.gif",
+        "displayName": "API Architectural Styles",
+        "tags": [
+          "REST",
+          "API",
+          "Architecture",
+          "Design"
+        ]
+      },
+      {
+        "file": "API Operation.png",
+        "displayName": "API Operation",
+        "tags": [
+          "REST",
+          "HTTP",
+          "Verb",
+          "Request",
+          "API",
+          "GET",
+          "PUT",
+          "POST",
+          "DELETE",
+          "PATCH",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "API Pagination 101.gif",
+        "displayName": "API Pagination 101",
+        "tags": [
+          "API Pagination"
+        ]
+      },
+      {
+        "file": "API Protocols (rocky).gif",
+        "displayName": "API Protocols",
+        "tags": [
+          "API Protocols"
+        ]
+      },
+      {
+        "file": "API Protocols (wallarm).gif",
+        "displayName": "API Protocols",
+        "tags": [
+          "API Protocols"
+        ]
+      },
+      {
+        "file": "API Response Code.png",
+        "displayName": "API Response Code",
+        "tags": [
+          "REST",
+          "HTTP",
+          "Response",
+          "Code",
+          "API",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "API Tools Ecosystem.gif",
+        "displayName": "API Tools Ecosystem",
+        "tags": [
+          "API",
+          "Tool",
+          "Ecosystem"
+        ]
+      },
+      {
+        "file": "Advantages of API Gateway.gif",
+        "displayName": "Advantages of API Gateway",
+        "tags": [
+          "API Gateway"
+        ]
+      },
+      {
+        "file": "CheatSheet for API Design.gif",
+        "displayName": "CheatSheet for API Design",
+        "tags": [
+          "CheatSheet",
+          "API Design"
+        ]
+      },
+      {
+        "file": "Design Effective and Safe APIs.jpg",
+        "displayName": "Design Effective and Safe APIs (bytebytego)",
+        "tags": [
+          "API",
+          "URI",
+          "Naming",
+          "Pattern",
+          "Design",
+          "REST",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Evolution of an API Architecture.jpg",
+        "displayName": "Evolution of an API Architecture",
+        "tags": [
+          "Monolith",
+          "Direct",
+          "Access",
+          "Gateway",
+          "Layer",
+          "Federated",
+          "Aggregation",
+          "Pattern"
+        ]
+      },
+      {
+        "file": "HTTP Status Code.jpeg",
+        "displayName": "HTTP Response Code (bytebytego)",
+        "tags": [
+          "REST",
+          "HTTP",
+          "Response",
+          "Code",
+          "API",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "How to Build A Robust API Gateway.gif",
+        "displayName": "How to Build A Robust API Gateway",
+        "tags": [
+          "API Gateway"
+        ]
+      },
+      {
+        "file": "Microservice Best Practices.jpg",
+        "displayName": "Microservice Best Practices (bytebytego)",
+        "tags": [
+          "Microservice",
+          "Best Practices"
+        ]
+      },
+      {
+        "file": "Microservice Roadmap.gif",
+        "displayName": "Microservice Roadmap",
+        "tags": [
+          "Microservice Roadmap"
+        ]
+      },
+      {
+        "file": "Microservices Design Patterns.jpg",
+        "displayName": "Microservices Design Patterns",
+        "tags": [
+          "Microservices",
+          "Design Patterns"
+        ]
+      },
+      {
+        "file": "Orchestration vs Choreography of Microservices.jpg",
+        "displayName": "Orchestration vs Choreography of Microservices",
+        "tags": [
+          "Orchestration",
+          "Choreography",
+          "Microservices"
+        ]
+      },
+      {
+        "file": "REST API Cheatsheet (bytebytego).jpg",
+        "displayName": "REST API Cheatsheet (bytebytego)",
+        "tags": [
+          "REST",
+          "API",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "REST API Cheatsheet.gif",
+        "displayName": "REST API Cheatsheet",
+        "tags": [
+          "REST",
+          "API",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "REST API Design.gif",
+        "displayName": "REST API Design",
+        "tags": [
+          "REST",
+          "API",
+          "Design",
+          "Concept"
+        ]
+      },
+      {
+        "file": "REST API Design.jpg",
+        "displayName": "REST API Design",
+        "tags": [
+          "REST",
+          "API",
+          "Design",
+          "Concept"
+        ]
+      },
+      {
+        "file": "REST vs GraphQL.gif",
+        "displayName": "REST vs GraphQL (bytebytego)",
+        "tags": [
+          "REST",
+          "GraphQL",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Roadmap to Become an API Pro.gif",
+        "displayName": "Roadmap to Become an API Pro",
+        "tags": [
+          "API",
+          "Roadmap",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "Top 6 API Architecture Styles.gif",
+        "displayName": "Top 6 API Architecture Styles",
+        "tags": [
+          "API",
+          "Architecture Styles"
+        ]
+      },
+      {
+        "file": "Top 9 HTTP Request Methods.gif",
+        "displayName": "Top 9 HTTP Request Methods (bytebytego)",
+        "tags": [
+          "REST",
+          "HTTP",
+          "Verb",
+          "Request",
+          "API",
+          "GET",
+          "PUT",
+          "POST",
+          "DELETE",
+          "PATCH",
+          "HEAD",
+          "CONNECT",
+          "OPTIONS",
+          "TRACE",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "What does API Gateway do.gif",
+        "displayName": "What does API Gateway do (bytebytego)",
+        "tags": [
+          "API",
+          "Gateway",
+          "Flow"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "architecture-design",
+    "displayName": "Architecture Design",
+    "references": [
+      {
+        "file": "15 System Design Core Concepts.gif",
+        "displayName": "15 System Design Core Concepts (bytebytego)",
+        "tags": [
+          "Core Concepts",
+          "System Design"
+        ]
+      },
+      {
+        "file": "18 Key Design Patterns.jpg",
+        "displayName": "18 Key Design Patterns (bytebytego)",
+        "tags": [
+          "Design",
+          "Pattern"
+        ]
+      },
+      {
+        "file": "5 Pillars of the well-architected framework.gif",
+        "displayName": "5 Pillars of the well-architected framework",
+        "tags": [
+          "Architecture",
+          "Framework",
+          "Factor"
+        ]
+      },
+      {
+        "file": "Architectural Characteristics.png",
+        "displayName": "Architectural Characteristics.",
+        "tags": [
+          "Atrchitecture",
+          "Characteristics",
+          "Non-Functional",
+          "Requirement",
+          "Creational",
+          "Structural",
+          "Behavioral",
+          "Pattern",
+          "Design",
+          "Factor"
+        ]
+      },
+      {
+        "file": "Backend Burger 1.jpg",
+        "displayName": "Backend Burger",
+        "tags": [
+          "Overview",
+          "Backend"
+        ]
+      },
+      {
+        "file": "Backend Burger 2.jpg",
+        "displayName": "Backend Burger (bytebytego)",
+        "tags": [
+          "Overview",
+          "Backend"
+        ]
+      },
+      {
+        "file": "Backend for Frontend pattern.png",
+        "displayName": "Backend for Frontend pattern",
+        "tags": [
+          "BFF",
+          "Backend",
+          "Flow",
+          "Protocol"
+        ]
+      },
+      {
+        "file": "Design for Internationalization.jpg",
+        "displayName": "Design for Internationalization (bytebytego)",
+        "tags": [
+          "Language",
+          "Internationalization",
+          "Design",
+          "Time",
+          "Content"
+        ]
+      },
+      {
+        "file": "How do we design a chat application.jpg",
+        "displayName": "How do we design a chat application? (bytebytego)",
+        "tags": [
+          "Chat",
+          "Architecture",
+          "Design",
+          "Flow"
+        ]
+      },
+      {
+        "file": "Knowledge Map for Software Engineering.gif",
+        "displayName": "Knowledge Map for Software Engineering",
+        "tags": [
+          "Knowledge",
+          "Guide",
+          "Software Engineering"
+        ]
+      },
+      {
+        "file": "Learn about 8 important System Design Concepts.png",
+        "displayName": "Learn about 8 important System Design Concepts",
+        "tags": [
+          "System Design",
+          "Concepts"
+        ]
+      },
+      {
+        "file": "Microservice Architecture.jpg",
+        "displayName": "Microservice Architecture (bytebytego)",
+        "tags": [
+          "API",
+          "Microservice",
+          "Gateway",
+          "Architecture",
+          "Design",
+          "Flow"
+        ]
+      },
+      {
+        "file": "Possible experiment platform architecture.jpg",
+        "displayName": "Possible experiment platform architecture",
+        "tags": [
+          "Experiment",
+          "Platform",
+          "Architecture",
+          "Flow",
+          "Design"
+        ]
+      },
+      {
+        "file": "Proximity Service Design.jpg",
+        "displayName": "Proximity Service Design (bytebytego)",
+        "tags": [
+          "Map",
+          "Proximity",
+          "Service",
+          "Design",
+          "Flow",
+          "Atrchitecture"
+        ]
+      },
+      {
+        "file": "Software Architect Mindmap.gif",
+        "displayName": "Software Architect Mindmap",
+        "tags": [
+          "Software Architect",
+          "Mindmap"
+        ]
+      },
+      {
+        "file": "Software Architectural Patterns (6 types).gif",
+        "displayName": "Software Architectural Patterns (6 types)",
+        "tags": [
+          "Software Architectural",
+          "Patterns"
+        ]
+      },
+      {
+        "file": "Software Architectural Patterns (8 types).gif",
+        "displayName": "Software Architectural Patterns (8 types)",
+        "tags": [
+          "Software Architectural",
+          "Patterns"
+        ]
+      },
+      {
+        "file": "Software Architecture Styles (10 types).gif",
+        "displayName": "Software Architecture Styles (10 types)",
+        "tags": [
+          "Software",
+          "Architecture",
+          "Style",
+          "Pattern",
+          "Design"
+        ]
+      },
+      {
+        "file": "Software Architecture Styles (bytebytego).jpg",
+        "displayName": "Software Architecture Styles (bytebytego)",
+        "tags": [
+          "Software",
+          "Architecture",
+          "Style",
+          "Pattern",
+          "Design"
+        ]
+      },
+      {
+        "file": "System Design Acronyms.gif",
+        "displayName": "System Design Acronyms (bytebytego)",
+        "tags": [
+          "System Design",
+          "Acronyms"
+        ]
+      },
+      {
+        "file": "System Design Blueprint - The Ultimate Guide.jpg",
+        "displayName": "System Design Blueprint - The Ultimate Guide (bytebytego)",
+        "tags": [
+          "System Design",
+          "Guide"
+        ]
+      },
+      {
+        "file": "System Design Cheat Sheet.jpg",
+        "displayName": "System Design Cheat Sheet (bytebytego)",
+        "tags": [
+          "Availability",
+          "Throughput",
+          "Scalability"
+        ]
+      },
+      {
+        "file": "System Design Concepts.gif",
+        "displayName": "System Design Concepts",
+        "tags": [
+          "System Design Concepts"
+        ]
+      },
+      {
+        "file": "System Design Interview - Step by Step guide.jpg",
+        "displayName": "System Design Interview - Step by Step guide",
+        "tags": [
+          "System",
+          "Design",
+          "Layer",
+          "Architecture"
+        ]
+      },
+      {
+        "file": "The Fantastic Four of System Design.gif",
+        "displayName": "The Fantastic Four of System Design (bytebytego)",
+        "tags": [
+          "System",
+          "Design",
+          "Scalability",
+          "Availability",
+          "Reliability",
+          "Performance"
+        ]
+      },
+      {
+        "file": "Top 12 concepts every programmers must know.gif",
+        "displayName": "Top 12 concepts every programmers must know",
+        "tags": [
+          "Concept"
+        ]
+      },
+      {
+        "file": "Top 5 Trade-offs in System Designs.gif",
+        "displayName": "Top 5 Trade-offs in System Designs",
+        "tags": [
+          "Tradeoff",
+          "System",
+          "Design"
+        ]
+      },
+      {
+        "file": "Top 6 API Architecture Styles.gif",
+        "displayName": "Top 6 API Architecture Styles",
+        "tags": [
+          "API Architecture Styles"
+        ]
+      },
+      {
+        "file": "Top 6 Cases of Leveraging Idempotency.gif",
+        "displayName": "Top 6 Cases of Leveraging Idempotency (bytebytego)",
+        "tags": [
+          "Idempotency"
+        ]
+      },
+      {
+        "file": "Top 6 Tools to Turn Code into Beautiful Diagrams.webp",
+        "displayName": "Top 6 Tools to Turn Code into Beautiful Diagrams (bytebytego)",
+        "tags": [
+          "Tools",
+          "Diagram",
+          "Design"
+        ]
+      },
+      {
+        "file": "Top 6 Xaas - Anything as a service model.gif",
+        "displayName": "Top 6 Xaas - Anything as a service model",
+        "tags": [
+          "STaaS",
+          "DaaS",
+          "FaaS",
+          "IaaS",
+          "PaaS",
+          "SaaS"
+        ]
+      },
+      {
+        "file": "Top 9 System Integration.webp",
+        "displayName": "Top 9 System Integrations",
+        "tags": [
+          "System",
+          "Integration",
+          "Comparison",
+          "PubSub",
+          "Gateway",
+          "Peer-to-Peer",
+          "Request-Response",
+          "Event-Sourcing",
+          "ETL",
+          "Orchestrator",
+          "Streaming Processing",
+          "Batching"
+        ]
+      },
+      {
+        "file": "Top System Design Building Blocks.gif",
+        "displayName": "Top System Design Building Blocks",
+        "tags": [
+          "System Design"
+        ]
+      },
+      {
+        "file": "What does ACID mean.gif",
+        "displayName": "What does ACID mean (bytebytego)",
+        "tags": [
+          "ACID"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "caching",
+    "displayName": "Caching",
+    "references": [
+      {
+        "file": "Cache Miss Attack.jpg",
+        "displayName": "Cache Miss Attack (bytebytego)",
+        "tags": [
+          "Cache",
+          "Miss",
+          "Attack",
+          "Incident"
+        ]
+      },
+      {
+        "file": "Database Caching Strategies.jpg",
+        "displayName": "Database Caching Strategies",
+        "tags": [
+          "Database",
+          "Caching",
+          "Strategies"
+        ]
+      },
+      {
+        "file": "Memcached vs Redis.jpg",
+        "displayName": "Memcached vs Redis (bytebytego)",
+        "tags": [
+          "Comparison",
+          "Memcached",
+          "Redis",
+          "Cache",
+          "Caching",
+          "Performance"
+        ]
+      },
+      {
+        "file": "Read Replica Pattern.png",
+        "displayName": "Read Replica Pattern (bytebytego)",
+        "tags": [
+          "Replica",
+          "Performance",
+          "Pattern"
+        ]
+      },
+      {
+        "file": "Things to consider when using Cache.png",
+        "displayName": "Things to consider when using Cache (bytebytego)",
+        "tags": [
+          "Cache",
+          "Factor",
+          "Techniques",
+          "Scenarios",
+          "Metrics",
+          "Algorithms"
+        ]
+      },
+      {
+        "file": "Top 8 Cache Eviction Strategies.gif",
+        "displayName": "Top 8 Cache Eviction Strategies (bytebytego)",
+        "tags": [
+          "Caching",
+          "Eviction"
+        ]
+      },
+      {
+        "file": "Top Redis Use Cases.jpg",
+        "displayName": "Top Redis Use Cases (bytebytego)",
+        "tags": [
+          "Redis",
+          "Caching",
+          "Data",
+          "Type",
+          "Use",
+          "Case"
+        ]
+      },
+      {
+        "file": "Top caching strategies.jpg",
+        "displayName": "Top caching strategies (bytebytego)",
+        "tags": [
+          "Caching",
+          "Cache",
+          "Strategies",
+          "Strategy",
+          "Flow"
+        ]
+      },
+      {
+        "file": "Where do we Cache Data.jpg",
+        "displayName": "Where do we Cache Data? (bytebytego)",
+        "tags": [
+          "Cache",
+          "Data",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Why is Redis so fast.jpg",
+        "displayName": "Why is Redis so fast? (bytebytego)",
+        "tags": [
+          "Redis",
+          "Cache",
+          "Performance"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "cicd-devops",
+    "displayName": "CICD and DevOps",
+    "references": [
+      {
+        "file": "12 Factor App.webp",
+        "displayName": "12 Factor App",
+        "tags": [
+          "12",
+          "Factor",
+          "App"
+        ]
+      },
+      {
+        "file": "12 steps to optimize software delivery.gif",
+        "displayName": "12 steps to optimize software delivery",
+        "tags": [
+          "Software delivery",
+          "Optimization"
+        ]
+      },
+      {
+        "file": "Agile DevOps.gif",
+        "displayName": "Agile DevOps",
+        "tags": [
+          "Agile DevOps"
+        ]
+      },
+      {
+        "file": "Agile Development with DevOps.gif",
+        "displayName": "Agile Development with DevOps",
+        "tags": [
+          "Agile",
+          "DevOps",
+          "Flow"
+        ]
+      },
+      {
+        "file": "Automation Framework.gif",
+        "displayName": "Automation Framework",
+        "tags": [
+          "Automation Framework"
+        ]
+      },
+      {
+        "file": "Basic Git Flow in DevOps CICD.jpg",
+        "displayName": "Basic Git Flow in DevOps CICD",
+        "tags": [
+          "Git",
+          "DevOps",
+          "CICD"
+        ]
+      },
+      {
+        "file": "Basic Terraform Flow in DevOps CICD.jpg",
+        "displayName": "Basic Terraform Flow in DevOps CICD",
+        "tags": [
+          "Terraform",
+          "DevOps",
+          "CICD"
+        ]
+      },
+      {
+        "file": "CICD pipeline explained in 5 minutes.jpg",
+        "displayName": "CICD pipeline explained in 5 minutes",
+        "tags": [
+          "CICD",
+          "DevOps",
+          "Tool"
+        ]
+      },
+      {
+        "file": "Deployment Strategies.gif",
+        "displayName": "Deployment Strategies",
+        "tags": [
+          "Deployment",
+          "BigBang",
+          "Big-Bang",
+          "Rolling",
+          "Strategies",
+          "Strategy",
+          "Blue-Green",
+          "BlueGreen",
+          "Canary",
+          "Feature",
+          "Toggle"
+        ]
+      },
+      {
+        "file": "Deployment Strategies.jpg",
+        "displayName": "Deployment Strategies (bytebytego)",
+        "tags": [
+          "Deployment",
+          "BigBang",
+          "Big-Bang",
+          "Rolling",
+          "Strategies",
+          "Strategy",
+          "Blue-Green",
+          "BlueGreen",
+          "Canary",
+          "Feature",
+          "Toggle"
+        ]
+      },
+      {
+        "file": "DevOps Tools.gif",
+        "displayName": "DevOps Tools",
+        "tags": [
+          "DevOps Tools"
+        ]
+      },
+      {
+        "file": "DevOps vs DataOps vs MLOps.gif",
+        "displayName": "DevOps vs DataOps vs MLOps",
+        "tags": [
+          "DevOps",
+          "DataOps",
+          "MLOps",
+          "Concept",
+          "Comparison",
+          "Flow"
+        ]
+      },
+      {
+        "file": "DevOps vs NoOps.gif",
+        "displayName": "DevOps vs NoOps (bytebytego)",
+        "tags": [
+          "DevOps",
+          "NoOps"
+        ]
+      },
+      {
+        "file": "Git - A Pictorial Walkthrough.gif",
+        "displayName": "Git - A Pictorial Walkthrough",
+        "tags": [
+          "Git Workflow"
+        ]
+      },
+      {
+        "file": "Git Workflow and Immutability.jpg",
+        "displayName": "Git Workflow and Immutability (bytebytego)",
+        "tags": [
+          "Git",
+          "Source",
+          "Management",
+          "Immutability"
+        ]
+      },
+      {
+        "file": "Git Workflow.gif",
+        "displayName": "Git Workflow",
+        "tags": [
+          "Git",
+          "Source",
+          "Management",
+          "Workflow"
+        ]
+      },
+      {
+        "file": "How CICD Works.gif",
+        "displayName": "How CICD Works",
+        "tags": [
+          "CICD",
+          "Flow"
+        ]
+      },
+      {
+        "file": "How Companies Ship Code to Production.gif",
+        "displayName": "How Companies Ship Code to Production (bytebytego)",
+        "tags": [
+          "Stack",
+          "Tool",
+          "CICD",
+          "Pipeline",
+          "Flow",
+          "Development",
+          "Production"
+        ]
+      },
+      {
+        "file": "How Git Commands work.jpg",
+        "displayName": "How Git Commands work? (bytebytego)",
+        "tags": [
+          "Git",
+          "Command"
+        ]
+      },
+      {
+        "file": "Life is Short, Use Dev Tools.gif",
+        "displayName": "Life is Short, Use Dev Tools (bytebytego)",
+        "tags": [
+          "DevOps",
+          "Tools"
+        ]
+      },
+      {
+        "file": "Most Popular DevOps Tools.gif",
+        "displayName": "Most Popular DevOps Tools",
+        "tags": [
+          "DevOps",
+          "Tools"
+        ]
+      },
+      {
+        "file": "Netflix Tech Stack for CICD pipeline.jpg",
+        "displayName": "Netflix Tech Stack CICD pipeline (bytebytego)",
+        "tags": [
+          "Netflix",
+          "Scenario",
+          "Stack",
+          "Tool",
+          "CICD",
+          "Pipeline",
+          "Flow",
+          "Development",
+          "Production"
+        ]
+      },
+      {
+        "file": "Ops Evolution.gif",
+        "displayName": "Ops Evolution",
+        "tags": [
+          "Ops Evolution"
+        ]
+      },
+      {
+        "file": "Popular DevOps Tools.jpg",
+        "displayName": "Popular DevOps Tools",
+        "tags": [
+          "DevOps",
+          "Tools"
+        ]
+      },
+      {
+        "file": "Software Tools.png",
+        "displayName": "Software Tools",
+        "tags": [
+          "Software Tools"
+        ]
+      },
+      {
+        "file": "Top 6 ElasticSearch Use Cases.gif",
+        "displayName": "Top 6 ElasticSearch Use Cases (bytebytego)",
+        "tags": [
+          "ElasticSearch"
+        ]
+      },
+      {
+        "file": "What is DevSecOps.gif",
+        "displayName": "What is DevSecOps (bytebytego)",
+        "tags": [
+          "DevSecOps"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "clouds",
+    "displayName": "Cloud Technology",
+    "references": [
+      {
+        "file": "AWS 3 Tier Application Architecture.gif",
+        "displayName": "AWS 3 Tier Application Architecture",
+        "tags": [
+          "AWS",
+          "3 Tier",
+          "Application Architecture"
+        ]
+      },
+      {
+        "file": "AWS Cloud Services CheatSheet.gif",
+        "displayName": "AWS Cloud Services CheatSheet (bytebytego)",
+        "tags": [
+          "AWS",
+          "Cloud",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "AWS Network Architecture.gif",
+        "displayName": "AWS Network Architecture",
+        "tags": [
+          "AWS Network Architecture"
+        ]
+      },
+      {
+        "file": "Azure Cloud Services CheatSheet.gif",
+        "displayName": "Azure Cloud Services CheatSheet (bytebytego)",
+        "tags": [
+          "Azure",
+          "Cloud",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "Azure Solution Architect Map.gif",
+        "displayName": "Azure Solution Architect Map",
+        "tags": [
+          "Azure",
+          "Solution Architect"
+        ]
+      },
+      {
+        "file": "Cloud Comparison Cheat Sheet (bytebytego).jpg",
+        "displayName": "Cloud Comparison Cheat Sheet (bytebytego)",
+        "tags": [
+          "Cloud Comparison Cheat Sheet"
+        ]
+      },
+      {
+        "file": "Cloud Comparison Cheat Sheet (cloudairy).gif",
+        "displayName": "Cloud Comparison Cheat Sheet (cloudairy)",
+        "tags": [
+          "Cloud Comparison Cheat Sheet"
+        ]
+      },
+      {
+        "file": "Cloud Monitoring Cheat Sheet.gif",
+        "displayName": "Cloud Monitoring Cheat Sheet",
+        "tags": [
+          "Cloud",
+          "CheatSheet",
+          "Comparison",
+          "Monitoring"
+        ]
+      },
+      {
+        "file": "Cloud Services.gif",
+        "displayName": "Cloud Services",
+        "tags": [
+          "CheatSheet",
+          "Cloud",
+          "Product",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Data Pipelines on AWS, Azure, GCP.gif",
+        "displayName": "Data Pipelines on AWS, Azure, GCP",
+        "tags": [
+          "Data",
+          "Pipelines",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Comparison",
+          "Lake",
+          "Ingestion",
+          "Warehouse"
+        ]
+      },
+      {
+        "file": "Google Sheets as backend.jpg",
+        "displayName": "Levels.fyi scaled to millions with Google Sheets as backend",
+        "tags": [
+          "Caching",
+          "Cache",
+          "Strategies",
+          "Strategy",
+          "Flow",
+          "Performance"
+        ]
+      },
+      {
+        "file": "How AWS Disaster Recovery Works.gif",
+        "displayName": "How AWS Disaster Recovery Works",
+        "tags": [
+          "AWS",
+          "Disaster Recovery"
+        ]
+      },
+      {
+        "file": "How does AWS Lambda work.jpg",
+        "displayName": "How does AWS Lambda work?",
+        "tags": [
+          "Lambda",
+          "AWS",
+          "Flow"
+        ]
+      },
+      {
+        "file": "Microsoft Azure Overall Network Architecture.gif",
+        "displayName": "Microsoft Azure Overall Network Architecture",
+        "tags": [
+          "Azure",
+          "Network",
+          "Architecture"
+        ]
+      },
+      {
+        "file": "Most Important AWS services to learn.jpg",
+        "displayName": "Most Important AWS services to learn (bytebytego)",
+        "tags": [
+          "AWS",
+          "Product"
+        ]
+      },
+      {
+        "file": "Typical AWS Network Architecture.gif",
+        "displayName": "Typical AWS Network Architecture",
+        "tags": [
+          "AWS",
+          "Network Architecture"
+        ]
+      },
+      {
+        "file": "What is cloud native.jpg",
+        "displayName": "What is cloud native? (bytebytego)",
+        "tags": [
+          "Timeline",
+          "Cloud"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "coding",
+    "displayName": "Coding",
+    "references": [
+      {
+        "file": "10 Algorithms that dominate our world.gif",
+        "displayName": "10 Algorithms that dominate our world",
+        "tags": [
+          "Algorithms"
+        ]
+      },
+      {
+        "file": "10 Good Coding Principles.gif",
+        "displayName": "10 Good Coding Principles (bytebytego)",
+        "tags": [
+          "Principles",
+          "Coding",
+          "SOILD",
+          "Design",
+          "Pattern"
+        ]
+      },
+      {
+        "file": "12 Simple Clean Code Tips.jpg",
+        "displayName": "12 Simple Clean Code Tips",
+        "tags": [
+          "Clean Code"
+        ]
+      },
+      {
+        "file": "Algorithms and Data Structure.gif",
+        "displayName": "Algorithms and Data Structure",
+        "tags": [
+          "Algorithms",
+          "Data Structure",
+          "Time Complexity",
+          "Search Algorithms",
+          "Sorting Algorithms",
+          "Graph Traversal",
+          "Tree Traversal Algorithms"
+        ]
+      },
+      {
+        "file": "Algorithms for System Design.jpg",
+        "displayName": "Algorithms for System Design (bytebytego)",
+        "tags": [
+          "Algorithms",
+          "System",
+          "Design"
+        ]
+      },
+      {
+        "file": "Array, Filter, Map, Reduce.png",
+        "displayName": "Array, Filter, Map, Reduce",
+        "tags": [
+          "Array",
+          "Filter",
+          "Map",
+          "Reduce"
+        ]
+      },
+      {
+        "file": "Concurrency is not Parallelism.gif",
+        "displayName": "Concurrency is not Parallelism (bytebytego)",
+        "tags": [
+          "Concurrency",
+          "Parallelism"
+        ]
+      },
+      {
+        "file": "Data Structure in Python.gif",
+        "displayName": "Data Structure in Python",
+        "tags": [
+          "Data Structure",
+          "Python"
+        ]
+      },
+      {
+        "file": "Diagram as Code.png",
+        "displayName": "Diagram as Code",
+        "tags": [
+          "Diagram",
+          "Code"
+        ]
+      },
+      {
+        "file": "How Computer Programs Run.gif",
+        "displayName": "How Computer Programs Run",
+        "tags": [
+          "Computer Programs"
+        ]
+      },
+      {
+        "file": "How Java Works.gif",
+        "displayName": "How Java Works",
+        "tags": [
+          "Java"
+        ]
+      },
+      {
+        "file": "How do C++ Java Python work.gif",
+        "displayName": "How do C++, Java, Python work?",
+        "tags": [
+          "C++",
+          "Java",
+          "Python",
+          "Coding",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "How we retry on failures.gif",
+        "displayName": "How we retry on failures (bytebytego)",
+        "tags": [
+          "Retry Mechanism",
+          "Failure Handling"
+        ]
+      },
+      {
+        "file": "JVM Explained.gif",
+        "displayName": "JVM Explained",
+        "tags": [
+          "JVM"
+        ]
+      },
+      {
+        "file": "Java Collections CheatSheet.webp",
+        "displayName": "Java Collections CheatSheet",
+        "tags": [
+          "Java",
+          "Collections"
+        ]
+      },
+      {
+        "file": "Java Collections Comparison.webp",
+        "displayName": "Java Collections Comparison",
+        "tags": [
+          "Java",
+          "Collections",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Java Collections Implementation.webp",
+        "displayName": "Java Collection Implementation",
+        "tags": [
+          "Java",
+          "Collections"
+        ]
+      },
+      {
+        "file": "Java Collections Selection Flow.webp",
+        "displayName": "Java Collections Selection Flow",
+        "tags": [
+          "Java",
+          "Collections",
+          "Selection",
+          "Flow"
+        ]
+      },
+      {
+        "file": "Java Collections Summary.webp",
+        "displayName": "Java Collections Summary",
+        "tags": [
+          "Java",
+          "Collections",
+          "Summary"
+        ]
+      },
+      {
+        "file": "Java Collections Table CheatSheet.png",
+        "displayName": "Java Collections Table CheatSheet",
+        "tags": [
+          "Java",
+          "Collections"
+        ]
+      },
+      {
+        "file": "Java Developer Roadmap 2023.webp",
+        "displayName": "Java Developer Roadmap 2023",
+        "tags": [
+          "Java",
+          "Roadmap"
+        ]
+      },
+      {
+        "file": "Java Stream.png",
+        "displayName": "Java Stream",
+        "tags": [
+          "Java",
+          "Stream",
+          "Stream API"
+        ]
+      },
+      {
+        "file": "Polling vs Webhook.gif",
+        "displayName": "Polling vs Webhook (bytebytego)",
+        "tags": [
+          "Polling",
+          "Webhook",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Program vs Process vs Thread.jpg",
+        "displayName": "Program vs Process vs Thread",
+        "tags": [
+          "Program",
+          "Process",
+          "Thread"
+        ]
+      },
+      {
+        "file": "The Code Review Pyramid.jpg",
+        "displayName": "The Code Review Pyramid",
+        "tags": [
+          "Code Review"
+        ]
+      },
+      {
+        "file": "The Python Atmosphere.gif",
+        "displayName": "The Python Atmosphere",
+        "tags": [
+          "Python"
+        ]
+      },
+      {
+        "file": "To Crack Coding Interviews.gif",
+        "displayName": "To Crack Coding Interviews",
+        "tags": [
+          "Coding",
+          "Interview"
+        ]
+      },
+      {
+        "file": "Top 4 Data Sharding Algorithms.gif",
+        "displayName": "Top 4 Data Sharding Algorithms",
+        "tags": [
+          "Data",
+          "Sharding",
+          "Algorithms",
+          "Hash"
+        ]
+      },
+      {
+        "file": "What are the greenest programming languages.jpg",
+        "displayName": "What are the greenest programming languages?",
+        "tags": [
+          "Comparison",
+          "Language",
+          "Coding"
+        ]
+      },
+      {
+        "file": "What is a Deadlock.gif",
+        "displayName": "What is a Deadlock (bytebytego)",
+        "tags": [
+          "Deadlock"
+        ]
+      },
+      {
+        "file": "Working of Python vs Java.gif",
+        "displayName": "Working of Python vs Java",
+        "tags": [
+          "Python",
+          "Java"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "container",
+    "displayName": "Container",
+    "references": [
+      {
+        "file": "8 must know Docker Concepts.gif",
+        "displayName": "8 must know Docker Concepts (bytebytego)",
+        "tags": [
+          "Docker Concepts"
+        ]
+      },
+      {
+        "file": "CICD Tools.webp",
+        "displayName": "CICD Tools (bytebytego)",
+        "tags": [
+          "CICD",
+          "DevOps",
+          "Tool"
+        ]
+      },
+      {
+        "file": "Docker vs Container vs Podman.jpg",
+        "displayName": "Docker vs Container vs Podman",
+        "tags": [
+          "Command",
+          "Docker",
+          "Container",
+          "Podman",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "How Docker Commands Work.gif",
+        "displayName": "How Docker Commands Work",
+        "tags": [
+          "Docker",
+          "Commands"
+        ]
+      },
+      {
+        "file": "How does Docker work (animated).gif",
+        "displayName": "How does Docker work? (bytebytego)",
+        "tags": [
+          "Docker",
+          "Flow",
+          "Practice",
+          "Development"
+        ]
+      },
+      {
+        "file": "How does Docker work.jpg",
+        "displayName": "How does Docker work? (bytebytego)",
+        "tags": [
+          "Docker",
+          "Flow",
+          "Practice",
+          "Development"
+        ]
+      },
+      {
+        "file": "Kubernetes Architecture.gif",
+        "displayName": "Kubernetes Architecture",
+        "tags": [
+          "Kubernetes Architecture"
+        ]
+      },
+      {
+        "file": "Kubernetes Cost Reduction Techniques.jpg",
+        "displayName": "Kubernetes Cost Reduction Techniques",
+        "tags": [
+          "Kubernetes",
+          "Cost Reduction"
+        ]
+      },
+      {
+        "file": "Kubernetes K8S.jpg",
+        "displayName": "Kubernetes K8S",
+        "tags": [
+          "Kubernetes",
+          "K8S"
+        ]
+      },
+      {
+        "file": "Kubernetes Stack in Production.gif",
+        "displayName": "Kubernetes Stack in Production",
+        "tags": [
+          "Kubernetes",
+          "K8S"
+        ]
+      },
+      {
+        "file": "Kubernetes Tools Ecosystem.gif",
+        "displayName": "Kubernetes Tools Ecosystem",
+        "tags": [
+          "Kubernetes",
+          "K8S",
+          "Tools",
+          "Ecosystem"
+        ]
+      },
+      {
+        "file": "Kubernetes-1-comparison.png",
+        "displayName": "Kubernetes comparison (bytebytego)",
+        "tags": [
+          "Bare",
+          "Metal",
+          "Virtualized",
+          "Containerized",
+          "Comparison",
+          "Kubernetes"
+        ]
+      },
+      {
+        "file": "Kubernetes-2-components.png",
+        "displayName": "Kubernetes components (bytebytego)",
+        "tags": [
+          "Kubernetes",
+          "pod",
+          "deployment",
+          "control-plane"
+        ]
+      },
+      {
+        "file": "Kubernetes-3-borg.jpg",
+        "displayName": "Kubernetes borg",
+        "tags": [
+          "Kubernetes",
+          "borg"
+        ]
+      },
+      {
+        "file": "Virtualization vs Containerization.jpg",
+        "displayName": "Virtualization vs Containerization",
+        "tags": [
+          "Virtualization",
+          "Containerization",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "What is kubernetes.jpg",
+        "displayName": "What is kubernetes? (bytebytego)",
+        "tags": [
+          "Kubernetes",
+          "pod",
+          "deployment",
+          "control-plane"
+        ]
+      },
+      {
+        "file": "kubectl command behind the scene.jpg",
+        "displayName": "kubectl command behind the scene",
+        "tags": [
+          "kubectl",
+          "command"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "data",
+    "displayName": "Data",
+    "references": [
+      {
+        "file": "100X Postgres Scaling at Figma.gif",
+        "displayName": "100X Postgres Scaling at Figma (bytebytego)",
+        "tags": [
+          "Postgres",
+          "Scaling"
+        ]
+      },
+      {
+        "file": "9 Data Terms Explained.jpg",
+        "displayName": "9 Data Terms Explained",
+        "tags": [
+          "Data Warehouse",
+          "Data Lake",
+          "Data Mart",
+          "Data Pipeline",
+          "Data Mesh",
+          "Delta Lake",
+          "Data Governance",
+          "Big Data Processing",
+          "Cloud Computing"
+        ]
+      },
+      {
+        "file": "9 Types of Database Locks.gif",
+        "displayName": "9 Types of Database Locks",
+        "tags": [
+          "Database Locks"
+        ]
+      },
+      {
+        "file": "9 Types of Databases you must know.gif",
+        "displayName": "9 Types of Databases you must know",
+        "tags": [
+          "Database Types"
+        ]
+      },
+      {
+        "file": "At most once, At least once, Exactly once.png",
+        "displayName": "At most once, At least once, Exactly once",
+        "tags": [
+          "At-most-once",
+          "At-least-once",
+          "Exactly-once",
+          "Comparison",
+          "Concept"
+        ]
+      },
+      {
+        "file": "DB Types.jpg",
+        "displayName": "DB Types (bytebytego)",
+        "tags": [
+          "Database",
+          "Types",
+          "NOSQL",
+          "SQL"
+        ]
+      },
+      {
+        "file": "Database Scaling CheatSheet.gif",
+        "displayName": "Database Scaling CheatSheet (bytebytego)",
+        "tags": [
+          "Database",
+          "Scaling",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "Database Selection Process.jpg",
+        "displayName": "Database Selection Process (bytebytego)",
+        "tags": [
+          "Database",
+          "Factor",
+          "Selection",
+          "Flow",
+          "Process",
+          "Practice",
+          "Requirement"
+        ]
+      },
+      {
+        "file": "Eight Data Structures that power DB - a.jpg",
+        "displayName": "8 Data Structures that power DB (bytebytego)",
+        "tags": [
+          "Scenario",
+          "Data",
+          "Strcuture",
+          "Database",
+          "Selection"
+        ]
+      },
+      {
+        "file": "Eight Data Structures that power DB - b.jpg",
+        "displayName": "8 Data Structures that power DB",
+        "tags": [
+          "Scenario",
+          "Data",
+          "Strcuture",
+          "Database",
+          "Selection"
+        ]
+      },
+      {
+        "file": "Evaluating DB options.png",
+        "displayName": "Evaluating DB options",
+        "tags": [
+          "Comparison",
+          "Evaluation",
+          "Database"
+        ]
+      },
+      {
+        "file": "How to Learn SQL.webp",
+        "displayName": "How to Learn SQL (bytebytego)",
+        "tags": [
+          "SQL",
+          "Command",
+          "Syntax"
+        ]
+      },
+      {
+        "file": "Inner, Left, Right, Full Join.jpg",
+        "displayName": "Inner, Left, Right, Full Join",
+        "tags": [
+          "Join",
+          "Inner",
+          "Outer",
+          "Left",
+          "Right",
+          "Full",
+          "SQL",
+          "Query",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Latency and consistency tradeoffs for data replication.jpg",
+        "displayName": "Latency and consistency tradeoffs for data replication",
+        "tags": [
+          "Latency",
+          "Consistency",
+          "Tradeoffs",
+          "Data",
+          "Replication"
+        ]
+      },
+      {
+        "file": "Most Popular Open Source Database.gif",
+        "displayName": "Most Popular Open Source Database (bytebytego)",
+        "tags": []
+      },
+      {
+        "file": "Open Data Architecture.gif",
+        "displayName": "Open Data Architecture",
+        "tags": [
+          "Open Data Architecture"
+        ]
+      },
+      {
+        "file": "Roadmap to mastering Data Engineering.gif",
+        "displayName": "Roadmap to mastering Data Engineering",
+        "tags": [
+          "Data Engineering",
+          "Roadmap"
+        ]
+      },
+      {
+        "file": "SQL Cheatsheet.gif",
+        "displayName": "SQL Cheatsheet",
+        "tags": [
+          "SQL Cheatsheet"
+        ]
+      },
+      {
+        "file": "SQL JOINs CheatSheet.gif",
+        "displayName": "SQL JOINs CheatSheet",
+        "tags": [
+          "SQL",
+          "JOIN",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "SQL JOINs Explained.gif",
+        "displayName": "SQL JOINs Explained",
+        "tags": [
+          "SQL",
+          "JOIN",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "SQL Query Execution Order.gif",
+        "displayName": "SQL Query Execution Order",
+        "tags": [
+          "SQL Query",
+          "Execution Order"
+        ]
+      },
+      {
+        "file": "SQLite - The Database behing billions of Devices.jpg",
+        "displayName": "SQLite - The Database behing billions of Devices",
+        "tags": [
+          "SQLite",
+          "Database"
+        ]
+      },
+      {
+        "file": "Smooth Data Migration with Avro.jpg",
+        "displayName": "Smooth Data Migration with Avro (bytebytego)",
+        "tags": [
+          "Migration",
+          "Data",
+          "Avro"
+        ]
+      },
+      {
+        "file": "Top 10 Types of Databases.gif",
+        "displayName": "Top 10 Types of Databases",
+        "tags": [
+          "Databases"
+        ]
+      },
+      {
+        "file": "Types of Databases.gif",
+        "displayName": "Types of Databases",
+        "tags": [
+          "Type",
+          "Databases",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Upload a file to S3.jpg",
+        "displayName": "Upload a file to S3",
+        "tags": [
+          "AWS",
+          "Storage",
+          "S3",
+          "File",
+          "Flow"
+        ]
+      },
+      {
+        "file": "What happens when you type SELECT FROM.gif",
+        "displayName": "What Happens When you type SELECT FROM",
+        "tags": [
+          "SELECT FROM"
+        ]
+      },
+      {
+        "file": "Which Database should I use.jpg",
+        "displayName": "Which Database should I use?",
+        "tags": [
+          "Database",
+          "Comparison",
+          "Relational",
+          "NOSQL",
+          "In-Memory"
+        ]
+      },
+      {
+        "file": "Why is PostgreSQL voted most loved.png",
+        "displayName": "Why is PostgreSQL voted most loved? (bytebytego)",
+        "tags": [
+          "Factor",
+          "PostgreSQL"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "domain-concept",
+    "displayName": "Domain Concepts",
+    "references": [
+      {
+        "file": "Basic Search Engine.gif",
+        "displayName": "Basic Search Engine",
+        "tags": [
+          "Search Engine"
+        ]
+      },
+      {
+        "file": "Design a Payment System.png",
+        "displayName": "Design a Payment System",
+        "tags": [
+          "Payment",
+          "System",
+          "Architecture",
+          "Design",
+          "Flow",
+          "Domain",
+          "Use",
+          "Case"
+        ]
+      },
+      {
+        "file": "E-commerce workflow behind the scenes.jpg",
+        "displayName": "E-commerce workflow behind the scenes (bytebytego)",
+        "tags": [
+          "E-commerce",
+          "Workflow",
+          "System",
+          "Architecture",
+          "Design",
+          "Flow",
+          "Domain",
+          "Use",
+          "Case"
+        ]
+      },
+      {
+        "file": "Foreign Exchange in Payments.jpg",
+        "displayName": "Foreign Exchange in Payments",
+        "tags": [
+          "Exchange",
+          "Payment",
+          "Foreign",
+          "System",
+          "Architecture",
+          "Design",
+          "Flow",
+          "Domain",
+          "Use",
+          "Case"
+        ]
+      },
+      {
+        "file": "How do Dispute and Chargeback Work.jpg",
+        "displayName": "How do Dispute and Chargeback Work? (bytebytego)",
+        "tags": [
+          "Dispute",
+          "Chargeback",
+          "Payment",
+          "System",
+          "Architecture",
+          "Design",
+          "Flow",
+          "Domain",
+          "Use",
+          "Case"
+        ]
+      },
+      {
+        "file": "How to avoid double payment.jpg",
+        "displayName": "How to avoid double payment? (bytebytego)",
+        "tags": [
+          "Prevention",
+          "Payment",
+          "System",
+          "Architecture",
+          "Design",
+          "Flow",
+          "Domain",
+          "Use",
+          "Case",
+          "Duplication",
+          "Idempotency"
+        ]
+      },
+      {
+        "file": "How to learn Payments.png",
+        "displayName": "How to learn Payments? (bytebytego)",
+        "tags": [
+          "Payment",
+          "System",
+          "Architecture",
+          "Design",
+          "Flow",
+          "Domain",
+          "Use",
+          "Case",
+          "Concept"
+        ]
+      },
+      {
+        "file": "ISO standard for smart card.png",
+        "displayName": "ISO standard for smart card (bytebytego)",
+        "tags": [
+          "ISO",
+          "standard",
+          "Smart",
+          "Card"
+        ]
+      },
+      {
+        "file": "Key Terms in DDD.jpg",
+        "displayName": "Key Terms in Domain Driven Design - DDD (bytebytego)",
+        "tags": [
+          "Concept",
+          "Term",
+          "Domain",
+          "Driven",
+          "Design"
+        ]
+      },
+      {
+        "file": "Long Term Implications.png",
+        "displayName": "Long Term Implications",
+        "tags": [
+          "Long",
+          "Term",
+          "Implications",
+          "Requirement"
+        ]
+      },
+      {
+        "file": "Longterm-timeline-of-technology.png",
+        "displayName": "A longterm timeline of technology",
+        "tags": [
+          "Technology",
+          "Timeline"
+        ]
+      },
+      {
+        "file": "Money Movement.jpg",
+        "displayName": "Money Movement (bytebytego)",
+        "tags": [
+          "Money",
+          "Movement",
+          "Payment",
+          "System",
+          "Architecture",
+          "Design",
+          "Flow",
+          "Domain",
+          "Use",
+          "Case"
+        ]
+      },
+      {
+        "file": "SSA Framework.jpg",
+        "displayName": "SSA Framework ",
+        "tags": [
+          "SSA",
+          "Framework"
+        ]
+      },
+      {
+        "file": "SWIFT for cross border payments.png",
+        "displayName": "SWIFT for cross border payments (bytebytego)",
+        "tags": [
+          "SWIFT",
+          "Cross",
+          "Border",
+          "Payment"
+        ]
+      },
+      {
+        "file": "The Payments Ecosystem.png",
+        "displayName": "The Payments Ecosystem (bytebytego)",
+        "tags": [
+          "Ecosystem",
+          "Payment",
+          "System",
+          "Architecture",
+          "Design",
+          "Flow",
+          "Domain",
+          "Use",
+          "Case"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "error-handling",
+    "displayName": "Error Handling",
+    "references": [
+      {
+        "file": "Retry Patterns.jpg",
+        "displayName": "Retry Patterns (bytebytego)",
+        "tags": [
+          "Retry",
+          "Pattern",
+          "Concept",
+          "Factor"
+        ]
+      },
+      {
+        "file": "What makes a good error message.jpg",
+        "displayName": "What makes a good error message?",
+        "tags": [
+          "Error",
+          "Handling",
+          "Log",
+          "Logging",
+          "Message"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "frontend",
+    "references": [
+      {
+        "file": "Frontend Performance Cheatsheet.gif",
+        "displayName": "Frontend Performance Cheatsheet (bytebytego)",
+        "tags": [
+          "Frontend",
+          "Performance",
+          "CheatSheet"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "hardware",
+    "references": [
+      {
+        "file": "Key chip suppliers for Apple iPhone 15.jpg",
+        "displayName": "Key chip suppliers for Apple iPhone 15",
+        "tags": [
+          "iPhone",
+          "Chip Suppliers"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "messaging",
+    "displayName": "Messaging (Queue and PubSub)",
+    "references": [
+      {
+        "file": "CQRS and Kafka.jpg",
+        "displayName": "CQRS and Kafka",
+        "tags": [
+          "CQRS",
+          "Kafka"
+        ]
+      },
+      {
+        "file": "Can Kafka lose messages.webp",
+        "displayName": "Can Kafka lose messages? (bytebytego)",
+        "tags": [
+          "Kafka",
+          "Messaging",
+          "Flow",
+          "Resilience"
+        ]
+      },
+      {
+        "file": "Data Pipeline Overview.gif",
+        "displayName": "Data Pipeline Overview (bytebytego)",
+        "tags": [
+          "Data Pipeline"
+        ]
+      },
+      {
+        "file": "Design a Notification Push System.jpg",
+        "displayName": "Design a Notification Push System (bytebytego)",
+        "tags": [
+          "Push",
+          "Notification",
+          "Design",
+          "Queue"
+        ]
+      },
+      {
+        "file": "How do Message Queues evolve.gif",
+        "displayName": "How do Message Queues evolve? (bytebytego)",
+        "tags": [
+          "Message",
+          "Messaging",
+          "Queue",
+          "Comparison",
+          "Tool"
+        ]
+      },
+      {
+        "file": "Kafka in a Nutshell.gif",
+        "displayName": "Kafka in a Nutshell",
+        "tags": [
+          "Kafka",
+          "Messaging"
+        ]
+      },
+      {
+        "file": "Kafka vs RabbitMQ.gif",
+        "displayName": "Kafka vs RabbitMQ",
+        "tags": [
+          "Kafka",
+          "RabbitMQ",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Top 5 Kafka Use Cases.gif",
+        "displayName": "Top 5 Kafka Use Cases",
+        "tags": [
+          "Kafka",
+          "Use",
+          "Case",
+          "Messaging"
+        ]
+      },
+      {
+        "file": "Top 5 Kafka Use Cases.webp",
+        "displayName": "Top 5 Kafka Use Cases (bytebytego)",
+        "tags": [
+          "Kafka",
+          "Use",
+          "Case",
+          "Messaging"
+        ]
+      },
+      {
+        "file": "Why is Kafka fast.jpg",
+        "displayName": "Why is Kafka fast? (bytebytego)",
+        "tags": [
+          "Kafka",
+          "Flow",
+          "Messaging"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "network",
+    "displayName": "Network",
+    "references": [
+      {
+        "file": "7 Layers of the OSI Model.gif",
+        "displayName": "7 Layers of the OSI Model",
+        "tags": [
+          "7 Layers",
+          "OSI Model"
+        ]
+      },
+      {
+        "file": "8 Popular Network Protocols.gif",
+        "displayName": "8 Popular Network Protocols (bytebytego)",
+        "tags": [
+          "Network",
+          "Protocol",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "A beginners guide to CDN.jpg",
+        "displayName": "A beginner's guide to CDN (bytebytego)",
+        "tags": [
+          "CDN"
+        ]
+      },
+      {
+        "file": "Cloud Load Balancer CheatSheet.gif",
+        "displayName": "Cloud Load Balancer CheatSheet (bytebytego)",
+        "tags": [
+          "Cloud",
+          "Load",
+          "Balancer",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "Forward Proxy and Reverse Proxy.jpg",
+        "displayName": "Forward Proxy and Reverse Proxy (bytebytego)",
+        "tags": [
+          "Forward",
+          "Reverse",
+          "Proxy",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "How HTTPS works.jpg",
+        "displayName": "How HTTPS works? (bytebytego)",
+        "tags": [
+          "HTTPS",
+          "Flow",
+          "Concept",
+          "SSL",
+          "TLS",
+          "Handshaking"
+        ]
+      },
+      {
+        "file": "How did we get to HTTP 3.png",
+        "displayName": "How did we get to HTTP 3? (bytebytego)",
+        "tags": [
+          "HTTP",
+          "Flow"
+        ]
+      },
+      {
+        "file": "How does DNS resolve IP.jpg",
+        "displayName": "How does DNS resolve IP?",
+        "tags": [
+          "DNS",
+          "Flow"
+        ]
+      },
+      {
+        "file": "How does HTTPS work.png",
+        "displayName": "How does HTTPS work? (bytebytego)",
+        "tags": [
+          "HTTPS",
+          "TLS",
+          "SSL",
+          "Handshaking",
+          "Flow"
+        ]
+      },
+      {
+        "file": "How does gPRC work.jpg",
+        "displayName": "How does gPRC work? (bytebytego)",
+        "tags": [
+          "gRPC",
+          "RPC",
+          "Comparison",
+          "Flow"
+        ]
+      },
+      {
+        "file": "IPv4 vs IPv6.gif",
+        "displayName": "IPv4 vs IPv6 (bytebytego)",
+        "tags": [
+          "IPv4",
+          "IPv6"
+        ]
+      },
+      {
+        "file": "Internet Traffic Routing Policies.gif",
+        "displayName": "Internet Traffic Routing Policies (bytebytego)",
+        "tags": [
+          "Simple",
+          "Failover",
+          "Geolocation",
+          "Latency",
+          "Multivalue Answer",
+          "Weighted",
+          "DNS",
+          "Internet",
+          "Traffic",
+          "Routing",
+          "Policy"
+        ]
+      },
+      {
+        "file": "Is HTTPS reliable.jpg",
+        "displayName": "Is HTTPS reliable? (bytebytego)",
+        "tags": [
+          "HTTPS",
+          "TLS",
+          "SSL",
+          "Handshaking",
+          "Flow"
+        ]
+      },
+      {
+        "file": "Load Balancer vs API Gateway.png",
+        "displayName": "Load Balancer vs API Gateway (bytebytego)",
+        "tags": [
+          "Load",
+          "Balancer",
+          "API",
+          "Gateway",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Load Balancing Algorithms (bytebytego).jpg",
+        "displayName": "Load Balancing Algorithms (bytebytego)",
+        "tags": [
+          "Load",
+          "Balancer",
+          "Algorithm",
+          "Comparison",
+          "Pattern"
+        ]
+      },
+      {
+        "file": "Load Balancing Algorithms (designgurus).gif",
+        "displayName": "Load Balancing Algorithms (designgurus)",
+        "tags": [
+          "Load",
+          "Balancer",
+          "Algorithm",
+          "Comparison",
+          "Pattern"
+        ]
+      },
+      {
+        "file": "Network Protocols Summarized.gif",
+        "displayName": "Network Protocols Summarized",
+        "tags": [
+          "Network",
+          "Protocols"
+        ]
+      },
+      {
+        "file": "Network Protocols.gif",
+        "displayName": "Network Protocols",
+        "tags": [
+          "Network",
+          "Protocols"
+        ]
+      },
+      {
+        "file": "Networking Models.gif",
+        "displayName": "Networking Models",
+        "tags": [
+          "Networking",
+          "Model",
+          "OSI",
+          "TCPIP"
+        ]
+      },
+      {
+        "file": "Reliable UDP in Gaming.jpg",
+        "displayName": "Reliable UDP in Gaming (bytebytego)",
+        "tags": [
+          "Protocol",
+          "UDP",
+          "Gaming",
+          "Flow"
+        ]
+      },
+      {
+        "file": "The Working of Firewall Explained.gif",
+        "displayName": "The Working of Firewall Explained",
+        "tags": [
+          "Firewall"
+        ]
+      },
+      {
+        "file": "Top 12 Load Balancing Techniques.gif",
+        "displayName": "Top 12 Load Balancing Techniques",
+        "tags": [
+          "Load Balancer",
+          "Load Balancing",
+          "Techniques"
+        ]
+      },
+      {
+        "file": "Types of VPNs.jpg",
+        "displayName": "Types of VPNs",
+        "tags": [
+          "VPN",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "What Happens When You Type in a URL in a Browser.gif",
+        "displayName": "What Happens When You Type in a URL in a Browser",
+        "tags": [
+          "URL",
+          "Browser"
+        ]
+      },
+      {
+        "file": "What is OSI model.gif",
+        "displayName": "What is OSI model (bytebytego)",
+        "tags": [
+          "OSI",
+          "Comparison",
+          "Layer",
+          "Network"
+        ]
+      },
+      {
+        "file": "What is OSI model.jpg",
+        "displayName": "What is OSI model (bytebytego)",
+        "tags": [
+          "OSI",
+          "Comparison",
+          "Layer",
+          "Network"
+        ]
+      },
+      {
+        "file": "Why HTTP2 is faster than HTTP1.gif",
+        "displayName": "Why HTTP2 is faster than HTTP1 (bytebytego)",
+        "tags": [
+          "HTTP2"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "performance",
+    "displayName": "Performance",
+    "references": [
+      {
+        "file": "5 Methods to Improve API Performance.gif",
+        "displayName": "5 Methods to Improve API Performance",
+        "tags": [
+          "API Performance",
+          "Improvement"
+        ]
+      },
+      {
+        "file": "8 Must Know Strategies to Scale Your System.gif",
+        "displayName": "8 Must Know Strategies to Scale Your System (bytebytego)",
+        "tags": [
+          "Scaling"
+        ]
+      },
+      {
+        "file": "Design Principles for High Concurrency, High Availability, and Quick Responsiveness System.png",
+        "displayName": "Design Principles for High Concurrency, High Availability, and Quick Responsiveness System",
+        "tags": [
+          "Design",
+          "Principles",
+          "Concurrency",
+          "Responsiveness",
+          "Performance"
+        ]
+      },
+      {
+        "file": "From 0 to Millions - a Guide to Scaling Your App.jpg",
+        "displayName": "From 0 to Millions - a Guide to Scaling Your App (bytebytego)",
+        "tags": [
+          "Scaling",
+          "Performance"
+        ]
+      },
+      {
+        "file": "How does a modern stock exchange achieve microsecond latency - a.png",
+        "displayName": "Low Latency Stock Exchange Design",
+        "tags": [
+          "Latency",
+          "Stock",
+          "Exchange",
+          "Performance"
+        ]
+      },
+      {
+        "file": "How does a modern stock exchange achieve microsecond latency - b.png",
+        "displayName": "Low Latency Stock Exchange Design",
+        "tags": [
+          "Latency",
+          "Stock",
+          "Exchange",
+          "Performance"
+        ]
+      },
+      {
+        "file": "How to improve API Performance.gif",
+        "displayName": "How to improve API Performance (bytebytego)",
+        "tags": [
+          "API Performance"
+        ]
+      },
+      {
+        "file": "How to scale a website step by step.jpg",
+        "displayName": "How to scale a website step by step? (bytebytego)",
+        "tags": [
+          "Latency",
+          "Stock",
+          "Exchange",
+          "Performance",
+          "Load",
+          "Balancer"
+        ]
+      },
+      {
+        "file": "Latency Numbers you show know.jpg",
+        "displayName": "Latency Numbers you show know (bytebytego)",
+        "tags": [
+          "Latency",
+          "Performance",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Nodejs Performance Optimization.gif",
+        "displayName": "Node.js Performance Optimization",
+        "tags": [
+          "node.js",
+          "Performance Optimization"
+        ]
+      },
+      {
+        "file": "Performance testing and Benchmarking.png",
+        "displayName": "Performance testing and Benchmarking",
+        "tags": [
+          "Performance",
+          "SQL",
+          "Database",
+          "Factor"
+        ]
+      },
+      {
+        "file": "Vertical partitioning vs Horizontal partitioning.png",
+        "displayName": "Vertical partitioning vs Horizontal partitioning",
+        "tags": [
+          "Partitioning",
+          "Vertical",
+          "Horizontal",
+          "Performance"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "security",
+    "displayName": "Security",
+    "references": [
+      {
+        "file": "12 Tips for API Security.gif",
+        "displayName": "12 Tips for API Security (bytebytego)",
+        "tags": [
+          "API",
+          "Security",
+          "HTTPS",
+          "OAuths",
+          "WebAuthn",
+          "Key",
+          "Authorization",
+          "Rate Limiting",
+          "OWASP",
+          "Allowlist",
+          "Versioning",
+          "Gateway",
+          "Error Handling",
+          "Validation"
+        ]
+      },
+      {
+        "file": "CheatSheet for Designing Secure Systems.gif",
+        "displayName": "CheatSheet for Designing Secure Systems (bytebytego)",
+        "tags": [
+          "CheatSheet",
+          "Design",
+          "Secure",
+          "System"
+        ]
+      },
+      {
+        "file": "Encoding vs Encryption vs Tokenization.webp",
+        "displayName": "Encoding vs Encryption vs Tokenization (bytebytego)",
+        "tags": [
+          "Encoding",
+          "Encryption",
+          "Tokenization"
+        ]
+      },
+      {
+        "file": "End-to-End Encryption.jpg",
+        "displayName": "End-to-End Encryption",
+        "tags": [
+          "Encryption"
+        ]
+      },
+      {
+        "file": "How OAuth 2 works.gif",
+        "displayName": "How OAuth 2 works",
+        "tags": [
+          "OAuth2"
+        ]
+      },
+      {
+        "file": "How SSO works (SAML 2).gif",
+        "displayName": "How SSO works (SAML 2.0)",
+        "tags": [
+          "SSO",
+          "Single",
+          "Sign-on",
+          "SAML2"
+        ]
+      },
+      {
+        "file": "How SSO works.jpg",
+        "displayName": "How Single Sign-On (SSO) works? (bytebytego)",
+        "tags": [
+          "SSO",
+          "Single",
+          "Sign-on",
+          "Security",
+          "Token",
+          "Flow",
+          "SAML"
+        ]
+      },
+      {
+        "file": "How does SSO work.jpg",
+        "displayName": "How does SSO work (bytebytego)",
+        "tags": [
+          "SSO",
+          "Single",
+          "Sign-on",
+          "Security",
+          "Token",
+          "Flow",
+          "SAML"
+        ]
+      },
+      {
+        "file": "How to design secure web API.jpg",
+        "displayName": "How to design secure web API",
+        "tags": [
+          "Comparison",
+          "Token",
+          "HMAC",
+          "Algorithm"
+        ]
+      },
+      {
+        "file": "How to store passwords in DB.jpg",
+        "displayName": "How to store passwords in DB",
+        "tags": [
+          "Password",
+          "Database",
+          "Storage"
+        ]
+      },
+      {
+        "file": "JSON Web Token Simple Explanation.jpg",
+        "displayName": "JSON Web Token Simple Explanation (bytebytego)",
+        "tags": [
+          "JWT",
+          "Token",
+          "JSON",
+          "Concept",
+          "Structure"
+        ]
+      },
+      {
+        "file": "REST API Authentication Methods.gif",
+        "displayName": "REST API Authentication Methods",
+        "tags": [
+          "REST",
+          "API",
+          "Authentication",
+          "Methods",
+          "Basic",
+          "Token",
+          "OAuth",
+          "Key"
+        ]
+      },
+      {
+        "file": "REST API Authentication Methods.webp",
+        "displayName": "REST API Authentication Methods (bytebytego)",
+        "tags": [
+          "REST",
+          "API",
+          "Authentication",
+          "Methods",
+          "Basic",
+          "Token",
+          "OAuth",
+          "Key"
+        ]
+      },
+      {
+        "file": "Session, Cookie, JWT, Token, SSO, OAuth2.jpg",
+        "displayName": "Session, Cookie, JWT, Token, SSO, OAuth2 (bytebytego)",
+        "tags": [
+          "Session",
+          "Cookie",
+          "JWT",
+          "Token",
+          "SSO",
+          "OAuth2",
+          "Flow",
+          "Comparison",
+          "Security"
+        ]
+      },
+      {
+        "file": "Sessions vs JWTs.gif",
+        "displayName": "Sessions vs JWTs (bytebytego)",
+        "tags": [
+          "Sessions",
+          "JWTs"
+        ]
+      },
+      {
+        "file": "Symmetric vs Asymmetric Encryption.jpg",
+        "displayName": "Symmetric vs Asymmetric Encryption (bytebytego)",
+        "tags": [
+          "Symmetric Encryption",
+          "Asymmetric Encryption",
+          "Encryption",
+          "Symmetric",
+          "Asymmetric"
+        ]
+      },
+      {
+        "file": "The payment security - problem and solution.png",
+        "displayName": "The payment security - problem and solution",
+        "tags": [
+          "Payment",
+          "Problem",
+          "Solution",
+          "Techniques"
+        ]
+      },
+      {
+        "file": "Tokenization.gif",
+        "displayName": "Tokenization",
+        "tags": [
+          "Tokenization",
+          "Token"
+        ]
+      },
+      {
+        "file": "XROSS Site Scripting.JPG",
+        "displayName": "XROSS Site Scripting (bytebytego)",
+        "tags": [
+          "XSS",
+          "XROSS Site Scripting"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "soft-skills",
+    "references": [
+      {
+        "file": "10 Dangerous Personalities to Avoid.jpg",
+        "displayName": "10 Dangerous Personalities to Avoid",
+        "tags": [
+          "Dangerous"
+        ]
+      },
+      {
+        "file": "Everything you can do in Excel.jpg",
+        "displayName": "Everything you can do in Excel",
+        "tags": [
+          "Excel"
+        ]
+      },
+      {
+        "file": "Full Stack Developer.jpg",
+        "displayName": "Full Stack Developer",
+        "tags": [
+          "Full Stack Developer",
+          "Skill Set"
+        ]
+      },
+      {
+        "file": "How to Cope wih Work Stress.jpg",
+        "displayName": "How to Cope wih Work Stress",
+        "tags": [
+          "Work Stress",
+          "Stress",
+          "Soft Skill"
+        ]
+      },
+      {
+        "file": "Job Interview Cheat Sheet.jpg",
+        "displayName": "Job Interview Cheat Sheet",
+        "tags": [
+          "Job",
+          "Interview",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "Journey of Becoming a Software Architect.gif",
+        "displayName": "Journey of Becoming a Software Architect",
+        "tags": [
+          "Software Architect"
+        ]
+      },
+      {
+        "file": "Junior to Senior Developer Roadmap.gif",
+        "displayName": "Junior to Senior Developer Roadmap (bytebytego)",
+        "tags": [
+          "Developer Roadmap"
+        ]
+      },
+      {
+        "file": "My Recommended Resources for Tech Interviews.gif",
+        "displayName": "My Recommended Resources for Tech Interviews (bytebytego)",
+        "tags": [
+          "Interview"
+        ]
+      },
+      {
+        "file": "The Full Stack Atmosphere.jpg",
+        "displayName": "The Full Stack Atmosphere",
+        "tags": [
+          "Full Stack"
+        ]
+      },
+      {
+        "file": "The Scrum Journey.gif",
+        "displayName": "The Scrum Journey",
+        "tags": [
+          "Soft Skill",
+          "Scrum",
+          "Journey"
+        ]
+      },
+      {
+        "file": "Time Management Cheat Sheet.jpg",
+        "displayName": "Time Management Cheat Sheet",
+        "tags": [
+          "Time Management",
+          "Cheat Sheet"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "support",
+    "displayName": "Support (Alerting, Auditing, Logging and Monitoring)",
+    "references": [
+      {
+        "file": "Debugging Tactics.jpg",
+        "displayName": "Debugging Tactics",
+        "tags": [
+          "Log",
+          "Logging",
+          "Debug",
+          "Debugging"
+        ]
+      },
+      {
+        "file": "ELK Stack.png",
+        "displayName": "ELK Stack Illustrated (bytebytego)",
+        "tags": [
+          "Log",
+          "Logging",
+          "Debug",
+          "Debugging",
+          "ELK",
+          "Architecture",
+          "Design",
+          "Flow"
+        ]
+      },
+      {
+        "file": "How are Notifications pushed to our devices.jpg",
+        "displayName": "How are Notifications pushed to our devices (bytebytego)",
+        "tags": [
+          "Notification",
+          "Alert",
+          "Alerting",
+          "Architecture",
+          "Design",
+          "Flow"
+        ]
+      },
+      {
+        "file": "Log Parsing Cheat Sheet.jpg",
+        "displayName": "Log Parsing Cheat Sheet",
+        "tags": [
+          "Log",
+          "Logging",
+          "Parse",
+          "Parsing",
+          "Cheat",
+          "Command",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Logging Tracing Metrics.gif",
+        "displayName": "Logging, Tracing, Metrics (bytebytego)",
+        "tags": [
+          "Log",
+          "Logging",
+          "Trace",
+          "Tracing",
+          "Metric",
+          "Flow",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Metric Monitoring and Alerting system.png",
+        "displayName": "Metric, Monitoring and Alerting System",
+        "tags": [
+          "Metric",
+          "Monitoring",
+          "Alerting",
+          "Architecture",
+          "Design"
+        ]
+      },
+      {
+        "file": "The log4j JNDI attack.jpg",
+        "displayName": "The Log4j JNDI Attack and how to prevent it",
+        "tags": [
+          "Log",
+          "Logging",
+          "Incident",
+          "Bug",
+          "Attack",
+          "Flow"
+        ]
+      },
+      {
+        "file": "Top 6 Log Parsing Commands.jpg",
+        "displayName": "Top 6 Log Parsing Commands (bytebytego)",
+        "tags": [
+          "Log Parsing",
+          "Linux Commands"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "system",
+    "displayName": "System (Linux / Unix)",
+    "references": [
+      {
+        "file": "Cron Cheatsheet.jpg",
+        "displayName": "Cron Cheatsheet",
+        "tags": [
+          "Cron",
+          "CheatSheet"
+        ]
+      },
+      {
+        "file": "How Linux Works.gif",
+        "displayName": "How Linux Works",
+        "tags": [
+          "Linux",
+          "Flow",
+          "Core"
+        ]
+      },
+      {
+        "file": "How to choose an OS.jpg",
+        "displayName": "How to choose an OS",
+        "tags": [
+          "OS",
+          "Operating Systems"
+        ]
+      },
+      {
+        "file": "Linux Boot Process Explained.gif",
+        "displayName": "Linux Boot Process Explained (bytebytego)",
+        "tags": [
+          "Linux",
+          "Boot Process"
+        ]
+      },
+      {
+        "file": "Linux File Permissions.jpg",
+        "displayName": "Linux File Permissions (bytebytego)",
+        "tags": [
+          "Linux",
+          "File",
+          "Permissions"
+        ]
+      },
+      {
+        "file": "Linux Files Systems.gif",
+        "displayName": "Linux Files Systems",
+        "tags": [
+          "Linux",
+          "Files",
+          "Systems"
+        ]
+      },
+      {
+        "file": "Linux Performance Observability Tools.jpg",
+        "displayName": "Linux Performance Observability Tools",
+        "tags": [
+          "Linux",
+          "Performance",
+          "Observability",
+          "Tool"
+        ]
+      },
+      {
+        "file": "List of Important Linux Commands.gif",
+        "displayName": "List of Important Linux Commands.",
+        "tags": [
+          "Linux",
+          "Command"
+        ]
+      },
+      {
+        "file": "Top 9 Cases Behind 100% CPU Usage.gif",
+        "displayName": "Top 9 Cases Behind 100% CPU Usage (bytebytego)",
+        "tags": [
+          "CPU Usage"
+        ]
+      },
+      {
+        "file": "What is Time and Clock.jpg",
+        "displayName": "What is Time and Clock?",
+        "tags": [
+          "Time",
+          "Clock"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "testing",
+    "references": [
+      {
+        "file": "9 Types API Testing.gif",
+        "displayName": "9 Types API Testing (bytebytego)",
+        "tags": [
+          "REST",
+          "Testing",
+          "API",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "API Testing.gif",
+        "displayName": "API Testing",
+        "tags": [
+          "API Testing"
+        ]
+      },
+      {
+        "file": "Best Ways to Test System Functionality.gif",
+        "displayName": "Best Ways to Test System Functionality",
+        "tags": [
+          "System Functionality Test"
+        ]
+      },
+      {
+        "file": "Types of Software Testing.gif",
+        "displayName": "Types of Software Testing",
+        "tags": [
+          "Software Testing"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "ui-ux",
+    "displayName": "UI and UX",
+    "references": [
+      {
+        "file": "Frontend Performance Cheatsheet.gif",
+        "displayName": "Frontend Performance Cheatsheet (bytebytego)",
+        "tags": [
+          "Frontend",
+          "Performance",
+          "CheatSheet"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "use-case",
+    "displayName": "Use Cases",
+    "references": [
+      {
+        "file": "AWS Healthcare analytics reference architecture.gif",
+        "displayName": "AWS Healthcare analytics reference architecture",
+        "tags": [
+          "AWS Healthcare analytics",
+          "Architecture"
+        ]
+      },
+      {
+        "file": "Airbnb Microservice Architecture.jpg",
+        "displayName": "Airbnb Microservice Architecture",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Airbnb"
+        ]
+      },
+      {
+        "file": "Amazon System Architecture in 1998.jpg",
+        "displayName": "Amazon System Architecture in 1998",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Amazon"
+        ]
+      },
+      {
+        "file": "Apple Pay and Google Pay Security.jpg",
+        "displayName": "Apple Pay and Google Pay Security? (bytebytego)",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Apple",
+          "Google",
+          "Payment"
+        ]
+      },
+      {
+        "file": "Behind the Scenes - Buying with a Bank Card.jpg",
+        "displayName": "Behind the Scenes - Buying with a Bank Card (bytebytego)",
+        "tags": [
+          "Bank Card"
+        ]
+      },
+      {
+        "file": "Database Used in Netflix.gif",
+        "displayName": "Database Used in Netflix",
+        "tags": [
+          "Use Case",
+          "Database",
+          "Netflix"
+        ]
+      },
+      {
+        "file": "Facebook System Design.gif",
+        "displayName": "Facebook System Design",
+        "tags": [
+          "Facebook",
+          "System Design"
+        ]
+      },
+      {
+        "file": "Google Maps.png",
+        "displayName": "Google Maps?",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Map",
+          "Google"
+        ]
+      },
+      {
+        "file": "How Netflix really uses Java.gif",
+        "displayName": "How Netflix really uses Java? (bytebytego)",
+        "tags": [
+          "Netflix",
+          "Coding",
+          "Design",
+          "Flow",
+          "Java"
+        ]
+      },
+      {
+        "file": "How Slack decides whether to send a user a notification.jpg",
+        "displayName": "How Slack decides whether to send a user a notification?",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Notification",
+          "Slack"
+        ]
+      },
+      {
+        "file": "How does Live Streaming work.jpg",
+        "displayName": "How does Live Streaming work? (bytebytego)",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Streaming",
+          "YouTube"
+        ]
+      },
+      {
+        "file": "How does Order Books work.png",
+        "displayName": "How does Order Books work?",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "E-commerce"
+        ]
+      },
+      {
+        "file": "How does Scan2Pay work.jpg",
+        "displayName": "How does Scan2Pay work? (bytebytego)",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Scan2Pay"
+        ]
+      },
+      {
+        "file": "How does VISA make money.gif",
+        "displayName": "How does VISA make money? (bytebytego)",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Payment",
+          "VISA"
+        ]
+      },
+      {
+        "file": "How does VISA work.jpg",
+        "displayName": "How does VISA work? (bytebytego)",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Payment",
+          "VISA"
+        ]
+      },
+      {
+        "file": "How does YouTube handle massive video content upload.png",
+        "displayName": "How does YouTube handle massive video content upload? (bytebytego)",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "YouTube",
+          "Video",
+          "Upload"
+        ]
+      },
+      {
+        "file": "Instagram Architecture.gif",
+        "displayName": "Instagram Architecture",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Instagram"
+        ]
+      },
+      {
+        "file": "Instagram System Design.gif",
+        "displayName": "Instagram System Design",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Instagram"
+        ]
+      },
+      {
+        "file": "Netflix - New Member History Process.PNG",
+        "displayName": "Netflix - New Member History Process",
+        "tags": [
+          "Netflix",
+          "New Member History Process"
+        ]
+      },
+      {
+        "file": "Netflix - The Member Service Architecture.PNG",
+        "displayName": "Netflix - The Member Service Architecture",
+        "tags": [
+          "Netflix",
+          "Member Service Architecture"
+        ]
+      },
+      {
+        "file": "Netflix - The Signup Process.PNG",
+        "displayName": "Netflix - The Signup Process",
+        "tags": [
+          "Netflix",
+          "Signup Process"
+        ]
+      },
+      {
+        "file": "Netflix Tech Stack CICD Pipeline.jpg",
+        "displayName": "Netflix Tech Stack CICD Pipeline (bytebytego)",
+        "tags": [
+          "Netflix",
+          "Tech Stack",
+          "CICD Pipeline"
+        ]
+      },
+      {
+        "file": "Netflix overall architecture.jpg",
+        "displayName": "Netflix overall architecture",
+        "tags": [
+          "Netflix",
+          "Architecture"
+        ]
+      },
+      {
+        "file": "Prometheus Architecture.gif",
+        "displayName": "Prometheus Architecture",
+        "tags": [
+          "Prometheus Architecture"
+        ]
+      },
+      {
+        "file": "Stack Overflow Architecture.jpg",
+        "displayName": "Stack Overflow Architecture (bytebytego)",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Stack Overflow"
+        ]
+      },
+      {
+        "file": "Telegram System Design.gif",
+        "displayName": "Telegram System Design",
+        "tags": [
+          "Telegram",
+          "Architecture"
+        ]
+      },
+      {
+        "file": "The Core Reddit Architecture.gif",
+        "displayName": "The Core Reddit Architecture (bytebytego)",
+        "tags": [
+          "Architecture",
+          "Reddit"
+        ]
+      },
+      {
+        "file": "Tickets booking system.jpg",
+        "displayName": "Tickets booking system (bytebytego)",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Ticket",
+          "Booking"
+        ]
+      },
+      {
+        "file": "Tinder Architecture.gif",
+        "displayName": "Tinder Architecture",
+        "tags": [
+          "Tinder",
+          "Architecture"
+        ]
+      },
+      {
+        "file": "Twitter Architecture 2022.png",
+        "displayName": "Twitter Architecture 2022",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Twitter"
+        ]
+      },
+      {
+        "file": "What happens when you switch on your mobile.gif",
+        "displayName": "What happens when you switch on your mobile",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Mobile",
+          "Flow"
+        ]
+      },
+      {
+        "file": "Whatsapp Architecture.gif",
+        "displayName": "Whatsapp Architecture",
+        "tags": [
+          "Whatsapp",
+          "Architecture"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "web",
+    "displayName": "Web Development",
+    "references": [
+      {
+        "file": "Cookies and Sessions.jpg",
+        "displayName": "Cookies and Sessions (bytebytego)",
+        "tags": [
+          "Cookies",
+          "Sessions"
+        ]
+      },
+      {
+        "file": "How do modern browsers work.jpg",
+        "displayName": "How do modern browsers work?",
+        "tags": [
+          "Browser",
+          "Concept"
+        ]
+      },
+      {
+        "file": "How does the browser render a web page.jpg",
+        "displayName": "How does the browser render a web page? (bytebytego)",
+        "tags": [
+          "DOM",
+          "CSSOM",
+          "Browser"
+        ]
+      },
+      {
+        "file": "MVC, MVP, MVVM, MVVMC, VIPER.jpg",
+        "displayName": "MVC, MVP, MVVM, MVVMC, VIPER pattern (bytebytego)",
+        "tags": [
+          "MVC",
+          "MVP",
+          "MVVM",
+          "MVVMC",
+          "VIPER",
+          "Pattern",
+          "Comparison"
+        ]
+      },
+      {
+        "file": "Typical Architecture of a Web Application.gif",
+        "displayName": "Typical Architecture of a Web Application (bytebytego)",
+        "tags": [
+          "Architecture",
+          "Web Application"
+        ]
+      },
+      {
+        "file": "URL, URI, URN.jpg",
+        "displayName": "URL vs URI vs URN (bytebytego)",
+        "tags": [
+          "URL",
+          "URI",
+          "URN",
+          "Comparison",
+          "Concept"
+        ]
+      },
+      {
+        "file": "Web Application and Software Architecture.gif",
+        "displayName": "Web Application and Software Architecture",
+        "tags": [
+          "Web Application",
+          "Software Architecture"
+        ]
+      },
+      {
+        "file": "What happens when you type a URL into your browser.jpg",
+        "displayName": "What happens when you type a URL into your browser? (bytebytego)",
+        "tags": [
+          "URL",
+          "Browser",
+          "DNS"
+        ]
+      }
+    ]
+  }
+]

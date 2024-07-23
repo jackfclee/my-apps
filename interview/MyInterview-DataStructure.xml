@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Data Structure / Collection interface
+What is the difference between Array, List, Set, Map?
+    </question>
+    <answer>
+Java Collections framework is used for storing and manipulating group of data. It is an in-memory data structure.
+https://www.geeksforgeeks.org/difference-between-list-set-and-map-in-java/
+https://www.tutorialspoint.com/differences-between-arraylist-and-linkedlist-in-java
+https://www.tutorialspoint.com/differences-between-arraylist-and-vector-in-java
+https://www.geeksforgeeks.org/set-in-java/
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is Array?  -- Static memory size
+    </question>
+    <answer>
+⏵ Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+⏵ An array is a fixed-size collection of elements of the same type. 
+⏵ Arrays are typically indexed by a contiguous range of integers and offer fast access to individual elements based on their index. 
+⏵ However, arrays have a fixed size and cannot be resized once created, so they may not be the best choice for situations where the size of the collection is likely to change.
+⏵ Array is a fixed length data structure whereas ArrayList is a variable length Collection class.
+⏵ As we all are aware of that arrays are linear data structures providing functionality to add elements in a continuous manner in memory address space whereas ArrayList is a class belonging to the Collection framework. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is List?  -- If you need to access the elements frequently by using the index then we can use the list
+    </question>
+    <answer>
+⏵ List extends the Collection interface
+⏵ A list is a collection of elements that can grow or shrink as needed. Lists are typically implemented as dynamic arrays, which means that they can automatically resize themselves as elements are added or removed. Lists offer fast access to individual elements based on their index, but they may be slower than arrays when inserting or deleting elements in the middle of the list.
+⏵ List is the index-based methods to insert, update, delete, and search the elements. 
+⏵ It can have duplicate elements
+⏵ Maintains insertion order
+⏵ Add any number of null values
+⏵ Provides get() method to get the element at a specified index.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is Set?  -- If you want to create a collection of unique elements then we can use set
+    </question>
+    <answer>
+⏵ Set extends the Collection interface
+⏵ A set is a collection of unique elements that does not allow duplicates. Sets are typically implemented as hash tables or trees, and they offer fast membership tests (i.e., checking if an element is in the set) but do not provide any ordering or indexing of the elements.
+⏵ Duplicate values cannot be stored
+⏵ Unordered collection of objects
+⏵ Only one null value
+⏵ Not provide get method to get the elements at a specified index
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is Map?  -- If you want to store the data in the form of key/value pair then we can use the map.
+    </question>
+    <answer>
+⏵ A map (also known as a dictionary or associative array) is a collection of key-value pairs, where each key is unique and is used to look up the corresponding value. 
+⏵ Each key is linked to a specific value.
+⏵ Look up the value using just the key.
+⏵ Maps are typically implemented as hash tables or trees and offer fast key-based lookups, but they do not provide any ordering or indexing of the elements.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is ArrayList?  -- (prefer for read scenario)
+    </question>
+    <answer>
+⏵ dynamic array to store the elements.
+⏵ Manipulation with ArrayList is slow because it internally uses an array. 
+⏵ If any element is removed from the array, all the other elements are shifted in memory.
+⏵ better for storing and accessing
+⏵ cache friendly
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is LinkedList?  -- (perfer for add/remove scenario)
+    </question>
+    <answer>
+⏵ Doubly linked list to store the elements.
+⏵ Manipulation with LinkedList is faster than ArrayList because it uses a doubly linked list, so no bit shifting is required in memory.
+⏵ Better for manipulating data.
+⏵ More memory overhead than ArrayList
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+ArrayList vs LinkedList
+    </question>
+    <answer>
+If elements are going to be fetched often, it makes little sense to use LinkedList since fetching is slower compared to ArrayList. On the other hand, if constant-time insertions are needed or if the total size is unknown beforehand then LinkedList is preferred.
+
+ArrayList internally uses a dynamic array to store its elements. LinkedList uses Doubly Linked List to store its elements. ArrayList is slow as array manipulation is slower. LinkedList is faster being node based as not much bit shifting required.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+LinkedHashMap vs HashMap
+    </question>
+    <answer>
+LinkedHashMap maintains the insertion order of keys, the order in which keys are inserted into LinkedHashMap. On the other hand, HashMap doesn't maintain any order or keys, or values.
+Both LinkedHashMap and HashMap are not synchronized and subject to race conditions if shared between multiple threads without proper synchronization.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+HashMap vs Hashtable
+    </question>
+    <answer>
+Though both HashMap and Hashtable are based upon hash table data structure, there are subtle difference between them. HashMap is non synchronized while Hashtable is synchronized and because of that HashMap is faster than Hashtable, as there is no cost of synchronization associated with it. One more minor difference is that HashMap allows a null key but Hashtable doesn’t.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+HashMap vs HashSet
+    </question>
+    <answer>
+HashSet implements java.util.Set interface and that’s why only contains unique elements, while HashMap allows duplicate values.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+TreeSet vs TreeMap
+    </question>
+    <answer>
+Though both are sorted collection, TreeSet is essentially a Set data structure which doesn’t allow duplicate and TreeMap is an implementation of Map interface. 
+In reality, TreeSet is implemented via a TreeMap, much like how HashSet is implemented using HashMap.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+SimpleArray vs ArrayList
+    </question>
+    <answer>
+Array is fixed length data structure, once created you can not change it’s length. On the other hand, ArrayList is dynamic, it automatically allocate a new array and copies content of old array, when it resize. Another reason of using ArrayList over Array is support of Generics. Array doesn’t support Generics, and if you store an Integer object on a String array, you will only going to know about it at runtime, when it throws ArrayStoreException. On the other hand, if you use ArrayList, compiler and IDE will catch those error on the spot. So if you know size in advance and you don’t need re-sizing than use array, otherwise use ArrayList.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+List vs Queue vs Set
+    </question>
+    <answer>
+A list is an ordered list of objects, where the same object may well appear more than once.
+
+A queue is also ordered, but you'll only ever touch elements at one end. All elements get inserted at the "end" and removed from the "beginning" (or head) of the queue. 
+
+A set is not ordered and cannot contain duplicates. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+what is transient?
+    </question>
+    <answer>
+Transient variables are not saved during the Serialization process. As the name suggests they are transient and not really part of the object’s state. You can use a transient variable to exclude certain 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+what is serialversionuid?
+    </question>
+    <answer>
+The serialization runtime associates with each serializable class a version number, called a serialVersionUID, which is used during deserialization to verify that the sender and receiver of a serialized object have loaded classes for that object that are compatible with respect to serialization. If the receiver has loaded a class for the object that has a different serialVersionUID than that of the corresponding sender's class, then deserialization will result in an InvalidClassException. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Iterator vs Enumeration
+    </question>
+    <answer>
+It is a universal iterator as we can apply it to any Collection object. By using Iterator, we can perform both read and remove operations.
+Enumeration (or enum) is a user-defined data type. It is mainly used to assign names to integral constants, the names make a program easy to read and maintain.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+what if hashcode = 1
+    </question>
+    <answer>
+Whenever two different objects have the same hash code, we call this a collision. A collision is nothing critical, it just means that there is more than one object in a single bucket, so a HashMap lookup has to look again to find the right object.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+will it be faster when there is a hashcode 
+    </question>
+    <answer>
+In general, the performance of a hash map (also known as a hash table) depends on several factors, including the quality of the hash function, the number of collisions that occur, and the way that collisions are handled.
+
+If the hash function is effective at distributing the data evenly across the buckets of the hash map, and if there are relatively few collisions, the hash map can be very fast at storing and retrieving data. On the other hand, if the hash function is poorly designed or if there are many collisions, the hash map may be slower and may require more memory to store the data.
+
+In general, a hash map with fewer collisions will be faster than a hash map with more collisions, as it will require fewer probes to find the data. However, there is no guarantee that a hash map with a specific hash code will be faster than another hash map, as the performance of the hash map depends on many other factors as well.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Map(Object, Object), how to compare the key
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Which collection class should I use for unique data?
+    </question>
+    <answer>
+⏵ Set: A Set is a collection that does not allow duplicate elements. There are several implementations of Set in the Java Collections Framework, including HashSet, LinkedHashSet, and TreeSet. HashSet is the most efficient implementation, but it does not guarantee any specific order of the elements. LinkedHashSet preserves the order in which elements are added, and TreeSet maintains the elements in ascending order according to their natural ordering or based on a comparator provided at the time of creation.
+⏵ SortedSet: A SortedSet is a Set that maintains the elements in ascending order according to their natural ordering or based on a comparator provided at the time of creation. TreeSet is an implementation of SortedSet.
+⏵ EnumSet: An EnumSet is a specialized Set implementation for use with enum types. It is more efficient than a HashSet for storing enum values and has some additional methods for efficiently working with enum sets.
+⏵ ConcurrentSkipListSet: A ConcurrentSkipListSet is a thread-safe Set implementation that uses a skip list data structure to store the elements. It allows multiple threads to concurrently access the set without the need for external synchronization.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is peek vs map?
+    </question>
+    <answer>
+peek is for debugging, can change state before printing without changing the value of the element
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+stack vs queue
+    </question>
+    <answer>
+⏵ Stack is a container of objects that are inserted and removed according to the last-in first-out (LIFO) principle. 
+⏵ Queue is a container of objects (a linear collection) that are inserted and removed according to the first-in first-out (FIFO) principle.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+How does HashSet works in Java?
+    </question>
+    <answer>
+HashSet is internally implemented using HashMap in Java and this is what your interviewer wants to hear. He could then quiz you with some common sense based question e.g. how can you use HashMap because its needs two object key and value? what is the value in case of HashSet? Well, in case of HashSet a dummy object is used as value and key objects are the actual element on Set point of view. Since HashMap doesn’t allow duplicate key it also follows contract of set data structure to not allow duplicates.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+How does HashMap work in Java?
+    </question>
+    <answer>
+HashMap uses multiple buckets and each bucket points to a Singly Linked List where the entries (nodes) are stored. Once the bucket is identified by the hash function using hashcode, then hashCode is used to check if there is already a key with the same hashCode or not in the bucket(singly linked list)
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Why HashMap keys need to be immutable
+    </question>
+    <answer>
+Immutabiility is required, in order to prevent changes on fields used to calculate hashCode() because if key object return different hashCode during insertion and retrieval than it won't be possible to get object from HashMap.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+what is race conditions on HashMap
+    </question>
+    <answer>
+A race condition is a type of concurrency issue that can occur when multiple threads try to access and modify a shared resource simultaneously. In the case of a HashMap, a race condition can occur if multiple threads try to read from or write to the HashMap concurrently, and the outcome of the operations depends on the order in which the threads execute.
+
+For example, suppose two threads are trying to update the value associated with a key in a HashMap. If the threads both read the value of the key at the same time, and then each thread updates the value based on the value it read, the final value of the key may not be what was intended. This is because the threads are racing to update the value, and the outcome depends on which thread's update is applied last.
+
+To avoid race conditions on a HashMap, you can use synchronization to ensure that only one thread can access and modify the HashMap at a time. In Java, you can use the synchronized keyword to synchronize access to the HashMap, or you can use the Collections.synchronizedMap() method to wrap the HashMap in a synchronized wrapper.
+
+It is also worth noting that the ConcurrentHashMap class, which is a concurrent implementation of Map, is designed to be used by multiple threads concurrently without the need for explicit synchronization. The ConcurrentHashMap uses a technique called lock striping to partition the map and allow different threads to access and modify different parts of the map concurrently. This can help to improve the performance of the Map in a multi-threaded environment.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+if hashmap is doubled the size, will it be slower? how slow will it be?
+    </question>
+    <answer>
+Increasing the size of a HashMap in Java will generally make it slightly slower, but the impact on performance will depend on a variety of factors, such as the number of elements in the HashMap, the workload, and the hardware and software environment.
+
+When the HashMap is resized, it will create a new array with a larger capacity and rehash all of the elements from the old array into the new array. This process involves using the hashing function to determine the new array index for each element based on its key, which can take some time.
+
+However, the HashMap is designed to be very efficient and the impact of resizing on performance is typically small. In general, the HashMap will only resize itself when the number of elements exceeds the load factor, which is a measure of how full the HashMap is. The default load factor is 0.75, which means the HashMap will resize itself when the number of elements exceeds 75% of the capacity of the array. This helps to minimize the number of times the HashMap needs to be resized and the impact on performance.
+
+It is also worth noting that the HashMap will generally perform better when the size of the array is well-suited to the number of elements in the HashMap. If the array is too small, the HashMap will need to resize itself more frequently, which can impact performance. On the other hand, if the array is much larger than needed, it will waste memory and may also have a slightly negative impact on performance due to the overhead of managing the larger array.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is the difference between poll() and remove() method of Queue interface?
+    </question>
+    <answer>
+Though both poll() and remove() method from Queue is used to remove the object and returns the head of the queue, there is a subtle difference between them. If Queue is empty() then a call to remove() method will throw Exception, while a call to poll() method returns null. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Which is better HashTable or ConcurrentHashMap?
+    </question>
+    <answer>
+ConcurrentHashMap is a great Hashtable replacement. We should consider ConcurrentHashMap to use in applications with multiple threads.
+
+HashMap is now presented as the default and the preferred way of using Map with read optimized hashing, and ConcurrentHashMap has been provided for synchronized access which provides better performance than HashTable. Because of this, Java thought it right to deprecate the use of HashTable.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Why may you need to override equals and hashcode?
+    </question>
+    <answer>
+The reason why you should override hashcode whenever you override equals is that you need a way to create the same object you want to find. This is particularly useful when you are dealing with collections (i.e. the Key in HashMap, HashTable, HashSet)
+
+Override only equals
+
+⏵ If only equals is overriden, then when you call myMap.put(first,someValue) first will hash to some bucket and when you call myMap.put(second,someOtherValue) it will hash to some other bucket (as they have a different hashCode). So, although they are equal, as they don't hash to the same bucket, the map can't realize it and both of them stay in the map.
+
+Override only hashCode
+
+⏵ If you only override hashCode then when you call myMap.put(first,someValue) it takes first, calculates its hashCode and stores it in a given bucket. Then when you call myMap.put(second,someOtherValue) it should replace first with second as per the Map Documentation because they are equal (according to the business requirement).
+⏵ But the problem is that equals was not redefined, so when the map hashes second and iterates through the bucket looking if there is an object k such that second.equals(k) is true it won't find any as second.equals(first) will be false.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+If you have a Person object with first name (string), last name (string) and a list of account, how would you implement immutability?
+    </question>
+    <answer>
+(a) The class must be declared as final so that child classes can’t be created.
+(b) Data members in the class must be declared private so that direct access is not allowed.
+(c) Data members in the class must be declared as final so that we can’t change the value of it after object creation.
+(d) A parameterized constructor should initialize all the fields performing a deep copy so that data members can’t be modified with an object reference.
+(e) Deep Copy of objects should be performed in the getter methods to return a copy rather than returning the actual object reference)
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Suppose in this Person class the equals methods was implemented incorrectly and the hashcode was implemented correctly, how many objects would be in a hashset if two Jimmy's and one Eric was added to the set.
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+Similarly, if instead a hashmap was used and and the key was Person and the value was any arbitrary value. How many entries would be in the hashmap?
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is the O(n) of add, delete and access for arraylist and linked list?
+    </question>
+    <answer>
+ArrayList has O(1) time complexity to access elements via the get and set methods. LinkedList has O(n/2) time complexity to access the elements. LinkedLinked class implements Deque interface also, so you can get the functionality of double ended queue in LinkedList.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  
+</entries>

@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Vulnerabilities</type>
+    <question>
+What is CORS?
+    </question>
+    <answer>
+CORS (Cross-Origin Resource Sharing) is a security feature implemented by web browsers that blocks web pages from making requests to a different domain than the one that served the web page. This is done to prevent malicious websites from making unauthorized requests to other websites on behalf of the user.
+
+For example, if a web page served from example.com makes a request to api.example.com, the browser will block the request unless the server at api.example.com specifically allows it. This is done by including certain headers in the server's HTTP response, such as Access-Control-Allow-Origin, which specifies which domains are allowed to make requests to the server.
+
+CORS is useful for protecting against cross-site request forgery (CSRF) attacks, which involve an attacker tricking a user into making a request to a website that the user did not intend to make. By blocking these unauthorized requests, CORS helps to ensure the security and integrity of the user's interactions with websites.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Vulnerabilities</type>
+    <question>
+Could you describe top 10 OWASP vulnerabilities?
+    </question>
+    <answer>
+https://owasp.org/www-project-top-ten/
+1. Broken Access Control
+2. Cryptographic Failures
+3. Injection
+4. Insecure Design
+5. Security Misconfiguration
+6. Vulnerable and Outdated Components
+7. Identification and Authentication Failures
+8. Software and Data Integrity Failures
+9. Security Logging and Monitoring Failures
+10. Server Side Request Forgery
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+How to secure the API microservices access?
+    </question>
+    <answer>
+⏵ End to End Encryption using TLS/SSL: TLS (Transport Layer Security) and SSL (Secure Sockets Layer) are cryptographic protocols that provide secure communications over the internet. They can be used to secure API traffic and ensure that it is not intercepted or tampered with.
+⏵ Firewall with IP whitelisting: IP whitelisting is a security measure that allows access to the API only from a specific IP address or range of addresses. This can be used to limit access to the API to trusted clients.
+⏵ API Gateway: An API Gateway can be used to secure access to the API. It can perform authentication, authorization, and other security checks before routing requests to the backend services.
+⏵ API keys: API keys are simple tokens that are passed with each API request. They are used to authenticate the client and authorize access to the API. API keys can be passed in the request header or as a query parameter.
+⏵ OAuth: OAuth (Open Authorization) is an open standard for token-based authentication and authorization. It allows users to grant third-party applications access to their resources without sharing their passwords.
+⏵ JWT: JWT (JSON Web Token) is a JSON-based open standard for creating access tokens. It allows the server to verify the authenticity of the token and ensure that it has not been tampered with.
+⏵ Make your microservices architecture secure by design.
+⏵ Scan for dependencies. 
+⏵ Use access and identity tokens. 
+⏵ Encrypt and protect secrets. 
+⏵ Know your cloud and cluster security. 
+⏵ Slow down attackers. 
+⏵ Input Validation
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+What is SAML, JSON Web Token, Oauth token?
+    </question>
+    <answer>
+⏵ SAML uses XML to pass messages, and OAuth uses JSON.
+⏵ JSON Web Token is a proposed Internet standard for creating data with optional signature and/or optional encryption.
+⏵ JWT defines a token format while OAuth deals in defining authorization protocols.
+
+⏵ SAML is used for single sign-on and identity management
+⏵ JWT is a compact and self-contained way to transmit information
+⏵ OAuth is a way to authorize API requests without sharing the user's credentials.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+when should we use SAML?
+    </question>
+    <answer>
+If you have multiple web applications that you want users to be able to access with a single set of credentials, SAML can be used to provide SSO across those applications.
+
+SAML (Security Assertion Markup Language) is an open standard for exchanging authentication and authorization data between parties. It is commonly used to provide single sign-on (SSO) access to web-based applications. In a SAML-based SSO system, a user logs in to a central identity provider (IdP), which authenticates the user and sends a SAML assertion to the service provider (SP). The SP trusts the IdP and grants the user access to the service based on the information contained in the SAML assertion.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+when should we use JWT?
+    </question>
+    <answer>
+If you are building a system that exposes APIs and you need a way to authenticate and authorize API requests, JWT can be a good choice.
+
+JSON Web Token (JWT) is a JSON-based open standard for creating access tokens. It is commonly used in microservices architectures to authenticate and authorize API requests. JWTs are self-contained and can be encoded and signed digitally. They can be used to transmit information between parties in a secure and compact way.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+when should we use Oauth?
+    </question>
+    <answer>
+If you are building a third-party application that needs to access protected resources on behalf of a user, OAuth can be a good choice.
+
+OAuth (Open Authorization) is an open standard for token-based authentication and authorization. It allows users to grant third-party applications access to their resources without sharing their passwords. OAuth provides a way to authorize API requests without the need to pass the user's credentials in the request. Instead, the user is redirected to the service provider to grant access to their resources. The service provider then issues an access token, which the client can use to access the protected resources.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+how SAML token is verified and trusted?
+    </question>
+    <answer>
+SAML tokens are verified and trusted through the use of digital signatures and certificate-based authentication.
+
+When a SAML token is issued by a service provider, it is digitally signed using the private key of a certificate that is associated with the service provider. This signature can be verified by the identity provider using the public key of the same certificate, which is stored in the identity provider's trust store.
+
+If the signature is valid, and the certificate has not been revoked or expired, then the identity provider can trust that the SAML token was issued by the service provider and that the contents of the token have not been altered.
+
+It is also common for identity providers to check the issuer of the certificate to ensure that it is trusted. This can be done through the use of a certificate authority (CA) that issues and signs certificates, or through the use of a certificate trust chain where a certificate is signed by another certificate that is trusted by the identity provider.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+What is the content inside JWT token?
+    </question>
+    <answer>
+This is a compact, URL-safe string that represents a JWT. It is composed of three parts, separated by dots (.). Each part is base64-encoded. The three parts are:
+
+The header
+The payload
+The signature
+
+xxxxx.yyyyy.zzzzz
+
+Base64-URL strings separated by dots that can be easily passed in HTML and HTTP environments. More compact than SAML which is in XML based standard.
+Authorization: Bearer __token__
+
+{
+  'alg': 'HS256',
+  'typ': 'JWT'
+}
+{
+  'sub': '1234567890',
+  'name': 'John Doe',
+  'iat': 1516239022
+}
+The first part is the header, which contains the type of the token (JWT) and the signing algorithm (HS256). The second part is the payload, which contains the claims. In this example, the payload contains the sub (subject) claim, which is the user's ID, the name claim, which is the user's name, and the iat (issued at) claim, which is the timestamp of when the token was issued.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+What is the content inside OAuth token?
+    </question>
+    <answer>
+Access tokens: These are used to access protected resources. They are issued by the authorization server and are typically short-lived.
+Refresh tokens: These are used to obtain new access tokens. They are issued by the authorization server and are typically long-lived.
+{
+  "access_token": "SlAV32hkKG",
+  "token_type": "Bearer",
+  "refresh_token": "8xLOxBtZp8",
+  "expires_in": 3600,
+  "id_token": "X_header_X.Y_payload_Y.Z_signature_Z"
+}
+{
+  "access_token" : "bXadcrxDyYf…..",
+  "token_type" : "Bearer",
+  "expires_in" : 1295998,
+  "refresh_token" : "dxUSdZtyn4lb….."
+}
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+What is the content inside SAML token?
+    </question>
+    <answer>
+A SAML (Security Assertion Markup Language) token is a standard format for exchanging authentication and authorization data between parties, commonly between an identity provider and a service provider. It is used to securely transmit information about a user's identity, such as the user's name, authentication credentials, and other attributes, from the identity provider to the service provider.
+
+SAML tokens are typically XML documents that contain a series of assertions made by the identity provider about the user. These assertions may include information such as:
+
+The user's identity (e.g., their username or email address)
+The authentication method used to verify the user's identity (e.g., password, two-factor authentication)
+Any additional attributes or information about the user that the service provider may need (e.g., the user's role or group membership)
+SAML tokens also include security measures to ensure their authenticity and integrity, such as digital signatures and encryption. These measures help to prevent tampering or spoofing of the token's contents.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+JWT vs Oauth
+    </question>
+    <answer>
+⏵ JWT is mainly used for APIs while OAuth can be used for web, browser, API, and various apps or resources. 
+⏵ JWT token vs oauth token: JWT defines a token format while OAuth deals in defining authorization protocols.
+⏵ JWT is simple and easy to learn from the initial stage while OAuth is complex.
+⏵ OAuth uses both client-side and server-side storage while JWT must use only client-side storage.
+⏵ JWT has limited scope and use cases. OAuth is highly flexible and can be easily used in a wide range of situations.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+What is the Identity Provider?
+    </question>
+    <answer>
+Do authentication and authorization. Backend may connect to the identity store like LDAP.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+How to validate the token?
+    </question>
+    <answer>
+⏵ Verify the token format: The first step in validating a token is to ensure that it is well-formed and has the correct format. Depending on the type of token being used (e.g., JWT, SAML, OAuth), this may involve verifying that the token is a valid string, has the correct structure, and is signed or encrypted in a way that ensures its authenticity and integrity.
+⏵ Verify the signature or encryption: If the token is signed or encrypted, the next step is to verify that the signature or encryption is valid. This typically involves checking the signature or decrypting the token using a shared secret or a public/private key pair. If the signature or encryption is invalid, it is likely that the token has been tampered with or is not authentic, and it should be rejected.
+⏵ Verify the token claims: Once the token format and signature or encryption have been validated, the next step is to verify the claims contained in the token. This typically involves checking the issuer, expiration time, and other information contained in the token to ensure that it is still valid and has not been compromised. If the claims are not valid, the token should be rejected.
+⏵ Verify the token permissions: Finally, it may be necessary to verify that the token has the appropriate permissions to access the requested resources. This typically involves checking the scope of the token against the required permissions for the requested resources, and ensuring that the token has not been revoked or otherwise disabled.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protection</type>
+    <question>
+How token sharing in service mesh?
+    </question>
+    <answer>
+There are three approaches to sharing tokens between services in the service mesh: forward, embed and on-demand.
+
+⏵ Pass the token in the request header.
+⏵ Use a shared secret or key pair.
+⏵ Use a token exchange or introspection service.
+⏵ Use a service mesh feature.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

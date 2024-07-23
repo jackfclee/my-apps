@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Command</type>
+    <question>
+Typical Network Command
+    </question>
+    <answer>
+__ifconfig__ (Interface Configuration)
+⏵ Used for configuring, controlling, and querying TCP/IP network interface parameters.
+⏵ Example: ifconfig eth0 displays information about the eth0 network interface.
+
+__ping__
+⏵ Sends ICMP ECHO_REQUEST packets to network hosts to check if a host is reachable.
+⏵ Example: ping google.com checks the connectivity to google.com.
+
+__netstat__
+⏵ Shows network connections, routing tables, interface statistics, masquerade connections, and multicast memberships.
+⏵ Example: netstat -rn shows the routing table.
+
+__traceroute__
+⏵ Prints the route packets take to a network host, helping identify where delays or issues occur.
+⏵ Example: traceroute google.com shows the path packets take to reach google.com.
+
+__nslookup__
+⏵ Queries Internet domain name servers for DNS details like IP address mapping or domain name.
+⏵ Example: nslookup google.com finds the IP address associated with google.com.
+
+__dig__
+⏵ Performs DNS lookups and displays answers from name servers. It's considered more powerful than nslookup.
+⏵ Example: dig google.com provides detailed DNS information for google.com.
+
+__tcpdump__
+⏵ A powerful command-line packet analyzer; used for network debugging and traffic monitoring.
+⏵ Example: tcpdump -i eth0 captures and displays packets on the eth0 interface.
+
+__wget__
+⏵ Non-interactive network downloader that retrieves files from the web.
+⏵ Example: wget http://example.com/file.zip downloads file.zip from the specified URL.
+
+__curl__
+⏵ Tool to transfer data from or to a server, supporting various protocols like HTTP, HTTPS, FTP, and more.
+⏵ Example: curl http://example.com fetches the content of the webpage.
+
+__ssh__
+⏵ Secure Shell, a protocol for securely accessing network services over an unsecured network.
+⏵ Example: ssh user@example.com connects to example.com as user.
+
+__scp__
+⏵ Securely copies files between hosts on a network. Uses SSH for data transfer.
+⏵ Example: scp file.txt user@example.com:/path copies file.txt to the specified path on example.com.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Load Balancer</type>
+    <question>
+Load balancing can be achieved through various methods
+    </question>
+    <answer>
+⏵ Round Robin
+⏵ Least Connections
+⏵ Source IP Hash
+⏵ Weighted Algorithms (Weighted Round Robin, Weighted Least Connections)
+⏵ Least Response Time
+⏵ Least Bandwidth
+⏵ Geographic Location Based
+⏵ Application Layer (Layer 7) - routing decisions based on content of the request, such as URL, headers, or message content.
+⏵ Network Layer (Layer 4) - Balances load based on IP range and port number without inspecting the packet content.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Troubleshooting</type>
+    <question>
+Describe a time when you had to troubleshoot and resolve a network-related issue.
+    </question>
+    <answer>
+⏵ Firewall (network whitelisting, access authority)
+⏵ Slow Response (wrong route table)
+⏵ DNS (resolution issue)
+⏵ Subnet (VPN, or Public network)
+⏵ SSL certificate (invalid certificate, expired certificate)
+    </answer>
+  </entry>
+  <entry>
+    <type>Troubleshooting</type>
+    <question>
+Troubleshoot why the internet is suffering a slow issue.
+    </question>
+    <answer>
+Ask Questions:
+
+⏵ Is it slow on all devices?
+⏵ Did it start happening recently?
+
+Possible Reasons:
+
+⏵ Too many people using the internet.
+⏵ Old router or modem.
+⏵ Something big is downloading or streaming.
+
+Troubleshooting Steps:
+
+⏵ Check connection: Use Ethernet cable to see if Wi-Fi is the problem.
+⏵ Speed test: Use a website to check internet speed.
+⏵ Check devices: Look for damage on router or modem.
+⏵ See what's using internet: Look for apps or devices using a lot of internet.
+⏵ Change Wi-Fi channel: If too many Wi-Fi networks are nearby.
+⏵ Talk to ISP: Ask if they have issues or are doing maintenance.
+
+Linux Commands:
+
+⏵ Ping Test: Check connection to a website. ( ping google.com )
+⏵ Speed Test: Use a command-line tool like speedtest-cli ( speedtest-cli )
+⏵ Check Network Usage: Identify what's using your bandwidth. ( iftop )
+⏵ Wi-Fi Signal: Check Wi-Fi signal strength. ( iwconfig )
+⏵ Compare with other devices or setting
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protocol</type>
+    <question>
+What port does ftp, sftp, ssh, telnet use?
+    </question>
+    <answer>
+⏵ FTP (File Transfer Protocol): Uses port 21 for command and control (sending commands and receiving responses). 
+⏵ FTP (File Transfer Protocol): Uses port 20 for data transfer (transferring files).
+⏵ SSH (Secure Shell): Uses port 22 for secure data communication, remote command-line login, remote command execution, and other secure network services.
+⏵ Telnet: Uses port 23 for unencrypted (and therefore insecure) network communication; used for remote login services.
+⏵ SFTP (SSH File Transfer Protocol): Also uses port 22, as it is an extension of SSH and provides secure file transfer capabilities.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Protocol</type>
+    <question>
+Explain SSL, TLS, HTTP, HTTPS
+    </question>
+    <answer>
+⏵ SSL and TLS are cryptographic protocols that secure data in transit. TLS is the newer, more secure version.
+⏵ HTTP is the protocol for transferring web content, but it does not encrypt data, making it vulnerable to interception.
+⏵ HTTPS combines HTTP with TLS/SSL encryption, ensuring that data transferred between the web browser and server is secure and private.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+TCP Three-Way Handshake
+What are the three TCP connection packets names? 
+What are the packets sent in a TCP connection?
+    </question>
+    <answer>
+Connection Establishment (Three-Way Handshake):
+⏵ SYN (Synchronize): Sent by the client to the server to initiate a TCP connection, carrying a sequence number for synchronization.
+⏵ SYN-ACK (Synchronize-Acknowledgment): Sent by the server in response to the SYN packet, acknowledging the client's SYN (with an ACK) and sending its own SYN.
+⏵ ACK (Acknowledgment): Sent by the client in response to the server's SYN-ACK, acknowledging the server's SYN.
+
+Data Transfer (Maintaining the Connection):
+⏵ Data Packets: After the connection is established, data packets are sent between the client and server. Each data packet sent requires an acknowledgment packet in response to confirm receipt.
+⏵ Acknowledgment Packets: These are sent to confirm the receipt of data packets.
+
+Connection Termination:
+⏵ FIN (Finish): Either party (client or server) can initiate the termination process by sending a FIN packet, indicating it has no more data to send.
+⏵ ACK: The receiving party responds with an ACK to acknowledge the FIN packet.
+⏵ FIN: The receiving party then sends its own FIN packet, indicating it's also ready to close the connection.
+⏵ ACK: The initiating party responds with an ACK to acknowledge the final FIN, completing the four-way termination process.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What are Layer 4 and Layer 7 in OSI model?
+    </question>
+    <answer>
+__Layer 4: Transport Layer__
+⏵ Function: Responsible for providing transparent transfer of data between end systems, or hosts, and is responsible for end-to-end error recovery and flow control. It ensures complete data transfer.
+⏵ Protocols: TCP (Transmission Control Protocol), which provides reliable, ordered, and error-checked delivery of a stream of bytes.
+⏵ Protocols: UDP (User Datagram Protocol), which provides a simpler, connectionless service to exchange messages without guarantees about delivery and order.
+
+__Layer 7: Application Layer__
+⏵ Function: Serves as the window for users and application processes to access network services. This layer directly interacts with software applications to provide communication functions as needed and makes it possible for software to send and receive information. It encompasses protocols that define how data is presented and structured, and how it is to be transmitted.
+⏵ Protocols: HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol), SMTP (Simple Mail Transfer Protocol), and many others that enable users to perform tasks such as file transfers, web browsing, and email.
+
+Layer 4 focuses on data transport with reliability and proper sequencing.
+Layer 7 is concerned with providing services to the application software through which users interact with the network.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+    Explain the usage of UDP
+    </question>
+    <answer>
+__Streaming Media (Audio and Video)__
+⏵ For live broadcasts or streaming services where occasional data loss is preferable to delay caused by data retransmission.
+
+__Voice over IP (VoIP)__
+⏵ In voice communications, minor data loss may not significantly impact quality, but latency and jitter can disrupt conversations.
+
+__Online Gaming__
+⏵ Real-time multiplayer games require fast, low-latency communication. Players can tolerate some level of data loss without noticeable effects on gameplay.
+
+__Broadcast and Multicast Services__
+⏵ UDP supports broadcast and multicast, allowing messages to be sent to multiple recipients efficiently, useful in scenarios like service discovery.
+
+__DNS Queries__
+⏵ DNS lookups use UDP for faster resolution times. Since DNS requests are typically small and can tolerate the rare cases of packet loss, UDP is preferred.
+
+__SNMP (Simple Network Management Protocol)__
+⏵ Used for network management information exchange, where speed and simplicity outweigh the need for reliability.
+
+__DHCP (Dynamic Host Configuration Protocol)__
+⏵ Used for quick assignment of IP addresses to devices within a network.
+
+__Trivial File Transfer Protocol (TFTP)__
+⏵ A simplified version of FTP that uses UDP for transferring files where simplicity and speed are desired over the complexity and overhead of TCP.
+    </answer>
+  </entry>
+</entries>

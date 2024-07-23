@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+How to debug a machine not being accessible.
+    </question>
+    <answer>
+⏵ User Reported Error Log and Symptom 
+⏵ Physical Checks and Remote Management Tools
+⏵ Logs Analysis along the end-to-end flow with any correlation ID
+⏵ Monitoring Tools
+⏵ Network Traffic Monitoring
+⏵ Proxy Tools
+⏵ Simulation in Development
+⏵ Change History
+⏵ Ask for relevant team to help
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Tool</type>
+    <question>
+What is the difference between mockito and powermock?
+    </question>
+    <answer>
+Mockito is kind of good for all the standard cases while PowerMock is needed for the harder cases.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Unit Test</type>
+    <question>
+How do you create the unit test for the logic with external connection?
+    </question>
+    <answer>
+Mocks and Stubs / External Test Instance
+⏵ Mocks: Mocks are the clone or dummy objects that simulate the behaviour of the real objects.
+⏵ Stubs: Stubs are the objects that hold predefined data. It acts as a temporary object for a called module and gives the same output as the original software.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Definition</type>
+    <question>
+What is TDD and what is BDD?
+    </question>
+    <answer>
+⏵ BDD is designed to test an application's behaviour from the end user's standpoint
+⏵ TDD is focused on testing smaller pieces of functionality in isolation.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+How do you measure the application's performance?
+    </question>
+    <answer>
+⏵ Response Time
+⏵ Throughput Rate
+⏵ I/O Time
+⏵ Memory Usage
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Definition</type>
+    <question>
+Could you describe stress test?
+    </question>
+    <answer>
+A stress test will typically max out one portion of the system or another which eventually causes slowdowns and then crashes or unresponsiveness. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Definition</type>
+    <question>
+Could you describe load / volume test?
+    </question>
+    <answer>
+A load test is a planned test to perform a specified number of requests to a system to test the functionality of the system under specific levels of simultaneous requests. A load test ensures that a web system can handle an expected volume of traffic, and therefore is sometimes referred to as volume testing. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Definition</type>
+    <question>
+Could you describe soak test?
+    </question>
+    <answer>
+Soak testing is a type of performance evaluation that gauges how an application handles a growing number of users or increasingly taxing tasks over an extended period of time. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Performance</type>
+    <question>
+How to find the root cause of the performance issue of a certain request / process
+    </question>
+    <answer>
+⏵ Check Logs, and Check the dashboard from the Monitoring Tools (Using Memory Profilers).
+⏵ Run GC and take a heap dump in production.
+⏵ Identify the pattern of the issue (trigger time, frequency, pattern) 
+⏵ Simulate the issue in the development environment.
+⏵ Compare the heap dumps to identify which object have abnormal behaviour.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Performance</type>
+    <question>
+What Causes Memory Leaks in Java
+    </question>
+    <answer>
+⏵ Excessive session objects
+⏵ Insertion without deletion into Collection objects
+⏵ Unbounded caches
+⏵ Excessive operating system page swapping
+⏵ Un-invoked listener methods
+⏵ Poorly written custom data structures
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Performance</type>
+    <question>
+What is Perm Gen space in Heap?
+    </question>
+    <answer>
+PermGen space is used to store class’s metadata.
+
+PermGen stands for Permanent Generation. It is a special type of heap space. It is separate from the main memory (heap). JVM uses PermGen to keep track of loaded class metadata. All the static content is stored by the JVM
+to this memory section. Static content can be a static method, references to the static object and primitive variables. PermGen also contains information about bytecode, names, and JIT.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Performance</type>
+    <question>
+What is the difference between ParNew and DefNew Young Generation Garbage collector?
+    </question>
+    <answer>
+ParNew and DefNew are two young generation garbage collector. ParNew is a multi- threaded GC used along with concurrent Mark Sweep while DefNew is single-threaded GC used along with Serial Garbage Collector.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Performance</type>
+    <question>
+If Object A has reference to Object B and Object B refer to Object A, apart from that there is no live reference to either object A or B, Does they are eligible to Garbage collection?
+    </question>
+    <answer>
+An object becomes eligible for Garbage collection if there is no live reference for it. It can not be accessible from any Thread and cyclic dependency doesn’t prevent Object from being Garbage collected. Which means in this case both Object A and Object B are eligible of Garbage collection.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Performance</type>
+    <question>
+Can we force the Garbage collector to run at any time?
+    </question>
+    <answer>
+No, you can not force Garbage collection in Java. Though you can request it by calling Sytem. gc() or its cousin Runtime.getRuntime().gc(). It’s not guaranteed that GC will run immediately as result of calling these method.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

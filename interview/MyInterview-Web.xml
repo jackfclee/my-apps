@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Response Code</type>
+    <question>
+HTTP status codes used REST API
+    </question>
+    <answer>
+1xx: Informational
+⏵ Indicates a provisional response, requiring the requester to take action to continue the operation.
+⏵ Example: 100 Continue
+
+2xx: Success
+⏵ Indicates that the client's request was successfully received, understood, and accepted.
+⏵ 200 OK: Request succeeded; the response depends on the HTTP method used.
+⏵ 201 Created: The request succeeded, and a new resource was created.
+⏵ 202 Accepted: The request has been accepted for processing, but the processing has not been completed. 
+⏵ 204 No Content: The request was processed successfully, but no content is returned.
+
+3xx: Redirection
+⏵ Indicates further action needs to be taken by the client to complete the request.
+⏵ 301 Moved Permanently: The resource has been moved to a new URL permanently.
+⏵ 302 Found: The resource is temporarily under a different URL.
+⏵ 304 Not Modified: Indicates the cached version of the requested resource is still valid.
+
+4xx: Client Error
+⏵ Indicates an error resulting from the client's request.
+⏵ 400 Bad Request: The server could not understand the request due to invalid syntax.
+⏵ 401 Unauthorized: Authentication is required and has failed or not been provided.
+⏵ 403 Forbidden: The server understands the request but refuses to authorize it.
+⏵ 404 Not Found: The server cannot find the requested resource.
+⏵ 405 Method Not Allowed: This response is sent when the HTTP method used in the request is known by the server but has been disabled and cannot be used for the target resource. For example, trying to use a POST request on a read-only resource.
+⏵ 406 Not Acceptable: This status code is returned when the server cannot produce a response matching the list of acceptable values defined in the request's headers, specifically in Accept headers. This happens when the server cannot return data in a format that the client can process.
+⏵ 409 Conflict: The request conflicts with the current state of the server.
+
+5xx: Server Error
+⏵ Indicates the server failed to fulfill a valid request.
+⏵ 500 Internal Server Error: The server encountered an unexpected condition.
+⏵ 501 Not Implemented: The server does not support the functionality required to fulfill the request.
+⏵ 502 Bad Gateway: This indicates that the server, while acting as a gateway or proxy, received an invalid response from an upstream server it accessed in attempting to fulfill the request.
+⏵ 503 Service Unavailable: The server is not ready to handle the request, often due to maintenance or overload.
+⏵ 504 Gateway Timeout: Similar to 502, but this status code indicates that the server, acting as a gateway or proxy, did not receive a timely response from the upstream server or some other auxiliary server it needed to access in order to complete the request.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Problem Solving</type>
+    <question>
+Web Traffic Handling (why a particular error occur, what are all possible debugging way, what optimization can be made)
+    </question>
+    <answer>
+Why a Particular Error Occur:
+⏵ Server Overload: Too many requests for the server to handle.
+⏵ Code Bugs: Errors in website or application code.
+⏵ Resource Limits: Memory, CPU, or database limits reached.
+⏵ Network Issues: Problems in the network connection between client and server.
+⏵ Configuration Errors: Incorrect server or application settings.
+⏵ Security Restrictions: Access denied due to security rules or permissions.
+
+Possible Debugging Ways:
+⏵ Check Logs: Look at server, application, and error logs for clues.
+⏵ Monitor Resources: Use tools to monitor CPU, memory, and network usage.
+⏵ Test Code: Run tests to find and fix bugs in the code.
+⏵ Review Configurations: Check server and application configurations for mistakes.
+⏵ Simulate Traffic: Use stress testing tools to simulate high traffic and identify bottlenecks.
+⏵ Check Network: Use tools like ping and traceroute to diagnose network issues.
+
+Optimization Can Be Made:
+⏵ Caching: Use caching to store and quickly retrieve frequently accessed data.
+⏵ Load Balancing: Distribute traffic evenly across multiple servers.
+⏵ Content Delivery Network (CDN): Use a CDN to serve static content from locations closer to the user.
+⏵ Optimize Code: Improve code efficiency to reduce resource consumption.
+⏵ Database Optimization: Optimize queries and indexes for faster database access.
+⏵ Compress Content: Use compression to reduce the size of data sent over the network.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>URL</type>
+    <question>
+How would you implement a URL shortener without a backend?
+    </question>
+    <answer>
+URL shortening service built using serverless technologies, which means it runs in a fully managed environment where you don't have to manage servers or infrastructure.
+
+Creating a serverless URL shortener on Google Cloud Platform (GCP) involves several steps, focusing on using Firestore for storage and Cloud Functions for the logic. 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Problem Solving</type>
+    <question>
+How would you go about diagnosing and resolving performance issues in a web application?
+    </question>
+    <answer>
+⏵ Establish Performance Baselines
+⏵ Identify Symptoms and Areas of Concern (Time, Log, Pattern)
+⏵ Analyze Performance Across Different Layers (Frontend, Network, Backend)
+⏵ Database Performance Tuning (Query Optimization, Indexing, Connection Pooling)
+⏵ Code and Dependency Optimization (Code Profiling, Update Libraries)
+⏵ Optimize Assets and Resources (Minify CSS and JavaScript, Optimize Images, Lazy Loading)
+⏵ Implement Caching Strategies (Browser Caching, Server-side Caching)
+⏵ Consider Architecture and Scaling Options (Microservices, Async Design, Horizontal Scaling)
+⏵ Continuous Monitoring and Testing
+⏵ Iterate and Improve
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

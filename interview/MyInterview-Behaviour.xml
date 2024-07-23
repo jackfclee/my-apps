@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <entry>
+    <type>Example</type>
+    <question>
+Example Question Patterns
+    </question>
+    <answer>
+How do you work on SOMETHING if/when this EVENT happens?
+    </answer>
+  </entry>
+  <entry>
+    <type>Customer</type>
+    <question>
+If the customer is so emotional, how should I handle it?  
+    </question>
+    <answer>
+⏵ Stay Calm: Maintain your composure to help de-escalate the situation.
+⏵ Listen Actively: Give them your full attention, listen to their concerns without interrupting, and acknowledge their feelings.
+⏵ Express Empathy: Show understanding and empathy for their situation. Use phrases like, "I understand why that would be upsetting."
+⏵ Validate Their Feelings: Let them know it’s okay to feel upset or frustrated. Saying something like, "It’s understandable to feel that way given the situation," can be very validating.
+⏵ Apologize When Necessary: If the situation warrants an apology, do so sincerely. An apology can be a powerful tool in diffusing emotional situations.
+⏵ Provide Clear Information: Once they've had the chance to express themselves, provide clear, concise information about how you can help or what steps will be taken next.
+⏵ Offer Solutions: Focus on finding a solution or offer alternatives if possible. Involve the customer in the solution-finding process by asking them what outcome they are hoping for.
+⏵ Set Boundaries if Needed: If a customer becomes abusive, calmly set boundaries. You might say, "I’m here to help, but I cannot do so if the conversation continues in this way."
+⏵ Follow Up: After resolving the issue, follow up with them to ensure they’re satisfied with the solution and to demonstrate that you value their business and feedback.
+⏵ Stay Professional: Throughout the interaction, keep the conversation professional and focused on the issue at hand.
+⏵ Seek Support When Needed: If the situation escalates beyond your control, don’t hesitate to seek support from a supervisor or colleague.
+⏵ Learn and Reflect: After the interaction, reflect on what happened and how it was handled. Consider what went well and what could be improved for next time.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Presentation</type>
+    <question>
+What is your Favourite Colour?
+    </question>
+    <answer>
+Clarify: What is the Meaning of Favourite? What factor and definition control Favourite?
+Explain: Based on the definition (e.g. purpose, feeling, value), answer it, and try to correlate to the Job and Past Experience.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Motivation</type>
+    <question>
+Why do you want to work for _____? 
+    </question>
+    <answer>
+⏵ Cutting-Edge Cloud Technology
+⏵ Global Influence and Exposure
+⏵ Collaboration, Innovation and Impact
+⏵ Learning and Growth
+⏵ Have fun
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pressure</type>
+    <question>
+Can you work under pressure?
+What sort of things put you under pressure? 
+Give me an example and tell me how you cope?
+    </question>
+    <answer>
+Yes, I usually find it stimulating. However, I believe in planning and time management in order to reduce panic deadlines within my area of responsibility.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Pressure</type>
+    <question>
+When you have had a deadline to meet, what have you done to ensure that you have met the deadline? 
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Problem Solving</type>
+    <question>
+Tell me about a time when something has not gone well for you - what did you do to overcome this? What would you do differently next time? 
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Motivation</type>
+    <question>
+Why have you applied for this job? What are you looking for in your next job? How do you see this job fitting into your career path? 
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Motivation</type>
+    <question>
+How much salary do you want?
+    </question>
+    <answer>
+Well, I am interested in this opportunity and I will seriously consider any reasonable offer you care to make me.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Motivation</type>
+    <question>
+What are your strengths? and weaknesses? 
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Motivation</type>
+    <question>
+How long would you stay with the company?
+    </question>
+    <answer>
+I would really like to settle down with this company. As long as I am growing professionally, there is no reason for me to make a move.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Motivation</type>
+    <question>
+What do you know about this organization? 
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Motivation</type>
+    <question>
+Why do you want to leave your current job? 
+    </question>
+    <answer>
+(It is important when answering this question not to be too negative about your current employer.) 
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Problem Solving</type>
+    <question>
+How do you approach solving complex technical problems?
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Project Management</type>
+    <question>
+Can you describe a particularly challenging project you have worked on and how you approached it?
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Problem Solving</type>
+    <question>
+Can you describe a situation where you had to make a difficult decision, and how you arrived at your conclusion?
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Innovation</type>
+    <question>
+Can you describe a situation where you had to think outside the box to find a creative solution to a problem?
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Presentation</type>
+    <question>
+What would your colleagues say about you? 
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Presentation</type>
+    <question>
+Tell me about a presentation you have done - how did you prepare for it? What went well? What went badly? 
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>

@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Content Structure: 
+
+  <entry>
+    <type></type>
+    <question>
+    </question>
+    <answer>
+    </answer>
+  </entry>
+-->
+<entries>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Performance</type>
+    <question>
+How do you fine tune the response in DB?
+    </question>
+    <answer>
+⏵ Analyze Slow Queries by log or tools.
+⏵ Index Optimization
+⏵ Query Optimization
+⏵ Database Normalization
+⏵ Caching
+⏵ Partitioning
+⏵ Use Latest DBMS Features
+⏵ Hardware and Configuration
+⏵ Regular Maintenance and Housekeeping
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is NOSQL DB?
+    </question>
+    <answer>
+Column-Family, Graph, Document, Key-Value Pair
+https://www.guru99.com/nosql-tutorial.html
+
+Non-relational
+⏵ NoSQL databases never follow the relational model + Never provide tables with flat fixed-column records
+⏵ Work with self-contained aggregates or BLOBs + Doesn't require object-relational mapping and data normalization
+⏵ No complex features like query languages, query planners,referential integrity joins, ACID
+
+Schema-free
+⏵ NoSQL databases are either schema-free or have relaxed schemas
+⏵ Offers heterogeneous structures of data in the same domain
+
+Simple API
+⏵ Offers easy to use interfaces for storage and querying data provided
+⏵ APIs allow low-level data manipulation and selection methods
+⏵ Text-based protocols mostly used with HTTP REST with JSON
+
+Distributed
+⏵ Multiple NoSQL databases can be executed in a distributed fashion
+⏵ Offers auto-scaling and fail-over capabilities
+⏵ Often ACID concept can be sacrificed for scalability and throughput
+⏵ Mostly no synchronous replication between distributed nodes Asynchronous Multi-Master Replication, peer-to-peer, HDFS Replication
+⏵ Only providing eventual consistency
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What is SQL DB?
+    </question>
+    <answer>
+⏵ Relational Database
+⏵ OLTP = online transactional processing
+⏵ OLAP = online analytical processing
+⏵ OLTP vs OLAP = OLTP is an online database modification system, whereas OLAP is an online database query response system.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+What are the differences between SQL DB and NOSQL DB?
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+When should we use NOSQL DB?
+    </question>
+    <answer>
+The major purpose of using a NoSQL database is for distributed data stores with huge data storage needs. NoSQL is used for Big data and real-time web apps. 
+The system response time becomes slow when you use RDBMS for massive volumes of data.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+How do you manage Many-to-many relationships in relational database?
+    </question>
+    <answer>
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>Concept</type>
+    <question>
+How to delete the data when there is a foreign key.
+    </question>
+    <answer>
+1. Delete the data in CustomerOrder at first, then delete the data from the Customer and Order table.
+2. Deleting a foreign key constraint removes the requirement to enforce referential integrity
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>SQL</type>
+    <question>
+What are some common clauses used with SELECT query in SQL?
+    </question>
+    <answer>
+⏵ WHERE clause: In SQL, the WHERE clause is used to filter records that are required depending on certain criteria.
+⏵ ORDER BY clause: The ORDER BY clause in SQL is used to sort data in ascending (ASC) or descending (DESC) order depending on specified field(s) (DESC).
+⏵ GROUP BY clause: GROUP BY clause in SQL is used to group entries with identical data and may be used with aggregation methods to obtain summarised database results.
+⏵ HAVING clause in SQL is used to filter records in combination with the GROUP BY clause. It is different from WHERE, since the WHERE clause cannot filter aggregated records.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->  
+  <entry>
+    <type>SQL</type>
+    <question>
+Table Join
+    </question>
+    <answer>
+⏵ Inner join: Inner Join in SQL is the most common type of join. It is used to return all the rows from multiple tables where the join condition is satisfied. 
+⏵ Left Join:  Left Join in SQL is used to return all the rows from the left table but only the matching rows from the right table where the join condition is fulfilled.
+⏵ Right Join: Right Join in SQL is used to return all the rows from the right table but only the matching rows from the left table where the join condition is fulfilled.
+⏵ Full Join: Full join returns all the records when there is a match in any of the tables. Therefore, it returns all the rows from the left-hand side table and all the rows from the right-hand side table.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>SQL</type>
+    <question>
+SQL questions. Do you know about the keyword WHERE and HAVING? Can you explain it?
+    </question>
+    <answer>
+The WHERE clause is used in the selection of rows according to given conditions whereas the HAVING clause is used in column operations and is applied to aggregated rows or groups.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>SQL</type>
+    <question>
+What is an inner join and outer join?
+    </question>
+    <answer>
+An inner join finds and returns matching data from tables, 
+while an outer join finds and returns matching data and some dissimilar data from tables.
+LEFT (OUTER) JOIN : Returns all records from the left table, and the matched records from the right table. RIGHT (OUTER) JOIN : Returns all records from the right table, and the matched records from the left table.
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <entry>
+    <type>SQL</type>
+    <question>
+Why would you need to use a outer join?
+    </question>
+    <answer>
+We use the SQL OUTER JOIN to match rows between tables. We might want to get match rows along with unmatched rows as well from one or both of the tables
+    </answer>
+  </entry>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+</entries>
