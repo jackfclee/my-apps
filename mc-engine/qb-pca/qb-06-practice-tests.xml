@@ -15,1611 +15,1640 @@
   </entry> 
   -->
   <entry>
-    <question>XXX</question>
+    <question>How would you design a solution for running a large-scale, highly-available, and scalable transactional application on Google Cloud, considering the requirement for fast page load times, and the ability to handle billions of daily transactions?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Use Cloud CDN for content delivery, with Cloud Functions for serverless computing and Cloud Spanner for database management.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Storage for static asset storage, with Cloud Load Balancer for traffic distribution and BigQuery for database management.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Storage for static asset storage, with Cloud CDN for content delivery and Cloud SQL for database management.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud CDN for content delivery, with Cloud Load Balancer for traffic distribution and Cloud Firestore for database management.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Given a scenario where a company wants to migrate their on-premises infrastructure to Google Cloud, which solution is most appropriate to securely transfer sensitive data to Google Cloud while meeting the company's compliance requirements?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use gcloud to transfer data directly from the on-premises infrastructure to Cloud Storage buckets.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use gsutil to transfer data directly from the on-premises infrastructure to Cloud Storage buckets.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Cloud VPN to establish a secure connection from the on-premises infrastructure to Google Cloud, then use gsutil to transfer data to Cloud Storage buckets.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Storage Transfer Service to transfer data from the on-premises infrastructure to Cloud Storage buckets.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>A financial services company is looking to store and process large amounts of sensitive customer data in the cloud, while meeting the requirements of strict regulatory compliance. What is the best solution for meeting these requirements using Google Cloud Platform?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Store the data in Cloud Storage and process it using Cloud Functions, while ensuring data encryption and access controls using Cloud Key Management Service and Cloud Identity and Access Management.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Store the data in Cloud SQL for MySQL and process it using Cloud Functions.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Store the data in Cloud SQL for PostgreSQL and process it using Cloud Functions.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Store the data in Bigtable and process it using Cloud Dataflow.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are a cloud architect working for a large e-commerce company. The company is generating massive amounts of clickstream data from its online platform and wants to implement an efficient and scalable solution for storing and analyzing this data. The primary goal is to gain insights into user behavior and improve the overall user experience. Which of the following approaches would be the most suitable for storing and analyzing the clickstream data in this complex scenario?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implement a serverless architecture using Cloud Functions to directly process and store the clickstream data in Cloud Firestore.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Store the raw clickstream data in Cloud Spanner and use Cloud Dataflow for batch processing and analysis.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Set up a self-managed Apache Hadoop cluster on Compute Engine to handle the storage and analysis of the clickstream data.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Use Cloud Storage for storing the raw clickstream data and BigQuery for performing real-time analytics.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company is developing an application that requires a high volume of read and write operations on the database. The application will be hosted on Google Compute Engine instances. However, the database is expected to grow significantly over time, and the management wants to ensure that the disk performance remains high. As a cloud architect, what type of persistent disk would you recommend for optimal performance?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Standard persistent disk, because it provides cost-effective storage.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Local SSD, because it provides high IOPS and low latency.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Storage instead of a persistent disk for high performance.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>SSD persistent disk, because it provides high IOPS and throughput.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company is using a Google Kubernetes Engine (GKE) to run a mission-critical web application. The application's traffic patterns are inconsistent, with significant spikes in demand at unpredictable intervals. You are tasked with ensuring the application is highly available and responsive, while maintaining cost-effectiveness. Which of the following autoscaling configurations should you use?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Configure GKE autoscaling to scale based on memory utilization, set at 70%.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Configure GKE autoscaling with CPU utilization as the primary metric, set at 80%.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Set up a custom autoscaling policy based on the number of incoming requests, triggering scaling after 1000 requests per second.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Set up a custom autoscaling policy based on network traffic, triggering scaling at 90% of peak traffic.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company is planning to design a new cloud solution architecture that not only addresses its current needs but is also robust enough to accommodate future improvements and technological advancements. As a Google Professional Cloud Architect, you are tasked with ensuring the solution is scalable, cost-effective, and able to integrate future cloud and technology innovations. Considering Google Cloud Platform's (GCP) capabilities, which of the following approaches would best align with these requirements?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implementing a monolithic architecture on Compute Engine for all services.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Relying solely on preemptible VMs to reduce costs, without considering high availability.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Using Google Kubernetes Engine (GKE) to containerize and orchestrate microservices.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Designing the architecture to rely on a single region and availability zone for all services.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company is planning to shift their operations to Google Cloud Platform. As a cloud architect, you are tasked with setting up the environment following the best practices. Which of the following is the best strategy to implement?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Grant all users the 'Owner' role for simplicity and ease of access.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Employ a flat project structure where all resources are deployed in a single project for centralized control.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Implement IAM policies at the organizational level and fine-tune them at the project level.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Create a single Virtual Private Cloud (VPC) network for all the company's projects and applications.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are a cloud architect at a software company that has an application deployed on Google Cloud. The application has been experiencing performance issues both in the testing and production environments. The DevOps team is unsure if the problem is due to the application's code or the underlying infrastructure. You've been asked to identify an efficient way to isolate and diagnose these performance issues. Which approach would you suggest?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Upgrade the machine types of all Compute Engine instances in the project to increase performance.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Create a detailed log for every function call in the application code to identify any bottlenecks.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Cloud Profiler to identify performance bottlenecks in the code, while also leveraging Cloud Monitoring and Logging to analyze infrastructure performance.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use only Cloud Monitoring to analyze both the code and the infrastructure performance.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>As a cloud architect, you have observed that a few API requests in your microservices application experience significant delays. You are aware that each API request may pass through multiple services. To identify the specific service causing the longest delays in such cases, what course of action should you pursue?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Instrument your application with Cloud Trace in order to break down the request latencies at each microservice.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Set timeouts on your application so that you can fail requests faster.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Monitoring to look for insights that show when your API latencies are high.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Send custom metrics for each of your requests to Cloud Monitoring.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>A company is looking to process real-time data from multiple sources in order to provide real-time analytics to their clients. The company is expecting to process a large volume of data with an estimated peak of up to 1 million requests per second. The solution must be able to scale elastically to handle varying levels of incoming data, ensure low latency processing, and support the processing of data in real-time. Which of the following options would be the most effective approach to meet these requirements?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Use Cloud Pub/Sub to ingest the data and feed it into Cloud Dataflow for real-time processing.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Dataflow to ingest the data and feed it into Cloud Bigtable for real-time processing.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Dataproc with Apache Spark Streaming to process the data in real-time.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Dataflow with Apache Beam to process the data in batch mode and store the results in Cloud Bigtable.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>How would you design a solution for running a large-scale, highly-available data warehousing platform on Google Cloud, considering the requirement for fast query performance, cost-effectiveness, and the ability to handle petabyte-scale data?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Dataproc for data processing, with Cloud Bigtable for data storage and Cloud Datalab for data analysis.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Apache Impala on Google Kubernetes Engine for data warehousing and analysis, with Apache Kudu for data storage and Apache Superset for data visualization.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use BigQuery for data warehousing and analysis, with Cloud Dataflow for data processing and Cloud Storage for data storage.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Apache Hive on Compute Engine for data warehousing, with Apache Hadoop HDFS for data storage and Apache Zeppelin for data analysis.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company is considering an Infrastructure as Code (IaC) approach for deploying resources on Google Cloud Platform (GCP) and has a requirement for creating reusable templates for resource provisioning. As a cloud architect, which tool would you recommend that best aligns with their requirement?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Google Cloud SDK</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Cloud Build</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Google Cloud Console</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Google Cloud Deployment Manager</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Refer to the Mountkirk Games case study for this question: https://services.google.com/fh/files/blogs/master_case_study_mountkirk_games.pdf
+Mountkirk Games is seeking to develop a real-time analytics platform for their upcoming game while ensuring that all their technical requirements are met. Which combination of Google technologies would satisfy these requirements?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Cloud Pub/Sub, Compute Engine, Cloud Storage, and Cloud Dataproc</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Cloud SQL, Cloud Storage, Cloud Pub/Sub, and Cloud Dataflow</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Cloud Dataflow, Cloud Storage, Cloud Pub/Sub, and BigQuery</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Kubernetes Engine, Cloud Pub/Sub, and Cloud SQL</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are designing a cloud solution for a multinational retail company with a complex multi-tier architecture. The company has a central web application that serves as a customer-facing e-commerce platform. The web application integrates with multiple backend systems, including a payment gateway, a warehouse management system, and an inventory management system. The company wants to ensure that the platform is highly available and secure, with a disaster recovery strategy in place in case of regional outages. In addition, the company wants to be able to deploy new features and updates to the platform with minimal downtime. Which of the following design patterns would you recommend to achieve this design?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implement a global active-active setup with a global load balancer and multiple backend systems in different regions, with real-time replication between regions.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Implement a multi-region active-active setup with multiple regional load balancers and backend systems in different regions, with real-time replication between regions.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implement a regional active-active setup with a regional load balancer and multiple backend systems in different regions.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implement a regional active-passive setup with a regional load balancer and multiple backend systems in different regions, with real-time replication between regions.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are a cloud architect at a multinational company and have been asked to set up an HTTP(S) load balancer to route traffic to backends in multiple regions. However, the company wants to ensure that user requests are always routed to the closest healthy backend to minimize latency. Additionally, there should be a fallback mechanism if the closest backend is unhealthy. Which of the following strategies would you implement to fulfill these requirements?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Configure HTTP(S) Load Balancer with multiple backend services in each region and utilize Cross-Region Load Balancing.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Configure HTTP(S) Load Balancer with a single global backend service and use Global Load Balancing.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Configure HTTP(S) Load Balancer with a single backend service and health checks.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Configure HTTP(S) Load Balancer with multiple backend services in each region and implement Global Load Balancing.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your team is developing a high-performance computing application that specifically needs to run on a Debian Linux environment. The application is compute-intensive and processes a large amount of data. Given the need for compute resources to be scaled up and down in response to the changing volume of data, as a cloud architect, what deployment strategy would you suggest on Google Cloud?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Use Compute Engine with Debian Linux images and configure them in a Managed Instance Group.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Deploy the application on App Engine standard environment.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Functions with a custom runtime to mimic the Debian Linux environment.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Deploy the application on Google Kubernetes Engine with Debian containers.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are working on a project for a large multinational company that has numerous APIs with different processing requirements. The architecture team decided to host each API on a separate set of instances and use a single Global HTTP(S) Load Balancer to route requests to the appropriate backend. To ensure the requests reach the right backend service, what should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Assign different static external IP addresses to each API backend.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Create separate subnetworks for each API backend and route requests based on the subnetwork IP range.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use separate backend services for each API path and configure URL maps to route requests.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Create a separate VPC network for each API path and configure the Load Balancer to route based on VPC.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>As a cloud architect, your company has asked you to architect and deploy a highly scalable web application using Google App Engine. The application will be used globally and should be able to handle large spikes in traffic. The application also needs to be updated frequently with zero downtime. Moreover, the company is very cost-conscious and wants to ensure that they are only billed for the compute resources they actually use. Which of the following App Engine environment and scaling type combinations would you recommend for this situation?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>App Engine Flexible Environment with Automatic Scaling.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>App Engine Flexible Environment with Basic Scaling.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>App Engine Standard Environment with Manual Scaling.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>App Engine Standard Environment with Automatic Scaling.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are working for an ad tech company that requires both real-time and batch processing of ad click data. The data needs to be analyzed in real-time for near instant reporting to advertisers, but also needs to be processed in a batch for daily and monthly reporting. Which combination of GCP services would be the most efficient for this use case?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use BigQuery for real-time processing and Cloud Storage for batch processing.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Firestore for real-time processing and Cloud Spanner for batch processing.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Dataflow with both batch and streaming pipelines for processing data.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-      </options>
-    </answer>
-  </entry> 
-    <entry>
-    <question>XXX</question>
-    <answer>
-      <options>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-      </options>
-    </answer>
-  </entry> 
-  <entry>
-    <question>XXX</question>
-    <answer>
-      <options>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-      </options>
-    </answer>
-  </entry> 
-  <entry>
-    <question>XXX</question>
-    <answer>
-      <options>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-      </options>
-    </answer>
-  </entry> 
-  <entry>
-    <question>XXX</question>
-    <answer>
-      <options>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-      </options>
-    </answer>
-  </entry> 
-  <entry>
-    <question>XXX</question>
-    <answer>
-      <options>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-      </options>
-    </answer>
-  </entry> 
-  <entry>
-    <question>XXX</question>
-    <answer>
-      <options>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-      </options>
-    </answer>
-  </entry> 
-  <entry>
-    <question>XXX</question>
-    <answer>
-      <options>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-      </options>
-    </answer>
-  </entry> 
-  <entry>
-    <question>XXX</question>
-    <answer>
-      <options>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-      </options>
-    </answer>
-  </entry> 
-  <entry>
-    <question>XXX</question>
-    <answer>
-      <options>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-      </options>
-    </answer>
-  </entry> 
-  <entry>
-    <question>XXX</question>
-    <answer>
-      <options>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Pub/Sub for real-time processing and Cloud Functions for batch processing.</detail>
         </option>
       </options>
     </answer>
   </entry> 
     <entry>
-    <question>XXX</question>
+    <question>As a cloud architect, you are tasked with designing a solution to backup an on-premises PostgreSQL database to Google Cloud Platform. The objective is to create a replica of the on-premises database on GCP for backup purposes, so the data is easily recoverable and accessible in case of an on-premises failure. Which method would be the most efficient way to accomplish this?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Spanner to replicate the PostgreSQL database</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Cloud SQL for PostgreSQL and setup Cloud SQL external server replication</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Google Cloud Storage to store PostgreSQL dump files</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Dataflow to stream data from PostgreSQL to BigQuery</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company's website experiences high traffic during business hours and almost no traffic during the night. The website is hosted on the Google Cloud Platform, and you have been asked to optimize the configuration for cost efficiency without sacrificing availability during peak hours. Which of the following actions would be the best practice to achieve this?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Storage to serve the website content instead of Compute Engine instances.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Compute Engine instances with maximum possible machine type for higher capacity.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Deploy a Managed Instance Group (MIG) and configure autoscaling based on the CPU utilization.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Keep all the Compute Engine instances running 24/7 to avoid startup delays.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your organization operates a large on-premise data warehouse that's currently based on a traditional RDBMS. You have been tasked with migrating this system to the Google Cloud Platform. You're concerned about downtime during the migration and want to minimize it. What would be the best approach?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use a manual process to extract, transform, and load (ETL) the data from the on-premise system to BigQuery.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud SQL as the destination for the migration, then transfer the data from Cloud SQL to BigQuery.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Set up a VPN between the on-premise data center and Google Cloud, then use Database Migration Service to move the data.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Use BigQuery Data Transfer Service to regularly update BigQuery with changes from the on-premise system, followed by a brief downtime to finalize the transfer and switch over.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company has chosen to adopt Kubernetes for managing its containerized application deployments. As a cloud architect, you have been tasked with creating a Kubernetes cluster using gcloud command-line tool in a way that allows you to perform rolling updates without downtime, supports automatic scaling, and ensures data persistency for stateful apps. Which of the following gcloud commands would be most appropriate for this task?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>gcloud container clusters create my-cluster --region=us-central1 --num-nodes=3 --scopes=cloud-platform</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>gcloud container clusters create my-cluster --zone=us-central1-a --num-nodes=3 --scopes=gke-default --enable-autoscaling --min-nodes=1 --max-nodes=5 --enable-cloud-logging</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>gcloud container clusters create my-cluster --zone=us-central1-a --num-nodes=3 --enable-autoscaling --min-nodes=1 --max-nodes=5 --scopes=gke-default</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>gcloud container clusters create my-cluster --region=us-central1 --num-nodes=3 --scopes=cloud-platform --enable-autoscaling --min-nodes=1 --max-nodes=5</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>As a cloud architect for a rapidly growing e-commerce company, you are tasked with handling Payment Card Industry Data Security Standard (PCI DSS) compliance for the storage and processing of payment card data. The company uses Compute Engine for their application servers, Cloud SQL for their transaction databases, and Cloud Storage for long-term data retention. Which of the following strategies is the most suitable to address this requirement?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Store all payment card data in Cloud Storage buckets configured with uniform bucket-level access.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Restrict network access to all services using Firewall Rules and Cloud Armor.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Utilize Google Cloud's Data Loss Prevention (DLP) API to discover, classify, and de-identify sensitive data.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implement a third-party key management system and utilize customer-supplied encryption keys for all storage systems.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are working as a cloud architect for a large organization. The organization is structured into various departments and you have been tasked with assigning the correct Identity and Access Management (IAM) roles to ensure proper access control. The sales team in your organization has requested access to view and download sales data stored in Cloud Storage but they should not be allowed to delete or modify any data. What IAM role should you assign to the sales team?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Storage Object Creator</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Storage Object Viewer</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Storage Object Admin</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Storage Admin</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>How would you design a solution for running a large-scale, multi-cloud, and secure disaster recovery plan for a global enterprise, considering the requirement for real-time data replication, low recovery time objective (RTO), and the ability to handle multiple TBs of data from multiple locations?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Functions for data replication, with Cloud Interconnect for network connectivity and Cloud Bigtable for database management.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Cloud Storage Transfer Service for data replication, with Cloud Dedicated Interconnect for network connectivity and Cloud Spanner for database management.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Storage Transfer Service for data replication, with Cloud VPN for network connectivity and Cloud Storage for database management.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Storage Transfer Service for data replication, with Cloud Dedicated Interconnect for network connectivity and Cloud Filestore for database management.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>A large multinational corporation has an e-commerce platform with multiple microservices hosted in Google Cloud Platform. Each microservice has its own separate database, but the corporation wants to centralize the authentication process for all of its services. What is the most secure and scalable solution for centralized authentication in this scenario?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implementing a single OAuth 2.0 server using Google Cloud Endpoints.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implementing Google Cloud IAM for each microservice.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implementing a single OAuth 2.0 server using Google Cloud Functions.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Implementing Google Cloud IAP for each microservice.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your organization is planning to migrate a large on-premise data warehouse to Google Cloud Platform. The data warehouse is currently hosted on a Hadoop cluster with Hive. The management decided to migrate to Google Cloud to use the managed services offered by Google. Which service should you choose?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Use BigQuery as it provides a highly scalable, serverless, and cost-effective multi-cloud data warehouse.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Bigtable as it offers low latency access to large datasets.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Spanner as it provides strong transactional consistency.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Storage as it provides unified object storage.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>When considering strong security during the operation of fully autonomous vehicles within your agricultural division, there are two key architecture characteristics that should be taken into account. Which two characteristics should you prioritize in your architecture design?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Use a Trusted Platform Module (TPM) and verify firmware and binaries on boot.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Require IPv6 for connectivity to ensure a secure address space.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Treat every microservice call between modules on the vehicle as untrusted.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use a functional programming language to isolate code execution cycles.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use multiple connectivity subsystems for redundancy.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+    <entry>
+    <question>Your organization has decided to run its LAMP (Linux, Apache, MySQL, PHP) stack on Google Cloud Platform. They need a solution that is scalable, easy to manage, and highly available. Which of the following options would you recommend?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Functions to host the PHP application and Cloud SQL for MySQL, with Apache running on a Compute Engine instance.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Kubernetes Engine to manage the Apache and PHP components in separate containers, with Cloud SQL for MySQL.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Run to deploy the Apache and PHP components, with Firestore for MySQL.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Deploy each component of the LAMP stack on separate Compute Engine instances.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>A company is planning to deploy a real-time data processing solution on Google Cloud Platform (GCP) to process large amounts of incoming sensor data. The solution must be able to scale elastically to accommodate varying levels of incoming data, provide low latency processing, and ensure high data reliability. Additionally, the solution must be able to support complex data transformations and integrations with other data sources. Which of the following options would be the most effective approach to meet these requirements while also optimizing cost?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Pub/Sub to ingest the data, Cloud Functions to process the data in real-time, and Cloud Firestore to store the results.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Dataflow to process the data in a batch mode and store the results in BigQuery.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Pub/Sub to ingest the data and feed it into Cloud Dataproc clusters for processing and storing the results in BigQuery.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Use Apache Beam on Cloud Dataflow to process the data in real-time and store the results in BigQuery.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>As a cloud architect, you need to do a presentation on how to interact with the Google Cloud. Select all possible ways to interact with GCP.</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Cloud Console Mobile App</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>REST-based API</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Cloud Platform Console</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Cloud Shell and Cloud SDK</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>CloudFormation</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>As a cloud architect, you work with Kubernetes in your new cloud project. Select progression of abstraction from the lowest to the highest level in Kubernetes.</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Pods, Services, Deployments</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Deployments, Pods, Services</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Pods, Deployments, Services</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Deployments, Services, Pods</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>As a cloud architect, you are responsible for setting up a continuous deployment pipeline for a project hosted in a Git source repository. Your objective is to guarantee that code modifications can be validated prior to being deployed to the production environment. What steps should you take to achieve this?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Use Jenkins to monitor tags in the repository. Deploy staging tags to a staging environment for testing. After testing, tag the repository for production and deploy that to the production environment.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Spinnaker to deploy builds to production and run tests on production deployments.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Spinnaker to deploy builds to production using the red/black deployment strategy so that changes can easily be rolled back.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Jenkins to build the staging branches and the master branch. Build and deploy changes to production for 10% of users before doing a complete rollout.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>As a cloud architect, you've been tasked with setting up an e-commerce application on Google Cloud Platform for a multinational company. The application will handle credit card transactions and customer data, so security is of utmost importance. The application consists of various components running on Compute Engine, Cloud Storage, and Cloud SQL. What should be your primary focus in terms of security?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Enable Secure Boot on all Compute Engine instances to ensure the integrity of the boot process.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use VPC Service Controls to establish a security perimeter around sensitive resources.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Utilize Cloud Armor to protect the application against DDoS attacks.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Apply IAM roles and policies at the organization level to manage resource access.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are a cloud architect for a multinational corporation that has a wide array of legacy applications hosted on-premises. You have been tasked to devise a strategy to migrate these applications to Google Cloud. Considering the least disruption, the nature of the applications, and the organization's business objectives, which migration strategy should you recommend?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Prioritize a hybrid approach, maintaining a mix of on-premises and cloud-hosted applications.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use the Strangler pattern where a new system slowly replaces the old one over time.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Lift-and-Shift strategy for all applications regardless of their complexity.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Migrate all applications to serverless compute options, such as Google Cloud Functions or App Engine.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company has just acquired another business, and you've been tasked with integrating their existing DNS setup into Google Cloud DNS. The other business already has several registered domains that are critical to its operations, and it's important that the transition is smooth with zero downtime. How would you accomplish this?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Contact Google support to have them manually transition the DNS records for you.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Create a new zone for each domain in Google Cloud DNS, manually recreate the DNS records, then update the name servers at the domain registrar to those of the Google Cloud DNS zones.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Export DNS records from the existing provider, create a new zone for each domain in Google Cloud DNS, and import the records.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use the gcloud dns record-sets import command to import the records from the existing provider, then update the name servers at the domain registrar.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>After creating multiple preemptible Linux VM instances through Google Compute Engine, your objective is to ensure the appropriate shutdown of the application prior to the VMs being preempted. What actions are recommended in this situation?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>You should create a shutdown script, registered as a xinetd service in Linux, and use the gcloud compute instances add-metadata command to specify the service URL as the value for a new metadata entry with the key shutdown-script-url.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Create a shutdown script registered as a xinetd service in Linux and configure an endpoint check to call the service.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Create a shutdown script in the /etc/rc.6.d/ directory.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>You should create a shutdown script and use it as the value for a new metadata entry with the key shutdown-script in the Cloud Platform Console when you create the new virtual machine instance.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Users of your application complaints about long wait times while loading application pages with images. As a cloud architect, you want to reduce latency. Which of the following options would you use? (select 2)</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Multi-Regional Storage</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Coldline Storage</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Cloud Pub/Sub</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Cloud VPN</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Cloud CDN</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>How would you design a solution for running a large-scale, multi-cloud, and secure big data analytics platform on Google Cloud, considering the requirement for real-time data processing, scalability, and the ability to handle petabytes of structured and unstructured data from multiple sources?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Tasks for batch processing, with Cloud Pub/Sub for real-time data streaming and Cloud BigQuery for data warehousing.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Cloud Dataproc for batch processing, with Cloud Dataflow for real-time data processing and Cloud BigQuery for data warehousing.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Dataproc for batch processing, with Cloud Pub/Sub for real-time data streaming and Cloud Bigtable for data warehousing.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Dataproc for batch processing, with Cloud Dataflow for real-time data processing and Cloud Bigtable for data warehousing.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your organization collects telemetry data from thousands of IoT devices. The data needs to be stored in a time-series database on Google Cloud for future analysis and predictions. The data volume is expected to grow exponentially over the next couple of years. Which Google Cloud service should you use to handle this situation?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Cloud Bigtable</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Cloud Storage</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>BigQuery</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Firestore</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company plans to deploy a new mission-critical web application on Google Cloud Platform (GCP) and it must be highly available and scalable. As a cloud architect, you've decided to use managed instance groups (MIGs). Which features should you include in your deployment to ensure high availability and scalability?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Multi-zone deployment, autohealing, and autoscaling.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Multi-zone deployment, no autohealing, and autoscaling.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Multi-zone deployment, autohealing, and no autoscaling.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Single-zone deployment, autohealing, and autoscaling.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your organization's application is deployed on App Engine. Users have started reporting that some transactions are failing, and the rate of failure seems to be increasing. You need to identify the root cause and mitigate the problem. Which of the following steps is the most efficient way to proceed?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Migrate the application to Google Kubernetes Engine (GKE) to better handle the load.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Cloud Monitoring and Logging to identify the source of the problem.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Change the runtime environment of the application and observe if the issue persists.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Utilize Cloud Pub/Sub to decouple and distribute the transactions across various services.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You have been assigned to design a storage system for a multinational company that anticipates substantial growth in data over the next two years. The data will be accessed frequently and changes infrequently. It is crucial to minimize latency and ensure the data's availability globally. Which Cloud Storage class should you choose?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Multi-Regional Storage</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Regional Storage</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Nearline Storage</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Archive Storage</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are a cloud architect working for a global enterprise that runs an e-commerce application. As part of the design, the application layer is hosted on Compute Engine and needs to be scalable to handle potential spikes in traffic during high-usage times. In this scenario, you decided to implement a managed instance group (MIG) for automated scaling. You need to create a process to automate the creation of the managed instance group, ensure it scales based on load, is distributed across multiple zones for high availability, and uses predefined instance templates for uniformity. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Deployment Manager to create and manage a zonal managed instance group. Configure autoscaling based on HTTP load balancing.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Terraform to create a regional managed instance group using an instance template. Configure autoscaling based on Cloud Monitoring metrics.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Functions to create an instance template and a zonal managed instance group. Configure autoscaling based on Cloud Monitoring metrics.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use the Cloud SDK to create a zonal managed instance group with a template, and then manually add instances when needed.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your objective is to decrease the frequency of unscheduled rollbacks for flawed production deployments within your company's web hosting platform. By enhancing QA/Test processes, you were able to achieve a substantial 80% reduction in rollbacks. Now, what are two additional approaches you can adopt to further minimize the occurrence of rollbacks?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Replace the QA environment with canary releases.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Decompose the monolithic platform into microservices.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Reduce the platform's dependency on relational database systems.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Replace the platform's relational database systems with a NoSQL database.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Implement a green-blue deployment strategy.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are leading the team responsible for managing an application hosted on Cloud Run. You are planning to release a new version of the application. To ensure minimal disruption and maintain high availability, you need to define a strategy for deploying the new version. Which of the following would be the most appropriate strategy for this scenario?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Shut down the application, deploy the new version, perform extensive testing, and then bring the application back online.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Perform a canary deployment, gradually directing a small percentage of traffic to the new version while monitoring for issues.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Deploy the new version directly to production, testing it in the live environment and rolling it back if issues are found.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Perform a blue-green deployment, keeping the current version (blue) running while the new version (green) is fully deployed and tested. Once the new version is validated, traffic is redirected to it.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are tasked with deploying a global e-commerce application on Google Cloud. To ensure optimal latency and high availability, you decided to use the Global HTTP(S) Load Balancer. The application needs to route incoming requests to the nearest healthy backend that has sufficient capacity to handle the load. How should you configure the load balancer?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>You are tasked with deploying a global e-commerce application on Google Cloud. To ensure optimal latency and high availability, you decided to use the Global HTTP(S) Load Balancer. The application needs to route incoming requests to the nearest healthy backend that has sufficient capacity to handle the load. How should you configure the load balancer?</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Configure Global HTTP(S) Load Balancer with backend services in multiple regions and use a balancing mode based on the capacity of the backends.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Configure Global HTTP(S) Load Balancer with backend services in a single region and enable Cloud CDN.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Configure Global HTTP(S) Load Balancer with a single instance group and enable Cross-Region load balancing.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company is structuring their Google Cloud Platform (GCP) resources. The company consists of three distinct departments: Finance, Marketing, and Operations. Each department should only be able to access and manage their own resources. As a cloud architect, what is the most appropriate way to design the GCP resource hierarchy?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Create one organization, and within it create a folder for each department. In each folder, create projects for different needs of the department.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Create one project for the whole company and use IAM policies to restrict access for each department.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Create three different organizations for each department.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Do not create an organization. Instead, create separate projects for each department.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>A company is planning to deploy a multi-tier web application on Google Cloud Platform (GCP) that will be accessed by users globally. The application must be highly available, provide fast and reliable performance, and meet strict security and compliance requirements. Which of the following options would be the most effective approach to meet these requirements while also optimizing cost?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Kubernetes Engine to deploy and manage containers for the web and application tiers, and store data in Cloud Bigtable.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use App Engine Flexible Environment to host the web and application tiers, and store data in Cloud Datastore.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Functions to host the web and application tiers, and store data in Cloud Firestore.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Compute Engine instances in a global load-balanced network to host the web and application tiers, and store data in Cloud SQL.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your organization has a multi-tier application running on Google Cloud and follows an Agile development process. You are assigned the task of setting up a testing environment that is identical to the production environment. This testing environment should be isolated and must not impact the production environment in any way. It should also be easily reproducible and scalable to facilitate multiple parallel testing efforts. How should you approach this task?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Google Kubernetes Engine and set up a separate namespace for testing while using the same cluster as the production environment.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Google Deployment Manager to replicate the infrastructure of the production environment in the testing environment.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Google Cloud Functions and create separate functions for testing.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Google Compute Engine to manually create and configure VMs for the testing environment that match the production environment.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are a Google Professional Cloud Architect working with a large e-commerce company. The company wants to optimize its data processing workflows by implementing Google Cloud Dataflow. They aim to leverage the power of Dataflow to process large volumes of streaming and batch data efficiently and reliably. In the context of this complex scenario, which of the following statements about Google Cloud Dataflow is correct?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Dataflow pipelines are written using Apache Beam, an open-source unified programming model for batch and stream processing.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Cloud Dataflow is a managed service that supports only batch processing of data.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Dataflow pipelines can only process data stored in Cloud Storage and Cloud Bigtable.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Dataflow is primarily designed for small-scale data processing and may not handle high-volume data efficiently.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company is planning to deploy a new web application on Google Cloud Platform (GCP). The application is expected to have fluctuating usage patterns and significant spikes in traffic. The development team is committed to following best practices for continuous integration and continuous deployment (CI/CD) to enhance the application’s scalability and manageability. As a cloud architect, you are tasked with recommending a CI/CD strategy that ensures the application is always available, scalable, and up to date. Which of the following CI/CD strategies is most appropriate for this scenario?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Configure a blue-green deployment model using Kubernetes Engine to allow testing in a live environment before full rollout.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Manually deploy updated versions to App Engine standard environment during off-peak hours to minimize disruption.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Build to automate deployments, employing Cloud Functions for lightweight processing tasks that scale automatically.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implement a rolling update strategy using Compute Engine managed instance groups to ensure zero downtime during deployments.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>A financial company wants to move its existing data warehouse infrastructure to Google Cloud Platform to take advantage of its scalability and cost-effectiveness. The data warehouse processes large amounts of financial data and the company wants to ensure the data is secure and available at all times. Which of the following is the best solution for this requirement in Google Cloud Platform?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Using Cloud Storage for data warehousing</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Using Cloud SQL for data warehousing</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Using BigQuery for data warehousing</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Using Cloud Datastore for data warehousing</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>As a cloud architect, your client has informed you that their recently updated App Engine application is experiencing prolonged loading times of around 30 seconds for certain users. This issue was not present prior to the update. What approach should you adopt to address this problem effectively?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>You should work with your Internet Service Provider (ISP) to diagnose the problem.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should roll back to an earlier known good release initially, then use Cloud Trace and Logging to diagnose the problem in a development/test/staging environment.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>You should roll back to an earlier known good release, then push the release again at a quieter period to investigate. Then use Cloud Trace and Logging to diagnose the problem.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>You should open a support ticket to ask for network capture and flow data to diagnose the problem, then roll back your application.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>A healthcare organization is looking to implement a cloud-based electronic medical records (EMR) OLTP system that can securely store and process large amounts of sensitive patient data. The solution should also be able to support real-time data access and updates by authorized healthcare providers. Which of the following Google Cloud Platform services would you recommend for this requirement?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Cloud SQL for PostgreSQL</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Cloud Firestore</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Cloud Bigtable</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Cloud Storage</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>A multinational corporation has a large number of remote employees working in different countries. They need to provide secure access to company resources, such as Google Workspace and GCP resources, to these employees. The solution should also meet the following requirements:
+- provide a secure and scalable solution that can handle a large number of remote users
+- enforce strong authentication and authorization policies
+- automatically provide employees with the appropriate level of access to company resources based on their job function
+- provide centralized management and auditing of user access
+- be cost-effective
+Which solution would you recommend to meet these requirements and why?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implementing Google Workspace Groups and Google Cloud IAM roles</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Implementing Google Workspace Domain-Wide Delegation of Authority and Google Cloud Identity-Aware Proxy (IAP)</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implementing Google Workspace Domain-Wide Delegation of Authority and Google Cloud VPN</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Implementing Google Workspace Single Sign-On (SSO) and Google Cloud IAM roles</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>As a cloud architect, you have been tasked to design a Google Cloud Platform (GCP) resource hierarchy for an organization with multiple departments. The organization aims to limit the permissions for modifying IAM policies to the fewest number of individuals. Which design would achieve this?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Assign IAM roles at the folder level for each department.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Assign IAM roles at the project level for each department.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Assign IAM roles at the organization level only.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Assign IAM roles at the individual resource level.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>A company wants to migrate their existing on-premise data center to Google Cloud. The company's current data center has 100TB of data, with 1000 servers and 100 network devices. They require a high-availability solution with the lowest possible latency and maximum security. What would be the most cost-effective, scalable and secure solution to meet the company's requirements for data center migration to Google Cloud?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>Use Cloud Storage with Cloud Interconnect for data transfer and storage. Deploy VMs in multiple zones.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud BigQuery with Cloud VPN for data transfer and storage. Deploy VMs in a single zone.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Storage with Cloud VPN for data transfer and storage. Deploy VMs in a single zone.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Compute Engine for storage. Deploy VMs in multiple regions with load balancing.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>How would you design a solution for securely storing and accessing sensitive data in Google Cloud, considering the requirement for encryption at rest, secure data transfer, and fine-grained access control?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Bigtable with customer-supplied encryption keys and Cloud Armor for network security.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud Storage with customer-supplied encryption keys and Cloud VPN for secure data transfer.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Use Cloud SQL with server-side encryption and Cloud Identity-Aware Proxy for fine-grained access control.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Cloud Key Management Service for encryption key management, with Cloud Storage for data storage and Cloud IAM for access control.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Consider a scenario where a global financial services company wants to move their legacy monolithic application to the cloud. The application is currently hosted on-premise and relies on a combination of custom-built software, third-party software, and hardware appliances. The new cloud-based solution must meet the following requirements:
+- support high availability and disaster recovery
+- maintain the current level of security and compliance
+- ensure data privacy and data residency requirements are met for all regions
+- optimize cost while providing scalable and elastic resources
+- minimize downtime during migration
+What is the most appropriate solution to meet the requirements outlined above?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Rebuild the application using App Engine and Google Cloud SQL for data storage. Use Cloud CDN for traffic management and Cloud Interconnect for secure communication between on-premise and cloud resources. Implement a multi-zone deployment with active-standby replication.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Migrate the application to Google Cloud using Compute Engine virtual machines and Cloud Storage for data storage. Use Load Balancer for traffic management and Cloud VPN for secure communication between on-premise and cloud resources. Implement a multi-region deployment with active-active replication.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>Rebuild the application using Cloud Functions and Firestore for data storage. Use Cloud CDN for traffic management and loud VPN for secure communication between on-premise and cloud resources. Implement a multi-region deployment with active-standby replication.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Migrate the application to Google Cloud using Compute Engine virtual machines and Cloud Storage for data storage. Use Google Cloud DNS for traffic management and Virtual Private Cloud (VPC) for secure communication between on-premise and cloud resources. Implement a multizone deployment with active-active replication.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>A company is planning to deploy a highly scalable and secure cloud infrastructure on Google Cloud Platform (GCP) to support their growing cloud-based product offerings. The infrastructure must be able to handle sudden spikes in demand, provide fast and reliable performance, and meet strict security and compliance requirements. Which of the following options would be the most effective approach to meet these requirements while also optimizing cost?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Use App Engine Flexible Environment with custom firewall rules and encrypted environment variables to host the application, and use Cloud Armor to protect against network threats.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud Functions with encrypted secrets and environment variables to host the application, and use Cloud Load Balancer with SSL/TLS termination to provide secure access to the application.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Use Google Kubernetes Engine with network security policies and encrypted secrets to host the application, and use Cloud Interconnect to securely connect to on-premises resources.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Compute Engine instances with custom firewall rules and encrypted disks to host the application, and use Cloud VPN to securely connect to on-premises resources.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You are designing a multi-tier web application that is hosted on Google Cloud Platform (GCP). The web application has a high number of users, and you expect that the number of users will increase significantly in the near future. What GCP services would you use to ensure that the web application can scale dynamically to meet the changing demand?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Google Compute Engine and Google Cloud Load Balancing</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Google App Engine and Google Compute Engine</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Google Kubernetes Engine and Google Cloud Load Balancing.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Google App Engine and Google Kubernetes Engine</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you have been assigned the task of setting up a Compute Engine application in a single Virtual Private Cloud (VPC) spanning across two regions for a global e-commerce company. The objective is to ensure high availability and seamless connectivity between instances in these two regions, while also keeping latency and cost to a minimum. Which approach would be the most effective to meet these requirements?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Create a single VPC and deploy two regional subnets with custom dynamic routing.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Create two separate VPCs, one for each region, and connect them using Cloud VPN.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Create a single VPC and deploy two unconnected regional subnets.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use shared VPC to connect the two regions.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>Your organization is planning to design a cloud solution architecture for a new application that will have significant variations in demand and should be cost-effective. As a cloud architect, what strategy would you propose for this scenario?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>Use sole-tenant nodes for hosting the application.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use preemptible VMs for all parts of the application.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Compute Engine instances with fixed resources, manually adding or removing instances as demand fluctuates.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>Deploy the application on App Engine standard environment.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You are migrating a complex application to Google Cloud. The application consists of multiple microservices, each developed by different teams. Your goal is to implement a CI/CD pipeline that allows for independent release cycles for each microservice. Which approach should you take?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Implement a separate Cloud Build trigger for each microservice and separate the deployments.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud Build with a single trigger to build and deploy all microservices simultaneously.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use a single Cloud Function to trigger the build and deployment for all microservices.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Google App Engine to deploy all microservices as a single service.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>As a cloud architect, you set up billing for your project and want to prevent excessive consumption of resources due to an error or malicious attack. What should you recommend to do?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>You should label all resources, regularly export the billing reports, and analyze them with BigQuery.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should set up a spending limit on the credit card used in your billing account.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>You should set up quotas for the resources that your project will be using.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>You should set up budgets and alerts in your project.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You are a cloud architect of a global online retail company that uses a production database hosted on Cloud SQL. You received an alert that the database is about to run out of storage space. What is the best approach to ensure that the production database does not run out of storage and there is minimal impact on the performance of the application?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Enable automatic storage increases for the database instance.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Export the data to BigQuery and delete the data from the production database.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Create a snapshot of the database, delete some data from the production database, and then restore the data from the snapshot if needed.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Increase the size of the database instance manually.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>How would you design a highly available and scalable solution for storing and processing large amounts of time-series data in Google Cloud, taking into consideration the requirement to minimize latency for data retrieval and processing, and cost-effectiveness?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>true</valid>
+          <detail>Use Bigtable for the primary storage, with Cloud Pub/Sub for real-time data processing and analysis.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud SQL for the primary storage, with Cloud Functions for real-time data processing and analysis.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud Datastore as the primary storage, with occasional backups to Cloud Storage for data durability.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>Use Cloud Storage as the primary storage, with Cloud Dataflow for batch data processing and analysis.</detail>
         </option>
       </options>
     </answer>
