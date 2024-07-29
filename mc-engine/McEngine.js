@@ -3,7 +3,8 @@ const qbList = [
   "qb-pca/qb-02-practice-tests.xml",
   "qb-pca/qb-03-practice-tests.xml",
   "qb-pca/qb-04-practice-tests.xml",
-  "qb-pca/qb-05-practice-tests.xml"
+  "qb-pca/qb-05-practice-tests.xml",
+  "qb-pca/qb-06-practice-tests.xml"
 ];
 
 function setQuestions(currentQuestions) {

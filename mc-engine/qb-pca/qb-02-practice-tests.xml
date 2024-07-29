@@ -1425,7 +1425,7 @@ As a cloud architect, your task is to deploy Virtual Private Cloud (VPC) Service
         </option>
         <option>
           <valid>true</valid>
-          <detail>You should navigate to the APIs & Services section in Google Console and enable Cloud Pub/Sub API.</detail>
+          <detail>You should navigate to the APIs and Services section in Google Console and enable Cloud Pub/Sub API.</detail>
         </option>
         <option>
           <valid>false</valid>
