@@ -15,1151 +15,1238 @@
   </entry> 
   -->
   <entry>
-    <question>XXX</question>
+    <question>An API is being developed for use in Android and iOS apps. What kind of architecture would be suitable if it needs to support HTTPS, minimize bandwidth cost, and integrate easily with mobile apps?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. RESTful APIs</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. MQTT for APIs</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. gRPC-based APIs</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. SOAP-based APIs</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your company’s product team has a new requirement based on customer demand to autoscale your stateless and distributed service running in a Google Kubernetes Engine (GKE) cluster. You want to find a solution that minimizes changes because this feature will go live in two weeks. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Deploy a Vertical Pod Autoscaler, and scale based on the CPU load.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Deploy a Vertical Pod Autoscaler, and scale based on a custom metric.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Deploy a Horizontal Pod Autoscaler, and scale based on the CPU load.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Deploy a Horizontal Pod Autoscaler, and scale based on a custom metric.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You recently deployed a Go application on Google Kubernetes Engine (GKE). The operations team has noticed that the application's CPU usage is high even when there is low production traffic. The operations team has asked you to optimize your application's CPU resource consumption. You want to determine which Go functions consume the largest amount of CPU. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Deploy a Fluent Bit daemonset on the GKE cluster to log data in Cloud Logging. Analyze the logs to get insights into your application code's performance.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Create a custom dashboard in Cloud Monitoring to evaluate the CPU performance metrics of your application.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Connect to your GKE nodes using SSH. Run the top command on the shell to extract the CPU utilization of your application.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>D. Modify your Go application to capture profiling data. Analyze the CPU metrics of your application using flame graphs in Profiler.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are developing a microservice-based application that will be deployed on a Google Kubernetes Engine cluster. The application needs to read and write to a Spanner database. You want to follow security best practices while minimizing code changes. How should you configure your application to retrieve Spanner credentials?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Configure the appropriate service accounts, and use Workload Identity to run the pods.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Store the application credentials as Kubernetes Secrets, and expose them as environment variables.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Configure the appropriate routing rules, and use a VPC-native cluster to directly connect to the database.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Store the application credentials using Cloud Key Management Service, and retrieve them whenever a database connection is made.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are creating and running containers across different projects in Google Cloud. The application you are developing needs to access Google Cloud services from within Google Kubernetes Engine (GKE). What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Assign a Google service account to the GKE nodes.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Use a Google service account to run the pod with Workload Identity.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Store the Google service account credentials as a Kubernetes Secret.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Use a Google service account with GKE role-based access control (RBAC).</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are designing an application that consists of several microservices. Each microservice has its own RESTful API and will be deployed as a separate Kubernetes Service. You want to ensure that the consumers of these APIs aren't impacted when there is a change to your API, and also ensure that third-party systems aren't interrupted when new versions of the API are released. How should you configure the connection to the application following Google-recommended best practices?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Use an Ingress that routes requests to the appropriate backend using the API's URL.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Leverage a Service Discovery system and connect to the backend specified by the request.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Use multiple clusters and utilize DNS entries to route requests to separate versioned backends.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Combine multiple versions in the same service and then specify the API version in the POST request.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are planning to migrate a MySQL database to the managed Cloud SQL database for Google Cloud. You have Compute Engine virtual machine instances that will connect with this Cloud SQL instance. You do not want to whitelist IPs for the Compute Engine instances to access Cloud SQL. What should you do?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Enable private IP for the Cloud SQL instance.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Whitelist a project to access Cloud SQL, and add the Compute Engine instances to the whitelisted project.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Create a role in Cloud SQL that allows access to the database from external instances, and assign that role to the Compute Engine instances.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Create a Cloud SQL instance in one project. Create Compute Engine instances in a different project. Establish a VPN between these two projects to allow internal access to Cloud SQL.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are load testing your server application. During the first 30 seconds, you observe that a previously inactive Cloud Storage bucket is now servicing 2,000 write requests per second and 7,500 read requests per second. Your application is now receiving intermittent 5xx and 429 HTTP responses from the Cloud Storage JSON API as the demand escalates. You want to decrease the failed responses from the Cloud Storage API. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Distribute the uploads across a large number of individual storage buckets.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Use the XML API instead of the JSON API for interfacing with Cloud Storage.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Pass the HTTP response codes back to the clients that are invoking the uploads from your application.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>D. Limit the upload rate from your application clients so that the dormant bucket's peak request rate is reached more gradually.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your development team has been asked to refactor an existing monolithic application into a set of composable microservices. Which design aspects should you implement for the new application? (Choose two options)</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Develop the microservice code in the same programming language used by the microservice caller.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Create an API contract agreement between the microservice implementation and the microservice caller.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Require asynchronous communications between all microservice implementations and their microservice callers.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Ensure that sufficient instances of the microservice are running to accommodate performance requirements.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>E. Implement a versioning scheme to permit future changes that could be incompatible with the current interface.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>The task at hand is to create a policy for sharing resources between various teams' applications in a Google Kubernetes Engine cluster. The objective is to guarantee that all applications have access to the required resources for smooth operation. To achieve this goal, two specific measures must be taken.(Choose two options)</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Specify the resource limits and requests in the object specifications.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Create a namespace for each team, and attach resource quotas to each namespace.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Create a LimitRange to specify the default compute resource requirements for each namespace.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Create a Kubernetes service account (KSA) for each application, and assign each KSA to the namespace.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>E. Use the Anthos Policy Controller to enforce label annotations on all namespaces; use taints and tolerations to allow resource sharing for namespaces.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are running an application on App Engine that you inherited, and you want to find out whether the application is using insecure binaries or is vulnerable to XSS attacks. Which service should you use?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Cloud Amor</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Cloud Debugger</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Cloud Security Scanner</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Cloud Error Reporting</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are trying to connect to your Google Kubernetes Engine (GKE) cluster using kubectl from Cloud Shell.
+You have deployed your GKE cluster with a public endpoint. From Cloud Shell, you run the following command:
+```
+gcloud container clusters get-credentials <cluster-name> \
+---zone <none> --project <project-name> \
+```
+You notice that the kubectl commands time out without returning an error message.
+What is the most likely cause of this issue?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Your user account does not have privileges to interact with the cluster using kubectl.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Your Cloud Shell external IP address is not part of the authorized networks of the cluster.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. The Cloud Shell is not part of the same VPC as the GKE cluster.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. A VPC firewall is blocking access to the cluster's endpoint.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are using Cloud Build to create a new Docker image with each source code commit to a Cloud Source Repositories repository. Your application is built with every commit to the master branch, and you want to release specific commits made to the master branch using an automated method. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Manually trigger the build for new releases.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Create a build trigger based on a Git tag pattern, and use a Git tag convention for new releases.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Create a build trigger based on a Git branch name pattern, and use a Git branch naming convention for new releases.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Create a build trigger based on a Git branch name pattern, and use a Git branch naming convention for new releases.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are designing a schema for a Cloud Spanner customer database. You want to store a phone number array field in a customer table and also allow users to search for customers by phone number. How should you design this schema?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Create a table named Customers and add an Array field to the table that will hold phone numbers for the customer.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Create a table named Customers and a table named Phones. Add a CustomerId field to the Phones table to find the CustomerId from a phone number.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Create a table named Customers and add an Array field to the table that will hold phone numbers for the customer. Create a secondary index on the Array field.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>D. Create a table named Customers as a parent table. Create a table named Phones, and interleave this table into the Customers table. Create an index on the phone number field in the Phones table.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You need to deploy a new European version of a website hosted on Google Kubernetes Engine. The current and new websites must be accessed via the same HTTP(S) load balancer's external IP address, but have different domain names. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Define a new Ingress resource with a host rule matching the new domain.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Modify the existing Ingress resource with a host rule matching the new domain.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Create a new Service of type LoadBalancer, specifying the existing IP address as the loadBalancerIP.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Generate a new Ingress resource and specify the existing IP address as the kubernetes.io/ingress.global-static-ip-name annotation value.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are designing an application that will subscribe to and receive messages from a single Pub/Sub topic, and insert corresponding rows into a database. Your application runs on Linux and leverages preemptible virtual machines to reduce costs. You need to create a shutdown script that will initiate a graceful shutdown. What should you do?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Write a shutdown script that uses inter-process signals to notify the application process to disconnect from the database.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Write a shutdown script that broadcasts a message to all signed-in users that the Compute Engine instance is going down and instructs them to save current work and sign out.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Write a shutdown script that writes a file in a location that is being polled by the application once every five minutes. After the file is read, the application disconnects from the database.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Write a shutdown script that publishes a message to the Pub/Sub topic announcing that a shutdown is in progress. After the application reads the message, it disconnects from the database.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You have an application deployed in Google Kubernetes Engine (GKE) that reads and processes Pub/Sub messages. Each Pod handles a fixed number of messages per minute. The rate at which messages are published to the Pub/Sub topic varies considerably throughout the day and week, including occasional large batches of messages published at a single moment. You want to scale your GKE Deployment to be able to process messages in a timely manner. What GKE feature should you use to automatically adapt your workload?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Vertical Pod Autoscaler in Auto mode</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Vertical Pod Autoscaler in Recommendation mode</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Horizontal Pod Autoscaler based on an external metric</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Horizontal Pod Autoscaler based on resource utilization</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>The objective is to deploy a website on App Engine and make it accessible via the URL http://www.altostrat.com/. What actions do you think are necessary?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Verify domain ownership with Webmaster Central. Create a DNS CNAME record to point to the App Engine canonical name ghs.googlehosted.com.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Verify domain ownership with Webmaster Central. Define an A record to point to the single global App Engine IP address.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Define a mapping in dispatch.yaml to point the domain www.altostrat.com to your App Engine service. Create a DNS CNAME record to point to the App Engine canonical name ghs.googlehosted.com.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Define a mapping in dispatch.yaml to point the domain www.altostrat.com to your App Engine service. Define an A record to point to the single global App Engine IP address.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your application takes input from a user and publishes it to the user's contacts. This input is stored in a table in Cloud Spanner. Your application is more sensitive to latency and less sensitive to consistency. How should you perform reads from Cloud Spanner for this application?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Perform read-only transactions.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Perform stale reads using single-read methods.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Perform strong reads using single-read methods.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Perform stale reads using read-write transactions.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>The task is to incorporate an image upload feature into a social media application, allowing users to upload images ranging from 2 MB to 1 GB in size. The objective is to reduce the infrastructure operational overhead associated with this functionality.</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Change the application to accept images directly and store them in the database that stores other user information.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Change the application to create signed URLs for Cloud Storage. Transfer these signed URLs to the client application to upload images to Cloud Storage.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Set up a web server on GCP to accept user images and create a file store to keep uploaded files. Change the application to retrieve images from the file store.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Create a separate bucket for each user in Cloud Storage. Assign a separate service account to allow write access on each bucket. Transfer service account credentials to the client application based on user information. The application uses this service account to upload images to Cloud Storage.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You want to re-architect a monolithic application so that it follows a microservices model. You want to accomplish this efficiently while minimizing the impact of this change on the business. Which approach should you take?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Deploy the application to Compute Engine and turn on autoscaling.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Replace the application's features with appropriate microservices in phases.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Refactor the monolithic application with appropriate microservices in a single effort and deploy it.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Build a new application with the appropriate microservices separate from the monolith and replace the monolith when the new application is complete.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your organization has recently begun an initiative to replatform their legacy applications onto Google Kubernetes Engine. You need to decompose a monolithic application into microservices. Multiple instances have read and write access to a configuration file, which is stored on a shared file system. You want to minimize the effort required to manage this transition, and you want to avoid rewriting the application code. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Create a new Cloud Storage bucket, and mount it via FUSE in the container.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Create a new persistent disk, and mount the volume as a shared PersistentVolume.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Create a new Filestore instance, and mount the volume as an NFS PersistentVolume.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Create a new ConfigMap and volumeMount to store the contents of the configuration file.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are deploying a microservices application to Google Kubernetes Engine (GKE) that will broadcast livestreams. You expect unpredictable traffic patterns and large variations in the number of concurrent users. Your application must meet the following requirements:
+- Scales automatically during popular events and maintains high availability
+- Is resilient in the event of hardware failures
+How should you configure the deployment parameters? (Choose two options)
+</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Distribute your workload evenly using a multi-zonal node pool.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Distribute your workload evenly using multiple zonal node pools.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Use cluster autoscaler to resize the number of nodes in the node pool, and use a Horizontal Pod Autoscaler to scale the workload.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Create a managed instance group for Compute Engine with the cluster nodes. Configure autoscaling rules for the managed instance group.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>E. Create alerting policies in Cloud Monitoring based on GKE CPU and memory utilization. Ask an on-duty engineer to scale the workload by executing a script when CPU and memory usage exceed predefined thresholds.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your team is developing unit tests for Cloud Functions code. The code is stored in a Cloud Source Repositories repository. You are responsible for implementing the tests. Only a specific service account has the necessary permissions to deploy the code to Cloud Functions. You want to ensure that the code cannot be deployed without first passing the tests. How should you configure the unit testing process?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Configure Cloud Build to deploy the Cloud Functions. If the code passes the tests, a deployment approval is sent to you.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Configure Cloud Build to deploy the Cloud Functions, using the specific service account as the build agent. Run the unit tests after successful deployment.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Configure Cloud Build to run the unit tests. If the code passes the tests, the developer deploys the Cloud Functions.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>D. Configure Cloud Build to run the unit tests, using the specific service account as the build agent. If the code passes the tests, Cloud Build deploys the Cloud Functions.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are developing an application hosted on Google Cloud that uses a MySQL relational database schema. The application will have a large volume of reads and writes to the database and will require backups and ongoing capacity planning. Your team does not have time to fully manage the database but can take on small administrative tasks. How should you host the database?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Configure Cloud SQL to host the database, and import the schema into Cloud SQL.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Deploy MySQL from the Google Cloud Marketplace to the database using a client, and import the schema.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Configure Bigtable to host the database, and import the data into Bigtable.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Configure Cloud Spanner to host the database, and import the schema into Cloud Spanner.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You plan to deploy a new Go application to Cloud Run. The source code is stored in Cloud Source Repositories. You need to configure a fully managed, automated, continuous deployment pipeline that runs when a source code commit is made. You want to use the simplest deployment solution. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Configure a cron job on your workstations to periodically run gcloud run deploy --source in the working directory.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Configure a Jenkins trigger to run the container build and deploy process for each source code commit to Cloud Source Repositories.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Configure continuous deployment of new revisions from a source repository for Cloud Run using buildpacks.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>D. Use Cloud Build with a trigger configured to run the container build and deploy process for each source code commit to Cloud Source Repositories.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are reviewing and updating your Cloud Build steps to adhere to best practices. Currently, your build steps include:
+1. Pull the source code from a source repository.
+2. Build a container image
+3. Upload the built image to Artifact Registry.
+You need to add a step to perform a vulnerability scan of the built container image, and you want the results of the scan to be available to your deployment pipeline running in Google Cloud. You want to minimize changes that could disrupt other teams’ processes. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Enable Binary Authorization, and configure it to attest that no vulnerabilities exist in a container image.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Upload the built container images to your Docker Hub instance, and scan them for vulnerabilities.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Enable the Container Scanning API in Artifact Registry, and scan the built container images for vulnerabilities.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Add Artifact Registry to your Aqua Security instance, and scan the built container images for vulnerabilities.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your team is creating a serverless web application on Cloud Run. The application needs to access images stored in a private Cloud Storage bucket. You want to give the application Identity and Access Management (IAM) permission to access the images in the bucket, while also securing the services using Google-recommended best practices. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Enforce signed URLs for the desired bucket. Grant the Storage Object Viewer IAM role on the bucket to the Compute Engine default service account.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Enforce public access prevention for the desired bucket. Grant the Storage Object Viewer IAM role on the bucket to the Compute Engine default service account.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Enforce signed URLs for the desired bucket. Create and update the Cloud Run service to use a user-managed service account. Grant the Storage Object Viewer IAM role on the bucket to the service account.</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>D. Enforce public access prevention for the desired bucket. Create and update the Cloud Run service to use a user-managed service account. Grant the Storage Object Viewer IAM role on the bucket to the service account.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are using Cloud Run to host a global ecommerce web application. Your company’s design team is creating a new color scheme for the web app. You have been tasked with determining whether the new color scheme will increase sales. You want to conduct testing on live production traffic. How should you design the study?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Use an external HTTP(S) load balancer to route a predetermined percentage of traffic to two different color schemes of your application. Analyze the results to determine whether there is a statistically significant difference in sales.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Use an external HTTP(S) load balancer to route traffic to the original color scheme while the new deployment is created and tested. After testing is complete, reroute all traffic to the new color scheme. Analyze the results to determine whether there is a statistically significant difference in sales.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Use an external HTTP(S) load balancer to mirror traffic to the new version of your application. Analyze the results to determine whether there is a statistically significant difference in sales.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Enable a feature flag that displays the new color scheme to half of all users. Monitor sales to see whether they increase for this group of users.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are a developer at a large corporation. You manage three Google Kubernetes Engine clusters on Google Cloud. Your team’s developers need to switch from one cluster to another regularly without losing access to their preferred development tools. You want to configure access to these multiple clusters while following Google-recommended best practices. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Ask the developers to use Cloud Shell and run gcloud container clusters get-credential to switch to another cluster.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. In a configuration file, define the clusters, users, and contexts. Share the file with the developers and ask them to use kubectl config to add cluster, user, and context details.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Ask the developers to install the gcloud CLI on their workstation and run gcloud container clusters get-credentials to switch to another cluster.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Ask the developers to open three terminals on their workstation and use kubectl config to configure access to each cluster.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are a developer at a large organization. Your team uses Git for source code management (SCM). You want to ensure that your team follows Google-recommended best practices to manage code to drive higher rates of software delivery. Which SCM process should your team use?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Each developer commits their code to the main branch before each product release, conducts testing, and rolls back if integration issues are detected.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Each group of developers copies the repository, commits their changes to their repository, and merges their code into the main repository before each product release.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Each developer creates a branch for their own work, commits their changes to their branch, and merges their code into the main branch daily.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Each group of developers creates a feature branch from the main branch for their work, commits their changes to their branch, and merges their code into the main branch after the change advisory board approves it.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are evaluating developer tools to help drive Google Kubernetes Engine adoption and integration with your development environment, which includes VS Code and IntelliJ. What should you do?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Use Cloud Code to develop applications.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Use the Cloud Shell integrated Code Editor to edit code and configuration files.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Use a Cloud Notebook instance to ingest and process data and deploy models.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Use Cloud Shell to manage your infrastructure and applications from the command line.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are configuring a continuous integration pipeline using Cloud Build to automate the deployment of new container images to Google Kubernetes Engine (GKE). The pipeline builds the application from its source code, runs unit and integration tests in separate steps, and pushes the container to Container Registry. The application runs on a Python web server.
+The Dockerfile is as follows:
+```
+FROM python:3.7-alpine
+FROM python:3.7-alpine
+COPY . /app
+WORKDIR /app
+RUN pip install -r requirements.txt
+CMD [ "gunicorn", "-w 4", "main:app" ]
+```
+You notice that Cloud Build runs are taking longer than expected to complete. You want to decrease the build time. What should you do? (Choose two options.)
+</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Select a virtual machine (VM) size with higher CPU for Cloud Build runs.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Deploy a Container Registry on a Compute Engine VM in a VPC, and use it to store the final images.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Cache the Docker image for subsequent builds using the -- cache-from argument in your build config file.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Change the base image in the Dockerfile to ubuntu:latest, and install Python 3.7 using a package manager utility.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>E. Store application source code on Cloud Storage, and configure the pipeline to use gsutil to download the source code.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are developing an application that will handle requests from end users. You need to secure a Cloud Function called by the application to allow authorized end users to authenticate to the function via the application while restricting access to unauthorized users. You will integrate Google Sign-In as part of the solution and want to follow Google-recommended best practices. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Deploy from a source code repository and grant users the roles/cloudfunctions.viewer role.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Deploy from a source code repository and grant users the roles/cloudfunctions.invoker role</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Deploy from your local machine using gcloud and grant users the roles/cloudfunctions.admin role</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Deploy from your local machine using gcloud and grant users the roles/cloudfunctions.developer role</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your application stores customers’ content in a Cloud Storage bucket, with each object being encrypted with the customer's encryption key. The key for each object in Cloud Storage is entered into your application by the customer. You discover that your application is receiving an HTTP 4xx error when reading the object from Cloud Storage. What is a possible cause of this error?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. You attempted the read operation on the object with the customer's base64-encoded key.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. You attempted the read operation without the base64-encoded SHA256 hash of the encryption key.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. You entered the same encryption algorithm specified by the customer when attempting the read operation.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. You attempted the read operation on the object with the base64-encoded SHA256 hash of the customer's key.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are developing an application that will allow clients to download a file from your website for a specific period of time. How should you design the application to complete this task while following Google-recommended best practices?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Configure the application to send the file to the client as an email attachment.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Generate and assign a Cloud Storage-signed URL for the file. Make the URL available for the client to download.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Create a temporary Cloud Storage bucket with time expiration specified, and give download permissions to the bucket. Copy the file, and send it to the client.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Generate the HTTP cookies with time expiration specified. If the time is valid, copy the file from the Cloud Storage bucket, and make the file available for the client to download.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are a developer working on an internal application for payroll processing. You are building a component of the application that allows an employee to submit a timesheet, which then initiates several steps:
+- An email is sent to the employee and manager, notifying them that the timesheet was submitted.
+- A timesheet is sent to payroll processing for the vendor's API.
+- A timesheet is sent to the data warehouse for headcount planning.
+These steps are not dependent on each other and can be completed in any order. New steps are being considered and will be implemented by different development teams. Each development team will implement the error handling specific to their step. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Deploy a Cloud Function for each step that calls the corresponding downstream system to complete the required action.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Create a Pub/Sub topic for each step. Create a subscription for each downstream development team to subscribe to their step's topic.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Create a Pub/Sub topic for timesheet submissions. Create a subscription for each downstream development team to subscribe to the topic.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Create a timesheet microservice deployed to Google Kubernetes Engine. The microservice calls each downstream step and waits for a successful response before calling the next step.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You plan to make a simple HTML application available on the internet. This site keeps information about FAQs for your application. The application is static and contains images, HTML, CSS, and Javascript. You want to make this application available on the internet with as few steps as possible. What should you do?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Upload your application to Cloud Storage.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Upload your application to an App Engine environment.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Create a Compute Engine instance with Apache web server installed. Configure Apache web server to host the application.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Containerize your application first. Deploy this container to Google Kubernetes Engine (GKE) and assign an external IP address to the GKE pod hosting the application.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You made a typo in a low-level Linux configuration file that prevents your Compute Engine instance from booting to a normal run level. You just created the Compute Engine instance today and have done no other maintenance on it, other than tweaking files. How should you correct this error?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Download the file using scp, change the file, and then upload the modified version</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Configure and log in to the Compute Engine instance through SSH, and change the file</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Configure and log in to the Compute Engine instance through the serial port, and change the file</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Configure and log in to the Compute Engine instance using a remote desktop client, and change the file</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your team is developing services that run on Google Kubernetes Engine, and you need to standardize the log data using Google-recommended practices. What are the two steps you should take to make the data more useful in the most efficient way? (Choose two options)</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Create aggregated exports on application logs to BigQuery to facilitate log analytics.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Create aggregated exports on application logs to Cloud Storage to facilitate log analytics.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Write log output to standard output (stdout) as single-line JSON to be ingested into Cloud Logging as structured logs.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>D. Mandate the use of the Logging API in the application code to write structured logs to Cloud Logging.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>E. Mandate the use of the Pub/Sub API to write structured data to Pub/Sub and create a Dataflow streaming pipeline to normalize logs and write them to BigQuery for analytics.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You have recently instrumented a new application with OpenTelemetry, and you want to check the latency of your application requests in Trace. You want to ensure that a specific request is always traced. What should you do?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Add the X-Cloud-Trace-Context header to the request with the appropriate parameters.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Write a custom script that sends this type of request repeatedly from your dev project.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Use the Trace API to apply custom attributes to the trace.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Wait 10 minutes, then verify that Trace captures those types of requests automatically.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You want to migrate an on-premises container running in Knative to Google Cloud. You need to make sure that the migration doesn't affect your application's deployment strategy, and you want to use a fully managed service. Which Google Cloud service should you use to deploy your container?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Cloud Run</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Compute Engine</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Google Kubernetes Engine</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. App Engine flexible environment</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You need to redesign the ingestion of audit events from your authentication service to allow it to handle a large increase in traffic. Currently, the audit service and the authentication service run in the same Compute Engine virtual machine. You plan to split each service into their own pool of Compute Engine VM instances and use Pub/Sub to send events from the authentication service to the audit service. How should you set up the Pub/Sub topics and subscriptions to ensure that the system can handle a large volume of messages and can scale efficiently?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Create one Pub/Sub topic. Create one pull subscription.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Create one Pub/Sub topic. Create one pull subscription per audit service instance.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Create one Pub/Sub topic. Create one push subscription.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Create one Pub/Sub topic per authentication service instance. Create one pull subscription per topic.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are configuring logging for a Cloud Run service that is in development. Your container instance writes structured logs to standard output (stdout) and standard error (stderr) streams. You want to correlate the automatically created request logs with your container logs. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Instrument your application to submit traces to Cloud Trace.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Use Snapshot Debugger to add logpoints with randomly generated unique identifiers for each request.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>C. Add the logging.googleapis.com/trace field to your log statements with the X-Cloud-Trace-Context header value.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Add the logging.googleapis.com/labels field to your log statements with a randomly generated unique identifier for each request.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are developing a web application that will run on Google Cloud. The rate of the incoming user traffic is expected to be unpredictable, with no traffic on most days and large spikes on other days. You need the application to automatically scale up and down, and you need to minimize the cost associated with running the application. What should you do?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Build the application with Firestore as the database. Deploy the application to Cloud Run.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Build the application with Firestore as the database. Deploy the application to a Google Kubernetes Engine Standard cluster.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Build the application with Cloud SQL as the database. Deploy the application to a Google Kubernetes Engine Autopilot cluster.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Build the application with Firestore as the database. Deploy the application to a Compute Engine managed instance group with autoscaling.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>Your ecommerce application receives external requests and forwards them to third-party API services for credit card processing, shipping, and inventory management as shown in the diagram.
+- The client accesses Load Balancer.
+- The Load Balancer forwards the request to GKE.
+- After GKE, there are three different services: Credit Card Processing, Shipping, and Inventory.
+Your customers are reporting that your application is running slowly at unpredictable times. The application doesn’t report any metrics. You need to determine the cause of the inconsistent performance.
+What should you do?
+</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Install the OpenTelemetry library for your respective language, and instrument your application.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Install the Ops Agent inside your container and configure it to gather application metrics.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Modify your application to read and forward the X-Cloud-Trace-Context header when it calls the downstream services.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Enable Managed Service for Prometheus on the Google Kubernetes Engine cluster to gather application metrics.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You have a web application that publishes messages to Pub/Sub. You plan to build new versions of the application locally and want to quickly test Pub/Sub integration for each new build. How should you configure local testing?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Install Cloud Code on the integrated development environment (IDE). Navigate to Cloud APIs, and enable Pub/Sub against a valid Google Project ID. When developing locally, configure your application to call pubsub.googleapis.com.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Install the Pub/Sub emulator using gcloud, and start the emulator with a valid Google Project ID. When developing locally, configure your application to use the local emulator with ${gcloud beta emulators pubsub env-init}.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. In the Google Cloud console, navigate to the API Library, and enable the Pub/Sub API. When developing locally, configure your application to call pubsub.googleapis.com.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
-        </option>
-        <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Install the Pub/Sub emulator using gcloud, and start the emulator with a valid Google Project ID. When developing locally, configure your application to use the local emulator by exporting the PUBSUB_EMULATOR_HOST variable.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are running a containerized application on Google Kubernetes Engine. Your container images are stored in Container Registry. Your team uses CI/CD practices. You need to prevent the deployment of containers with known critical vulnerabilities. What should you do?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>- Use Web Security Scanner to automatically crawl your application
+- Review your application logs for scan results, and provide an attestation that the container is free of known critical vulnerabilities
+- Use Binary Authorization to implement a policy that forces the attestation to be provided before the container is deployed.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>- Use Web Security Scanner to automatically crawl your application
+- Review the scan results in the scan details page in the Cloud Console, and provide an attestation that the container is free of known critical vulnerabilities
+- Use Binary Authorization to implement a policy that forces the attestation to be provided before the container is deployed</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>- Enable the Container Scanning API to perform vulnerability scanning
+- Review vulnerability reporting in Container Registry in the Cloud Console, and provide an attestation that the container is free of known critical vulnerabilities
+- Use Binary Authorization to implement a policy that forces the attestation to be provided before the container is deployed</detail>
         </option>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>- Enable the Container Scanning API to perform vulnerability scanning
+- Programmatically review vulnerability reporting through the Container Scanning API, and provide an attestation that the container is free of known critical vulnerabilities
+- Use Binary Authorization to implement a policy that forces the attestation to be provided before the container is deployed</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You have been tasked with planning the migration of your company's application from on-premises to Google Cloud. Your company's monolithic application is an ecommerce website. The application will be migrated to microservices deployed on Google Cloud in stages. The majority of your company's revenue is generated through online sales, so it is important to minimize risk during the migration. You need to prioritize features and select the first functionality to migrate. What should you do?</question>
     <answer>
       <options>
         <option>
-          <valid>false</valid>
-          <detail>XXX</detail>
+          <valid>true</valid>
+          <detail>A. Migrate the Product catalog, which has integrations to the frontend and product database.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Migrate Payment processing, which has integrations to the frontend, order database, and third-party payment vendor.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Migrate Order fulfillment, which has integrations to the order database, inventory system, and third-party shipping vendor.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Migrate the Shopping cart, which has integrations to the frontend, cart database, inventory system, and payment processing system.</detail>
         </option>
       </options>
     </answer>
   </entry> 
   <entry>
-    <question>XXX</question>
+    <question>You are using Cloud Build for your CI/CD pipeline to complete several tasks, including copying certain files to Compute Engine virtual machines. Your pipeline requires a flat file that is generated in one builder in the pipeline to be accessible by subsequent builders in the same pipeline. How should you store the file so that all the builders in the pipeline can access it?</question>
     <answer>
       <options>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>A. Store and retrieve the file contents using Compute Engine instance metadata.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>B. Output the file contents to a file in /workspace, and read from the same /workspace file in the subsequent build step.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>C. Use gsutil to output the file contents to a Cloud Storage object, and read from the same object in the subsequent build step.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>D. Add a build argument that runs an HTTP POST via curl to a separate web server to persist the value in one builder, and use an HTTP GET via curl from the subsequent build step to read the value.</detail>
+        </option>
+      </options>
+    </answer>
+  </entry> 
+  <entry>
+    <question>You need to containerize a web application to be hosted on Google Cloud behind a global load balancer with SSL certificates. You don't have the time to develop authentication at the application level, and you want to offload SSL encryption and management from your application. You prefer to configure the architecture using managed services where possible. What should you do?</question>
+    <answer>
+      <options>
+        <option>
+          <valid>false</valid>
+          <detail>A. Host the application on Google Kubernetes Engine and deploy an NGINX Ingress Controller to handle authentication.</detail>
         </option>
         <option>
           <valid>false</valid>
-          <detail>XXX</detail>
+          <detail>B. Host the application on Google Kubernetes Engine and deploy cert-manager to manage SSL certificates.</detail>
+        </option>
+        <option>
+          <valid>false</valid>
+          <detail>C. Host the application on Compute Engine and configure Cloud Endpoints for your application.</detail>
+        </option>
+        <option>
+          <valid>true</valid>
+          <detail>D. Host the application on Google Kubernetes Engine and use Identity-Aware Proxy (IAP) with Cloud Load Balancing and Google-managed certificates.</detail>
         </option>
       </options>
     </answer>
