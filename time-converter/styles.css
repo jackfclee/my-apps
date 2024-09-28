@@ -1,49 +1,168 @@
-body {
-  font-family: Arial, sans-serif;
-  padding: 20px;
-  max-width: 600px;
-  margin: 0 auto;
+body, html {
+  padding:0;
+  margin:0;
+  zoom:.9;
+  font-family: "Roboto", "sans-serif";
 }
-
-.container {
-  padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+.title a:hover {
+  color: white;
 }
-
+.title {
+  background-color: rgb(63,81,181);
+  margin: 0 0 30px 0;
+  padding: 10px 0 10px 20px;
+  display: block;
+}
+.hint {
+  margin: 0 0 0 2px;
+  padding: 6px 0 10px 0;
+  font-style:italic;
+  color: #888;
+}
+*[title] {
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: black;
+}
+.input_group {
+  display: inline-block;
+  height: 46px;
+}
+.timezone_label {
+  height: 100%;
+  display: inline-block;
+  border: 2px solid #ccc;
+  margin-left: 0;
+  border-radius: 5px;
+}
+.timezones {
+  height: 100%;
+  border: none;
+  padding: 0 7px;
+  width: 160px;
+}
+@media only screen and (min-width: 555px) {
+  .timezones {
+    width: 250px;
+  }
+}
+@media only screen and (min-width: 680px) {
+  .timezones {
+    width: 350px;
+  }
+}
+.subtitle {
+  margin-top: 0;
+  margin-bottom: 10px;
+  display: inline-block;
+  color:#eee;
+}
+#subtitle2 {
+  opacity:30%;
+}
 h1 {
-  text-align: center;
-  margin-bottom: 20px;
+  font-weight: 300;
+  color: #f0f0f0;
+  margin-bottom:3px;
 }
 
-.input-group, .conversion-group {
-  margin-bottom: 20px;
+.ui-menu.ui-autocomplete {
+  max-height: 300px;
+  overflow-y: scroll;
 }
 
+.section {
+  position: relative;
+  margin: 3px 10px 4px 20px;
+}
+
+#template_section {
+  display: none;
+}
+
+
+input[type=text] {
+  width: 350px;
+  padding: 12px 0px 12px 20px;
+  margin: 0;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-image: url('https://fonts.gstatic.com/s/i/materialicons/access_time/v1/24px.svg');
+  opacity: 0.7;
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+  font-size:16px;
+  display: inline-block;
+  clear: both;
+}
+.form_section {
+  height: 46px;
+}
+
+.section .out {
+  height: 100%;
+}
+input[type=text].out {
+  background-color: #f8fff8;
+  background-image: url('https://fonts.gstatic.com/s/i/materialicons/autorenew/v1/24px.svg');
+  color: #030;
+  padding-left: 60px;
+}
+.btn.copy {
+  border: 2px solid #ccc;
+  border-radius: 5px 0 0 5px;
+  box-sizing: border-box;
+  height: 46px;
+  margin: 0;
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  width: 50px;
+}
+.btn.remove {
+  border: 2px solid #ccc;
+  border-radius: 0 5px 5px 0;
+  border-left: none;
+  box-sizing: border-box;
+  height:100%;
+  margin: 0;
+  position: absolute;
+  z-index: 1;
+  left: 50px;
+  width: 50px;
+}
+.label_group .btn {
+  border: 2px solid #ccc;
+  vertical-align: middle;
+  box-sizing: border-box;
+  padding: 0;
+  height: 117%;
+  margin-top: -3px;
+  margin-left: -3px;
+  z-index: 1;
+  position: relative;
+  width: 40px;
+}
+.label_group .btn.edit {
+  border-radius: 0 5px 5px 0;
+}
+.label_group {
+  height: 27px;
+  display: inline-block;
+  position: relative;
+}
+button {
+  cursor: pointer;
+}
+button[disabled] {
+  cursor: not-allowed;
+  background-color: #ddd;
+  opacity: .3;
+}
 label {
   display: inline-block;
+  opacity: 80%;
   margin-left: 10px;
-  width: 150px;
-}
-
-input[type="text"], select {
-  width: 200px;
-  padding: 5px;
-  margin-right: 0px;
-  font-size: 16px;
-  display: inline-block;
-}
-
-.conversion-group div {
-  display: flex;
-  align-items: center;
-  margin-bottom: 10px;
-}
-
-button#nowButton, input[type="text"]#flexibleInput {
-  padding: 10px;
-  font-size: 18px;
-  cursor: pointer;
-  margin-right: 0; /* Ensure both elements have the same margin */
 }
