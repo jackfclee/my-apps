@@ -2,78 +2,99 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Time Converter</title>
-    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
-    <link rel="stylesheet" href="style.css" />
+
+    <!-- Preconnect to Google Fonts (Improves loading performance) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Include the Roboto font from Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    />
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="container">
-      <h1>Time Converter</h1>
-
-      <div class="conversion-group">
-        <input type="text" id="flexibleInput" placeholder="Enter your time" />
-        <button id="nowButton">Now</button>
+    <div class="section">
+      <div class="input_group">
+        <button id="nowButton" class="btn copy">Now</button>
+        <input type="text" id="flexibleInput" class="out" placeholder="Enter your time" />
       </div>
-
-      <div class="conversion-group">
-        <div>
-          <input type="text" id="epochSeconds" readonly />
-          <button class="btn copy" data-target="epochSeconds">
-            <img src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg" alt="Copy to clipboard">
-          </button>
-          <label for="epochSeconds">Epoch Seconds</label>
-        </div>
-        <div>
-          <input type="text" id="epochMillis" readonly />
-          <button class="btn copy" data-target="epochMillis">
-            <img src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg" alt="Copy to clipboard">
-          </button>
-          <label for="epochMillis">Epoch Millis</label>
-        </div>
-        <div>
-          <input type="text" id="epochMicros" readonly />
-          <button class="btn copy" data-target="epochMicros">
-            <img src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg" alt="Copy to clipboard">
-          </button>
-          <label for="epochMicros">Epoch Micros</label>
-        </div>
-        <div>
-          <input type="text" id="isoPacific" readonly />
-          <button class="btn copy" data-target="isoPacific">
-            <img src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg" alt="Copy to clipboard">
-          </button>
-          <label for="isoPacific">ISO8601 Pacific</label>
-        </div>
-        <div>
-          <input type="text" id="isoLocal" readonly />
-          <button class="btn copy" data-target="isoLocal">
-            <img src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg" alt="Copy to clipboard">
-          </button>
-          <label for="isoLocal">ISO8601 Local</label>
-        </div>
-        <div>
-          <input type="text" id="isoGMT" readonly />
-          <button class="btn copy" data-target="isoGMT">
-            <img src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg" alt="Copy to clipboard">
-          </button>
-          <label for="isoGMT">ISO8601 GMT</label>
-        </div>
-        <div>
-          <input type="text" id="timezoneTime" readonly />
-          <button class="btn copy" data-target="isoPacific">
-            <img src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg" alt="Copy to clipboard">
-          </button>
-          <select id="timezoneSelect">
-            <option value="Europe/London">Europe/London</option>
-            <option value="America/Los_Angeles">America/Los_Angeles</option>
-            <option value="Etc/UTC">Etc/UTC</option>
-            <option value="Australia/Sydney">Australia/Sydney</option>
-            <!-- Add more timezones as needed -->
-          </select>
-        </div>
-        <div></div>
+    </div>
+    <div class="section">
+      <div class="input_group">
+        <input type="text" id="epochMillis" class="out" readonly />
+        <button class="btn copy" data-target="epochMillis">
+          <img
+            src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg"
+            alt="Copy to clipboard"
+          />
+        </button>
+      </div>
+      <label for="epochMillis">Epoch Millis</label>
+    </div>
+    <div class="section">
+      <div class="input_group">
+        <input type="text" id="isoPacific" class="out" readonly />
+        <button class="btn copy" data-target="isoPacific">
+          <img
+            src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg"
+            alt="Copy to clipboard"
+          />
+        </button>
+      </div>
+      <label for="isoPacific">ISO8601 Pacific</label>
+    </div>
+    <div class="section">
+      <div class="input_group">
+        <input type="text" id="isoLocal" class="out" readonly />
+        <button class="btn copy" data-target="isoLocal">
+          <img
+            src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg"
+            alt="Copy to clipboard"
+          />
+        </button>
+      </div>
+      <label for="isoLocal">ISO8601 Local</label>
+    </div>
+    <div class="section">
+      <div class="input_group">
+        <input type="text" id="isoGMT" class="out" readonly />
+        <button class="btn copy" data-target="isoGMT">
+          <img
+            src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg"
+            alt="Copy to clipboard"
+          />
+        </button>
+      </div>
+      <label for="isoGMT">ISO8601 GMT</label>
+    </div>
+    <div class="section">
+      <div class="input_group">
+        <input type="text" id="timezoneTime" class="out" readonly />
+        <button class="btn copy" data-target="isoPacific">
+          <img
+            src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg"
+            alt="Copy to clipboard"
+          />
+        </button>
+        <select class="timezones" id="timezoneSelect">
+          <option value="America/Los_Angeles">America/Los_Angeles</option>
+          <option value="Australia/Sydney">Australia/Sydney</option>
+          <option value="Etc/UTC">Etc/UTC</option>
+          <option value="Europe/London" default>Europe/London</option>
+          <!-- Add more timezones as needed -->
+        </select>
       </div>
     </div>
 

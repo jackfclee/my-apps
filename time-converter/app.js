@@ -2,9 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const { DateTime } = luxon;
 
   const flexibleInput = document.getElementById('flexibleInput');
-  const epochSecondsInput = document.getElementById('epochSeconds');
   const epochMillisInput = document.getElementById('epochMillis');
-  const epochMicrosInput = document.getElementById('epochMicros');
   const isoPacificInput = document.getElementById('isoPacific');
   const isoLocalInput = document.getElementById('isoLocal');
   const isoGMTInput = document.getElementById('isoGMT');
@@ -15,9 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
   function updateTimeDisplays(epochSeconds) {
       const dateTime = DateTime.fromSeconds(epochSeconds);
 
-      epochSecondsInput.value = epochSeconds;
       epochMillisInput.value = epochSeconds * 1000;
-      epochMicrosInput.value = epochSeconds * 1000000;
 
       isoPacificInput.value = dateTime.setZone('America/Los_Angeles').toISO();
       isoLocalInput.value = dateTime.setZone(DateTime.local().zoneName).toISO();

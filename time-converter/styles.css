@@ -36,6 +36,7 @@ body, html {
   border-radius: 5px;
 }
 .timezones {
+  font-size:16px;
   height: 100%;
   border: none;
   padding: 0 7px;
@@ -71,7 +72,7 @@ h1 {
 }
 .section {
   position: relative;
-  margin: 3px 10px 4px 20px;
+  margin: 5px 10px 5px 10px;
 }
 #template_section {
   display: none;
@@ -159,4 +160,5 @@ label {
   display: inline-block;
   opacity: 80%;
   margin-left: 10px;
+  font-size:16px;
 }
