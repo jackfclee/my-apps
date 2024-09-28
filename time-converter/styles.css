@@ -32,11 +32,6 @@ body, html {
     width: 250px;
   }
 }
-@media only screen and (min-width: 680px) {
-  .timezones {
-    width: 350px;
-  }
-}
 .section {
   position: relative;
   margin: 5px 10px 5px 10px;
@@ -66,6 +61,13 @@ input[type=text].out {
   color: #030;
   padding-left: 60px;
 }
+input[type=text].src {
+  background-color: #ffffff;
+  background-image: url('https://fonts.gstatic.com/s/i/materialicons/access_time/v1/24px.svg');
+  color: #000;
+  padding-left: 60px;
+  width: 500px;
+}
 .btn.copy {
   border: 2px solid #ccc;
   border-radius: 5px 0 0 5px;
@@ -79,13 +81,13 @@ input[type=text].out {
 }
 .btn.now {
   border: 2px solid #ccc;
-  border-radius: 5px 0 0 5px;
+  border-radius: 0px 5px 5px 0px;
   box-sizing: border-box;
   height: 46px;
   margin: 100;
   position: absolute;
   z-index: 1;
-  left: 0;
+  left: 450px;
   width: 50px;
 }
 .label_group .btn {
