@@ -4,21 +4,6 @@ body, html {
   zoom:.9;
   font-family: "Roboto", "sans-serif";
 }
-.title a:hover {
-  color: white;
-}
-.title {
-  background-color: rgb(63,81,181);
-  margin: 0 0 30px 0;
-  padding: 10px 0 10px 20px;
-  display: block;
-}
-.hint {
-  margin: 0 0 0 2px;
-  padding: 6px 0 10px 0;
-  font-style:italic;
-  color: #888;
-}
 *[title] {
   text-decoration-line: underline;
   text-decoration-style: dotted;
@@ -52,30 +37,9 @@ body, html {
     width: 350px;
   }
 }
-.subtitle {
-  margin-top: 0;
-  margin-bottom: 10px;
-  display: inline-block;
-  color:#eee;
-}
-#subtitle2 {
-  opacity:30%;
-}
-h1 {
-  font-weight: 300;
-  color: #f0f0f0;
-  margin-bottom:3px;
-}
-.ui-menu.ui-autocomplete {
-  max-height: 300px;
-  overflow-y: scroll;
-}
 .section {
   position: relative;
   margin: 5px 10px 5px 10px;
-}
-#template_section {
-  display: none;
 }
 input[type=text] {
   width: 350px;
@@ -93,15 +57,12 @@ input[type=text] {
   display: inline-block;
   clear: both;
 }
-.form_section {
-  height: 46px;
-}
 .section .out {
   height: 100%;
 }
 input[type=text].out {
   background-color: #f8fff8;
-  background-image: url('https://fonts.gstatic.com/s/i/materialicons/autorenew/v1/24px.svg');
+  background-image: url('https://fonts.gstatic.com/s/i/materialicons/access_time/v1/24px.svg');
   color: #030;
   padding-left: 60px;
 }
@@ -116,16 +77,15 @@ input[type=text].out {
   left: 0;
   width: 50px;
 }
-.btn.remove {
+.btn.now {
   border: 2px solid #ccc;
-  border-radius: 0 5px 5px 0;
-  border-left: none;
+  border-radius: 5px 0 0 5px;
   box-sizing: border-box;
-  height:100%;
-  margin: 0;
+  height: 46px;
+  margin: 100;
   position: absolute;
   z-index: 1;
-  left: 50px;
+  left: 0;
   width: 50px;
 }
 .label_group .btn {
