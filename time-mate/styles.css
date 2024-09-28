@@ -13,15 +13,8 @@ body, html {
   display: inline-block;
   height: 46px;
 }
-.timezone_label {
-  height: 100%;
-  display: inline-block;
-  border: 2px solid #ccc;
-  margin-left: 0;
-  border-radius: 5px;
-}
 .timezones {
-  font-size:16px;
+  font-size: 16px;
   height: 100%;
   border: none;
   padding: 0 7px;
@@ -48,7 +41,7 @@ input[type=text] {
   background-position: 10px 10px;
   background-repeat: no-repeat;
   padding-left: 40px;
-  font-size:16px;
+  font-size: 16px;
   display: inline-block;
   clear: both;
 }
@@ -96,26 +89,6 @@ input[type=text].src {
   left: 450px;
   width: 50px;
 }
-.label_group .btn {
-  border: 2px solid #ccc;
-  vertical-align: middle;
-  box-sizing: border-box;
-  padding: 0;
-  height: 117%;
-  margin-top: -3px;
-  margin-left: -3px;
-  z-index: 1;
-  position: relative;
-  width: 40px;
-}
-.label_group .btn.edit {
-  border-radius: 0 5px 5px 0;
-}
-.label_group {
-  height: 27px;
-  display: inline-block;
-  position: relative;
-}
 button {
   cursor: pointer;
 }
@@ -128,5 +101,5 @@ label {
   display: inline-block;
   opacity: 80%;
   margin-left: 10px;
-  font-size:16px;
+  font-size: 16px;
 }

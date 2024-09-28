@@ -92,30 +92,34 @@ document.addEventListener("DOMContentLoaded", () => {
     }, 100);
   });
 
-  setNow();
-});
+  document.querySelectorAll('.btn.copy').forEach(button => {
+    button.addEventListener('click', function() {
+      // Get the target input field id from the button's data-target attribute
+      const targetId = this.getAttribute('data-target');
+      const targetInput = document.getElementById(targetId);
 
-document.querySelectorAll('.btn.copy').forEach(button => {
-  button.addEventListener('click', function() {
-    // Get the target input field id from the button's data-target attribute
-    const targetId = this.getAttribute('data-target');
-    const targetInput = document.getElementById(targetId);
+      // Get the value from the input field
+      const textToCopy = targetInput.value;
 
-    // Get the value from the input field
-    const textToCopy = targetInput.value;
+      // Copy the text to the clipboard
+      navigator.clipboard.writeText(textToCopy).then(() => {
+        const bgColor = this.style.backgroundColor;
+        // Change button color to red
+        this.style.backgroundColor = 'grey';
 
-    // Copy the text to the clipboard
-    navigator.clipboard.writeText(textToCopy).then(() => {
-      const bgColor = this.style.backgroundColor;
-      // Change button color to red
-      this.style.backgroundColor = 'grey';
-
-      // Revert the button color and text back after 1 second
-      setTimeout(() => {
-        this.style.backgroundColor = bgColor;  // Reset to original color
-      }, 100);
-    }).catch(err => {
-      alert('Failed to copy: ' + err);
+        // Revert the button color and text back after 1 second
+        setTimeout(() => {
+          this.style.backgroundColor = bgColor;  // Reset to original color
+        }, 100);
+      }).catch(err => {
+        alert('Failed to copy: ' + err);
+      });
     });
   });
+
+  document.getElementById('timezoneSelect').addEventListener('change', function() {
+    updateTimeDisplays(flexibleInput.value);
+  });
+
+  setNow();
 });
