@@ -61,6 +61,12 @@ input[type=text].out {
   color: #030;
   padding-left: 60px;
 }
+input[type=text].out.local {
+  background-color: #f8f8ff;
+  background-image: url('https://fonts.gstatic.com/s/i/materialicons/access_time/v1/24px.svg');
+  color: #300;
+  padding-left: 60px;
+}
 input[type=text].src {
   background-color: #ffffff;
   background-image: url('https://fonts.gstatic.com/s/i/materialicons/access_time/v1/24px.svg');

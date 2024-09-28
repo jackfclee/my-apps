@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
     <meta charset="UTF-8" />
-    <title>Time Converter</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
+    <link rel="manifest" href="assets/site.webmanifest">    
+    <title>TimeMate V1 (The Handy Time Converter)</title>
 
     <!-- Preconnect to Google Fonts (Improves loading performance) -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -33,15 +41,15 @@
     </div>
     <div class="section">
       <div class="input_group">
-        <input type="text" id="epochMillis" class="out" readonly />
-        <button class="btn copy" data-target="epochMillis">
+        <input type="text" id="isoLocal" class="out local" readonly />
+        <button class="btn copy" data-target="isoLocal">
           <img
             src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg"
             alt="Copy to clipboard"
           />
         </button>
       </div>
-      <label for="epochMillis">Epoch Millis</label>
+      <label for="isoLocal">ISO8601 Local</label>
     </div>
     <div class="section">
       <div class="input_group">
@@ -54,18 +62,6 @@
         </button>
       </div>
       <label for="isoPacific">ISO8601 Pacific</label>
-    </div>
-    <div class="section">
-      <div class="input_group">
-        <input type="text" id="isoLocal" class="out" readonly />
-        <button class="btn copy" data-target="isoLocal">
-          <img
-            src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg"
-            alt="Copy to clipboard"
-          />
-        </button>
-      </div>
-      <label for="isoLocal">ISO8601 Local</label>
     </div>
     <div class="section">
       <div class="input_group">
@@ -90,14 +86,29 @@
         </button>
         <select class="timezones" id="timezoneSelect">
           <option value="America/Los_Angeles">America/Los_Angeles</option>
+          <option value="America/New_York">America/New_York</option>
+          <option value="America/Toronto">America/Toronto</option>
+          <option value="Asia/Hong_Kong">Asia/Hong_Kong</option>
+          <option value="Asia/Tokyo" selected>Asia/Tokyo</option>
           <option value="Australia/Sydney">Australia/Sydney</option>
           <option value="Etc/UTC">Etc/UTC</option>
-          <option value="Europe/London" selected>Europe/London</option>
+          <option value="Europe/London">Europe/London</option>
           <!-- Add more timezones as needed -->
         </select>
       </div>
     </div>
-
+    <div class="section">
+      <div class="input_group">
+        <input type="text" id="epochMillis" class="out" readonly />
+        <button class="btn copy" data-target="epochMillis">
+          <img
+            src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v15/24px.svg"
+            alt="Copy to clipboard"
+          />
+        </button>
+      </div>
+      <label for="epochMillis">Epoch Millis</label>
+    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/luxon/3.0.4/luxon.min.js"></script>
     <script src="app.js"></script>
   </body>
