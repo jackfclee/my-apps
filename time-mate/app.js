@@ -22,7 +22,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const acceptedFormats = [
     "yyyy-MM-dd'T'HH:mm:ss.SSSZZ",   // 2024-09-28T20:08:49.000+10:00
-    "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'",  // 2024-09-28T10:40:20.000Z
     "MMM d yyyy, h:mm a 'GMT'ZZ",    // Aug 31 2024, 20:20 PM GMT+10
     "MMM d yyyy, h:mm 'GMT'ZZ",      // Aug 31 2024, 20:21 GMT+10
     "MMM d yyyy, h:mm ZZ",           // Aug 31 2024, 20:22 +10
@@ -42,22 +41,30 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Try to parse input against multiple date formats
   function parseFlexibleInput(inputValue) {
+    // Handle ISO8601 strings automatically using fromISO
+    if (inputValue.endsWith('Z')) {
+      const dateTime = DateTime.fromISO(inputValue);
+      if (dateTime.isValid) {
+        return dateTime;
+      }
+    }
+    // Check if input is numeric (epoch)
     if (isNumeric(inputValue)) {
       return DateTime.fromSeconds(parseInt(inputValue));
-    } else {
-      let dateTime = null;
-
-      // Try other accepted formats
-      for (let format of acceptedFormats) {
-        dateTime = DateTime.fromFormat(inputValue, format);
-        if (dateTime.isValid) {
-          return dateTime;
-        }
-      }
-
-      // If none of the formats match, return null (invalid input)
-      return NaN;
     }
+    // Try other accepted formats
+    let dateTime = null;
+
+    // Try other accepted formats
+    for (let format of acceptedFormats) {
+      dateTime = DateTime.fromFormat(inputValue, format);
+      if (dateTime.isValid) {
+        return dateTime;
+      }
+    }
+
+    // If none of the formats match, return null (invalid input)
+    return NaN;
   }
 
   function updateTimeDisplays(inputValue) {
