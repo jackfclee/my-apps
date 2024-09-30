@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const acceptedFormats = [
     "yyyy-MM-dd'T'HH:mm:ss.SSSZZ",   // 2024-09-28T20:08:49.000+10:00
+    "yyyy-MM-dd HH:mm:ss.SSSZZ",     // 2024-09-28 20:08:49.000+10:00
     "MMM d yyyy, h:mm a 'GMT'ZZ",    // Aug 31 2024, 20:20 PM GMT+10
     "MMM d yyyy, h:mm 'GMT'ZZ",      // Aug 31 2024, 20:21 GMT+10
     "MMM d yyyy, h:mm ZZ",           // Aug 31 2024, 20:22 +10
