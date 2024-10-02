@@ -13,12 +13,16 @@ body, html {
   display: inline-block;
   height: 46px;
 }
-.timezones {
+select.timezones {
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-block;
   font-size: 16px;
   height: 100%;
-  border: none;
   padding: 0 7px;
-  width: 160px;
+  width: 200px;
+  background-color: lightgoldenrodyellow;
 }
 @media only screen and (min-width: 555px) {
   .timezones {
@@ -28,6 +32,10 @@ body, html {
 .section {
   position: relative;
   margin: 5px 10px 5px 10px;
+}
+img.content_copy {
+  vertical-align: middle;
+  zoom:.9;
 }
 input[type=text] {
   width: 350px;
@@ -44,6 +52,7 @@ input[type=text] {
   font-size: 16px;
   display: inline-block;
   clear: both;
+  height: 46px;
 }
 .section .out {
   height: 100%;
@@ -53,19 +62,21 @@ input[type=text].out {
   background-image: url('https://fonts.gstatic.com/s/i/materialicons/access_time/v1/24px.svg');
   color: #030;
   padding-left: 60px;
+  height: 46px;
 }
 input[type=text].out.local {
   background-color: #f8f8ff;
   background-image: url('https://fonts.gstatic.com/s/i/materialicons/access_time/v1/24px.svg');
   color: #300;
   padding-left: 60px;
+  height: 46px;
 }
 input[type=text].src {
   background-color: #ffffff;
   background-image: url('https://fonts.gstatic.com/s/i/materialicons/access_time/v1/24px.svg');
   color: #000;
   padding-left: 60px;
-  width: 500px;
+  width: 555px;
 }
 .btn.copy {
   border: 2px solid #ccc;
@@ -77,6 +88,7 @@ input[type=text].src {
   z-index: 1;
   left: 0;
   width: 50px;
+  background-color: lightgoldenrodyellow;
 }
 .btn.now {
   border: 2px solid #ccc;
@@ -86,8 +98,9 @@ input[type=text].src {
   margin: 100;
   position: absolute;
   z-index: 1;
-  left: 450px;
+  left: 505px;
   width: 50px;
+  background-color: lightgoldenrodyellow;
 }
 button {
   cursor: pointer;
