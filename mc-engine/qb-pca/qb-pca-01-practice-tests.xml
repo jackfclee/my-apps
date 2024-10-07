@@ -477,7 +477,7 @@ You want to minimize administrative duties as much as possible. Which option sho
           <detail>Use Cloud Audit Logs to monitor access to Cloud Storage.</detail>
         </option>
         <option>
-          <valid>false</valid>
+          <valid>true</valid>
           <detail>Encrypt data using customer-managed encryption keys (CMEK) and enforce fine-grained access control with Identity and Access Management (IAM).</detail>
         </option>
         <option>
@@ -550,7 +550,7 @@ You want to minimize administrative duties as much as possible. Which option sho
           <detail>The migration team decided not to make unnecessary changes before moving this application to the cloud. This migration strategy is called Lift and Shift.</detail>
         </option>
         <option>
-          <valid>false</valid>
+          <valid>true</valid>
           <detail>The migration team decided to use containers and the Kubernetes Engine. This migration strategy is called Remove and Replace.</detail>
         </option>
       </options>
@@ -1452,7 +1452,7 @@ To account for potential future use cases of the data collected by TerramEarth, 
           <detail>Cloud Dataproc</detail>
         </option>
         <option>
-          <valid>false</valid>
+          <valid>true</valid>
           <detail>BigQuery</detail>
         </option>
         <option>
