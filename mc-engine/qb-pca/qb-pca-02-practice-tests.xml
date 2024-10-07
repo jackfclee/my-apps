@@ -1378,7 +1378,7 @@ As a cloud architect, your task is to deploy Virtual Private Cloud (VPC) Service
           <detail>In Suspended state, you pay for the vCPU, memory, and disk utilization.</detail>
         </option>
         <option>
-          <valid>false</valid>
+          <valid>true</valid>
           <detail>In Deleted state, you only pay for disk utilization.</detail>
         </option>
         <option>
@@ -1594,7 +1594,7 @@ Which Google Cloud service should you recommend to meet these requirements?</que
           <detail>Google Kubernetes Engine</detail>
         </option>
         <option>
-          <valid>false</valid>
+          <valid>true</valid>
           <detail>App Engine</detail>
         </option>
         <option>
