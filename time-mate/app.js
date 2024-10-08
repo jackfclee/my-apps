@@ -62,7 +62,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
     // Try other accepted formats
     let dateTime = null;
-
+    if (inputValue.endsWith(' PDT')) {
+      inputValue = inputValue.replace(/ PDT$/, ' PST');
+    }
     // Try other accepted formats
     for (let format of acceptedFormats) {
       dateTime = DateTime.fromFormat(inputValue, format);
