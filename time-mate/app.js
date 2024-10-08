@@ -47,6 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Try to parse input against multiple date formats
   function parseFlexibleInput(inputValue) {
+    inputValue = inputValue.trimEnd();
     // Handle ISO8601 strings automatically using fromISO
     // "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'"
     // 2024-09-28T20:08:49.000Z
