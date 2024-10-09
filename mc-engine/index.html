@@ -18,9 +18,20 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
 </head>
 <body>
-<div class="container">
+<div id="passwordDialog" class="container">
+  <div id="appHeader" class="jumbotron question-content">
+    <label for="passwordInput">Please enter password to load MC Engine:</label>
+  </div>
+  <input type="password" id="passwordInput" />
+  <div class="control-bar">
+    <button id="submitPassword" class="btn btn-success">Submit</button>
+    <div id="errorMessage" style="color: red; display: none;">Incorrect password, please try again.</div>  
+  </div>
+</div>
+<div id="mcEngineContainer" class="container">
   <div id="appHeader" class="app-header">
     <div id="topic" class="app-header-left"><select id="topicOptions"></select></div>
     <div id="totalQuestions" class="app-header-right"></div>

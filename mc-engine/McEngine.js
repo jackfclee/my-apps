@@ -1,10 +1,10 @@
 const qbList = [
-  "qb-pca/qb-pca-01-practice-tests.xml",
-  "qb-pca/qb-pca-02-practice-tests.xml",
-  "qb-pca/qb-pca-03-practice-tests.xml",
-  "qb-pca/qb-pca-04-practice-tests.xml",
-  "qb-pca/qb-pca-05-practice-tests.xml",
-  "qb-pca/qb-pca-06-practice-tests.xml"
+  "qb-pca/qb-pca-01-practice-tests.xml.encrypted",
+  "qb-pca/qb-pca-02-practice-tests.xml.encrypted",
+  "qb-pca/qb-pca-03-practice-tests.xml.encrypted",
+  "qb-pca/qb-pca-04-practice-tests.xml.encrypted",
+  "qb-pca/qb-pca-05-practice-tests.xml.encrypted",
+  "qb-pca/qb-pca-06-practice-tests.xml.encrypted"
 ];
 
 function setQuestions(currentQuestions) {
@@ -166,30 +166,84 @@ function sortDropdownOptions() {
 //--------------------------------------------------------------------------------
 const topicQuestionsMap = new Map();
 
+let decryptionKey = "";
+
 $(document).ready(function () {
+  $("#mcEngineContainer").hide();
+  $("#submitPassword").click(function () {
+    decryptionKey = $("#passwordInput").val();
+    if (decryptionKey) {
+      try {
+        loadFiles();
+        $("#passwordDialog").hide();
+        $("#mcEngineContainer").show();
+      } catch (error) {
+        $("#passwordDialog").show();
+        $("#mcEngineContainer").hide();
+        $("#errorMessage").show();
+      }
+    }
+  });
+});
+
+function loadFiles() {
   let loadedCount = 0; // Track the number of XML files loaded
+  let hasErrorOccurred = false; // Flag to prevent further processing after an error
+
   qbList.forEach(path => {
-    loadXmlDoc(path, 
-      function(responseText) {
-        const { currentTopic, questions } = parseXML(responseText);
+    loadXmlDoc(path, function(responseText) {
+      // If an error has already occurred, skip processing further files
+      if (hasErrorOccurred) return;
+
+      try {
+        let decryptedText;
+        if (path.endsWith(".encrypted")) {
+          const bytes = CryptoJS.AES.decrypt(responseText, decryptionKey);
+          decryptedText = bytes.toString(CryptoJS.enc.Utf8);
+
+          // Validate decrypted text
+          if (!decryptedText) {
+            throw new Error("Decryption failed: Decrypted text is empty.");
+          }
+        } else {
+          decryptedText = responseText;
+        }
+
+        const { currentTopic, questions } = parseXML(decryptedText);
+
+        // Validate parsed XML structure
+        if (!currentTopic || !questions || questions.length === 0) {
+          throw new Error("Invalid XML structure: Missing topic or questions.");
+        }
+
         topicQuestionsMap.set(currentTopic, questions);
         addOptionToDropdown(currentTopic, currentTopic);
 
-        // Increment loadedCount
         loadedCount++;
-        
-        // Check the size of topicQuestionsMap when all XML files have been processed
+
+        // After all files are loaded successfully
         if (loadedCount === qbList.length && qbList.length > 0) {
           sortDropdownOptions();
           const firstOptionValue = document.getElementById("topicOptions").options[0].value;
           setQuestions(topicQuestionsMap.get(firstOptionValue));
           document.getElementById("topicOptions").selectedIndex = 0;
+
           $("#topicOptions").change(function() {
             setQuestions(topicQuestionsMap.get($(this).val()));
           });
-
         }
+
+      } catch (error) {
+        console.error(`Error processing file "${path}":`, error);
+
+        // Set the error flag to prevent further processing
+        hasErrorOccurred = true;
+
+        // Display error UI elements
+        $("#passwordDialog").show();
+        $("#mcEngineContainer").hide();
+        $("#errorMessage").text('Incorrect password, please try again. [cause: ' + error.message + ']').show();
       }
-    );
+    });
   });
-});
+}

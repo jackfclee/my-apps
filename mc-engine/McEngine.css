@@ -21,6 +21,17 @@ html, body {
   gap: 10px;
 }
 
+/* Optional: Adjust input width */
+#passwordInput {
+  background-color: #ffffff; 
+  padding: 2rem 1rem;
+  border-radius: 0.3rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
 /* Question Content Styles */
 .jumbotron.question-content {
   background-color: #f3f3f3;
