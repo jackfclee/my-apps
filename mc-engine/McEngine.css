@@ -37,7 +37,7 @@ html, body {
   background-color: #f3f3f3;
   color: black;
   font-size: 20px; /* Suggestion for bigger font size, adjust as needed */
-  padding: 20px;
+  padding: 10px;
   margin-bottom: 0px;
   display: flex;
   gap: 10px;
@@ -48,7 +48,7 @@ html, body {
   background-color: white;
   color: black;
   font-size: 20px; /* Suggestion for bigger font size, adjust as needed */
-  padding: 20px;
+  padding: 5px 10px 5px 10px;
   margin-right: 5px;
 }
 
@@ -85,9 +85,9 @@ html, body {
 /* Control Bar Styles */
 .control-bar {
   text-align: right;
-  padding: 10px 0;
+  padding: 5px 0;
   background-color: white;
-  padding-bottom: 50px; /* Adjust based on the height of .control-bar */
+  padding-bottom: 10px; /* Adjust based on the height of .control-bar */
 }
 
 .btn {
