@@ -2515,6 +2515,7 @@
   },
   {
     "topic": "frontend",
+    "displayName": "Front End",
     "references": [
       {
         "file": "Frontend Performance Cheatsheet.gif",
@@ -2529,6 +2530,7 @@
   },
   {
     "topic": "hardware",
+    "displayName": "Hardware",
     "references": [
       {
         "file": "Key chip suppliers for Apple iPhone 15.jpg",
@@ -3254,6 +3256,7 @@
   },
   {
     "topic": "soft-skills",
+    "displayName": "Soft Skills",
     "references": [
       {
         "file": "10 Dangerous Personalities to Avoid.jpg",
@@ -3574,6 +3577,7 @@
   },
   {
     "topic": "testing",
+    "displayName": "Testing",
     "references": [
       {
         "file": "9 Types API Testing.gif",
