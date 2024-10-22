@@ -102,24 +102,16 @@ function setQuestions(currentQuestions) {
 }
 
 //--------------------------------------------------------------------------------
-function loadXmlDoc(filename, callback) {
-  let xhttp;
-  if (window.ActiveXObject) {
-    xhttp = new ActiveXObject("Msxml2.XMLHTTP");
-  } else {
-    xhttp = new XMLHttpRequest();
-  }
-  xhttp.onreadystatechange = function () {
-    if (this.readyState === 4 && this.status === 200) {
-      // Call the callback function and pass the response text
-      callback(this.responseText);
-    }
-  };
-  xhttp.open("GET", filename, true); // Set true for asynchronous
-  try {
-    xhttp.responseType = "msxml-document";
-  } catch (err) {} // Helping IE11, but we're actually using responseText
-  xhttp.send();
+function loadTextFile(filename, callback) {
+  fetch(filename)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.text();
+    })
+    .then(data => callback(data))
+    .catch(error => console.error('Error fetching the file:', error));
 }
 
 //--------------------------------------------------------------------------------
@@ -191,7 +183,7 @@ function loadFiles() {
   let hasErrorOccurred = false; // Flag to prevent further processing after an error
 
   qbList.forEach(path => {
-    loadXmlDoc(path, function(responseText) {
+    loadTextFile(path, function(responseText) {
       // If an error has already occurred, skip processing further files
       if (hasErrorOccurred) return;
 
