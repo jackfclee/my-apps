@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="mainApp" ng-controller="mainController">
+  	<head>
+   		<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    	<meta name="author" content="Chi">
+    	<title>{| books[current.book].shorthand |} {| current.chapter + 1 |}:{| current.verse + 1 |} - MGBC Bible</title>
+		<link type="text/css" rel="stylesheet" href="./static/css/bootstrap.min.css">
+		<link type="text/css" rel="stylesheet" href="./static/css/bootstrap-theme.min.css">
+		<link type="text/css" rel="stylesheet" href="./static/css/main.css">
+        <link type="image/x-icon" rel="shortcut icon" href="./static/image/favicon.ico">
+	</head>
+	<body>
+        <div id="content">
+            <table>
+                <tbody>
+                    <tr ng-repeat="line in bible[current.version][current.book][current.chapter] track by $index">
+                        <td><span ng-bind="current.chapter + 1"></span>:<span ng-bind="$index + 1"></span></td>
+                        <td ng-bind="line"></td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="navbar navbar-default navbar-fixed-bottom">
+                <form class="navbar-form navbar-left">
+                    <div class="form-group">
+                        <select class="form-control input-sm" ng-options="book.name group by book.category for book in books" ng-model="go.book">
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <input type="number" id="chapter" class="go form-control input-sm" min="1" max="{| bible[current.version][go.book.id].length |}" step="1" ng-model="go.chapter">
+                        <label>章</label>
+                    </div>
+                    <div class="form-group">
+                        <input type="number" id="verse" class="go form-control input-sm" min="1" max="{| bible[current.version][go.book.id][go.chapter - 1].length |}" step="1" ng-model="go.verse">
+                        <label>節</label>
+                    </div>
+                    <button type="submit" class="btn btn-sm btn-default" ng-click="onGoButtonClicked($event)">去</button>
+                    <input type="button" class="btn btn-primary" onclick="location.href='https://faichun.github.io/myapps/';" value="主頁" />
+                  </form>
+                <form class="navbar-form navbar-left">
+                    <button class="btn btn-default btn-sm" ng-class="{ active: current.version == version.shorthand }" ng-repeat="version in versions" ng-bind="version.name" ng-click="onVersionButtonClicked($event, $index)"></button>
+                </form>
+                <div id="current" class="navbar-text navbar-right">
+                    <span ng-bind="books[current.book].name"></span>
+                    <span ng-bind="current.chapter + 1"></span>:<span ng-bind="current.verse + 1"></span>
+                </div>
+                <form class="navbar-form navbar-right">
+                    <div class="form-group">
+                        <input type="text" id="commandInput" class="form-control input-sm" ng-model="command">
+                        <label><a class="glyphicon glyphicon-question-sign" data-toggle="modal" data-target="#helpModal"></a></label>
+                    </div>
+                </form>
+            </div>
+            <div id="helpModal" class="modal fade">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button class="close" data-dismiss="modal">&times;</span></button>
+                            <h4 class="modal-title">說明</h4>
+                        </div>
+                        <div class="modal-body">
+                            <h4>基本</h4>
+                            <p>按&#8593;及&#8595;移至上或下一節</p>
+                            <p>按&#8592;及&#8594;移至上或下一章</p>
+                            <p>在左下角選取書卷及章節後按「去」跳到相應經文</p>
+                            <p>右下角顯示所在的書卷及章節</p>
+                            <hr>
+                            <h4>進階</h4>
+                            <p>所在位置顯示的左邊有指令輸入文字欄，按Enter進入指令模式，按Esc離開指令模式</p>
+                            <p>分別有三種指令</p>
+                            <p>若果只輸入一個數字，例如"3"，會跳至該數字所表達的節數</p>
+                            <p>若果輸入一個數字及一個括號，或者最後再加上一個數字，例如"4:"、"4:8"，會跳至第一個數字所表達的章數，及第二個數字所表達的節數，若沒有輸入第二個數字，則會跳到該章的第1節</p>
+                            <p>若果輸入一個聖經書卷簡寫，或者加上上述指令，例如"可"、"提前4"、"啟3:7"，會跳至該簡寫所表達的書卷，及所輸入的章節，若沒有輸入章節，則會跳到該書卷的第1章1節</p>
+                            <p>如格式錯誤、章節超出範圍、錯誤書卷簡寫，文字欄的邊框會變紅，請修改後再次輸入</p>
+                            <hr>
+                            <h4>版本1.1</h4>
+                            <p>修正不能由左下角選項欄達到某章節的情況</p>
+                            <p>加入和修本及新譯本</p>
+                            <p>網頁標題包含書卷章節，放便在多個頁面間轉換</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="./static/js/jquery.min.js"></script>
+        <script type="text/javascript" src="./static/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="./static/js/angular.min.js"></script>
+        <script type="text/javascript">
+            var bible = {};
+        </script>
+        <script type="text/javascript" src="./static/data/cuv.json"></script>
+        <script type="text/javascript" src="./static/data/rcuv.json"></script>
+        <script type="text/javascript" src="./static/data/cnv.json"></script>
+        <script type="text/javascript" src="./static/js/main.js"></script>
+    </body>
+</html>

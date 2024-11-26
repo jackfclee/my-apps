@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <script type="text/javascript" src="qr-code-styling.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="qrcode-style.css">
+  <title>QR Generator</title>
+</head>
+
+<body>
+  <section id="content">
+    <div>
+      <input type="button" class="btn btn-primary" onclick="location.href='https://faichun.github.io/myapps/';" value="主頁" />
+      <form id="qrForm" onsubmit="return false;">
+        <div class="inputContainer">
+          <label for="dataInput">Data</label>
+          <input type="text" size="50" onkeyup="updateQrData();" onpaste="updateQrData();" 
+            name="dataInput" id="dataInput" placeholder="https://example.com" required />
+        </div>
+        <div class="inputContainer">
+          <label for="colorInput">Color</label>
+          <input type="color" onchange="updateQrColor();" name="colorInput" id="colorInput" />
+        </div>
+        <div class="inputContainer">
+          <label for="typeInput">Type</label>
+          <select name="typeInput" id="typeInput" onchange="updateQrType();">
+            <option value="square">Square</option>
+            <option value="rounded">Rounded</option>
+            <option value="dots">Dots</option>
+          </select>
+        </div>
+      </form>
+      <button id="formButton" onclick="download();">Download</button>
+    </div>
+  </section>
+  <br/>
+  <br/>
+  <section id="output">
+    <div id="canvas"></div>
+  </section>
+  <script type="text/javascript" src="qrcode-gen-params.js"></script>
+</body>
+</html>

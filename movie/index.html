@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Movie Collection</title>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!-- Popper JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script language="javascript">
+var sortKey = "insertDTTM";
+var sortType = "text";
+var sortOrder = "descending";
+var filterKey = "*";
+var filterTitle = "";
+
+function loadCSV(url) {
+    return fetch(url)
+        .then(response => response.text())
+        .then(csvData => {
+            // Parse CSV data
+            const rows = csvData.split('\n');
+            const headers = rows[0].split(',');
+            const csvArray = [];
+            for (let i = 1; i < rows.length; i++) {
+                const row = rows[i].split(',');
+                const obj = {};
+                for (let j = 0; j < headers.length; j++) {
+                    obj[headers[j]] = row[j];
+                }
+                csvArray.push(obj);
+            }
+            return csvArray;
+        });
+}
+
+function convertToXML(data) {
+    // Convert CSV data to XML format
+    let xml = '<?xml version="1.0" encoding="UTF-8"?>';
+    xml += '<entries>';
+    for (let i = 0; i < data.length; i++) {
+        xml += '<entry>';
+        Object.keys(data[i]).forEach(key => {
+            xml += `<${key}>${data[i][key]}</${key}>`;
+        });
+        xml += '</entry>';
+    }
+    xml += '</entries>';
+    return xml;
+}
+
+function loadXMLDoc(filename) {
+    if (window.ActiveXObject) {
+        xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+    } else {
+        xhttp = new XMLHttpRequest();
+    }
+    xhttp.open("GET", filename, false);
+    try {
+        xhttp.responseType = "msxml-document"
+    } catch (err) {
+    } // Helping IE11
+    xhttp.send("");
+    return xhttp.responseXML;
+}
+
+function displayResult() {
+    const url = 'MyMovie.csv';
+    loadCSV(url)
+        .then(csvData => {
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(convertToXML(csvData), 'application/xml');
+            var xslDoc = loadXMLDoc("MyMovie.xsl");
+            if (window.ActiveXObject || xhttp.responseType == "msxml-document") {
+                // code for IE
+                ex = xmlDoc.transformNode(xslDoc);
+                document.getElementById("resultBody").innerHTML = ex;
+            } else if (document.implementation
+                    && document.implementation.createDocument) {
+                // code for Chrome, Firefox, Opera, etc.
+                xsltProcessor = new XSLTProcessor();
+                xsltProcessor.importStylesheet(xslDoc);
+                xsltProcessor.setParameter(null, "sortKey", sortKey);
+                xsltProcessor.setParameter(null, "sortOrder", sortOrder);
+                xsltProcessor.setParameter(null, "sortType", sortType);
+                xsltProcessor.setParameter(null, "filterKey", filterKey);
+                xsltProcessor.setParameter(null, "filterTitle", filterTitle);
+                resultDocument = xsltProcessor
+                        .transformToFragment(xmlDoc, document);
+                document.getElementById("resultBody").innerHTML = new XMLSerializer().serializeToString(resultDocument);
+            }
+        })
+        .catch(error => {
+            console.error('Error loading CSV:', error);
+        });
+}
+
+function resort(which) {
+    if (sortKey == which) {
+        sortOrder = (sortOrder == "ascending") ? "descending" : "ascending";
+    } else {
+        sortKey = which;
+        sortOrder = "ascending";
+    }
+    sortType = (sortKey == "price" || sortKey == "year") ? "number" : "text";
+    filterTitle = document.getElementById("titleFilterInput").value;
+    displayResult();
+    document.getElementById("titleFilterInput").value = filterTitle;
+}
+
+function getTitle() {
+    filterTitle = document.getElementById("titleFilterInput").value;
+    if (filterTitle == '') {
+        filterTitle = '*';
+    }
+    displayResult();
+    if (filterTitle != '*') {
+        document.getElementById("titleFilterInput").value = filterTitle;
+    }
+}
+
+function filter(which) {
+    filterTitle = document.getElementById("titleFilterInput").value;
+    filterKey = which;
+    displayResult();
+    document.getElementById("titleFilterInput").value = filterTitle;
+}
+</script>
+<style>
+html {
+  font-size: 10px;
+}
+#resultTable {
+  margin: 0px 0 0px 0;
+}
+table.table-striped td {
+  padding: 3px 8px 3px 8px;
+}
+.btn {
+  border: 2px solid #2A3B4C;
+  background-color: white;
+  color: black;
+  padding: 6px 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.bg-primary {
+  background-color: rgb(33, 133, 33) !important;
+}
+</style>
+</head>
+<body onload="displayResult()">
+  <div class="jumbotron bg-primary text-light">
+    <h1><b>My Movie Collection (version 3.1)</b></h1>
+  </div>
+  <div class="row">
+    <div class="col-sm-12 bg-light text-dark">
+      <table id="resultTable" class="table">
+        <thead>
+          <tr>
+            <th colspan="6" bgcolor="#2A3B4C">
+              <input type="button" class="btn btn-success" onclick="javascript: filter('*')" value="全部"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('科幻')" value="科幻"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('喜劇')" value="喜劇"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('動畫')" value="動畫"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('動作')" value="動作"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('冒險')" value="冒險"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('魔幻')" value="魔幻"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('紀錄')" value="紀錄"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('警匪')" value="警匪"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('戰爭')" value="戰爭"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('愛情')" value="愛情"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('劇情')" value="劇情"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('傳記')" value="傳記"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('懸疑')" value="懸疑"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('災難')" value="災難"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('恐怖')" value="恐怖"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('情色')" value="情色"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('指南')" value="指南"/>
+              <input type="button" class="btn btn-secondary" onclick="javascript: filter('電視')" value="電視"/>
+              <input type="button" class="btn btn-primary" onclick="location.href='https://faichun.github.io/myapps/';" value="主頁" />
+            </th>
+          </tr>
+          <tr>
+            <th colspan="6">
+              <input id="titleFilterInput" type="text" class="form-control mr-sm-2" onkeyup="javascript: getTitle();" placeholder="Search for titles.."/>
+            </th>
+          </tr>
+        </table>
+        <tbody>
+          <tr>
+            <td>
+              <div id="resultBody"></div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

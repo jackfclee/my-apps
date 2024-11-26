@@ -1,0 +1,27 @@
+body
+{
+    padding-bottom: 100%;
+}
+#content table
+{
+    font-size: 56px;
+}
+#content tr > td:first-child
+{
+    padding-right: 12px;
+}
+#content td
+{
+    vertical-align: top;
+}
+#current
+{
+    padding-left: 0;
+    padding-right: 20px;
+    margin-left: 0;
+    margin-right: 0;
+}
+.go
+{
+    width: 64px !important;
+}

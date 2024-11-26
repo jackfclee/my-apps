@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Capitalise All Words</title>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  </head>
+  <body>
+    <nav>
+      <div class="nav-wrapper blue">
+        <a href="#" class="brand-logo center">Capitalise All Words</a>
+      </div>
+    </nav>
+    <nav>
+      <div class="nav-wrapper white" style="display:flex; justify-content:center; align-items:center;">
+        <input type="button" class="btn btn-primary" onclick="location.href='https://faichun.github.io/myapps/';" value="主頁" />
+      </div>
+    </nav>
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m6">
+          <div class="card">
+            <div class="card-content">
+              <span class="card-title">Enter a passage:</span>
+              <textarea id="input" name="input" class="materialize-textarea" style="height: 200px;" oninput="capitaliseWords()"></textarea>
+            </div>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="card">
+            <div class="card-content">
+              <span class="card-title">Capitalised Passage:</span>
+              <div class="input-field">
+                <textarea id="output" name="output" class="materialize-textarea" style="height: 200px;" readonly></textarea>
+                <button class="btn waves-effect waves-light" onclick="copyOutput()">Copy</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script>
+      function capitaliseWords() {
+        const input = document.getElementById("input").value;
+        let output = "";
+
+        let capitalizeNextChar = false;
+        output += input.charAt(0).toUpperCase();
+        for (let i = 1; i < input.length; i++) {
+          const char = input.charAt(i);
+          prevChar = input.charAt(i - 1);
+
+          if (isDigitOrLetter(prevChar)) {
+            capitalizeNextChar = false;
+          } else {
+            capitalizeNextChar = true;
+          }
+
+          if (capitalizeNextChar) {
+            output += char.toUpperCase();
+          } else {
+            output += char.toLowerCase();
+          }
+        }
+
+        document.getElementById("output").value = output.trim();
+      }
+
+      function isDigitOrLetter(char) {
+        return (char >= "0" && char <= "9") || (char >= "a" && char <= "z") || (char >= "A" && char <= "Z");
+      }
+
+      function copyOutput() {
+        const outputTextarea = document.getElementById("output");
+        outputTextarea.select();
+        document.execCommand("copy");
+        alert("Copied to clipboard!");
+      }
+
+      $(document).ready(function(){
+        $('textarea').characterCounter();
+      });
+    </script>
+  </body>
+</html>

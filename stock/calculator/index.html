@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>香港股市 - 成本計算機 (V4)</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- Popper JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+
+<script language="javascript">
+
+  //**************************************************************
+  function loadDefaultvalue() {
+    document.aForm.reset();
+    document.aForm.min_commission.value = "100";
+    document.aForm.commission_rate.value = "0.25";
+    document.aForm.matrixFactor.value = "0.05";
+    document.aForm.matrixSize.value = "3";
+    document.aForm.net_amount_diff.style.backgroundColor = '#FFFFFF';
+    document.aForm.net_amount_diff.style.color = '#000000';
+    document.aForm.net_amount_diff.style.webkitTextFillColor = '#000000';
+  }
+
+  //**************************************************************
+  function calculateBuyingCost(price, quantity) {
+    var Gross = 0;
+    Gross = Math.round(price * quantity * 1000) / 1000;
+    N = Math.round((Gross + calculateFee(price, quantity)) * 1000) / 1000;
+    return N;
+  }
+
+  //**************************************************************
+  function calculateSellingCost(price, quantity) {
+    var Gross = 0;
+    Gross = Math.round(price * quantity * 1000) / 1000;
+    N = Math.round((Gross - calculateFee(price, quantity)) * 1000) / 1000;
+    return N;
+  }
+
+  //**************************************************************
+  function calculateFee(price, quantity) {
+
+    var CommRate = 0, MinComm = 0;
+    var Gross = 0, Commission = 0, Levy = 0, Stamp = 0, Trading = 0, CA = 0, N = 0;
+
+    CommRate = document.aForm.commission_rate.value;
+    MinComm = document.aForm.min_commission.value;
+
+    Gross = Math.round(price * quantity * 1000) / 1000;
+    Commission = Math.round((Gross * CommRate / 100) * 1000) / 1000;
+    if (Commission < MinComm && Commission > 0) {
+      Commission = eval(MinComm);
+    }
+
+    Levy = Math.round(Gross * 0.00004 * 100) / 100;
+    Stamp = Math.round(Math.ceil(Gross * 0.001));
+    if (Stamp <= 2 && Stamp > 0) { Stamp = 2; }
+
+    Trading = Math.round(Gross * 0.00005 * 100) / 100;
+    CA = Math.round(Gross * 0.00002 * 100) / 100;
+
+    if (CA >= 100) {
+      CA = 100;
+    } else if (CA <= 2 && CA > 0) {
+      CA = 0;
+    }
+
+    return Math.round((Commission + Levy + Stamp + Trading + CA) * 100) / 100;
+  }
+
+  //**************************************************************
+  function goSubmit() {
+    setBuyingCostDetails();
+    setSellingCostDetails();
+    document.aForm.net_amount_diff.value = Math.round((document.aForm.net_amount_sell.value - document.aForm.net_amount_buy.value) * 1000) / 1000;
+    if (document.aForm.net_amount_diff.value == 0) {
+      document.aForm.net_amount_diff.style.backgroundColor = '#FFFFFF';
+      document.aForm.net_amount_diff.style.color = '#000000';
+      document.aForm.net_amount_diff.style.webkitTextFillColor = '#000000';
+    } else if (document.aForm.net_amount_diff.value > 0) {
+      document.aForm.net_amount_diff.style.backgroundColor = '#009900';
+      document.aForm.net_amount_diff.style.color = '#FFFFFF';
+      document.aForm.net_amount_diff.style.webkitTextFillColor = '#FFFFFF';
+    } else {
+      document.aForm.net_amount_diff.style.backgroundColor = '#CC0000';
+      document.aForm.net_amount_diff.style.color = '#FFFFFF';
+      document.aForm.net_amount_diff.style.webkitTextFillColor = '#FFFFFF';
+    }
+    return false;
+  }
+
+  //**************************************************************
+  function setBuyingCostDetails() {
+
+    var CommRate = 0, MinComm = 0;
+    var Gross = 0, Commission = 0, Levy = 0, Stamp = 0, Trading = 0, CA = 0, N = 0;
+
+    CommRate = document.aForm.commission_rate.value;
+    MinComm = document.aForm.min_commission.value;
+
+    Gross = Math.round(document.aForm.price_buy.value * document.aForm.quantity.value * 1000) / 1000;
+    Commission = Math.round((Gross * CommRate / 100) * 1000) / 1000;
+    if (Commission < MinComm && Commission > 0) {
+      Commission = eval(MinComm);
+    }
+
+    Levy = Math.round(Gross * 0.00004 * 100) / 100;
+    Stamp = Math.round(Math.ceil(Gross * 0.001));
+    if (Stamp <= 2 && Stamp > 0) { Stamp = 2; }
+
+    Trading = Math.round(Gross * 0.00005 * 100) / 100;
+    CA = Math.round(Gross * 0.00002 * 100) / 100;
+
+    if (CA >= 100) {
+      CA = 100;
+    } else if (CA <= 2 && CA > 0) {
+      CA = 0;
+    }
+
+    N = Math.round((Gross + Commission + Levy + Stamp + Trading + CA) * 1000) / 1000;
+
+    document.aForm.gross_amount_buy.value = Gross;
+    document.aForm.commission_amount_buy.value = Commission;
+    document.aForm.levy_buy.value = Levy;
+    document.aForm.stamp_duty_buy.value = Stamp;
+    document.aForm.Trading_fee_buy.value = Trading;
+    document.aForm.ccass_buy.value = CA;
+    document.aForm.net_amount_buy.value = N;
+  }
+
+  //**************************************************************
+  function setSellingCostDetails() {
+
+    var CommRate = 0, MinComm = 0;
+    var Gross = 0, Commission = 0, Levy = 0, Stamp = 0, Trading = 0, CA = 0, N = 0;
+
+    CommRate = document.aForm.commission_rate.value;
+    MinComm = document.aForm.min_commission.value;
+
+    Gross = Math.round(document.aForm.price_sell.value * document.aForm.quantity.value * 1000) / 1000;
+    Commission = Math.round((Gross * CommRate / 100) * 1000) / 1000;
+    if (Commission < MinComm && Commission > 0) {
+      Commission = eval(MinComm);
+    }
+
+    Levy = Math.round(Gross * 0.00004 * 100) / 100;
+    Stamp = Math.round(Math.ceil(Gross * 0.001));
+    if (Stamp <= 2 && Stamp > 0) { Stamp = 2; }
+
+    Trading = Math.round(Gross * 0.00005 * 100) / 100;
+    CA = Math.round(Gross * 0.00002 * 100) / 100;
+
+    if (CA >= 100) {
+      CA = 100;
+    } else if (CA <= 2 && CA > 0) {
+      CA = 2;
+    }
+
+    N = Math.round((Gross - Commission - Levy - Stamp - Trading - CA) * 100) / 100;
+
+    document.aForm.gross_amount_sell.value = Gross;
+    document.aForm.commission_amount_sell.value = Commission;
+    document.aForm.levy_sell.value = Levy;
+    document.aForm.stamp_duty_sell.value = Stamp;
+    document.aForm.Trading_fee_sell.value = Trading;
+    document.aForm.ccass_sell.value = CA;
+    document.aForm.net_amount_sell.value = N;
+  }
+
+  var MsgText = new Array();
+  MsgText['ERR000001'] = "(ERR000001)";
+  MsgText['ERR000002'] = "(ERR000002)";
+  MsgText['ERR000003'] = "(ERR000003)";
+  MsgText['ERR000004'] = "(ERR000004)";
+  MsgText['ERR000005'] = "(ERR000005)";
+
+</script>
+<style>
+  html {
+    font-size: 13px;
+  }
+  input, select {
+    font-size: 100%;
+    text-align: right;
+  }
+</style>
+
+<body onload="javascript: loadDefaultvalue();">
+  <div class="container-fluid">
+    <form name="aForm" onsubmit="javascript: return goSubmit();">
+      <input type="hidden" name="matrixFactor" value="" />
+      <input type="hidden" name="matrixSize" value="" />
+      <table class="table-sm">
+        <tbody class="tbody-dark">
+          <tr class="table-primary">
+            <td><div class="form-control-plaintext">市 場</div></td>
+            <td><div class="form-control-plaintext">購 買 數 量</div></td>
+            <td><div class="form-control-plaintext">每 股 買 入 價</div></td>
+            <td><div class="form-control-plaintext">每 股 賣 出 價</div></td>
+          </tr>
+          <tr>
+            <td><div class="form-control-plaintext">香 港</div><input type="hidden" name="market" value="hk" /></td>
+            <td><input type="number" min="0" inputmode="numeric" class="form-control" name="quantity" value="10000" onfocus="this.value=''" maxlength="6" /></td>
+            <td><input type="number" min="0" inputmode="decimal" class="form-control" name="price_buy" maxlength="6" onfocus="this.value=''" step=".01" /></td>
+            <td><input type="number" min="0" inputmode="decimal" class="form-control" name="price_sell" maxlength="6" onfocus="this.value=''" step=".01" /></td>
+          </tr>
+          <tr class="table-primary">
+            <td><div class="form-control-plaintext">最 低 佣 金</div></td>
+            <td><div class="form-control-plaintext">佣 金 比 率</div></td>
+            <td colspan="2"></td>
+          </tr>
+          <tr>
+            <td><input type="number" min="0" inputmode="numeric" class="form-control" name="min_commission" maxlength="8" /></td>
+            <td><input type="number" min="0" inputmode="decimal" class="form-control" name="commission_rate" maxlength="8" step=".01" /></td>
+            <td colspan="2" class="text-right">
+              <input type="button" class="btn btn-primary" onclick="location.href='https://faichun.github.io/myapps/';" value="主頁" />
+              <input type="button" class="btn btn-secondary" name="Reset" value="重 設"
+                ONCLICK="javascript: loadDefaultvalue();" />
+              <input type="submit" class="btn btn-success" name="Calculate" value="計 算" />
+            </td>
+          </tr>
+          <tr class="table-primary">
+            <td colspan="4"><div class="form-control-plaintext">估 計 所 需 款 項 計 算 機</div></td>
+          </tr>
+          <tr>
+            <td colspan="2"><div class="form-control-plaintext">款 項 總 額</div></td>
+            <td><input type="text" class="form-control" name="gross_amount_buy" maxlength="8" value="0" disabled /></td>
+            <td><input type="text" class="form-control" name="gross_amount_sell" maxlength="8" value="0" disabled /></td>
+          </tr>
+          <tr>
+            <td colspan="2"><div class="form-control-plaintext">佣 金</div></td>
+            <td><input type="text" class="form-control" name="commission_amount_buy" maxlength="8" value="0" disabled /></td>
+            <td><input type="text" class="form-control" name="commission_amount_sell" maxlength="8" value="0" disabled /></td>
+          </tr>
+          <tr>
+            <td colspan="2"><div class="form-control-plaintext">交 易 徵 費</div></td>
+            <td><input type="text" class="form-control" name="levy_buy" maxlength="8" value="0" disabled /></td>
+            <td><input type="text" class="form-control" name="levy_sell" maxlength="8" value="0" disabled /></td>
+          </tr>
+          <tr>
+            <td colspan="2"><div class="form-control-plaintext">印 花 稅</div></td>
+            <td><input type="text" class="form-control" name="stamp_duty_buy" maxlength="8" value="0" disabled /></td>
+            <td><input type="text" class="form-control" name="stamp_duty_sell" maxlength="8" value="0" disabled /></td>
+          </tr>
+          <tr>
+            <td colspan="2"><div class="form-control-plaintext">交 易 費</div></td>
+            <td><input type="text" class="form-control" name="Trading_fee_buy" maxlength="8" value="0" disabled /></td>
+            <td><input type="text" class="form-control" name="Trading_fee_sell" maxlength="8" value="0" disabled /></td>
+          </tr>
+          <tr>
+            <td colspan="2"><div class="form-control-plaintext">中 央 結 算 費</div></td>
+            <td><input type="text" class="form-control" name="ccass_buy" maxlength="8" value="0" disabled /></td>
+            <td><input type="text" class="form-control" name="ccass_sell" maxlength="8" value="0" disabled /></td>
+          </tr>
+          <tr class="table-primary">
+            <td colspan="2"><div class="form-control-plaintext">總 額 *</div></td>
+            <td><input type="text" class="form-control" name="net_amount_buy" maxlength="8" value="0" style="background: #FFFFFF; color: black;" disabled /></td>
+            <td><input type="text" class="form-control" name="net_amount_sell" maxlength="8" value="0" style="background: #FFFFFF; color: black;" disabled /></td>
+          </tr>
+          <tr class="table-warning">
+            <td colspan="3"><div class="form-control-plaintext">買 入 賣 出 差 額 *</div></td>
+            <td><input type="text" class="form-control" name="net_amount_diff" maxlength="8" value="0" style="background: #FFFFFF; color: black;" disabled /></td>
+          </tr>
+          <tr>
+            <td colspan="4" class="text-right"><div class="form-control-plaintext">* 參考資料只適用於限價盤</div></td>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </form>
+  </div>
+</body>
+
+</html>

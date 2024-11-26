@@ -1,0 +1,21 @@
+{
+  "short_name": "WordGuess",
+  "name": "WordGuess",
+  "icons": [
+    {
+      "src": "/word-guess/index_files/word_guess_logo_32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/word-guess/index_files/word_guess_logo_192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "https://faichun.github.io/myapps/",
+  "background_color": "#6aaa64",
+  "display": "standalone",
+  "theme_color": "#6aaa64",
+  "description": "A choral-themed parody of Wordle"
+}
