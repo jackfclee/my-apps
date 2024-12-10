@@ -194,17 +194,14 @@ document.addEventListener('DOMContentLoaded', () => {
     
         selectedItems.forEach((listItem) => {
             let url = listItem.dataset.url;
-
-            // Check if the URL starts with 'https://screenshot.googleplex.com/'
             if (url.startsWith('https://screenshot.googleplex.com/')) {
-                // Append '.jpg' if it's not already present
                 if (!url.endsWith('.jpg')) {
                     url += '.jpg';
                 }
             }            
             const img = document.createElement('img');
-            img.src = listItem.dataset.url;
-            img.alt = 'Selected image';
+            img.src = url;
+            img.alt = listItem.querySelector('.label').value;
             img.className = 'dynamic-image'; 
             img.title = listItem.querySelector('.label').value;
             imageViewer.appendChild(img); 
