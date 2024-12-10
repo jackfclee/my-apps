@@ -193,6 +193,15 @@ document.addEventListener('DOMContentLoaded', () => {
         imageViewer.innerHTML = ''; // Clear the existing images
     
         selectedItems.forEach((listItem) => {
+            let url = listItem.dataset.url;
+
+            // Check if the URL starts with 'https://screenshot.googleplex.com/'
+            if (url.startsWith('https://screenshot.googleplex.com/')) {
+                // Append '.jpg' if it's not already present
+                if (!url.endsWith('.jpg')) {
+                    url += '.jpg';
+                }
+            }            
             const img = document.createElement('img');
             img.src = listItem.dataset.url;
             img.alt = 'Selected image';
