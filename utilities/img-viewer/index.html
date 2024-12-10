@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Viewer</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
+    <link rel="manifest" href="assets/site.webmanifest">    
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+
+    <div class="left-panel">
+        <div class="input-container">
+            <input type="text" id="urlInput" placeholder="Enter image URL" />
+            <button id="addButton" class="material-icons">add</button>
+        </div>
+        <ul id="urlList" class="url-list"></ul>
+    </div>
+    <div class="right-panel">
+        <img id="imageViewer" class="image-viewer" src="" alt="Selected image will appear here">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,115 @@
+/* General body styling */
+body {
+    display: flex;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden; /* Prevent page scrolling */
+}
+
+/* Left panel styling */
+.left-panel {
+    width: 30%;
+    border-right: 1px solid #ccc;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Right panel styling */
+.right-panel {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    overflow: hidden; /* Prevent image viewer from scrolling */
+}
+
+/* Image viewer */
+.image-viewer {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* Input and button container */
+.input-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+/* Input field styling */
+input[type="text"] {
+    flex: 1;
+    padding: 5px;
+}
+
+/* Button styling */
+button {
+    padding: 5px;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    font-size: 24px;
+}
+
+button:hover {
+    color: #007bff;
+}
+
+/* URL list container */
+.url-list {
+    margin-top: 10px;
+    list-style: none;
+    padding: 0;
+    flex-grow: 1;
+    overflow-y: auto; /* Enable vertical scrolling for the list */
+    max-height: calc(100vh - 100px); /* Adjust height dynamically based on viewport */
+}
+
+/* List item styling */
+.url-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    cursor: pointer;
+    background-color: #f9f9f9; /* Default background color */
+}
+
+.url-list li:hover {
+    background-color: #e0e0e0; /* Highlight color when hovered */
+}
+
+/* Selected list item styling */
+.url-list li.selected {
+    background-color: yellow; /* Highlight color for selected item */
+}
+
+/* Styling for the label in readonly mode (non-editable) */
+.label[readonly] {
+    border: none;
+    background-color: inherit; /* Match the parent's background color */
+    color: #000; /* Text color */
+    cursor: pointer;
+    padding: 5px;
+}
+
+/* Styling for the label in non-editable focus */
+.label[readonly]:focus {
+    outline: none;
+    background-color: inherit; /* Match the parent background */
+    border: none; /* No border for readonly focus */
+}
+
+/* Styling for the label in editable focus mode */
+.label:not([readonly]):focus {
+    outline: none;
+    background-color: #ffffff; /* White background when editing */
+    border: 1px solid #ccc; /* Border for editable mode */
+    cursor: text;
+}
