@@ -4,7 +4,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const imageViewer = document.getElementById('imageViewer');
     const addButton = document.getElementById('addButton');
     const copyAllButton = document.getElementById('copyAllButton'); // Copy All button
+    const editButton = document.getElementById('editButton'); // Edit button
     const clearButton = document.getElementById('clearButton'); // Clear All button
+    const editPanel = document.getElementById('editPanel'); // Edit Panel
+    const editTextarea = document.getElementById('editTextarea'); // Textarea in the Edit Panel
+    const saveEditButton = document.getElementById('saveEditButton');
+    const closeEditButton = document.getElementById('closeEditButton');
     const confirmationDiv = document.getElementById('confirmationDiv'); // Confirmation dialog
     const confirmYes = document.getElementById('confirmYes');
     const confirmNo = document.getElementById('confirmNo');
@@ -24,6 +29,35 @@ document.addEventListener('DOMContentLoaded', () => {
         setTimeout(() => {
             button.textContent = originalIcon; // Revert to the original icon after 1 second
         }, 1000);
+    }
+
+    // Function to generate the content for Copy All and Edit Panel
+    function generateContent() {
+        const listItems = [];
+        urlList.querySelectorAll('li').forEach(listItem => {
+            const url = listItem.dataset.url;
+            const label = listItem.querySelector('.label').value;
+            listItems.push(`- ${label}\n  ${url}\n`);
+        });
+        return listItems.join('\n');
+    }
+
+    // Function to save the edited content back to the list
+    function saveEditedContent(content) {
+        urlList.innerHTML = ''; // Clear the current list
+        const lines = content.split('\n').filter(line => line.trim()); // Split by line and remove empty lines
+        let currentLabel = '';
+        lines.forEach(line => {
+            if (line.startsWith('- ')) {
+                currentLabel = line.slice(2).trim(); // Extract the label
+            } else if (line.startsWith('  ')) {
+                const url = line.trim(); // Extract the URL
+                if (currentLabel && url) {
+                    addListItem(url, currentLabel); // Recreate the list item
+                }
+            }
+        });
+        saveList(); // Save the updated list
     }
 
     // Function to enable drag-and-drop on a list item
@@ -94,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
         copyLabelLinkButton.className = 'material-icons copy-label-link-button';
         copyLabelLinkButton.textContent = 'content_copy';
         copyLabelLinkButton.addEventListener('click', () => {
-            const textToCopy = `- ${labelInput.value}\n  ${url}\n\n`;
+            const textToCopy = `- ${labelInput.value}\n  ${url}\n`;
             navigator.clipboard.writeText(textToCopy).then(() => {
                 showTick(copyLabelLinkButton, 'content_copy');
             });
@@ -151,17 +185,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function copyAll() {
-        const listItems = [];
-        urlList.querySelectorAll('li').forEach(listItem => {
-            const url = listItem.dataset.url;
-            const label = listItem.querySelector('.label').value;
-            listItems.push(`- ${label}\n  ${url}\n`);
+        const content = generateContent();
+        navigator.clipboard.writeText(content).then(() => {
+            showTick(copyAllButton, 'content_copy');
         });
-        if (listItems.length > 0) {
-            navigator.clipboard.writeText(listItems.join('\n')).then(() => {
-                showTick(copyAllButton, 'content_copy');
-            });
-        }
     }
 
     function clearAll() {
@@ -190,6 +217,22 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     copyAllButton.addEventListener('click', copyAll);
+
+    editButton.addEventListener('click', () => {
+        const content = generateContent();
+        editTextarea.value = content; // Fill the textarea with the list content
+        editPanel.classList.remove('hidden'); // Show the edit panel
+    });
+
+    saveEditButton.addEventListener('click', () => {
+        const editedContent = editTextarea.value;
+        saveEditedContent(editedContent); // Save the edited content back to the list
+        editPanel.classList.add('hidden'); // Hide the edit panel
+    });
+
+    closeEditButton.addEventListener('click', () => {
+        editPanel.classList.add('hidden'); // Close the edit panel without saving
+    });
 
     clearButton.addEventListener('click', clearAll);
 

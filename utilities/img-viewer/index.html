@@ -19,7 +19,15 @@
             <input type="text" id="urlInput" placeholder="Enter image URL" />
             <button id="addButton" class="material-icons">add</button>
             <button id="copyAllButton" class="material-icons">content_copy</button>
+            <button id="editButton" class="material-icons">edit</button>
             <button id="clearButton" class="material-icons">clear_all</button>
+        </div>
+        <div id="editPanel" class="edit-panel hidden">
+            <textarea id="editTextarea" class="edit-textarea"></textarea>
+            <div class="edit-panel-actions">
+                <button id="saveEditButton">Save</button>
+                <button id="closeEditButton">Close</button>
+            </div>
         </div>
         <div id="confirmationDiv" class="confirmation hidden">
             <span>Are you sure you want to clear the list?</span>
