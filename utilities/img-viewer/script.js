@@ -216,6 +216,17 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
+    urlInput.addEventListener('keypress', (event) => {
+        if (event.key === 'Enter') {
+            const url = urlInput.value.trim();
+            if (url) {
+                addListItem(url);
+                saveList();
+                urlInput.value = ''; // Clear input after adding
+            }
+        }
+    });
+    
     copyAllButton.addEventListener('click', copyAll);
 
     editButton.addEventListener('click', () => {
