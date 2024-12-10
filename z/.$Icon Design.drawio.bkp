@@ -265,17 +265,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0Mc9x8HlgYUxO3Q7p61o-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="0Mc9x8HlgYUxO3Q7p61o-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-590" y="10" width="580" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="0Mc9x8HlgYUxO3Q7p61o-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=18;fillColor=#FFFF99;strokeColor=none;gradientColor=#999900;gradientDirection=south;direction=south;rotation=-45;" parent="1" vertex="1">
+        <mxCell id="0Mc9x8HlgYUxO3Q7p61o-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=18;fillColor=#FFFF99;strokeColor=none;gradientColor=#999900;gradientDirection=south;direction=south;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="-500" y="100" width="400" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="0Mc9x8HlgYUxO3Q7p61o-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;gradientDirection=south;direction=south;rotation=0;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="0Mc9x8HlgYUxO3Q7p61o-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;gradientDirection=south;direction=south;rotation=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-470" y="130" width="340" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="0Mc9x8HlgYUxO3Q7p61o-4" value="KbG" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=118;fontStyle=1;fillColor=none;strokeColor=none;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="130" width="340" height="340" as="geometry" />
+        <mxCell id="0Mc9x8HlgYUxO3Q7p61o-4" value="KB&lt;div&gt;Game&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=68;fontStyle=1;fillColor=none;strokeColor=none;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="110" width="340" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
