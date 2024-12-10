@@ -57,22 +57,32 @@ button {
     transition: color 0.3s ease; /* Smooth transition for hover effects */
 }
 
-/* Hover styles for the buttons */
+/* Hover styles for buttons */
 button:hover {
     color: #007bff; /* Default hover color (blue) */
 }
 
-/* Specific hover styles for buttons */
+/* Hover styles for Copy All button */
+#copyAllButton:hover {
+    color: #4CAF50; /* Blue hover for Copy All button */
+}
+
+/* Hover styles for Delete All button */
+#clearButton:hover {
+    color: red; /* Red hover for Delete All button */
+}
+
+/* Specific hover styles for buttons in entries */
 .copy-label-link-button:hover {
-    color: lightseagreen; /* Blue for "Copy Label + Link" button */
+    color: #4CAF50; /* Blue hover for Copy buttons */
 }
 
 .copy-link-button:hover {
-    color: blue; /* Blue for "Copy Link" button */
+    color: #007bff; /* Blue hover for Copy buttons */
 }
 
 .delete-button:hover {
-    color: red; /* Red for "Delete" button */
+    color: red; /* Red hover for Delete button */
 }
 
 /* URL list container */

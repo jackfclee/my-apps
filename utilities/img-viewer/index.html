@@ -8,11 +8,12 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
     <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
-    <link rel="manifest" href="assets/site.webmanifest">   
+    <link rel="manifest" href="assets/site.webmanifest">      
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
+
     <div class="left-panel">
         <div class="input-container">
             <input type="text" id="urlInput" placeholder="Enter image URL" />
@@ -20,11 +21,17 @@
             <button id="copyAllButton" class="material-icons">content_copy</button>
             <button id="clearButton" class="material-icons">clear_all</button>
         </div>
+        <div id="confirmationDiv" class="confirmation hidden">
+            <span>Are you sure you want to clear the list?</span>
+            <button id="confirmYes">Yes</button>
+            <button id="confirmNo">No</button>
+        </div>
         <ul id="urlList" class="url-list"></ul>
     </div>
     <div class="right-panel">
         <img id="imageViewer" class="image-viewer" src="" alt="Selected image will appear here">
     </div>
+
     <script src="script.js"></script>
 </body>
 </html>
