@@ -143,6 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const copyLabelLinkButton = document.createElement('button');
         copyLabelLinkButton.className = 'material-icons copy-label-link-button';
+        copyLabelLinkButton.title = 'Copy this entry label and URL';
         copyLabelLinkButton.textContent = 'content_copy';
         copyLabelLinkButton.addEventListener('click', (event) => {
             event.stopPropagation(); 
@@ -155,6 +156,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const copyLinkButton = document.createElement('button');
         copyLinkButton.className = 'material-icons copy-link-button';
+        copyLinkButton.title = 'Copy this entry URL Only';
         copyLinkButton.textContent = 'link';
         copyLinkButton.addEventListener('click', (event) => {
             event.stopPropagation(); 
@@ -167,6 +169,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const deleteButton = document.createElement('button');
         deleteButton.className = 'material-icons delete-button';
         deleteButton.textContent = 'delete';
+        deleteButton.title = 'Remove this entry';
         deleteButton.addEventListener('click', () => {
             listItem.remove();
             saveList();
@@ -193,8 +196,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const img = document.createElement('img');
             img.src = listItem.dataset.url;
             img.alt = 'Selected image';
-            img.className = 'dynamic-image'; // Add a class for styling if needed
-            imageViewer.appendChild(img); // Add the image to the viewer
+            img.className = 'dynamic-image'; 
+            img.title = listItem.querySelector('.label').value;
+            imageViewer.appendChild(img); 
         });
     }
 
