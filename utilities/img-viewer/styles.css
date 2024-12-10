@@ -10,6 +10,7 @@ body {
 /* Left panel styling */
 .left-panel {
     width: 30%;
+    max-width: 600px;
     border-right: 1px solid #ccc;
     padding: 10px;
     display: flex;
@@ -26,10 +27,20 @@ body {
     overflow: hidden; /* Prevent image viewer from scrolling */
 }
 
-/* Image viewer */
 .image-viewer {
-    max-width: 100%;
-    max-height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.dynamic-image {
+    max-width: 45%; /* Adjust as needed */
+    max-height: 45%; /* Adjust as needed */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 /* Input and button container */

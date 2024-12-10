@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const confirmYes = document.getElementById('confirmYes');
     const confirmNo = document.getElementById('confirmNo');
 
+    let selectedItems = []; // Track selected items
     let draggedItem = null; // Store the currently dragged item
 
     // Function to clear the 'selected' class from all list items
@@ -21,6 +22,21 @@ document.addEventListener('DOMContentLoaded', () => {
         urlList.querySelectorAll('li').forEach(item => {
             item.classList.remove('selected');
         });
+        selectedItems = [];
+    }
+
+    // Function to toggle selection of a list item
+    function toggleSelection(listItem) {
+        const index = selectedItems.indexOf(listItem);
+    
+        if (index !== -1) {
+            selectedItems.splice(index, 1);
+            listItem.classList.remove('selected');
+        } else if (selectedItems.length < 8) {
+            selectedItems.push(listItem);
+            listItem.classList.add('selected');
+        } else {
+        }
     }
 
     // Function to temporarily show a tick icon for success
@@ -107,7 +123,8 @@ document.addEventListener('DOMContentLoaded', () => {
         labelInput.readOnly = true;
         listItem.appendChild(labelInput);
 
-        labelInput.addEventListener('dblclick', () => {
+        labelInput.addEventListener('dblclick', (event) => {
+            event.stopPropagation(); 
             labelInput.readOnly = false;
             labelInput.focus();
         });
@@ -127,7 +144,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const copyLabelLinkButton = document.createElement('button');
         copyLabelLinkButton.className = 'material-icons copy-label-link-button';
         copyLabelLinkButton.textContent = 'content_copy';
-        copyLabelLinkButton.addEventListener('click', () => {
+        copyLabelLinkButton.addEventListener('click', (event) => {
+            event.stopPropagation(); 
             const textToCopy = `- ${labelInput.value}\n  ${url}\n`;
             navigator.clipboard.writeText(textToCopy).then(() => {
                 showTick(copyLabelLinkButton, 'content_copy');
@@ -138,7 +156,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const copyLinkButton = document.createElement('button');
         copyLinkButton.className = 'material-icons copy-link-button';
         copyLinkButton.textContent = 'link';
-        copyLinkButton.addEventListener('click', () => {
+        copyLinkButton.addEventListener('click', (event) => {
+            event.stopPropagation(); 
             navigator.clipboard.writeText(url).then(() => {
                 showTick(copyLinkButton, 'link');
             });
@@ -151,22 +170,32 @@ document.addEventListener('DOMContentLoaded', () => {
         deleteButton.addEventListener('click', () => {
             listItem.remove();
             saveList();
-            if (imageViewer.src === url) {
-                imageViewer.src = '';
-            }
+            updateImageViewer();
             showTick(deleteButton, 'delete');
         });
         listItem.appendChild(deleteButton);
 
         listItem.addEventListener('click', () => {
-            clearSelection();
-            listItem.classList.add('selected');
-            imageViewer.src = url;
+            toggleSelection(listItem);
+            updateImageViewer(); // Update the image viewer
         });
 
         enableDragAndDrop(listItem);
 
         urlList.appendChild(listItem);
+    }
+
+    function updateImageViewer() {
+        const imageViewer = document.getElementById('imageViewer');
+        imageViewer.innerHTML = ''; // Clear the existing images
+    
+        selectedItems.forEach((listItem) => {
+            const img = document.createElement('img');
+            img.src = listItem.dataset.url;
+            img.alt = 'Selected image';
+            img.className = 'dynamic-image'; // Add a class for styling if needed
+            imageViewer.appendChild(img); // Add the image to the viewer
+        });
     }
 
     function saveList() {
@@ -196,11 +225,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     confirmYes.addEventListener('click', () => {
+        clearSelection();
+
         urlList.innerHTML = '';
         localStorage.removeItem('imageList');
-        imageViewer.src = '';
         confirmationDiv.classList.add('hidden'); // Hide the confirmation dialog
         showTick(clearButton, 'clear_all');
+        updateImageViewer(); // Update the image viewer
     });
 
     confirmNo.addEventListener('click', () => {
@@ -288,6 +319,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const errorMessage = document.getElementById('editErrorMessage');
         errorMessage.textContent = '';
         errorMessage.classList.remove('visible');
+        selectedItems = [];
+        updateImageViewer();
     });
 
     // Close button clears the error message
