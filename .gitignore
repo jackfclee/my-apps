@@ -1,2 +1,206 @@
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
 
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings/
+local.properties
+.loadpath
+ *.sublime-workspace
+
+### Eclipse Core ###
+.project
+.classpath
+ 
+### External tool builders ###
+.externalToolBuilders/
+ 
+### Annotation Processing ###
+.apt_generated
+ 
+### Build and plugin ###
+.target
+.checkstyle
+ 
+### Compiled class file ###
+*.class
+ 
+### Log file ###
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+### Package Files ###
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.jar
+ 
+### virtual machine crash logs ###
+hs_err_pid*
+ 
+### CDT- autotools ###
+.autotools
+ 
+### Java annotation processor (APT) ###
+.factorypath
+ 
+### sbteclipse plugin ###
+.target
+ 
+### STS (Spring Tool Suite) ###
+.apt_generated
+.factorypath
+.settings
+.springBeans
+.sts4-cache
+ 
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+## Gradle ##
+.gradle
+gradlew*
+gradle
+
+## LUA ##
+.buildpath
+
+## PYTHON ##
+.ipynb_checkpoints
+.tox
+swagger_server.egg-info
+*.py[cod]
+*$py.class
+__pycache__/
+venv/
+
+## DOTNET ##
+bin/
+obj/
+publish/
+
+## css ##
+*.css.map
+
+## js ##
+*.js.map
+
+## node.js ##
+node_modules/
+jspm_packages/
+build/Release
+.npm
+typings/
+.eslintcache
+*.tsbuildinfo
+.meteor
+.angular
+package-lock.json
+
+### Anypoints Studio ###
+.studio/
+ 
+### mule ###
+flows/
+reports/
+.mule/
+**/*.mflow
+
+### IntelliJ IDEA ###
+.idea/
+.idea
+*.iws
+*.iml
+*.ipr
+
+### WMQ/JMS ###
+mqjms.*
+mqjms*
+ 
+### Mobile Tools for Java (J2ME) ###
+.mtj.tmp/
+ 
+### macOS ###
 .DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+._*
+ 
+### Windows thumbnail cache files ###
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+ 
+### Windows Folder config file ###
+[Dd]esktop.ini
+ 
+### Dump file ###
+*.stackdump
+
+### Visual Studio ###
+.vs
+
+### scala ###
+.metals
+.bsp
+
+### Tests ###
+/coverage
+.nyc_output
+lib-cov
+
+### IDE - VSCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### Runtime data ###
+pids
+*.pid
+*.seed
+*.pid.lock
+
+### Others ###
+.scannerwork
+.editorconfig
+.browserslistrc
+.bak
+*.bkp
+*.dtmp
