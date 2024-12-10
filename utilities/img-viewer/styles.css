@@ -36,8 +36,8 @@ body {
 .input-container {
     display: flex;
     align-items: center;
-    gap: 10px;
     margin-bottom: 10px;
+    margin-right: 5px;
 }
 
 /* Input field styling */
@@ -46,17 +46,33 @@ input[type="text"] {
     padding: 5px;
 }
 
-/* Button styling */
+/* General button styling */
 button {
     padding: 5px;
     cursor: pointer;
     background-color: transparent;
     border: none;
     font-size: 24px;
+    color: grey; /* Default grey color */
+    transition: color 0.3s ease; /* Smooth transition for hover effects */
 }
 
+/* Hover styles for the buttons */
 button:hover {
-    color: #007bff;
+    color: #007bff; /* Default hover color (blue) */
+}
+
+/* Specific hover styles for buttons */
+.copy-label-link-button:hover {
+    color: lightseagreen; /* Blue for "Copy Label + Link" button */
+}
+
+.copy-link-button:hover {
+    color: blue; /* Blue for "Copy Link" button */
+}
+
+.delete-button:hover {
+    color: red; /* Red for "Delete" button */
 }
 
 /* URL list container */
@@ -81,6 +97,7 @@ button:hover {
     background-color: #f9f9f9; /* Default background color */
 }
 
+/* Hover effect for list items */
 .url-list li:hover {
     background-color: #e0e0e0; /* Highlight color when hovered */
 }
@@ -112,4 +129,39 @@ button:hover {
     background-color: #ffffff; /* White background when editing */
     border: 1px solid #ccc; /* Border for editable mode */
     cursor: text;
+}
+
+/* Confirmation dialog styling */
+.confirmation {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #fff4e5; /* Light yellow background */
+    border: 1px solid #ffcc00; /* Yellow border */
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.confirmation span {
+    flex: 1;
+}
+
+.confirmation button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+    background-color: #ffcc00; /* Yellow button */
+    border: none;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.confirmation button:hover {
+    background-color: #ff9900; /* Darker yellow on hover */
+    color: white;
 }
