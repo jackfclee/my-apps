@@ -224,14 +224,67 @@ document.addEventListener('DOMContentLoaded', () => {
         editPanel.classList.remove('hidden'); // Show the edit panel
     });
 
+    // Function to validate the content before saving
+    function validateContent(content) {
+        const lines = content.split('\n');
+        const patternLabel = /^- .+/; // Pattern for "- LABEL"
+        const patternContent = /^  .+/; // Pattern for "  CONTENT"
+
+        for (let i = 0; i < lines.length; i++) {
+            const line = lines[i];
+
+            if ((i + 1) % 3 === 0) {
+                // Every third line must be empty
+                if (line.trim() !== '') {
+                    return `Line ${i + 1} must be empty: ${line}`;
+                }
+            } else if (i % 3 === 0) {
+                // Label lines (1st, 4th, 7th, etc.)
+                if (!patternLabel.test(line.trim())) {
+                    return `Line ${i + 1} is not a valid label format: ${line}`;
+                }
+            } else if ((i + 1) % 3 === 2) {
+                // Content lines (2nd, 5th, 8th, etc.)
+                if (!patternContent.test(line)) {
+                    return `Line ${i + 1} is not a valid content format: ${line}`;
+                }
+            }
+        }
+
+        // If all lines are valid, return null (no errors)
+        return null;
+    }
+
+    // Event listener for the Save button in the Edit Panel
     saveEditButton.addEventListener('click', () => {
         const editedContent = editTextarea.value;
-        saveEditedContent(editedContent); // Save the edited content back to the list
+
+        // Validate the content
+        const validationError = validateContent(editedContent);
+        if (validationError) {
+            // Show the error message in the panel
+            const errorMessage = document.getElementById('editErrorMessage');
+            errorMessage.textContent = `Error: ${validationError}`;
+            errorMessage.classList.add('visible');
+            return; // Exit the function without saving
+        }
+
+        // If valid, save the edited content
+        saveEditedContent(editedContent);
         editPanel.classList.add('hidden'); // Hide the edit panel
+
+        // Clear the error message
+        const errorMessage = document.getElementById('editErrorMessage');
+        errorMessage.textContent = '';
+        errorMessage.classList.remove('visible');
     });
 
+    // Close button clears the error message
     closeEditButton.addEventListener('click', () => {
-        editPanel.classList.add('hidden'); // Close the edit panel without saving
+        editPanel.classList.add('hidden'); // Hide the edit panel
+        const errorMessage = document.getElementById('editErrorMessage');
+        errorMessage.textContent = '';
+        errorMessage.classList.remove('visible'); // Clear the error message
     });
 
     clearButton.addEventListener('click', clearAll);

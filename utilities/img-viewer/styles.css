@@ -240,3 +240,16 @@ button:hover {
 .hidden {
     display: none;
 }
+
+/* Error Message Styling */
+.edit-error-message {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-align: center;
+    display: none; /* Hidden by default */
+}
+
+.edit-error-message.visible {
+    display: block; /* Show when there's an error */
+}
