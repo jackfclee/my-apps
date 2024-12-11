@@ -24,14 +24,32 @@ document.addEventListener('DOMContentLoaded', () => {
         const browserHeight = window.innerHeight; // Get browser height
     
         if (isOriginalSize) {
-            // Scale to fit 95% of the browser screen size
-            modalImage.style.width = `${browserWidth * 0.95}px`;
-            modalImage.style.height = `${browserHeight * 0.95}px`;
+            // Scale to fit 95% of the browser screen size while maintaining the aspect ratio
+            const aspectRatio = modalImage.naturalWidth / modalImage.naturalHeight; // Original aspect ratio
+
+            if (browserWidth / browserHeight > aspectRatio) {
+                // Constrain by height
+                modalImage.style.height = `${browserHeight * 0.95}px`;
+                modalImage.style.width = `${browserHeight * 0.95 * aspectRatio}px`;
+            } else {
+                // Constrain by width
+                modalImage.style.width = `${browserWidth * 0.95}px`;
+                modalImage.style.height = `${browserWidth * 0.95 / aspectRatio}px`;
+            }
+
             isOriginalSize = false;
         } else {
-            // Revert to original size
-            modalImage.style.width = `${modalImage.naturalWidth}px`;
-            modalImage.style.height = `${modalImage.naturalHeight}px`;
+            const originalWidth = modalImage.naturalWidth; // Get original width
+            const originalHeight = modalImage.naturalHeight; // Get original height
+    
+            // Optionally scale the image to fit the screen if it's too large
+            const maxWidth = window.innerWidth * 0.9; // 90% of viewport width
+            const maxHeight = window.innerHeight * 0.9; // 90% of viewport height
+    
+            const scale = Math.min(maxWidth / originalWidth, maxHeight / originalHeight, 1);
+    
+            modalImage.style.width = `${originalWidth * scale}px`;
+            modalImage.style.height = `${originalHeight * scale}px`;
             isOriginalSize = true;
         }
     });
