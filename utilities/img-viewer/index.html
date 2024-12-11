@@ -13,7 +13,6 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
-
     <div class="left-panel">
         <div class="input-container">
             <input type="text" id="urlInput" placeholder="Enter image URL" />
@@ -40,7 +39,13 @@
     <div class="right-panel">
         <div id="imageViewer" class="image-viewer"></div>
     </div>
-
+    <div id="imageModal" class="modal hidden">
+        <div class="modal-content">
+            <button id="toggleSizeButton" class="material-icons toggle-size-button">fullscreen</button>
+            <button id="closeModalButton" class="material-icons close-button">close</button>
+            <img id="modalImage" alt="Enlarged view" />
+        </div>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>

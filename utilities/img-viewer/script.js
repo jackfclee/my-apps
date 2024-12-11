@@ -16,7 +16,23 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let selectedItems = []; // Track selected items
     let draggedItem = null; // Store the currently dragged item
+    let isOriginalSize = true;
 
+    document.getElementById('toggleSizeButton').addEventListener('click', () => {
+        const modalImage = document.getElementById('modalImage');
+        if (isOriginalSize) {
+            // Scale to fit screen
+            modalImage.style.width = '90%';
+            modalImage.style.height = '90%';
+            isOriginalSize = false;
+        } else {
+            // Revert to original size
+            modalImage.style.width = `${modalImage.naturalWidth}px`;
+            modalImage.style.height = `${modalImage.naturalHeight}px`;
+            isOriginalSize = true;
+        }
+    });
+    
     // Function to clear the 'selected' class from all list items
     function clearSelection() {
         urlList.querySelectorAll('li').forEach(item => {
@@ -198,15 +214,59 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (!url.endsWith('.jpg')) {
                     url += '.jpg';
                 }
-            }            
+            }
+    
             const img = document.createElement('img');
             img.src = url;
             img.alt = listItem.querySelector('.label').value;
             img.className = 'dynamic-image'; 
             img.title = listItem.querySelector('.label').value;
+    
+            // Add click event to open modal with enlarged image
+            img.addEventListener('click', () => {
+                openModal(url);
+            });
+    
             imageViewer.appendChild(img); 
         });
     }
+
+    function openModal(imageUrl) {
+        const modal = document.getElementById('imageModal');
+        const modalImage = document.getElementById('modalImage');
+        
+        modalImage.onload = () => {
+            const originalWidth = modalImage.naturalWidth; // Get original width
+            const originalHeight = modalImage.naturalHeight; // Get original height
+    
+            // Optionally scale the image to fit the screen if it's too large
+            const maxWidth = window.innerWidth * 0.9; // 90% of viewport width
+            const maxHeight = window.innerHeight * 0.9; // 90% of viewport height
+    
+            const scale = Math.min(maxWidth / originalWidth, maxHeight / originalHeight, 1);
+    
+            modalImage.style.width = `${originalWidth * scale}px`;
+            modalImage.style.height = `${originalHeight * scale}px`;
+        };
+    
+        modalImage.src = imageUrl; // Set the image URL
+        modal.classList.remove('hidden'); // Show the modal
+    }
+
+    function closeModal() {
+        const modal = document.getElementById('imageModal');
+        modal.classList.add('hidden'); // Hide the modal
+    }
+    
+    // Event listener for close button
+    document.getElementById('closeModalButton').addEventListener('click', closeModal);
+    
+    // Optional: Close modal when clicking outside the image
+    document.getElementById('imageModal').addEventListener('click', (event) => {
+        if (event.target === event.currentTarget) {
+            closeModal();
+        }
+    });
 
     function saveList() {
         const listItems = [];
