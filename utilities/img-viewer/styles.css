@@ -21,10 +21,14 @@ body {
 .right-panel {
     width: 70%;
     display: flex;
+    flex-direction: column; /* Stack images vertically */
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     padding: 10px;
-    overflow: hidden; /* Prevent image viewer from scrolling */
+    overflow-y: auto; /* Enable vertical scrolling */
+    max-height: 100vh; /* Restrict height to the viewport height */
+    box-sizing: border-box; /* Ensure padding is included in height calculation */
+    border-left: 1px solid #ccc; /* Optional: To separate left and right panels visually */
 }
 
 .image-viewer {
@@ -36,11 +40,11 @@ body {
 }
 
 .dynamic-image {
-    max-width: 45%; /* Adjust as needed */
-    max-height: 45%; /* Adjust as needed */
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 90%; /* Restrict image width to avoid overflow */
+    margin-bottom: 10px; /* Add space between images */
+    border: 1px solid #ddd; /* Optional border for images */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow for better aesthetics */
 }
 
 /* Input and button container */

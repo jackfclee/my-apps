@@ -35,11 +35,11 @@ document.addEventListener('DOMContentLoaded', () => {
             const aspectRatio = modalImage.naturalWidth / modalImage.naturalHeight; // Original aspect ratio
     
             if (browserWidth / browserHeight > aspectRatio) {
-                modalImage.style.width = `${browserWidth * 0.95 * aspectRatio}px`;
+                modalImage.style.width = `${browserWidth * 0.95 / aspectRatio}px`;
                 modalImage.style.height = `${browserHeight * 0.95}px`;
             } else if (browserWidth / browserHeight < aspectRatio) {
                 modalImage.style.width = `${browserWidth * 0.95}px`;
-                modalImage.style.height = `${browserHeight * 0.95 * aspectRatio}px`;
+                modalImage.style.height = `${browserHeight * 0.95 / aspectRatio}px`;
             } else {
                 modalImage.style.width = `${browserWidth * 0.95}px`;
                 modalImage.style.height = `${browserHeight * 0.95}px`;
