@@ -20,10 +20,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     document.getElementById('toggleSizeButton').addEventListener('click', () => {
         const modalImage = document.getElementById('modalImage');
+        const browserWidth = window.innerWidth; // Get browser width
+        const browserHeight = window.innerHeight; // Get browser height
+    
         if (isOriginalSize) {
-            // Scale to fit screen
-            modalImage.style.width = '90%';
-            modalImage.style.height = '90%';
+            // Scale to fit 95% of the browser screen size
+            modalImage.style.width = `${browserWidth * 0.95}px`;
+            modalImage.style.height = `${browserHeight * 0.95}px`;
             isOriginalSize = false;
         } else {
             // Revert to original size
@@ -32,6 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
             isOriginalSize = true;
         }
     });
+    
     
     // Function to clear the 'selected' class from all list items
     function clearSelection() {
