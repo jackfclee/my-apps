@@ -298,9 +298,12 @@ button:hover {
 }
 
 .modal-content img {
-    max-width: none; /* Remove any restrictions on width */
-    max-height: none; /* Remove any restrictions on height */
-    border-radius: 5px;
+    width: auto; /* Default to automatic width */
+    height: auto; /* Default to automatic height */
+    max-width: 95vw; /* Constrain to 95% of viewport width */
+    max-height: 95vh; /* Constrain to 95% of viewport height */
+    object-fit: contain; /* Ensure the image scales without cropping */
+    display: block; /* Prevent inline rendering issues */
 }
 
 .close-button {

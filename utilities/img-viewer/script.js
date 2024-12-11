@@ -27,7 +27,6 @@ document.addEventListener('DOMContentLoaded', () => {
     
         // Check if the image is already too large for the viewport
         if (originalWidth > browserWidth * 0.95 || originalHeight > browserHeight * 0.95) {
-            console.log('Image is already too large to enlarge further.');
             return; // Exit the function if the image is too large
         }
     
@@ -36,21 +35,26 @@ document.addEventListener('DOMContentLoaded', () => {
             const aspectRatio = modalImage.naturalWidth / modalImage.naturalHeight; // Original aspect ratio
     
             if (browserWidth / browserHeight > aspectRatio) {
-                // Constrain by height
+                modalImage.style.width = `${browserWidth * 0.95 * aspectRatio}px`;
                 modalImage.style.height = `${browserHeight * 0.95}px`;
-                modalImage.style.width = `${browserHeight * 0.95 * aspectRatio}px`;
-            } else {
-                // Constrain by width
+            } else if (browserWidth / browserHeight < aspectRatio) {
                 modalImage.style.width = `${browserWidth * 0.95}px`;
-                modalImage.style.height = `${browserWidth * 0.95 / aspectRatio}px`;
+                modalImage.style.height = `${browserHeight * 0.95 * aspectRatio}px`;
+            } else {
+                modalImage.style.width = `${browserWidth * 0.95}px`;
+                modalImage.style.height = `${browserHeight * 0.95}px`;
             }
     
             isOriginalSize = false;
         } else {
-            // Set back to original size
-            modalImage.style.width = `${originalWidth}px`;
-            modalImage.style.height = `${originalHeight}px`;
+            // Optionally scale the image to fit the screen if it's too large
+            const maxWidth = window.innerWidth * 0.9; // 90% of viewport width
+            const maxHeight = window.innerHeight * 0.9; // 90% of viewport height
     
+            const scale = Math.min(maxWidth / originalWidth, maxHeight / originalHeight, 1);
+    
+            modalImage.style.width = `${originalWidth * scale}px`;
+            modalImage.style.height = `${originalHeight * scale}px`;
             isOriginalSize = true;
         }
     });
