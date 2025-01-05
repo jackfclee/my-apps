@@ -1,5 +1,6 @@
 title,year,type,hasBackup,insertDTTM,viewSource
-Silo,2023,電視,0,2025-01-05 00:00,Apple TV+
+Silo (season 2),2024,電視,0,2025-01-05 00:00,Apple TV+
+Silo (season 1),2023,電視,0,2025-01-05 00:00,Apple TV+
 Moana 2,2024,動畫,0,2025-01-03 13:15,Cinema
 Moana,2016,動畫,0,2017-01-28 10:15,Cinema
 少年,2022,劇情,0,2024-12-23 00:00,YouTube
@@ -163,8 +164,8 @@ ERROR自肥企画,2021,電視,0,2022-06-08 00:00,ViuTV
 反起跑線聯盟,2022,電視,0,2022-06-08 00:00,ViuTV
 940920,2022,電視,0,2022-06-08 00:00,ViuTV
 冥冥之中,2022,電視,0,2022-06-08 00:00,ViuTV
-Spy X Family (Season 1),2022,動畫,0,2022-06-08 00:00,Netflix
-Thermae Romae Novae (Season 1),2022,動畫,0,2022-06-08 00:00,Netflix
+Spy X Family (season 1),2022,動畫,0,2022-06-08 00:00,Netflix
+Thermae Romae Novae (season 1),2022,動畫,0,2022-06-08 00:00,Netflix
 Interceptor,2022,動作,0,2022-06-08 00:00,Netflix
 The Electrical Life of Louis Wain,2021,傳記,0,2022-05-24 18:00,hmvod
 Death on the Nile,2022,懸疑,0,2022-05-19 00:00,hmvod
@@ -229,7 +230,11 @@ Star Wars 9: The Rise of Skywalker,2019,科幻,0,2021-01-26 00:00,hmvod
 The New Mutants,2020,科幻,0,2021-01-16 00:00,hmvod
 Out of the Cradle,2018,電視,0,2021-01-04 00:00,rthk
 Tenet,2020,科幻,0,2020-12-26 00:00,hmvod
-Attack on Titan （season 1 2 3a 3b 4）,2020,動畫,0,2020-12-23 00:00,mytv-super
+Attack on Titan （season 1）,2020,動畫,0,2020-12-23 00:00,mytv-super
+Attack on Titan （season 2）,2020,動畫,0,2020-12-23 00:00,mytv-super
+Attack on Titan （season 3a）,2020,動畫,0,2020-12-23 00:00,mytv-super
+Attack on Titan （season 3b）,2020,動畫,0,2020-12-23 00:00,mytv-super
+Attack on Titan （season 4）,2020,動畫,0,2020-12-23 00:00,mytv-super
 Into the Night （season 1）,2020,電視,0,2020-12-23 00:00,Netflix
 Sweet Home （season 1）,2020,電視,0,2020-12-23 00:00,Netflix
 Alice in Borderland （season 1）,2020,電視,0,2020-12-23 00:00,Netflix
@@ -260,8 +265,8 @@ Christopher Robin,2018,劇情,0,2020-09-20 00:00,hmvod
 十年泰國,2018,劇情,0,2020-09-17 00:00,hmvod
 十年台灣,2018,劇情,0,2020-09-17 00:00,hmvod
 Goodbye Christopher Robin,2017,傳記,0,2020-09-09 00:00,hmvod
-BioHackers（Season 1）,2020,電視,0,2020-09-06 00:00,Netflix
-Away（Season 1）,2020,電視,0,2020-09-06 00:00,Netflix
+BioHackers（season 1）,2020,電視,0,2020-09-06 00:00,Netflix
+Away（season 1）,2020,電視,0,2020-09-06 00:00,Netflix
 毛俠,2018,劇情,0,2020-09-01 00:00,hmvod
 12 Monkeys,1995,科幻,0,2020-08-16 00:00,Netflix
 Time Trap,2017,科幻,0,2020-08-16 00:00,Netflix
@@ -296,7 +301,8 @@ Jurassic Park 2: The Lost World,1997,科幻,0,1997-07-22 19:35,Cinema
 Jurassic Park,1993,科幻,0,2020-06-27 01:00,
 Spies in Disguise,2019,動畫,0,2020-06-19 00:00,hmvod
 Space Force,2020,電視,0,2020-06-05 00:00,Netflix
-Snowpiercer: TV Series （Season 1  2）,2020,電視,0,2020-06-05 00:00,Netflix
+Snowpiercer: TV Series （season 1）,2020,電視,0,2020-06-05 00:00,Netflix
+Snowpiercer: TV Series （season 2）,2020,電視,0,2020-06-05 00:00,Netflix
 X-Men: Apocalypse,2016,動作,0,2020-06-05 00:00,Netflix
 表姐，妳好嘢！４．情不自禁（Her Fatal Ways 4）,1994,喜劇,0,2020-06-04 00:00,hmvod
 表姐，妳好嘢！３．之大人駕到（Her Fatal Ways III）,1992,喜劇,0,2020-06-04 00:00,hmvod
@@ -327,7 +333,7 @@ Dora and the Lost City of Gold,2019,冒險,0,2020-04-25 00:00,
 Event Horizon,1997,科幻,0,2020-04-25 00:00,Netflix
 Yesterday,2019,劇情,0,2020-04-18 00:00,
 Justice League,2017,動作,0,2020-04-18 00:00,Netflix
-Outlander（Season 1）,2016,電視,0,2020-04-18 00:00,Netflix
+Outlander（season 1）,2016,電視,0,2020-04-18 00:00,Netflix
 Jojo Rabbit,2019,劇情,0,2020-04-18 00:00,
 Knives Out,2019,劇情,0,2020-03-27 00:00,
 Joker,2019,劇情,0,2020-03-10 00:00,
@@ -338,28 +344,33 @@ Zathura: A Space Adventure,2005,冒險,0,2020-03-03 00:00,
 Jumanji,1995,冒險,0,2020-03-03 00:00,
 Jumanji: Welcome to the Jungle,2017,冒險,0,2020-03-03 00:00,
 Jumanji: The Next Level,2019,冒險,0,2020-03-03 00:00,
-Ragnarok（Season 1）,2020,電視,0,2020-02-08 00:00,
+Ragnarok（season 1）,2020,電視,0,2020-02-08 00:00,
 The Aeronauts,2019,劇情,0,2020-02-08 00:00,
-彼岸之嫁（The Ghost Bride）（Season 1）,2020,電視,0,2020-01-30 00:00,Netflix
+彼岸之嫁（The Ghost Bride）（season 1）,2020,電視,0,2020-01-30 00:00,Netflix
 Dumbo,2019,劇情,0,2020-01-28 00:00,
 Dunkirk,2017,戰爭,0,2020-01-28 00:00,
 I Am Mother,2019,科幻,0,2020-01-28 00:00,Netflix
 Men in Black 3,2019,動作,0,2020-01-28 00:00,Netflix
 Men in Black: International,2019,動作,0,2020-01-28 00:00,Netflix
 MCU - Spider-Man: Far from Home,2019,動作,0,2020-01-28 00:00,Netflix
-You Me Her（Season 1  2  3  4）,2019,電視,0,2020-01-28 00:00,Netflix
-Sex Education（Season 1  2）,2019,電視,0,2020-01-28 00:00,Netflix
+You Me Her（season 1）,2019,電視,0,2020-01-28 00:00,Netflix
+You Me Her（season 2）,2019,電視,0,2020-01-28 00:00,Netflix
+You Me Her（season 3）,2019,電視,0,2020-01-28 00:00,Netflix
+You Me Her（season 4）,2019,電視,0,2020-01-28 00:00,Netflix
+Sex Education（season 1）,2019,電視,0,2020-01-28 00:00,Netflix
+Sex Education（season 2）,2019,電視,0,2020-01-28 00:00,Netflix
 Story of a Sin,1975,情色,0,2020-01-28 00:00,Netflix
 Frozen 2,2019,動畫,0,2019-11-23 12:50,Cinema
 Maleficent: Mistress of Evil,2019,魔幻,0,2020-01-28 00:00,
 Ad Astra,2019,科幻,0,2020-01-28 00:00,
 Elisa and Marcela,2019,愛情,0,2019-08-11 23:00,Netflix
-Another Life （Season 1）,2019,電視,0,2019-08-11 23:00,Netflix
+Another Life （season 1）,2019,電視,0,2019-08-11 23:00,Netflix
 監獄風雲 II 逃犯 （Prison on Fire 2）,1991,劇情,0,2019-08-11 23:00,Netflix
 監獄風雲 （Prison on Fire）,1987,劇情,0,2019-08-11 23:00,Netflix
 Rim of the World,2019,冒險,0,2019-08-11 23:00,Netflix
 流浪地球 （The Wandering Earth）,2018,科幻,0,2019-08-11 23:00,Netflix
-The Naked Director （Season 1  2）,2019,電視,0,2019-08-11 23:00,Netflix
+The Naked Director （season 1）,2019,電視,0,2019-08-11 23:00,Netflix
+The Naked Director （season 2）,2019,電視,0,2019-08-11 23:00,Netflix
 多啦A夢：大雄之月球探測記,2019,動畫,0,2019-08-11 13:20,Cinema
 Aquaman,2018,動作,1,2019-05-07 23:00,
 First Man,2018,紀錄,1,2019-05-07 23:00,
@@ -381,19 +392,20 @@ S 風暴 （S Storm）,2016,警匪,0,2019-04-26 01:00,Netflix
 MCU - Spider-Man: Homecoming,2017,動作,0,2019-04-26 01:00,Netflix
 MCU - Guardians of the Galaxy Vol.2,2017,動作,0,2019-04-26 01:00,Netflix
 MCU - Avengers 2: Age of Ultron,2015,動作,0,2019-04-26 01:00,
-Colony （Season 1）,2017,電視,0,2019-04-06 00:00,Netflix
+Colony （season 1）,2017,電視,0,2019-04-06 00:00,Netflix
 點五步,2016,紀錄,0,2019-04-06 00:00,Netflix
 十年,2015,劇情,0,2019-04-06 00:00,Netflix
-Kingdom （Season 1 2）,2019,恐怖,0,2019-04-06 00:00,Netflix
-Nightflyers （Season 1）,2018,電視,0,2019-04-06 00:00,Netflix
+Kingdom （season 1）,2019,恐怖,0,2019-04-06 00:00,Netflix
+Kingdom （season 2）,2019,恐怖,0,2019-04-06 00:00,Netflix
+Nightflyers （season 1）,2018,電視,0,2019-04-06 00:00,Netflix
 Hotel Transylvania 3: Summer Vacation,2018,動畫,0,2019-04-06 00:00,Netflix
 Hotel Transylvania 2,2015,動畫,0,2019-04-06 00:00,Netflix
 Hotel Transylvania,2012,動畫,0,2019-04-06 00:00,Netflix
-The Umbrella Academy （Season 1）,2019,電視,0,2019-04-06 00:00,Netflix
-Love  Death and Robots （Season 1）,2019,電視,0,2019-04-06 00:00,Netflix
+The Umbrella Academy （season 1）,2019,電視,0,2019-04-06 00:00,Netflix
+Love  Death and Robots （season 1）,2019,電視,0,2019-04-06 00:00,Netflix
 The Dawn Wall,2017,紀錄,0,2019-04-06 00:00,Netflix
 Collateral Beauty,2016,劇情,0,2019-04-06 00:00,Netflix
-My Husband Won't Fit （Season 1）,2019,電視,0,2019-04-06 00:00,Netflix
+My Husband Won't Fit （season 1）,2019,電視,0,2019-04-06 00:00,Netflix
 Mirage,2018,科幻,0,2019-04-06 00:00,Netflix
 Osmosis,2019,電視,0,2019-04-06 00:00,Netflix
 六福喜事,2014,喜劇,0,2018-12-24 00:00,Netflix
@@ -401,14 +413,14 @@ Osmosis,2019,電視,0,2019-04-06 00:00,Netflix
 飛砂風中轉,2010,喜劇,0,2018-12-24 00:00,Netflix
 Wreck-It Ralph 2 : Breaks the Internet,2018,動畫,0,2018-12-25 09:05,Cinema
 Wreck-It Ralph,2012,動畫,0,2018-12-24 00:00,Netflix
-1983 （Season 1）,--,電視,0,2018-12-09 00:00,Netflix
+1983 （season 1）,--,電視,0,2018-12-09 00:00,Netflix
 Abraham Lincoln: Vampire Hunter,2012,冒險,0,2018-07-15 12:30,Netflix
 Paradise in Service 軍中樂園,2014,紀錄,0,2018-07-15 12:30,Netflix
 Warcraft,2016,魔幻,0,2018-07-15 12:30,Netflix
 Land of the Lost,2009,喜劇,0,2018-07-15 12:30,Netflix
 How It Ends,2018,災難,0,2018-07-15 12:30,Netflix
 MCU - Doctor Strange,2016,動作,0,2018-07-15 12:30,Netflix
-Dark （Season 1）,--,電視,0,2018-06-03 22:30,Netflix
+Dark （season 1）,--,電視,0,2018-06-03 22:30,Netflix
 The Good Dinosaur,2015,動畫,0,2018-05-26 21:30,
 Ballerina,2017,動畫,0,2017-01-19 09:30,Cinema
 FullMetal Alchemist,2017,魔幻,0,2018-05-26 21:30,Netflix
@@ -416,15 +428,18 @@ War Machine,2017,紀錄,0,2018-05-26 21:30,Netflix
 Spectral,2016,懸疑,0,2018-05-26 21:30,Netflix
 Orbiter 9,2017,科幻,0,2018-05-26 21:30,Netflix
 The Cloverfield Paradox,2018,科幻,0,2018-05-26 21:30,Netflix
-Altered Carbon （Season 1）,--,電視,0,2018-05-26 21:30,Netflix
-Zoo （Season 1 2 3）,--,電視,0,2018-05-26 21:30,Netflix
-Erased （Season 1）,--,電視,0,2018-05-26 21:30,Netflix
-Mob Psycho 100 （Season 1）,--,電視,0,2018-05-26 21:30,Netflix
-Million Yen Women （Season 1）,--,電視,0,2018-05-26 21:30,Netflix
-Lost in Space （Season 1  2）,--,電視,0,2018-05-26 21:30,Netflix
-The Mist （Season 1）,--,電視,0,2018-05-26 21:30,Netflix
+Altered Carbon （season 1）,--,電視,0,2018-05-26 21:30,Netflix
+Zoo （season 1）,--,電視,0,2018-05-26 21:30,Netflix
+Zoo （season 2）,--,電視,0,2018-05-26 21:30,Netflix
+Zoo （season 3）,--,電視,0,2018-05-26 21:30,Netflix
+Erased （season 1）,--,電視,0,2018-05-26 21:30,Netflix
+Mob Psycho 100 （season 1）,--,電視,0,2018-05-26 21:30,Netflix
+Million Yen Women （season 1）,--,電視,0,2018-05-26 21:30,Netflix
+Lost in Space （season 1）,--,電視,0,2018-05-26 21:30,Netflix
+Lost in Space （season 2）,--,電視,0,2018-05-26 21:30,Netflix
+The Mist （season 1）,--,電視,0,2018-05-26 21:30,Netflix
 Déjà Vu,2006,科幻,0,2018-05-26 21:30,Netflix
-The Rain （Season 1）,--,電視,0,2018-05-26 21:30,Netflix
+The Rain （season 1）,--,電視,0,2018-05-26 21:30,Netflix
 The Huntsman: Winter's War,2016,魔幻,0,2018-05-26 21:30,Netflix
 The Man from Earth: Holocene,2017,科幻,1,2018-05-26 19:30,
 The Feels,2017,喜劇,1,2018-05-26 19:30,
@@ -510,25 +525,31 @@ Arrival,2016,科幻,1,2017-04-08 00:00,
 Passengers,2016,科幻,1,2017-04-08 00:00,
 Nine Lives,2016,喜劇,1,2017-04-08 00:00,
 Sully,2016,傳記,1,2017-04-08 00:00,
-Westworld（Season 1 2 3）,--,電視,1,2017-04-08 00:00,
-Travelers（Season 1 2 3）,--,電視,0,2017-02-17 00:00,Netflix
-Tokyo Trial（Season 1）,--,電視,0,2017-02-17 00:00,Netflix
-Reign（Season 1）,--,電視,0,2017-02-17 00:00,Netflix
-Cosmos: A Spacetime Odyssey（Season 1）,--,電視,0,2017-02-17 00:00,Netflix
-Stranger Things（Season 1）,--,電視,0,2017-02-17 00:00,Netflix
-The Red Tent（Season 1）,--,電視,0,2017-02-17 00:00,Netflix
-The Expanse（Season 1）,--,電視,0,2017-02-17 00:00,Netflix
+Westworld（season 1）,--,電視,1,2017-04-08 00:00,
+Westworld（season 2）,--,電視,1,2017-04-08 00:00,
+Westworld（season 3）,--,電視,1,2017-04-08 00:00,
+Travelers（season 1）,--,電視,0,2017-02-17 00:00,Netflix
+Travelers（season 2）,--,電視,0,2017-02-17 00:00,Netflix
+Travelers（season 3）,--,電視,0,2017-02-17 00:00,Netflix
+Tokyo Trial（season 1）,--,電視,0,2017-02-17 00:00,Netflix
+Reign（season 1）,--,電視,0,2017-02-17 00:00,Netflix
+Cosmos: A Spacetime Odyssey（season 1）,--,電視,0,2017-02-17 00:00,Netflix
+Stranger Things（season 1）,--,電視,0,2017-02-17 00:00,Netflix
+The Red Tent（season 1）,--,電視,0,2017-02-17 00:00,Netflix
+The Expanse（season 1）,--,電視,0,2017-02-17 00:00,Netflix
 Deepwater Horizon,2016,災難,0,2016-12-27 00:00,
 The Man from the Future （O Homem do Futuro）,2011,科幻,0,2016-12-05 00:00,Netflix
 ARQ,2016,科幻,0,2016-12-05 00:00,Netflix
 Patterns of Evidence: Exodus,2014,紀錄,0,2016-12-05 00:00,Netflix
 X-Rated: The Greatest Adult Movies of All Time,2015,情色,0,2016-12-05 00:00,Netflix
-House of Cards（Season 1）,--,電視,0,2016-11-30 22:00,Netflix
-The Crown（Season 1）,--,電視,0,2016-11-30 22:00,Netflix
-Designated Survivor（Season 1 2）,--,電視,0,2016-11-30 22:00,Netflix
-Frequency（Season 1）,--,電視,0,2016-11-30 22:00,Netflix
-3%（Season 1）,--,電視,0,2016-11-30 22:00,Netflix
-Shooter（Season 1 2）,--,電視,0,2016-11-30 22:00,Netflix
+House of Cards（season 1）,--,電視,0,2016-11-30 22:00,Netflix
+The Crown（season 1）,--,電視,0,2016-11-30 22:00,Netflix
+Designated Survivor（season 1）,--,電視,0,2016-11-30 22:00,Netflix
+Designated Survivor（season 2）,--,電視,0,2016-11-30 22:00,Netflix
+Frequency（season 1）,--,電視,0,2016-11-30 22:00,Netflix
+3%（season 1）,--,電視,0,2016-11-30 22:00,Netflix
+Shooter（season 1）,--,電視,0,2016-11-30 22:00,Netflix
+Shooter（season 2）,--,電視,0,2016-11-30 22:00,Netflix
 Agoraphobia,2015,恐怖,1,2016-10-18 22:00,
 Carol,2015,愛情,1,2016-10-18 22:00,
 Goddess of Love,2015,恐怖,1,2016-10-18 22:00,
@@ -543,7 +564,8 @@ The Peanuts Movie,2015,動畫,1,2016-10-18 22:00,
 Zootopia,2016,動畫,1,2016-10-18 22:00,
 The Danish Girl,2016,愛情,1,2016-10-18 22:00,
 The Purge: Election Year,2016,恐怖,1,2016-10-18 22:00,
-Mr Robot （Season 1 2）,2015,電視,1,2016-10-18 22:00,
+Mr Robot （season 1）,2015,電視,1,2016-10-18 22:00,
+Mr Robot （season 2）,2015,電視,1,2016-10-18 22:00,
 London Has Fallen,2016,動作,1,2016-10-18 22:00,
 Train To Busan,2016,科幻,1,2016-10-18 22:00,
 Independence Day Resurgence,2016,科幻,1,2016-10-18 22:00,
@@ -573,19 +595,33 @@ This is where I leave you,2014,愛情,1,2016-06-17 23:00,
 The Angry Birds Movie 2,2019,動畫,0,2020-05-04 00:00,hmvod
 The Angry Birds Movie,2016,動畫,0,2016-06-09 09:00,Cinema
 Look Who's Back,2015,喜劇,0,2016-04-25 00:00,Netflix
-Masters of Sex（Season 1）,--,電視,0,2016-06-03 00:00,Netflix
+Masters of Sex（season 1）,--,電視,0,2016-06-03 00:00,Netflix
 Star Trek (#12) Into Darkness,2013,科幻,0,2016-06-03 00:00,Netflix
-Helix （Season 1）,--,電視,0,2016-04-24 00:00,Netflix
+Helix （season 1）,--,電視,0,2016-04-24 00:00,Netflix
 Kate and Leopold,2001,愛情,0,2016-03-08 00:00,Netflix
-Marco Polo （Season 1）,--,電視,0,2016-03-07 00:00,Netflix
-The Returned （Season 1）,--,電視,0,2016-03-07 00:00,Netflix
+Marco Polo （season 1）,--,電視,0,2016-03-07 00:00,Netflix
+The Returned （season 1）,--,電視,0,2016-03-07 00:00,Netflix
 Peppa Pig,--,電視,0,2016-03-07 00:00,Netflix
 Good Morning Call,--,電視,0,2016-03-07 00:00,Netflix
-Black Mirror （Season 1 2 Special 3 4 5）,--,電視,0,2016-03-07 00:00,Netflix
+Black Mirror （season 1）,--,電視,0,2016-03-07 00:00,Netflix
+Black Mirror （season 2）,--,電視,0,2016-03-07 00:00,Netflix
+Black Mirror （season Special）,--,電視,0,2016-03-07 00:00,Netflix
+Black Mirror （season 3）,--,電視,0,2016-03-07 00:00,Netflix
+Black Mirror （season 4）,--,電視,0,2016-03-07 00:00,Netflix
+Black Mirror （season 5）,--,電視,0,2016-03-07 00:00,Netflix
 アンダーウェア（內衣白領風雲）,--,電視,0,2016-03-07 00:00,Netflix
-Ascension （Season 1）,--,電視,0,2016-03-07 00:00,Netflix
-The 100 （Season 1 2 3 4 5 6 7）,--,電視,0,2016-03-12 00:00,Netflix
-12 Monkeys （Season 1 2 3 4）,--,電視,0,2016-03-12 00:00,Netflix
+Ascension （season 1）,--,電視,0,2016-03-07 00:00,Netflix
+The 100 （season 1）,--,電視,0,2016-03-12 00:00,Netflix
+The 100 （season 2）,--,電視,0,2016-03-12 00:00,Netflix
+The 100 （season 3）,--,電視,0,2016-03-12 00:00,Netflix
+The 100 （season 4）,--,電視,0,2016-03-12 00:00,Netflix
+The 100 （season 5）,--,電視,0,2016-03-12 00:00,Netflix
+The 100 （season 6）,--,電視,0,2016-03-12 00:00,Netflix
+The 100 （season 7）,--,電視,0,2016-03-12 00:00,Netflix
+12 Monkeys （season 1）,--,電視,0,2016-03-12 00:00,Netflix
+12 Monkeys （season 2）,--,電視,0,2016-03-12 00:00,Netflix
+12 Monkeys （season 3）,--,電視,0,2016-03-12 00:00,Netflix
+12 Monkeys （season 4）,--,電視,0,2016-03-12 00:00,Netflix
 We're the Millers,2013,喜劇,0,2016-01-09 21:00,Cinema
 Four Christmases,2008,愛情,0,2016-01-08 21:00,Cinema
 400 Days,2015,科幻,1,2016-01-04 21:00,
@@ -701,7 +737,10 @@ The Purge: Anarchy,2014,恐怖,1,2014-09-17 00:00,
 那個少女不多情之脱的疑惑,1993,情色,1,2014-09-12 23:00,
 永遠の０（Eien no Zero）,2013,戰爭,1,2014-09-09 20:00,
 那夜凌晨，我坐上了旺角開往大埔的紅van（The Midnight After）,2014,科幻,1,2014-09-09 20:00,
-The Last Ship （Season 1 2 3 4）,--,電視,1,2014-09-09 20:00,
+The Last Ship （season 1）,--,電視,1,2014-09-09 20:00,
+The Last Ship （season 2）,--,電視,1,2014-09-09 20:00,
+The Last Ship （season 3）,--,電視,1,2014-09-09 20:00,
+The Last Ship （season 4）,--,電視,1,2014-09-09 20:00,
 Noah,2014,傳記,1,2014-09-09 20:00,
 Last Flight,2014,恐怖,1,2014-09-09 20:00,
 Jack Strong,2014,懸疑,1,2014-09-09 20:00,
@@ -810,7 +849,8 @@ Astronaut: The Last Push,2012,科幻,0,2013-10-24 22:34,
 激戰,2013,動作,1,2013-10-19 11:42,
 C.O.G.,2013,劇情,1,2013-10-19 11:42,
 Escape From Tomorrow,2013,恐怖,1,2013-10-19 11:41,
-半沢直樹（Hanzawa Naoki） （Season 1）,2013,電視,1,2013-10-19 11:41,
+半沢直樹（Hanzawa Naoki） （season 1）,2013,電視,1,2013-10-19 11:41,
+半沢直樹（Hanzawa Naoki） （season 2）,2013,電視,1,2013-10-19 11:41,
 The Quiet Earth,1985,科幻,0,2013-09-30 15:41,
 Taken,2008,動作,0,2013-09-21 21:30,
 Dragon Ball Z: Battle of Gods,2013,動畫,0,2013-09-18 21:47,
@@ -1071,7 +1111,7 @@ Battle: Los Angeles,2011,災難,1,2011-04-16 16:45,
 Hereafter,2010,魔幻,1,2011-04-16 16:40,
 तेरे बिन लादेन（Tere Bin Laden）,2010,喜劇,1,2011-03-30 14:49,
 Middle Men,2009,喜劇,1,2011-03-30 14:49,
-Ancient Aliens（Season One）,2009,電視,1,2011-03-30 14:48,
+Ancient Aliens（season 1）,2009,電視,1,2011-03-30 14:48,
 The King's Speech,2010,劇情,1,2011-03-21 23:13,
 Sanctum,2011,冒險,1,2011-03-21 23:13,
 Kalamity,2010,懸疑,1,2011-03-21 23:13,
