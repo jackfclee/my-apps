@@ -4,6 +4,13 @@
     "displayName": "AI and ML",
     "references": [
       {
+        "file": "2025 AI Agent Tech Stack.gif",
+        "displayName": "2025 AI Agent Tech Stack",
+        "tags": [
+          "AI Agent"
+        ]
+      },
+      {
         "file": "AI Tools 2023.jpg",
         "displayName": "AI Tools 2023 (Careerflow.ai)",
         "tags": [
@@ -20,6 +27,13 @@
           "Neural Networks",
           "Machine Learning",
           "Artifical Intelligence"
+        ]
+      },
+      {
+        "file": "Building the Machine Learning Model.gif",
+        "displayName": "Building the Machine Learning Model",
+        "tags": [
+          "Machine Learning Model"
         ]
       },
       {
@@ -55,11 +69,33 @@
         ]
       },
       {
+        "file": "Evolution of AI Agents.gif",
+        "displayName": "Evolution of AI Agents",
+        "tags": [
+          "Evolution",
+          "AI Agent"
+        ]
+      },
+      {
         "file": "GPT (Generative Pre-Train) Timeline.png",
         "displayName": "GPT (Generative Pre-Train) Timeline",
         "tags": [
           "GPT",
           "Timeline"
+        ]
+      },
+      {
+        "file": "Generative AI Learning Roadmap.gif",
+        "displayName": "Generative AI Learning Roadmap (bytebytego)",
+        "tags": [
+          "Generative AI"
+        ]
+      },
+      {
+        "file": "How ChatGPT works.gif",
+        "displayName": "How ChatGPT works",
+        "tags": [
+          "ChatGPT"
         ]
       },
       {
@@ -70,6 +106,15 @@
           "Architecture",
           "Design",
           "Flow"
+        ]
+      },
+      {
+        "file": "ML Ops Architecture.gif",
+        "displayName": "ML Ops Architecture",
+        "tags": [
+          "Machine Learning",
+          "Operation",
+          "Architecture"
         ]
       },
       {
@@ -89,6 +134,13 @@
         ]
       },
       {
+        "file": "Model Context Protocol.gif",
+        "displayName": "Model Context Protocol",
+        "tags": [
+          "Model Context Protocol"
+        ]
+      },
+      {
         "file": "Model Registry.gif",
         "displayName": "Model Registry",
         "tags": [
@@ -103,6 +155,13 @@
           "RAG",
           "LLM"
         ]
+      },
+      {
+        "file": "The AI Universe.gif",
+        "displayName": "The AI Universe",
+        "tags": [
+          "AI"
+        ]
       }
     ]
   },
@@ -110,6 +169,14 @@
     "topic": "api-microservices",
     "displayName": "API microservices",
     "references": [
+      {
+        "file": "10 System Design Trade Offs.gif",
+        "displayName": "10 System Design Trade Offs (bytebytego)",
+        "tags": [
+          "System Design",
+          "Trade Offs"
+        ]
+      },
       {
         "file": "18 most common HTTP status codes.gif",
         "displayName": "18 most common HTTP status codes",
@@ -142,6 +209,13 @@
         "tags": [
           "Microservices",
           "Components"
+        ]
+      },
+      {
+        "file": "9 Essential Components of Production Microservice App.gif",
+        "displayName": "9 Essential Components of Production Microservice App",
+        "tags": [
+          "Microservices"
         ]
       },
       {
@@ -202,6 +276,13 @@
         ]
       },
       {
+        "file": "API Gateway 101.jpg",
+        "displayName": "API Gateway 101 (bytebytego)",
+        "tags": [
+          "API Gateway"
+        ]
+      },
+      {
         "file": "API Gateway Architecture.gif",
         "displayName": "API Gateway Architecture",
         "tags": [
@@ -231,6 +312,13 @@
         "displayName": "API Pagination 101",
         "tags": [
           "API Pagination"
+        ]
+      },
+      {
+        "file": "API Protocols (bytebytego).jpg",
+        "displayName": "API Protocols (bytebytego)",
+        "tags": [
+          "API Protocols"
         ]
       },
       {
@@ -330,6 +418,13 @@
         ]
       },
       {
+        "file": "Learn about API Protocols.gif",
+        "displayName": "Learn about API Protocols",
+        "tags": [
+          "API Protocols"
+        ]
+      },
+      {
         "file": "Microservice Best Practices.jpg",
         "displayName": "Microservice Best Practices (bytebytego)",
         "tags": [
@@ -377,6 +472,15 @@
         ]
       },
       {
+        "file": "Orchestration vs Choreography Microservices.gif",
+        "displayName": "Orchestration vs Choreography of Microservices (bytebytego)",
+        "tags": [
+          "Orchestration",
+          "Choreography",
+          "Microservices"
+        ]
+      },
+      {
         "file": "Orchestration vs Choreography of Microservices.jpg",
         "displayName": "Orchestration vs Choreography of Microservices",
         "tags": [
@@ -389,18 +493,14 @@
         "file": "REST API Cheatsheet (bytebytego).jpg",
         "displayName": "REST API Cheatsheet (bytebytego)",
         "tags": [
-          "REST",
-          "API",
-          "CheatSheet"
+          "REST API"
         ]
       },
       {
         "file": "REST API Cheatsheet.gif",
         "displayName": "REST API Cheatsheet",
         "tags": [
-          "REST",
-          "API",
-          "CheatSheet"
+          "REST API"
         ]
       },
       {
@@ -552,6 +652,13 @@
         ]
       },
       {
+        "file": "Architecture Repository.jpg",
+        "displayName": "Architecture Repository",
+        "tags": [
+          "Architecture Repository"
+        ]
+      },
+      {
         "file": "Backend Burger 1.jpg",
         "displayName": "Backend Burger",
         "tags": [
@@ -578,6 +685,20 @@
         ]
       },
       {
+        "file": "Cheatsheet for Fault Tolerant Systems.jpg",
+        "displayName": "Cheatsheet for Fault Tolerant Systems",
+        "tags": [
+          "Fault Tolerant Systems"
+        ]
+      },
+      {
+        "file": "Cheatsheet on Comparing API Architectural Styles.gif",
+        "displayName": "Cheatsheet on Comparing API Architectural Styles",
+        "tags": [
+          "API Architectural Styles"
+        ]
+      },
+      {
         "file": "Design for Internationalization.jpg",
         "displayName": "Design for Internationalization (bytebytego)",
         "tags": [
@@ -589,6 +710,15 @@
         ]
       },
       {
+        "file": "Hexagonal Onion Clean Architecture.jpg",
+        "displayName": "Hexagonal Onion Clean Architecture",
+        "tags": [
+          "Hexagonal Architecture",
+          "Onion Architecture",
+          "Clean Architecture"
+        ]
+      },
+      {
         "file": "How do we design a chat application.jpg",
         "displayName": "How do we design a chat application? (bytebytego)",
         "tags": [
@@ -596,6 +726,14 @@
           "Architecture",
           "Design",
           "Flow"
+        ]
+      },
+      {
+        "file": "Intergration Types Explained.gif",
+        "displayName": "Intergration Types Explained",
+        "tags": [
+          "Integration",
+          "Pattern"
         ]
       },
       {
@@ -625,6 +763,13 @@
           "Architecture",
           "Design",
           "Flow"
+        ]
+      },
+      {
+        "file": "Most Used Design Patterns.gif",
+        "displayName": "Most Used Design Patterns",
+        "tags": [
+          "Design Patterns"
         ]
       },
       {
@@ -747,6 +892,24 @@
         ]
       },
       {
+        "file": "System Design Master Template.jpg",
+        "displayName": "System Design Master Template",
+        "tags": [
+          "System",
+          "Design",
+          "Template"
+        ]
+      },
+      {
+        "file": "System Design User Centered Approach.jpg",
+        "displayName": "System Design User Centered Approach",
+        "tags": [
+          "System",
+          "Design",
+          "User Centered Approach"
+        ]
+      },
+      {
         "file": "The Fantastic Four of System Design.gif",
         "displayName": "The Fantastic Four of System Design (bytebytego)",
         "tags": [
@@ -848,6 +1011,13 @@
     "displayName": "Caching",
     "references": [
       {
+        "file": "8 Steps to learn the fundamentals of Redis 101.jpg",
+        "displayName": "8 Steps to learn the fundamentals of Redis 101 (bytebytego)",
+        "tags": [
+          "Redis"
+        ]
+      },
+      {
         "file": "Cache Miss Attack.jpg",
         "displayName": "Cache Miss Attack (bytebytego)",
         "tags": [
@@ -860,6 +1030,15 @@
       {
         "file": "Database Caching Strategies.jpg",
         "displayName": "Database Caching Strategies",
+        "tags": [
+          "Database",
+          "Caching",
+          "Strategies"
+        ]
+      },
+      {
+        "file": "Database Caching.gif",
+        "displayName": "Database Caching",
         "tags": [
           "Database",
           "Caching",
@@ -895,6 +1074,14 @@
         ]
       },
       {
+        "file": "Redis Use Cases.jpg",
+        "displayName": "Redis Use Cases",
+        "tags": [
+          "Redis",
+          "Use Case"
+        ]
+      },
+      {
         "file": "Things to consider when using Cache.png",
         "displayName": "Things to consider when using Cache (bytebytego)",
         "tags": [
@@ -904,6 +1091,14 @@
           "Scenarios",
           "Metrics",
           "Algorithms"
+        ]
+      },
+      {
+        "file": "Top 5 Caching Strategies.jpg",
+        "displayName": "Top 5 Caching Strategies (bytebytego)",
+        "tags": [
+          "Caching",
+          "Strategies"
         ]
       },
       {
@@ -1017,6 +1212,14 @@
           "Terraform",
           "DevOps",
           "CICD"
+        ]
+      },
+      {
+        "file": "CICD Anti Pattern.gif",
+        "displayName": "CICD Anti Pattern",
+        "tags": [
+          "CICD",
+          "Antipattern"
         ]
       },
       {
@@ -1161,11 +1364,35 @@
         ]
       },
       {
+        "file": "How Terraform creates infra at scale.gif",
+        "displayName": "How Terraform creates infra at scale (bytebytego)",
+        "tags": [
+          "Terraform",
+          "Infrastructure"
+        ]
+      },
+      {
+        "file": "How to Deploy Service.jpg",
+        "displayName": "How to Deploy Service (bytebytego)",
+        "tags": [
+          "Deployment"
+        ]
+      },
+      {
         "file": "Life is Short, Use Dev Tools.gif",
         "displayName": "Life is Short, Use Dev Tools (bytebytego)",
         "tags": [
           "DevOps",
           "Tools"
+        ]
+      },
+      {
+        "file": "Logging Tracing Metrics.jpg",
+        "displayName": "Logging Tracing Metrics (bytebytego)",
+        "tags": [
+          "Logging",
+          "Tracing",
+          "Metrics"
         ]
       },
       {
@@ -1218,6 +1445,14 @@
         "displayName": "Top 6 ElasticSearch Use Cases (bytebytego)",
         "tags": [
           "ElasticSearch"
+        ]
+      },
+      {
+        "file": "Top DevOps Tools.gif",
+        "displayName": "Top DevOps Tools",
+        "tags": [
+          "DevOps",
+          "Tools"
         ]
       },
       {
@@ -1418,6 +1653,13 @@
         ]
       },
       {
+        "file": "10 Data Structures Used in Daily Life.gif",
+        "displayName": "10 Data Structures Used in Daily Life",
+        "tags": [
+          "Data Structures"
+        ]
+      },
+      {
         "file": "10 Good Coding Principles.gif",
         "displayName": "10 Good Coding Principles (bytebytego)",
         "tags": [
@@ -1433,6 +1675,13 @@
         "displayName": "12 Simple Clean Code Tips",
         "tags": [
           "Clean Code"
+        ]
+      },
+      {
+        "file": "9 Algorithms That Dominate Our World.gif",
+        "displayName": "9 Algorithms That Dominate Our World (bytebytego)",
+        "tags": [
+          "Algorithms"
         ]
       },
       {
@@ -1504,6 +1753,14 @@
         "displayName": "How Computer Programs Run",
         "tags": [
           "Computer Programs"
+        ]
+      },
+      {
+        "file": "How Java Virtual Threads Work.gif",
+        "displayName": "How Java Virtual Threads Work (bytebytego)",
+        "tags": [
+          "Java",
+          "Virtual Thread"
         ]
       },
       {
@@ -1609,6 +1866,14 @@
         ]
       },
       {
+        "file": "Java Stream Operations.jpg",
+        "displayName": "Java Stream Operations",
+        "tags": [
+          "Java",
+          "Stream Operations"
+        ]
+      },
+      {
         "file": "Java Stream.png",
         "displayName": "Java Stream",
         "tags": [
@@ -1633,6 +1898,21 @@
           "Program",
           "Process",
           "Thread"
+        ]
+      },
+      {
+        "file": "Python Roadmap.gif",
+        "displayName": "Python Roadmap",
+        "tags": [
+          "Python Roadmap"
+        ]
+      },
+      {
+        "file": "Spring Boot Annotations Overview.gif",
+        "displayName": "Spring Boot Annotations Overview",
+        "tags": [
+          "Spring Boot",
+          "Annotations"
         ]
       },
       {
@@ -1729,6 +2009,14 @@
         ]
       },
       {
+        "file": "Deploying Microservices on K8S Platform.gif",
+        "displayName": "Deploying Microservices on K8S Platform",
+        "tags": [
+          "K8S",
+          "Kubernetes"
+        ]
+      },
+      {
         "file": "Docker vs Container vs Podman.jpg",
         "displayName": "Docker vs Container vs Podman",
         "tags": [
@@ -1740,11 +2028,26 @@
         ]
       },
       {
+        "file": "Docker.jpg",
+        "displayName": "Docker",
+        "tags": [
+          "Docker"
+        ]
+      },
+      {
         "file": "How Docker Commands Work.gif",
         "displayName": "How Docker Commands Work",
         "tags": [
           "Docker",
           "Commands"
+        ]
+      },
+      {
+        "file": "How Kubernetes Works.gif",
+        "displayName": "How Kubernetes Works (bytebytego)",
+        "tags": [
+          "K8S",
+          "Kubernetes"
         ]
       },
       {
@@ -1925,6 +2228,13 @@
         ]
       },
       {
+        "file": "A Cheatsheet on Comparing KeyValue Stores.gif",
+        "displayName": "A Cheatsheet on Comparing KeyValue Stores",
+        "tags": [
+          "KeyValue Stores"
+        ]
+      },
+      {
         "file": "At most once, At least once, Exactly once.png",
         "displayName": "At most once, At least once, Exactly once",
         "tags": [
@@ -1944,11 +2254,18 @@
         ]
       },
       {
+        "file": "Big Data Pipeline Cheetsheet.gif",
+        "displayName": "Big Data Pipeline Cheetsheet",
+        "tags": [
+          "Big Data",
+          "Pipeline"
+        ]
+      },
+      {
         "file": "Cheatsheet for Relatioable Database Design.gif",
         "displayName": "Cheatsheet for Relatioable Database Design (bytebytego)",
         "tags": [
-          "Cheat Sheet",
-          "Relational Database"
+          "Database Design"
         ]
       },
       {
@@ -2019,6 +2336,14 @@
         ]
       },
       {
+        "file": "ETL In Data Analytics.gif",
+        "displayName": "ETL In Data Analytics",
+        "tags": [
+          "ETL",
+          "Data Analytics"
+        ]
+      },
+      {
         "file": "ETL Process for Data Analytics.gif",
         "displayName": "ETL Process for Data Analytics",
         "tags": [
@@ -2082,6 +2407,13 @@
         ]
       },
       {
+        "file": "How to choose the right Database.jpg",
+        "displayName": "How to choose the right Database (bytebytego)",
+        "tags": [
+          "Database"
+        ]
+      },
+      {
         "file": "Inner, Left, Right, Full Join.jpg",
         "displayName": "Inner, Left, Right, Full Join",
         "tags": [
@@ -2113,10 +2445,24 @@
         "tags": []
       },
       {
+        "file": "NoSQL Database Explained.gif",
+        "displayName": "NoSQL Database Explained",
+        "tags": [
+          "NoSQL"
+        ]
+      },
+      {
         "file": "Open Data Architecture.gif",
         "displayName": "Open Data Architecture",
         "tags": [
           "Open Data Architecture"
+        ]
+      },
+      {
+        "file": "PostgreSQL is eating the Database World.jpg",
+        "displayName": "PostgreSQL is eating the Database World",
+        "tags": [
+          "PostgreSQL"
         ]
       },
       {
@@ -2131,7 +2477,7 @@
         "file": "SQL Cheatsheet.gif",
         "displayName": "SQL Cheatsheet",
         "tags": [
-          "SQL Cheatsheet"
+          "SQL"
         ]
       },
       {
@@ -2203,6 +2549,14 @@
         ]
       },
       {
+        "file": "Stripe 99 DB Uptime.gif",
+        "displayName": "Stripe 99 DB Uptime",
+        "tags": [
+          "Database",
+          "UpTime"
+        ]
+      },
+      {
         "file": "Top 10 Types of Databases.gif",
         "displayName": "Top 10 Types of Databases",
         "tags": [
@@ -2233,6 +2587,15 @@
         "tags": [
           "Data",
           "Structure"
+        ]
+      },
+      {
+        "file": "Types of Databases (bytebytego).jpg",
+        "displayName": "Types of Databases (bytebytego)",
+        "tags": [
+          "Type",
+          "Databases",
+          "Comparison"
         ]
       },
       {
@@ -2280,6 +2643,14 @@
           "Relational",
           "NOSQL",
           "In-Memory"
+        ]
+      },
+      {
+        "file": "Why Scaling Writes is Hard with Replicas.jpg",
+        "displayName": "Why Scaling Writes is Hard with Replicas",
+        "tags": [
+          "Scaling",
+          "Replicas"
         ]
       },
       {
@@ -2519,11 +2890,16 @@
     "references": [
       {
         "file": "Frontend Performance Cheatsheet.gif",
-        "displayName": "Frontend Performance Cheatsheet (bytebytego)",
+        "displayName": "Frontend Performance Cheatsheet",
         "tags": [
-          "Frontend",
-          "Performance",
-          "CheatSheet"
+          "Frontend Performance"
+        ]
+      },
+      {
+        "file": "What happens when you type google dot com in your browser.jpg",
+        "displayName": "What happens when you type google dot com in your browser (bytebytego)",
+        "tags": [
+          "Browser"
         ]
       }
     ]
@@ -2645,6 +3021,22 @@
         ]
       },
       {
+        "file": "Top 6 Kafka Use Cases.gif",
+        "displayName": "Top 6 Kafka Use Cases",
+        "tags": [
+          "Kafka",
+          "Flow",
+          "Messaging"
+        ]
+      },
+      {
+        "file": "Type of Message Broker Queues.gif",
+        "displayName": "Type of Message Broker Queues",
+        "tags": [
+          "Message Broker Queues"
+        ]
+      },
+      {
         "file": "Why is Kafka fast.jpg",
         "displayName": "Why is Kafka fast? (bytebytego)",
         "tags": [
@@ -2659,6 +3051,14 @@
     "topic": "network",
     "displayName": "Network",
     "references": [
+      {
+        "file": "7 Layers of the OSI Model (rocky).gif",
+        "displayName": "7 Layers of the OSI Model",
+        "tags": [
+          "7 Layers",
+          "OSI Model"
+        ]
+      },
       {
         "file": "7 Layers of the OSI Model.gif",
         "displayName": "7 Layers of the OSI Model",
@@ -2701,6 +3101,22 @@
           "Reverse",
           "Proxy",
           "Comparison"
+        ]
+      },
+      {
+        "file": "HTTP Evolution.gif",
+        "displayName": "HTTP Evolution (bytebytego)",
+        "tags": [
+          "HTTP",
+          "Evolution"
+        ]
+      },
+      {
+        "file": "How DNS works.gif",
+        "displayName": "How DNS works",
+        "tags": [
+          "DNS",
+          "Route 53"
         ]
       },
       {
@@ -2789,6 +3205,13 @@
         ]
       },
       {
+        "file": "Load Balancer Realistic Use Cases.jpg",
+        "displayName": "Load Balancer Realistic Use Cases",
+        "tags": [
+          "Load Balancer"
+        ]
+      },
+      {
         "file": "Load Balancer vs API Gateway.png",
         "displayName": "Load Balancer vs API Gateway (bytebytego)",
         "tags": [
@@ -2858,6 +3281,15 @@
         ]
       },
       {
+        "file": "Short Long polling SSE WebSocket.jpg",
+        "displayName": "Short Long polling SSE WebSocket (bytebytego)",
+        "tags": [
+          "Short Long polling",
+          "SSE",
+          "WebSocket"
+        ]
+      },
+      {
         "file": "The Working of Firewall Explained.gif",
         "displayName": "The Working of Firewall Explained",
         "tags": [
@@ -2907,6 +3339,14 @@
           "Comparison",
           "Layer",
           "Network"
+        ]
+      },
+      {
+        "file": "Why CDNs are so popular.jpg",
+        "displayName": "Why CDNs are so popular (bytebytego)",
+        "tags": [
+          "CDNs",
+          "Content Delivery Networks"
         ]
       },
       {
@@ -3023,6 +3463,16 @@
         ]
       },
       {
+        "file": "SQS SNS EventBridge Kinesis.gif",
+        "displayName": "SQS SNS EventBridge Kinesis (bytebytego)",
+        "tags": [
+          "SQS",
+          "SNS",
+          "EventBridge",
+          "Kinesis"
+        ]
+      },
+      {
         "file": "Vertical partitioning vs Horizontal partitioning.png",
         "displayName": "Vertical partitioning vs Horizontal partitioning",
         "tags": [
@@ -3056,6 +3506,13 @@
           "Gateway",
           "Error Handling",
           "Validation"
+        ]
+      },
+      {
+        "file": "A Cheatsheet to Build Secure APIs.gif",
+        "displayName": "A Cheatsheet to Build Secure APIs",
+        "tags": [
+          "Secure APIs"
         ]
       },
       {
@@ -3119,6 +3576,13 @@
           "Token",
           "Flow",
           "SAML"
+        ]
+      },
+      {
+        "file": "How does Google Authenticator Work.jpg",
+        "displayName": "How does Google Authenticator Work (bytebytego)",
+        "tags": [
+          "Google Authenticator"
         ]
       },
       {
@@ -3193,6 +3657,29 @@
         ]
       },
       {
+        "file": "Roadmap for Learning Cyber Security.jpg",
+        "displayName": "Roadmap for Learning Cyber Security",
+        "tags": [
+          "Roadmap",
+          "Cyber Security"
+        ]
+      },
+      {
+        "file": "Session, Cookie, JWT, Token, SSO, OAuth2 (animated).gif",
+        "displayName": "Session, Cookie, JWT, Token, SSO, OAuth2 (bytebytego)",
+        "tags": [
+          "Session",
+          "Cookie",
+          "JWT",
+          "Token",
+          "SSO",
+          "OAuth2",
+          "Flow",
+          "Comparison",
+          "Security"
+        ]
+      },
+      {
         "file": "Session, Cookie, JWT, Token, SSO, OAuth2.jpg",
         "displayName": "Session, Cookie, JWT, Token, SSO, OAuth2 (bytebytego)",
         "tags": [
@@ -3245,6 +3732,13 @@
         ]
       },
       {
+        "file": "Top 4 Most Used Authentication Mechanisms.jpg",
+        "displayName": "Top 4 Most Used Authentication Mechanisms (bytebytego)",
+        "tags": [
+          "Authentication"
+        ]
+      },
+      {
         "file": "XROSS Site Scripting.JPG",
         "displayName": "XROSS Site Scripting (bytebytego)",
         "tags": [
@@ -3272,6 +3766,13 @@
           "Job",
           "Interview",
           "CheatSheet"
+        ]
+      },
+      {
+        "file": "18 Skills for Software Developer.gif",
+        "displayName": "18 Skills for Software Developer",
+        "tags": [
+          "Software Developer Skills"
         ]
       },
       {
@@ -3358,6 +3859,14 @@
         "tags": [
           "Roadmap",
           "DevOps"
+        ]
+      },
+      {
+        "file": "Software Development Life Cycle.gif",
+        "displayName": "Software Development Life Cycle (bytebytego)",
+        "tags": [
+          "Software Development Life Cycle",
+          "SDLC"
         ]
       },
       {
@@ -3493,8 +4002,7 @@
         "file": "Cron Cheatsheet.jpg",
         "displayName": "Cron Cheatsheet",
         "tags": [
-          "Cron",
-          "CheatSheet"
+          "Cron Cheatsheet"
         ]
       },
       {
@@ -3520,6 +4028,14 @@
         "tags": [
           "Linux",
           "Boot Process"
+        ]
+      },
+      {
+        "file": "Linux Distributions.gif",
+        "displayName": "Linux Distributions",
+        "tags": [
+          "Linux",
+          "Distributions"
         ]
       },
       {
@@ -3626,8 +4142,8 @@
     "displayName": "UI and UX",
     "references": [
       {
-        "file": "Frontend Performance Cheatsheet.gif",
-        "displayName": "Frontend Performance Cheatsheet (bytebytego)",
+        "file": "Frontend Performance CheatSheet.gif",
+        "displayName": "Frontend Performance CheatSheet (bytebytego)",
         "tags": [
           "Frontend",
           "Performance",
@@ -3640,6 +4156,13 @@
     "topic": "use-case",
     "displayName": "Use Cases",
     "references": [
+      {
+        "file": "20 Popular Open Source Projects by Big Tech.gif",
+        "displayName": "20 Popular Open Source Projects by Big Tech (bytebytego)",
+        "tags": [
+          "Open Source"
+        ]
+      },
       {
         "file": "AWS Healthcare analytics reference architecture.gif",
         "displayName": "AWS Healthcare analytics reference architecture",
@@ -3697,6 +4220,13 @@
         ]
       },
       {
+        "file": "Deepseek 1-Pager.jpg",
+        "displayName": "Deepseek 1-Pager (bytebytego)",
+        "tags": [
+          "Deepseek"
+        ]
+      },
+      {
         "file": "Facebook System Design.gif",
         "displayName": "Facebook System Design",
         "tags": [
@@ -3735,6 +4265,24 @@
           "Flow",
           "Notification",
           "Slack"
+        ]
+      },
+      {
+        "file": "How UPI works (rocky).gif",
+        "displayName": "How UPI works",
+        "tags": [
+          "UPI",
+          "Design",
+          "Flow"
+        ]
+      },
+      {
+        "file": "How UPI works.gif",
+        "displayName": "How UPI works",
+        "tags": [
+          "UPI",
+          "Design",
+          "Flow"
         ]
       },
       {
@@ -3800,6 +4348,16 @@
           "YouTube",
           "Video",
           "Upload"
+        ]
+      },
+      {
+        "file": "How to Design a System Like Instagram.gif",
+        "displayName": "How to Design a System Like Instagram (bytebytego)",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Flow",
+          "Instagram"
         ]
       },
       {
@@ -3960,10 +4518,26 @@
         ]
       },
       {
+        "file": "What is the MCP by Anthropic.gif",
+        "displayName": "What is the MCP by Anthropic (bytebytego)",
+        "tags": [
+          "MCP",
+          "Anthropic"
+        ]
+      },
+      {
         "file": "Whatsapp Architecture.gif",
         "displayName": "Whatsapp Architecture",
         "tags": [
           "Whatsapp",
+          "Architecture"
+        ]
+      },
+      {
+        "file": "YouTube System Design.gif",
+        "displayName": "YouTube System Design",
+        "tags": [
+          "YouTube",
           "Architecture"
         ]
       }
