@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const timezoneSelect = document.getElementById("timezoneSelect");
   const timezoneTimeInput = document.getElementById("timezoneTime");
   const nowButton = document.getElementById("nowButton");
+  const nextHalfHourButton = document.getElementById("nextHalfHourButton");
 
   function isNumeric(value) {
     return !isNaN(value) && !isNaN(parseFloat(value));
@@ -20,8 +21,26 @@ document.addEventListener("DOMContentLoaded", () => {
     updateTimeDisplays(now);    
   }
 
+  function setNextHalfHour() {
+    let now = DateTime.now().setZone(DateTime.local().zoneName);
+    let minutes = now.minute;
+    let next;
+  
+    if (minutes < 30) {
+      next = now.set({ minute: 30, second: 0, millisecond: 0 });
+    } else {
+      next = now.plus({ hours: 1 }).set({ minute: 0, second: 0, millisecond: 0 });
+    }
+  
+    const nextISO = next.toISO();
+    flexibleInput.value = nextISO;
+    updateTimeDisplays(nextISO);
+  }  
+
   const acceptedFormats = [
     "yyyy-MM-dd'T'HH:mm:ss.SSSZZ",   // 2024-09-28T20:08:49.000+10:00
+    "yyyy-MM-dd'T'HH:mm:ssZZ",       // 2024-09-28T20:08:49+10:00
+    "yyyy-MM-dd'T'HH:mmZZ",          // 2024-09-28T20:08+10:00
     "yyyy-MM-dd HH:mm:ss.SSSZZ",     // 2024-09-28 20:08:49.000+10:00
     "yyyy-MM-dd HH:mm:ssZZ",         // 2024-09-28 20:08:49+10:00
     "yyyy-MM-dd HH:mmZZ",            // 2024-09-28 20:08+10:00
@@ -110,6 +129,15 @@ document.addEventListener("DOMContentLoaded", () => {
     setNow();
     setTimeout(() => {
         nowButton.style.backgroundColor = bgColor; 
+    }, 100);
+  });
+
+  nextHalfHourButton.addEventListener("click", () => {
+    const bgColor = nextHalfHourButton.style.backgroundColor;
+    nextHalfHourButton.style.backgroundColor = 'red'; 
+    setNextHalfHour();
+    setTimeout(() => {
+      nextHalfHourButton.style.backgroundColor = bgColor; 
     }, 100);
   });
 

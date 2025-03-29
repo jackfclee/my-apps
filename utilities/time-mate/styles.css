@@ -1,7 +1,7 @@
 body, html {
   padding:0;
   margin:0;
-  zoom:.9;
+  zoom:1;
   font-family: "Roboto", "sans-serif";
 }
 *[title] {
@@ -18,27 +18,27 @@ select.timezones {
   border-radius: 5px;
   box-sizing: border-box;
   display: inline-block;
-  font-size: 16px;
+  font-size: 20px;
   height: 100%;
   padding: 0 7px;
-  width: 200px;
-  background-color: lightgoldenrodyellow;
+  width: 280px;
+  background-color: white;
 }
 @media only screen and (min-width: 555px) {
   .timezones {
-    width: 250px;
+    width: 350px;
   }
 }
 .section {
   position: relative;
-  margin: 5px 10px 5px 10px;
+  margin: 10px 10px 10px 10px;
 }
 img.content_copy {
   vertical-align: middle;
   zoom:.9;
 }
 input[type=text] {
-  width: 350px;
+  width: 450px;
   padding: 12px 0px 12px 20px;
   margin: 0;
   border: 2px solid #ccc;
@@ -49,7 +49,7 @@ input[type=text] {
   background-position: 10px 10px;
   background-repeat: no-repeat;
   padding-left: 40px;
-  font-size: 16px;
+  font-size: 20px;
   display: inline-block;
   clear: both;
   height: 46px;
@@ -76,7 +76,7 @@ input[type=text].src {
   background-image: url('https://fonts.gstatic.com/s/i/materialicons/access_time/v1/24px.svg');
   color: #000;
   padding-left: 60px;
-  width: 555px;
+  width: 450px;
 }
 .btn.copy {
   border: 2px solid #ccc;
@@ -88,19 +88,31 @@ input[type=text].src {
   z-index: 1;
   left: 0;
   width: 50px;
-  background-color: lightgoldenrodyellow;
+  background-color: yellow;
 }
 .btn.now {
   border: 2px solid #ccc;
-  border-radius: 0px 5px 5px 0px;
+  border-radius: 5px 5px 5px 5px;
   box-sizing: border-box;
   height: 46px;
   margin: 100;
   position: absolute;
   z-index: 1;
-  left: 505px;
-  width: 50px;
-  background-color: lightgoldenrodyellow;
+  left: 455px;
+  width: 80px;
+  background-color: yellow;
+}
+.btn.nextHalfHour {
+  border: 2px solid #ccc;
+  border-radius: 5px 5px 5px 5px;
+  box-sizing: border-box;
+  height: 46px;
+  margin: 100;
+  position: absolute;
+  z-index: 1;
+  left: 540px;
+  width: 145px;
+  background-color: yellow;
 }
 button {
   cursor: pointer;
@@ -114,5 +126,5 @@ label {
   display: inline-block;
   opacity: 80%;
   margin-left: 10px;
-  font-size: 16px;
+  font-size: 20px;
 }
