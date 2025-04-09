@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (index !== -1) {
             selectedItems.splice(index, 1);
             listItem.classList.remove('selected');
-        } else if (selectedItems.length < 8) {
+        } else if (selectedItems.length <= 20) {
             selectedItems.push(listItem);
             listItem.classList.add('selected');
         } else {
