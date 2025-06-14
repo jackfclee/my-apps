@@ -144,7 +144,7 @@ html {
   font-size: 10px;
 }
 #resultTable {
-  margin: 0px 0 0px 0;
+  margin: 0px 0px 0px 0px;
 }
 table.table-striped td {
   padding: 3px 8px 3px 8px;
@@ -159,6 +159,10 @@ table.table-striped td {
 }
 .bg-primary {
   background-color: rgb(33, 133, 33) !important;
+}
+.jumbotron {
+  margin-bottom: 0;
+  padding: 1.5rem 2rem;
 }
 </style>
 </head>
@@ -191,12 +195,16 @@ table.table-striped td {
               <input type="button" class="btn btn-secondary" onclick="javascript: filter('情色')" value="情色"/>
               <input type="button" class="btn btn-secondary" onclick="javascript: filter('指南')" value="指南"/>
               <input type="button" class="btn btn-secondary" onclick="javascript: filter('電視')" value="電視"/>
-              <input type="button" class="btn btn-primary" onclick="location.href='https://faichun.github.io/myapps/';" value="主頁" />
             </th>
           </tr>
           <tr>
             <th colspan="6">
-              <input id="titleFilterInput" type="text" class="form-control mr-sm-2" onkeyup="javascript: getTitle();" placeholder="Search for titles.."/>
+              <input id="titleFilterInput" type="text" 
+                    class="form-control mr-sm-2"
+                    oninput="getTitle()"
+                    oncompositionstart="isComposing = true"
+                    oncompositionend="isComposing = false; getTitle();"
+                    placeholder="Search for titles.." />              
             </th>
           </tr>
         </table>
