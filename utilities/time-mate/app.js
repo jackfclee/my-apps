@@ -54,6 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "MMM d yyyy, h:mm:ss",           // Aug 31 2024, 20:24:46
     "MMM d yyyy, h:mm",              // Aug 31 2024, 20:25
     "MMM d yyyy, h",                 // Aug 31 2024, 20
+    "MMM d, yyyy h:mma",             // Aug 31, 2024 02:40PM
     "yyyy-MM-dd HH:mm z",            // 2024-09-28 21:10 PDT
     "yyyy-MM-dd HH:mm:ss z",         // 2024-09-28 21:10:00 PDT
     "d LLL yyyy HH:mm z",            // 07 Oct 2024 21:10 PDT
