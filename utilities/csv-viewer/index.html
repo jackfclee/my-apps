@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CSV Viewer</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    textarea { width: 100%; height: 150px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th.sortable:hover { cursor: pointer; background-color: #f0f0f0; }
+    .controls { margin-bottom: 20px; }
+    .control-row { display: flex; align-items: center; gap: 15px; flex-wrap: wrap; margin-top: 15px; }
+    .control-group {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background-color: #f7f7f7;
+      padding: 10px 15px;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+    }
+    button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      padding: 11px 15px; /* Adjusted padding to vertically align with other controls */
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background-color 0.2s;
+    }
+    button:hover { background-color: #0056b3; }
+    .button-group {
+      margin-left: auto; /* Pushes the button group to the right */
+      display: flex;
+      gap: 10px; /* Adds space between buttons */
+    }
+    #resetSortBtn {
+      background-color: #6c757d; /* A secondary/gray color */
+      display: none; /* Hidden by default */
+    }
+    #resetSortBtn:hover { background-color: #5a6268; }
+    /* #renderBtn no longer needs specific margin rules */
+
+    /* Sort indicator styles */
+    th.sortable::after {
+      content: '';
+      display: inline-block;
+      width: 1em; /* Reserve space to prevent layout shift */
+      margin-left: 5px;
+      text-align: left;
+    }
+    th.sort-asc::after { content: '▲'; }
+    th.sort-desc::after { content: '▼'; }
+
+    /* Ascending sort colors (Green) */
+    th.sort-primary.sort-asc::after {
+      color: #28a745; /* Green for primary sort */
+    }
+    th.sort-secondary.sort-asc::after {
+      color: #90ee90; /* Light Green for secondary sort */
+    }
+    /* Descending sort colors (Red) */
+    th.sort-primary.sort-desc::after {
+      color: #dc3545; /* Red for primary sort */
+    }
+    th.sort-secondary.sort-desc::after {
+      color: #f5c6cb; /* Light Red for secondary sort */
+    }
+  </style>
+</head>
+<body>
+  <div class="controls">
+    <textarea id="csvText" placeholder="Input your CSV here..."></textarea>
+    <div class="control-row">
+      <div class="control-group">
+        <label>Delimiter:</label>
+        <label><input type="checkbox" id="comma" checked /> Comma (,)</label>
+        <label><input type="checkbox" id="tab" /> Tab</label>
+        <label><input type="checkbox" id="space" /> Space</label>
+      </div>
+      <div class="control-group">
+        <label><input type="checkbox" id="hasHeader" checked /> Has Header</label>
+      </div>
+      <div class="control-group">
+        <label for="skipLines">Skip Header Lines:</label>
+        <input type="number" id="skipLines" min="0" value="0" />
+      </div>
+      <div class="button-group">
+        <button id="resetSortBtn">Reset Sort</button>
+        <button id="renderBtn">Render Table</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="tableContainer"></div>
+
+  <script>
+    let sortState = [];
+    let originalRowElements = [];
+
+    function parseCSV(text, delimiters, skipLines) {
+      const rows = text.split(/\r?\n/).slice(skipLines);
+      const delimiterRegex = new RegExp(`[${delimiters.join('')}]`);
+      return rows.map(row => row.trim()).filter(row => row)
+        .map(row => row.split(delimiterRegex));
+    }
+
+    function renderTable() {
+      const text = document.getElementById("csvText").value;
+      const skipLinesInput = document.getElementById("skipLines");
+      // Default to 0 if input is empty, non-numeric, or negative.
+      const skipLines = Math.max(0, parseInt(skipLinesInput.value, 10) || 0);
+      skipLinesInput.value = skipLines; // Sync UI with the value being used
+
+      const delimiters = [];
+      if (document.getElementById("comma").checked) delimiters.push(",");
+      if (document.getElementById("tab").checked) delimiters.push("\t");
+      if (document.getElementById("space").checked) delimiters.push(" ");
+      const hasHeader = document.getElementById("hasHeader").checked;
+
+      const data = parseCSV(text, delimiters, skipLines);
+      if (data.length === 0) return;
+
+      const container = document.getElementById("tableContainer");
+      const table = document.createElement("table");
+      const thead = document.createElement("thead");
+      const tbody = document.createElement("tbody");
+
+      let headerData;
+      let bodyData;
+
+      if (hasHeader && data.length > 0) {
+        headerData = data[0];
+        bodyData = data.slice(1);
+      } else {
+        const numCols = data.length > 0 ? data[0].length : 0;
+        headerData = Array.from({ length: numCols }, (_, i) => `col${i + 1}`);
+        bodyData = data;
+      }
+
+      const headerRow = document.createElement("tr");
+      headerData.forEach((cell, i) => {
+        const th = document.createElement("th");
+        th.className = "sortable";
+        th.textContent = cell;
+        th.dataset.colIndex = i;
+        th.onclick = () => handleSort(i);
+        headerRow.appendChild(th);
+      });
+      thead.appendChild(headerRow);
+
+      originalRowElements = []; // Clear previous state
+      bodyData.forEach(row => {
+        const tr = document.createElement("tr");
+        row.forEach(cell => {
+          const td = document.createElement("td");
+          td.textContent = cell;
+          tr.appendChild(td);
+        });
+        tbody.appendChild(tr);
+        originalRowElements.push(tr.cloneNode(true)); // Store a clone of the original row
+      });
+
+      table.appendChild(thead);
+      table.appendChild(tbody);
+      container.innerHTML = "";
+      container.appendChild(table);
+
+      sortState = [];
+      document.getElementById('resetSortBtn').style.display = 'none';
+    }
+
+    function handleSort(colIndex) {
+      const table = document.querySelector("#tableContainer table");
+      const rows = Array.from(table.rows).slice(1);
+
+      if (!sortState.some(s => s.col === colIndex)) {
+        sortState = [...sortState.slice(-1), { col: colIndex, asc: true }];
+      } else {
+        sortState = sortState.map(s =>
+          s.col === colIndex ? { ...s, asc: !s.asc } : s
+        );
+      }
+
+      rows.sort((a, b) => {
+        for (let sort of sortState.slice().reverse()) {
+          const aText = a.cells[sort.col]?.textContent || "";
+          const bText = b.cells[sort.col]?.textContent || "";
+          const cmp = aText.localeCompare(bText, undefined, { numeric: true });
+          if (cmp !== 0) return sort.asc ? cmp : -cmp;
+        }
+        return 0;
+      });
+
+      const tbody = table.querySelector("tbody");
+      tbody.innerHTML = "";
+      rows.forEach(row => tbody.appendChild(row));
+
+      updateSortIndicators();
+      document.getElementById('resetSortBtn').style.display = 'inline-block';
+    }
+
+    function resetSort() {
+      const table = document.querySelector("#tableContainer table");
+      if (!table) return;
+
+      const tbody = table.querySelector("tbody");
+      tbody.innerHTML = "";
+      originalRowElements.forEach(tr => {
+        tbody.appendChild(tr.cloneNode(true));
+      });
+
+      sortState = [];
+      updateSortIndicators();
+      document.getElementById('resetSortBtn').style.display = 'none';
+    }
+
+    function updateSortIndicators() {
+      const headers = document.querySelectorAll("#tableContainer th");
+      // First, reset all indicators
+      headers.forEach(th => {
+        th.classList.remove('sort-asc', 'sort-desc', 'sort-primary', 'sort-secondary');
+      });
+
+      if (sortState.length === 0) return;
+
+      // The last sort state is primary
+      const primarySort = sortState[sortState.length - 1];
+      const primaryTh = document.querySelector(`th[data-col-index="${primarySort.col}"]`);
+      if (primaryTh) {
+        primaryTh.classList.add('sort-primary', primarySort.asc ? 'sort-asc' : 'sort-desc');
+      }
+
+      // The one before last is secondary
+      if (sortState.length > 1) {
+        const secondarySort = sortState[sortState.length - 2];
+        const secondaryTh = document.querySelector(`th[data-col-index="${secondarySort.col}"]`);
+        if (secondaryTh) {
+          secondaryTh.classList.add('sort-secondary', secondarySort.asc ? 'sort-asc' : 'sort-desc');
+        }
+      }
+    }
+
+    document.getElementById('renderBtn').addEventListener('click', renderTable);
+    document.getElementById('resetSortBtn').addEventListener('click', resetSort);
+
+    // Add an event listener to sanitize the skipLines input on blur (when user clicks away)
+    document.getElementById('skipLines').addEventListener('blur', (event) => {
+      const input = event.target;
+      // If the input is empty, non-numeric, or negative, reset it to 0.
+      input.value = Math.max(0, parseInt(input.value, 10) || 0);
+    });
+  </script>
+</body>
+</html>
