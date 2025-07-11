@@ -82,7 +82,7 @@
         <label><input type="checkbox" id="space" /> Space</label>
       </div>
       <div class="control-group">
-        <label><input type="checkbox" id="hasHeader" checked /> Has Header</label>
+        <label><input type="checkbox" id="hasHeader" /> Has Header</label>
       </div>
       <div class="control-group">
         <label for="skipLines">Skip Header Lines:</label>
@@ -122,9 +122,16 @@
       const hasHeader = document.getElementById("hasHeader").checked;
 
       const data = parseCSV(text, delimiters, skipLines);
-      if (data.length === 0) return;
-
       const container = document.getElementById("tableContainer");
+
+      if (data.length === 0) {
+        container.innerHTML = ""; // Clear previous table if no data
+        return;
+      }
+
+      // Find the maximum number of columns in the dataset to handle jagged CSVs
+      const maxCols = data.reduce((max, row) => Math.max(max, row.length), 0);
+
       const table = document.createElement("table");
       const thead = document.createElement("thead");
       const tbody = document.createElement("tbody");
@@ -133,19 +140,23 @@
       let bodyData;
 
       if (hasHeader && data.length > 0) {
-        headerData = data[0];
+        headerData = [...data[0]]; // Copy first row as header
         bodyData = data.slice(1);
       } else {
-        const numCols = data.length > 0 ? data[0].length : 0;
-        headerData = Array.from({ length: numCols }, (_, i) => `col${i + 1}`);
+        headerData = Array.from({ length: maxCols }, (_, i) => `col$${i + 1}`);
         bodyData = data;
+      }
+
+      // Pad header to match the maximum number of columns
+      while (headerData.length < maxCols) {
+        headerData.push('');
       }
 
       const headerRow = document.createElement("tr");
       headerData.forEach((cell, i) => {
         const th = document.createElement("th");
         th.className = "sortable";
-        th.textContent = cell;
+        th.textContent = cell || '';
         th.dataset.colIndex = i;
         th.onclick = () => handleSort(i);
         headerRow.appendChild(th);
@@ -155,11 +166,11 @@
       originalRowElements = []; // Clear previous state
       bodyData.forEach(row => {
         const tr = document.createElement("tr");
-        row.forEach(cell => {
+        for (let i = 0; i < maxCols; i++) {
           const td = document.createElement("td");
-          td.textContent = cell;
+          td.textContent = row[i] || ''; // Use cell content or empty string if cell doesn't exist
           tr.appendChild(td);
-        });
+        }
         tbody.appendChild(tr);
         originalRowElements.push(tr.cloneNode(true)); // Store a clone of the original row
       });
