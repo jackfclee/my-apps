@@ -3,6 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
+  <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
+  <link rel="manifest" href="assets/site.webmanifest">      
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <title>CSV Viewer</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; }
@@ -108,6 +114,51 @@
         .map(row => row.split(delimiterRegex));
     }
 
+    function findAndProcessHeaderByPrefix(data, maxCols) {
+      if (data.length > 0) {
+        // Find the index of the first row that could be a header (i.e., has max columns)
+        const headerRowIndex = data.findIndex(row => row.length === maxCols);
+
+        if (headerRowIndex !== -1) {
+          const potentialHeaderRow = data[headerRowIndex];
+          const headerData = [];
+          const headerPatterns = []; // To store the full prefix string for removal
+          let prefixesFound = 0;
+
+          for (const cell of potentialHeaderRow) {
+            const match = cell.match(/^([^\s:]+):\s*/);
+            if (match) {
+              headerData.push(match[1]); // Use the captured prefix, e.g., "ID"
+              headerPatterns.push(match[0]); // Store the full matched prefix, e.g., "ID: "
+              prefixesFound++;
+            } else {
+              // Fallback for cells that don't match the prefix pattern
+              headerData.push(`col$${headerData.length + 1}`);
+              headerPatterns.push(null); // No pattern for this column
+            }
+          }
+
+          // If we found at least one cell with the "prefix:" pattern, treat it as a header.
+          if (prefixesFound > 0) {
+            // Process ALL rows to remove the prefixes from each cell.
+            const updatedBodyData = data.map(row => {
+              return row.map((cell, colIndex) => {
+                const pattern = headerPatterns[colIndex];
+                // If a pattern exists for this column and the cell starts with it, remove it.
+                if (pattern && cell && cell.startsWith(pattern)) {
+                  return cell.substring(pattern.length);
+                }
+                return cell; // Otherwise, return the cell as is.
+              });
+            });
+            return { headerData: headerData, bodyData: updatedBodyData, headerFound: true };
+          }
+        }
+      }
+      // No header found by auto-detection
+      return { headerData: null, bodyData: data, headerFound: false };
+    }
+
     function renderTable() {
       const text = document.getElementById("csvText").value;
       const skipLinesInput = document.getElementById("skipLines");
@@ -139,12 +190,20 @@
       let headerData;
       let bodyData;
 
+      // Fallback to original logic if no prefix-based header is found
       if (hasHeader && data.length > 0) {
         headerData = [...data[0]]; // Copy first row as header
         bodyData = data.slice(1);
       } else {
-        headerData = Array.from({ length: maxCols }, (_, i) => `col$${i + 1}`);
-        bodyData = data;
+        const headerDetectionResult = findAndProcessHeaderByPrefix(data, maxCols);
+
+        if (headerDetectionResult.headerFound) {
+          headerData = headerDetectionResult.headerData;
+          bodyData = headerDetectionResult.bodyData;
+        } else {
+          headerData = Array.from({ length: maxCols }, (_, i) => `col$${i + 1}`);
+          bodyData = data;
+        }
       }
 
       // Pad header to match the maximum number of columns
