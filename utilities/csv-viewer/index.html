@@ -125,17 +125,31 @@
           const headerPatterns = []; // To store the full prefix string for removal
           let prefixesFound = 0;
 
+          let colIndex = 0;
           for (const cell of potentialHeaderRow) {
             const match = cell.match(/^([^\s:]+):\s*/);
-            if (match) {
-              headerData.push(match[1]); // Use the captured prefix, e.g., "ID"
-              headerPatterns.push(match[0]); // Store the full matched prefix, e.g., "ID: "
-              prefixesFound++;
+            if (match) {        
+              let validPattern = true;
+              for (let i=0; i<data.length; i++) {
+                if (data[i][colIndex] && !data[i][colIndex].startsWith(match[0])) {
+                  validPattern = false;
+                  break;
+                }
+              }
+              if (validPattern) {
+                headerData.push(match[1]); // Use the captured prefix, e.g., "ID"
+                headerPatterns.push(match[0]); // Store the full matched prefix, e.g., "ID: "
+                prefixesFound++;
+              } else {
+                headerData.push(`col$${headerData.length + 1}`);
+                headerPatterns.push(null); // No pattern for this column
+              }
             } else {
               // Fallback for cells that don't match the prefix pattern
               headerData.push(`col$${headerData.length + 1}`);
               headerPatterns.push(null); // No pattern for this column
             }
+            colIndex++;
           }
 
           // If we found at least one cell with the "prefix:" pattern, treat it as a header.
