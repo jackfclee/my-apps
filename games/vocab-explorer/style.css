@@ -1,0 +1,5 @@
+body { font-family: sans-serif; }
+.word-card { border: 1px solid #ccc; padding: 10px; margin: 5px; }
+.grid { display: flex; flex-wrap: wrap; }
+.quiz-option { margin: 5px; padding: 10px; border: 1px solid #000; cursor: pointer; }
+.quiz-option:hover { background-color: #f0f0f0; }

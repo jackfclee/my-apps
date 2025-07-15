@@ -1,0 +1,114 @@
+{
+  "words": [
+    {
+      "word": "Acknowledge",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To admit or recognize something",
+      "example": "She acknowledged her mistake in the report.",
+      "chinese": {
+        "meaning": "承認或意識到某事",
+        "example": "她在報告中承認了自己的錯誤。"
+      }
+    },
+    {
+      "word": "Adapt",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To adjust or change",
+      "example": "The company adapted its strategy to the market.",
+      "chinese": {
+        "meaning": "調整或改變以適應",
+        "example": "公司調整了策略以適應市場。"
+      }
+    },
+    {
+      "word": "Advise",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To give suggestions or recommendations",
+      "example": "The doctor advised him to get more rest.",
+      "chinese": {
+        "meaning": "給予建議或忠告",
+        "example": "醫生建議他多休息。"
+      }
+    },
+    {
+      "word": "Affect",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To influence or change something",
+      "example": "The weather can affect your mood.",
+      "chinese": {
+        "meaning": "影響、改變",
+        "example": "天氣會影響你的心情。"
+      }
+    },
+    {
+      "word": "Agree",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To have the same opinion",
+      "example": "They agreed on the best solution.",
+      "chinese": {
+        "meaning": "同意、有相同意見",
+        "example": "他們對最佳解決方案達成一致。"
+      }
+    },
+    {
+      "word": "Aim",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To direct or point something at a target",
+      "example": "He aimed the ball at the basket.",
+      "chinese": {
+        "meaning": "瞄準、針對",
+        "example": "他把球瞄準籃框。"
+      }
+    },
+    {
+      "word": "Allow",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To let someone do something",
+      "example": "The teacher allowed extra time for the test.",
+      "chinese": {
+        "meaning": "允許、准許",
+        "example": "老師允許延長考試時間。"
+      }
+    },
+    {
+      "word": "Announce",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make something known publicly",
+      "example": "The principal announced the winners.",
+      "chinese": {
+        "meaning": "宣布、公布",
+        "example": "校長宣布了獲獎名單。"
+      }
+    },
+    {
+      "word": "Appreciate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To recognize the value of something",
+      "example": "I really appreciate your help.",
+      "chinese": {
+        "meaning": "感激、欣賞",
+        "example": "我非常感謝你的幫助。"
+      }
+    },
+    {
+      "word": "Avoid",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To keep away from something",
+      "example": "She avoided talking about the issue.",
+      "chinese": {
+        "meaning": "避免、避開",
+        "example": "她避而不談這個問題。"
+      }
+    }
+  ]
+}
