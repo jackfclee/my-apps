@@ -20,10 +20,16 @@ function startQuiz() {
   optionsDiv.innerHTML = '';
   shuffled.forEach(word => {
     const btn = document.createElement('button');
-    btn.className = 'quiz-option';
+    btn.className = 'btn btn-outline-primary col-md-2 m-1';
     btn.innerText = word;
     btn.onclick = () => {
-      btn.style.backgroundColor = (word === correct.word) ? 'lightgreen' : 'tomato';
+      if (word === correct.word) {
+        btn.classList.remove('btn-outline-primary');
+        btn.classList.add('btn-success');
+      } else {
+        btn.classList.remove('btn-outline-primary');
+        btn.classList.add('btn-danger');
+      }
     };
     optionsDiv.appendChild(btn);
   });

@@ -22,8 +22,16 @@ function renderCheatSheet() {
 
   filtered.forEach(w => {
     const card = document.createElement('div');
-    card.className = 'word-card';
-    card.innerHTML = `<strong>${w.word}</strong> (${w.type})<br>${w.meaning}<br><i>${w.chinese.meaning}</i>`;
+    card.className = 'col-md-4';
+    card.innerHTML = `
+      <div class="card h-100">
+        <div class="card-body">
+          <h5 class="card-title">${w.word} <span class="badge bg-secondary text-capitalize">${w.type}</span></h5>
+          <p class="card-text">${w.meaning}</p>
+          <p class="card-text text-muted"><em>${w.chinese.meaning}</em></p>
+        </div>
+      </div>
+    `;
     container.appendChild(card);
   });
 }
