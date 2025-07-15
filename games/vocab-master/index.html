@@ -1,37 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Vocab Explorer</title>
+  <title>Vocab Master</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="index-page">
 
-  <h1>📝 Vocab Explorer</h1>
-  <select id="typeFilter">
-    <option value="">All Types</option>
-    <option value="verb">Verb</option>
-    <option value="adjective">Adjective</option>
-    <option value="noun">Noun</option>
-  </select>
-  <select id="letterFilter">
-    <option value="">All Letters</option>
-    <!-- A–Z -->
-    <script>
-      for (let c = 65; c <= 90; c++) {
-        document.write(`<option value="${String.fromCharCode(c)}">${String.fromCharCode(c)}</option>`);
-      }
-    </script>
-  </select>
-  <input type="text" id="searchInput" placeholder="Search...">
-  <div id="cheatSheet" class="grid"></div>
+  <h1>Vocab Master</h1>
 
-  <hr>
+  <div class="button-container">
+    <a href="subpage-explorer.html" class="button explorer-button">
+      <span>Explorer</span>
+    </a>
+    <a href="subpage-challenger.html" class="button challenger-button">
+      <span>Challenger</span>
+    </a>
+  </div>
 
-  <h1>🎮 MC Gaming</h1>
-  <button onclick="startQuiz()">Start Game</button>
-  <p id="quizQuestion"></p>
-  <div id="quizOptions" class="grid"></div>
-
-  <script src="app.js"></script>
 </body>
 </html>
