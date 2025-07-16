@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9" pages="9">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9" pages="10">
   <diagram name="GCP Data &amp; AI" id="HJanQRtrsWbHDccHZ0IH">
     <mxGraphModel dx="1314" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -315,6 +315,26 @@
           <mxGeometry x="-470" y="130" width="340" height="340" as="geometry" />
         </mxCell>
         <mxCell id="xMICzyZ4MnsG3aoXWfzN-5" value="csv&lt;div&gt;viewer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=68;fontStyle=1;fillColor=none;strokeColor=none;spacing=0;" vertex="1" parent="xMICzyZ4MnsG3aoXWfzN-1">
+          <mxGeometry x="-470" y="130" width="340" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="VocabMaster" id="5yhgLUQ_gDVi0MZMt8nB">
+    <mxGraphModel dx="1906" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="600" math="0" shadow="0">
+      <root>
+        <mxCell id="_XnBQt2P09hs7-VoAZGj-0" />
+        <mxCell id="_XnBQt2P09hs7-VoAZGj-1" parent="_XnBQt2P09hs7-VoAZGj-0" />
+        <mxCell id="_XnBQt2P09hs7-VoAZGj-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" vertex="1" parent="_XnBQt2P09hs7-VoAZGj-1">
+          <mxGeometry x="-590" y="10" width="580" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="_XnBQt2P09hs7-VoAZGj-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=18;fillColor=#f8cecc;strokeColor=#b85450;gradientDirection=south;direction=south;rotation=-45;" vertex="1" parent="_XnBQt2P09hs7-VoAZGj-1">
+          <mxGeometry x="-500" y="100" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="_XnBQt2P09hs7-VoAZGj-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;gradientDirection=south;direction=south;rotation=0;strokeColor=none;" vertex="1" parent="_XnBQt2P09hs7-VoAZGj-1">
+          <mxGeometry x="-470" y="130" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="_XnBQt2P09hs7-VoAZGj-5" value="Vocab&lt;div&gt;Master&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=68;fontStyle=1;fillColor=none;strokeColor=none;spacing=0;" vertex="1" parent="_XnBQt2P09hs7-VoAZGj-1">
           <mxGeometry x="-470" y="130" width="340" height="340" as="geometry" />
         </mxCell>
       </root>
