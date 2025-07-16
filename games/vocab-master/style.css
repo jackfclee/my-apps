@@ -13,3 +13,13 @@ body {
 .quiz-option.wrong {
   background-color: #f8c0c0 !important;
 }
+
+.btn-xl {
+  font-size: 3rem;
+  padding: 2.5rem 4rem;
+  min-width: 100%;
+  min-height: 100%;
+  border-radius: 1rem;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+  touch-action: manipulation;
+}
