@@ -1,11 +1,6 @@
-let words = [];
+import { loadAllWordData } from './data-loader.js';
 
-fetch('data.json')
-  .then(res => res.json())
-  .then(data => {
-    words = data.words;
-    startQuiz();
-  });
+let words = [];
 
 function startQuiz() {
   const correct = words[Math.floor(Math.random() * words.length)];
@@ -36,3 +31,9 @@ function startQuiz() {
   });
 }
 
+loadAllWordData().then(data => {
+  words = data;
+  startQuiz();
+});
+
+document.getElementById('nextChallengeBtn').addEventListener('click', startQuiz);

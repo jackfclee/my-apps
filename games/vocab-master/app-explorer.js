@@ -1,11 +1,6 @@
-let words = [];
+import { loadAllWordData } from './data-loader.js';
 
-fetch('data.json')
-  .then(res => res.json())
-  .then(data => {
-    words = data.words;
-    renderCheatSheet();
-  });
+let words = [];
 
 function renderCheatSheet() {
   const type = document.getElementById('typeFilter').value;
@@ -35,6 +30,11 @@ function renderCheatSheet() {
     container.appendChild(card);
   });
 }
+
+loadAllWordData().then(data => {
+  words = data;
+  renderCheatSheet();
+});
 
 document.getElementById('typeFilter').addEventListener('change', renderCheatSheet);
 document.getElementById('letterFilter').addEventListener('change', renderCheatSheet);
