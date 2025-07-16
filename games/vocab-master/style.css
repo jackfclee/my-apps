@@ -20,6 +20,12 @@ body {
   min-height: 8rem;
 }
 
+@media (max-width: 576px) {
+  .vocab-option {
+    min-height: 2rem;
+  }
+}
+
 .btn-outline-secondary {
   font-size: 1.2rem;
   padding: 0.6rem 1rem;
