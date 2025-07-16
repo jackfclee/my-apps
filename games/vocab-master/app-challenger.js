@@ -4,6 +4,7 @@ fetch('data.json')
   .then(res => res.json())
   .then(data => {
     words = data.words;
+    startQuiz();
   });
 
 function startQuiz() {
@@ -20,7 +21,7 @@ function startQuiz() {
   optionsDiv.innerHTML = '';
   shuffled.forEach(word => {
     const btn = document.createElement('button');
-    btn.className = 'btn btn-outline-primary col-md-2 m-1';
+    btn.className = 'btn btn-outline-primary col-md-2 m-1 vocab-option';
     btn.innerText = word;
     btn.onclick = () => {
       if (word === correct.word) {
@@ -34,3 +35,4 @@ function startQuiz() {
     optionsDiv.appendChild(btn);
   });
 }
+
