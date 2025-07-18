@@ -1,5 +1,7 @@
 body {
   font-family: sans-serif;
+  margin-top: 0;
+  padding-bottom: 10rem;
 }
 
 .card-title {
@@ -41,8 +43,8 @@ body {
 }
 
 .back-icon-btn {
-  width: 48px;
-  height: 48px;
+  width: 38px;
+  height: 38px;
   padding: 0;
   display: flex;
   align-items: center;
@@ -63,4 +65,54 @@ body {
 .badge-sm {
   font-size: 0.85rem;
   padding: 0.3em 0.5em;
+}
+
+.navbar.sticky-top {
+  margin-top: 0;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1030;
+  padding: 0;
+}
+
+.container {
+  padding-top: 1rem;
+}
+
+.menu-control {
+  height: 38px;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  font-size: 0.95rem;
+  border: 1px solid #6c757d;
+  border-radius: 0.5rem;
+}
+
+.footer-text {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  font-size: 0.875rem;
+  font-weight: 500;
+  padding: 0.25rem 2rem 0.25rem 1rem; /* increase right padding from 1rem to 2rem */
+  border-radius: 0; /* no rounded corners for full width */
+  z-index: 1030;
+  user-select: none;
+  display: flex;
+  justify-content: flex-end; /* text aligned to right */
+  align-items: center;
+  border-top: 2px solid #198754; /* optional horizontal line */
+}
+
+.footer-green {
+  color: #fff; /* white text for contrast */
+  background-color: #198754; /* match btn-success background */
+  border-top: 2px solid #198754; /* horizontal line same color */
+}
+
+.footer-yellow {
+  color: #212529; /* dark text for contrast on yellow */
+  background-color: #ffc107; /* match btn-warning background */
+  border-top: 2px solid #ffc107; /* horizontal line same color */
 }
