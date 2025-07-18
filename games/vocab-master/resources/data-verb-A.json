@@ -109,6 +109,512 @@
         "meaning": "避免、避開",
         "example": "她避而不談這個問題。"
       }
+    },
+    {
+      "word": "Abandon",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To leave someone or something behind",
+      "example": "He abandoned the car during the storm.",
+      "chinese": {
+        "meaning": "拋棄、遺棄",
+        "example": "他在暴風雨中拋棄了汽車。"
+      }
+    },
+    {
+      "word": "Abbreviate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To shorten a word or phrase",
+      "example": "We often abbreviate 'Doctor' as 'Dr.'",
+      "chinese": {
+        "meaning": "縮寫、簡寫",
+        "example": "我們常把 Doctor 縮寫為 Dr.。"
+      }
+    },
+    {
+      "word": "Absorb",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To take in or soak up",
+      "example": "The sponge absorbed all the water.",
+      "chinese": {
+        "meaning": "吸收",
+        "example": "海綿吸收了所有的水。"
+      }
+    },
+    {
+      "word": "Accelerate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To increase speed",
+      "example": "The car accelerated rapidly on the highway.",
+      "chinese": {
+        "meaning": "加速",
+        "example": "汽車在高速公路上快速加速。"
+      }
+    },
+    {
+      "word": "Accommodate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To provide space or help",
+      "example": "The hotel can accommodate 200 guests.",
+      "chinese": {
+        "meaning": "容納、提供便利",
+        "example": "這家旅館能容納200位客人。"
+      }
+    },
+    {
+      "word": "Accompany",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To go with someone",
+      "example": "She accompanied him to the event.",
+      "chinese": {
+        "meaning": "陪伴、伴隨",
+        "example": "她陪他一起去參加活動。"
+      }
+    },
+    {
+      "word": "Accuse",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To say someone did something wrong",
+      "example": "He was accused of stealing the money.",
+      "chinese": {
+        "meaning": "指控、控告",
+        "example": "他被指控偷錢。"
+      }
+    },
+    {
+      "word": "Achieve",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To successfully complete something",
+      "example": "She achieved her goal of running a marathon.",
+      "chinese": {
+        "meaning": "達成、實現",
+        "example": "她完成了跑馬拉松的目標。"
+      }
+    },
+    {
+      "word": "Acquire",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To get or obtain something",
+      "example": "He acquired a new skill through practice.",
+      "chinese": {
+        "meaning": "獲得、取得",
+        "example": "他通過練習獲得了一項新技能。"
+      }
+    },
+    {
+      "word": "Act",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To do something",
+      "example": "They acted quickly to solve the problem.",
+      "chinese": {
+        "meaning": "行動、做事",
+        "example": "他們迅速行動解決問題。"
+      }
+    },
+    {
+      "word": "Add",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To put something with something else",
+      "example": "Add sugar to the recipe.",
+      "chinese": {
+        "meaning": "添加、加上",
+        "example": "在食譜中加入糖。"
+      }
+    },
+    {
+      "word": "Address",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To speak to or deal with a matter",
+      "example": "The manager addressed the concerns of the staff.",
+      "chinese": {
+        "meaning": "處理、對…說話",
+        "example": "經理處理了員工的關切。"
+      }
+    },
+    {
+      "word": "Adjust",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To change something slightly",
+      "example": "She adjusted the mirror to see better.",
+      "chinese": {
+        "meaning": "調整、校正",
+        "example": "她調整了鏡子以便看得更清楚。"
+      }
+    },
+    {
+      "word": "Admire",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To respect or like someone or something",
+      "example": "I admire her dedication to work.",
+      "chinese": {
+        "meaning": "欽佩、讚賞",
+        "example": "我欽佩她對工作的投入。"
+      }
+    },
+    {
+      "word": "Admit",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To confess or allow entry",
+      "example": "He admitted his mistake.",
+      "chinese": {
+        "meaning": "承認、准許進入",
+        "example": "他承認了自己的錯誤。"
+      }
+    },
+    {
+      "word": "Adopt",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To take something as your own",
+      "example": "They adopted a new policy.",
+      "chinese": {
+        "meaning": "採用、收養",
+        "example": "他們採用了新政策。"
+      }
+    },
+    {
+      "word": "Advance",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To move forward",
+      "example": "The troops advanced towards the city.",
+      "chinese": {
+        "meaning": "前進、推進",
+        "example": "部隊向城市前進。"
+      }
+    },
+    {
+      "word": "Advocate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To support or recommend",
+      "example": "She advocates for human rights.",
+      "chinese": {
+        "meaning": "擁護、主張",
+        "example": "她主張人權。"
+      }
+    },
+    {
+      "word": "Afford",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To have enough money or time",
+      "example": "I can't afford to buy a new car.",
+      "chinese": {
+        "meaning": "負擔得起",
+        "example": "我買不起新車。"
+      }
+    },
+    {
+      "word": "Alert",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To warn or notify",
+      "example": "They alerted the police about the theft.",
+      "chinese": {
+        "meaning": "警告、提醒",
+        "example": "他們向警方報告了盜竊事件。"
+      }
+    },
+    {
+      "word": "Align",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To arrange in a straight line",
+      "example": "Please align the text to the left.",
+      "chinese": {
+        "meaning": "排列、對齊",
+        "example": "請將文字左對齊。"
+      }
+    },
+    {
+      "word": "Allocate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To distribute resources",
+      "example": "The budget was allocated to different departments.",
+      "chinese": {
+        "meaning": "分配、撥出",
+        "example": "預算分配給不同部門。"
+      }
+    },
+    {
+      "word": "Alter",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To change or modify",
+      "example": "She altered the dress to fit better.",
+      "chinese": {
+        "meaning": "改變、修改",
+        "example": "她修改了裙子使其更合身。"
+      }
+    },
+    {
+      "word": "Amend",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make changes to improve",
+      "example": "They amended the contract terms.",
+      "chinese": {
+        "meaning": "修正、改進",
+        "example": "他們修正了合約條款。"
+      }
+    },
+    {
+      "word": "Analyze",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To examine carefully",
+      "example": "Scientists analyze data to find patterns.",
+      "chinese": {
+        "meaning": "分析、研究",
+        "example": "科學家分析數據以找出規律。"
+      }
+    },
+    {
+      "word": "Annoy",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To bother or irritate",
+      "example": "The noise annoyed the neighbors.",
+      "chinese": {
+        "meaning": "惹惱、打擾",
+        "example": "噪音惹惱了鄰居。"
+      }
+    },
+    {
+      "word": "Anticipate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To expect or look forward to",
+      "example": "We anticipate good results from the project.",
+      "chinese": {
+        "meaning": "預期、期望",
+        "example": "我們期望這個項目有好結果。"
+      }
+    },
+    {
+      "word": "Apologize",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To say sorry",
+      "example": "He apologized for being late.",
+      "chinese": {
+        "meaning": "道歉",
+        "example": "他為遲到道歉。"
+      }
+    },
+    {
+      "word": "Appeal",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make a serious request",
+      "example": "The charity appealed for donations.",
+      "chinese": {
+        "meaning": "呼籲、懇求",
+        "example": "慈善機構呼籲捐款。"
+      }
+    },
+    {
+      "word": "Appear",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To become visible",
+      "example": "A rainbow appeared after the rain.",
+      "chinese": {
+        "meaning": "出現、顯現",
+        "example": "雨後出現了彩虹。"
+      }
+    },
+    {
+      "word": "Apply",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make a formal request",
+      "example": "She applied for a new job.",
+      "chinese": {
+        "meaning": "申請、應用",
+        "example": "她申請了一份新工作。"
+      }
+    },
+    {
+      "word": "Appoint",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To assign a job or role",
+      "example": "He was appointed as the new manager.",
+      "chinese": {
+        "meaning": "任命、指派",
+        "example": "他被任命為新經理。"
+      }
+    },
+    {
+      "word": "Approach",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To come near",
+      "example": "The train approached the station.",
+      "chinese": {
+        "meaning": "接近、靠近",
+        "example": "火車接近車站。"
+      }
+    },
+    {
+      "word": "Approve",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To agree with or accept",
+      "example": "The board approved the new policy.",
+      "chinese": {
+        "meaning": "批准、同意",
+        "example": "董事會批准了新政策。"
+      }
+    },
+    {
+      "word": "Argue",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To disagree or debate",
+      "example": "They argued about the best plan.",
+      "chinese": {
+        "meaning": "爭論、辯論",
+        "example": "他們為最佳計劃爭論。"
+      }
+    },
+    {
+      "word": "Arise",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To happen or occur",
+      "example": "Problems arose during the meeting.",
+      "chinese": {
+        "meaning": "發生、出現",
+        "example": "會議中出現了問題。"
+      }
+    },
+    {
+      "word": "Arrange",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To organize or plan",
+      "example": "She arranged the flowers in a vase.",
+      "chinese": {
+        "meaning": "安排、整理",
+        "example": "她把花插在花瓶裡。"
+      }
+    },
+    {
+      "word": "Arrive",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To reach a place",
+      "example": "The guests arrived early.",
+      "chinese": {
+        "meaning": "到達、抵達",
+        "example": "客人提前到了。"
+      }
+    },
+    {
+      "word": "Assure",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To promise or make certain",
+      "example": "He assured her of his support.",
+      "chinese": {
+        "meaning": "保證、確保",
+        "example": "他向她保證支持。"
+      }
+    },
+    {
+      "word": "Attach",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To fasten or connect",
+      "example": "Please attach the file to the email.",
+      "chinese": {
+        "meaning": "附加、繫上",
+        "example": "請將文件附加到郵件中。"
+      }
+    },
+    {
+      "word": "Attempt",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To try to do something",
+      "example": "She attempted to climb the mountain.",
+      "chinese": {
+        "meaning": "嘗試、企圖",
+        "example": "她嘗試爬那座山。"
+      }
+    },
+    {
+      "word": "Attend",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To be present at",
+      "example": "He attended the conference last week.",
+      "chinese": {
+        "meaning": "參加、出席",
+        "example": "他上週參加了會議。"
+      }
+    },
+    {
+      "word": "Attract",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To draw attention or interest",
+      "example": "The festival attracted many visitors.",
+      "chinese": {
+        "meaning": "吸引",
+        "example": "節日吸引了很多遊客。"
+      }
+    },
+    {
+      "word": "Awaken",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To wake up",
+      "example": "The noise awakened the baby.",
+      "chinese": {
+        "meaning": "喚醒、醒來",
+        "example": "噪音把嬰兒吵醒了。"
+      }
+    },
+    {
+      "word": "Award",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To give a prize or honor",
+      "example": "She was awarded for her bravery.",
+      "chinese": {
+        "meaning": "授予、頒發",
+        "example": "她因勇敢而獲獎。"
+      }
+    },
+    {
+      "word": "Axe",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To cut down or remove",
+      "example": "The company axed several projects.",
+      "chinese": {
+        "meaning": "砍掉、取消",
+        "example": "公司取消了幾個項目。"
+      }
     }
   ]
 }
