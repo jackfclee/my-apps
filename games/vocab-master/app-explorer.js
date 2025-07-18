@@ -21,13 +21,31 @@ function renderCheatSheet() {
     card.innerHTML = `
       <div class="card h-100">
         <div class="card-body">
-          <h5 class="card-title">${w.word} <span class="badge bg-secondary text-capitalize">${w.type}</span></h5>
+          <h5 class="card-title">${w.word} <span class="badge bg-secondary text-capitalize badge-sm">${w.type}</span></h5>
           <p class="card-text">${w.meaning}</p>
           <p class="card-text text-muted"><em>${w.chinese.meaning}</em></p>
         </div>
       </div>
     `;
     container.appendChild(card);
+
+    // Modal trigger logic
+    card.addEventListener('click', () => {
+      const modalBody = document.getElementById('modalBody');
+
+      modalBody.innerHTML = `
+        <h4>${w.word} <span class="badge bg-secondary text-capitalize badge-sm">${w.type}</span></h4>
+        <hr>
+        <p><strong>Meaning:</strong> ${w.meaning}</p>
+        <p><strong>Chinese:</strong> ${w.chinese.meaning}</p>
+        <hr>
+        <p><strong>English Example:</strong> ${w.example}</p>
+        <p><strong>Chinese Example:</strong> ${w.chinese.example}</p>
+      `;
+
+      const modal = new bootstrap.Modal(document.getElementById('exampleModal'));
+      modal.show();
+    });
   });
 }
 
