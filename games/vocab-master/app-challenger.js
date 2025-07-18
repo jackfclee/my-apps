@@ -5,7 +5,7 @@ let words = [];
 function startQuiz() {
   const correct = words[Math.floor(Math.random() * words.length)];
   const options = new Set([correct.word]);
-  while (options.size < Math.min(12, words.length)) {
+  while (options.size < Math.min(10, words.length)) {
     const rand = words[Math.floor(Math.random() * words.length)];
     options.add(rand.word);
   }
