@@ -1,116 +1,6 @@
 {
   "words": [
     {
-      "word": "Acknowledge",
-      "type": "verb",
-      "letter": "A",
-      "meaning": "To admit or recognize something",
-      "example": "She acknowledged her mistake in the report.",
-      "chinese": {
-        "meaning": "承認或意識到某事",
-        "example": "她在報告中承認了自己的錯誤。"
-      }
-    },
-    {
-      "word": "Adapt",
-      "type": "verb",
-      "letter": "A",
-      "meaning": "To adjust or change",
-      "example": "The company adapted its strategy to the market.",
-      "chinese": {
-        "meaning": "調整或改變以適應",
-        "example": "公司調整了策略以適應市場。"
-      }
-    },
-    {
-      "word": "Advise",
-      "type": "verb",
-      "letter": "A",
-      "meaning": "To give suggestions or recommendations",
-      "example": "The doctor advised him to get more rest.",
-      "chinese": {
-        "meaning": "給予建議或忠告",
-        "example": "醫生建議他多休息。"
-      }
-    },
-    {
-      "word": "Affect",
-      "type": "verb",
-      "letter": "A",
-      "meaning": "To influence or change something",
-      "example": "The weather can affect your mood.",
-      "chinese": {
-        "meaning": "影響、改變",
-        "example": "天氣會影響你的心情。"
-      }
-    },
-    {
-      "word": "Agree",
-      "type": "verb",
-      "letter": "A",
-      "meaning": "To have the same opinion",
-      "example": "They agreed on the best solution.",
-      "chinese": {
-        "meaning": "同意、有相同意見",
-        "example": "他們對最佳解決方案達成一致。"
-      }
-    },
-    {
-      "word": "Aim",
-      "type": "verb",
-      "letter": "A",
-      "meaning": "To direct or point something at a target",
-      "example": "He aimed the ball at the basket.",
-      "chinese": {
-        "meaning": "瞄準、針對",
-        "example": "他把球瞄準籃框。"
-      }
-    },
-    {
-      "word": "Allow",
-      "type": "verb",
-      "letter": "A",
-      "meaning": "To let someone do something",
-      "example": "The teacher allowed extra time for the test.",
-      "chinese": {
-        "meaning": "允許、准許",
-        "example": "老師允許延長考試時間。"
-      }
-    },
-    {
-      "word": "Announce",
-      "type": "verb",
-      "letter": "A",
-      "meaning": "To make something known publicly",
-      "example": "The principal announced the winners.",
-      "chinese": {
-        "meaning": "宣布、公布",
-        "example": "校長宣布了獲獎名單。"
-      }
-    },
-    {
-      "word": "Appreciate",
-      "type": "verb",
-      "letter": "A",
-      "meaning": "To recognize the value of something",
-      "example": "I really appreciate your help.",
-      "chinese": {
-        "meaning": "感激、欣賞",
-        "example": "我非常感謝你的幫助。"
-      }
-    },
-    {
-      "word": "Avoid",
-      "type": "verb",
-      "letter": "A",
-      "meaning": "To keep away from something",
-      "example": "She avoided talking about the issue.",
-      "chinese": {
-        "meaning": "避免、避開",
-        "example": "她避而不談這個問題。"
-      }
-    },
-    {
       "word": "Abandon",
       "type": "verb",
       "letter": "A",
@@ -130,6 +20,50 @@
       "chinese": {
         "meaning": "縮寫、簡寫",
         "example": "我們常把 Doctor 縮寫為 Dr.。"
+      }
+    },
+    {
+      "word": "Abduct",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To take someone away illegally by force",
+      "example": "The child was abducted near the park.",
+      "chinese": {
+        "meaning": "綁架、誘拐",
+        "example": "那個孩子在公園附近被綁架了。"
+      }
+    },
+    {
+      "word": "Abhor",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To hate something very much",
+      "example": "He abhors cruelty to animals.",
+      "chinese": {
+        "meaning": "厭惡、憎恨",
+        "example": "他憎恨對動物的殘忍行為。"
+      }
+    },
+    {
+      "word": "Abolish",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To formally end a system or law",
+      "example": "Slavery was abolished in the 19th century.",
+      "chinese": {
+        "meaning": "廢除、取消",
+        "example": "奴隸制度在19世紀被廢除。"
+      }
+    },
+    {
+      "word": "Abscond",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To escape secretly, especially to avoid arrest",
+      "example": "The suspect absconded with the money.",
+      "chinese": {
+        "meaning": "潛逃、逃匿",
+        "example": "嫌疑人帶著錢潛逃了。"
       }
     },
     {
@@ -177,6 +111,17 @@
       }
     },
     {
+      "word": "Accumulate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To gather or collect over time",
+      "example": "He accumulated a fortune through real estate.",
+      "chinese": {
+        "meaning": "累積、積聚",
+        "example": "他靠房地產積累了財富。"
+      }
+    },
+    {
       "word": "Accuse",
       "type": "verb",
       "letter": "A",
@@ -199,6 +144,17 @@
       }
     },
     {
+      "word": "Acknowledge",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To admit or recognize something",
+      "example": "She acknowledged her mistake in the report.",
+      "chinese": {
+        "meaning": "承認或意識到某事",
+        "example": "她在報告中承認了自己的錯誤。"
+      }
+    },
+    {
       "word": "Acquire",
       "type": "verb",
       "letter": "A",
@@ -218,6 +174,17 @@
       "chinese": {
         "meaning": "行動、做事",
         "example": "他們迅速行動解決問題。"
+      }
+    },
+    {
+      "word": "Adapt",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To adjust or change",
+      "example": "The company adapted its strategy to the market.",
+      "chinese": {
+        "meaning": "調整或改變以適應",
+        "example": "公司調整了策略以適應市場。"
       }
     },
     {
@@ -298,6 +265,17 @@
       }
     },
     {
+      "word": "Advise",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To give suggestions or recommendations",
+      "example": "The doctor advised him to get more rest.",
+      "chinese": {
+        "meaning": "給予建議或忠告",
+        "example": "醫生建議他多休息。"
+      }
+    },
+    {
       "word": "Advocate",
       "type": "verb",
       "letter": "A",
@@ -309,6 +287,17 @@
       }
     },
     {
+      "word": "Affect",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To influence or change something",
+      "example": "The weather can affect your mood.",
+      "chinese": {
+        "meaning": "影響、改變",
+        "example": "天氣會影響你的心情。"
+      }
+    },
+    {
       "word": "Afford",
       "type": "verb",
       "letter": "A",
@@ -317,6 +306,28 @@
       "chinese": {
         "meaning": "負擔得起",
         "example": "我買不起新車。"
+      }
+    },
+    {
+      "word": "Agree",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To have the same opinion",
+      "example": "They agreed on the best solution.",
+      "chinese": {
+        "meaning": "同意、有相同意見",
+        "example": "他們對最佳解決方案達成一致。"
+      }
+    },
+    {
+      "word": "Aim",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To direct or point something at a target",
+      "example": "He aimed the ball at the basket.",
+      "chinese": {
+        "meaning": "瞄準、針對",
+        "example": "他把球瞄準籃框。"
       }
     },
     {
@@ -353,6 +364,17 @@
       }
     },
     {
+      "word": "Allow",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To let someone do something",
+      "example": "The teacher allowed extra time for the test.",
+      "chinese": {
+        "meaning": "允許、准許",
+        "example": "老師允許延長考試時間。"
+      }
+    },
+    {
       "word": "Alter",
       "type": "verb",
       "letter": "A",
@@ -383,6 +405,17 @@
       "chinese": {
         "meaning": "分析、研究",
         "example": "科學家分析數據以找出規律。"
+      }
+    },
+    {
+      "word": "Announce",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make something known publicly",
+      "example": "The principal announced the winners.",
+      "chinese": {
+        "meaning": "宣布、公布",
+        "example": "校長宣布了獲獎名單。"
       }
     },
     {
@@ -460,6 +493,17 @@
       "chinese": {
         "meaning": "任命、指派",
         "example": "他被任命為新經理。"
+      }
+    },
+    {
+      "word": "Appreciate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To recognize the value of something",
+      "example": "I really appreciate your help.",
+      "chinese": {
+        "meaning": "感激、欣賞",
+        "example": "我非常感謝你的幫助。"
       }
     },
     {
@@ -581,6 +625,17 @@
       "chinese": {
         "meaning": "吸引",
         "example": "節日吸引了很多遊客。"
+      }
+    },
+    {
+      "word": "Avoid",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To keep away from something",
+      "example": "She avoided talking about the issue.",
+      "chinese": {
+        "meaning": "避免、避開",
+        "example": "她避而不談這個問題。"
       }
     },
     {
