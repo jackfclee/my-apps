@@ -12,7 +12,7 @@ function renderCheatSheet() {
   const filtered = words.filter(w =>
     (!type || w.type === type) &&
     (!letter || w.letter === letter) &&
-    (w.word.toLowerCase().includes(keyword) || w.meaning.toLowerCase().includes(keyword))
+    (w.word.toLowerCase().includes(keyword))
   );
 
   filtered.forEach(w => {

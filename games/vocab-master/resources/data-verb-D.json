@@ -1,3 +1,1258 @@
 {
-    
+  "words": [
+    {
+      "word": "Debate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To discuss different opinions on a subject",
+      "example": "The students debated the impact of social media on education.",
+      "chinese": {
+        "meaning": "辯論",
+        "example": "學生們辯論了社交媒體對教育的影響。"
+      }
+    },
+    {
+      "word": "Decide",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make a choice or come to a conclusion",
+      "example": "She decided to study biology at university.",
+      "chinese": {
+        "meaning": "決定",
+        "example": "她決定在大學學習生物學。"
+      }
+    },
+    {
+      "word": "Declare",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To state something formally and clearly",
+      "example": "The president declared a state of emergency.",
+      "chinese": {
+        "meaning": "宣佈",
+        "example": "總統宣布進入緊急狀態。"
+      }
+    },
+    {
+      "word": "Decline",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To refuse or reject something",
+      "example": "He declined the invitation to the party.",
+      "chinese": {
+        "meaning": "婉拒、拒絕",
+        "example": "他婉拒了參加派對的邀請。"
+      }
+    },
+    {
+      "word": "Decorate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make something look more attractive by adding items to it",
+      "example": "They decorated the classroom for the festival.",
+      "chinese": {
+        "meaning": "裝飾",
+        "example": "他們為節日裝飾了教室。"
+      }
+    },
+    {
+      "word": "Dedicate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To devote time or effort to a particular task or purpose",
+      "example": "She dedicated her life to helping others.",
+      "chinese": {
+        "meaning": "奉獻",
+        "example": "她把自己的一生奉獻給了幫助他人。"
+      }
+    },
+    {
+      "word": "Deduce",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To reach a conclusion through reasoning",
+      "example": "From the evidence, the detective deduced who the thief was.",
+      "chinese": {
+        "meaning": "推斷",
+        "example": "根據證據，偵探推斷出小偷是誰。"
+      }
+    },
+    {
+      "word": "Defend",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To protect from harm or attack",
+      "example": "The lawyer defended her client in court.",
+      "chinese": {
+        "meaning": "辯護、防禦",
+        "example": "律師在法庭上為她的客戶辯護。"
+      }
+    },
+    {
+      "word": "Define",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To explain the meaning of a word or concept",
+      "example": "Can you define what 'justice' means in this context?",
+      "chinese": {
+        "meaning": "定義",
+        "example": "你能在這個語境中定義「正義」的意思嗎？"
+      }
+    },
+    {
+      "word": "Delay",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make something happen at a later time than planned",
+      "example": "The flight was delayed due to bad weather.",
+      "chinese": {
+        "meaning": "延遲",
+        "example": "由於天氣惡劣，航班延誤了。"
+      }
+    },
+    {
+      "word": "Deliver",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To bring or hand over something to the intended recipient",
+      "example": "The courier delivered the package on time.",
+      "chinese": {
+        "meaning": "遞送",
+        "example": "快遞員準時遞送了包裹。"
+      }
+    },
+    {
+      "word": "Demand",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To ask for something forcefully",
+      "example": "The workers demanded better working conditions.",
+      "chinese": {
+        "meaning": "要求",
+        "example": "工人們要求更好的工作條件。"
+      }
+    },
+    {
+      "word": "Demonstrate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To show or explain how something works",
+      "example": "The teacher demonstrated how to write a strong thesis statement.",
+      "chinese": {
+        "meaning": "展示、說明",
+        "example": "老師示範了如何寫出有力的論點句。"
+      }
+    },
+    {
+      "word": "Deny",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To say that something is not true",
+      "example": "He denied breaking the window.",
+      "chinese": {
+        "meaning": "否認",
+        "example": "他否認打破了窗戶。"
+      }
+    },
+    {
+      "word": "Depart",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To leave, especially to start a journey",
+      "example": "The train departs at 10 a.m.",
+      "chinese": {
+        "meaning": "離開、出發",
+        "example": "火車上午十點出發。"
+      }
+    },
+    {
+      "word": "Depend",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To rely on or be influenced by something",
+      "example": "Success depends on hard work.",
+      "chinese": {
+        "meaning": "依賴、取決於",
+        "example": "成功取決於努力工作。"
+      }
+    },
+    {
+      "word": "Depict",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To describe or show something in words or pictures",
+      "example": "The novel depicts life in a small town.",
+      "chinese": {
+        "meaning": "描繪",
+        "example": "這部小說描繪了小鎮的生活。"
+      }
+    },
+    {
+      "word": "Derive",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To get something from a specified source",
+      "example": "Many English words are derived from Latin.",
+      "chinese": {
+        "meaning": "源自、獲得",
+        "example": "許多英語單詞源自拉丁語。"
+      }
+    },
+    {
+      "word": "Describe",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To give details about something",
+      "example": "Please describe your experience in detail.",
+      "chinese": {
+        "meaning": "描述",
+        "example": "請詳細描述你的經歷。"
+      }
+    },
+    {
+      "word": "Design",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To plan or create something",
+      "example": "They designed a new logo for the company.",
+      "chinese": {
+        "meaning": "設計",
+        "example": "他們為公司設計了新標誌。"
+      }
+    },
+    {
+      "word": "Desire",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To strongly wish for or want something",
+      "example": "She desires to travel the world.",
+      "chinese": {
+        "meaning": "渴望",
+        "example": "她渴望環遊世界。"
+      }
+    },
+    {
+      "word": "Destroy",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To damage something so badly that it no longer exists",
+      "example": "The fire destroyed several buildings.",
+      "chinese": {
+        "meaning": "摧毀",
+        "example": "大火摧毀了幾棟建築物。"
+      }
+    },
+    {
+      "word": "Determine",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To decide or establish something after thinking",
+      "example": "The test will determine your final grade.",
+      "chinese": {
+        "meaning": "決定、確定",
+        "example": "這次考試將決定你的最終成績。"
+      }
+    },
+    {
+      "word": "Develop",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To grow or cause to grow and become more advanced",
+      "example": "The company developed a new software application.",
+      "chinese": {
+        "meaning": "發展、開發",
+        "example": "這家公司開發了一個新的軟件應用。"
+      }
+    },
+    {
+      "word": "Devise",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To invent or plan something by careful thought",
+      "example": "They devised a strategy to win the competition.",
+      "chinese": {
+        "meaning": "設計、想出",
+        "example": "他們想出了一個贏得比賽的策略。"
+      }
+    },
+    {
+      "word": "Differ",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To be unlike or distinct in nature",
+      "example": "Opinions differ on the best way to solve the problem.",
+      "chinese": {
+        "meaning": "不同",
+        "example": "對於解決這個問題的最佳方式，意見不一。"
+      }
+    },
+    {
+      "word": "Diffuse",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To spread over a wide area or among many people",
+      "example": "The information quickly diffused through the community.",
+      "chinese": {
+        "meaning": "擴散、傳播",
+        "example": "消息很快在社區內傳播開來。"
+      }
+    },
+    {
+      "word": "Dig",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To break up and move earth with a tool or machine",
+      "example": "They dug a hole for the new tree.",
+      "chinese": {
+        "meaning": "挖掘",
+        "example": "他們為新樹挖了一個洞。"
+      }
+    },
+    {
+      "word": "Diminish",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make or become less",
+      "example": "His influence diminished after he retired.",
+      "chinese": {
+        "meaning": "減少、降低",
+        "example": "他退休後影響力減弱了。"
+      }
+    },
+    {
+      "word": "Direct",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To control or guide someone or something",
+      "example": "She directed the play at school.",
+      "chinese": {
+        "meaning": "指導、指揮",
+        "example": "她在學校指導了這齣戲。"
+      }
+    },
+    {
+      "word": "Disappear",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To stop being visible or to cease to exist",
+      "example": "The sun disappeared behind the clouds.",
+      "chinese": {
+        "meaning": "消失",
+        "example": "太陽消失在雲層後面。"
+      }
+    },
+    {
+      "word": "Disclose",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make information known to others",
+      "example": "The company disclosed its annual report.",
+      "chinese": {
+        "meaning": "透露、公開",
+        "example": "公司公開了年度報告。"
+      }
+    },
+    {
+      "word": "Discover",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To find something for the first time",
+      "example": "Scientists discovered a new species of bird.",
+      "chinese": {
+        "meaning": "發現",
+        "example": "科學家發現了一種新鳥類。"
+      }
+    },
+    {
+      "word": "Discuss",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To talk about something with someone",
+      "example": "Let's discuss the main points of the article.",
+      "chinese": {
+        "meaning": "討論",
+        "example": "讓我們討論一下這篇文章的重點。"
+      }
+    },
+    {
+      "word": "Disguise",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To change appearance to hide identity",
+      "example": "He disguised himself as an old man.",
+      "chinese": {
+        "meaning": "偽裝",
+        "example": "他偽裝成一位老人。"
+      }
+    },
+    {
+      "word": "Dislike",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To not like something or someone",
+      "example": "She dislikes eating spicy food.",
+      "chinese": {
+        "meaning": "不喜歡",
+        "example": "她不喜歡吃辣的食物。"
+      }
+    },
+    {
+      "word": "Dismiss",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To refuse to consider or accept",
+      "example": "The judge dismissed the case due to lack of evidence.",
+      "chinese": {
+        "meaning": "駁回、解雇",
+        "example": "法官因證據不足駁回了此案。"
+      }
+    },
+    {
+      "word": "Display",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To show something in a place where people can see it",
+      "example": "The museum displays ancient artifacts.",
+      "chinese": {
+        "meaning": "展示",
+        "example": "博物館展示了古代文物。"
+      }
+    },
+    {
+      "word": "Disprove",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To show that something is not true",
+      "example": "The scientist disproved the old theory.",
+      "chinese": {
+        "meaning": "證明...是錯的",
+        "example": "科學家證明了舊理論是錯誤的。"
+      }
+    },
+    {
+      "word": "Distribute",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To give something out to several people",
+      "example": "They distributed the leaflets to passersby.",
+      "chinese": {
+        "meaning": "分發",
+        "example": "他們向路人分發傳單。"
+      }
+    },
+    {
+      "word": "Distinguish",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To recognize or show the differences",
+      "example": "It is important to distinguish fact from opinion.",
+      "chinese": {
+        "meaning": "區分",
+        "example": "區分事實與意見很重要。"
+      }
+    },
+    {
+      "word": "Distort",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To change something so that it is no longer true or accurate",
+      "example": "The media distorted the facts in the report.",
+      "chinese": {
+        "meaning": "扭曲",
+        "example": "媒體在報導中扭曲了事實。"
+      }
+    },
+    {
+      "word": "Distract",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To take someone's attention away from something",
+      "example": "The noise distracted her from studying.",
+      "chinese": {
+        "meaning": "分散注意力",
+        "example": "噪音讓她無法專心學習。"
+      }
+    },
+    {
+      "word": "Distribute",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To give out or deliver items to people",
+      "example": "Volunteers distributed food to the refugees.",
+      "chinese": {
+        "meaning": "分發",
+        "example": "志願者向難民分發食物。"
+      }
+    },
+    {
+      "word": "Disturb",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To interrupt or bother someone",
+      "example": "Please do not disturb during the meeting.",
+      "chinese": {
+        "meaning": "打擾",
+        "example": "會議期間請勿打擾。"
+      }
+    },
+    {
+      "word": "Dive",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To jump headfirst into water or move quickly downward",
+      "example": "He dived into the pool.",
+      "chinese": {
+        "meaning": "跳水、潛水",
+        "example": "他跳進了游泳池。"
+      }
+    },
+    {
+      "word": "Divert",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To change the direction of something",
+      "example": "The police diverted traffic due to the accident.",
+      "chinese": {
+        "meaning": "改道、轉移",
+        "example": "由於事故，警察改變了交通路線。"
+      }
+    },
+    {
+      "word": "Divide",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To separate into parts or groups",
+      "example": "We divided the tasks among the team members.",
+      "chinese": {
+        "meaning": "分開、分配",
+        "example": "我們把任務分配給團隊成員。"
+      }
+    },
+    {
+      "word": "Dominate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To have control or power over something or someone",
+      "example": "A few companies dominate the technology market.",
+      "chinese": {
+        "meaning": "主導、支配",
+        "example": "少數幾家公司主導著科技市場。"
+      }
+    },
+    {
+      "word": "Double",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make something twice as much or as many",
+      "example": "The company doubled its profits last year.",
+      "chinese": {
+        "meaning": "加倍",
+        "example": "公司去年利潤翻倍。"
+      }
+    },
+    {
+      "word": "Doubt",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To feel uncertain about something",
+      "example": "I doubt that the story is true.",
+      "chinese": {
+        "meaning": "懷疑",
+        "example": "我懷疑這個故事是真的。"
+      }
+    },
+    {
+      "word": "Draft",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To write the first version of something",
+      "example": "She drafted a letter to her friend.",
+      "chinese": {
+        "meaning": "起草",
+        "example": "她給朋友起草了一封信。"
+      }
+    },
+    {
+      "word": "Drag",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To pull something along the ground",
+      "example": "He dragged the heavy box across the floor.",
+      "chinese": {
+        "meaning": "拖拉",
+        "example": "他把沉重的箱子拖過地板。"
+      }
+    },
+    {
+      "word": "Drain",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To remove liquid from something",
+      "example": "Drain the pasta before serving.",
+      "chinese": {
+        "meaning": "排乾、排出",
+        "example": "上菜前把意大利麵的水瀝乾。"
+      }
+    },
+    {
+      "word": "Dramatize",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make something more exciting or dramatic than it really is",
+      "example": "The news often dramatizes minor events.",
+      "chinese": {
+        "meaning": "戲劇化、誇大",
+        "example": "新聞經常把小事戲劇化。"
+      }
+    },
+    {
+      "word": "Draw",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To produce a picture by making lines with a pen, pencil, etc.",
+      "example": "She likes to draw animals in her notebook.",
+      "chinese": {
+        "meaning": "畫畫",
+        "example": "她喜歡在筆記本上畫動物。"
+      }
+    },
+    {
+      "word": "Dread",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To feel very anxious or worried about something that may happen",
+      "example": "He dreads speaking in public.",
+      "chinese": {
+        "meaning": "害怕、擔心",
+        "example": "他害怕在公開場合講話。"
+      }
+    },
+    {
+      "word": "Dream",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To experience thoughts or images while sleeping or to imagine something you want",
+      "example": "She dreams of becoming a doctor.",
+      "chinese": {
+        "meaning": "夢想、做夢",
+        "example": "她夢想成為一名醫生。"
+      }
+    },
+    {
+      "word": "Dress",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To put clothes on oneself or someone else",
+      "example": "He dressed quickly for the meeting.",
+      "chinese": {
+        "meaning": "穿衣",
+        "example": "他很快穿好衣服去開會。"
+      }
+    },
+    {
+      "word": "Drift",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To move slowly, especially as a result of outside forces",
+      "example": "The boat drifted down the river.",
+      "chinese": {
+        "meaning": "漂流",
+        "example": "小船順著河流漂流。"
+      }
+    },
+    {
+      "word": "Drink",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To take liquid into the mouth and swallow it",
+      "example": "She drinks a glass of water every morning.",
+      "chinese": {
+        "meaning": "喝",
+        "example": "她每天早上喝一杯水。"
+      }
+    },
+    {
+      "word": "Drive",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To operate and control a vehicle",
+      "example": "He drives to work every day.",
+      "chinese": {
+        "meaning": "駕駛",
+        "example": "他每天開車上班。"
+      }
+    },
+    {
+      "word": "Drop",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To let something fall",
+      "example": "She accidentally dropped her phone.",
+      "chinese": {
+        "meaning": "掉落",
+        "example": "她不小心把手機掉了。"
+      }
+    },
+    {
+      "word": "Drown",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To die by being unable to breathe underwater",
+      "example": "He nearly drowned while swimming in the lake.",
+      "chinese": {
+        "meaning": "溺水",
+        "example": "他在湖裡游泳時差點溺水。"
+      }
+    },
+    {
+      "word": "Dry",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To remove moisture from something",
+      "example": "Hang your clothes outside to dry.",
+      "chinese": {
+        "meaning": "弄乾、晾乾",
+        "example": "把衣服掛到外面晾乾。"
+      }
+    },
+    {
+      "word": "Dwell",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To live in a particular place",
+      "example": "Many animals dwell in the forest.",
+      "chinese": {
+        "meaning": "居住",
+        "example": "許多動物居住在森林裡。"
+      }
+    },
+    {
+      "word": "Dye",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To change the color of something using a special substance",
+      "example": "She dyed her hair brown.",
+      "chinese": {
+        "meaning": "染色",
+        "example": "她把頭髮染成了棕色。"
+      }
+    },
+    {
+      "word": "Diagnose",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To identify a disease or problem by examining someone or something",
+      "example": "The doctor diagnosed her with pneumonia.",
+      "chinese": {
+        "meaning": "診斷",
+        "example": "醫生診斷她患有肺炎。"
+      }
+    },
+    {
+      "word": "Dictate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To say or read aloud for someone else to write down",
+      "example": "The teacher dictated the sentences to the class.",
+      "chinese": {
+        "meaning": "口述、命令",
+        "example": "老師向全班口述這些句子。"
+      }
+    },
+    {
+      "word": "Die",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To stop living",
+      "example": "The plant died because it was not watered.",
+      "chinese": {
+        "meaning": "死亡",
+        "example": "這棵植物因為沒有澆水而死了。"
+      }
+    },
+    {
+      "word": "Digress",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To move away from the main topic when speaking or writing",
+      "example": "He often digresses when telling a story.",
+      "chinese": {
+        "meaning": "離題",
+        "example": "他講故事時經常離題。"
+      }
+    },
+    {
+      "word": "Dilute",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make a liquid thinner or weaker by adding water or another substance",
+      "example": "Dilute the juice with some water.",
+      "chinese": {
+        "meaning": "稀釋",
+        "example": "用水稀釋果汁。"
+      }
+    },
+    {
+      "word": "Disagree",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To have a different opinion",
+      "example": "They disagreed about the best solution.",
+      "chinese": {
+        "meaning": "不同意",
+        "example": "他們對最佳解決方案意見不合。"
+      }
+    },
+    {
+      "word": "Disappear",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To stop being visible or existing",
+      "example": "The magician made the rabbit disappear.",
+      "chinese": {
+        "meaning": "消失",
+        "example": "魔術師讓兔子消失了。"
+      }
+    },
+    {
+      "word": "Disapprove",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To think that something is wrong or bad",
+      "example": "Her parents disapprove of her decision.",
+      "chinese": {
+        "meaning": "不贊成",
+        "example": "她的父母不贊成她的決定。"
+      }
+    },
+    {
+      "word": "Disarm",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To take weapons away from someone",
+      "example": "The police disarmed the suspect.",
+      "chinese": {
+        "meaning": "解除武裝",
+        "example": "警方繳械了嫌疑人。"
+      }
+    },
+    {
+      "word": "Disband",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To break up or end an organization or group",
+      "example": "The club disbanded after ten years.",
+      "chinese": {
+        "meaning": "解散",
+        "example": "該俱樂部十年後解散了。"
+      }
+    },
+    {
+      "word": "Discourage",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make someone less confident or enthusiastic",
+      "example": "Don't let failure discourage you.",
+      "chinese": {
+        "meaning": "使氣餒",
+        "example": "不要讓失敗讓你氣餒。"
+      }
+    },
+    {
+      "word": "Discredit",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To harm the reputation of someone or something",
+      "example": "The scandal discredited the politician.",
+      "chinese": {
+        "meaning": "使失去信譽",
+        "example": "醜聞使這位政治家失去了信譽。"
+      }
+    },
+    {
+      "word": "Discriminate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To treat a person or group differently, often unfairly",
+      "example": "It is illegal to discriminate against people because of their race.",
+      "chinese": {
+        "meaning": "歧視",
+        "example": "因種族歧視他人是違法的。"
+      }
+    },
+    {
+      "word": "Disintegrate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To break into small parts or pieces",
+      "example": "The old building disintegrated over time.",
+      "chinese": {
+        "meaning": "分解、瓦解",
+        "example": "這座老建築隨著時間瓦解了。"
+      }
+    },
+    {
+      "word": "Dislocate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To move a bone out of its normal position in a joint",
+      "example": "He dislocated his shoulder during the game.",
+      "chinese": {
+        "meaning": "脫臼",
+        "example": "他在比賽中肩膀脫臼了。"
+      }
+    },
+    {
+      "word": "Disobey",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To refuse to follow rules or instructions",
+      "example": "Children should not disobey their parents.",
+      "chinese": {
+        "meaning": "違抗",
+        "example": "孩子們不應該違抗父母。"
+      }
+    },
+    {
+      "word": "Disperse",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To scatter or spread over a wide area",
+      "example": "The crowd dispersed after the concert.",
+      "chinese": {
+        "meaning": "分散",
+        "example": "音樂會結束後人群散開了。"
+      }
+    },
+    {
+      "word": "Dispose",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To get rid of something",
+      "example": "Please dispose of your trash properly.",
+      "chinese": {
+        "meaning": "處理、丟棄",
+        "example": "請妥善處理你的垃圾。"
+      }
+    },
+    {
+      "word": "Disregard",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To ignore something or treat it as unimportant",
+      "example": "He disregarded the warning signs.",
+      "chinese": {
+        "meaning": "忽視",
+        "example": "他忽視了警告標誌。"
+      }
+    },
+    {
+      "word": "Disrupt",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To interrupt the normal progress of something",
+      "example": "The protest disrupted the meeting.",
+      "chinese": {
+        "meaning": "擾亂",
+        "example": "抗議活動擾亂了會議。"
+      }
+    },
+    {
+      "word": "Dissolve",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To mix with a liquid and become part of it",
+      "example": "Sugar dissolves in water.",
+      "chinese": {
+        "meaning": "溶解",
+        "example": "糖在水中會溶解。"
+      }
+    },
+    {
+      "word": "Distil",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To purify a liquid by heating and cooling",
+      "example": "They distilled water to remove impurities.",
+      "chinese": {
+        "meaning": "蒸餾",
+        "example": "他們通過蒸餾淨化水。"
+      }
+    },
+    {
+      "word": "Distrust",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To not trust someone or something",
+      "example": "He distrusted his business partner.",
+      "chinese": {
+        "meaning": "不信任",
+        "example": "他不信任他的商業夥伴。"
+      }
+    },
+    {
+      "word": "Document",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To record information in writing or with pictures",
+      "example": "The archaeologist documented the findings.",
+      "chinese": {
+        "meaning": "記錄、紀錄",
+        "example": "考古學家記錄了這些發現。"
+      }
+    },
+    {
+      "word": "Domesticate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To train or adapt an animal to live with humans",
+      "example": "Humans domesticated dogs thousands of years ago.",
+      "chinese": {
+        "meaning": "馴養",
+        "example": "人類在幾千年前就馴養了狗。"
+      }
+    },
+    {
+      "word": "Donate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To give something, especially money, to help others",
+      "example": "She donated books to the library.",
+      "chinese": {
+        "meaning": "捐贈",
+        "example": "她向圖書館捐贈了書籍。"
+      }
+    },
+    {
+      "word": "Doubt",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To feel uncertain about something",
+      "example": "Many people doubted the results of the experiment.",
+      "chinese": {
+        "meaning": "懷疑",
+        "example": "許多人對實驗結果表示懷疑。"
+      }
+    },
+    {
+      "word": "Draft",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To write a preliminary version of a document",
+      "example": "He drafted a proposal for the new project.",
+      "chinese": {
+        "meaning": "起草",
+        "example": "他為新項目起草了一份提案。"
+      }
+    },
+    {
+      "word": "Drain",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To cause liquid to flow away",
+      "example": "The rainwater drained from the roof.",
+      "chinese": {
+        "meaning": "排水",
+        "example": "雨水從屋頂排走了。"
+      }
+    },
+    {
+      "word": "Drape",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To hang or cover loosely",
+      "example": "She draped a blanket over the chair.",
+      "chinese": {
+        "meaning": "披、覆蓋",
+        "example": "她把毯子披在椅子上。"
+      }
+    },
+    {
+      "word": "Draw",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To produce a picture or image by making lines",
+      "example": "He drew a map of the city.",
+      "chinese": {
+        "meaning": "畫",
+        "example": "他畫了一張城市地圖。"
+      }
+    },
+    {
+      "word": "Dread",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To fear greatly",
+      "example": "Many students dread final exams.",
+      "chinese": {
+        "meaning": "害怕",
+        "example": "許多學生害怕期末考試。"
+      }
+    },
+    {
+      "word": "Dream",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To imagine or wish for something",
+      "example": "He dreams of winning the championship.",
+      "chinese": {
+        "meaning": "夢想",
+        "example": "他夢想贏得冠軍。"
+      }
+    },
+    {
+      "word": "Dress",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To put clothes on oneself",
+      "example": "She dressed in her best outfit for the interview.",
+      "chinese": {
+        "meaning": "穿衣",
+        "example": "她為了面試穿上了最好的衣服。"
+      }
+    },
+    {
+      "word": "Drill",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To practice something repeatedly or to make a hole using a tool",
+      "example": "The students drilled multiplication tables.",
+      "chinese": {
+        "meaning": "反覆練習；鑽孔",
+        "example": "學生們反覆練習乘法表。"
+      }
+    },
+    {
+      "word": "Drip",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To fall in drops",
+      "example": "Water dripped from the tap.",
+      "chinese": {
+        "meaning": "滴落",
+        "example": "水從水龍頭滴下來。"
+      }
+    },
+    {
+      "word": "Drive",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To operate a vehicle",
+      "example": "She learned to drive last year.",
+      "chinese": {
+        "meaning": "開車",
+        "example": "她去年學會了開車。"
+      }
+    },
+    {
+      "word": "Drop",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To let something fall or to fall down",
+      "example": "The temperature dropped suddenly.",
+      "chinese": {
+        "meaning": "下降、掉落",
+        "example": "氣溫突然下降了。"
+      }
+    },
+    {
+      "word": "Drown",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To die by being underwater and unable to breathe",
+      "example": "Be careful not to drown when swimming.",
+      "chinese": {
+        "meaning": "溺水",
+        "example": "游泳時要小心不要溺水。"
+      }
+    },
+    {
+      "word": "Drum",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make a sound by hitting a surface repeatedly",
+      "example": "He drummed his fingers on the table.",
+      "chinese": {
+        "meaning": "敲打",
+        "example": "他用手指敲打桌子。"
+      }
+    },
+    {
+      "word": "Dry",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To remove moisture from something",
+      "example": "The sun dried the clothes quickly.",
+      "chinese": {
+        "meaning": "晾乾",
+        "example": "太陽很快把衣服曬乾了。"
+      }
+    },
+    {
+      "word": "Dub",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To give someone or something a name or title",
+      "example": "The press dubbed him the new champion.",
+      "chinese": {
+        "meaning": "給...起綽號、稱號",
+        "example": "媒體稱他為新冠軍。"
+      }
+    },
+    {
+      "word": "Dump",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To drop or throw something in a careless way",
+      "example": "They dumped the old furniture in the alley.",
+      "chinese": {
+        "meaning": "丟棄",
+        "example": "他們把舊家具丟在巷子裡。"
+      }
+    },
+    {
+      "word": "Duplicate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make an exact copy of something",
+      "example": "Please duplicate this document for the team.",
+      "chinese": {
+        "meaning": "複製",
+        "example": "請為團隊複製這份文件。"
+      }
+    },
+    {
+      "word": "Dust",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To remove dust from something",
+      "example": "He dusted the shelves every week.",
+      "chinese": {
+        "meaning": "除塵",
+        "example": "他每週擦拭書架。"
+      }
+    },
+    {
+      "word": "Dwell",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To live in a particular place",
+      "example": "He dwells in the countryside.",
+      "chinese": {
+        "meaning": "居住",
+        "example": "他住在鄉下。"
+      }
+    },
+    {
+      "word": "Dye",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To color something by soaking it in a substance",
+      "example": "They dyed the fabric blue.",
+      "chinese": {
+        "meaning": "染色",
+        "example": "他們把布染成藍色。"
+      }
+    }
+  ]
 }

@@ -1,3 +1,1027 @@
 {
-    
+  "words": [
+    {
+      "word": "Bake",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To cook something using dry heat in an oven",
+      "example": "She baked a chocolate cake for his birthday.",
+      "chinese": {
+        "meaning": "烘烤",
+        "example": "她為他的生日烘烤了一個巧克力蛋糕。"
+      }
+    },
+    {
+      "word": "Balance",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To keep or put something in a steady position",
+      "example": "He balanced the tray on one hand.",
+      "chinese": {
+        "meaning": "平衡",
+        "example": "他單手托著托盤保持平衡。"
+      }
+    },
+    {
+      "word": "Ban",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To officially or legally prohibit something",
+      "example": "The government banned smoking in public places.",
+      "chinese": {
+        "meaning": "禁止",
+        "example": "政府禁止在公共場所吸煙。"
+      }
+    },
+    {
+      "word": "Bang",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To strike something loudly or forcefully",
+      "example": "He banged the door shut.",
+      "chinese": {
+        "meaning": "猛擊、砰然關上",
+        "example": "他砰地關上門。"
+      }
+    },
+    {
+      "word": "Bargain",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To negotiate the price or terms of something",
+      "example": "They bargained over the price of the car.",
+      "chinese": {
+        "meaning": "討價還價",
+        "example": "他們為汽車的價格討價還價。"
+      }
+    },
+    {
+      "word": "Bark",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To make a loud, sharp sound (like a dog)",
+      "example": "The dog barked at the stranger.",
+      "chinese": {
+        "meaning": "吠叫",
+        "example": "狗對著陌生人吠叫。"
+      }
+    },
+    {
+      "word": "Bash",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To hit something hard",
+      "example": "He bashed his head against the wall.",
+      "chinese": {
+        "meaning": "猛擊",
+        "example": "他把頭猛地撞在牆上。"
+      }
+    },
+    {
+      "word": "Bask",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To lie or relax in a pleasant warmth",
+      "example": "They basked in the afternoon sun.",
+      "chinese": {
+        "meaning": "曬太陽、享受溫暖",
+        "example": "他們在午後的陽光下曬太陽。"
+      }
+    },
+    {
+      "word": "Batter",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To hit repeatedly with force",
+      "example": "Waves battered the shore all night.",
+      "chinese": {
+        "meaning": "連續猛擊",
+        "example": "海浪整夜猛烈拍打著海岸。"
+      }
+    },
+    {
+      "word": "Battle",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To fight or struggle",
+      "example": "She battled cancer for years.",
+      "chinese": {
+        "meaning": "奮鬥、搏鬥",
+        "example": "她與癌症奮鬥了多年。"
+      }
+    },
+    {
+      "word": "Beam",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To smile radiantly",
+      "example": "He beamed with pride at his daughter.",
+      "chinese": {
+        "meaning": "笑容滿面",
+        "example": "他因女兒而笑容滿面。"
+      }
+    },
+    {
+      "word": "Bear",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To endure or carry something",
+      "example": "She could not bear the pain.",
+      "chinese": {
+        "meaning": "承受、忍受",
+        "example": "她無法忍受這種痛苦。"
+      }
+    },
+    {
+      "word": "Beat",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To strike repeatedly; to defeat",
+      "example": "He beat the drum loudly.",
+      "chinese": {
+        "meaning": "敲打、擊敗",
+        "example": "他大聲敲打鼓。"
+      }
+    },
+    {
+      "word": "Beautify",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To make beautiful",
+      "example": "They beautified the garden with flowers.",
+      "chinese": {
+        "meaning": "美化",
+        "example": "他們用花卉美化了花園。"
+      }
+    },
+    {
+      "word": "Befriend",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To become friends with someone",
+      "example": "He befriended the new student.",
+      "chinese": {
+        "meaning": "與...交朋友",
+        "example": "他與新同學成為朋友。"
+      }
+    },
+    {
+      "word": "Beg",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To ask earnestly or desperately",
+      "example": "She begged him to stay.",
+      "chinese": {
+        "meaning": "乞求",
+        "example": "她懇求他留下。"
+      }
+    },
+    {
+      "word": "Begin",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To start; to commence",
+      "example": "The meeting will begin at 9 a.m.",
+      "chinese": {
+        "meaning": "開始",
+        "example": "會議將於上午九點開始。"
+      }
+    },
+    {
+      "word": "Behave",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To act in a certain way",
+      "example": "Please behave yourself at the party.",
+      "chinese": {
+        "meaning": "舉止、表現",
+        "example": "請在聚會上舉止得體。"
+      }
+    },
+    {
+      "word": "Behold",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To see or observe",
+      "example": "Behold the beauty of the sunrise.",
+      "chinese": {
+        "meaning": "看見、注視",
+        "example": "看啊，日出的美景。"
+      }
+    },
+    {
+      "word": "Belong",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To be a member or part of",
+      "example": "This book belongs to me.",
+      "chinese": {
+        "meaning": "屬於",
+        "example": "這本書屬於我。"
+      }
+    },
+    {
+      "word": "Bend",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To curve or cause to curve",
+      "example": "She bent down to pick up the coin.",
+      "chinese": {
+        "meaning": "彎曲",
+        "example": "她彎下腰撿起硬幣。"
+      }
+    },
+    {
+      "word": "Benefit",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To gain advantage from",
+      "example": "Students benefit from regular exercise.",
+      "chinese": {
+        "meaning": "受益",
+        "example": "學生從規律運動中受益。"
+      }
+    },
+    {
+      "word": "Beware",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To be cautious or careful",
+      "example": "Beware of the dog.",
+      "chinese": {
+        "meaning": "當心、小心",
+        "example": "小心那隻狗。"
+      }
+    },
+    {
+      "word": "Bid",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To offer a price; to command",
+      "example": "He bid $100 for the painting.",
+      "chinese": {
+        "meaning": "出價、命令",
+        "example": "他為那幅畫出價100美元。"
+      }
+    },
+    {
+      "word": "Bind",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To tie or fasten tightly",
+      "example": "They bound the boxes with rope.",
+      "chinese": {
+        "meaning": "綁、束縛",
+        "example": "他們用繩子把箱子綁起來。"
+      }
+    },
+    {
+      "word": "Bite",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To use the teeth to cut into something",
+      "example": "The dog bit the mailman.",
+      "chinese": {
+        "meaning": "咬",
+        "example": "狗咬了郵差。"
+      }
+    },
+    {
+      "word": "Blame",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To hold responsible for a fault",
+      "example": "He blamed her for the mistake.",
+      "chinese": {
+        "meaning": "責備、歸咎於",
+        "example": "他把錯誤歸咎於她。"
+      }
+    },
+    {
+      "word": "Blast",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To explode or destroy with force",
+      "example": "They blasted the rock with dynamite.",
+      "chinese": {
+        "meaning": "爆破、炸毀",
+        "example": "他們用炸藥爆破岩石。"
+      }
+    },
+    {
+      "word": "Blaze",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To burn brightly and intensely",
+      "example": "The fire blazed all night.",
+      "chinese": {
+        "meaning": "熊熊燃燒",
+        "example": "火焰整夜熊熊燃燒。"
+      }
+    },
+    {
+      "word": "Bleed",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To lose blood",
+      "example": "His finger was bleeding.",
+      "chinese": {
+        "meaning": "流血",
+        "example": "他的手指在流血。"
+      }
+    },
+    {
+      "word": "Blend",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To mix together thoroughly",
+      "example": "Blend the ingredients until smooth.",
+      "chinese": {
+        "meaning": "混合",
+        "example": "把材料混合均勻。"
+      }
+    },
+    {
+      "word": "Bless",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To ask for divine favor; to make holy",
+      "example": "The priest blessed the child.",
+      "chinese": {
+        "meaning": "祝福、祈福",
+        "example": "神父為孩子祝福。"
+      }
+    },
+    {
+      "word": "Blind",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To make unable to see",
+      "example": "The bright light blinded him.",
+      "chinese": {
+        "meaning": "使失明、使看不見",
+        "example": "強光使他暫時看不見。"
+      }
+    },
+    {
+      "word": "Blink",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To close and open the eyes quickly",
+      "example": "She blinked in surprise.",
+      "chinese": {
+        "meaning": "眨眼",
+        "example": "她驚訝地眨了眨眼。"
+      }
+    },
+    {
+      "word": "Block",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To prevent movement through",
+      "example": "A fallen tree blocked the road.",
+      "chinese": {
+        "meaning": "阻擋",
+        "example": "一棵倒下的樹阻擋了道路。"
+      }
+    },
+    {
+      "word": "Bloom",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To produce flowers; to flourish",
+      "example": "The cherry trees bloom in spring.",
+      "chinese": {
+        "meaning": "開花、繁盛",
+        "example": "櫻花樹在春天開花。"
+      }
+    },
+    {
+      "word": "Blow",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To move air; to be moved by wind",
+      "example": "The wind blew all night.",
+      "chinese": {
+        "meaning": "吹",
+        "example": "風整夜在吹。"
+      }
+    },
+    {
+      "word": "Blush",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To become red in the face from embarrassment",
+      "example": "She blushed when he complimented her.",
+      "chinese": {
+        "meaning": "臉紅",
+        "example": "他讚美她時，她臉紅了。"
+      }
+    },
+    {
+      "word": "Boast",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To talk with excessive pride",
+      "example": "He boasted about his achievements.",
+      "chinese": {
+        "meaning": "自誇、吹噓",
+        "example": "他吹噓自己的成就。"
+      }
+    },
+    {
+      "word": "Boil",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To heat a liquid until it bubbles",
+      "example": "Boil the water before adding pasta.",
+      "chinese": {
+        "meaning": "煮沸",
+        "example": "加麵條前先把水煮沸。"
+      }
+    },
+    {
+      "word": "Bolt",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To move suddenly and quickly",
+      "example": "The horse bolted from the stable.",
+      "chinese": {
+        "meaning": "衝出去、奔跑",
+        "example": "馬從馬廄裡衝了出去。"
+      }
+    },
+    {
+      "word": "Bombard",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To attack continuously",
+      "example": "The city was bombarded with questions.",
+      "chinese": {
+        "meaning": "轟炸、連續攻擊",
+        "example": "這座城市被問題轟炸。"
+      }
+    },
+    {
+      "word": "Bond",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To form a close relationship",
+      "example": "The team bonded during the trip.",
+      "chinese": {
+        "meaning": "建立關係",
+        "example": "團隊在旅行中建立了感情。"
+      }
+    },
+    {
+      "word": "Book",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To reserve in advance",
+      "example": "I booked a table for two.",
+      "chinese": {
+        "meaning": "預訂",
+        "example": "我預訂了一張兩人桌。"
+      }
+    },
+    {
+      "word": "Boost",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To increase or improve",
+      "example": "The new product boosted sales.",
+      "chinese": {
+        "meaning": "提升、增加",
+        "example": "新產品提升了銷售量。"
+      }
+    },
+    {
+      "word": "Boot",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To start up (a computer); to kick",
+      "example": "He booted the computer.",
+      "chinese": {
+        "meaning": "啟動（電腦）、踢",
+        "example": "他啟動了電腦。"
+      }
+    },
+    {
+      "word": "Bore",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To make someone feel bored; to drill a hole",
+      "example": "The lecture bored the students.",
+      "chinese": {
+        "meaning": "使厭煩、鑽孔",
+        "example": "那場演講讓學生感到無聊。"
+      }
+    },
+    {
+      "word": "Borrow",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To take and use something with the intention to return it",
+      "example": "Can I borrow your pen?",
+      "chinese": {
+        "meaning": "借用",
+        "example": "我可以借用你的筆嗎？"
+      }
+    },
+    {
+      "word": "Bounce",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To move up and down after hitting a surface",
+      "example": "The ball bounced across the floor.",
+      "chinese": {
+        "meaning": "彈跳",
+        "example": "球在地板上彈來彈去。"
+      }
+    },
+    {
+      "word": "Bow",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To bend the upper part of the body forward",
+      "example": "They bowed to the audience.",
+      "chinese": {
+        "meaning": "鞠躬",
+        "example": "他們向觀眾鞠躬。"
+      }
+    },
+    {
+      "word": "Box",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To fight with fists",
+      "example": "He boxed professionally for five years.",
+      "chinese": {
+        "meaning": "拳擊",
+        "example": "他做了五年職業拳擊手。"
+      }
+    },
+    {
+      "word": "Brace",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To prepare for something difficult",
+      "example": "She braced herself for the impact.",
+      "chinese": {
+        "meaning": "做好準備、支撐",
+        "example": "她為衝擊做好了準備。"
+      }
+    },
+    {
+      "word": "Brake",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To slow down or stop a vehicle",
+      "example": "He braked suddenly to avoid the cat.",
+      "chinese": {
+        "meaning": "煞車",
+        "example": "他突然煞車以避開那隻貓。"
+      }
+    },
+    {
+      "word": "Branch",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To divide into parts",
+      "example": "The river branches into two streams.",
+      "chinese": {
+        "meaning": "分支",
+        "example": "這條河分成兩條支流。"
+      }
+    },
+    {
+      "word": "Brand",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To mark with a brand; to label",
+      "example": "They branded the cattle.",
+      "chinese": {
+        "meaning": "烙印、標記",
+        "example": "他們給牛打上烙印。"
+      }
+    },
+    {
+      "word": "Brave",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To face with courage",
+      "example": "She braved the storm to rescue her cat.",
+      "chinese": {
+        "meaning": "勇敢面對",
+        "example": "她冒著風暴救貓。"
+      }
+    },
+    {
+      "word": "Breach",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To break through or violate",
+      "example": "The hackers breached the security system.",
+      "chinese": {
+        "meaning": "突破、違反",
+        "example": "駭客突破了安全系統。"
+      }
+    },
+    {
+      "word": "Break",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To separate into pieces; to interrupt",
+      "example": "She broke the vase.",
+      "chinese": {
+        "meaning": "打破、中斷",
+        "example": "她打破了花瓶。"
+      }
+    },
+    {
+      "word": "Breathe",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To take air in and out of the lungs",
+      "example": "It's hard to breathe in this smoke.",
+      "chinese": {
+        "meaning": "呼吸",
+        "example": "在這煙霧中很難呼吸。"
+      }
+    },
+    {
+      "word": "Breed",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To produce offspring; to cause",
+      "example": "Farmers breed cattle for milk.",
+      "chinese": {
+        "meaning": "繁殖、飼養",
+        "example": "農民飼養牛隻以產奶。"
+      }
+    },
+    {
+      "word": "Brew",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To make a beverage by soaking, boiling, and fermentation",
+      "example": "She brewed a pot of tea.",
+      "chinese": {
+        "meaning": "釀造、泡（茶）",
+        "example": "她泡了一壺茶。"
+      }
+    },
+    {
+      "word": "Bribe",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To give money or gifts for influence",
+      "example": "He tried to bribe the official.",
+      "chinese": {
+        "meaning": "賄賂",
+        "example": "他試圖賄賂官員。"
+      }
+    },
+    {
+      "word": "Bridge",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To connect or reduce the distance between",
+      "example": "The new project bridges the gap between theory and practice.",
+      "chinese": {
+        "meaning": "連接、彌合",
+        "example": "這個新項目彌合了理論與實踐之間的差距。"
+      }
+    },
+    {
+      "word": "Brief",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To give essential information",
+      "example": "The manager briefed the team before the meeting.",
+      "chinese": {
+        "meaning": "簡要說明",
+        "example": "經理在會議前向團隊簡要說明。"
+      }
+    },
+    {
+      "word": "Brighten",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To make lighter or happier",
+      "example": "The news brightened her mood.",
+      "chinese": {
+        "meaning": "使明亮、使愉快",
+        "example": "這個消息讓她心情愉快。"
+      }
+    },
+    {
+      "word": "Bring",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To take or go with to a place",
+      "example": "Bring your homework tomorrow.",
+      "chinese": {
+        "meaning": "帶來",
+        "example": "明天帶來你的作業。"
+      }
+    },
+    {
+      "word": "Broaden",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To make wider or more extensive",
+      "example": "Travel broadens the mind.",
+      "chinese": {
+        "meaning": "擴寬、擴展",
+        "example": "旅行能開闊心胸。"
+      }
+    },
+    {
+      "word": "Broadcast",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To transmit by radio or television",
+      "example": "The game was broadcast live.",
+      "chinese": {
+        "meaning": "播送、廣播",
+        "example": "比賽進行了現場直播。"
+      }
+    },
+    {
+      "word": "Broil",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To cook with direct heat",
+      "example": "Broil the steak for five minutes.",
+      "chinese": {
+        "meaning": "烤（用高溫）",
+        "example": "把牛排烤五分鐘。"
+      }
+    },
+    {
+      "word": "Broker",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To arrange or negotiate",
+      "example": "He brokered a peace agreement.",
+      "chinese": {
+        "meaning": "斡旋、調停",
+        "example": "他斡旋達成了和平協議。"
+      }
+    },
+    {
+      "word": "Bruise",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To injure without breaking the skin",
+      "example": "She bruised her arm when she fell.",
+      "chinese": {
+        "meaning": "瘀傷",
+        "example": "她摔倒時手臂瘀青了。"
+      }
+    },
+    {
+      "word": "Brush",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To clean or arrange with a brush",
+      "example": "Brush your teeth twice a day.",
+      "chinese": {
+        "meaning": "刷",
+        "example": "每天刷牙兩次。"
+      }
+    },
+    {
+      "word": "Bubble",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To form bubbles; to be lively",
+      "example": "The pot bubbled on the stove.",
+      "chinese": {
+        "meaning": "冒泡、沸騰",
+        "example": "鍋在爐子上冒泡。"
+      }
+    },
+    {
+      "word": "Buck",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To oppose or resist",
+      "example": "She bucked the trend and started her own company.",
+      "chinese": {
+        "meaning": "反抗、抵抗",
+        "example": "她逆勢創業。"
+      }
+    },
+    {
+      "word": "Budget",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To plan the use of (money, time, etc.)",
+      "example": "You should budget your expenses carefully.",
+      "chinese": {
+        "meaning": "預算、規劃",
+        "example": "你應該仔細規劃你的開支。"
+      }
+    },
+    {
+      "word": "Buff",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To polish by rubbing",
+      "example": "He buffed his shoes until they shone.",
+      "chinese": {
+        "meaning": "擦亮",
+        "example": "他把鞋擦得閃閃發亮。"
+      }
+    },
+    {
+      "word": "Build",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To construct by putting parts together",
+      "example": "They built a new house.",
+      "chinese": {
+        "meaning": "建造",
+        "example": "他們建了一棟新房子。"
+      }
+    },
+    {
+      "word": "Bulge",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To swell outwards",
+      "example": "His pockets bulged with coins.",
+      "chinese": {
+        "meaning": "鼓起、膨脹",
+        "example": "他的口袋鼓鼓的，裝滿了硬幣。"
+      }
+    },
+    {
+      "word": "Bully",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To intimidate or mistreat",
+      "example": "He bullied his classmates.",
+      "chinese": {
+        "meaning": "霸凌、欺負",
+        "example": "他欺負同學。"
+      }
+    },
+    {
+      "word": "Bump",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To hit or knock against",
+      "example": "She bumped into an old friend.",
+      "chinese": {
+        "meaning": "碰撞",
+        "example": "她碰到了老朋友。"
+      }
+    },
+    {
+      "word": "Bunch",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To gather or group together",
+      "example": "The children bunched together for the photo.",
+      "chinese": {
+        "meaning": "聚集、紮成束",
+        "example": "孩子們聚在一起拍照。"
+      }
+    },
+    {
+      "word": "Bundle",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To tie or wrap together",
+      "example": "She bundled up the clothes.",
+      "chinese": {
+        "meaning": "捆綁、包裹",
+        "example": "她把衣服捆在一起。"
+      }
+    },
+    {
+      "word": "Bungle",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To carry out a task clumsily",
+      "example": "He bungled the job.",
+      "chinese": {
+        "meaning": "搞砸",
+        "example": "他把工作搞砸了。"
+      }
+    },
+    {
+      "word": "Burn",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To be on fire; to be damaged by heat",
+      "example": "The paper burned quickly.",
+      "chinese": {
+        "meaning": "燃燒、燒毀",
+        "example": "紙很快就燒掉了。"
+      }
+    },
+    {
+      "word": "Burst",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To break open or apart suddenly",
+      "example": "The balloon burst.",
+      "chinese": {
+        "meaning": "爆裂、突然破裂",
+        "example": "氣球爆裂了。"
+      }
+    },
+    {
+      "word": "Bury",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To put into the ground and cover with earth",
+      "example": "They buried the treasure on the island.",
+      "chinese": {
+        "meaning": "埋葬、埋藏",
+        "example": "他們把寶藏埋在島上。"
+      }
+    },
+    {
+      "word": "Bus",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To transport by bus",
+      "example": "The children were bussed to school.",
+      "chinese": {
+        "meaning": "用巴士運送",
+        "example": "孩子們搭巴士去上學。"
+      }
+    },
+    {
+      "word": "Bust",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To break or smash",
+      "example": "He busted his phone.",
+      "chinese": {
+        "meaning": "打破、損壞",
+        "example": "他把手機打壞了。"
+      }
+    },
+    {
+      "word": "Busy",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To occupy oneself with",
+      "example": "She busied herself with work.",
+      "chinese": {
+        "meaning": "使忙於",
+        "example": "她讓自己忙於工作。"
+      }
+    },
+    {
+      "word": "Butt",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To hit with the head or horns",
+      "example": "The goat butted the fence.",
+      "chinese": {
+        "meaning": "用頭頂、撞",
+        "example": "山羊用頭撞欄杆。"
+      }
+    },
+    {
+      "word": "Button",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To fasten with buttons",
+      "example": "She buttoned her coat.",
+      "chinese": {
+        "meaning": "扣上（鈕扣）",
+        "example": "她扣上了外套的鈕扣。"
+      }
+    },
+    {
+      "word": "Buy",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To acquire by paying money",
+      "example": "He bought a new car.",
+      "chinese": {
+        "meaning": "購買",
+        "example": "他買了一輛新車。"
+      }
+    },
+    {
+      "word": "Buzz",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To make a continuous humming sound",
+      "example": "Bees buzzed around the flowers.",
+      "chinese": {
+        "meaning": "嗡嗡叫",
+        "example": "蜜蜂在花叢間嗡嗡叫。"
+      }
+    }
+  ]
 }
