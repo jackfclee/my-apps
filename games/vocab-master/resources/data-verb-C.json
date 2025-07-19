@@ -12,17 +12,6 @@
       }
     },
     {
-      "word": "Calculate",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To determine something by mathematical methods",
-      "example": "She calculated the total cost.",
-      "chinese": {
-        "meaning": "計算",
-        "example": "她計算了總成本。"
-      }
-    },
-    {
       "word": "Call",
       "type": "verb",
       "letter": "C",
@@ -78,17 +67,6 @@
       }
     },
     {
-      "word": "Capture",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To catch or take someone or something",
-      "example": "They captured the thief.",
-      "chinese": {
-        "meaning": "捕捉、俘虜",
-        "example": "他們抓住了小偷。"
-      }
-    },
-    {
       "word": "Care",
       "type": "verb",
       "letter": "C",
@@ -97,28 +75,6 @@
       "chinese": {
         "meaning": "關心",
         "example": "她非常關心環境。"
-      }
-    },
-    {
-      "word": "Care",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To feel concern or interest",
-      "example": "She cares deeply about the environment.",
-      "chinese": {
-        "meaning": "關心",
-        "example": "她非常關心環境。"
-      }
-    },
-    {
-      "word": "Carry",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To hold and move something from one place to another",
-      "example": "He carried the boxes upstairs.",
-      "chinese": {
-        "meaning": "攜帶、搬運",
-        "example": "他把箱子搬到樓上。"
       }
     },
     {
@@ -166,17 +122,6 @@
       }
     },
     {
-      "word": "Catch",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To seize or capture something that is moving",
-      "example": "She caught the ball easily.",
-      "chinese": {
-        "meaning": "抓住",
-        "example": "她輕鬆地接住了球。"
-      }
-    },
-    {
       "word": "Cause",
       "type": "verb",
       "letter": "C",
@@ -207,28 +152,6 @@
       "chinese": {
         "meaning": "改變",
         "example": "她改變了髮型。"
-      }
-    },
-    {
-      "word": "Change",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To make or become different",
-      "example": "She changed her hairstyle.",
-      "chinese": {
-        "meaning": "改變",
-        "example": "她改變了髮型。"
-      }
-    },
-    {
-      "word": "Charge",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To ask for payment or to attack",
-      "example": "They charged a fee for the service.",
-      "chinese": {
-        "meaning": "收費、衝鋒",
-        "example": "他們對服務收取費用。"
       }
     },
     {
@@ -298,17 +221,6 @@
       }
     },
     {
-      "word": "Choose",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To select from options",
-      "example": "She chose the red dress.",
-      "chinese": {
-        "meaning": "選擇",
-        "example": "她選擇了紅色的裙子。"
-      }
-    },
-    {
       "word": "Chop",
       "type": "verb",
       "letter": "C",
@@ -317,28 +229,6 @@
       "chinese": {
         "meaning": "切碎",
         "example": "他切碎了晚餐用的蔬菜。"
-      }
-    },
-    {
-      "word": "Chop",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To cut into pieces with a sharp tool",
-      "example": "He chopped the vegetables for dinner.",
-      "chinese": {
-        "meaning": "切碎",
-        "example": "他切碎了晚餐用的蔬菜。"
-      }
-    },
-    {
-      "word": "Claim",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To state something as true",
-      "example": "She claimed she was innocent.",
-      "chinese": {
-        "meaning": "聲稱",
-        "example": "她聲稱自己是無辜的。"
       }
     },
     {
@@ -364,28 +254,6 @@
       }
     },
     {
-      "word": "Clap",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To strike the hands together to show approval",
-      "example": "The audience clapped loudly.",
-      "chinese": {
-        "meaning": "拍手",
-        "example": "觀眾大聲鼓掌。"
-      }
-    },
-    {
-      "word": "Clean",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To remove dirt or mess",
-      "example": "She cleaned the kitchen.",
-      "chinese": {
-        "meaning": "清潔",
-        "example": "她打掃了廚房。"
-      }
-    },
-    {
       "word": "Clean",
       "type": "verb",
       "letter": "C",
@@ -408,17 +276,6 @@
       }
     },
     {
-      "word": "Clear",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To remove obstacles or make something understandable",
-      "example": "He cleared the table after dinner.",
-      "chinese": {
-        "meaning": "清除、使明白",
-        "example": "晚餐後他清理了桌子。"
-      }
-    },
-    {
       "word": "Climb",
       "type": "verb",
       "letter": "C",
@@ -427,28 +284,6 @@
       "chinese": {
         "meaning": "攀爬",
         "example": "他們爬上了山。"
-      }
-    },
-    {
-      "word": "Climb",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To go up something",
-      "example": "They climbed the mountain.",
-      "chinese": {
-        "meaning": "攀爬",
-        "example": "他們爬上了山。"
-      }
-    },
-    {
-      "word": "Close",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To shut something",
-      "example": "Please close the door.",
-      "chinese": {
-        "meaning": "關閉",
-        "example": "請關門。"
       }
     },
     {
@@ -485,17 +320,6 @@
       }
     },
     {
-      "word": "Collect",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To gather things together",
-      "example": "She collects stamps.",
-      "chinese": {
-        "meaning": "收集",
-        "example": "她收集郵票。"
-      }
-    },
-    {
       "word": "Color",
       "type": "verb",
       "letter": "C",
@@ -504,28 +328,6 @@
       "chinese": {
         "meaning": "著色",
         "example": "孩子們給圖片上色。"
-      }
-    },
-    {
-      "word": "Color",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To add color to something",
-      "example": "The children colored the pictures.",
-      "chinese": {
-        "meaning": "著色",
-        "example": "孩子們給圖片上色。"
-      }
-    },
-    {
-      "word": "Combine",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To join or mix together",
-      "example": "Mix the flour and water to combine.",
-      "chinese": {
-        "meaning": "結合",
-        "example": "將麵粉和水混合。"
       }
     },
     {
@@ -551,17 +353,6 @@
       }
     },
     {
-      "word": "Comfort",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To make someone feel better",
-      "example": "She comforted her friend after the loss.",
-      "chinese": {
-        "meaning": "安慰",
-        "example": "她在朋友失落時安慰了他。"
-      }
-    },
-    {
       "word": "Command",
       "type": "verb",
       "letter": "C",
@@ -570,28 +361,6 @@
       "chinese": {
         "meaning": "命令",
         "example": "軍官命令士兵們。"
-      }
-    },
-    {
-      "word": "Command",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To give an order",
-      "example": "The officer commanded the soldiers.",
-      "chinese": {
-        "meaning": "命令",
-        "example": "軍官命令士兵們。"
-      }
-    },
-    {
-      "word": "Communicate",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To share information",
-      "example": "They communicate through emails.",
-      "chinese": {
-        "meaning": "溝通",
-        "example": "他們通過電子郵件溝通。"
       }
     },
     {
@@ -617,17 +386,6 @@
       }
     },
     {
-      "word": "Compare",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To examine similarities and differences",
-      "example": "Compare these two books.",
-      "chinese": {
-        "meaning": "比較",
-        "example": "比較這兩本書。"
-      }
-    },
-    {
       "word": "Compete",
       "type": "verb",
       "letter": "C",
@@ -636,28 +394,6 @@
       "chinese": {
         "meaning": "競爭",
         "example": "他們參加了比賽。"
-      }
-    },
-    {
-      "word": "Compete",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To try to win against others",
-      "example": "They competed in the race.",
-      "chinese": {
-        "meaning": "競爭",
-        "example": "他們參加了比賽。"
-      }
-    },
-    {
-      "word": "Complain",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To express dissatisfaction",
-      "example": "He complained about the noise.",
-      "chinese": {
-        "meaning": "抱怨",
-        "example": "他抱怨噪音。"
       }
     },
     {
@@ -683,17 +419,6 @@
       }
     },
     {
-      "word": "Complete",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To finish something",
-      "example": "She completed the project on time.",
-      "chinese": {
-        "meaning": "完成",
-        "example": "她按時完成了項目。"
-      }
-    },
-    {
       "word": "Concentrate",
       "type": "verb",
       "letter": "C",
@@ -702,28 +427,6 @@
       "chinese": {
         "meaning": "集中注意力",
         "example": "請專心做作業。"
-      }
-    },
-    {
-      "word": "Concentrate",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To focus attention",
-      "example": "Please concentrate on your homework.",
-      "chinese": {
-        "meaning": "集中注意力",
-        "example": "請專心做作業。"
-      }
-    },
-    {
-      "word": "Concern",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To worry or be about something",
-      "example": "This issue concerns everyone.",
-      "chinese": {
-        "meaning": "關心、涉及",
-        "example": "這個問題關係到每個人。"
       }
     },
     {
@@ -749,17 +452,6 @@
       }
     },
     {
-      "word": "Confirm",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To establish the truth",
-      "example": "They confirmed the meeting time.",
-      "chinese": {
-        "meaning": "確認",
-        "example": "他們確認了會議時間。"
-      }
-    },
-    {
       "word": "Connect",
       "type": "verb",
       "letter": "C",
@@ -768,28 +460,6 @@
       "chinese": {
         "meaning": "連接",
         "example": "橋樑連接兩個城市。"
-      }
-    },
-    {
-      "word": "Connect",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To join or link together",
-      "example": "The bridge connects the two cities.",
-      "chinese": {
-        "meaning": "連接",
-        "example": "橋樑連接兩個城市。"
-      }
-    },
-    {
-      "word": "Consider",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To think carefully about",
-      "example": "She considered the offer before deciding.",
-      "chinese": {
-        "meaning": "考慮",
-        "example": "她在決定前考慮了這個提議。"
       }
     },
     {
@@ -815,17 +485,6 @@
       }
     },
     {
-      "word": "Consist",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To be made up of",
-      "example": "The team consists of five players.",
-      "chinese": {
-        "meaning": "由...組成",
-        "example": "隊伍由五名球員組成。"
-      }
-    },
-    {
       "word": "Construct",
       "type": "verb",
       "letter": "C",
@@ -834,28 +493,6 @@
       "chinese": {
         "meaning": "建造",
         "example": "他們建造了一所新學校。"
-      }
-    },
-    {
-      "word": "Construct",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To build or make",
-      "example": "They constructed a new school.",
-      "chinese": {
-        "meaning": "建造",
-        "example": "他們建造了一所新學校。"
-      }
-    },
-    {
-      "word": "Consult",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To seek advice",
-      "example": "He consulted a doctor about his illness.",
-      "chinese": {
-        "meaning": "諮詢",
-        "example": "他就病情諮詢了醫生。"
       }
     },
     {
@@ -881,17 +518,6 @@
       }
     },
     {
-      "word": "Contain",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To have something inside",
-      "example": "The box contains old photos.",
-      "chinese": {
-        "meaning": "包含",
-        "example": "盒子裡裝著舊照片。"
-      }
-    },
-    {
       "word": "Continue",
       "type": "verb",
       "letter": "C",
@@ -900,28 +526,6 @@
       "chinese": {
         "meaning": "繼續",
         "example": "請繼續閱讀。"
-      }
-    },
-    {
-      "word": "Continue",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To keep going",
-      "example": "Please continue reading.",
-      "chinese": {
-        "meaning": "繼續",
-        "example": "請繼續閱讀。"
-      }
-    },
-    {
-      "word": "Control",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To have power over",
-      "example": "He controls the company.",
-      "chinese": {
-        "meaning": "控制",
-        "example": "他掌控著公司。"
       }
     },
     {
@@ -947,17 +551,6 @@
       }
     },
     {
-      "word": "Convert",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To change into a different form",
-      "example": "They converted the old factory into apartments.",
-      "chinese": {
-        "meaning": "轉換",
-        "example": "他們把舊工廠改建成公寓。"
-      }
-    },
-    {
       "word": "Cook",
       "type": "verb",
       "letter": "C",
@@ -966,28 +559,6 @@
       "chinese": {
         "meaning": "烹飪",
         "example": "她每天晚上做飯。"
-      }
-    },
-    {
-      "word": "Cook",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To prepare food by heating",
-      "example": "She cooks dinner every night.",
-      "chinese": {
-        "meaning": "烹飪",
-        "example": "她每天晚上做飯。"
-      }
-    },
-    {
-      "word": "Copy",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To make a duplicate",
-      "example": "Please copy the document.",
-      "chinese": {
-        "meaning": "複製",
-        "example": "請複印文件。"
       }
     },
     {
@@ -1013,17 +584,6 @@
       }
     },
     {
-      "word": "Correct",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To fix errors",
-      "example": "He corrected the mistakes in the report.",
-      "chinese": {
-        "meaning": "糾正",
-        "example": "他糾正了報告中的錯誤。"
-      }
-    },
-    {
       "word": "Cost",
       "type": "verb",
       "letter": "C",
@@ -1032,28 +592,6 @@
       "chinese": {
         "meaning": "花費",
         "example": "這輛車花了很多錢。"
-      }
-    },
-    {
-      "word": "Cost",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To require payment",
-      "example": "The car costs a lot of money.",
-      "chinese": {
-        "meaning": "花費",
-        "example": "這輛車花了很多錢。"
-      }
-    },
-    {
-      "word": "Count",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To determine the number of",
-      "example": "She counted the coins.",
-      "chinese": {
-        "meaning": "數數",
-        "example": "她數了硬幣。"
       }
     },
     {
@@ -1079,17 +617,6 @@
       }
     },
     {
-      "word": "Cover",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To put something over",
-      "example": "He covered the table with a cloth.",
-      "chinese": {
-        "meaning": "覆蓋",
-        "example": "他用布蓋住了桌子。"
-      }
-    },
-    {
       "word": "Create",
       "type": "verb",
       "letter": "C",
@@ -1098,28 +625,6 @@
       "chinese": {
         "meaning": "創造",
         "example": "她創作了一幅美麗的畫。"
-      }
-    },
-    {
-      "word": "Create",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To make something new",
-      "example": "She created a beautiful painting.",
-      "chinese": {
-        "meaning": "創造",
-        "example": "她創作了一幅美麗的畫。"
-      }
-    },
-    {
-      "word": "Cross",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To go from one side to another",
-      "example": "They crossed the street safely.",
-      "chinese": {
-        "meaning": "穿越",
-        "example": "他們安全地穿過了街道。"
       }
     },
     {
@@ -1145,17 +650,6 @@
       }
     },
     {
-      "word": "Cry",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To shed tears",
-      "example": "The baby cried loudly.",
-      "chinese": {
-        "meaning": "哭泣",
-        "example": "嬰兒大聲哭泣。"
-      }
-    },
-    {
       "word": "Cut",
       "type": "verb",
       "letter": "C",
@@ -1164,28 +658,6 @@
       "chinese": {
         "meaning": "切割",
         "example": "她把紙剪成了碎片。"
-      }
-    },
-    {
-      "word": "Cut",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To divide with a sharp tool",
-      "example": "She cut the paper into pieces.",
-      "chinese": {
-        "meaning": "切割",
-        "example": "她把紙剪成了碎片。"
-      }
-    },
-    {
-      "word": "Cycle",
-      "type": "verb",
-      "letter": "C",
-      "meaning": "To ride a bicycle",
-      "example": "He cycles to work every day.",
-      "chinese": {
-        "meaning": "騎自行車",
-        "example": "他每天騎自行車上班。"
       }
     },
     {
