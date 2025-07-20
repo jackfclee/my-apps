@@ -1,3 +1,466 @@
 {
-    
+  "words": [
+    {
+      "word": "Earn",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To receive money or reward in return for work or service",
+      "example": "He earns a good salary from his job.",
+      "chinese": {
+        "meaning": "賺取",
+        "example": "他從工作中賺取了不錯的薪水。"
+      }
+    },
+    {
+      "word": "Ease",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To make something less severe or difficult",
+      "example": "The medicine eased her pain quickly.",
+      "chinese": {
+        "meaning": "緩解",
+        "example": "藥物很快緩解了她的疼痛。"
+      }
+    },
+    {
+      "word": "Eat",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To consume food",
+      "example": "They eat lunch together every day.",
+      "chinese": {
+        "meaning": "吃",
+        "example": "他們每天一起吃午餐。"
+      }
+    },
+    {
+      "word": "Edit",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To prepare written material for publication by correcting or revising",
+      "example": "She edited the final draft of the essay.",
+      "chinese": {
+        "meaning": "編輯",
+        "example": "她編輯了論文的最終稿。"
+      }
+    },
+    {
+      "word": "Educate",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To teach or train someone, especially in a school",
+      "example": "The school aims to educate all children equally.",
+      "chinese": {
+        "meaning": "教育",
+        "example": "學校致力於平等地教育所有兒童。"
+      }
+    },
+    {
+      "word": "Effect",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To bring about or cause something to happen",
+      "example": "The new manager effected many positive changes.",
+      "chinese": {
+        "meaning": "實現",
+        "example": "新經理實現了許多積極的變化。"
+      }
+    },
+    {
+      "word": "Elaborate",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To explain in more detail or add more information",
+      "example": "The teacher asked the student to elaborate on her answer.",
+      "chinese": {
+        "meaning": "詳細說明",
+        "example": "老師要求學生詳細說明她的答案。"
+      }
+    },
+    {
+      "word": "Elevate",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To raise to a higher level or position",
+      "example": "The speech elevated her reputation among voters.",
+      "chinese": {
+        "meaning": "提升",
+        "example": "這場演講提升了她在選民中的聲譽。"
+      }
+    },
+    {
+      "word": "Eliminate",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To completely remove or get rid of something",
+      "example": "The new policy aims to eliminate poverty.",
+      "chinese": {
+        "meaning": "消除",
+        "example": "新政策旨在消除貧困。"
+      }
+    },
+    {
+      "word": "Embody",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To represent or express something in a clear way",
+      "example": "The statue embodies the spirit of freedom.",
+      "chinese": {
+        "meaning": "體現",
+        "example": "雕像體現了自由的精神。"
+      }
+    },
+    {
+      "word": "Emigrate",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To leave one's country to live in another",
+      "example": "Many families emigrated to Australia in the 20th century.",
+      "chinese": {
+        "meaning": "移居",
+        "example": "許多家庭在20世紀移居澳大利亞。"
+      }
+    },
+    {
+      "word": "Empathize",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To understand and share the feelings of another",
+      "example": "Good leaders empathize with their team members.",
+      "chinese": {
+        "meaning": "同理",
+        "example": "優秀的領導者會同理團隊成員。"
+      }
+    },
+    {
+      "word": "Emphasize",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To give special importance or attention to something",
+      "example": "The author emphasized the need for environmental protection.",
+      "chinese": {
+        "meaning": "強調",
+        "example": "作者強調了環境保護的必要性。"
+      }
+    },
+    {
+      "word": "Enable",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To make something possible or easier",
+      "example": "The new technology enables faster communication.",
+      "chinese": {
+        "meaning": "使能夠",
+        "example": "新技術使溝通更快速。"
+      }
+    },
+    {
+      "word": "Encounter",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To unexpectedly experience or face something",
+      "example": "The hikers encountered heavy rain during their trip.",
+      "chinese": {
+        "meaning": "遇到",
+        "example": "徒步旅行者在旅途中遇到了大雨。"
+      }
+    },
+    {
+      "word": "Encourage",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To give support or confidence to someone",
+      "example": "Teachers encourage students to ask questions.",
+      "chinese": {
+        "meaning": "鼓勵",
+        "example": "老師鼓勵學生提問。"
+      }
+    },
+    {
+      "word": "Enforce",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To make sure a law or rule is obeyed",
+      "example": "The police enforce traffic laws strictly.",
+      "chinese": {
+        "meaning": "執行",
+        "example": "警方嚴格執行交通法規。"
+      }
+    },
+    {
+      "word": "Engage",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To participate or become involved in",
+      "example": "The students engaged actively in class discussions.",
+      "chinese": {
+        "meaning": "參與",
+        "example": "學生積極參與課堂討論。"
+      }
+    },
+    {
+      "word": "Enhance",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To improve or increase the quality or value of something",
+      "example": "The new features enhance the usability of the app.",
+      "chinese": {
+        "meaning": "提升",
+        "example": "新功能提升了應用程式的易用性。"
+      }
+    },
+    {
+      "word": "Enlist",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To formally join or recruit for a cause or group",
+      "example": "He enlisted in the army at the age of eighteen.",
+      "chinese": {
+        "meaning": "入伍",
+        "example": "他十八歲時入伍參軍。"
+      }
+    },
+    {
+      "word": "Enrich",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To improve the quality or value of something by adding something else",
+      "example": "The program enriches students’ learning experiences.",
+      "chinese": {
+        "meaning": "充實",
+        "example": "該計劃充實了學生的學習經歷。"
+      }
+    },
+    {
+      "word": "Ensure",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To make certain that something will happen",
+      "example": "Please ensure that all safety measures are followed.",
+      "chinese": {
+        "meaning": "確保",
+        "example": "請確保所有安全措施都已遵守。"
+      }
+    },
+    {
+      "word": "Entail",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To involve something as a necessary part or consequence",
+      "example": "The project entails a lot of research and planning.",
+      "chinese": {
+        "meaning": "需要",
+        "example": "該項目需要大量的研究和規劃。"
+      }
+    },
+    {
+      "word": "Entertain",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To provide enjoyment or amusement",
+      "example": "The comedian entertained the audience with jokes.",
+      "chinese": {
+        "meaning": "娛樂",
+        "example": "喜劇演員用笑話娛樂觀眾。"
+      }
+    },
+    {
+      "word": "Entice",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To attract or tempt by offering something appealing",
+      "example": "The advertisement entices customers with discounts.",
+      "chinese": {
+        "meaning": "引誘",
+        "example": "廣告用折扣吸引顧客。"
+      }
+    },
+    {
+      "word": "Establish",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To set up or create something on a firm basis",
+      "example": "The government established new policies to reduce pollution.",
+      "chinese": {
+        "meaning": "建立",
+        "example": "政府建立了減少污染的新政策。"
+      }
+    },
+    {
+      "word": "Estimate",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To roughly calculate or judge the value, number, or extent of something",
+      "example": "They estimated the cost of the project to be $1 million.",
+      "chinese": {
+        "meaning": "估計",
+        "example": "他們估計該項目費用約為一百萬美元。"
+      }
+    },
+    {
+      "word": "Evade",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To avoid or escape from something",
+      "example": "He tried to evade the question during the interview.",
+      "chinese": {
+        "meaning": "逃避",
+        "example": "他在面試中試圖迴避問題。"
+      }
+    },
+    {
+      "word": "Evaluate",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To judge or calculate the quality, importance, or value of something",
+      "example": "Students are asked to evaluate the effectiveness of the policy.",
+      "chinese": {
+        "meaning": "評估",
+        "example": "學生被要求評估該政策的有效性。"
+      }
+    },
+    {
+      "word": "Evolve",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To develop gradually over time",
+      "example": "Societies evolve through changes in culture and technology.",
+      "chinese": {
+        "meaning": "演變",
+        "example": "社會通過文化和技術的變化逐步演變。"
+      }
+    },
+    {
+      "word": "Examine",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To inspect or investigate carefully",
+      "example": "The scientist examined the data for inconsistencies.",
+      "chinese": {
+        "meaning": "檢查",
+        "example": "科學家仔細檢查了數據中的不一致性。"
+      }
+    },
+    {
+      "word": "Exceed",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To go beyond a limit or expectation",
+      "example": "The athlete exceeded all previous records.",
+      "chinese": {
+        "meaning": "超過",
+        "example": "運動員打破了所有先前的紀錄。"
+      }
+    },
+    {
+      "word": "Exclude",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To deliberately leave something out",
+      "example": "The report excludes data from the previous year.",
+      "chinese": {
+        "meaning": "排除",
+        "example": "報告排除了去年的數據。"
+      }
+    },
+    {
+      "word": "Exhibit",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To show or display something publicly",
+      "example": "The museum exhibits ancient artifacts.",
+      "chinese": {
+        "meaning": "展出",
+        "example": "博物館展出古代文物。"
+      }
+    },
+    {
+      "word": "Expand",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To increase in size, number, or importance",
+      "example": "The company plans to expand into international markets.",
+      "chinese": {
+        "meaning": "擴大",
+        "example": "公司計劃擴展到國際市場。"
+      }
+    },
+    {
+      "word": "Expect",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To think or believe something will happen",
+      "example": "We expect the results to be published soon.",
+      "chinese": {
+        "meaning": "期待",
+        "example": "我們期待結果很快公布。"
+      }
+    },
+    {
+      "word": "Explain",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To make something clear or easy to understand",
+      "example": "The professor explained the theory in simple terms.",
+      "chinese": {
+        "meaning": "解釋",
+        "example": "教授用簡單的語言解釋了這個理論。"
+      }
+    },
+    {
+      "word": "Exploit",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To use something for one's own advantage, often unfairly",
+      "example": "The company was accused of exploiting workers.",
+      "chinese": {
+        "meaning": "剝削",
+        "example": "該公司被指控剝削工人。"
+      }
+    },
+    {
+      "word": "Explore",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To investigate or study something in detail",
+      "example": "The students explored the causes of climate change.",
+      "chinese": {
+        "meaning": "探索",
+        "example": "學生們探索氣候變化的成因。"
+      }
+    },
+    {
+      "word": "Express",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To communicate thoughts or feelings",
+      "example": "She expressed her opinion confidently during the debate.",
+      "chinese": {
+        "meaning": "表達",
+        "example": "她在辯論中自信地表達了自己的觀點。"
+      }
+    },
+    {
+      "word": "Extend",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To make something longer or larger",
+      "example": "The deadline was extended by two weeks.",
+      "chinese": {
+        "meaning": "延長",
+        "example": "截止日期延長了兩週。"
+      }
+    },
+    {
+      "word": "Extract",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To remove or take out something, especially by effort or force",
+      "example": "The report extracts key information from the data.",
+      "chinese": {
+        "meaning": "提取",
+        "example": "報告從數據中提取了關鍵資訊。"
+      }
+    }
+  ]
 }
