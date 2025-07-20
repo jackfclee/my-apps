@@ -11,13 +11,19 @@ function startQuiz() {
   }
   const shuffled = Array.from(options).sort(() => Math.random() - 0.5);
 
-  document.getElementById('quizQuestion').innerText = `📘 What word means: "${correct.meaning}"`;
+  document.getElementById('quizQuestion').innerHTML = `📘 What word means: "${correct.meaning}"`;
+  document.getElementById('quizQuestion').dataset.cn = correct.chinese?.meaning || '';
+  document.getElementById('quizQuestion').dataset.showingCn = 'false';
+  document.getElementById('quizQuestion').dataset.en = `📘 What word means: "${correct.meaning}"`;
+
   const optionsDiv = document.getElementById('quizOptions');
   optionsDiv.innerHTML = '';
   shuffled.forEach(word => {
     const btn = document.createElement('button');
     btn.className = 'btn btn-outline-primary col-md-2 m-1 vocab-option';
     btn.innerText = word;
+    btn.setAttribute('data-cn', (words.find(w => w.word === word)?.chinese?.meaning) || '');
+    btn.setAttribute('data-en', word);
     btn.onclick = () => {
       if (word === correct.word) {
         btn.classList.remove('btn-outline-primary');
@@ -58,3 +64,34 @@ async function initChallengerPage() {
 initChallengerPage();
 
 document.getElementById('nextChallengeBtn').addEventListener('click', startQuiz);
+
+document.getElementById('showChineseBtn').addEventListener('click', () => {
+  const btn = document.getElementById('showChineseBtn');
+  const question = document.getElementById('quizQuestion');
+  const options = document.querySelectorAll('#quizOptions .vocab-option');
+  const showing = question.dataset.showingCn === 'true';
+  question.dataset.showingCn = (!showing).toString();
+  btn.classList.toggle('btn-outline-secondary', showing);
+  btn.classList.toggle('btn-outline-primary', !showing);
+
+  if (!showing) {
+    if (question.dataset.cn) {
+      const base = question.innerText;
+      question.innerHTML = `${base}<br/><small class="text-muted cn-translation">${question.dataset.cn}</small>`;
+    }
+    options.forEach(option => {
+      if (option.dataset.cn) {
+        const base = option.innerText;
+        option.innerHTML = `${base}<br/><small class="text-muted cn-translation">${option.dataset.cn}</small>`;
+      }
+    });
+  } else {
+    // Remove translations by restoring original text
+    if (question.dataset.cn) {
+      question.innerHTML = question.dataset.en;
+    }
+    options.forEach(option => {
+      option.innerText = option.dataset.en;
+    });
+  }
+});
