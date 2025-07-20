@@ -17,7 +17,7 @@ function renderCheatSheet() {
 
   filtered.forEach(w => {
     const card = document.createElement('div');
-    card.className = 'col-md-4';
+    card.className = 'col';
     card.innerHTML = `
       <div class="card h-100">
         <div class="card-body">
