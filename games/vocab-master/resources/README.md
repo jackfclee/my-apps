@@ -13,3 +13,9 @@ jq '.words |= sort_by(.word)' data-verb-A.json > sorted-data-verb-A.json
 ```bash
 jq -r '.words[].word' data-verb-A.json | sort | uniq -d
 ```
+
+### Deduplicate words in JSON
+
+```bash
+jq '.words |= unique_by(.word)' data-verb-A.json > deduped-data-verb-A.json
+```
