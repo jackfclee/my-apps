@@ -30,14 +30,16 @@
           <option value="adjective">Adjective</option>
           <option value="noun">Noun</option>
         </select>
-        <select id="letterFilter" class="form-select w-auto menu-control">
-          <option value="">All Letters</option>
-          <script> 
-            for (let c = 65; c <= 90; c++) {
-              document.write(`<option value="${String.fromCharCode(c)}">${String.fromCharCode(c)}</option>`);
-            }
-          </script>
-        </select>
+        <div class="ms-auto">
+          <select id="letterFilter" class="form-select w-auto menu-control">
+            <option value="">All Letters</option>
+            <script> 
+              for (let c = 65; c <= 90; c++) {
+                document.write(`<option value="${String.fromCharCode(c)}">${String.fromCharCode(c)}</option>`);
+              }
+            </script>
+          </select>
+        </div>
       </div>
     </div>
   </nav>
