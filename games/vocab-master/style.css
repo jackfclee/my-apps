@@ -22,6 +22,12 @@ body {
   min-height: 8rem;
 }
 
+@media (min-width: 1400px) {
+  .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 2048px;
+  }
+}
+
 @media (max-width: 1000px) {
   .btn-xl {
     font-size: 2rem;
