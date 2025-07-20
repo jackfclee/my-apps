@@ -4,7 +4,7 @@ export async function loadAllWordData() {
   const dataSuffix = '.json';
 
   const response = await fetch(`${dataFolder}index.json`);
-  const fileList = await response.json(); // Example: ["data-verb-A.json", "data-noun-B.json"]
+  const fileList = await response.json();
 
   const allWords = [];
 

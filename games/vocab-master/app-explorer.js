@@ -49,10 +49,31 @@ function renderCheatSheet() {
   });
 }
 
-loadAllWordData().then(data => {
-  words = data;
-  renderCheatSheet();
-});
+async function initExplorerPage() {
+  const overlay = document.getElementById('loadingOverlay');
+  if (overlay) {
+    overlay.style.display = 'flex';
+  }
+  try {
+    words = await loadAllWordData();
+    renderCheatSheet();
+  } catch (err) {
+    console.error('Error loading data:', err);
+    alert('Failed to load vocabulary data.');
+  } finally {
+    setTimeout(() => {
+      const overlay = document.getElementById('loadingOverlay');
+      if (overlay) {
+        overlay.style.display = 'none';
+        overlay.classList.remove('d-flex');
+      } else {
+        console.error('Overlay not found in DOM.');
+      }
+    }, 500);
+  }
+}
+
+initExplorerPage();
 
 document.getElementById('typeFilter').addEventListener('change', renderCheatSheet);
 document.getElementById('letterFilter').addEventListener('change', renderCheatSheet);

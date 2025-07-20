@@ -31,9 +31,30 @@ function startQuiz() {
   });
 }
 
-loadAllWordData().then(data => {
-  words = data;
-  startQuiz();
-});
+async function initChallengerPage() {
+  const overlay = document.getElementById('loadingOverlay');
+  if (overlay) {
+    overlay.style.display = 'flex';
+  }
+  try {
+    words = await loadAllWordData();
+    startQuiz();
+  } catch (err) {
+    console.error('Error loading data:', err);
+    alert('Failed to load vocabulary data.');
+  } finally {
+    setTimeout(() => {
+      const overlay = document.getElementById('loadingOverlay');
+      if (overlay) {
+        overlay.style.display = 'none';
+        overlay.classList.remove('d-flex');
+      } else {
+        console.error('Overlay not found in DOM.');
+      }
+    }, 500);
+  }
+}
+
+initChallengerPage();
 
 document.getElementById('nextChallengeBtn').addEventListener('click', startQuiz);
