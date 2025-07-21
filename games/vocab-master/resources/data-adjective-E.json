@@ -529,6 +529,17 @@
       }
     },
     {
+      "word": "Exclusive",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Restricted to a particular group or person; not shared",
+      "example": "The club has an exclusive membership policy.",
+      "chinese": {
+        "meaning": "專有的；排外的",
+        "example": "這家俱樂部實行專屬會員政策。"
+      }
+    },
+    {
       "word": "Exemplary",
       "type": "adjective",
       "letter": "E",

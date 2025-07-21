@@ -342,6 +342,17 @@
       }
     },
     {
+      "word": "Conclusive",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Serving to prove a case or to end a debate or question.",
+      "example": "The evidence was conclusive and left no doubt.",
+      "chinese": {
+        "meaning": "決定性的，確鑿的",
+        "example": "這些證據是確鑿的，毫無疑問。"
+      }
+    },
+    {
       "word": "Confident",
       "type": "adjective",
       "letter": "C",

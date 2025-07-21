@@ -375,6 +375,17 @@
       }
     },
     {
+      "word": "Preclusive",
+      "type": "adjective",
+      "letter": "P",
+      "meaning": "Serving to prevent or exclude.",
+      "example": "The contract has a preclusive clause.",
+      "chinese": {
+        "meaning": "排除性的，預防性的",
+        "example": "合約中有一條排除條款。"
+      }
+    },
+    {
       "word": "Predictable",
       "type": "adjective",
       "letter": "P",

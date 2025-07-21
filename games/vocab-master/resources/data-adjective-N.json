@@ -342,6 +342,17 @@
       }
     },
     {
+      "word": "Noninclusive",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not including all people or things; exclusive",
+      "example": "The policy was criticized for being noninclusive.",
+      "chinese": {
+        "meaning": "不包容的，不包括全部的",
+        "example": "這項政策因不包容而受到批評。"
+      }
+    },
+    {
       "word": "Nonplussed",
       "type": "adjective",
       "letter": "N",
