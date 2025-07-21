@@ -507,17 +507,6 @@
       }
     },
     {
-      "word": "Frank",
-      "type": "adjective",
-      "letter": "F",
-      "meaning": "Open, honest, and direct in speech or writing",
-      "example": "She gave a frank answer.",
-      "chinese": {
-        "meaning": "坦率的",
-        "example": "她給了一個坦率的回答。"
-      }
-    },
-    {
       "word": "Frail",
       "type": "adjective",
       "letter": "F",
@@ -526,6 +515,17 @@
       "chinese": {
         "meaning": "虛弱的",
         "example": "那位老人身體虛弱且瘦小。"
+      }
+    },
+    {
+      "word": "Frank",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Open, honest, and direct in speech or writing",
+      "example": "She gave a frank answer.",
+      "chinese": {
+        "meaning": "坦率的",
+        "example": "她給了一個坦率的回答。"
       }
     },
     {

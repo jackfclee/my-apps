@@ -12,6 +12,17 @@
       }
     },
     {
+      "word": "Galloping",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Moving at a fast pace, especially a horse’s gait",
+      "example": "The horse had a galloping stride.",
+      "chinese": {
+        "meaning": "飛奔的",
+        "example": "那匹馬飛奔著。"
+      }
+    },
+    {
       "word": "Gargantuan",
       "type": "adjective",
       "letter": "G",
@@ -23,6 +34,17 @@
       }
     },
     {
+      "word": "Gastric",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to the stomach",
+      "example": "He suffered from gastric pain.",
+      "chinese": {
+        "meaning": "胃的",
+        "example": "他胃痛。"
+      }
+    },
+    {
       "word": "Gaudy",
       "type": "adjective",
       "letter": "G",
@@ -31,6 +53,17 @@
       "chinese": {
         "meaning": "俗氣的",
         "example": "她穿著一件俗氣的裙子去參加派對。"
+      }
+    },
+    {
+      "word": "Gaunt",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Lean and haggard, especially because of suffering or hunger",
+      "example": "The prisoner looked gaunt and tired.",
+      "chinese": {
+        "meaning": "憔悴的",
+        "example": "囚犯看起來憔悴且疲憊。"
       }
     },
     {
@@ -122,325 +155,6 @@
       }
     },
     {
-      "word": "Glorious",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Having great beauty and splendor",
-      "example": "They enjoyed a glorious sunset.",
-      "chinese": {
-        "meaning": "光榮的；輝煌的",
-        "example": "他們欣賞了一場輝煌的日落。"
-      }
-    },
-    {
-      "word": "Glum",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Looking or feeling dejected; morose",
-      "example": "He was glum after hearing the bad news.",
-      "chinese": {
-        "meaning": "沮喪的",
-        "example": "聽到壞消息後，他感到沮喪。"
-      }
-    },
-    {
-      "word": "Golden",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Made of gold or having the color of gold",
-      "example": "She wore a golden necklace.",
-      "chinese": {
-        "meaning": "金色的",
-        "example": "她戴著一條金色的項鍊。"
-      }
-    },
-    {
-      "word": "Good-natured",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Having a pleasant and kindly disposition",
-      "example": "He is a good-natured person.",
-      "chinese": {
-        "meaning": "性情好的",
-        "example": "他是一個性情好的人。"
-      }
-    },
-    {
-      "word": "Goofy",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Silly; foolish",
-      "example": "He made a goofy face to make us laugh.",
-      "chinese": {
-        "meaning": "愚蠢的",
-        "example": "他做了個愚蠢的表情逗我們笑。"
-      }
-    },
-    {
-      "word": "Graceful",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Having or showing elegance or beauty of movement",
-      "example": "The dancer had a graceful performance.",
-      "chinese": {
-        "meaning": "優雅的",
-        "example": "舞者的表演非常優雅。"
-      }
-    },
-    {
-      "word": "Grand",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Magnificent and imposing in appearance",
-      "example": "They stayed in a grand hotel.",
-      "chinese": {
-        "meaning": "宏偉的",
-        "example": "他們住在一家宏偉的酒店。"
-      }
-    },
-    {
-      "word": "Grandiose",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Impressive but impractical or pretentious",
-      "example": "He had grandiose plans for the project.",
-      "chinese": {
-        "meaning": "宏偉的；浮誇的",
-        "example": "他對這個項目有宏偉的計劃。"
-      }
-    },
-    {
-      "word": "Grateful",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Feeling or showing thanks",
-      "example": "She was grateful for the support.",
-      "chinese": {
-        "meaning": "感激的",
-        "example": "她對支持表示感激。"
-      }
-    },
-    {
-      "word": "Gray",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Of a color intermediate between black and white",
-      "example": "The sky was gray before the storm.",
-      "chinese": {
-        "meaning": "灰色的",
-        "example": "暴風雨前天空是灰色的。"
-      }
-    },
-    {
-      "word": "Greedy",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Having or showing an intense desire for something, especially wealth or food",
-      "example": "He was too greedy to share his winnings.",
-      "chinese": {
-        "meaning": "貪婪的",
-        "example": "他太貪婪，不願分享他的獎金。"
-      }
-    },
-    {
-      "word": "Green",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Of the color between blue and yellow in the spectrum",
-      "example": "The leaves are green in spring.",
-      "chinese": {
-        "meaning": "綠色的",
-        "example": "春天的葉子是綠色的。"
-      }
-    },
-    {
-      "word": "Grim",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Forbidding or uninviting",
-      "example": "The future looked grim after the disaster.",
-      "chinese": {
-        "meaning": "嚴峻的",
-        "example": "災難後未來看起來很嚴峻。"
-      }
-    },
-    {
-      "word": "Grimy",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Covered with or characterized by grime",
-      "example": "His hands were grimy after working outside.",
-      "chinese": {
-        "meaning": "骯髒的",
-        "example": "他在外面工作後手上很骯髒。"
-      }
-    },
-    {
-      "word": "Gripping",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Firmly holding attention or interest",
-      "example": "The novel was gripping from start to finish.",
-      "chinese": {
-        "meaning": "引人入勝的",
-        "example": "這本小說從頭到尾都很引人入勝。"
-      }
-    },
-    {
-      "word": "Gross",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Very unpleasant or disgusting",
-      "example": "The food tasted gross.",
-      "chinese": {
-        "meaning": "令人作嘔的",
-        "example": "食物味道令人作嘔。"
-      }
-    },
-    {
-      "word": "Grotesque",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Comically or repulsively ugly or distorted",
-      "example": "The statue had a grotesque appearance.",
-      "chinese": {
-        "meaning": "怪誕的",
-        "example": "雕像看起來怪誕。"
-      }
-    },
-    {
-      "word": "Grouchy",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Irritable and bad-tempered",
-      "example": "He was grouchy all morning.",
-      "chinese": {
-        "meaning": "脾氣壞的",
-        "example": "他整個早上都脾氣壞。"
-      }
-    },
-    {
-      "word": "Grounded",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Sensible and realistic",
-      "example": "She remained grounded despite her success.",
-      "chinese": {
-        "meaning": "腳踏實地的",
-        "example": "儘管成功，她仍然腳踏實地。"
-      }
-    },
-    {
-      "word": "Grueling",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Extremely tiring and demanding",
-      "example": "They completed a grueling training session.",
-      "chinese": {
-        "meaning": "艱苦的",
-        "example": "他們完成了一場艱苦的訓練。"
-      }
-    },
-    {
-      "word": "Gruesome",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Causing repulsion or horror",
-      "example": "The crime scene was gruesome.",
-      "chinese": {
-        "meaning": "令人毛骨悚然的",
-        "example": "犯罪現場令人毛骨悚然。"
-      }
-    },
-    {
-      "word": "Grumpy",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Bad-tempered and sulky",
-      "example": "The grumpy old man yelled at the children.",
-      "chinese": {
-        "meaning": "脾氣壞的",
-        "example": "那個脾氣壞的老人對孩子們大喊大叫。"
-      }
-    },
-    {
-      "word": "Guilty",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Responsible for a specified wrongdoing",
-      "example": "He felt guilty for breaking the vase.",
-      "chinese": {
-        "meaning": "有罪的",
-        "example": "他因打破花瓶感到內疚。"
-      }
-    },
-    {
-      "word": "Gutsy",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Showing courage, determination, or spirit",
-      "example": "It was a gutsy move to question the decision.",
-      "chinese": {
-        "meaning": "有膽量的",
-        "example": "質疑這個決定是個很有膽量的舉動。"
-      }
-    },
-    {
-      "word": "Guttural",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Produced in the throat; harsh-sounding",
-      "example": "He spoke in a guttural voice.",
-      "chinese": {
-        "meaning": "喉音的",
-        "example": "他用喉音說話。"
-      }
-    },
-    {
-      "word": "Gyroscopic",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Relating to or involving a gyroscope",
-      "example": "The drone uses gyroscopic sensors for stability.",
-      "chinese": {
-        "meaning": "陀螺儀的",
-        "example": "無人機使用陀螺儀感應器來保持穩定。"
-      }
-    },
-    {
-      "word": "Galloping",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Moving at a fast pace, especially a horse’s gait",
-      "example": "The horse had a galloping stride.",
-      "chinese": {
-        "meaning": "飛奔的",
-        "example": "那匹馬飛奔著。"
-      }
-    },
-    {
-      "word": "Gastric",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Relating to the stomach",
-      "example": "He suffered from gastric pain.",
-      "chinese": {
-        "meaning": "胃的",
-        "example": "他胃痛。"
-      }
-    },
-    {
-      "word": "Gaunt",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Lean and haggard, especially because of suffering or hunger",
-      "example": "The prisoner looked gaunt and tired.",
-      "chinese": {
-        "meaning": "憔悴的",
-        "example": "囚犯看起來憔悴且疲憊。"
-      }
-    },
-    {
       "word": "Gleaming",
       "type": "adjective",
       "letter": "G",
@@ -496,17 +210,6 @@
       }
     },
     {
-      "word": "Gnarly",
-      "type": "adjective",
-      "letter": "G",
-      "meaning": "Knobbly, rough, and twisted, especially with age",
-      "example": "The gnarly tree stood in the field.",
-      "chinese": {
-        "meaning": "多節的；扭曲的",
-        "example": "那棵多節的樹矗立在田野中。"
-      }
-    },
-    {
       "word": "Gnarled",
       "type": "adjective",
       "letter": "G",
@@ -518,6 +221,28 @@
       }
     },
     {
+      "word": "Gnarly",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Knobbly, rough, and twisted, especially with age",
+      "example": "The gnarly tree stood in the field.",
+      "chinese": {
+        "meaning": "多節的；扭曲的",
+        "example": "那棵多節的樹矗立在田野中。"
+      }
+    },
+    {
+      "word": "Golden",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Made of gold or having the color of gold",
+      "example": "She wore a golden necklace.",
+      "chinese": {
+        "meaning": "金色的",
+        "example": "她戴著一條金色的項鍊。"
+      }
+    },
+    {
       "word": "Good",
       "type": "adjective",
       "letter": "G",
@@ -526,6 +251,17 @@
       "chinese": {
         "meaning": "好的",
         "example": "她在項目中做得很好。"
+      }
+    },
+    {
+      "word": "Good-natured",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Having a pleasant and kindly disposition",
+      "example": "He is a good-natured person.",
+      "chinese": {
+        "meaning": "性情好的",
+        "example": "他是一個性情好的人。"
       }
     },
     {
@@ -628,6 +364,17 @@
       }
     },
     {
+      "word": "Greedy",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Having or showing an intense desire for something, especially wealth or food",
+      "example": "He was too greedy to share his winnings.",
+      "chinese": {
+        "meaning": "貪婪的",
+        "example": "他太貪婪，不願分享他的獎金。"
+      }
+    },
+    {
       "word": "Green",
       "type": "adjective",
       "letter": "G",
@@ -705,6 +452,17 @@
       }
     },
     {
+      "word": "Grounded",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Sensible and realistic",
+      "example": "She remained grounded despite her success.",
+      "chinese": {
+        "meaning": "腳踏實地的",
+        "example": "儘管成功，她仍然腳踏實地。"
+      }
+    },
+    {
       "word": "Grubby",
       "type": "adjective",
       "letter": "G",
@@ -713,6 +471,39 @@
       "chinese": {
         "meaning": "骯髒的",
         "example": "孩子們在外面玩後手很骯髒。"
+      }
+    },
+    {
+      "word": "Grueling",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Extremely tiring and demanding",
+      "example": "They completed a grueling training session.",
+      "chinese": {
+        "meaning": "艱苦的",
+        "example": "他們完成了一場艱苦的訓練。"
+      }
+    },
+    {
+      "word": "Gruesome",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Causing repulsion or horror",
+      "example": "The crime scene was gruesome.",
+      "chinese": {
+        "meaning": "令人毛骨悚然的",
+        "example": "犯罪現場令人毛骨悚然。"
+      }
+    },
+    {
+      "word": "Grumpy",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Bad-tempered and sulky",
+      "example": "The grumpy old man yelled at the children.",
+      "chinese": {
+        "meaning": "脾氣壞的",
+        "example": "那個脾氣壞的老人對孩子們大喊大叫。"
       }
     },
     {
@@ -738,6 +529,17 @@
       }
     },
     {
+      "word": "Guilty",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Responsible for a specified wrongdoing",
+      "example": "He felt guilty for breaking the vase.",
+      "chinese": {
+        "meaning": "有罪的",
+        "example": "他因打破花瓶感到內疚。"
+      }
+    },
+    {
       "word": "Gusty",
       "type": "adjective",
       "letter": "G",
@@ -746,6 +548,28 @@
       "chinese": {
         "meaning": "陣風的",
         "example": "陣風使行走變得困難。"
+      }
+    },
+    {
+      "word": "Gutsy",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Showing courage, determination, or spirit",
+      "example": "It was a gutsy move to question the decision.",
+      "chinese": {
+        "meaning": "有膽量的",
+        "example": "質疑這個決定是個很有膽量的舉動。"
+      }
+    },
+    {
+      "word": "Guttural",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Produced in the throat; harsh-sounding",
+      "example": "He spoke in a guttural voice.",
+      "chinese": {
+        "meaning": "喉音的",
+        "example": "他用喉音說話。"
       }
     },
     {

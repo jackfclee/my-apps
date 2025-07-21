@@ -419,17 +419,6 @@
       }
     },
     {
-      "word": "Difficult",
-      "type": "adjective",
-      "letter": "D",
-      "meaning": "Needing much effort or skill; hard to do",
-      "example": "Math can be a difficult subject.",
-      "chinese": {
-        "meaning": "困難的",
-        "example": "數學可能是一門困難的科目。"
-      }
-    },
-    {
       "word": "Different",
       "type": "adjective",
       "letter": "D",
@@ -438,6 +427,17 @@
       "chinese": {
         "meaning": "不同的",
         "example": "他們有不同的意見。"
+      }
+    },
+    {
+      "word": "Difficult",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Needing much effort or skill; hard to do",
+      "example": "Math can be a difficult subject.",
+      "chinese": {
+        "meaning": "困難的",
+        "example": "數學可能是一門困難的科目。"
       }
     },
     {

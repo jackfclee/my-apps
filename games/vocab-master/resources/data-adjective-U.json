@@ -1,71 +1,763 @@
-{"words": [
-  {"word": "ubiquitous", "type": "adjective", "letter": "U", "meaning": "Present, appearing, or found everywhere.", "example": "Smartphones have become ubiquitous in modern society.", "chinese": {"meaning": "無處不在的", "example": "智慧型手機在現代社會中已經變得無處不在。"}},
-  {"word": "ulcerous", "type": "adjective", "letter": "U", "meaning": "Having or constituting an ulcer; affected with ulcers.", "example": "The patient had an ulcerous sore on his leg.", "chinese": {"meaning": "潰瘍的", "example": "病人的腿上有一個潰瘍的傷口。"}},
-  {"word": "ulterior", "type": "adjective", "letter": "U", "meaning": "Existing beyond what is obvious or admitted; intentionally hidden.", "example": "He had an ulterior motive for helping her.", "chinese": {"meaning": "隱藏的；別有用心的", "example": "他幫助她是別有用心的。"}},
-  {"word": "ultimate", "type": "adjective", "letter": "U", "meaning": "Being or happening at the end of a process; final.", "example": "Winning the championship was their ultimate goal.", "chinese": {"meaning": "最終的；極限的", "example": "贏得冠軍是他們的最終目標。"}},
-  {"word": "ultramarine", "type": "adjective", "letter": "U", "meaning": "A brilliant deep blue color.", "example": "She wore an ultramarine dress to the party.", "chinese": {"meaning": "群青色的", "example": "她穿著群青色的洋裝參加派對。"}},
-  {"word": "ultrasonic", "type": "adjective", "letter": "U", "meaning": "Of or involving sound waves with a frequency above the upper limit of human hearing.", "example": "Bats use ultrasonic signals to navigate.", "chinese": {"meaning": "超音波的", "example": "蝙蝠利用超音波來導航。"}},
-  {"word": "ultraviolet", "type": "adjective", "letter": "U", "meaning": "Having a wavelength shorter than that of the violet end of the visible spectrum but longer than that of X-rays.", "example": "Ultraviolet rays can be harmful to the skin.", "chinese": {"meaning": "紫外線的", "example": "紫外線對皮膚可能有害。"}},
-  {"word": "unabashed", "type": "adjective", "letter": "U", "meaning": "Not embarrassed, disconcerted, or ashamed.", "example": "She was unabashed about her opinion.", "chinese": {"meaning": "不害羞的；不怕羞的", "example": "她對自己的意見毫不害羞。"}},
-  {"word": "unadorned", "type": "adjective", "letter": "U", "meaning": "Not decorated or elaborate; plain.", "example": "The room was simple and unadorned.", "chinese": {"meaning": "未裝飾的；樸素的", "example": "這個房間簡單而樸素。"}},
-  {"word": "unanimous", "type": "adjective", "letter": "U", "meaning": "Fully in agreement.", "example": "The decision was unanimous among the team members.", "chinese": {"meaning": "一致的", "example": "團隊成員的決定是一致的。"}},
-  {"word": "unassuming", "type": "adjective", "letter": "U", "meaning": "Not pretentious or arrogant; modest.", "example": "He is an unassuming and humble leader.", "chinese": {"meaning": "謙遜的；不裝腔作勢的", "example": "他是一位謙遜且低調的領導者。"}},
-  {"word": "unavailable", "type": "adjective", "letter": "U", "meaning": "Not able to be used or obtained.", "example": "The manager is currently unavailable.", "chinese": {"meaning": "不可用的；無法取得的", "example": "經理目前無法接聽。"}},
-  {"word": "unavoidable", "type": "adjective", "letter": "U", "meaning": "Impossible to avoid or prevent.", "example": "Conflict was unavoidable in that situation.", "chinese": {"meaning": "不可避免的", "example": "在那種情況下衝突是不可避免的。"}},
-  {"word": "unbearable", "type": "adjective", "letter": "U", "meaning": "Not able to be endured or tolerated.", "example": "The pain was unbearable.", "chinese": {"meaning": "無法忍受的", "example": "那種疼痛讓人無法忍受。"}},
-  {"word": "unbiased", "type": "adjective", "letter": "U", "meaning": "Showing no prejudice for or against something; impartial.", "example": "The judge was unbiased in her decision.", "chinese": {"meaning": "無偏見的；公正的", "example": "法官的判決是公正無私的。"}},
-  {"word": "uncanny", "type": "adjective", "letter": "U", "meaning": "Strange or mysterious, especially in an unsettling way.", "example": "He has an uncanny ability to predict the future.", "chinese": {"meaning": "不可思議的；離奇的", "example": "他有一種不可思議的預知能力。"}},
-  {"word": "unchanging", "type": "adjective", "letter": "U", "meaning": "Not changing; remaining the same.", "example": "The rules are unchanging.", "chinese": {"meaning": "不變的", "example": "規則是不變的。"}},
-  {"word": "uncomfortable", "type": "adjective", "letter": "U", "meaning": "Causing or feeling slight pain or physical discomfort.", "example": "The chair was uncomfortable.", "chinese": {"meaning": "不舒服的", "example": "那張椅子坐起來不舒服。"}},
-  {"word": "uncommon", "type": "adjective", "letter": "U", "meaning": "Out of the ordinary; unusual.", "example": "This species is uncommon in this region.", "chinese": {"meaning": "罕見的；不常見的", "example": "這種物種在這個地區很罕見。"}},
-  {"word": "unconditional", "type": "adjective", "letter": "U", "meaning": "Not subject to any conditions.", "example": "She gave him her unconditional support.", "chinese": {"meaning": "無條件的", "example": "她給予他無條件的支持。"}},
-  {"word": "unconscious", "type": "adjective", "letter": "U", "meaning": "Not awake and aware of and responding to one's environment.", "example": "He was unconscious after the accident.", "chinese": {"meaning": "無意識的；昏迷的", "example": "他在事故後失去了意識。"}},
-  {"word": "unconventional", "type": "adjective", "letter": "U", "meaning": "Not based on or conforming to what is generally done or believed.", "example": "She has an unconventional approach to teaching.", "chinese": {"meaning": "非傳統的；非慣例的", "example": "她的教學方法很非傳統。"}},
-  {"word": "undaunted", "type": "adjective", "letter": "U", "meaning": "Not intimidated or discouraged by difficulty, danger, or disappointment.", "example": "She remained undaunted by the challenges.", "chinese": {"meaning": "不氣餒的；無畏的", "example": "面對挑戰她依然無畏。"}},
-  {"word": "underhanded", "type": "adjective", "letter": "U", "meaning": "Acting or done in a secret or dishonest way.", "example": "He used underhanded tactics to win.", "chinese": {"meaning": "偷偷摸摸的；不正當的", "example": "他用不正當的手段取勝。"}},
-  {"word": "underlying", "type": "adjective", "letter": "U", "meaning": "Basic; fundamental; present but not obvious.", "example": "We need to address the underlying causes of the problem.", "chinese": {"meaning": "根本的；潛在的", "example": "我們需要解決問題的根本原因。"}},
-  {"word": "undisputed", "type": "adjective", "letter": "U", "meaning": "Not disputed or called in question; accepted.", "example": "She is the undisputed champion.", "chinese": {"meaning": "無可爭議的", "example": "她是無可爭議的冠軍。"}},
-  {"word": "undivided", "type": "adjective", "letter": "U", "meaning": "Not divided or separated.", "example": "He gave the task his undivided attention.", "chinese": {"meaning": "全神貫注的；未分割的", "example": "他全神貫注於這項任務。"}},
-  {"word": "undulating", "type": "adjective", "letter": "U", "meaning": "Moving with a smooth, wave-like motion.", "example": "The undulating hills were beautiful.", "chinese": {"meaning": "起伏的；波動的", "example": "起伏的山丘非常美麗。"}},
-  {"word": "unduly", "type": "adjective", "letter": "U", "meaning": "To an unwarranted degree; excessively.", "example": "He was unduly harsh with his criticism.", "chinese": {"meaning": "過度的；不適當的", "example": "他的批評過於嚴厲。"}},
-  {"word": "uneasy", "type": "adjective", "letter": "U", "meaning": "Causing or feeling anxiety; troubled or uncomfortable.", "example": "She felt uneasy about the decision.", "chinese": {"meaning": "不安的；不自在的", "example": "她對這個決定感到不安。"}},
-  {"word": "unfailing", "type": "adjective", "letter": "U", "meaning": "Without error or fault; reliable.", "example": "She has unfailing patience with children.", "chinese": {"meaning": "不懈的；可靠的", "example": "她對孩子有不懈的耐心。"}},
-  {"word": "unfamiliar", "type": "adjective", "letter": "U", "meaning": "Not known or recognized.", "example": "The city was unfamiliar to him.", "chinese": {"meaning": "不熟悉的", "example": "這個城市對他來說很陌生。"}},
-  {"word": "unfortunate", "type": "adjective", "letter": "U", "meaning": "Having or marked by bad fortune; unlucky.", "example": "It was an unfortunate accident.", "chinese": {"meaning": "不幸的", "example": "那是一場不幸的意外。"}},
-  {"word": "ungainly", "type": "adjective", "letter": "U", "meaning": "Awkward; clumsy.", "example": "The ungainly bird struggled to take flight.", "chinese": {"meaning": "笨拙的", "example": "那隻笨拙的鳥努力想飛起來。"}},
-  {"word": "ungrateful", "type": "adjective", "letter": "U", "meaning": "Not feeling or showing gratitude.", "example": "It is ungrateful to ignore their help.", "chinese": {"meaning": "忘恩負義的", "example": "忽略他們的幫助是忘恩負義的。"}},
-  {"word": "unharmed", "type": "adjective", "letter": "U", "meaning": "Not hurt or damaged.", "example": "Luckily, she was unharmed in the accident.", "chinese": {"meaning": "未受傷的", "example": "幸運的是她在事故中毫髮無傷。"}},
-  {"word": "unilateral", "type": "adjective", "letter": "U", "meaning": "Performed by or affecting only one side.", "example": "The decision was unilateral.", "chinese": {"meaning": "單方面的", "example": "這個決定是單方面的。"}},
-  {"word": "unique", "type": "adjective", "letter": "U", "meaning": "Being the only one of its kind; unlike anything else.", "example": "Her style is truly unique.", "chinese": {"meaning": "獨特的", "example": "她的風格非常獨特。"}},
-  {"word": "universal", "type": "adjective", "letter": "U", "meaning": "Relating to or done by all people or things in the world or in a particular group; applicable to all cases.", "example": "Freedom is a universal value.", "chinese": {"meaning": "普遍的；全世界的", "example": "自由是一個普世價值。"}},
-  {"word": "unjust", "type": "adjective", "letter": "U", "meaning": "Not based on or behaving according to what is morally right and fair.", "example": "The law was considered unjust by many.", "chinese": {"meaning": "不公正的", "example": "這條法律被許多人認為是不公正的。"}},
-  {"word": "unkempt", "type": "adjective", "letter": "U", "meaning": "Having an untidy or disheveled appearance.", "example": "He looked tired and unkempt.", "chinese": {"meaning": "不整潔的", "example": "他看起來疲憊且不整潔。"}},
-  {"word": "unlawful", "type": "adjective", "letter": "U", "meaning": "Not conforming to, permitted by, or recognized by law or rules.", "example": "The company was fined for unlawful practices.", "chinese": {"meaning": "非法的", "example": "公司因非法行為被罰款。"}},
-  {"word": "unmistakable", "type": "adjective", "letter": "U", "meaning": "Not able to be mistaken for anything else; very distinctive.", "example": "Her laughter was unmistakable.", "chinese": {"meaning": "明顯的；不會弄錯的", "example": "她的笑聲非常明顯。"}},
-  {"word": "unorthodox", "type": "adjective", "letter": "U", "meaning": "Contrary to what is usual, traditional, or accepted.", "example": "He used an unorthodox method to solve the problem.", "chinese": {"meaning": "非正統的；異端的", "example": "他用非正統的方法解決了這個問題。"}},
-  {"word": "unprecedented", "type": "adjective", "letter": "U", "meaning": "Never done or known before.", "example": "The pandemic had an unprecedented impact.", "chinese": {"meaning": "史無前例的", "example": "疫情帶來了史無前例的影響。"}},
-  {"word": "unpredictable", "type": "adjective", "letter": "U", "meaning": "Not able to be predicted.", "example": "The weather is unpredictable in this region.", "chinese": {"meaning": "無法預測的", "example": "這個地區的天氣無法預測。"}},
-  {"word": "unquestionable", "type": "adjective", "letter": "U", "meaning": "Not able to be disputed or doubted.", "example": "His honesty is unquestionable.", "chinese": {"meaning": "無可置疑的", "example": "他的誠實是無可置疑的。"}},
-  {"word": "unreal", "type": "adjective", "letter": "U", "meaning": "So strange as to appear imaginary; not real.", "example": "The view from the mountain was unreal.", "chinese": {"meaning": "不真實的", "example": "山上的景色美得不真實。"}},
-  {"word": "unrelenting", "type": "adjective", "letter": "U", "meaning": "Not yielding in strength, severity, or determination.", "example": "He was unrelenting in his pursuit of justice.", "chinese": {"meaning": "不屈不撓的", "example": "他在追求正義的路上不屈不撓。"}},
-  {"word": "unrivaled", "type": "adjective", "letter": "U", "meaning": "Better than everyone or everything of the same type.", "example": "She has an unrivaled talent for music.", "chinese": {"meaning": "無可匹敵的", "example": "她的音樂才華無可匹敵。"}},
-  {"word": "unscrupulous", "type": "adjective", "letter": "U", "meaning": "Having or showing no moral principles; not honest or fair.", "example": "He is unscrupulous in his business dealings.", "chinese": {"meaning": "不道德的；無恥的", "example": "他在生意上非常不道德。"}},
-  {"word": "unselfish", "type": "adjective", "letter": "U", "meaning": "Willing to put the needs or wishes of others before one's own.", "example": "Her unselfish actions inspired everyone.", "chinese": {"meaning": "無私的", "example": "她的無私行為激勵了大家。"}},
-  {"word": "unsightly", "type": "adjective", "letter": "U", "meaning": "Unpleasant to look at; ugly.", "example": "The graffiti made the wall unsightly.", "chinese": {"meaning": "難看的", "example": "塗鴉讓牆壁變得難看。"}},
-  {"word": "unsuitable", "type": "adjective", "letter": "U", "meaning": "Not appropriate for a particular purpose or occasion.", "example": "His outfit was unsuitable for the event.", "chinese": {"meaning": "不適合的", "example": "他的穿著不適合這個場合。"}},
-  {"word": "unsung", "type": "adjective", "letter": "U", "meaning": "Not celebrated or praised.", "example": "She is an unsung hero in the community.", "chinese": {"meaning": "未被讚揚的", "example": "她是社區中未被讚揚的英雄。"}},
-  {"word": "untamed", "type": "adjective", "letter": "U", "meaning": "Not domesticated or controlled.", "example": "The horse remained untamed.", "chinese": {"meaning": "未馴服的", "example": "這匹馬仍然未被馴服。"}},
-  {"word": "untimely", "type": "adjective", "letter": "U", "meaning": "Happening or done at an unsuitable time.", "example": "His untimely death shocked everyone.", "chinese": {"meaning": "不合時宜的；過早的", "example": "他過早的去世讓大家震驚。"}},
-  {"word": "untouchable", "type": "adjective", "letter": "U", "meaning": "Not able to be touched or affected.", "example": "For years, the leader seemed untouchable.", "chinese": {"meaning": "不可觸碰的；無法動搖的", "example": "多年來，這位領袖似乎無法動搖。"}},
-  {"word": "untraceable", "type": "adjective", "letter": "U", "meaning": "Unable to be found, discovered, or traced.", "example": "The source of the rumor was untraceable.", "chinese": {"meaning": "無法追蹤的", "example": "謠言的來源無法追蹤。"}},
-  {"word": "untrustworthy", "type": "adjective", "letter": "U", "meaning": "Not able to be relied on as honest or truthful.", "example": "He was considered untrustworthy by his peers.", "chinese": {"meaning": "不可信的", "example": "同儕們認為他不可信。"}},
-  {"word": "unusual", "type": "adjective", "letter": "U", "meaning": "Not habitually or commonly occurring or done.", "example": "It was unusual to see snow in this area.", "chinese": {"meaning": "不尋常的", "example": "在這個地區下雪很不尋常。"}},
-  {"word": "upbeat", "type": "adjective", "letter": "U", "meaning": "Cheerful; optimistic.", "example": "She always has an upbeat attitude.", "chinese": {"meaning": "樂觀的；積極的", "example": "她總是保持樂觀的態度。"}},
-  {"word": "upright", "type": "adjective", "letter": "U", "meaning": "Strictly honorable or honest.", "example": "He is known as an upright citizen.", "chinese": {"meaning": "正直的", "example": "他以正直聞名。"}},
-  {"word": "upscale", "type": "adjective", "letter": "U", "meaning": "Relating to goods or services that are expensive and of high quality.", "example": "They opened an upscale restaurant downtown.", "chinese": {"meaning": "高檔的", "example": "他們在市中心開了一家高檔餐廳。"}},
-  {"word": "urbane", "type": "adjective", "letter": "U", "meaning": "Courteous and refined in manner.", "example": "He is an urbane and sophisticated gentleman.", "chinese": {"meaning": "溫文爾雅的", "example": "他是一位溫文爾雅的紳士。"}},
-  {"word": "urgent", "type": "adjective", "letter": "U", "meaning": "Requiring immediate action or attention.", "example": "She received an urgent call from the hospital.", "chinese": {"meaning": "緊急的", "example": "她接到醫院的緊急電話。"}},
-  {"word": "useful", "type": "adjective", "letter": "U", "meaning": "Able to be used for a practical purpose or in several ways.", "example": "The internet is a useful tool for research.", "chinese": {"meaning": "有用的", "example": "網路是研究的有用工具。"}},
-  {"word": "useless", "type": "adjective", "letter": "U", "meaning": "Not fulfilling or not expected to achieve the intended purpose or desired outcome.", "example": "The broken pen was useless.", "chinese": {"meaning": "無用的", "example": "這支壞掉的筆毫無用處。"}},
-  {"word": "usual", "type": "adjective", "letter": "U", "meaning": "Habitually or typically occurring or done; customary.", "example": "He took his usual route to school.", "chinese": {"meaning": "通常的；慣常的", "example": "他走平常的路去學校。"}}
-]}
+{
+  "words": [
+    {
+      "word": "ubiquitous",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Present, appearing, or found everywhere.",
+      "example": "Smartphones have become ubiquitous in modern society.",
+      "chinese": {
+        "meaning": "無處不在的",
+        "example": "智慧型手機在現代社會中已經變得無處不在。"
+      }
+    },
+    {
+      "word": "ulcerous",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Having or constituting an ulcer; affected with ulcers.",
+      "example": "The patient had an ulcerous sore on his leg.",
+      "chinese": {
+        "meaning": "潰瘍的",
+        "example": "病人的腿上有一個潰瘍的傷口。"
+      }
+    },
+    {
+      "word": "ulterior",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Existing beyond what is obvious or admitted; intentionally hidden.",
+      "example": "He had an ulterior motive for helping her.",
+      "chinese": {
+        "meaning": "隱藏的；別有用心的",
+        "example": "他幫助她是別有用心的。"
+      }
+    },
+    {
+      "word": "ultimate",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Being or happening at the end of a process; final.",
+      "example": "Winning the championship was their ultimate goal.",
+      "chinese": {
+        "meaning": "最終的；極限的",
+        "example": "贏得冠軍是他們的最終目標。"
+      }
+    },
+    {
+      "word": "ultramarine",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "A brilliant deep blue color.",
+      "example": "She wore an ultramarine dress to the party.",
+      "chinese": {
+        "meaning": "群青色的",
+        "example": "她穿著群青色的洋裝參加派對。"
+      }
+    },
+    {
+      "word": "ultrasonic",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Of or involving sound waves with a frequency above the upper limit of human hearing.",
+      "example": "Bats use ultrasonic signals to navigate.",
+      "chinese": {
+        "meaning": "超音波的",
+        "example": "蝙蝠利用超音波來導航。"
+      }
+    },
+    {
+      "word": "ultraviolet",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Having a wavelength shorter than that of the violet end of the visible spectrum but longer than that of X-rays.",
+      "example": "Ultraviolet rays can be harmful to the skin.",
+      "chinese": {
+        "meaning": "紫外線的",
+        "example": "紫外線對皮膚可能有害。"
+      }
+    },
+    {
+      "word": "unabashed",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not embarrassed, disconcerted, or ashamed.",
+      "example": "She was unabashed about her opinion.",
+      "chinese": {
+        "meaning": "不害羞的；不怕羞的",
+        "example": "她對自己的意見毫不害羞。"
+      }
+    },
+    {
+      "word": "unadorned",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not decorated or elaborate; plain.",
+      "example": "The room was simple and unadorned.",
+      "chinese": {
+        "meaning": "未裝飾的；樸素的",
+        "example": "這個房間簡單而樸素。"
+      }
+    },
+    {
+      "word": "unanimous",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Fully in agreement.",
+      "example": "The decision was unanimous among the team members.",
+      "chinese": {
+        "meaning": "一致的",
+        "example": "團隊成員的決定是一致的。"
+      }
+    },
+    {
+      "word": "unassuming",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not pretentious or arrogant; modest.",
+      "example": "He is an unassuming and humble leader.",
+      "chinese": {
+        "meaning": "謙遜的；不裝腔作勢的",
+        "example": "他是一位謙遜且低調的領導者。"
+      }
+    },
+    {
+      "word": "unavailable",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not able to be used or obtained.",
+      "example": "The manager is currently unavailable.",
+      "chinese": {
+        "meaning": "不可用的；無法取得的",
+        "example": "經理目前無法接聽。"
+      }
+    },
+    {
+      "word": "unavoidable",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Impossible to avoid or prevent.",
+      "example": "Conflict was unavoidable in that situation.",
+      "chinese": {
+        "meaning": "不可避免的",
+        "example": "在那種情況下衝突是不可避免的。"
+      }
+    },
+    {
+      "word": "unbearable",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not able to be endured or tolerated.",
+      "example": "The pain was unbearable.",
+      "chinese": {
+        "meaning": "無法忍受的",
+        "example": "那種疼痛讓人無法忍受。"
+      }
+    },
+    {
+      "word": "unbiased",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Showing no prejudice for or against something; impartial.",
+      "example": "The judge was unbiased in her decision.",
+      "chinese": {
+        "meaning": "無偏見的；公正的",
+        "example": "法官的判決是公正無私的。"
+      }
+    },
+    {
+      "word": "uncanny",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Strange or mysterious, especially in an unsettling way.",
+      "example": "He has an uncanny ability to predict the future.",
+      "chinese": {
+        "meaning": "不可思議的；離奇的",
+        "example": "他有一種不可思議的預知能力。"
+      }
+    },
+    {
+      "word": "unchanging",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not changing; remaining the same.",
+      "example": "The rules are unchanging.",
+      "chinese": {
+        "meaning": "不變的",
+        "example": "規則是不變的。"
+      }
+    },
+    {
+      "word": "uncomfortable",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Causing or feeling slight pain or physical discomfort.",
+      "example": "The chair was uncomfortable.",
+      "chinese": {
+        "meaning": "不舒服的",
+        "example": "那張椅子坐起來不舒服。"
+      }
+    },
+    {
+      "word": "uncommon",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Out of the ordinary; unusual.",
+      "example": "This species is uncommon in this region.",
+      "chinese": {
+        "meaning": "罕見的；不常見的",
+        "example": "這種物種在這個地區很罕見。"
+      }
+    },
+    {
+      "word": "unconditional",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not subject to any conditions.",
+      "example": "She gave him her unconditional support.",
+      "chinese": {
+        "meaning": "無條件的",
+        "example": "她給予他無條件的支持。"
+      }
+    },
+    {
+      "word": "unconscious",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not awake and aware of and responding to one's environment.",
+      "example": "He was unconscious after the accident.",
+      "chinese": {
+        "meaning": "無意識的；昏迷的",
+        "example": "他在事故後失去了意識。"
+      }
+    },
+    {
+      "word": "unconventional",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not based on or conforming to what is generally done or believed.",
+      "example": "She has an unconventional approach to teaching.",
+      "chinese": {
+        "meaning": "非傳統的；非慣例的",
+        "example": "她的教學方法很非傳統。"
+      }
+    },
+    {
+      "word": "undaunted",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not intimidated or discouraged by difficulty, danger, or disappointment.",
+      "example": "She remained undaunted by the challenges.",
+      "chinese": {
+        "meaning": "不氣餒的；無畏的",
+        "example": "面對挑戰她依然無畏。"
+      }
+    },
+    {
+      "word": "underhanded",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Acting or done in a secret or dishonest way.",
+      "example": "He used underhanded tactics to win.",
+      "chinese": {
+        "meaning": "偷偷摸摸的；不正當的",
+        "example": "他用不正當的手段取勝。"
+      }
+    },
+    {
+      "word": "underlying",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Basic; fundamental; present but not obvious.",
+      "example": "We need to address the underlying causes of the problem.",
+      "chinese": {
+        "meaning": "根本的；潛在的",
+        "example": "我們需要解決問題的根本原因。"
+      }
+    },
+    {
+      "word": "undisputed",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not disputed or called in question; accepted.",
+      "example": "She is the undisputed champion.",
+      "chinese": {
+        "meaning": "無可爭議的",
+        "example": "她是無可爭議的冠軍。"
+      }
+    },
+    {
+      "word": "undivided",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not divided or separated.",
+      "example": "He gave the task his undivided attention.",
+      "chinese": {
+        "meaning": "全神貫注的；未分割的",
+        "example": "他全神貫注於這項任務。"
+      }
+    },
+    {
+      "word": "undulating",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Moving with a smooth, wave-like motion.",
+      "example": "The undulating hills were beautiful.",
+      "chinese": {
+        "meaning": "起伏的；波動的",
+        "example": "起伏的山丘非常美麗。"
+      }
+    },
+    {
+      "word": "unduly",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "To an unwarranted degree; excessively.",
+      "example": "He was unduly harsh with his criticism.",
+      "chinese": {
+        "meaning": "過度的；不適當的",
+        "example": "他的批評過於嚴厲。"
+      }
+    },
+    {
+      "word": "uneasy",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Causing or feeling anxiety; troubled or uncomfortable.",
+      "example": "She felt uneasy about the decision.",
+      "chinese": {
+        "meaning": "不安的；不自在的",
+        "example": "她對這個決定感到不安。"
+      }
+    },
+    {
+      "word": "unfailing",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Without error or fault; reliable.",
+      "example": "She has unfailing patience with children.",
+      "chinese": {
+        "meaning": "不懈的；可靠的",
+        "example": "她對孩子有不懈的耐心。"
+      }
+    },
+    {
+      "word": "unfamiliar",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not known or recognized.",
+      "example": "The city was unfamiliar to him.",
+      "chinese": {
+        "meaning": "不熟悉的",
+        "example": "這個城市對他來說很陌生。"
+      }
+    },
+    {
+      "word": "unfortunate",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Having or marked by bad fortune; unlucky.",
+      "example": "It was an unfortunate accident.",
+      "chinese": {
+        "meaning": "不幸的",
+        "example": "那是一場不幸的意外。"
+      }
+    },
+    {
+      "word": "ungainly",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Awkward; clumsy.",
+      "example": "The ungainly bird struggled to take flight.",
+      "chinese": {
+        "meaning": "笨拙的",
+        "example": "那隻笨拙的鳥努力想飛起來。"
+      }
+    },
+    {
+      "word": "ungrateful",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not feeling or showing gratitude.",
+      "example": "It is ungrateful to ignore their help.",
+      "chinese": {
+        "meaning": "忘恩負義的",
+        "example": "忽略他們的幫助是忘恩負義的。"
+      }
+    },
+    {
+      "word": "unharmed",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not hurt or damaged.",
+      "example": "Luckily, she was unharmed in the accident.",
+      "chinese": {
+        "meaning": "未受傷的",
+        "example": "幸運的是她在事故中毫髮無傷。"
+      }
+    },
+    {
+      "word": "unilateral",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Performed by or affecting only one side.",
+      "example": "The decision was unilateral.",
+      "chinese": {
+        "meaning": "單方面的",
+        "example": "這個決定是單方面的。"
+      }
+    },
+    {
+      "word": "unique",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Being the only one of its kind; unlike anything else.",
+      "example": "Her style is truly unique.",
+      "chinese": {
+        "meaning": "獨特的",
+        "example": "她的風格非常獨特。"
+      }
+    },
+    {
+      "word": "universal",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Relating to or done by all people or things in the world or in a particular group; applicable to all cases.",
+      "example": "Freedom is a universal value.",
+      "chinese": {
+        "meaning": "普遍的；全世界的",
+        "example": "自由是一個普世價值。"
+      }
+    },
+    {
+      "word": "unjust",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not based on or behaving according to what is morally right and fair.",
+      "example": "The law was considered unjust by many.",
+      "chinese": {
+        "meaning": "不公正的",
+        "example": "這條法律被許多人認為是不公正的。"
+      }
+    },
+    {
+      "word": "unkempt",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Having an untidy or disheveled appearance.",
+      "example": "He looked tired and unkempt.",
+      "chinese": {
+        "meaning": "不整潔的",
+        "example": "他看起來疲憊且不整潔。"
+      }
+    },
+    {
+      "word": "unlawful",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not conforming to, permitted by, or recognized by law or rules.",
+      "example": "The company was fined for unlawful practices.",
+      "chinese": {
+        "meaning": "非法的",
+        "example": "公司因非法行為被罰款。"
+      }
+    },
+    {
+      "word": "unmistakable",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not able to be mistaken for anything else; very distinctive.",
+      "example": "Her laughter was unmistakable.",
+      "chinese": {
+        "meaning": "明顯的；不會弄錯的",
+        "example": "她的笑聲非常明顯。"
+      }
+    },
+    {
+      "word": "unorthodox",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Contrary to what is usual, traditional, or accepted.",
+      "example": "He used an unorthodox method to solve the problem.",
+      "chinese": {
+        "meaning": "非正統的；異端的",
+        "example": "他用非正統的方法解決了這個問題。"
+      }
+    },
+    {
+      "word": "unprecedented",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Never done or known before.",
+      "example": "The pandemic had an unprecedented impact.",
+      "chinese": {
+        "meaning": "史無前例的",
+        "example": "疫情帶來了史無前例的影響。"
+      }
+    },
+    {
+      "word": "unpredictable",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not able to be predicted.",
+      "example": "The weather is unpredictable in this region.",
+      "chinese": {
+        "meaning": "無法預測的",
+        "example": "這個地區的天氣無法預測。"
+      }
+    },
+    {
+      "word": "unquestionable",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not able to be disputed or doubted.",
+      "example": "His honesty is unquestionable.",
+      "chinese": {
+        "meaning": "無可置疑的",
+        "example": "他的誠實是無可置疑的。"
+      }
+    },
+    {
+      "word": "unreal",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "So strange as to appear imaginary; not real.",
+      "example": "The view from the mountain was unreal.",
+      "chinese": {
+        "meaning": "不真實的",
+        "example": "山上的景色美得不真實。"
+      }
+    },
+    {
+      "word": "unrelenting",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not yielding in strength, severity, or determination.",
+      "example": "He was unrelenting in his pursuit of justice.",
+      "chinese": {
+        "meaning": "不屈不撓的",
+        "example": "他在追求正義的路上不屈不撓。"
+      }
+    },
+    {
+      "word": "unrivaled",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Better than everyone or everything of the same type.",
+      "example": "She has an unrivaled talent for music.",
+      "chinese": {
+        "meaning": "無可匹敵的",
+        "example": "她的音樂才華無可匹敵。"
+      }
+    },
+    {
+      "word": "unscrupulous",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Having or showing no moral principles; not honest or fair.",
+      "example": "He is unscrupulous in his business dealings.",
+      "chinese": {
+        "meaning": "不道德的；無恥的",
+        "example": "他在生意上非常不道德。"
+      }
+    },
+    {
+      "word": "unselfish",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Willing to put the needs or wishes of others before one's own.",
+      "example": "Her unselfish actions inspired everyone.",
+      "chinese": {
+        "meaning": "無私的",
+        "example": "她的無私行為激勵了大家。"
+      }
+    },
+    {
+      "word": "unsightly",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Unpleasant to look at; ugly.",
+      "example": "The graffiti made the wall unsightly.",
+      "chinese": {
+        "meaning": "難看的",
+        "example": "塗鴉讓牆壁變得難看。"
+      }
+    },
+    {
+      "word": "unsuitable",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not appropriate for a particular purpose or occasion.",
+      "example": "His outfit was unsuitable for the event.",
+      "chinese": {
+        "meaning": "不適合的",
+        "example": "他的穿著不適合這個場合。"
+      }
+    },
+    {
+      "word": "unsung",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not celebrated or praised.",
+      "example": "She is an unsung hero in the community.",
+      "chinese": {
+        "meaning": "未被讚揚的",
+        "example": "她是社區中未被讚揚的英雄。"
+      }
+    },
+    {
+      "word": "untamed",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not domesticated or controlled.",
+      "example": "The horse remained untamed.",
+      "chinese": {
+        "meaning": "未馴服的",
+        "example": "這匹馬仍然未被馴服。"
+      }
+    },
+    {
+      "word": "untimely",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Happening or done at an unsuitable time.",
+      "example": "His untimely death shocked everyone.",
+      "chinese": {
+        "meaning": "不合時宜的；過早的",
+        "example": "他過早的去世讓大家震驚。"
+      }
+    },
+    {
+      "word": "untouchable",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not able to be touched or affected.",
+      "example": "For years, the leader seemed untouchable.",
+      "chinese": {
+        "meaning": "不可觸碰的；無法動搖的",
+        "example": "多年來，這位領袖似乎無法動搖。"
+      }
+    },
+    {
+      "word": "untraceable",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Unable to be found, discovered, or traced.",
+      "example": "The source of the rumor was untraceable.",
+      "chinese": {
+        "meaning": "無法追蹤的",
+        "example": "謠言的來源無法追蹤。"
+      }
+    },
+    {
+      "word": "untrustworthy",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not able to be relied on as honest or truthful.",
+      "example": "He was considered untrustworthy by his peers.",
+      "chinese": {
+        "meaning": "不可信的",
+        "example": "同儕們認為他不可信。"
+      }
+    },
+    {
+      "word": "unusual",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not habitually or commonly occurring or done.",
+      "example": "It was unusual to see snow in this area.",
+      "chinese": {
+        "meaning": "不尋常的",
+        "example": "在這個地區下雪很不尋常。"
+      }
+    },
+    {
+      "word": "upbeat",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Cheerful; optimistic.",
+      "example": "She always has an upbeat attitude.",
+      "chinese": {
+        "meaning": "樂觀的；積極的",
+        "example": "她總是保持樂觀的態度。"
+      }
+    },
+    {
+      "word": "upright",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Strictly honorable or honest.",
+      "example": "He is known as an upright citizen.",
+      "chinese": {
+        "meaning": "正直的",
+        "example": "他以正直聞名。"
+      }
+    },
+    {
+      "word": "upscale",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Relating to goods or services that are expensive and of high quality.",
+      "example": "They opened an upscale restaurant downtown.",
+      "chinese": {
+        "meaning": "高檔的",
+        "example": "他們在市中心開了一家高檔餐廳。"
+      }
+    },
+    {
+      "word": "urbane",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Courteous and refined in manner.",
+      "example": "He is an urbane and sophisticated gentleman.",
+      "chinese": {
+        "meaning": "溫文爾雅的",
+        "example": "他是一位溫文爾雅的紳士。"
+      }
+    },
+    {
+      "word": "urgent",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Requiring immediate action or attention.",
+      "example": "She received an urgent call from the hospital.",
+      "chinese": {
+        "meaning": "緊急的",
+        "example": "她接到醫院的緊急電話。"
+      }
+    },
+    {
+      "word": "useful",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Able to be used for a practical purpose or in several ways.",
+      "example": "The internet is a useful tool for research.",
+      "chinese": {
+        "meaning": "有用的",
+        "example": "網路是研究的有用工具。"
+      }
+    },
+    {
+      "word": "useless",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Not fulfilling or not expected to achieve the intended purpose or desired outcome.",
+      "example": "The broken pen was useless.",
+      "chinese": {
+        "meaning": "無用的",
+        "example": "這支壞掉的筆毫無用處。"
+      }
+    },
+    {
+      "word": "usual",
+      "type": "adjective",
+      "letter": "U",
+      "meaning": "Habitually or typically occurring or done; customary.",
+      "example": "He took his usual route to school.",
+      "chinese": {
+        "meaning": "通常的；慣常的",
+        "example": "他走平常的路去學校。"
+      }
+    }
+  ]
+}

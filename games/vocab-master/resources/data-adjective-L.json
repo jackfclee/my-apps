@@ -1,365 +1,367 @@
-{"words": [
-  {
-    "word": "lachrymose",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "tearful or given to weeping",
-    "example": "The lachrymose child couldn't stop crying after the movie.",
-    "chinese": {
-      "meaning": "愛哭的，易流淚的",
-      "example": "那個愛哭的孩子看完電影後止不住眼淚。"
+{
+  "words": [
+    {
+      "word": "lachrymose",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "tearful or given to weeping",
+      "example": "The lachrymose child couldn't stop crying after the movie.",
+      "chinese": {
+        "meaning": "愛哭的，易流淚的",
+        "example": "那個愛哭的孩子看完電影後止不住眼淚。"
+      }
+    },
+    {
+      "word": "lackadaisical",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "lacking enthusiasm and determination; carelessly lazy",
+      "example": "His lackadaisical approach to studying resulted in poor grades.",
+      "chinese": {
+        "meaning": "無精打采的，懶散的",
+        "example": "他對學習漫不經心，導致成績很差。"
+      }
+    },
+    {
+      "word": "laconic",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "using very few words",
+      "example": "His laconic reply suggested he was uninterested.",
+      "chinese": {
+        "meaning": "簡潔的，言簡意賅的",
+        "example": "他簡潔的回答表明他不感興趣。"
+      }
+    },
+    {
+      "word": "lacteal",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "relating to milk or milky fluid",
+      "example": "The infant's diet was rich in lacteal nutrients.",
+      "chinese": {
+        "meaning": "乳狀的，含乳的",
+        "example": "嬰兒的飲食富含乳狀營養物質。"
+      }
+    },
+    {
+      "word": "languid",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "displaying or having a disinclination for physical exertion or effort; slow and relaxed",
+      "example": "She moved with a languid grace across the room.",
+      "chinese": {
+        "meaning": "無精打采的，倦怠的",
+        "example": "她以一種慵懶的優雅走過房間。"
+      }
+    },
+    {
+      "word": "lanky",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "ungracefully tall and thin",
+      "example": "The lanky basketball player towered over his opponents.",
+      "chinese": {
+        "meaning": "瘦長的，細長的",
+        "example": "那個瘦長的籃球運動員比對手高出許多。"
+      }
+    },
+    {
+      "word": "latent",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "existing but not yet developed or manifest; hidden or concealed",
+      "example": "She has a latent talent for painting.",
+      "chinese": {
+        "meaning": "潛在的，潛伏的",
+        "example": "她有潛在的繪畫天賦。"
+      }
+    },
+    {
+      "word": "lateral",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "of, at, toward, or from the side or sides",
+      "example": "The car made a lateral move to avoid the obstacle.",
+      "chinese": {
+        "meaning": "側面的，橫向的",
+        "example": "汽車側向移動以避開障礙物。"
+      }
+    },
+    {
+      "word": "laudable",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "deserving praise and commendation",
+      "example": "Her efforts to help the homeless were laudable.",
+      "chinese": {
+        "meaning": "值得稱贊的",
+        "example": "她幫助無家可歸者的努力值得稱贊。"
+      }
+    },
+    {
+      "word": "lavish",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "sumptuously rich, elaborate, or luxurious",
+      "example": "They threw a lavish party for their anniversary.",
+      "chinese": {
+        "meaning": "奢華的，浪費的",
+        "example": "他們為紀念日舉辦了一場奢華的派對。"
+      }
+    },
+    {
+      "word": "lawful",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "permitted by law; legal",
+      "example": "The lawful owner claimed the property.",
+      "chinese": {
+        "meaning": "合法的，法律允許的",
+        "example": "合法的所有者聲稱對該財產擁有所有權。"
+      }
+    },
+    {
+      "word": "lax",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "not sufficiently strict, severe, or careful",
+      "example": "The teacher was criticized for her lax attitude toward discipline.",
+      "chinese": {
+        "meaning": "松懈的，不嚴格的",
+        "example": "老師因對紀律態度松懈而受到批評。"
+      }
+    },
+    {
+      "word": "leading",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "most important or most successful",
+      "example": "She is a leading expert in her field.",
+      "chinese": {
+        "meaning": "領先的，主要的",
+        "example": "她是該領域的領先專家。"
+      }
+    },
+    {
+      "word": "learned",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "having much knowledge acquired by study",
+      "example": "The learned professor gave a fascinating lecture.",
+      "chinese": {
+        "meaning": "博學的，有學問的",
+        "example": "那位博學的教授做了一個引人入勝的講座。"
+      }
+    },
+    {
+      "word": "lethargic",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "affected by lethargy; sluggish and apathetic",
+      "example": "After the long flight, she felt lethargic and tired.",
+      "chinese": {
+        "meaning": "昏睡的，遲鈍的",
+        "example": "長途飛行後，她感到昏昏欲睡，很疲憊。"
+      }
+    },
+    {
+      "word": "level",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "having a flat and even surface",
+      "example": "Make sure the picture frame is level before hanging it.",
+      "chinese": {
+        "meaning": "平的，水平的",
+        "example": "掛畫之前確保畫框是水平的。"
+      }
+    },
+    {
+      "word": "liberal",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "open to new behavior or opinions and willing to discard traditional values",
+      "example": "He has a liberal attitude toward social issues.",
+      "chinese": {
+        "meaning": "開明的，自由的",
+        "example": "他對社會問題持開明態度。"
+      }
+    },
+    {
+      "word": "licentious",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "promiscuous and unprincipled in sexual matters",
+      "example": "The novel was criticized for its licentious content.",
+      "chinese": {
+        "meaning": "放蕩的，淫亂的",
+        "example": "這本小說因其放蕩的內容而受到批評。"
+      }
+    },
+    {
+      "word": "lighthearted",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "cheerful and carefree",
+      "example": "They enjoyed a lighthearted evening with friends.",
+      "chinese": {
+        "meaning": "輕鬆愉快的，無憂無慮的",
+        "example": "他們與朋友共度了一個輕鬆愉快的夜晚。"
+      }
+    },
+    {
+      "word": "limpid",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "completely clear and transparent",
+      "example": "The limpid water of the lake was inviting for a swim.",
+      "chinese": {
+        "meaning": "清澈的，透明的",
+        "example": "湖水清澈見底，令人想游泳。"
+      }
+    },
+    {
+      "word": "lithe",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "thin, supple, and graceful",
+      "example": "The dancer's lithe movements captivated the audience.",
+      "chinese": {
+        "meaning": "柔軟的，輕盈的",
+        "example": "舞者柔軟的動作吸引了觀眾。"
+      }
+    },
+    {
+      "word": "loath",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "reluctant or unwilling",
+      "example": "She was loath to admit her mistake.",
+      "chinese": {
+        "meaning": "不情願的，勉強的",
+        "example": "她不情願承認自己的錯誤。"
+      }
+    },
+    {
+      "word": "lofty",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "of imposing height; noble or exalted",
+      "example": "He had lofty ambitions to change the world.",
+      "chinese": {
+        "meaning": "高聳的，高尚的",
+        "example": "他有改變世界的崇高抱負。"
+      }
+    },
+    {
+      "word": "logical",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "of or according to the rules of logic or formal argument",
+      "example": "Her argument was clear and logical.",
+      "chinese": {
+        "meaning": "合邏輯的，合理的",
+        "example": "她的論點清晰且合乎邏輯。"
+      }
+    },
+    {
+      "word": "lonely",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "sad because one has no friends or company",
+      "example": "He felt lonely after moving to a new city.",
+      "chinese": {
+        "meaning": "孤獨的，寂寞的",
+        "example": "搬到新城市後，他感到孤獨。"
+      }
+    },
+    {
+      "word": "long-lasting",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "continuing for a long time",
+      "example": "They have a long-lasting friendship.",
+      "chinese": {
+        "meaning": "持久的，長期的",
+        "example": "他們擁有持久的友誼。"
+      }
+    },
+    {
+      "word": "loquacious",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "tending to talk a great deal; talkative",
+      "example": "The loquacious guide told many stories during the tour.",
+      "chinese": {
+        "meaning": "多話的，健談的",
+        "example": "健談的導遊在遊覽中講了許多故事。"
+      }
+    },
+    {
+      "word": "luminous",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "emitting or reflecting light, glowing",
+      "example": "The luminous stars lit up the night sky.",
+      "chinese": {
+        "meaning": "發光的，明亮的",
+        "example": "發光的星星點亮了夜空。"
+      }
+    },
+    {
+      "word": "lurid",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect",
+      "example": "The newspaper published a lurid story about the scandal.",
+      "chinese": {
+        "meaning": "聳人聽聞的，花哨的",
+        "example": "報紙刊登了一則聳人聽聞的醜聞報道。"
+      }
+    },
+    {
+      "word": "lush",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "growing luxuriantly",
+      "example": "The garden was filled with lush green plants.",
+      "chinese": {
+        "meaning": "茂盛的，繁茂的",
+        "example": "花園裡長滿了茂盛的綠色植物。"
+      }
+    },
+    {
+      "word": "luxuriant",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "rich and profuse in growth; lush",
+      "example": "The luxuriant forest was home to many animals.",
+      "chinese": {
+        "meaning": "繁茂的，豐富的",
+        "example": "繁茂的森林是許多動物的家園。"
+      }
+    },
+    {
+      "word": "lying",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "in a horizontal or resting position",
+      "example": "The cat was lying on the warm windowsill.",
+      "chinese": {
+        "meaning": "躺著的，處於休息狀態的",
+        "example": "貓躺在溫暖的窗台上。"
+      }
+    },
+    {
+      "word": "lyrical",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "expressing the writer's emotions in an imaginative and beautiful way",
+      "example": "The poem was filled with lyrical beauty.",
+      "chinese": {
+        "meaning": "抒情的，感情豐富的",
+        "example": "這首詩充滿了抒情的美。"
+      }
     }
-  },
-  {
-    "word": "lackadaisical",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "lacking enthusiasm and determination; carelessly lazy",
-    "example": "His lackadaisical approach to studying resulted in poor grades.",
-    "chinese": {
-      "meaning": "無精打采的，懶散的",
-      "example": "他對學習漫不經心，導致成績很差。"
-    }
-  },
-  {
-    "word": "lacteal",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "relating to milk or milky fluid",
-    "example": "The infant's diet was rich in lacteal nutrients.",
-    "chinese": {
-      "meaning": "乳狀的，含乳的",
-      "example": "嬰兒的飲食富含乳狀營養物質。"
-    }
-  },
-  {
-    "word": "laconic",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "using very few words",
-    "example": "His laconic reply suggested he was uninterested.",
-    "chinese": {
-      "meaning": "簡潔的，言簡意賅的",
-      "example": "他簡潔的回答表明他不感興趣。"
-    }
-  },
-  {
-    "word": "languid",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "displaying or having a disinclination for physical exertion or effort; slow and relaxed",
-    "example": "She moved with a languid grace across the room.",
-    "chinese": {
-      "meaning": "無精打采的，倦怠的",
-      "example": "她以一種慵懶的優雅走過房間。"
-    }
-  },
-  {
-    "word": "lanky",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "ungracefully tall and thin",
-    "example": "The lanky basketball player towered over his opponents.",
-    "chinese": {
-      "meaning": "瘦長的，細長的",
-      "example": "那個瘦長的籃球運動員比對手高出許多。"
-    }
-  },
-  {
-    "word": "latent",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "existing but not yet developed or manifest; hidden or concealed",
-    "example": "She has a latent talent for painting.",
-    "chinese": {
-      "meaning": "潛在的，潛伏的",
-      "example": "她有潛在的繪畫天賦。"
-    }
-  },
-  {
-    "word": "lateral",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "of, at, toward, or from the side or sides",
-    "example": "The car made a lateral move to avoid the obstacle.",
-    "chinese": {
-      "meaning": "側面的，橫向的",
-      "example": "汽車側向移動以避開障礙物。"
-    }
-  },
-  {
-    "word": "laudable",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "deserving praise and commendation",
-    "example": "Her efforts to help the homeless were laudable.",
-    "chinese": {
-      "meaning": "值得稱贊的",
-      "example": "她幫助無家可歸者的努力值得稱贊。"
-    }
-  },
-  {
-    "word": "lavish",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "sumptuously rich, elaborate, or luxurious",
-    "example": "They threw a lavish party for their anniversary.",
-    "chinese": {
-      "meaning": "奢華的，浪費的",
-      "example": "他們為紀念日舉辦了一場奢華的派對。"
-    }
-  },
-  {
-    "word": "lawful",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "permitted by law; legal",
-    "example": "The lawful owner claimed the property.",
-    "chinese": {
-      "meaning": "合法的，法律允許的",
-      "example": "合法的所有者聲稱對該財產擁有所有權。"
-    }
-  },
-  {
-    "word": "lax",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "not sufficiently strict, severe, or careful",
-    "example": "The teacher was criticized for her lax attitude toward discipline.",
-    "chinese": {
-      "meaning": "松懈的，不嚴格的",
-      "example": "老師因對紀律態度松懈而受到批評。"
-    }
-  },
-  {
-    "word": "leading",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "most important or most successful",
-    "example": "She is a leading expert in her field.",
-    "chinese": {
-      "meaning": "領先的，主要的",
-      "example": "她是該領域的領先專家。"
-    }
-  },
-  {
-    "word": "learned",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "having much knowledge acquired by study",
-    "example": "The learned professor gave a fascinating lecture.",
-    "chinese": {
-      "meaning": "博學的，有學問的",
-      "example": "那位博學的教授做了一個引人入勝的講座。"
-    }
-  },
-  {
-    "word": "lethargic",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "affected by lethargy; sluggish and apathetic",
-    "example": "After the long flight, she felt lethargic and tired.",
-    "chinese": {
-      "meaning": "昏睡的，遲鈍的",
-      "example": "長途飛行後，她感到昏昏欲睡，很疲憊。"
-    }
-  },
-  {
-    "word": "level",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "having a flat and even surface",
-    "example": "Make sure the picture frame is level before hanging it.",
-    "chinese": {
-      "meaning": "平的，水平的",
-      "example": "掛畫之前確保畫框是水平的。"
-    }
-  },
-  {
-    "word": "liberal",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "open to new behavior or opinions and willing to discard traditional values",
-    "example": "He has a liberal attitude toward social issues.",
-    "chinese": {
-      "meaning": "開明的，自由的",
-      "example": "他對社會問題持開明態度。"
-    }
-  },
-  {
-    "word": "licentious",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "promiscuous and unprincipled in sexual matters",
-    "example": "The novel was criticized for its licentious content.",
-    "chinese": {
-      "meaning": "放蕩的，淫亂的",
-      "example": "這本小說因其放蕩的內容而受到批評。"
-    }
-  },
-  {
-    "word": "lighthearted",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "cheerful and carefree",
-    "example": "They enjoyed a lighthearted evening with friends.",
-    "chinese": {
-      "meaning": "輕鬆愉快的，無憂無慮的",
-      "example": "他們與朋友共度了一個輕鬆愉快的夜晚。"
-    }
-  },
-  {
-    "word": "limpid",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "completely clear and transparent",
-    "example": "The limpid water of the lake was inviting for a swim.",
-    "chinese": {
-      "meaning": "清澈的，透明的",
-      "example": "湖水清澈見底，令人想游泳。"
-    }
-  },
-  {
-    "word": "lithe",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "thin, supple, and graceful",
-    "example": "The dancer's lithe movements captivated the audience.",
-    "chinese": {
-      "meaning": "柔軟的，輕盈的",
-      "example": "舞者柔軟的動作吸引了觀眾。"
-    }
-  },
-  {
-    "word": "loath",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "reluctant or unwilling",
-    "example": "She was loath to admit her mistake.",
-    "chinese": {
-      "meaning": "不情願的，勉強的",
-      "example": "她不情願承認自己的錯誤。"
-    }
-  },
-  {
-    "word": "lofty",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "of imposing height; noble or exalted",
-    "example": "He had lofty ambitions to change the world.",
-    "chinese": {
-      "meaning": "高聳的，高尚的",
-      "example": "他有改變世界的崇高抱負。"
-    }
-  },
-  {
-    "word": "logical",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "of or according to the rules of logic or formal argument",
-    "example": "Her argument was clear and logical.",
-    "chinese": {
-      "meaning": "合邏輯的，合理的",
-      "example": "她的論點清晰且合乎邏輯。"
-    }
-  },
-  {
-    "word": "lonely",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "sad because one has no friends or company",
-    "example": "He felt lonely after moving to a new city.",
-    "chinese": {
-      "meaning": "孤獨的，寂寞的",
-      "example": "搬到新城市後，他感到孤獨。"
-    }
-  },
-  {
-    "word": "long-lasting",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "continuing for a long time",
-    "example": "They have a long-lasting friendship.",
-    "chinese": {
-      "meaning": "持久的，長期的",
-      "example": "他們擁有持久的友誼。"
-    }
-  },
-  {
-    "word": "loquacious",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "tending to talk a great deal; talkative",
-    "example": "The loquacious guide told many stories during the tour.",
-    "chinese": {
-      "meaning": "多話的，健談的",
-      "example": "健談的導遊在遊覽中講了許多故事。"
-    }
-  },
-  {
-    "word": "luminous",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "emitting or reflecting light, glowing",
-    "example": "The luminous stars lit up the night sky.",
-    "chinese": {
-      "meaning": "發光的，明亮的",
-      "example": "發光的星星點亮了夜空。"
-    }
-  },
-  {
-    "word": "lurid",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect",
-    "example": "The newspaper published a lurid story about the scandal.",
-    "chinese": {
-      "meaning": "聳人聽聞的，花哨的",
-      "example": "報紙刊登了一則聳人聽聞的醜聞報道。"
-    }
-  },
-  {
-    "word": "lush",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "growing luxuriantly",
-    "example": "The garden was filled with lush green plants.",
-    "chinese": {
-      "meaning": "茂盛的，繁茂的",
-      "example": "花園裡長滿了茂盛的綠色植物。"
-    }
-  },
-  {
-    "word": "luxuriant",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "rich and profuse in growth; lush",
-    "example": "The luxuriant forest was home to many animals.",
-    "chinese": {
-      "meaning": "繁茂的，豐富的",
-      "example": "繁茂的森林是許多動物的家園。"
-    }
-  },
-  {
-    "word": "lying",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "in a horizontal or resting position",
-    "example": "The cat was lying on the warm windowsill.",
-    "chinese": {
-      "meaning": "躺著的，處於休息狀態的",
-      "example": "貓躺在溫暖的窗台上。"
-    }
-  },
-  {
-    "word": "lyrical",
-    "type": "adjective",
-    "letter": "L",
-    "meaning": "expressing the writer's emotions in an imaginative and beautiful way",
-    "example": "The poem was filled with lyrical beauty.",
-    "chinese": {
-      "meaning": "抒情的，感情豐富的",
-      "example": "這首詩充滿了抒情的美。"
-    }
-  }
-]}
+  ]
+}

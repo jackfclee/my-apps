@@ -573,17 +573,6 @@
       }
     },
     {
-      "word": "Busy",
-      "type": "adjective",
-      "letter": "B",
-      "meaning": "Having a great deal to do; occupied",
-      "example": "He is always busy with work.",
-      "chinese": {
-        "meaning": "忙碌的",
-        "example": "他總是忙於工作。"
-      }
-    },
-    {
       "word": "Bustling",
       "type": "adjective",
       "letter": "B",
@@ -592,6 +581,17 @@
       "chinese": {
         "meaning": "熙熙攘攘的",
         "example": "市場上熙熙攘攘，人來人往。"
+      }
+    },
+    {
+      "word": "Busy",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Having a great deal to do; occupied",
+      "example": "He is always busy with work.",
+      "chinese": {
+        "meaning": "忙碌的",
+        "example": "他總是忙於工作。"
       }
     },
     {

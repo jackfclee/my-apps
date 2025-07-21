@@ -1,48 +1,510 @@
-{"words": [
-  {"word": "Oafish", "type": "adjective", "letter": "O", "meaning": "愚笨的，笨拙的", "example": "His oafish behavior embarrassed everyone at the party.", "chinese": {"meaning": "愚笨的，笨拙的", "example": "他笨拙的行為讓派對上的每個人都感到尷尬。"}},
-  {"word": "Obedient", "type": "adjective", "letter": "O", "meaning": "服從的，順從的", "example": "The obedient dog followed all the commands.", "chinese": {"meaning": "服從的，順從的", "example": "那隻服從的狗聽從所有命令。"}},
-  {"word": "Obese", "type": "adjective", "letter": "O", "meaning": "肥胖的，過胖的", "example": "Obese individuals are at higher risk for health problems.", "chinese": {"meaning": "肥胖的，過胖的", "example": "肥胖的人面臨較高的健康風險。"}},
-  {"word": "Oblong", "type": "adjective", "letter": "O", "meaning": "長方形的，橢圓形的", "example": "The table has an oblong shape.", "chinese": {"meaning": "長方形的，橢圓形的", "example": "這張桌子是長方形的。"}},
-  {"word": "Obnoxious", "type": "adjective", "letter": "O", "meaning": "令人討厭的，令人不快的", "example": "His obnoxious remarks upset everyone.", "chinese": {"meaning": "令人討厭的，令人不快的", "example": "他令人討厭的言論讓大家不悅。"}},
-  {"word": "Obscure", "type": "adjective", "letter": "O", "meaning": "模糊的，不清楚的", "example": "The meaning of the poem is obscure.", "chinese": {"meaning": "模糊的，不清楚的", "example": "這首詩的意思很模糊。"}},
-  {"word": "Obsequious", "type": "adjective", "letter": "O", "meaning": "諂媚的，奉承的", "example": "He was obsequious to his boss.", "chinese": {"meaning": "諂媚的，奉承的", "example": "他對老闆諂媚奉承。"}},
-  {"word": "Observant", "type": "adjective", "letter": "O", "meaning": "善於觀察的，注意的", "example": "She is very observant and notices small details.", "chinese": {"meaning": "善於觀察的，注意的", "example": "她很善於觀察，注意到細微的細節。"}},
-  {"word": "Obsolete", "type": "adjective", "letter": "O", "meaning": "過時的，廢棄的", "example": "Many old technologies become obsolete quickly.", "chinese": {"meaning": "過時的，廢棄的", "example": "許多舊技術很快就過時了。"}},
-  {"word": "Obstinate", "type": "adjective", "letter": "O", "meaning": "固執的，頑固的", "example": "He was obstinate and refused to change his mind.", "chinese": {"meaning": "固執的，頑固的", "example": "他很固執，不願改變主意。"}},
-  {"word": "Obtuse", "type": "adjective", "letter": "O", "meaning": "遲鈍的，愚笨的", "example": "He was too obtuse to understand the joke.", "chinese": {"meaning": "遲鈍的，愚笨的", "example": "他太遲鈍，聽不懂那個笑話。"}},
-  {"word": "Occasional", "type": "adjective", "letter": "O", "meaning": "偶爾的，間或的", "example": "They meet for occasional dinners.", "chinese": {"meaning": "偶爾的，間或的", "example": "他們偶爾會一起吃晚餐。"}},
-  {"word": "Occupational", "type": "adjective", "letter": "O", "meaning": "職業的，工作上的", "example": "Occupational hazards can be dangerous.", "chinese": {"meaning": "職業的，工作上的", "example": "職業危害可能很危險。"}},
-  {"word": "Odd", "type": "adjective", "letter": "O", "meaning": "奇怪的，古怪的", "example": "He has an odd way of speaking.", "chinese": {"meaning": "奇怪的，古怪的", "example": "他的說話方式很奇怪。"}},
-  {"word": "Offensive", "type": "adjective", "letter": "O", "meaning": "冒犯的，令人不快的", "example": "His comments were offensive to many people.", "chinese": {"meaning": "冒犯的，令人不快的", "example": "他的評論冒犯了很多人。"}},
-  {"word": "Official", "type": "adjective", "letter": "O", "meaning": "官方的，正式的", "example": "The official statement was released yesterday.", "chinese": {"meaning": "官方的，正式的", "example": "官方聲明昨天發布了。"}},
-  {"word": "Old-fashioned", "type": "adjective", "letter": "O", "meaning": "老式的，過時的", "example": "She prefers old-fashioned clothes.", "chinese": {"meaning": "老式的，過時的", "example": "她偏好老式服裝。"}},
-  {"word": "Ominous", "type": "adjective", "letter": "O", "meaning": "不祥的，預兆的", "example": "The dark clouds looked ominous.", "chinese": {"meaning": "不祥的，預兆的", "example": "烏雲看起來很不祥。"}},
-  {"word": "Omnipotent", "type": "adjective", "letter": "O", "meaning": "全能的，無所不能的", "example": "The deity was believed to be omnipotent.", "chinese": {"meaning": "全能的，無所不能的", "example": "人們相信神是全能的。"}},
-  {"word": "Omnipresent", "type": "adjective", "letter": "O", "meaning": "無所不在的", "example": "The internet is omnipresent in modern life.", "chinese": {"meaning": "無所不在的", "example": "網路在現代生活中無所不在。"}},
-  {"word": "Omniscient", "type": "adjective", "letter": "O", "meaning": "無所不知的，全知的", "example": "The narrator seemed omniscient in the story.", "chinese": {"meaning": "無所不知的，全知的", "example": "故事中的敘述者似乎是全知的。"}},
-  {"word": "Oncoming", "type": "adjective", "letter": "O", "meaning": "迎面而來的", "example": "The oncoming traffic was very heavy.", "chinese": {"meaning": "迎面而來的", "example": "迎面而來的車流很繁忙。"}},
-  {"word": "Onetime", "type": "adjective", "letter": "O", "meaning": "曾經的，從前的", "example": "He is a onetime champion.", "chinese": {"meaning": "曾經的，從前的", "example": "他曾經是冠軍。"}},
-  {"word": "Onerous", "type": "adjective", "letter": "O", "meaning": "繁重的，麻煩的", "example": "The task was onerous and time-consuming.", "chinese": {"meaning": "繁重的，麻煩的", "example": "這項任務繁重且耗時。"}},
-  {"word": "Only", "type": "adjective", "letter": "O", "meaning": "唯一的，僅有的", "example": "She is the only person who knows the secret.", "chinese": {"meaning": "唯一的，僅有的", "example": "她是唯一知道秘密的人。"}},
-  {"word": "Open", "type": "adjective", "letter": "O", "meaning": "開放的，公開的", "example": "The store is open 24 hours.", "chinese": {"meaning": "開放的，公開的", "example": "這家店24小時營業。"}},
-  {"word": "Open-minded", "type": "adjective", "letter": "O", "meaning": "思想開放的，心胸寬廣的", "example": "She is open-minded about new ideas.", "chinese": {"meaning": "思想開放的，心胸寬廣的", "example": "她對新想法很開放。"}},
-  {"word": "Operative", "type": "adjective", "letter": "O", "meaning": "運作中的，有效的", "example": "The plan is now operative.", "chinese": {"meaning": "運作中的，有效的", "example": "計畫現在正在運作。"}},
-  {"word": "Opposite", "type": "adjective", "letter": "O", "meaning": "相反的，對立的", "example": "They have opposite opinions.", "chinese": {"meaning": "相反的，對立的", "example": "他們有相反的意見。"}},
-  {"word": "Optimal", "type": "adjective", "letter": "O", "meaning": "最佳的，最理想的", "example": "This is the optimal solution.", "chinese": {"meaning": "最佳的，最理想的", "example": "這是最佳解決方案。"}},
-  {"word": "Optional", "type": "adjective", "letter": "O", "meaning": "可選擇的，非強制的", "example": "Participation is optional.", "chinese": {"meaning": "可選擇的，非強制的", "example": "參加是自願的。"}},
-  {"word": "Opulent", "type": "adjective", "letter": "O", "meaning": "豪華的，富裕的", "example": "They live in an opulent mansion.", "chinese": {"meaning": "豪華的，富裕的", "example": "他們住在豪華的豪宅裡。"}},
-  {"word": "Ornamental", "type": "adjective", "letter": "O", "meaning": "裝飾性的，美觀的", "example": "The garden has many ornamental plants.", "chinese": {"meaning": "裝飾性的，美觀的", "example": "花園裡有許多觀賞植物。"}},
-  {"word": "Orthodox", "type": "adjective", "letter": "O", "meaning": "傳統的，正統的", "example": "He holds orthodox views.", "chinese": {"meaning": "傳統的，正統的", "example": "他持有正統觀點。"}},
-  {"word": "Otherworldly", "type": "adjective", "letter": "O", "meaning": "超凡的，異世界的", "example": "The painting has an otherworldly quality.", "chinese": {"meaning": "超凡的，異世界的", "example": "這幅畫有種超凡的氣質。"}},
-  {"word": "Outgoing", "type": "adjective", "letter": "O", "meaning": "外向的，友善的", "example": "She is very outgoing and sociable.", "chinese": {"meaning": "外向的，友善的", "example": "她非常外向且善於交際。"}},
-  {"word": "Outlandish", "type": "adjective", "letter": "O", "meaning": "古怪的，異國風味的", "example": "He wore an outlandish costume.", "chinese": {"meaning": "古怪的，異國風味的", "example": "他穿著奇異的服裝。"}},
-  {"word": "Outrageous", "type": "adjective", "letter": "O", "meaning": "駭人聽聞的，無法接受的", "example": "The price was outrageous.", "chinese": {"meaning": "駭人聽聞的，無法接受的", "example": "價格離譜。"}},
-  {"word": "Outstanding", "type": "adjective", "letter": "O", "meaning": "傑出的，突出的", "example": "She did an outstanding job.", "chinese": {"meaning": "傑出的，突出的", "example": "她做得非常出色。"}},
-  {"word": "Overconfident", "type": "adjective", "letter": "O", "meaning": "過於自信的", "example": "He was overconfident before the exam.", "chinese": {"meaning": "過於自信的", "example": "他考試前過於自信。"}},
-  {"word": "Overjoyed", "type": "adjective", "letter": "O", "meaning": "非常高興的，欣喜若狂的", "example": "She was overjoyed with the good news.", "chinese": {"meaning": "非常高興的，欣喜若狂的", "example": "她對這個好消息欣喜若狂。"}},
-  {"word": "Overrated", "type": "adjective", "letter": "O", "meaning": "被高估的", "example": "The movie was overrated.", "chinese": {"meaning": "被高估的", "example": "那部電影被高估了。"}},
-  {"word": "Overseas", "type": "adjective", "letter": "O", "meaning": "海外的，國外的", "example": "She has an overseas job.", "chinese": {"meaning": "海外的，國外的", "example": "她有一份海外工作。"}},
-  {"word": "Overwhelming", "type": "adjective", "letter": "O", "meaning": "壓倒性的，巨大的", "example": "The support was overwhelming.", "chinese": {"meaning": "壓倒性的，巨大的", "example": "支持壓倒性地多。"}},
-  {"word": "Oxidized", "type": "adjective", "letter": "O", "meaning": "氧化的，生銹的", "example": "The oxidized metal looked old.", "chinese": {"meaning": "氧化的，生銹的", "example": "氧化的金屬看起來很舊。"}},
-  {"word": "Ozone-depleting", "type": "adjective", "letter": "O", "meaning": "破壞臭氧層的", "example": "Certain chemicals are ozone-depleting substances.", "chinese": {"meaning": "破壞臭氧層的", "example": "某些化學物質是破壞臭氧層的物質。"}}
-]}
+{
+  "words": [
+    {
+      "word": "Oafish",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "愚笨的，笨拙的",
+      "example": "His oafish behavior embarrassed everyone at the party.",
+      "chinese": {
+        "meaning": "愚笨的，笨拙的",
+        "example": "他笨拙的行為讓派對上的每個人都感到尷尬。"
+      }
+    },
+    {
+      "word": "Obedient",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "服從的，順從的",
+      "example": "The obedient dog followed all the commands.",
+      "chinese": {
+        "meaning": "服從的，順從的",
+        "example": "那隻服從的狗聽從所有命令。"
+      }
+    },
+    {
+      "word": "Obese",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "肥胖的，過胖的",
+      "example": "Obese individuals are at higher risk for health problems.",
+      "chinese": {
+        "meaning": "肥胖的，過胖的",
+        "example": "肥胖的人面臨較高的健康風險。"
+      }
+    },
+    {
+      "word": "Oblong",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "長方形的，橢圓形的",
+      "example": "The table has an oblong shape.",
+      "chinese": {
+        "meaning": "長方形的，橢圓形的",
+        "example": "這張桌子是長方形的。"
+      }
+    },
+    {
+      "word": "Obnoxious",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "令人討厭的，令人不快的",
+      "example": "His obnoxious remarks upset everyone.",
+      "chinese": {
+        "meaning": "令人討厭的，令人不快的",
+        "example": "他令人討厭的言論讓大家不悅。"
+      }
+    },
+    {
+      "word": "Obscure",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "模糊的，不清楚的",
+      "example": "The meaning of the poem is obscure.",
+      "chinese": {
+        "meaning": "模糊的，不清楚的",
+        "example": "這首詩的意思很模糊。"
+      }
+    },
+    {
+      "word": "Obsequious",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "諂媚的，奉承的",
+      "example": "He was obsequious to his boss.",
+      "chinese": {
+        "meaning": "諂媚的，奉承的",
+        "example": "他對老闆諂媚奉承。"
+      }
+    },
+    {
+      "word": "Observant",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "善於觀察的，注意的",
+      "example": "She is very observant and notices small details.",
+      "chinese": {
+        "meaning": "善於觀察的，注意的",
+        "example": "她很善於觀察，注意到細微的細節。"
+      }
+    },
+    {
+      "word": "Obsolete",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "過時的，廢棄的",
+      "example": "Many old technologies become obsolete quickly.",
+      "chinese": {
+        "meaning": "過時的，廢棄的",
+        "example": "許多舊技術很快就過時了。"
+      }
+    },
+    {
+      "word": "Obstinate",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "固執的，頑固的",
+      "example": "He was obstinate and refused to change his mind.",
+      "chinese": {
+        "meaning": "固執的，頑固的",
+        "example": "他很固執，不願改變主意。"
+      }
+    },
+    {
+      "word": "Obtuse",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "遲鈍的，愚笨的",
+      "example": "He was too obtuse to understand the joke.",
+      "chinese": {
+        "meaning": "遲鈍的，愚笨的",
+        "example": "他太遲鈍，聽不懂那個笑話。"
+      }
+    },
+    {
+      "word": "Occasional",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "偶爾的，間或的",
+      "example": "They meet for occasional dinners.",
+      "chinese": {
+        "meaning": "偶爾的，間或的",
+        "example": "他們偶爾會一起吃晚餐。"
+      }
+    },
+    {
+      "word": "Occupational",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "職業的，工作上的",
+      "example": "Occupational hazards can be dangerous.",
+      "chinese": {
+        "meaning": "職業的，工作上的",
+        "example": "職業危害可能很危險。"
+      }
+    },
+    {
+      "word": "Odd",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "奇怪的，古怪的",
+      "example": "He has an odd way of speaking.",
+      "chinese": {
+        "meaning": "奇怪的，古怪的",
+        "example": "他的說話方式很奇怪。"
+      }
+    },
+    {
+      "word": "Offensive",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "冒犯的，令人不快的",
+      "example": "His comments were offensive to many people.",
+      "chinese": {
+        "meaning": "冒犯的，令人不快的",
+        "example": "他的評論冒犯了很多人。"
+      }
+    },
+    {
+      "word": "Official",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "官方的，正式的",
+      "example": "The official statement was released yesterday.",
+      "chinese": {
+        "meaning": "官方的，正式的",
+        "example": "官方聲明昨天發布了。"
+      }
+    },
+    {
+      "word": "Old-fashioned",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "老式的，過時的",
+      "example": "She prefers old-fashioned clothes.",
+      "chinese": {
+        "meaning": "老式的，過時的",
+        "example": "她偏好老式服裝。"
+      }
+    },
+    {
+      "word": "Ominous",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "不祥的，預兆的",
+      "example": "The dark clouds looked ominous.",
+      "chinese": {
+        "meaning": "不祥的，預兆的",
+        "example": "烏雲看起來很不祥。"
+      }
+    },
+    {
+      "word": "Omnipotent",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "全能的，無所不能的",
+      "example": "The deity was believed to be omnipotent.",
+      "chinese": {
+        "meaning": "全能的，無所不能的",
+        "example": "人們相信神是全能的。"
+      }
+    },
+    {
+      "word": "Omnipresent",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "無所不在的",
+      "example": "The internet is omnipresent in modern life.",
+      "chinese": {
+        "meaning": "無所不在的",
+        "example": "網路在現代生活中無所不在。"
+      }
+    },
+    {
+      "word": "Omniscient",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "無所不知的，全知的",
+      "example": "The narrator seemed omniscient in the story.",
+      "chinese": {
+        "meaning": "無所不知的，全知的",
+        "example": "故事中的敘述者似乎是全知的。"
+      }
+    },
+    {
+      "word": "Oncoming",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "迎面而來的",
+      "example": "The oncoming traffic was very heavy.",
+      "chinese": {
+        "meaning": "迎面而來的",
+        "example": "迎面而來的車流很繁忙。"
+      }
+    },
+    {
+      "word": "Onerous",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "繁重的，麻煩的",
+      "example": "The task was onerous and time-consuming.",
+      "chinese": {
+        "meaning": "繁重的，麻煩的",
+        "example": "這項任務繁重且耗時。"
+      }
+    },
+    {
+      "word": "Onetime",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "曾經的，從前的",
+      "example": "He is a onetime champion.",
+      "chinese": {
+        "meaning": "曾經的，從前的",
+        "example": "他曾經是冠軍。"
+      }
+    },
+    {
+      "word": "Only",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "唯一的，僅有的",
+      "example": "She is the only person who knows the secret.",
+      "chinese": {
+        "meaning": "唯一的，僅有的",
+        "example": "她是唯一知道秘密的人。"
+      }
+    },
+    {
+      "word": "Open",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "開放的，公開的",
+      "example": "The store is open 24 hours.",
+      "chinese": {
+        "meaning": "開放的，公開的",
+        "example": "這家店24小時營業。"
+      }
+    },
+    {
+      "word": "Open-minded",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "思想開放的，心胸寬廣的",
+      "example": "She is open-minded about new ideas.",
+      "chinese": {
+        "meaning": "思想開放的，心胸寬廣的",
+        "example": "她對新想法很開放。"
+      }
+    },
+    {
+      "word": "Operative",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "運作中的，有效的",
+      "example": "The plan is now operative.",
+      "chinese": {
+        "meaning": "運作中的，有效的",
+        "example": "計畫現在正在運作。"
+      }
+    },
+    {
+      "word": "Opposite",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "相反的，對立的",
+      "example": "They have opposite opinions.",
+      "chinese": {
+        "meaning": "相反的，對立的",
+        "example": "他們有相反的意見。"
+      }
+    },
+    {
+      "word": "Optimal",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "最佳的，最理想的",
+      "example": "This is the optimal solution.",
+      "chinese": {
+        "meaning": "最佳的，最理想的",
+        "example": "這是最佳解決方案。"
+      }
+    },
+    {
+      "word": "Optional",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "可選擇的，非強制的",
+      "example": "Participation is optional.",
+      "chinese": {
+        "meaning": "可選擇的，非強制的",
+        "example": "參加是自願的。"
+      }
+    },
+    {
+      "word": "Opulent",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "豪華的，富裕的",
+      "example": "They live in an opulent mansion.",
+      "chinese": {
+        "meaning": "豪華的，富裕的",
+        "example": "他們住在豪華的豪宅裡。"
+      }
+    },
+    {
+      "word": "Ornamental",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "裝飾性的，美觀的",
+      "example": "The garden has many ornamental plants.",
+      "chinese": {
+        "meaning": "裝飾性的，美觀的",
+        "example": "花園裡有許多觀賞植物。"
+      }
+    },
+    {
+      "word": "Orthodox",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "傳統的，正統的",
+      "example": "He holds orthodox views.",
+      "chinese": {
+        "meaning": "傳統的，正統的",
+        "example": "他持有正統觀點。"
+      }
+    },
+    {
+      "word": "Otherworldly",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "超凡的，異世界的",
+      "example": "The painting has an otherworldly quality.",
+      "chinese": {
+        "meaning": "超凡的，異世界的",
+        "example": "這幅畫有種超凡的氣質。"
+      }
+    },
+    {
+      "word": "Outgoing",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "外向的，友善的",
+      "example": "She is very outgoing and sociable.",
+      "chinese": {
+        "meaning": "外向的，友善的",
+        "example": "她非常外向且善於交際。"
+      }
+    },
+    {
+      "word": "Outlandish",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "古怪的，異國風味的",
+      "example": "He wore an outlandish costume.",
+      "chinese": {
+        "meaning": "古怪的，異國風味的",
+        "example": "他穿著奇異的服裝。"
+      }
+    },
+    {
+      "word": "Outrageous",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "駭人聽聞的，無法接受的",
+      "example": "The price was outrageous.",
+      "chinese": {
+        "meaning": "駭人聽聞的，無法接受的",
+        "example": "價格離譜。"
+      }
+    },
+    {
+      "word": "Outstanding",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "傑出的，突出的",
+      "example": "She did an outstanding job.",
+      "chinese": {
+        "meaning": "傑出的，突出的",
+        "example": "她做得非常出色。"
+      }
+    },
+    {
+      "word": "Overconfident",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "過於自信的",
+      "example": "He was overconfident before the exam.",
+      "chinese": {
+        "meaning": "過於自信的",
+        "example": "他考試前過於自信。"
+      }
+    },
+    {
+      "word": "Overjoyed",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "非常高興的，欣喜若狂的",
+      "example": "She was overjoyed with the good news.",
+      "chinese": {
+        "meaning": "非常高興的，欣喜若狂的",
+        "example": "她對這個好消息欣喜若狂。"
+      }
+    },
+    {
+      "word": "Overrated",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "被高估的",
+      "example": "The movie was overrated.",
+      "chinese": {
+        "meaning": "被高估的",
+        "example": "那部電影被高估了。"
+      }
+    },
+    {
+      "word": "Overseas",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "海外的，國外的",
+      "example": "She has an overseas job.",
+      "chinese": {
+        "meaning": "海外的，國外的",
+        "example": "她有一份海外工作。"
+      }
+    },
+    {
+      "word": "Overwhelming",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "壓倒性的，巨大的",
+      "example": "The support was overwhelming.",
+      "chinese": {
+        "meaning": "壓倒性的，巨大的",
+        "example": "支持壓倒性地多。"
+      }
+    },
+    {
+      "word": "Oxidized",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "氧化的，生銹的",
+      "example": "The oxidized metal looked old.",
+      "chinese": {
+        "meaning": "氧化的，生銹的",
+        "example": "氧化的金屬看起來很舊。"
+      }
+    },
+    {
+      "word": "Ozone-depleting",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "破壞臭氧層的",
+      "example": "Certain chemicals are ozone-depleting substances.",
+      "chinese": {
+        "meaning": "破壞臭氧層的",
+        "example": "某些化學物質是破壞臭氧層的物質。"
+      }
+    }
+  ]
+}

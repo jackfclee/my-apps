@@ -1,684 +1,686 @@
-{"words": [
-  {
-    "word": "Yabby",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Relating to or resembling a yabby, a type of freshwater crayfish.",
-    "example": "The riverbank was filled with yabby creatures scuttling in the mud.",
-    "chinese": {
-      "meaning": "與淡水龍蝦相似的",
-      "example": "河岸上充滿了在泥中爬行的淡水龍蝦。"
+{
+  "words": [
+    {
+      "word": "Yabby",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Relating to or resembling a yabby, a type of freshwater crayfish.",
+      "example": "The riverbank was filled with yabby creatures scuttling in the mud.",
+      "chinese": {
+        "meaning": "與淡水龍蝦相似的",
+        "example": "河岸上充滿了在泥中爬行的淡水龍蝦。"
+      }
+    },
+    {
+      "word": "Yare",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Quick, agile, and lively.",
+      "example": "The yare horse swiftly maneuvered through the dense forest.",
+      "chinese": {
+        "meaning": "敏捷的，輕快的",
+        "example": "那匹敏捷的馬迅速穿過濃密的森林。"
+      }
+    },
+    {
+      "word": "Yareful",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Careful and nimble.",
+      "example": "She was yareful while handling the fragile vase.",
+      "chinese": {
+        "meaning": "小心謹慎且靈巧的",
+        "example": "她小心謹慎地搬動易碎的花瓶。"
+      }
+    },
+    {
+      "word": "Yarefulish",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Somewhat careful and nimble.",
+      "example": "He moved yarefulish to avoid waking the baby.",
+      "chinese": {
+        "meaning": "稍微小心且靈巧的",
+        "example": "他稍微小心地移動以免吵醒嬰兒。"
+      }
+    },
+    {
+      "word": "Yarefulsome",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Very careful and nimble.",
+      "example": "She was yarefulsome when crossing the icy road.",
+      "chinese": {
+        "meaning": "非常小心且靈巧的",
+        "example": "她過冰路時非常小心。"
+      }
+    },
+    {
+      "word": "Yarelike",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Similar to being quick and agile.",
+      "example": "The dancer moved with a yarelike grace.",
+      "chinese": {
+        "meaning": "類似敏捷的",
+        "example": "舞者以類似敏捷的優雅動作舞動。"
+      }
+    },
+    {
+      "word": "Yarely",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "In a nimble or lively manner.",
+      "example": "The ship sailed yarely through the rough seas.",
+      "chinese": {
+        "meaning": "敏捷地，輕快地",
+        "example": "船隻輕快地穿過洶湧的海面。"
+      }
+    },
+    {
+      "word": "Yarelyish",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Somewhat quick and lively.",
+      "example": "The horse moved yarelyish across the field.",
+      "chinese": {
+        "meaning": "稍微輕快的",
+        "example": "馬輕快地穿過田野。"
+      }
+    },
+    {
+      "word": "Yawnful",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Causing yawning; boring or dull.",
+      "example": "The lecture was so yawnful that many students fell asleep.",
+      "chinese": {
+        "meaning": "令人打哈欠的，無聊的",
+        "example": "講座非常無聊，許多學生睡著了。"
+      }
+    },
+    {
+      "word": "Yawning",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Wide open, as if gaping.",
+      "example": "The yawning chasm seemed to swallow everything around it.",
+      "chinese": {
+        "meaning": "大張開的，張口的",
+        "example": "那張大裂縫似乎吞噬了周圍的一切。"
+      }
+    },
+    {
+      "word": "Yearlong",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Continuing for the duration of a year.",
+      "example": "They conducted a yearlong study on climate change.",
+      "chinese": {
+        "meaning": "持續一整年的",
+        "example": "他們進行了一項持續一整年的氣候變化研究。"
+      }
+    },
+    {
+      "word": "Yearly",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Occurring once every year.",
+      "example": "The yearly festival attracts thousands of visitors.",
+      "chinese": {
+        "meaning": "每年的，年度的",
+        "example": "年度節慶吸引了數千名遊客。"
+      }
+    },
+    {
+      "word": "Yeasty",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Having the smell or taste of yeast.",
+      "example": "The bread had a fresh, yeasty aroma.",
+      "chinese": {
+        "meaning": "有酵母味的",
+        "example": "麵包散發出新鮮的酵母香味。"
+      }
+    },
+    {
+      "word": "Yellow",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Of the color between green and orange in the spectrum.",
+      "example": "She wore a bright yellow dress to the party.",
+      "chinese": {
+        "meaning": "黃色的",
+        "example": "她穿著一件鮮黃色的洋裝參加派對。"
+      }
+    },
+    {
+      "word": "Yellowish",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Somewhat yellow in color.",
+      "example": "The leaves turned a yellowish hue in autumn.",
+      "chinese": {
+        "meaning": "略帶黃色的",
+        "example": "秋天時葉子變成略帶黃色的色調。"
+      }
+    },
+    {
+      "word": "Yen",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Having a strong desire or craving.",
+      "example": "He had a yen for adventure and travel.",
+      "chinese": {
+        "meaning": "渴望的",
+        "example": "他渴望冒險和旅行。"
+      }
+    },
+    {
+      "word": "Yenful",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Full of desire or craving.",
+      "example": "His yenful attitude pushed him to achieve great things.",
+      "chinese": {
+        "meaning": "充滿渴望的",
+        "example": "他充滿渴望的態度促使他取得偉大成就。"
+      }
+    },
+    {
+      "word": "Yenfulish",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Somewhat full of desire or craving.",
+      "example": "She had a yenfulish look when she saw the new book.",
+      "chinese": {
+        "meaning": "有點渴望的",
+        "example": "她看到新書時露出有點渴望的神情。"
+      }
+    },
+    {
+      "word": "Yenfullike",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Full of yearning or desire.",
+      "example": "She gave a yenfullike smile when she saw the gift.",
+      "chinese": {
+        "meaning": "充滿渴望的",
+        "example": "她看到禮物時露出充滿渴望的微笑。"
+      }
+    },
+    {
+      "word": "Yenfulsome",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Full of abundant desire or craving.",
+      "example": "His yenfulsome nature made him pursue his dreams relentlessly.",
+      "chinese": {
+        "meaning": "充滿渴望的",
+        "example": "他充滿渴望的性格使他不懈追求夢想。"
+      }
+    },
+    {
+      "word": "Yenish",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Having qualities of strong desire or craving.",
+      "example": "His yenish attitude motivated him to succeed.",
+      "chinese": {
+        "meaning": "帶有強烈渴望的",
+        "example": "他帶有強烈渴望的態度激勵他成功。"
+      }
+    },
+    {
+      "word": "Yenishful",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Full of yearning or desire.",
+      "example": "His yenishful heart longed for adventure.",
+      "chinese": {
+        "meaning": "充滿渴望的",
+        "example": "他充滿渴望的心渴望冒險。"
+      }
+    },
+    {
+      "word": "Yenishfulsome",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Having many qualities of strong desire or craving.",
+      "example": "His yenishfulsome spirit inspired the whole team.",
+      "chinese": {
+        "meaning": "充滿渴望的",
+        "example": "他充滿渴望的精神激勵了整個團隊。"
+      }
+    },
+    {
+      "word": "Yenishlike",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Having qualities of strong desire or craving.",
+      "example": "His yenishlike passion drove him to excel.",
+      "chinese": {
+        "meaning": "帶有強烈渴望的",
+        "example": "他帶有強烈渴望的熱情驅使他出類拔萃。"
+      }
+    },
+    {
+      "word": "Yenishsome",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Having some qualities of strong desire or craving.",
+      "example": "His yenishsome attitude inspired others to work harder.",
+      "chinese": {
+        "meaning": "帶有一些渴望的",
+        "example": "他帶有一些渴望的態度激勵他人更加努力。"
+      }
+    },
+    {
+      "word": "Yenless",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Without desire or craving.",
+      "example": "After the long journey, he felt yenless and tired.",
+      "chinese": {
+        "meaning": "無渴望的",
+        "example": "長途旅行後，他感到無渴望且疲憊。"
+      }
+    },
+    {
+      "word": "Yenlessful",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Lacking desire or craving.",
+      "example": "After the meal, she felt yenlessful and satisfied.",
+      "chinese": {
+        "meaning": "缺乏渴望的",
+        "example": "飯後，她感到缺乏渴望且心滿意足。"
+      }
+    },
+    {
+      "word": "Yenlessfulsome",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Completely lacking desire or craving.",
+      "example": "After the ordeal, she was yenlessfulsome and at peace.",
+      "chinese": {
+        "meaning": "完全無渴望的",
+        "example": "經歷磨難後，她完全無渴望且心境平和。"
+      }
+    },
+    {
+      "word": "Yenlesslike",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Lacking desire or craving.",
+      "example": "After the meal, he felt yenlesslike and content.",
+      "chinese": {
+        "meaning": "缺乏渴望的",
+        "example": "飯後，他感到缺乏渴望且滿足。"
+      }
+    },
+    {
+      "word": "Yenlesssome",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Without any desire or craving.",
+      "example": "After the long wait, she felt yenlesssome and calm.",
+      "chinese": {
+        "meaning": "毫無渴望的",
+        "example": "長時間等待後，她感到毫無渴望且平靜。"
+      }
+    },
+    {
+      "word": "Yenning",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Having a strong desire or craving.",
+      "example": "She felt a yenning hunger for knowledge.",
+      "chinese": {
+        "meaning": "渴望的",
+        "example": "她渴望知識。"
+      }
+    },
+    {
+      "word": "Yenningful",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Full of yearning or desire.",
+      "example": "His yenningful heart sought peace and understanding.",
+      "chinese": {
+        "meaning": "充滿渴望的",
+        "example": "他充滿渴望的心尋求和平與理解。"
+      }
+    },
+    {
+      "word": "Yenningfulsome",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Full of abundant yearning or desire.",
+      "example": "His yenningfulsome heart kept him motivated.",
+      "chinese": {
+        "meaning": "充滿渴望的",
+        "example": "他充滿渴望的心讓他保持動力。"
+      }
+    },
+    {
+      "word": "Yenningly",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "In a manner full of desire or craving.",
+      "example": "She looked yenningly at the delicious cake.",
+      "chinese": {
+        "meaning": "充滿渴望地",
+        "example": "她充滿渴望地看著美味的蛋糕。"
+      }
+    },
+    {
+      "word": "Yestern",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Of or relating to yesterday.",
+      "example": "The yestern news was still fresh in everyone's mind.",
+      "chinese": {
+        "meaning": "昨日的",
+        "example": "昨日的新聞仍然鮮明地印在每個人心中。"
+      }
+    },
+    {
+      "word": "Yesternight",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Relating to the night before today.",
+      "example": "The yesternight sky was clear and starry.",
+      "chinese": {
+        "meaning": "昨晚的",
+        "example": "昨晚的天空晴朗且繁星點點。"
+      }
+    },
+    {
+      "word": "Yesteryear",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Relating to past years or times.",
+      "example": "The yesteryear traditions are still celebrated in the village.",
+      "chinese": {
+        "meaning": "昔日的，過去的",
+        "example": "村莊仍然慶祝昔日的傳統。"
+      }
+    },
+    {
+      "word": "Yielding",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Giving way under pressure; compliant or submissive.",
+      "example": "The yielding material bent easily without breaking.",
+      "chinese": {
+        "meaning": "柔順的，易彎曲的",
+        "example": "這種柔順的材料輕易彎曲而不斷裂。"
+      }
+    },
+    {
+      "word": "Yippish",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Excited and joyful.",
+      "example": "The yippish crowd cheered loudly at the concert.",
+      "chinese": {
+        "meaning": "興奮的，歡呼的",
+        "example": "興奮的人群在音樂會上大聲歡呼。"
+      }
+    },
+    {
+      "word": "Yippy",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Excited or joyful.",
+      "example": "The children were yippy after hearing the good news.",
+      "chinese": {
+        "meaning": "興奮的，歡喜的",
+        "example": "孩子們聽到好消息後非常興奮。"
+      }
+    },
+    {
+      "word": "Yobbish",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Behaving in a rough or aggressive manner.",
+      "example": "The yobbish crowd caused trouble in the streets.",
+      "chinese": {
+        "meaning": "粗暴的，無禮的",
+        "example": "粗暴的人群在街上製造麻煩。"
+      }
+    },
+    {
+      "word": "Yobboish",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Characteristic of a yobbo; rough or uncultured.",
+      "example": "The yobboish behaviour was frowned upon in the community.",
+      "chinese": {
+        "meaning": "粗魯無禮的",
+        "example": "粗魯無禮的行為在社區中不受歡迎。"
+      }
+    },
+    {
+      "word": "Yodeling",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Relating to the rapid alternation between chest voice and head voice in singing.",
+      "example": "The yodeling singer captivated the audience with her skill.",
+      "chinese": {
+        "meaning": "用約德爾唱法的",
+        "example": "那位用約德爾唱法的歌手以技巧吸引了觀眾。"
+      }
+    },
+    {
+      "word": "Yodelled",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Sung in the style of yodeling.",
+      "example": "The yodelled song echoed through the mountains.",
+      "chinese": {
+        "meaning": "用約德爾唱法唱的",
+        "example": "用約德爾唱法唱的歌曲在山間回響。"
+      }
+    },
+    {
+      "word": "Yodelling",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Characterized by the vocal technique of yodeling.",
+      "example": "The yodelling choir performed beautifully at the concert.",
+      "chinese": {
+        "meaning": "用約德爾唱法的",
+        "example": "用約德爾唱法的合唱團在音樂會上表現出色。"
+      }
+    },
+    {
+      "word": "Yodelly",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Relating to or characterized by yodeling.",
+      "example": "The yodelly tunes echoed through the valley.",
+      "chinese": {
+        "meaning": "約德爾唱法的",
+        "example": "約德爾唱法的曲調在山谷中回響。"
+      }
+    },
+    {
+      "word": "Yokeless",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Not yoked; free or unrestrained.",
+      "example": "The yokeless horse roamed freely in the meadow.",
+      "chinese": {
+        "meaning": "未套轭的，自由的",
+        "example": "未套轭的馬在草地上自由奔跑。"
+      }
+    },
+    {
+      "word": "Yonder",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Distant but within sight.",
+      "example": "They saw the yonder mountains glowing at sunset.",
+      "chinese": {
+        "meaning": "遠方的",
+        "example": "他們看到遠方的山脈在夕陽下閃耀。"
+      }
+    },
+    {
+      "word": "Yonderly",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Distant or far away in character or manner.",
+      "example": "He had a yonderly look in his eyes, as if lost in thought.",
+      "chinese": {
+        "meaning": "遙遠的，心不在焉的",
+        "example": "他眼中帶著遙遠的神情，彷彿陷入沉思。"
+      }
+    },
+    {
+      "word": "Young",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Having lived or existed for only a short time.",
+      "example": "The young students were eager to learn.",
+      "chinese": {
+        "meaning": "年輕的，年幼的",
+        "example": "年輕的學生渴望學習。"
+      }
+    },
+    {
+      "word": "Youngish",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Somewhat young; tending to be young.",
+      "example": "She looked youngish despite her age.",
+      "chinese": {
+        "meaning": "稍顯年輕的",
+        "example": "儘管年紀不小，她看起來稍顯年輕。"
+      }
+    },
+    {
+      "word": "Youthful",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Having the qualities of youth; lively and fresh.",
+      "example": "Her youthful energy inspired everyone around her.",
+      "chinese": {
+        "meaning": "充滿青春活力的",
+        "example": "她充滿青春活力，激勵了周圍的每個人。"
+      }
+    },
+    {
+      "word": "Yowling",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Making a loud wailing or howling noise.",
+      "example": "The yowling cat disturbed the neighborhood at night.",
+      "chinese": {
+        "meaning": "嚎叫的，尖叫的",
+        "example": "嚎叫的貓在夜裡打擾了鄰居。"
+      }
+    },
+    {
+      "word": "Yowly",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Making loud, mournful cries or howls.",
+      "example": "The yowly dog kept the neighbors awake all night.",
+      "chinese": {
+        "meaning": "嚎叫的，哀號的",
+        "example": "嚎叫的狗讓鄰居整夜無法入睡。"
+      }
+    },
+    {
+      "word": "Yowlyish",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Somewhat loud and mournful in sound.",
+      "example": "The yowlyish cries of the cat woke the neighborhood.",
+      "chinese": {
+        "meaning": "有點嚎叫的",
+        "example": "貓的有點嚎叫聲吵醒了鄰居。"
+      }
+    },
+    {
+      "word": "Yucky",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Disgusting or unpleasant.",
+      "example": "The food tasted yucky and was left untouched.",
+      "chinese": {
+        "meaning": "令人作嘔的，不好吃的",
+        "example": "食物味道令人作嘔，沒有人吃。"
+      }
+    },
+    {
+      "word": "Yuckyful",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Extremely unpleasant or disgusting.",
+      "example": "The yuckyful smell made everyone leave the room.",
+      "chinese": {
+        "meaning": "極其令人作嘔的",
+        "example": "極其令人作嘔的氣味使大家離開房間。"
+      }
+    },
+    {
+      "word": "Yuckyish",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Somewhat disgusting or unpleasant.",
+      "example": "The soup tasted yuckyish and was left unfinished.",
+      "chinese": {
+        "meaning": "有點令人作嘔的",
+        "example": "湯有點令人作嘔，沒喝完。"
+      }
+    },
+    {
+      "word": "Yummy",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Delicious or tasty.",
+      "example": "The cake was so yummy that everyone wanted a second slice.",
+      "chinese": {
+        "meaning": "美味的",
+        "example": "蛋糕非常美味，大家都想要第二片。"
+      }
+    },
+    {
+      "word": "Yummylicious",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Extremely delicious.",
+      "example": "The dessert was yummylicious and everyone asked for the recipe.",
+      "chinese": {
+        "meaning": "非常美味的",
+        "example": "甜點非常美味，大家都要食譜。"
+      }
+    },
+    {
+      "word": "Yumptious",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Very tasty and delicious.",
+      "example": "The chef prepared a yumptious meal for the guests.",
+      "chinese": {
+        "meaning": "非常美味的",
+        "example": "廚師為客人準備了一頓非常美味的餐點。"
+      }
+    },
+    {
+      "word": "Yumptiousful",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Very tasty and delightful.",
+      "example": "The yumptiousful meal satisfied all the guests.",
+      "chinese": {
+        "meaning": "非常美味的",
+        "example": "非常美味的餐點讓所有客人都很滿意。"
+      }
     }
-  },
-  {
-    "word": "Yare",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Quick, agile, and lively.",
-    "example": "The yare horse swiftly maneuvered through the dense forest.",
-    "chinese": {
-      "meaning": "敏捷的，輕快的",
-      "example": "那匹敏捷的馬迅速穿過濃密的森林。"
-    }
-  },
-  {
-    "word": "Yawning",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Wide open, as if gaping.",
-    "example": "The yawning chasm seemed to swallow everything around it.",
-    "chinese": {
-      "meaning": "大張開的，張口的",
-      "example": "那張大裂縫似乎吞噬了周圍的一切。"
-    }
-  },
-  {
-    "word": "Yearlong",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Continuing for the duration of a year.",
-    "example": "They conducted a yearlong study on climate change.",
-    "chinese": {
-      "meaning": "持續一整年的",
-      "example": "他們進行了一項持續一整年的氣候變化研究。"
-    }
-  },
-  {
-    "word": "Yearly",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Occurring once every year.",
-    "example": "The yearly festival attracts thousands of visitors.",
-    "chinese": {
-      "meaning": "每年的，年度的",
-      "example": "年度節慶吸引了數千名遊客。"
-    }
-  },
-  {
-    "word": "Yeasty",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Having the smell or taste of yeast.",
-    "example": "The bread had a fresh, yeasty aroma.",
-    "chinese": {
-      "meaning": "有酵母味的",
-      "example": "麵包散發出新鮮的酵母香味。"
-    }
-  },
-  {
-    "word": "Yellow",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Of the color between green and orange in the spectrum.",
-    "example": "She wore a bright yellow dress to the party.",
-    "chinese": {
-      "meaning": "黃色的",
-      "example": "她穿著一件鮮黃色的洋裝參加派對。"
-    }
-  },
-  {
-    "word": "Yellowish",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Somewhat yellow in color.",
-    "example": "The leaves turned a yellowish hue in autumn.",
-    "chinese": {
-      "meaning": "略帶黃色的",
-      "example": "秋天時葉子變成略帶黃色的色調。"
-    }
-  },
-  {
-    "word": "Yen",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Having a strong desire or craving.",
-    "example": "He had a yen for adventure and travel.",
-    "chinese": {
-      "meaning": "渴望的",
-      "example": "他渴望冒險和旅行。"
-    }
-  },
-  {
-    "word": "Yielding",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Giving way under pressure; compliant or submissive.",
-    "example": "The yielding material bent easily without breaking.",
-    "chinese": {
-      "meaning": "柔順的，易彎曲的",
-      "example": "這種柔順的材料輕易彎曲而不斷裂。"
-    }
-  },
-  {
-    "word": "Yodeling",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Relating to the rapid alternation between chest voice and head voice in singing.",
-    "example": "The yodeling singer captivated the audience with her skill.",
-    "chinese": {
-      "meaning": "用約德爾唱法的",
-      "example": "那位用約德爾唱法的歌手以技巧吸引了觀眾。"
-    }
-  },
-  {
-    "word": "Yonder",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Distant but within sight.",
-    "example": "They saw the yonder mountains glowing at sunset.",
-    "chinese": {
-      "meaning": "遠方的",
-      "example": "他們看到遠方的山脈在夕陽下閃耀。"
-    }
-  },
-  {
-    "word": "Young",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Having lived or existed for only a short time.",
-    "example": "The young students were eager to learn.",
-    "chinese": {
-      "meaning": "年輕的，年幼的",
-      "example": "年輕的學生渴望學習。"
-    }
-  },
-  {
-    "word": "Youthful",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Having the qualities of youth; lively and fresh.",
-    "example": "Her youthful energy inspired everyone around her.",
-    "chinese": {
-      "meaning": "充滿青春活力的",
-      "example": "她充滿青春活力，激勵了周圍的每個人。"
-    }
-  },
-  {
-    "word": "Yummy",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Delicious or tasty.",
-    "example": "The cake was so yummy that everyone wanted a second slice.",
-    "chinese": {
-      "meaning": "美味的",
-      "example": "蛋糕非常美味，大家都想要第二片。"
-    }
-  },
-  {
-    "word": "Yenning",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Having a strong desire or craving.",
-    "example": "She felt a yenning hunger for knowledge.",
-    "chinese": {
-      "meaning": "渴望的",
-      "example": "她渴望知識。"
-    }
-  },
-  {
-    "word": "Yarely",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "In a nimble or lively manner.",
-    "example": "The ship sailed yarely through the rough seas.",
-    "chinese": {
-      "meaning": "敏捷地，輕快地",
-      "example": "船隻輕快地穿過洶湧的海面。"
-    }
-  },
-  {
-    "word": "Yenful",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Full of desire or craving.",
-    "example": "His yenful attitude pushed him to achieve great things.",
-    "chinese": {
-      "meaning": "充滿渴望的",
-      "example": "他充滿渴望的態度促使他取得偉大成就。"
-    }
-  },
-  {
-    "word": "Yenless",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Without desire or craving.",
-    "example": "After the long journey, he felt yenless and tired.",
-    "chinese": {
-      "meaning": "無渴望的",
-      "example": "長途旅行後，他感到無渴望且疲憊。"
-    }
-  },
-  {
-    "word": "Yesteryear",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Relating to past years or times.",
-    "example": "The yesteryear traditions are still celebrated in the village.",
-    "chinese": {
-      "meaning": "昔日的，過去的",
-      "example": "村莊仍然慶祝昔日的傳統。"
-    }
-  },
-  {
-    "word": "Yestern",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Of or relating to yesterday.",
-    "example": "The yestern news was still fresh in everyone's mind.",
-    "chinese": {
-      "meaning": "昨日的",
-      "example": "昨日的新聞仍然鮮明地印在每個人心中。"
-    }
-  },
-  {
-    "word": "Yippy",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Excited or joyful.",
-    "example": "The children were yippy after hearing the good news.",
-    "chinese": {
-      "meaning": "興奮的，歡喜的",
-      "example": "孩子們聽到好消息後非常興奮。"
-    }
-  },
-  {
-    "word": "Yobbish",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Behaving in a rough or aggressive manner.",
-    "example": "The yobbish crowd caused trouble in the streets.",
-    "chinese": {
-      "meaning": "粗暴的，無禮的",
-      "example": "粗暴的人群在街上製造麻煩。"
-    }
-  },
-  {
-    "word": "Yodelled",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Sung in the style of yodeling.",
-    "example": "The yodelled song echoed through the mountains.",
-    "chinese": {
-      "meaning": "用約德爾唱法唱的",
-      "example": "用約德爾唱法唱的歌曲在山間回響。"
-    }
-  },
-  {
-    "word": "Yokeless",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Not yoked; free or unrestrained.",
-    "example": "The yokeless horse roamed freely in the meadow.",
-    "chinese": {
-      "meaning": "未套轭的，自由的",
-      "example": "未套轭的馬在草地上自由奔跑。"
-    }
-  },
-  {
-    "word": "Yonderly",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Distant or far away in character or manner.",
-    "example": "He had a yonderly look in his eyes, as if lost in thought.",
-    "chinese": {
-      "meaning": "遙遠的，心不在焉的",
-      "example": "他眼中帶著遙遠的神情，彷彿陷入沉思。"
-    }
-  },
-  {
-    "word": "Youngish",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Somewhat young; tending to be young.",
-    "example": "She looked youngish despite her age.",
-    "chinese": {
-      "meaning": "稍顯年輕的",
-      "example": "儘管年紀不小，她看起來稍顯年輕。"
-    }
-  },
-  {
-    "word": "Yowling",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Making a loud wailing or howling noise.",
-    "example": "The yowling cat disturbed the neighborhood at night.",
-    "chinese": {
-      "meaning": "嚎叫的，尖叫的",
-      "example": "嚎叫的貓在夜裡打擾了鄰居。"
-    }
-  },
-  {
-    "word": "Yucky",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Disgusting or unpleasant.",
-    "example": "The food tasted yucky and was left untouched.",
-    "chinese": {
-      "meaning": "令人作嘔的，不好吃的",
-      "example": "食物味道令人作嘔，沒有人吃。"
-    }
-  },
-  {
-    "word": "Yummylicious",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Extremely delicious.",
-    "example": "The dessert was yummylicious and everyone asked for the recipe.",
-    "chinese": {
-      "meaning": "非常美味的",
-      "example": "甜點非常美味，大家都要食譜。"
-    }
-  },
-  {
-    "word": "Yareful",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Careful and nimble.",
-    "example": "She was yareful while handling the fragile vase.",
-    "chinese": {
-      "meaning": "小心謹慎且靈巧的",
-      "example": "她小心謹慎地搬動易碎的花瓶。"
-    }
-  },
-  {
-    "word": "Yenningful",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Full of yearning or desire.",
-    "example": "His yenningful heart sought peace and understanding.",
-    "chinese": {
-      "meaning": "充滿渴望的",
-      "example": "他充滿渴望的心尋求和平與理解。"
-    }
-  },
-  {
-    "word": "Yenlessful",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Lacking desire or craving.",
-    "example": "After the meal, she felt yenlessful and satisfied.",
-    "chinese": {
-      "meaning": "缺乏渴望的",
-      "example": "飯後，她感到缺乏渴望且心滿意足。"
-    }
-  },
-  {
-    "word": "Yenish",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Having qualities of strong desire or craving.",
-    "example": "His yenish attitude motivated him to succeed.",
-    "chinese": {
-      "meaning": "帶有強烈渴望的",
-      "example": "他帶有強烈渴望的態度激勵他成功。"
-    }
-  },
-  {
-    "word": "Yodelling",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Characterized by the vocal technique of yodeling.",
-    "example": "The yodelling choir performed beautifully at the concert.",
-    "chinese": {
-      "meaning": "用約德爾唱法的",
-      "example": "用約德爾唱法的合唱團在音樂會上表現出色。"
-    }
-  },
-  {
-    "word": "Yowly",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Making loud, mournful cries or howls.",
-    "example": "The yowly dog kept the neighbors awake all night.",
-    "chinese": {
-      "meaning": "嚎叫的，哀號的",
-      "example": "嚎叫的狗讓鄰居整夜無法入睡。"
-    }
-  },
-  {
-    "word": "Yuckyish",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Somewhat disgusting or unpleasant.",
-    "example": "The soup tasted yuckyish and was left unfinished.",
-    "chinese": {
-      "meaning": "有點令人作嘔的",
-      "example": "湯有點令人作嘔，沒喝完。"
-    }
-  },
-  {
-    "word": "Yumptious",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Very tasty and delicious.",
-    "example": "The chef prepared a yumptious meal for the guests.",
-    "chinese": {
-      "meaning": "非常美味的",
-      "example": "廚師為客人準備了一頓非常美味的餐點。"
-    }
-  },
-  {
-    "word": "Yenfulish",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Somewhat full of desire or craving.",
-    "example": "She had a yenfulish look when she saw the new book.",
-    "chinese": {
-      "meaning": "有點渴望的",
-      "example": "她看到新書時露出有點渴望的神情。"
-    }
-  },
-  {
-    "word": "Yenishful",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Full of yearning or desire.",
-    "example": "His yenishful heart longed for adventure.",
-    "chinese": {
-      "meaning": "充滿渴望的",
-      "example": "他充滿渴望的心渴望冒險。"
-    }
-  },
-  {
-    "word": "Yesternight",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Relating to the night before today.",
-    "example": "The yesternight sky was clear and starry.",
-    "chinese": {
-      "meaning": "昨晚的",
-      "example": "昨晚的天空晴朗且繁星點點。"
-    }
-  },
-  {
-    "word": "Yarefulish",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Somewhat careful and nimble.",
-    "example": "He moved yarefulish to avoid waking the baby.",
-    "chinese": {
-      "meaning": "稍微小心且靈巧的",
-      "example": "他稍微小心地移動以免吵醒嬰兒。"
-    }
-  },
-  {
-    "word": "Yenningly",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "In a manner full of desire or craving.",
-    "example": "She looked yenningly at the delicious cake.",
-    "chinese": {
-      "meaning": "充滿渴望地",
-      "example": "她充滿渴望地看著美味的蛋糕。"
-    }
-  },
-  {
-    "word": "Yobboish",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Characteristic of a yobbo; rough or uncultured.",
-    "example": "The yobboish behaviour was frowned upon in the community.",
-    "chinese": {
-      "meaning": "粗魯無禮的",
-      "example": "粗魯無禮的行為在社區中不受歡迎。"
-    }
-  },
-  {
-    "word": "Yarelike",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Similar to being quick and agile.",
-    "example": "The dancer moved with a yarelike grace.",
-    "chinese": {
-      "meaning": "類似敏捷的",
-      "example": "舞者以類似敏捷的優雅動作舞動。"
-    }
-  },
-  {
-    "word": "Yenishlike",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Having qualities of strong desire or craving.",
-    "example": "His yenishlike passion drove him to excel.",
-    "chinese": {
-      "meaning": "帶有強烈渴望的",
-      "example": "他帶有強烈渴望的熱情驅使他出類拔萃。"
-    }
-  },
-  {
-    "word": "Yenfullike",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Full of yearning or desire.",
-    "example": "She gave a yenfullike smile when she saw the gift.",
-    "chinese": {
-      "meaning": "充滿渴望的",
-      "example": "她看到禮物時露出充滿渴望的微笑。"
-    }
-  },
-  {
-    "word": "Yenlesslike",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Lacking desire or craving.",
-    "example": "After the meal, he felt yenlesslike and content.",
-    "chinese": {
-      "meaning": "缺乏渴望的",
-      "example": "飯後，他感到缺乏渴望且滿足。"
-    }
-  },
-  {
-    "word": "Yowlyish",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Somewhat loud and mournful in sound.",
-    "example": "The yowlyish cries of the cat woke the neighborhood.",
-    "chinese": {
-      "meaning": "有點嚎叫的",
-      "example": "貓的有點嚎叫聲吵醒了鄰居。"
-    }
-  },
-  {
-    "word": "Yuckyful",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Extremely unpleasant or disgusting.",
-    "example": "The yuckyful smell made everyone leave the room.",
-    "chinese": {
-      "meaning": "極其令人作嘔的",
-      "example": "極其令人作嘔的氣味使大家離開房間。"
-    }
-  },
-  {
-    "word": "Yumptiousful",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Very tasty and delightful.",
-    "example": "The yumptiousful meal satisfied all the guests.",
-    "chinese": {
-      "meaning": "非常美味的",
-      "example": "非常美味的餐點讓所有客人都很滿意。"
-    }
-  },
-  {
-    "word": "Yarelyish",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Somewhat quick and lively.",
-    "example": "The horse moved yarelyish across the field.",
-    "chinese": {
-      "meaning": "稍微輕快的",
-      "example": "馬輕快地穿過田野。"
-    }
-  },
-  {
-    "word": "Yippish",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Excited and joyful.",
-    "example": "The yippish crowd cheered loudly at the concert.",
-    "chinese": {
-      "meaning": "興奮的，歡呼的",
-      "example": "興奮的人群在音樂會上大聲歡呼。"
-    }
-  },
-  {
-    "word": "Yenfulsome",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Full of abundant desire or craving.",
-    "example": "His yenfulsome nature made him pursue his dreams relentlessly.",
-    "chinese": {
-      "meaning": "充滿渴望的",
-      "example": "他充滿渴望的性格使他不懈追求夢想。"
-    }
-  },
-  {
-    "word": "Yenlesssome",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Without any desire or craving.",
-    "example": "After the long wait, she felt yenlesssome and calm.",
-    "chinese": {
-      "meaning": "毫無渴望的",
-      "example": "長時間等待後，她感到毫無渴望且平靜。"
-    }
-  },
-  {
-    "word": "Yenishsome",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Having some qualities of strong desire or craving.",
-    "example": "His yenishsome attitude inspired others to work harder.",
-    "chinese": {
-      "meaning": "帶有一些渴望的",
-      "example": "他帶有一些渴望的態度激勵他人更加努力。"
-    }
-  },
-  {
-    "word": "Yodelly",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Relating to or characterized by yodeling.",
-    "example": "The yodelly tunes echoed through the valley.",
-    "chinese": {
-      "meaning": "約德爾唱法的",
-      "example": "約德爾唱法的曲調在山谷中回響。"
-    }
-  },
-  {
-    "word": "Yawnful",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Causing yawning; boring or dull.",
-    "example": "The lecture was so yawnful that many students fell asleep.",
-    "chinese": {
-      "meaning": "令人打哈欠的，無聊的",
-      "example": "講座非常無聊，許多學生睡著了。"
-    }
-  },
-  {
-    "word": "Yarefulsome",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Very careful and nimble.",
-    "example": "She was yarefulsome when crossing the icy road.",
-    "chinese": {
-      "meaning": "非常小心且靈巧的",
-      "example": "她過冰路時非常小心。"
-    }
-  },
-  {
-    "word": "Yenningfulsome",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Full of abundant yearning or desire.",
-    "example": "His yenningfulsome heart kept him motivated.",
-    "chinese": {
-      "meaning": "充滿渴望的",
-      "example": "他充滿渴望的心讓他保持動力。"
-    }
-  },
-  {
-    "word": "Yenlessfulsome",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Completely lacking desire or craving.",
-    "example": "After the ordeal, she was yenlessfulsome and at peace.",
-    "chinese": {
-      "meaning": "完全無渴望的",
-      "example": "經歷磨難後，她完全無渴望且心境平和。"
-    }
-  },
-  {
-    "word": "Yenishfulsome",
-    "type": "adjective",
-    "letter": "Y",
-    "meaning": "Having many qualities of strong desire or craving.",
-    "example": "His yenishfulsome spirit inspired the whole team.",
-    "chinese": {
-      "meaning": "充滿渴望的",
-      "example": "他充滿渴望的精神激勵了整個團隊。"
-    }
-  }
-]}
+  ]
+}

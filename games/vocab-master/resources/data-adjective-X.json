@@ -1,1 +1,169 @@
-{"words":[{"word":"Xanthic","type":"adjective","letter":"X","meaning":"呈黃色的；黃色的","example":"The xanthic leaves stood out in the autumn forest.","chinese":{"meaning":"呈黃色的；黃色的","example":"秋天的森林中，那些黃色的葉子格外顯眼。"}},{"word":"Xanthous","type":"adjective","letter":"X","meaning":"黃色的；黃膚色的","example":"The xanthous flowers bloomed brightly in the garden.","chinese":{"meaning":"黃色的；黃膚色的","example":"花園裡黃色的花朵盛開得非常鮮豔。"}},{"word":"Xeric","type":"adjective","letter":"X","meaning":"乾燥的；缺水的","example":"Cacti thrive in xeric environments.","chinese":{"meaning":"乾燥的；缺水的","example":"仙人掌在乾燥的環境中茁壯成長。"}},{"word":"Xerothermic","type":"adjective","letter":"X","meaning":"乾熱的；乾燥且炎熱的","example":"Xerothermic conditions are common in deserts.","chinese":{"meaning":"乾熱的；乾燥且炎熱的","example":"沙漠中常見乾熱的氣候條件。"}},{"word":"Xiphoid","type":"adjective","letter":"X","meaning":"劍狀的；劍形的","example":"The xiphoid process is a small cartilaginous extension at the lower end of the sternum.","chinese":{"meaning":"劍狀的；劍形的","example":"劍突是胸骨下端的一個小軟骨延伸部分。"}},{"word":"Xyloid","type":"adjective","letter":"X","meaning":"木質的；似木的","example":"The xyloid texture of the sculpture gave it a natural look.","chinese":{"meaning":"木質的；似木的","example":"雕塑的木質紋理使其看起來很自然。"}},{"word":"Xylophagous","type":"adjective","letter":"X","meaning":"食木的；以木為食的","example":"Termites are xylophagous insects that can damage wooden structures.","chinese":{"meaning":"食木的；以木為食的","example":"白蟻是以木為食的昆蟲，可能破壞木製結構。"}},{"word":"Xenophobic","type":"adjective","letter":"X","meaning":"排外的；恐外的","example":"Xenophobic attitudes can lead to social division.","chinese":{"meaning":"排外的；恐外的","example":"排外的態度可能導致社會分裂。"}},{"word":"Xenial","type":"adjective","letter":"X","meaning":"好客的；友善待客的","example":"The host was xenial and welcomed all guests warmly.","chinese":{"meaning":"好客的；友善待客的","example":"主人熱情好客，溫暖地歡迎所有客人。"}},{"word":"Xerothermic","type":"adjective","letter":"X","meaning":"乾熱的；乾燥且炎熱的","example":"The xerothermic climate is typical of many desert regions.","chinese":{"meaning":"乾熱的；乾燥且炎熱的","example":"乾熱氣候是許多沙漠地區的典型特徵。"}},{"word":"Xerophilous","type":"adjective","letter":"X","meaning":"耐旱的；喜乾燥環境的","example":"Xerophilous plants can survive with very little water.","chinese":{"meaning":"耐旱的；喜乾燥環境的","example":"耐旱植物能在極少水分的環境中生存。"}},{"word":"Xerarch","type":"adjective","letter":"X","meaning":"在乾燥環境中形成的（生態）","example":"Xerarch succession occurs in arid regions.","chinese":{"meaning":"在乾燥環境中形成的（生態）","example":"乾旱地區發生乾燥生態演替。"}},{"word":"Xenotropic","type":"adjective","letter":"X","meaning":"異種寄主的；異種特異性的","example":"Xenotropic viruses infect species different from their original host.","chinese":{"meaning":"異種寄主的；異種特異性的","example":"異種病毒感染不同於其原始宿主的物種。"}},{"word":"Xeric","type":"adjective","letter":"X","meaning":"乾燥的；缺水的","example":"Many xeric plants have adapted to survive in deserts.","chinese":{"meaning":"乾燥的；缺水的","example":"許多乾燥植物已適應在沙漠中生存。"}},{"word":"Xerothermic","type":"adjective","letter":"X","meaning":"乾熱的；乾燥且炎熱的","example":"Xerothermic conditions challenge many forms of life.","chinese":{"meaning":"乾熱的；乾燥且炎熱的","example":"乾熱的條件對許多生命形式構成挑戰。"}},{"word":"Xenogenic","type":"adjective","letter":"X","meaning":"異源的；異種起源的","example":"Xenogenic tissues come from a different species.","chinese":{"meaning":"異源的；異種起源的","example":"異源組織來自不同物種。"}},{"word":"Xeromorphic","type":"adjective","letter":"X","meaning":"乾旱適應的；乾燥環境特徵的","example":"Xeromorphic leaves reduce water loss.","chinese":{"meaning":"乾旱適應的；乾燥環境特徵的","example":"乾旱適應性葉子減少水分流失。"}},{"word":"Xerophytic","type":"adjective","letter":"X","meaning":"耐旱植物的；適應乾燥環境的","example":"Xerophytic plants have thick cuticles to prevent water loss.","chinese":{"meaning":"耐旱植物的；適應乾燥環境的","example":"耐旱植物有厚厚的角質層以防止水分流失。"}},{"word":"Xanthous","type":"adjective","letter":"X","meaning":"黃色的；黃膚色的","example":"The xanthous hair of the character made him stand out.","chinese":{"meaning":"黃色的；黃膚色的","example":"角色的黃色頭髮讓他顯得與眾不同。"}}]}
+{
+  "words": [
+    {
+      "word": "Xanthic",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "呈黃色的；黃色的",
+      "example": "The xanthic leaves stood out in the autumn forest.",
+      "chinese": {
+        "meaning": "呈黃色的；黃色的",
+        "example": "秋天的森林中，那些黃色的葉子格外顯眼。"
+      }
+    },
+    {
+      "word": "Xanthous",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "黃色的；黃膚色的",
+      "example": "The xanthous flowers bloomed brightly in the garden.",
+      "chinese": {
+        "meaning": "黃色的；黃膚色的",
+        "example": "花園裡黃色的花朵盛開得非常鮮豔。"
+      }
+    },
+    {
+      "word": "Xenial",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "好客的；友善待客的",
+      "example": "The host was xenial and welcomed all guests warmly.",
+      "chinese": {
+        "meaning": "好客的；友善待客的",
+        "example": "主人熱情好客，溫暖地歡迎所有客人。"
+      }
+    },
+    {
+      "word": "Xenogenic",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "異源的；異種起源的",
+      "example": "Xenogenic tissues come from a different species.",
+      "chinese": {
+        "meaning": "異源的；異種起源的",
+        "example": "異源組織來自不同物種。"
+      }
+    },
+    {
+      "word": "Xenophobic",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "排外的；恐外的",
+      "example": "Xenophobic attitudes can lead to social division.",
+      "chinese": {
+        "meaning": "排外的；恐外的",
+        "example": "排外的態度可能導致社會分裂。"
+      }
+    },
+    {
+      "word": "Xenotropic",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "異種寄主的；異種特異性的",
+      "example": "Xenotropic viruses infect species different from their original host.",
+      "chinese": {
+        "meaning": "異種寄主的；異種特異性的",
+        "example": "異種病毒感染不同於其原始宿主的物種。"
+      }
+    },
+    {
+      "word": "Xerarch",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "在乾燥環境中形成的（生態）",
+      "example": "Xerarch succession occurs in arid regions.",
+      "chinese": {
+        "meaning": "在乾燥環境中形成的（生態）",
+        "example": "乾旱地區發生乾燥生態演替。"
+      }
+    },
+    {
+      "word": "Xeric",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "乾燥的；缺水的",
+      "example": "Cacti thrive in xeric environments.",
+      "chinese": {
+        "meaning": "乾燥的；缺水的",
+        "example": "仙人掌在乾燥的環境中茁壯成長。"
+      }
+    },
+    {
+      "word": "Xeromorphic",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "乾旱適應的；乾燥環境特徵的",
+      "example": "Xeromorphic leaves reduce water loss.",
+      "chinese": {
+        "meaning": "乾旱適應的；乾燥環境特徵的",
+        "example": "乾旱適應性葉子減少水分流失。"
+      }
+    },
+    {
+      "word": "Xerophilous",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "耐旱的；喜乾燥環境的",
+      "example": "Xerophilous plants can survive with very little water.",
+      "chinese": {
+        "meaning": "耐旱的；喜乾燥環境的",
+        "example": "耐旱植物能在極少水分的環境中生存。"
+      }
+    },
+    {
+      "word": "Xerophytic",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "耐旱植物的；適應乾燥環境的",
+      "example": "Xerophytic plants have thick cuticles to prevent water loss.",
+      "chinese": {
+        "meaning": "耐旱植物的；適應乾燥環境的",
+        "example": "耐旱植物有厚厚的角質層以防止水分流失。"
+      }
+    },
+    {
+      "word": "Xerothermic",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "乾熱的；乾燥且炎熱的",
+      "example": "Xerothermic conditions are common in deserts.",
+      "chinese": {
+        "meaning": "乾熱的；乾燥且炎熱的",
+        "example": "沙漠中常見乾熱的氣候條件。"
+      }
+    },
+    {
+      "word": "Xiphoid",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "劍狀的；劍形的",
+      "example": "The xiphoid process is a small cartilaginous extension at the lower end of the sternum.",
+      "chinese": {
+        "meaning": "劍狀的；劍形的",
+        "example": "劍突是胸骨下端的一個小軟骨延伸部分。"
+      }
+    },
+    {
+      "word": "Xyloid",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "木質的；似木的",
+      "example": "The xyloid texture of the sculpture gave it a natural look.",
+      "chinese": {
+        "meaning": "木質的；似木的",
+        "example": "雕塑的木質紋理使其看起來很自然。"
+      }
+    },
+    {
+      "word": "Xylophagous",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "食木的；以木為食的",
+      "example": "Termites are xylophagous insects that can damage wooden structures.",
+      "chinese": {
+        "meaning": "食木的；以木為食的",
+        "example": "白蟻是以木為食的昆蟲，可能破壞木製結構。"
+      }
+    }
+  ]
+}

@@ -10,6 +10,18 @@ for letter in {A..Z}; do echo '{"words": []}' > "data-noun-$letter.json"; done
 for letter in {A..Z}; do echo '{"words": []}' > "data-verb-$letter.json"; done
 ```
 
+### Update all JSON files
+
+```bash
+for f in data-adjective-*.json; do jq '.words |= (sort_by(.word) | unique_by(.word))' "$f" > "deduped-$f"; done
+for f in deduped-data-adjective-*.json; do mv "$f" "${f#deduped-}"; done
+```
+
+```bash
+for f in data-verb-*.json; do jq '.words |= (sort_by(.word) | unique_by(.word))' "$f" > "deduped-$f"; done
+for f in deduped-data-verb-*.json; do mv "$f" "${f#deduped-}"; done
+```
+
 ### Sort and Deduplicate the Array in JSON
 
 ```bash

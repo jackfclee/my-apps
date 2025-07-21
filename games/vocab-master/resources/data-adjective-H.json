@@ -474,6 +474,17 @@
       }
     },
     {
+      "word": "Hyperactive",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Extremely active and energetic",
+      "example": "The child was hyperactive during the class.",
+      "chinese": {
+        "meaning": "過度活躍的",
+        "example": "那個孩子在課堂上過度活躍。"
+      }
+    },
+    {
       "word": "Hypnotic",
       "type": "adjective",
       "letter": "H",
@@ -504,17 +515,6 @@
       "chinese": {
         "meaning": "歇斯底里的",
         "example": "觀眾笑得歇斯底里。"
-      }
-    },
-    {
-      "word": "Hyperactive",
-      "type": "adjective",
-      "letter": "H",
-      "meaning": "Extremely active and energetic",
-      "example": "The child was hyperactive during the class.",
-      "chinese": {
-        "meaning": "過度活躍的",
-        "example": "那個孩子在課堂上過度活躍。"
       }
     }
   ]
