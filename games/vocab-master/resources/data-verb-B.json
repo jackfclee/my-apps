@@ -727,17 +727,6 @@
       }
     },
     {
-      "word": "Broaden",
-      "type": "verb",
-      "letter": "B",
-      "meaning": "To make wider or more extensive",
-      "example": "Travel broadens the mind.",
-      "chinese": {
-        "meaning": "擴寬、擴展",
-        "example": "旅行能開闊心胸。"
-      }
-    },
-    {
       "word": "Broadcast",
       "type": "verb",
       "letter": "B",
@@ -746,6 +735,17 @@
       "chinese": {
         "meaning": "播送、廣播",
         "example": "比賽進行了現場直播。"
+      }
+    },
+    {
+      "word": "Broaden",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To make wider or more extensive",
+      "example": "Travel broadens the mind.",
+      "chinese": {
+        "meaning": "擴寬、擴展",
+        "example": "旅行能開闊心胸。"
       }
     },
     {

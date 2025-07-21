@@ -441,6 +441,17 @@
       }
     },
     {
+      "word": "Conclude",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To bring something to an end or to decide after consideration",
+      "example": "They concluded the meeting with a summary.",
+      "chinese": {
+        "meaning": "結論、結束",
+        "example": "他們以總結結束了會議。"
+      }
+    },
+    {
       "word": "Confirm",
       "type": "verb",
       "letter": "C",
