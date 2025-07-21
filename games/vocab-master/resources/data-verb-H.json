@@ -1,3 +1,543 @@
 {
-    
+  "words": [
+    {
+      "word": "Hail",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To greet or acclaim enthusiastically",
+      "example": "The scientist was hailed as a hero.",
+      "chinese": {
+        "meaning": "稱讚；歡呼",
+        "example": "這位科學家被譽為英雄。"
+      }
+    },
+    {
+      "word": "Halt",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To stop or cause to stop",
+      "example": "The train halted suddenly.",
+      "chinese": {
+        "meaning": "停止",
+        "example": "火車突然停了下來。"
+      }
+    },
+    {
+      "word": "Hammer",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To hit something with a hammer or repeatedly",
+      "example": "He hammered the nail into the wall.",
+      "chinese": {
+        "meaning": "敲打",
+        "example": "他把釘子敲進牆裡。"
+      }
+    },
+    {
+      "word": "Hamper",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To make it difficult for someone to do something",
+      "example": "Bad weather hampered the rescue efforts.",
+      "chinese": {
+        "meaning": "妨礙",
+        "example": "惡劣天氣妨礙了救援工作。"
+      }
+    },
+    {
+      "word": "Handle",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To deal with or manage a situation or person",
+      "example": "She handled the situation calmly.",
+      "chinese": {
+        "meaning": "處理",
+        "example": "她冷靜地處理了這個情況。"
+      }
+    },
+    {
+      "word": "Hang",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To attach or suspend something so that it is held up",
+      "example": "He hung his coat on the hook.",
+      "chinese": {
+        "meaning": "掛",
+        "example": "他把外套掛在掛鉤上。"
+      }
+    },
+    {
+      "word": "Happen",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To take place; to occur",
+      "example": "Accidents can happen at any time.",
+      "chinese": {
+        "meaning": "發生",
+        "example": "意外隨時可能發生。"
+      }
+    },
+    {
+      "word": "Harden",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To become or make something hard",
+      "example": "The concrete hardened overnight.",
+      "chinese": {
+        "meaning": "變硬",
+        "example": "混凝土一夜之間變硬了。"
+      }
+    },
+    {
+      "word": "Harm",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To hurt or damage something or someone",
+      "example": "Pollution can harm marine life.",
+      "chinese": {
+        "meaning": "傷害",
+        "example": "污染會傷害海洋生物。"
+      }
+    },
+    {
+      "word": "Harness",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To control and make use of something, especially natural resources",
+      "example": "The company is trying to harness solar energy.",
+      "chinese": {
+        "meaning": "利用",
+        "example": "該公司試圖利用太陽能。"
+      }
+    },
+    {
+      "word": "Hasten",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To cause something to happen sooner",
+      "example": "They hastened the development of the vaccine.",
+      "chinese": {
+        "meaning": "加速",
+        "example": "他們加快了疫苗的研發。"
+      }
+    },
+    {
+      "word": "Hatch",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To come out of an egg; to create a plan",
+      "example": "The chicks hatched after three weeks.",
+      "chinese": {
+        "meaning": "孵化；策劃",
+        "example": "小雞在三週後孵化出來。"
+      }
+    },
+    {
+      "word": "Haul",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To pull or drag something with effort",
+      "example": "They hauled the boat onto the shore.",
+      "chinese": {
+        "meaning": "拖拉",
+        "example": "他們把船拖上岸。"
+      }
+    },
+    {
+      "word": "Haunt",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To repeatedly appear in someone's mind or to inhabit a place as a ghost",
+      "example": "The memory of the accident haunted him for years.",
+      "chinese": {
+        "meaning": "縈繞；困擾",
+        "example": "事故的記憶多年來一直困擾著他。"
+      }
+    },
+    {
+      "word": "Head",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To lead or be in charge of something",
+      "example": "She headed the research team.",
+      "chinese": {
+        "meaning": "領導",
+        "example": "她領導了研究團隊。"
+      }
+    },
+    {
+      "word": "Heal",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To become healthy again; to cure",
+      "example": "Time heals all wounds.",
+      "chinese": {
+        "meaning": "治癒",
+        "example": "時間能治癒一切創傷。"
+      }
+    },
+    {
+      "word": "Heap",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To put things in a pile",
+      "example": "She heaped clothes on the bed.",
+      "chinese": {
+        "meaning": "堆積",
+        "example": "她把衣服堆在床上。"
+      }
+    },
+    {
+      "word": "Hear",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To perceive sound using the ears",
+      "example": "Did you hear that noise?",
+      "chinese": {
+        "meaning": "聽見",
+        "example": "你聽到那聲音了嗎？"
+      }
+    },
+    {
+      "word": "Heat",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To make something hot or warm",
+      "example": "Please heat the soup before serving.",
+      "chinese": {
+        "meaning": "加熱",
+        "example": "上菜前請把湯加熱。"
+      }
+    },
+    {
+      "word": "Heighten",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To increase the intensity or degree of something",
+      "example": "The announcement heightened tensions among the staff.",
+      "chinese": {
+        "meaning": "加劇",
+        "example": "公告加劇了員工之間的緊張氣氛。"
+      }
+    },
+    {
+      "word": "Help",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To assist or support someone",
+      "example": "She helped her friend with the homework.",
+      "chinese": {
+        "meaning": "幫助",
+        "example": "她幫朋友做功課。"
+      }
+    },
+    {
+      "word": "Hesitate",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To pause before doing something, often because of uncertainty",
+      "example": "He hesitated before answering the question.",
+      "chinese": {
+        "meaning": "猶豫",
+        "example": "他在回答問題前猶豫了一下。"
+      }
+    },
+    {
+      "word": "Hide",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To put something where it cannot be seen or found",
+      "example": "She hid the gift in the closet.",
+      "chinese": {
+        "meaning": "藏起來",
+        "example": "她把禮物藏在衣櫃裡。"
+      }
+    },
+    {
+      "word": "Highlight",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To emphasize or make something stand out",
+      "example": "The report highlights the main issues.",
+      "chinese": {
+        "meaning": "強調",
+        "example": "報告強調了主要問題。"
+      }
+    },
+    {
+      "word": "Hijack",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To take control of a vehicle by force",
+      "example": "The plane was hijacked by terrorists.",
+      "chinese": {
+        "meaning": "劫持",
+        "example": "飛機被恐怖分子劫持了。"
+      }
+    },
+    {
+      "word": "Hinder",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To make it difficult for something to happen",
+      "example": "Poor communication hindered the project.",
+      "chinese": {
+        "meaning": "阻礙",
+        "example": "溝通不良阻礙了項目進展。"
+      }
+    },
+    {
+      "word": "Hinge",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To depend on something",
+      "example": "The outcome hinges on her decision.",
+      "chinese": {
+        "meaning": "取決於",
+        "example": "結果取決於她的決定。"
+      }
+    },
+    {
+      "word": "Hint",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To suggest something indirectly",
+      "example": "She hinted that she wanted a promotion.",
+      "chinese": {
+        "meaning": "暗示",
+        "example": "她暗示自己想升職。"
+      }
+    },
+    {
+      "word": "Hire",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To give someone a job",
+      "example": "They hired a new manager.",
+      "chinese": {
+        "meaning": "雇用",
+        "example": "他們雇用了一位新經理。"
+      }
+    },
+    {
+      "word": "Hit",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To strike or impact something with force",
+      "example": "The ball hit the window.",
+      "chinese": {
+        "meaning": "打；撞",
+        "example": "球打到窗戶上了。"
+      }
+    },
+    {
+      "word": "Hoard",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To collect and keep a large amount of something, often secretly",
+      "example": "People hoarded food during the crisis.",
+      "chinese": {
+        "meaning": "囤積",
+        "example": "危機期間人們囤積食物。"
+      }
+    },
+    {
+      "word": "Hold",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To grasp or carry something",
+      "example": "She held the baby in her arms.",
+      "chinese": {
+        "meaning": "握住",
+        "example": "她抱著嬰兒。"
+      }
+    },
+    {
+      "word": "Honor",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To show great respect for someone or something",
+      "example": "They honored the winners at the ceremony.",
+      "chinese": {
+        "meaning": "表彰；尊敬",
+        "example": "他們在典禮上表彰了獲獎者。"
+      }
+    },
+    {
+      "word": "Hop",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To jump on one foot or to make short jumps",
+      "example": "The child hopped across the playground.",
+      "chinese": {
+        "meaning": "單腳跳",
+        "example": "孩子在操場上單腳跳。"
+      }
+    },
+    {
+      "word": "Hope",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To wish for something to happen",
+      "example": "We hope to see you soon.",
+      "chinese": {
+        "meaning": "希望",
+        "example": "我們希望很快見到你。"
+      }
+    },
+    {
+      "word": "Host",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To organize and provide the space for an event",
+      "example": "They hosted the annual conference.",
+      "chinese": {
+        "meaning": "主辦",
+        "example": "他們主辦了年度會議。"
+      }
+    },
+    {
+      "word": "Hostile",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To act in an unfriendly or antagonistic way",
+      "example": "They hostile the new policy.",
+      "chinese": {
+        "meaning": "敵對",
+        "example": "他們對新政策持敵對態度。"
+      }
+    },
+    {
+      "word": "House",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To provide a place for someone to live or stay",
+      "example": "The building houses several families.",
+      "chinese": {
+        "meaning": "安置；容納",
+        "example": "這棟樓安置了幾個家庭。"
+      }
+    },
+    {
+      "word": "Housekeep",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To manage the running of a household",
+      "example": "She housekeeps for several families.",
+      "chinese": {
+        "meaning": "做家務",
+        "example": "她為幾個家庭做家務。"
+      }
+    },
+    {
+      "word": "Hover",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To stay in one place in the air",
+      "example": "The helicopter hovered over the building.",
+      "chinese": {
+        "meaning": "盤旋",
+        "example": "直升機在建築物上空盤旋。"
+      }
+    },
+    {
+      "word": "Hug",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To hold someone tightly in one's arms to show affection",
+      "example": "She hugged her friend tightly.",
+      "chinese": {
+        "meaning": "擁抱",
+        "example": "她緊緊地擁抱了朋友。"
+      }
+    },
+    {
+      "word": "Hum",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To make a low continuous sound, like singing without words",
+      "example": "She hummed her favorite tune.",
+      "chinese": {
+        "meaning": "哼唱",
+        "example": "她哼著自己喜歡的曲子。"
+      }
+    },
+    {
+      "word": "Humiliate",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To make someone feel ashamed or embarrassed",
+      "example": "The teacher humiliated the student in front of the class.",
+      "chinese": {
+        "meaning": "羞辱",
+        "example": "老師在全班面前羞辱了學生。"
+      }
+    },
+    {
+      "word": "Hunt",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To search for or chase animals or people",
+      "example": "They hunted deer in the forest.",
+      "chinese": {
+        "meaning": "狩獵；搜尋",
+        "example": "他們在森林裡狩獵鹿。"
+      }
+    },
+    {
+      "word": "Hurry",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To move or act with speed",
+      "example": "We need to hurry or we'll be late.",
+      "chinese": {
+        "meaning": "趕快",
+        "example": "我們得快點，不然就遲到了。"
+      }
+    },
+    {
+      "word": "Hurt",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To cause pain or injury",
+      "example": "He hurt his ankle during the game.",
+      "chinese": {
+        "meaning": "傷害",
+        "example": "他在比賽中扭傷了腳踝。"
+      }
+    },
+    {
+      "word": "Hush",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To make someone quiet or silent",
+      "example": "She hushed the children before the movie started.",
+      "chinese": {
+        "meaning": "使安靜",
+        "example": "電影開始前她讓孩子們安靜下來。"
+      }
+    },
+    {
+      "word": "Hydrate",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To supply water to something to keep it moist",
+      "example": "You should hydrate after exercising.",
+      "chinese": {
+        "meaning": "補水",
+        "example": "運動後你應該補充水分。"
+      }
+    },
+    {
+      "word": "Hypothesize",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To suggest a possible explanation based on limited evidence",
+      "example": "Scientists hypothesize that the disease is caused by a virus.",
+      "chinese": {
+        "meaning": "假設",
+        "example": "科學家假設這種疾病是由病毒引起的。"
+      }
+    }
+  ]
 }

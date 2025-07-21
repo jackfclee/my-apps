@@ -1,3 +1,510 @@
 {
-    
+  "words": [
+    {
+      "word": "Jab",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To poke someone or something quickly and forcefully",
+      "example": "He jabbed his finger at the map.",
+      "chinese": {
+        "meaning": "猛戳",
+        "example": "他用手指猛戳地圖。"
+      }
+    },
+    {
+      "word": "Jabber",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To talk rapidly and excitedly but with little sense",
+      "example": "The children jabbered away in the playground.",
+      "chinese": {
+        "meaning": "喋喋不休",
+        "example": "孩子們在操場上喋喋不休地說話。"
+      }
+    },
+    {
+      "word": "Jack",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To lift something, especially using a jack device",
+      "example": "They jacked up the car to change the tire.",
+      "chinese": {
+        "meaning": "用千斤頂抬起",
+        "example": "他們用千斤頂抬起汽車換輪胎。"
+      }
+    },
+    {
+      "word": "Jackknife",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To bend at the middle like a jackknife",
+      "example": "The truck jackknifed on the icy road.",
+      "chinese": {
+        "meaning": "折疊（如折刀）",
+        "example": "卡車在結冰的路上折疊了。"
+      }
+    },
+    {
+      "word": "Jag",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To cut unevenly or make jagged",
+      "example": "The knife jagged the edge of the paper.",
+      "chinese": {
+        "meaning": "使成鋸齒狀",
+        "example": "刀子把紙的邊緣切成鋸齒狀。"
+      }
+    },
+    {
+      "word": "Jail",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To put someone in jail",
+      "example": "He was jailed for theft.",
+      "chinese": {
+        "meaning": "監禁",
+        "example": "他因盜竊被監禁。"
+      }
+    },
+    {
+      "word": "Jailbreak",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To escape from jail; to remove restrictions on a device",
+      "example": "He tried to jailbreak his phone.",
+      "chinese": {
+        "meaning": "越獄",
+        "example": "他試圖越獄他的手機。"
+      }
+    },
+    {
+      "word": "Jam",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To become stuck or make something unable to move",
+      "example": "Paper jammed in the printer again.",
+      "chinese": {
+        "meaning": "卡住",
+        "example": "印表機又卡紙了。"
+      }
+    },
+    {
+      "word": "Jape",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To joke or play tricks",
+      "example": "He likes to jape with his friends.",
+      "chinese": {
+        "meaning": "開玩笑",
+        "example": "他喜歡和朋友開玩笑。"
+      }
+    },
+    {
+      "word": "Jaw",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To talk, especially for a long time",
+      "example": "They jawed for hours about politics.",
+      "chinese": {
+        "meaning": "長時間談話",
+        "example": "他們長時間談論政治。"
+      }
+    },
+    {
+      "word": "Jeer",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To make fun of someone in a rude or unkind way",
+      "example": "The crowd jeered at the player who missed the goal.",
+      "chinese": {
+        "meaning": "嘲笑",
+        "example": "觀眾嘲笑那位射失球門的球員。"
+      }
+    },
+    {
+      "word": "Jeopardise",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To put in danger (British spelling of 'jeopardize')",
+      "example": "Don't jeopardise your future.",
+      "chinese": {
+        "meaning": "危及",
+        "example": "不要危及你的未來。"
+      }
+    },
+    {
+      "word": "Jeopardize",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To risk harming or destroying something",
+      "example": "His actions jeopardized the entire operation.",
+      "chinese": {
+        "meaning": "危及",
+        "example": "他的行為危及了整個行動。"
+      }
+    },
+    {
+      "word": "Jerk",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To move suddenly and quickly",
+      "example": "The train jerked forward unexpectedly.",
+      "chinese": {
+        "meaning": "猛然一動",
+        "example": "火車突然猛然前進。"
+      }
+    },
+    {
+      "word": "Jest",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To joke or speak humorously",
+      "example": "He often jested to lighten the mood.",
+      "chinese": {
+        "meaning": "開玩笑",
+        "example": "他常常開玩笑來緩和氣氛。"
+      }
+    },
+    {
+      "word": "Jet",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To move or send out in a stream",
+      "example": "Water jetted from the broken pipe.",
+      "chinese": {
+        "meaning": "噴射",
+        "example": "水從破裂的管子裡噴射出來。"
+      }
+    },
+    {
+      "word": "Jettison",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To throw or drop something from a ship or aircraft",
+      "example": "The crew jettisoned excess cargo.",
+      "chinese": {
+        "meaning": "拋棄",
+        "example": "船員們拋棄了多餘的貨物。"
+      }
+    },
+    {
+      "word": "Jibe",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To be in agreement; to make insulting remarks",
+      "example": "His story didn't jibe with the facts.",
+      "chinese": {
+        "meaning": "一致；嘲諷",
+        "example": "他的說法與事實不一致。"
+      }
+    },
+    {
+      "word": "Jilt",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To suddenly reject or abandon a lover",
+      "example": "She was jilted by her fiancé before the wedding.",
+      "chinese": {
+        "meaning": "拋棄（情人）",
+        "example": "她在婚禮前被未婚夫拋棄了。"
+      }
+    },
+    {
+      "word": "Jingle",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To make a light ringing sound",
+      "example": "Keys jingled in his pocket.",
+      "chinese": {
+        "meaning": "叮噹作響",
+        "example": "鑰匙在他口袋裡叮噹作響。"
+      }
+    },
+    {
+      "word": "Jinx",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To bring bad luck to someone or something",
+      "example": "He thought he had jinxed the team by watching the game.",
+      "chinese": {
+        "meaning": "帶來厄運",
+        "example": "他認為自己看比賽給球隊帶來了厄運。"
+      }
+    },
+    {
+      "word": "Jive",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To dance to jazz or swing music",
+      "example": "They jived to the lively music.",
+      "chinese": {
+        "meaning": "跳搖擺舞",
+        "example": "他們隨著歡快的音樂跳搖擺舞。"
+      }
+    },
+    {
+      "word": "Jockey",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To compete for advantage or position",
+      "example": "Politicians jockey for power.",
+      "chinese": {
+        "meaning": "爭奪",
+        "example": "政客們爭奪權力。"
+      }
+    },
+    {
+      "word": "Jog",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To run at a slow, steady pace",
+      "example": "She jogs every morning to stay fit.",
+      "chinese": {
+        "meaning": "慢跑",
+        "example": "她每天早上慢跑保持健康。"
+      }
+    },
+    {
+      "word": "Joggle",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To shake or move slightly",
+      "example": "He joggled the handle until it opened.",
+      "chinese": {
+        "meaning": "輕輕搖動",
+        "example": "他輕輕搖動把手直到打開。"
+      }
+    },
+    {
+      "word": "Join",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To become a member of or connect to something",
+      "example": "He joined the basketball team.",
+      "chinese": {
+        "meaning": "加入",
+        "example": "他加入了籃球隊。"
+      }
+    },
+    {
+      "word": "Joke",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To say something funny to make others laugh",
+      "example": "She joked about the situation.",
+      "chinese": {
+        "meaning": "開玩笑",
+        "example": "她對這種情況開玩笑。"
+      }
+    },
+    {
+      "word": "Jolt",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To move or make someone move suddenly and roughly",
+      "example": "The bus jolted to a stop.",
+      "chinese": {
+        "meaning": "顛簸",
+        "example": "公車顛簸地停了下來。"
+      }
+    },
+    {
+      "word": "Jot",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To write something quickly",
+      "example": "He jotted down the address.",
+      "chinese": {
+        "meaning": "快速寫下",
+        "example": "他迅速寫下了地址。"
+      }
+    },
+    {
+      "word": "Journal",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To write in a journal",
+      "example": "She journals every night before bed.",
+      "chinese": {
+        "meaning": "寫日記",
+        "example": "她每天晚上睡前寫日記。"
+      }
+    },
+    {
+      "word": "Journey",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To travel from one place to another",
+      "example": "They journeyed across the desert.",
+      "chinese": {
+        "meaning": "旅行",
+        "example": "他們橫越沙漠旅行。"
+      }
+    },
+    {
+      "word": "Joust",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To compete closely for superiority",
+      "example": "The two politicians jousted in the debate.",
+      "chinese": {
+        "meaning": "競爭",
+        "example": "兩位政客在辯論中競爭。"
+      }
+    },
+    {
+      "word": "Joyride",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To drive around in a car for pleasure, especially without permission",
+      "example": "The teenagers joyrode in a stolen car.",
+      "chinese": {
+        "meaning": "兜風（尤指偷車）",
+        "example": "青少年開著偷來的車兜風。"
+      }
+    },
+    {
+      "word": "Judge",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To form an opinion or conclusion about something",
+      "example": "Don't judge a book by its cover.",
+      "chinese": {
+        "meaning": "評斷",
+        "example": "不要以貌取人。"
+      }
+    },
+    {
+      "word": "Juggle",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To manage several tasks at the same time",
+      "example": "She juggles work and family responsibilities.",
+      "chinese": {
+        "meaning": "同時處理多項事務",
+        "example": "她同時處理工作和家庭責任。"
+      }
+    },
+    {
+      "word": "Juice",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To extract juice from fruit or vegetables",
+      "example": "She juiced oranges for breakfast.",
+      "chinese": {
+        "meaning": "榨汁",
+        "example": "她榨橙汁當早餐。"
+      }
+    },
+    {
+      "word": "Jumble",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To mix things together in a confused way",
+      "example": "The papers were jumbled on the desk.",
+      "chinese": {
+        "meaning": "混亂地混合",
+        "example": "桌上的文件混亂地堆在一起。"
+      }
+    },
+    {
+      "word": "Jump",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To push yourself off the ground into the air",
+      "example": "He jumped over the fence.",
+      "chinese": {
+        "meaning": "跳",
+        "example": "他跳過了柵欄。"
+      }
+    },
+    {
+      "word": "Jumpstart",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To start something quickly or to start a car using jumper cables",
+      "example": "We need to jumpstart the project.",
+      "chinese": {
+        "meaning": "快速啟動",
+        "example": "我們需要快速啟動這個項目。"
+      }
+    },
+    {
+      "word": "Junk",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To throw away or get rid of something",
+      "example": "They junked their old furniture.",
+      "chinese": {
+        "meaning": "丟棄",
+        "example": "他們丟棄了舊傢俱。"
+      }
+    },
+    {
+      "word": "Junket",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To go on a pleasure trip, often funded by someone else",
+      "example": "Officials junketed around Europe at taxpayers’ expense.",
+      "chinese": {
+        "meaning": "公費旅遊",
+        "example": "官員們用公費在歐洲旅遊。"
+      }
+    },
+    {
+      "word": "Jury-rig",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To build or fix something in a makeshift way",
+      "example": "They jury-rigged a shelter from branches.",
+      "chinese": {
+        "meaning": "臨時拼湊",
+        "example": "他們用樹枝臨時搭建了一個避難所。"
+      }
+    },
+    {
+      "word": "Justify",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To show or prove something is right or reasonable",
+      "example": "She justified her decision with strong evidence.",
+      "chinese": {
+        "meaning": "證明合理",
+        "example": "她用有力的證據證明她的決定是合理的。"
+      }
+    },
+    {
+      "word": "Justle",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To push or shove against someone",
+      "example": "The crowd justled for a better view.",
+      "chinese": {
+        "meaning": "推擠",
+        "example": "人群推擠著想看得更清楚。"
+      }
+    },
+    {
+      "word": "Jut",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To stick out further than other things",
+      "example": "The balcony juts over the garden.",
+      "chinese": {
+        "meaning": "突出",
+        "example": "陽台突出在花園上方。"
+      }
+    },
+    {
+      "word": "Juxtapose",
+      "type": "verb",
+      "letter": "J",
+      "meaning": "To place things side by side for comparison",
+      "example": "The exhibition juxtaposes modern art with classical art.",
+      "chinese": {
+        "meaning": "並列",
+        "example": "展覽將現代藝術與古典藝術並列展示。"
+      }
+    }
+  ]
 }

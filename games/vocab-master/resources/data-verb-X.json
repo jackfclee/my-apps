@@ -1,3 +1,37 @@
 {
-    
+  "words": [
+    {
+      "word": "X-out",
+      "type": "verb",
+      "letter": "X",
+      "meaning": "To cross out or eliminate something by marking with an X",
+      "example": "He x-ed out the incorrect answers.",
+      "chinese": {
+        "meaning": "劃掉；取消",
+        "example": "他把錯誤的答案劃掉了。"
+      }
+    },
+    {
+      "word": "X-ray",
+      "type": "verb",
+      "letter": "X",
+      "meaning": "To examine or photograph using X-rays",
+      "example": "The doctor X-rayed her arm to check for fractures.",
+      "chinese": {
+        "meaning": "用X光檢查",
+        "example": "醫生用X光檢查她的手臂是否骨折。"
+      }
+    },
+    {
+      "word": "Xerox",
+      "type": "verb",
+      "letter": "X",
+      "meaning": "To make a photocopy using a Xerox machine (informal)",
+      "example": "She xeroxed the report for everyone in the meeting.",
+      "chinese": {
+        "meaning": "影印（非正式用法）",
+        "example": "她把報告影印給會議中的每個人。"
+      }
+    }
+  ]
 }

@@ -1,3 +1,59 @@
 {
-    
+  "words": [
+    {
+      "word": "Zap",
+      "type": "verb",
+      "letter": "Z",
+      "meaning": "To destroy or kill quickly or suddenly",
+      "example": "The laser zapped the target instantly.",
+      "chinese": {
+        "meaning": "迅速摧毀",
+        "example": "激光瞬間摧毀了目標。"
+      }
+    },
+    {
+      "word": "Zero in",
+      "type": "verb",
+      "letter": "Z",
+      "meaning": "To direct all attention or effort toward a target or goal",
+      "example": "The researchers zeroed in on the cause of the disease.",
+      "chinese": {
+        "meaning": "集中注意力於",
+        "example": "研究人員集中注意力於疾病的原因。"
+      }
+    },
+    {
+      "word": "Zip",
+      "type": "verb",
+      "letter": "Z",
+      "meaning": "To move quickly or to fasten with a zipper",
+      "example": "She zipped up her jacket before going outside.",
+      "chinese": {
+        "meaning": "拉上拉鍊；快速移動",
+        "example": "她出門前拉上了外套的拉鍊。"
+      }
+    },
+    {
+      "word": "Zone",
+      "type": "verb",
+      "letter": "Z",
+      "meaning": "To divide into zones or areas",
+      "example": "The city was zoned for residential and commercial use.",
+      "chinese": {
+        "meaning": "劃分區域",
+        "example": "該城市被劃分為住宅區和商業區。"
+      }
+    },
+    {
+      "word": "Zoom",
+      "type": "verb",
+      "letter": "Z",
+      "meaning": "To move quickly or to magnify an image",
+      "example": "The car zoomed past us on the highway.",
+      "chinese": {
+        "meaning": "快速移動；放大",
+        "example": "汽車在高速公路上呼嘯而過。"
+      }
+    }
+  ]
 }

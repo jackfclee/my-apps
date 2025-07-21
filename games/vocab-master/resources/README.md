@@ -2,6 +2,37 @@
 
 ## Shell Command for reference
 
+### Sort and Deduplicate the Array in JSON
+
+```bash
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-A.json > deduped-data-verb-A.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-B.json > deduped-data-verb-B.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-C.json > deduped-data-verb-C.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-D.json > deduped-data-verb-D.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-E.json > deduped-data-verb-E.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-F.json > deduped-data-verb-F.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-G.json > deduped-data-verb-G.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-H.json > deduped-data-verb-H.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-I.json > deduped-data-verb-I.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-J.json > deduped-data-verb-J.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-K.json > deduped-data-verb-K.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-L.json > deduped-data-verb-L.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-M.json > deduped-data-verb-M.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-N.json > deduped-data-verb-N.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-O.json > deduped-data-verb-O.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-P.json > deduped-data-verb-P.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-Q.json > deduped-data-verb-Q.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-R.json > deduped-data-verb-R.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-S.json > deduped-data-verb-S.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-T.json > deduped-data-verb-T.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-U.json > deduped-data-verb-U.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-V.json > deduped-data-verb-V.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-W.json > deduped-data-verb-W.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-X.json > deduped-data-verb-X.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-Y.json > deduped-data-verb-Y.json
+jq '.words |= (sort_by(.word) | unique_by(.word))' data-verb-Z.json > deduped-data-verb-Z.json
+```
+
 ### Sort the Array in JSON
 
 ```bash

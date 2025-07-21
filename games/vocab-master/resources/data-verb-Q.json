@@ -1,3 +1,92 @@
 {
-    
+  "words": [
+    {
+      "word": "Qualify",
+      "type": "verb",
+      "letter": "Q",
+      "meaning": "To meet the necessary requirements or standards",
+      "example": "She qualified for the finals after winning the heat.",
+      "chinese": {
+        "meaning": "符合資格",
+        "example": "她在預賽獲勝後晉級決賽。"
+      }
+    },
+    {
+      "word": "Quantify",
+      "type": "verb",
+      "letter": "Q",
+      "meaning": "To express or measure the quantity of something",
+      "example": "It is difficult to quantify the impact of the policy.",
+      "chinese": {
+        "meaning": "量化",
+        "example": "要量化這項政策的影響是困難的。"
+      }
+    },
+    {
+      "word": "Quarrel",
+      "type": "verb",
+      "letter": "Q",
+      "meaning": "To argue or fight in a noisy or angry way",
+      "example": "The siblings quarreled over the remote control.",
+      "chinese": {
+        "meaning": "爭吵",
+        "example": "兄妹為了遙控器吵了起來。"
+      }
+    },
+    {
+      "word": "Question",
+      "type": "verb",
+      "letter": "Q",
+      "meaning": "To ask for information or express doubt about something",
+      "example": "The reporter questioned the minister about the policy.",
+      "chinese": {
+        "meaning": "質疑；詢問",
+        "example": "記者就該政策向部長提問。"
+      }
+    },
+    {
+      "word": "Queue",
+      "type": "verb",
+      "letter": "Q",
+      "meaning": "To line up or wait in line",
+      "example": "People queued outside the store for the new product.",
+      "chinese": {
+        "meaning": "排隊",
+        "example": "人們在店外排隊等待新產品。"
+      }
+    },
+    {
+      "word": "Quicken",
+      "type": "verb",
+      "letter": "Q",
+      "meaning": "To make something happen more quickly",
+      "example": "He quickened his pace to catch the bus.",
+      "chinese": {
+        "meaning": "加快",
+        "example": "他加快腳步追趕公車。"
+      }
+    },
+    {
+      "word": "Quit",
+      "type": "verb",
+      "letter": "Q",
+      "meaning": "To stop or discontinue something",
+      "example": "She quit her job to start a business.",
+      "chinese": {
+        "meaning": "辭職；停止",
+        "example": "她辭掉工作創業去了。"
+      }
+    },
+    {
+      "word": "Quote",
+      "type": "verb",
+      "letter": "Q",
+      "meaning": "To repeat words from another source",
+      "example": "He quoted a famous philosopher in his essay.",
+      "chinese": {
+        "meaning": "引用",
+        "example": "他在文章中引用了一位著名哲學家的話。"
+      }
+    }
+  ]
 }

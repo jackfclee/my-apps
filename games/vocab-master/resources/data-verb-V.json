@@ -1,3 +1,312 @@
 {
-    
+  "words": [
+    {
+      "word": "Vacate",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To leave a place that one previously occupied",
+      "example": "All students must vacate the hall by 5pm.",
+      "chinese": {
+        "meaning": "騰出，離開",
+        "example": "所有學生必須在下午五點前離開大廳。"
+      }
+    },
+    {
+      "word": "Vacillate",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To waver between different opinions or actions",
+      "example": "She vacillated between two career paths.",
+      "chinese": {
+        "meaning": "猶豫不決",
+        "example": "她在兩條職業道路之間猶豫不決。"
+      }
+    },
+    {
+      "word": "Vacuum",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To clean using a vacuum cleaner",
+      "example": "Please vacuum the classroom floor.",
+      "chinese": {
+        "meaning": "用吸塵器清理",
+        "example": "請用吸塵器清理教室地板。"
+      }
+    },
+    {
+      "word": "Validate",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To confirm the accuracy or truth of something",
+      "example": "The data was validated by multiple sources.",
+      "chinese": {
+        "meaning": "驗證",
+        "example": "數據已由多個來源驗證。"
+      }
+    },
+    {
+      "word": "Value",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To consider something important or beneficial",
+      "example": "The teacher valued the student's contribution.",
+      "chinese": {
+        "meaning": "重視",
+        "example": "老師重視這位學生的貢獻。"
+      }
+    },
+    {
+      "word": "Vanish",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To disappear suddenly",
+      "example": "The evidence seemed to vanish overnight.",
+      "chinese": {
+        "meaning": "消失",
+        "example": "證據似乎在一夜之間消失了。"
+      }
+    },
+    {
+      "word": "Vaporize",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To turn into vapor",
+      "example": "The liquid vaporized quickly in the heat.",
+      "chinese": {
+        "meaning": "蒸發",
+        "example": "液體在高溫下迅速蒸發。"
+      }
+    },
+    {
+      "word": "Vary",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To differ or change depending on the situation",
+      "example": "Opinions may vary depending on experience.",
+      "chinese": {
+        "meaning": "變化",
+        "example": "意見可能因經驗而異。"
+      }
+    },
+    {
+      "word": "Venerate",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To regard with great respect",
+      "example": "The community venerates its elders.",
+      "chinese": {
+        "meaning": "尊敬",
+        "example": "社區尊敬長者。"
+      }
+    },
+    {
+      "word": "Ventilate",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To allow fresh air to enter and move through a room or building",
+      "example": "Ventilate the classroom regularly.",
+      "chinese": {
+        "meaning": "通風",
+        "example": "請定期讓教室通風。"
+      }
+    },
+    {
+      "word": "Venture",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To do something risky or daring",
+      "example": "She ventured into business after graduation.",
+      "chinese": {
+        "meaning": "冒險",
+        "example": "她畢業後開始創業。"
+      }
+    },
+    {
+      "word": "Verify",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To check or confirm the truth or accuracy of something",
+      "example": "Please verify your account details.",
+      "chinese": {
+        "meaning": "核實",
+        "example": "請核實您的帳戶資料。"
+      }
+    },
+    {
+      "word": "Veto",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To reject a decision or proposal",
+      "example": "The principal vetoed the proposed changes.",
+      "chinese": {
+        "meaning": "否決",
+        "example": "校長否決了所提議的變更。"
+      }
+    },
+    {
+      "word": "Vex",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To annoy, worry, or frustrate someone",
+      "example": "The constant noise vexed the students.",
+      "chinese": {
+        "meaning": "使煩惱",
+        "example": "持續的噪音讓學生們很煩惱。"
+      }
+    },
+    {
+      "word": "Vibrate",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To move rapidly back and forth",
+      "example": "The alarm vibrated on the desk.",
+      "chinese": {
+        "meaning": "震動",
+        "example": "警報器在桌子上震動。"
+      }
+    },
+    {
+      "word": "View",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To watch or look at something",
+      "example": "We viewed the documentary in class.",
+      "chinese": {
+        "meaning": "觀看；看待",
+        "example": "我們在課堂上觀看了這部紀錄片。"
+      }
+    },
+    {
+      "word": "Vilify",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To speak or write about in a disparaging manner",
+      "example": "The article vilified the politician.",
+      "chinese": {
+        "meaning": "詆毀",
+        "example": "這篇文章詆毀了這位政治家。"
+      }
+    },
+    {
+      "word": "Vindicate",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To clear from blame or suspicion",
+      "example": "The evidence vindicated the accused student.",
+      "chinese": {
+        "meaning": "證明清白",
+        "example": "證據證明了被指控學生的清白。"
+      }
+    },
+    {
+      "word": "Violate",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To break a rule, law, or agreement",
+      "example": "He violated the terms of the contract.",
+      "chinese": {
+        "meaning": "違反",
+        "example": "他違反了合約條款。"
+      }
+    },
+    {
+      "word": "Visualise",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To form a mental image of something",
+      "example": "Try to visualise your success.",
+      "chinese": {
+        "meaning": "想像",
+        "example": "試著想像你的成功。"
+      }
+    },
+    {
+      "word": "Visualize",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To imagine or form a mental image of something",
+      "example": "Athletes often visualize success before a competition.",
+      "chinese": {
+        "meaning": "想像",
+        "example": "運動員常在比賽前想像成功的情景。"
+      }
+    },
+    {
+      "word": "Vitalize",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To give life or energy to something",
+      "example": "The new project vitalized the team.",
+      "chinese": {
+        "meaning": "賦予活力",
+        "example": "新項目為團隊注入活力。"
+      }
+    },
+    {
+      "word": "Vocalise",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To express or produce with the voice",
+      "example": "She vocalised her thoughts clearly.",
+      "chinese": {
+        "meaning": "發聲",
+        "example": "她清楚地表達了自己的想法。"
+      }
+    },
+    {
+      "word": "Vocalize",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To express or utter sounds or words",
+      "example": "Students are encouraged to vocalize their ideas.",
+      "chinese": {
+        "meaning": "說出",
+        "example": "鼓勵學生說出自己的想法。"
+      }
+    },
+    {
+      "word": "Voice",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To express something in words",
+      "example": "Students voiced their concerns about the new policy.",
+      "chinese": {
+        "meaning": "表達",
+        "example": "學生們表達了對新政策的關注。"
+      }
+    },
+    {
+      "word": "Volunteer",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To offer to do something without being forced",
+      "example": "He volunteered to help with the event.",
+      "chinese": {
+        "meaning": "自願",
+        "example": "他自願幫忙籌備活動。"
+      }
+    },
+    {
+      "word": "Vouch",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To confirm or support the truth of something",
+      "example": "I can vouch for his honesty.",
+      "chinese": {
+        "meaning": "擔保",
+        "example": "我可以擔保他的誠實。"
+      }
+    },
+    {
+      "word": "Vouchsafe",
+      "type": "verb",
+      "letter": "V",
+      "meaning": "To grant or give something in a gracious manner",
+      "example": "He vouchsafed us a glimpse of his new project.",
+      "chinese": {
+        "meaning": "賜予",
+        "example": "他賜予我們一瞥他的新項目。"
+      }
+    }
+  ]
 }

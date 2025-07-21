@@ -1,3 +1,521 @@
 {
-    
+  "words": [
+    {
+      "word": "Tackle",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To deal with or attempt to solve a problem",
+      "example": "The government is tackling climate change.",
+      "chinese": {
+        "meaning": "處理；對付",
+        "example": "政府正在應對氣候變化問題。"
+      }
+    },
+    {
+      "word": "Take",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To get into one’s possession",
+      "example": "Please take your books home.",
+      "chinese": {
+        "meaning": "拿取",
+        "example": "請把書帶回家。"
+      }
+    },
+    {
+      "word": "Takeover",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To assume control of something",
+      "example": "A new manager will takeover the project.",
+      "chinese": {
+        "meaning": "接管",
+        "example": "新經理將接管這個項目。"
+      }
+    },
+    {
+      "word": "Talk",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To speak in order to give information or express ideas",
+      "example": "They talked about their future plans.",
+      "chinese": {
+        "meaning": "談話",
+        "example": "他們談論了未來的計劃。"
+      }
+    },
+    {
+      "word": "Tap",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To touch something lightly",
+      "example": "She tapped him on the shoulder.",
+      "chinese": {
+        "meaning": "輕拍",
+        "example": "她輕拍了他的肩膀。"
+      }
+    },
+    {
+      "word": "Target",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To aim at or direct something towards a goal",
+      "example": "The campaign targets young voters.",
+      "chinese": {
+        "meaning": "以…為目標",
+        "example": "這次活動以年輕選民為目標。"
+      }
+    },
+    {
+      "word": "Tarnish",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To damage the good opinion people have of someone",
+      "example": "The scandal tarnished his reputation.",
+      "chinese": {
+        "meaning": "玷污",
+        "example": "醜聞玷污了他的名聲。"
+      }
+    },
+    {
+      "word": "Teach",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To help someone learn something",
+      "example": "She teaches English at the school.",
+      "chinese": {
+        "meaning": "教導",
+        "example": "她在學校教英文。"
+      }
+    },
+    {
+      "word": "Tease",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make fun of or try to provoke someone",
+      "example": "He teased his friend about her accent.",
+      "chinese": {
+        "meaning": "取笑",
+        "example": "他取笑朋友的口音。"
+      }
+    },
+    {
+      "word": "Tell",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To communicate information to someone",
+      "example": "Can you tell me the time?",
+      "chinese": {
+        "meaning": "告訴",
+        "example": "你能告訴我現在幾點嗎？"
+      }
+    },
+    {
+      "word": "Temper",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To moderate or soften",
+      "example": "She tried to temper her criticism.",
+      "chinese": {
+        "meaning": "緩和",
+        "example": "她試圖緩和她的批評。"
+      }
+    },
+    {
+      "word": "Tend",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To regularly behave in a particular way",
+      "example": "Young people tend to use social media more.",
+      "chinese": {
+        "meaning": "傾向於",
+        "example": "年輕人傾向於更多地使用社交媒體。"
+      }
+    },
+    {
+      "word": "Terminate",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To bring to an end",
+      "example": "The contract was terminated early.",
+      "chinese": {
+        "meaning": "終止",
+        "example": "合同提前終止了。"
+      }
+    },
+    {
+      "word": "Test",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To check something to see if it works or is correct",
+      "example": "They tested the water quality.",
+      "chinese": {
+        "meaning": "測試",
+        "example": "他們測試了水質。"
+      }
+    },
+    {
+      "word": "Testify",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To give evidence as a witness",
+      "example": "She testified in court.",
+      "chinese": {
+        "meaning": "作證",
+        "example": "她在法庭上作證。"
+      }
+    },
+    {
+      "word": "Think",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To use your mind to consider something",
+      "example": "Think carefully before you answer.",
+      "chinese": {
+        "meaning": "思考",
+        "example": "回答前請仔細思考。"
+      }
+    },
+    {
+      "word": "Thrive",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To grow, develop, or be successful",
+      "example": "The company thrived under new leadership.",
+      "chinese": {
+        "meaning": "繁榮",
+        "example": "公司在新領導下繁榮發展。"
+      }
+    },
+    {
+      "word": "Throw",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To send something through the air with force",
+      "example": "He threw the ball to his friend.",
+      "chinese": {
+        "meaning": "投擲",
+        "example": "他把球投給了朋友。"
+      }
+    },
+    {
+      "word": "Tighten",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make something more secure or less loose",
+      "example": "He tightened the screws.",
+      "chinese": {
+        "meaning": "收緊",
+        "example": "他把螺絲收緊了。"
+      }
+    },
+    {
+      "word": "Tilt",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To move or cause to move into a sloping position",
+      "example": "She tilted her head to listen.",
+      "chinese": {
+        "meaning": "傾斜",
+        "example": "她歪著頭聽。"
+      }
+    },
+    {
+      "word": "Tolerate",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To allow or endure something unpleasant",
+      "example": "They cannot tolerate injustice.",
+      "chinese": {
+        "meaning": "容忍",
+        "example": "他們無法容忍不公。"
+      }
+    },
+    {
+      "word": "Toss",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To throw something lightly or casually",
+      "example": "She tossed the keys on the table.",
+      "chinese": {
+        "meaning": "拋",
+        "example": "她把鑰匙拋在桌上。"
+      }
+    },
+    {
+      "word": "Trace",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To find or discover something by investigation",
+      "example": "The police traced the call to a location.",
+      "chinese": {
+        "meaning": "追蹤",
+        "example": "警方追蹤到了電話的位置。"
+      }
+    },
+    {
+      "word": "Track",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To follow the movements of someone or something",
+      "example": "The app tracks your fitness progress.",
+      "chinese": {
+        "meaning": "追蹤",
+        "example": "這個應用程式追蹤你的健身進度。"
+      }
+    },
+    {
+      "word": "Trade",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To buy and sell goods or services",
+      "example": "They trade goods internationally.",
+      "chinese": {
+        "meaning": "貿易",
+        "example": "他們進行國際貿易。"
+      }
+    },
+    {
+      "word": "Train",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To teach a person or animal a particular skill",
+      "example": "He trains athletes for competitions.",
+      "chinese": {
+        "meaning": "訓練",
+        "example": "他訓練運動員參加比賽。"
+      }
+    },
+    {
+      "word": "Transfer",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To move from one place to another",
+      "example": "She transferred to another university.",
+      "chinese": {
+        "meaning": "轉移",
+        "example": "她轉學到另一所大學。"
+      }
+    },
+    {
+      "word": "Transform",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To change something completely in appearance or character",
+      "example": "Technology has transformed education.",
+      "chinese": {
+        "meaning": "轉變",
+        "example": "科技改變了教育。"
+      }
+    },
+    {
+      "word": "Translate",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To convert words from one language to another",
+      "example": "He translated the book into Chinese.",
+      "chinese": {
+        "meaning": "翻譯",
+        "example": "他把這本書翻譯成中文。"
+      }
+    },
+    {
+      "word": "Transmit",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To send or pass something from one person or place to another",
+      "example": "The virus is transmitted through contact.",
+      "chinese": {
+        "meaning": "傳播",
+        "example": "病毒通過接觸傳播。"
+      }
+    },
+    {
+      "word": "Transplant",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To move something to a new place",
+      "example": "Doctors transplanted a new heart into the patient.",
+      "chinese": {
+        "meaning": "移植",
+        "example": "醫生為病人移植了一顆新心臟。"
+      }
+    },
+    {
+      "word": "Transport",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To move something from one place to another",
+      "example": "The goods were transported by truck.",
+      "chinese": {
+        "meaning": "運輸",
+        "example": "這些貨物是用卡車運輸的。"
+      }
+    },
+    {
+      "word": "Trap",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To catch someone or something in a place or situation",
+      "example": "The miners were trapped underground.",
+      "chinese": {
+        "meaning": "困住",
+        "example": "礦工被困在地下。"
+      }
+    },
+    {
+      "word": "Travel",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To go from one place to another",
+      "example": "They travelled across Europe.",
+      "chinese": {
+        "meaning": "旅行",
+        "example": "他們遊歷了歐洲各地。"
+      }
+    },
+    {
+      "word": "Treasure",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To value something highly",
+      "example": "She treasures her childhood memories.",
+      "chinese": {
+        "meaning": "珍惜",
+        "example": "她珍惜童年的回憶。"
+      }
+    },
+    {
+      "word": "Treat",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To behave in a certain way towards someone",
+      "example": "They treated the guest with respect.",
+      "chinese": {
+        "meaning": "對待",
+        "example": "他們尊重地對待客人。"
+      }
+    },
+    {
+      "word": "Tremble",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To shake involuntarily",
+      "example": "He trembled with fear.",
+      "chinese": {
+        "meaning": "顫抖",
+        "example": "他因恐懼而顫抖。"
+      }
+    },
+    {
+      "word": "Trigger",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To cause something to start",
+      "example": "The announcement triggered protests.",
+      "chinese": {
+        "meaning": "引發",
+        "example": "這項宣布引發了抗議。"
+      }
+    },
+    {
+      "word": "Trim",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make something neat by cutting away unwanted parts",
+      "example": "She trimmed her hair.",
+      "chinese": {
+        "meaning": "修剪",
+        "example": "她修剪了頭髮。"
+      }
+    },
+    {
+      "word": "Triple",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make or become three times as much",
+      "example": "The company tripled its profit.",
+      "chinese": {
+        "meaning": "使成三倍",
+        "example": "公司利潤增長了三倍。"
+      }
+    },
+    {
+      "word": "Trouble",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To cause worry or difficulty",
+      "example": "The noise troubled the residents.",
+      "chinese": {
+        "meaning": "困擾",
+        "example": "噪音困擾了居民。"
+      }
+    },
+    {
+      "word": "Trust",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To believe that someone or something is reliable",
+      "example": "We trust her judgment.",
+      "chinese": {
+        "meaning": "信任",
+        "example": "我們信任她的判斷。"
+      }
+    },
+    {
+      "word": "Try",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To attempt to do something",
+      "example": "Try to finish your homework before dinner.",
+      "chinese": {
+        "meaning": "嘗試",
+        "example": "晚飯前試著完成作業。"
+      }
+    },
+    {
+      "word": "Turn",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To move in a circular direction",
+      "example": "Turn left at the corner.",
+      "chinese": {
+        "meaning": "轉動",
+        "example": "在拐角處向左轉。"
+      }
+    },
+    {
+      "word": "Tutor",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To teach someone individually",
+      "example": "She tutors students in mathematics.",
+      "chinese": {
+        "meaning": "輔導",
+        "example": "她輔導學生數學。"
+      }
+    },
+    {
+      "word": "Twist",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To turn something in a different direction",
+      "example": "He twisted the cap off the bottle.",
+      "chinese": {
+        "meaning": "扭轉",
+        "example": "他擰開了瓶蓋。"
+      }
+    },
+    {
+      "word": "Type",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To write using a keyboard",
+      "example": "She typed the letter quickly.",
+      "chinese": {
+        "meaning": "打字",
+        "example": "她很快地打好了信。"
+      }
+    }
+  ]
 }

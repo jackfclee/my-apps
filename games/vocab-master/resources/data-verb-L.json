@@ -1,3 +1,466 @@
 {
-    
+  "words": [
+    {
+      "word": "Label",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To assign a name or category to something",
+      "example": "The teacher labeled the folders by subject.",
+      "chinese": {
+        "meaning": "標示",
+        "example": "老師按科目標示了資料夾。"
+      }
+    },
+    {
+      "word": "Lack",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To be without something necessary or desired",
+      "example": "He lacked the experience for the role.",
+      "chinese": {
+        "meaning": "缺乏",
+        "example": "他缺乏擔任此職位的經驗。"
+      }
+    },
+    {
+      "word": "Lament",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To express sorrow or regret",
+      "example": "She lamented the loss of her friend.",
+      "chinese": {
+        "meaning": "哀悼",
+        "example": "她為朋友的離去感到悲傷。"
+      }
+    },
+    {
+      "word": "Land",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To come to rest on the ground or another surface",
+      "example": "The plane landed safely.",
+      "chinese": {
+        "meaning": "著陸",
+        "example": "飛機安全著陸了。"
+      }
+    },
+    {
+      "word": "Lap",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To drink by licking with the tongue",
+      "example": "The cat lapped up the milk.",
+      "chinese": {
+        "meaning": "舔食",
+        "example": "貓舔著牛奶。"
+      }
+    },
+    {
+      "word": "Last",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To continue for a specific time or duration",
+      "example": "The meeting lasted two hours.",
+      "chinese": {
+        "meaning": "持續",
+        "example": "會議持續了兩小時。"
+      }
+    },
+    {
+      "word": "Latch",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To fasten or close with a latch",
+      "example": "He latched the gate securely.",
+      "chinese": {
+        "meaning": "閂上",
+        "example": "他牢牢地閂上了大門。"
+      }
+    },
+    {
+      "word": "Laugh",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To make sounds of joy or amusement",
+      "example": "They laughed at the joke.",
+      "chinese": {
+        "meaning": "笑",
+        "example": "他們聽了笑話就笑了出來。"
+      }
+    },
+    {
+      "word": "Launch",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To start or initiate something, especially a campaign or product",
+      "example": "The company launched a new product line.",
+      "chinese": {
+        "meaning": "推出；發起",
+        "example": "該公司推出了新產品系列。"
+      }
+    },
+    {
+      "word": "Lay",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To place something in a particular position",
+      "example": "He laid the book on the table.",
+      "chinese": {
+        "meaning": "放置",
+        "example": "他把書放在桌上。"
+      }
+    },
+    {
+      "word": "Lead",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To guide or be in charge of a group or activity",
+      "example": "She leads the science team.",
+      "chinese": {
+        "meaning": "領導",
+        "example": "她領導科學小組。"
+      }
+    },
+    {
+      "word": "Leak",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To allow liquid or gas to escape through a hole or crack",
+      "example": "Water leaked from the pipe.",
+      "chinese": {
+        "meaning": "洩漏",
+        "example": "水管漏水了。"
+      }
+    },
+    {
+      "word": "Learn",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To gain knowledge or skills through study or experience",
+      "example": "He is learning French.",
+      "chinese": {
+        "meaning": "學習",
+        "example": "他正在學法語。"
+      }
+    },
+    {
+      "word": "Leave",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To go away from a place",
+      "example": "She left the room quietly.",
+      "chinese": {
+        "meaning": "離開",
+        "example": "她悄悄地離開了房間。"
+      }
+    },
+    {
+      "word": "Lecture",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To deliver a formal talk or speech",
+      "example": "He lectured on ancient history.",
+      "chinese": {
+        "meaning": "授課",
+        "example": "他講授古代歷史。"
+      }
+    },
+    {
+      "word": "Legalise",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To make something legal",
+      "example": "The government legalized the new policy.",
+      "chinese": {
+        "meaning": "合法化",
+        "example": "政府使新政策合法化。"
+      }
+    },
+    {
+      "word": "Legislate",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To make or enact laws",
+      "example": "The government legislated new safety rules.",
+      "chinese": {
+        "meaning": "立法",
+        "example": "政府制定了新的安全法規。"
+      }
+    },
+    {
+      "word": "Legitimise",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To make legitimate or lawful",
+      "example": "They legitimised the agreement through a contract.",
+      "chinese": {
+        "meaning": "使合法",
+        "example": "他們通過合同使協議合法化。"
+      }
+    },
+    {
+      "word": "Lend",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To give something temporarily",
+      "example": "He lent me his book.",
+      "chinese": {
+        "meaning": "借出",
+        "example": "他把書借給我。"
+      }
+    },
+    {
+      "word": "Let",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To allow or permit",
+      "example": "She let her brother use the computer.",
+      "chinese": {
+        "meaning": "讓；允許",
+        "example": "她讓她弟弟用電腦。"
+      }
+    },
+    {
+      "word": "Level",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To make something flat or even",
+      "example": "They leveled the ground before building.",
+      "chinese": {
+        "meaning": "弄平",
+        "example": "他們在建房前把地整平了。"
+      }
+    },
+    {
+      "word": "Liberate",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To set free from imprisonment or oppression",
+      "example": "The army liberated the city.",
+      "chinese": {
+        "meaning": "解放",
+        "example": "軍隊解放了這座城市。"
+      }
+    },
+    {
+      "word": "License",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To grant legal permission to do something",
+      "example": "The driver was licensed to operate heavy machinery.",
+      "chinese": {
+        "meaning": "發許可證",
+        "example": "該駕駛獲得了操作重型機械的許可。"
+      }
+    },
+    {
+      "word": "Light",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To make something start to burn",
+      "example": "She lit the candle.",
+      "chinese": {
+        "meaning": "點燃",
+        "example": "她點燃了蠟燭。"
+      }
+    },
+    {
+      "word": "Like",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To find something enjoyable or agreeable",
+      "example": "I like reading books.",
+      "chinese": {
+        "meaning": "喜歡",
+        "example": "我喜歡閱讀書籍。"
+      }
+    },
+    {
+      "word": "Limit",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To restrict or reduce the amount or extent of something",
+      "example": "They limited the number of participants.",
+      "chinese": {
+        "meaning": "限制",
+        "example": "他們限制了參與者人數。"
+      }
+    },
+    {
+      "word": "Link",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To connect or join two or more things",
+      "example": "The study links smoking to health problems.",
+      "chinese": {
+        "meaning": "連接",
+        "example": "研究將吸煙與健康問題聯繫起來。"
+      }
+    },
+    {
+      "word": "List",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To make a record of items in order",
+      "example": "She listed all the ingredients needed.",
+      "chinese": {
+        "meaning": "列出",
+        "example": "她列出了所有需要的食材。"
+      }
+    },
+    {
+      "word": "Listen",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To give attention to sound or someone speaking",
+      "example": "He listened to the teacher carefully.",
+      "chinese": {
+        "meaning": "聽",
+        "example": "他專心聽老師講課。"
+      }
+    },
+    {
+      "word": "Live",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To remain alive or exist",
+      "example": "They live in Sydney.",
+      "chinese": {
+        "meaning": "生活；居住",
+        "example": "他們住在悉尼。"
+      }
+    },
+    {
+      "word": "Load",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To put a load or large amount of something onto or into something",
+      "example": "He loaded the truck with boxes.",
+      "chinese": {
+        "meaning": "裝載",
+        "example": "他把箱子裝上卡車。"
+      }
+    },
+    {
+      "word": "Loan",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To lend money or something temporarily",
+      "example": "The bank loaned her money for a car.",
+      "chinese": {
+        "meaning": "借出（錢）",
+        "example": "銀行借錢給她買車。"
+      }
+    },
+    {
+      "word": "Lock",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To fasten something with a lock",
+      "example": "He locked the door before leaving.",
+      "chinese": {
+        "meaning": "鎖上",
+        "example": "他離開前鎖上了門。"
+      }
+    },
+    {
+      "word": "Log",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To record or enter information",
+      "example": "She logged the hours she worked.",
+      "chinese": {
+        "meaning": "記錄",
+        "example": "她記錄了工作的時間。"
+      }
+    },
+    {
+      "word": "Long",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To have a strong desire or yearning",
+      "example": "He longed for a peaceful holiday.",
+      "chinese": {
+        "meaning": "渴望",
+        "example": "他渴望一個平靜的假期。"
+      }
+    },
+    {
+      "word": "Look",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To direct one's eyes in a specified direction",
+      "example": "He looked at the painting.",
+      "chinese": {
+        "meaning": "看",
+        "example": "他看著那幅畫。"
+      }
+    },
+    {
+      "word": "Lose",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To fail to keep or maintain; cease to have",
+      "example": "She lost her keys.",
+      "chinese": {
+        "meaning": "失去",
+        "example": "她丟了鑰匙。"
+      }
+    },
+    {
+      "word": "Love",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To feel deep affection for someone or something",
+      "example": "They love their family.",
+      "chinese": {
+        "meaning": "愛",
+        "example": "他們愛他們的家人。"
+      }
+    },
+    {
+      "word": "Lower",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To reduce something in amount or level",
+      "example": "They lowered the prices.",
+      "chinese": {
+        "meaning": "降低",
+        "example": "他們降低了價格。"
+      }
+    },
+    {
+      "word": "Lubricate",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To apply a substance to reduce friction",
+      "example": "He lubricated the machine parts.",
+      "chinese": {
+        "meaning": "潤滑",
+        "example": "他給機械部件加了潤滑油。"
+      }
+    },
+    {
+      "word": "Lure",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To attract or tempt someone to do something",
+      "example": "The advertisement lured customers to the store.",
+      "chinese": {
+        "meaning": "引誘",
+        "example": "廣告吸引顧客來店裡。"
+      }
+    },
+    {
+      "word": "Luxuriate",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To enjoy oneself in a luxurious way",
+      "example": "They luxuriated in the spa resort.",
+      "chinese": {
+        "meaning": "享受奢華",
+        "example": "他們在溫泉度假村盡情享受。"
+      }
+    }
+  ]
 }

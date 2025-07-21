@@ -1,3 +1,576 @@
 {
-    
+  "words": [
+    {
+      "word": "Keen",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To wail in grief for a dead person",
+      "example": "The family keened at the funeral.",
+      "chinese": {
+        "meaning": "哀號",
+        "example": "家人在葬禮上哀號。"
+      }
+    },
+    {
+      "word": "Keep",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To continue to have or hold something",
+      "example": "She kept the letter for years.",
+      "chinese": {
+        "meaning": "保持",
+        "example": "她把信保存了很多年。"
+      }
+    },
+    {
+      "word": "Keep up",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To continue at the same level or pace",
+      "example": "He struggled to keep up with his classmates.",
+      "chinese": {
+        "meaning": "跟上",
+        "example": "他努力跟上同學們的進度。"
+      }
+    },
+    {
+      "word": "Kibitz",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To give unwanted advice or commentary",
+      "example": "He likes to kibitz during meetings.",
+      "chinese": {
+        "meaning": "多嘴",
+        "example": "他喜歡在會議上插嘴。"
+      }
+    },
+    {
+      "word": "Kibosh",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To put an end to something",
+      "example": "The new rule kiboshed our plans.",
+      "chinese": {
+        "meaning": "終止",
+        "example": "新規則終止了我們的計劃。"
+      }
+    },
+    {
+      "word": "Kick",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To strike something with your foot",
+      "example": "He kicked the ball into the goal.",
+      "chinese": {
+        "meaning": "踢",
+        "example": "他把球踢進了球門。"
+      }
+    },
+    {
+      "word": "Kick back",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To relax or take it easy",
+      "example": "After work, I like to kick back and watch TV.",
+      "chinese": {
+        "meaning": "放鬆",
+        "example": "下班後我喜歡放鬆看電視。"
+      }
+    },
+    {
+      "word": "Kick in",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To begin to take effect",
+      "example": "The medicine kicked in after an hour.",
+      "chinese": {
+        "meaning": "開始生效",
+        "example": "藥一小時後開始生效。"
+      }
+    },
+    {
+      "word": "Kick off",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To begin an event, meeting, or process",
+      "example": "The campaign kicked off with a public rally.",
+      "chinese": {
+        "meaning": "開始",
+        "example": "這次運動以一場集會開始。"
+      }
+    },
+    {
+      "word": "Kickstart",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To start something quickly or suddenly",
+      "example": "They used social media to kickstart their campaign.",
+      "chinese": {
+        "meaning": "啟動",
+        "example": "他們利用社交媒體啟動了他們的活動。"
+      }
+    },
+    {
+      "word": "Kid",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To joke or tease playfully",
+      "example": "I’m just kidding—you look great.",
+      "chinese": {
+        "meaning": "開玩笑",
+        "example": "我只是在開玩笑——你看起來很棒。"
+      }
+    },
+    {
+      "word": "Kidnap",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To take someone away illegally by force",
+      "example": "The child was kidnapped on his way home.",
+      "chinese": {
+        "meaning": "綁架",
+        "example": "孩子在回家的路上被綁架了。"
+      }
+    },
+    {
+      "word": "Kill",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To cause the death of a person, animal, or living thing",
+      "example": "The poison can kill insects instantly.",
+      "chinese": {
+        "meaning": "殺死",
+        "example": "這種毒藥能立即殺死昆蟲。"
+      }
+    },
+    {
+      "word": "Kill off",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To destroy or remove completely",
+      "example": "The disease killed off many species.",
+      "chinese": {
+        "meaning": "消滅",
+        "example": "這種疾病消滅了許多物種。"
+      }
+    },
+    {
+      "word": "Kindle",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To start a fire or to arouse emotion",
+      "example": "The speech kindled hope in the crowd.",
+      "chinese": {
+        "meaning": "點燃",
+        "example": "這場演講點燃了群眾的希望。"
+      }
+    },
+    {
+      "word": "King",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To make someone king or to rule (rare)",
+      "example": "The prince was kinged after the ceremony.",
+      "chinese": {
+        "meaning": "加冕為王",
+        "example": "王子在儀式後被加冕為王。"
+      }
+    },
+    {
+      "word": "Kiss",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To touch with the lips as a sign of affection",
+      "example": "She kissed her child goodnight.",
+      "chinese": {
+        "meaning": "親吻",
+        "example": "她親吻孩子說晚安。"
+      }
+    },
+    {
+      "word": "Kiss up",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To flatter someone in authority",
+      "example": "He always kisses up to the boss.",
+      "chinese": {
+        "meaning": "拍馬屁",
+        "example": "他總是拍老闆的馬屁。"
+      }
+    },
+    {
+      "word": "Kit",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To provide with equipment",
+      "example": "The hikers were kitted out for the trek.",
+      "chinese": {
+        "meaning": "裝備",
+        "example": "徒步旅行者裝備齊全。"
+      }
+    },
+    {
+      "word": "Kite",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To fly a kite or move quickly and lightly",
+      "example": "Children kited their kites in the park.",
+      "chinese": {
+        "meaning": "放風箏",
+        "example": "孩子們在公園放風箏。"
+      }
+    },
+    {
+      "word": "Knead",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To work dough or clay by pressing and folding",
+      "example": "She kneaded the dough for bread.",
+      "chinese": {
+        "meaning": "揉捏",
+        "example": "她在揉麵團做麵包。"
+      }
+    },
+    {
+      "word": "Kneecap",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To injure someone’s knee deliberately",
+      "example": "The gangster threatened to kneecap him.",
+      "chinese": {
+        "meaning": "打壞膝蓋",
+        "example": "黑幫威脅要打壞他的膝蓋。"
+      }
+    },
+    {
+      "word": "Kneel",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To go down or rest on the knees",
+      "example": "He knelt in prayer.",
+      "chinese": {
+        "meaning": "跪下",
+        "example": "他跪下祈禱。"
+      }
+    },
+    {
+      "word": "Kneel down",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To get down on one’s knees",
+      "example": "She knelt down to tie her shoe.",
+      "chinese": {
+        "meaning": "跪下",
+        "example": "她跪下來繫鞋帶。"
+      }
+    },
+    {
+      "word": "Knife",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To cut or stab with a knife",
+      "example": "He knifed the apple into slices.",
+      "chinese": {
+        "meaning": "用刀切",
+        "example": "他把蘋果用刀切成片。"
+      }
+    },
+    {
+      "word": "Knit",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To make fabric by connecting loops of yarn",
+      "example": "She knitted a scarf for her friend.",
+      "chinese": {
+        "meaning": "編織",
+        "example": "她為朋友編織了一條圍巾。"
+      }
+    },
+    {
+      "word": "Knit together",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To unite or bring together",
+      "example": "The tragedy knitted the community together.",
+      "chinese": {
+        "meaning": "團結",
+        "example": "這場悲劇讓社區團結起來。"
+      }
+    },
+    {
+      "word": "Knit up",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To heal or mend",
+      "example": "The wound knitted up over time.",
+      "chinese": {
+        "meaning": "癒合",
+        "example": "傷口隨著時間癒合了。"
+      }
+    },
+    {
+      "word": "Knitpick",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To find small faults in something",
+      "example": "She always knitpicks about my work.",
+      "chinese": {
+        "meaning": "吹毛求疵",
+        "example": "她總是對我的工作吹毛求疵。"
+      }
+    },
+    {
+      "word": "Knock",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To strike a surface noisily to attract attention",
+      "example": "Someone knocked on the door.",
+      "chinese": {
+        "meaning": "敲",
+        "example": "有人敲門。"
+      }
+    },
+    {
+      "word": "Knock about",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To travel or spend time aimlessly",
+      "example": "He knocked about Europe for years.",
+      "chinese": {
+        "meaning": "閒逛",
+        "example": "他在歐洲閒逛了好幾年。"
+      }
+    },
+    {
+      "word": "Knock around",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To spend time relaxing or doing little",
+      "example": "We knocked around the house all day.",
+      "chinese": {
+        "meaning": "閒混",
+        "example": "我們整天在家閒混。"
+      }
+    },
+    {
+      "word": "Knock back",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To drink quickly or reject",
+      "example": "He knocked back a glass of water.",
+      "chinese": {
+        "meaning": "一口喝下",
+        "example": "他一口喝下了一杯水。"
+      }
+    },
+    {
+      "word": "Knock down",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To hit someone or something so that they fall to the ground",
+      "example": "The wind knocked down the old tree.",
+      "chinese": {
+        "meaning": "擊倒",
+        "example": "大風把老樹吹倒了。"
+      }
+    },
+    {
+      "word": "Knock heads",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To force people to cooperate",
+      "example": "The coach had to knock heads to get results.",
+      "chinese": {
+        "meaning": "強迫合作",
+        "example": "教練不得不強迫大家合作。"
+      }
+    },
+    {
+      "word": "Knock off",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To stop working or to reduce a price",
+      "example": "Let’s knock off for lunch.",
+      "chinese": {
+        "meaning": "下班",
+        "example": "我們下班去吃午飯吧。"
+      }
+    },
+    {
+      "word": "Knock on",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To have an effect on something else",
+      "example": "The decision will knock on to other departments.",
+      "chinese": {
+        "meaning": "影響",
+        "example": "這個決定會影響其他部門。"
+      }
+    },
+    {
+      "word": "Knock out",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To make someone unconscious",
+      "example": "The boxer knocked out his opponent.",
+      "chinese": {
+        "meaning": "擊昏",
+        "example": "拳擊手把對手擊昏。"
+      }
+    },
+    {
+      "word": "Knock over",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To overturn or to rob",
+      "example": "The thief knocked over the shop.",
+      "chinese": {
+        "meaning": "搶劫",
+        "example": "小偷搶劫了商店。"
+      }
+    },
+    {
+      "word": "Knock together",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To make something quickly and roughly",
+      "example": "He knocked together a table from old wood.",
+      "chinese": {
+        "meaning": "臨時拼湊",
+        "example": "他用舊木頭臨時拼湊了一張桌子。"
+      }
+    },
+    {
+      "word": "Knock up",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To make someone pregnant (informal) or to prepare something quickly",
+      "example": "She knocked up a quick meal.",
+      "chinese": {
+        "meaning": "匆匆做",
+        "example": "她匆匆做了一頓飯。"
+      }
+    },
+    {
+      "word": "Knot",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To tie or fasten in a knot",
+      "example": "He knotted his tie quickly.",
+      "chinese": {
+        "meaning": "打結",
+        "example": "他很快地打好了領帶結。"
+      }
+    },
+    {
+      "word": "Know",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To be aware of or have information about something",
+      "example": "Do you know the answer?",
+      "chinese": {
+        "meaning": "知道",
+        "example": "你知道答案嗎？"
+      }
+    },
+    {
+      "word": "Knowingly",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To do something intentionally or with awareness",
+      "example": "He knowingly broke the rules.",
+      "chinese": {
+        "meaning": "故意地",
+        "example": "他故意違反了規則。"
+      }
+    },
+    {
+      "word": "Knuckle",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To press or rub with the knuckles",
+      "example": "He knuckled his eyes after waking up.",
+      "chinese": {
+        "meaning": "用指關節壓",
+        "example": "他醒來後用指關節揉眼睛。"
+      }
+    },
+    {
+      "word": "Knuckle down",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To start working hard",
+      "example": "It’s time to knuckle down and study.",
+      "chinese": {
+        "meaning": "開始努力",
+        "example": "該開始努力學習了。"
+      }
+    },
+    {
+      "word": "Knuckle under",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To give in or submit to authority",
+      "example": "He finally knuckled under to pressure.",
+      "chinese": {
+        "meaning": "屈服",
+        "example": "他最終屈服於壓力。"
+      }
+    },
+    {
+      "word": "Kook",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To behave in a strange or silly way (slang)",
+      "example": "He was kooking around during class.",
+      "chinese": {
+        "meaning": "胡鬧",
+        "example": "他在課堂上胡鬧。"
+      }
+    },
+    {
+      "word": "Kosher",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To make something proper or acceptable (informal)",
+      "example": "They koshered the kitchen for the holiday.",
+      "chinese": {
+        "meaning": "使合規",
+        "example": "他們為節日使廚房合規。"
+      }
+    },
+    {
+      "word": "Kowtow",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To act in an excessively subservient manner",
+      "example": "He refused to kowtow to the manager.",
+      "chinese": {
+        "meaning": "卑躬屈膝",
+        "example": "他拒絕對經理卑躬屈膝。"
+      }
+    },
+    {
+      "word": "Krazy",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To act in a wild or crazy manner (slang)",
+      "example": "They krazied around at the party.",
+      "chinese": {
+        "meaning": "瘋狂行動",
+        "example": "他們在派對上瘋狂行動。"
+      }
+    },
+    {
+      "word": "Krump",
+      "type": "verb",
+      "letter": "K",
+      "meaning": "To dance in a style with energetic movements",
+      "example": "The group krumped on stage.",
+      "chinese": {
+        "meaning": "克朗普舞",
+        "example": "這組人在舞台上跳克朗普舞。"
+      }
+    }
+  ]
 }

@@ -1,3 +1,477 @@
 {
-    
+  "words": [
+    {
+      "word": "Wage",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To carry on or engage in (a war, campaign, etc.)",
+      "example": "They waged a campaign for equal rights.",
+      "chinese": {
+        "meaning": "發動",
+        "example": "他們發起了爭取平等權利的運動。"
+      }
+    },
+    {
+      "word": "Wail",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To make a long, loud, high cry",
+      "example": "The child wailed loudly after falling.",
+      "chinese": {
+        "meaning": "哀號",
+        "example": "孩子摔倒後大聲哀號。"
+      }
+    },
+    {
+      "word": "Wait",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To stay in one place or remain inactive until something happens",
+      "example": "Please wait outside until your name is called.",
+      "chinese": {
+        "meaning": "等待",
+        "example": "請在外面等候直到叫到你的名字。"
+      }
+    },
+    {
+      "word": "Wake",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To stop sleeping or make someone stop sleeping",
+      "example": "She wakes up at 6 every morning.",
+      "chinese": {
+        "meaning": "醒來",
+        "example": "她每天早上六點起床。"
+      }
+    },
+    {
+      "word": "Walk",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To move along by putting one foot in front of the other",
+      "example": "They walked to school together.",
+      "chinese": {
+        "meaning": "步行",
+        "example": "他們一起步行去上學。"
+      }
+    },
+    {
+      "word": "Wander",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To move or travel without a fixed purpose or destination",
+      "example": "He wandered through the streets of the old town.",
+      "chinese": {
+        "meaning": "閒逛",
+        "example": "他在舊城的街道上閒逛。"
+      }
+    },
+    {
+      "word": "Want",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To desire or wish for something",
+      "example": "She wants to become a doctor.",
+      "chinese": {
+        "meaning": "想要",
+        "example": "她想成為一名醫生。"
+      }
+    },
+    {
+      "word": "Warn",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To inform someone about possible danger or trouble",
+      "example": "They warned the students about the severe weather.",
+      "chinese": {
+        "meaning": "警告",
+        "example": "他們警告學生注意惡劣天氣。"
+      }
+    },
+    {
+      "word": "Wash",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To clean with water or other liquid",
+      "example": "Please wash your hands before eating.",
+      "chinese": {
+        "meaning": "洗",
+        "example": "吃飯前請洗手。"
+      }
+    },
+    {
+      "word": "Watch",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To look at or observe attentively",
+      "example": "They watched a documentary on climate change.",
+      "chinese": {
+        "meaning": "觀看",
+        "example": "他們觀看了一部有關氣候變化的紀錄片。"
+      }
+    },
+    {
+      "word": "Wave",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To move one’s hand to say hello or goodbye",
+      "example": "She waved goodbye to her classmates.",
+      "chinese": {
+        "meaning": "揮手",
+        "example": "她向同學們揮手道別。"
+      }
+    },
+    {
+      "word": "Weaken",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To make or become less strong",
+      "example": "The storm weakened as it moved inland.",
+      "chinese": {
+        "meaning": "削弱",
+        "example": "風暴向內陸移動時變得較弱。"
+      }
+    },
+    {
+      "word": "Wean",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To gradually stop a baby or young animal from feeding on its mother's milk",
+      "example": "The mother weaned her baby at six months.",
+      "chinese": {
+        "meaning": "斷奶",
+        "example": "母親在六個月時給寶寶斷奶。"
+      }
+    },
+    {
+      "word": "Wear",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To have clothing, jewelry, etc. on your body",
+      "example": "He always wears a hat when he goes outside.",
+      "chinese": {
+        "meaning": "穿著",
+        "example": "他外出時總是戴著帽子。"
+      }
+    },
+    {
+      "word": "Weave",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To make cloth by crossing threads over and under each other",
+      "example": "The artisan weaves beautiful baskets.",
+      "chinese": {
+        "meaning": "編織",
+        "example": "工匠編織漂亮的籃子。"
+      }
+    },
+    {
+      "word": "Wed",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To marry someone",
+      "example": "They wed in a small ceremony last summer.",
+      "chinese": {
+        "meaning": "結婚",
+        "example": "他們去年夏天舉行了小型婚禮。"
+      }
+    },
+    {
+      "word": "Weep",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To cry",
+      "example": "She wept at the sad news.",
+      "chinese": {
+        "meaning": "哭泣",
+        "example": "她聽到悲傷的消息後哭了。"
+      }
+    },
+    {
+      "word": "Welcome",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To greet someone in a friendly way",
+      "example": "They welcomed the new students warmly.",
+      "chinese": {
+        "meaning": "歡迎",
+        "example": "他們熱情歡迎新學生。"
+      }
+    },
+    {
+      "word": "Weld",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To join metal parts together by heating",
+      "example": "The workers welded the steel beams.",
+      "chinese": {
+        "meaning": "焊接",
+        "example": "工人焊接鋼樑。"
+      }
+    },
+    {
+      "word": "Whet",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To sharpen the blade of a tool or weapon",
+      "example": "He whetted the knife before cooking.",
+      "chinese": {
+        "meaning": "磨快",
+        "example": "他做飯前磨快了刀。"
+      }
+    },
+    {
+      "word": "Whip",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To beat or strike with a whip",
+      "example": "He whipped the cream until it was stiff.",
+      "chinese": {
+        "meaning": "攪打",
+        "example": "他把奶油攪打至硬性發泡。"
+      }
+    },
+    {
+      "word": "Whisper",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To speak very softly",
+      "example": "She whispered the secret to her friend.",
+      "chinese": {
+        "meaning": "低聲說",
+        "example": "她向朋友低聲說秘密。"
+      }
+    },
+    {
+      "word": "Whistle",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To make a high sound by forcing breath through the lips or teeth",
+      "example": "He whistled a tune while walking.",
+      "chinese": {
+        "meaning": "吹口哨",
+        "example": "他邊走邊吹口哨。"
+      }
+    },
+    {
+      "word": "Widen",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To make or become wider",
+      "example": "They widened the road to reduce traffic.",
+      "chinese": {
+        "meaning": "擴寬",
+        "example": "他們擴寬了道路以減少交通。"
+      }
+    },
+    {
+      "word": "Win",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To be successful in a competition or contest",
+      "example": "She won the race by a large margin.",
+      "chinese": {
+        "meaning": "贏得",
+        "example": "她以很大優勢贏得比賽。"
+      }
+    },
+    {
+      "word": "Wince",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To make a slight involuntary grimace or shrinking movement",
+      "example": "She winced at the sound of the dentist's drill.",
+      "chinese": {
+        "meaning": "畏縮",
+        "example": "她聽到牙醫鑽頭聲時畏縮了一下。"
+      }
+    },
+    {
+      "word": "Wind",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To turn or twist something around",
+      "example": "He wound the string around the spool.",
+      "chinese": {
+        "meaning": "纏繞",
+        "example": "他把繩子纏繞在線軸上。"
+      }
+    },
+    {
+      "word": "Withdraw",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To take back or remove",
+      "example": "She withdrew her application for the job.",
+      "chinese": {
+        "meaning": "撤回",
+        "example": "她撤回了工作的申請。"
+      }
+    },
+    {
+      "word": "Wither",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To dry up or shrivel",
+      "example": "The flowers withered in the heat.",
+      "chinese": {
+        "meaning": "枯萎",
+        "example": "花朵在炎熱中枯萎了。"
+      }
+    },
+    {
+      "word": "Withhold",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To hold back or refuse to give",
+      "example": "The company withheld the bonus due to poor performance.",
+      "chinese": {
+        "meaning": "扣留",
+        "example": "公司因表現不佳而扣留獎金。"
+      }
+    },
+    {
+      "word": "Witness",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To see an event happen",
+      "example": "They witnessed the signing of the agreement.",
+      "chinese": {
+        "meaning": "目擊",
+        "example": "他們目擊了協議的簽署。"
+      }
+    },
+    {
+      "word": "Wonder",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To feel curious or be in doubt",
+      "example": "I wonder if it will rain tomorrow.",
+      "chinese": {
+        "meaning": "想知道",
+        "example": "我想知道明天會不會下雨。"
+      }
+    },
+    {
+      "word": "Work",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To do a job or task",
+      "example": "He works as a teacher.",
+      "chinese": {
+        "meaning": "工作",
+        "example": "他是一名教師。"
+      }
+    },
+    {
+      "word": "Worry",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To feel anxious or concerned",
+      "example": "She worries about her exams.",
+      "chinese": {
+        "meaning": "擔心",
+        "example": "她擔心考試。"
+      }
+    },
+    {
+      "word": "Wrangle",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To have a long and complicated dispute",
+      "example": "They wrangled over the contract terms.",
+      "chinese": {
+        "meaning": "爭吵",
+        "example": "他們為合同條款爭吵。"
+      }
+    },
+    {
+      "word": "Wrap",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To cover something by folding or winding",
+      "example": "He wrapped the gift in colorful paper.",
+      "chinese": {
+        "meaning": "包裹",
+        "example": "他用彩色紙包裹禮物。"
+      }
+    },
+    {
+      "word": "Wreck",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To destroy or severely damage",
+      "example": "The car was wrecked in the accident.",
+      "chinese": {
+        "meaning": "毀壞",
+        "example": "汽車在事故中被毀壞。"
+      }
+    },
+    {
+      "word": "Wrest",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To forcibly pull something away",
+      "example": "He wrested the gun from the attacker.",
+      "chinese": {
+        "meaning": "奪取",
+        "example": "他從攻擊者手中奪走了槍。"
+      }
+    },
+    {
+      "word": "Wrestle",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To fight by holding and trying to throw down",
+      "example": "They wrestled for the championship title.",
+      "chinese": {
+        "meaning": "摔跤",
+        "example": "他們為冠軍頭銜摔跤。"
+      }
+    },
+    {
+      "word": "Wriggle",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To twist and turn with quick movements",
+      "example": "The worm wriggled in the soil.",
+      "chinese": {
+        "meaning": "蠕動",
+        "example": "蠕蟲在土壤中蠕動。"
+      }
+    },
+    {
+      "word": "Wring",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To twist forcibly to extract liquid",
+      "example": "She wrung the wet cloth before hanging it up.",
+      "chinese": {
+        "meaning": "擰",
+        "example": "她擰乾濕布後掛起來。"
+      }
+    },
+    {
+      "word": "Wrinkle",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To cause to form small folds or creases",
+      "example": "She wrinkled her forehead in confusion.",
+      "chinese": {
+        "meaning": "起皺",
+        "example": "她困惑地皺起了眉頭。"
+      }
+    },
+    {
+      "word": "Write",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To form letters or words on a surface",
+      "example": "He writes letters to his friends.",
+      "chinese": {
+        "meaning": "寫",
+        "example": "他給朋友寫信。"
+      }
+    }
+  ]
 }

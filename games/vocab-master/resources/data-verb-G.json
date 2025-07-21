@@ -1,3 +1,543 @@
 {
-    
+  "words": [
+    {
+      "word": "Gain",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To get or increase something useful or valuable",
+      "example": "She gained experience through her internship.",
+      "chinese": {
+        "meaning": "獲得",
+        "example": "她透過實習獲得了經驗。"
+      }
+    },
+    {
+      "word": "Gamble",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To take risky action in the hope of a desired result",
+      "example": "He gambled all his savings on one business deal.",
+      "chinese": {
+        "meaning": "賭博",
+        "example": "他把所有積蓄都押在一筆生意上。"
+      }
+    },
+    {
+      "word": "Garnish",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To decorate food with a small amount of another food",
+      "example": "She garnished the dish with parsley.",
+      "chinese": {
+        "meaning": "裝飾",
+        "example": "她用香菜裝飾這道菜。"
+      }
+    },
+    {
+      "word": "Gas",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To attack or poison with gas",
+      "example": "The soldiers were gassed during the war.",
+      "chinese": {
+        "meaning": "用毒氣攻擊",
+        "example": "士兵在戰爭中被毒氣攻擊。"
+      }
+    },
+    {
+      "word": "Gather",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To collect or bring together",
+      "example": "They gathered information from several sources.",
+      "chinese": {
+        "meaning": "收集",
+        "example": "他們從多個來源收集資料。"
+      }
+    },
+    {
+      "word": "Gauge",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To measure or judge something",
+      "example": "It’s difficult to gauge public reaction.",
+      "chinese": {
+        "meaning": "測量",
+        "example": "很難測量公眾的反應。"
+      }
+    },
+    {
+      "word": "Gaze",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To look steadily and intently",
+      "example": "She gazed at the stars.",
+      "chinese": {
+        "meaning": "凝視",
+        "example": "她凝視著星星。"
+      }
+    },
+    {
+      "word": "Generalize",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To make a broad statement based on limited information",
+      "example": "You can’t generalize from one example.",
+      "chinese": {
+        "meaning": "概括",
+        "example": "你不能只從一個例子就概括。"
+      }
+    },
+    {
+      "word": "Generate",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To produce or create something",
+      "example": "The project generated a lot of interest.",
+      "chinese": {
+        "meaning": "產生",
+        "example": "該項目引起了廣泛的關注。"
+      }
+    },
+    {
+      "word": "Germinate",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To begin to grow or develop",
+      "example": "Seeds germinate in the spring.",
+      "chinese": {
+        "meaning": "發芽",
+        "example": "種子在春天發芽。"
+      }
+    },
+    {
+      "word": "Get",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To receive, obtain, or become",
+      "example": "I got a message from my teacher.",
+      "chinese": {
+        "meaning": "得到",
+        "example": "我收到了老師的信息。"
+      }
+    },
+    {
+      "word": "Give",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To offer or provide something to someone",
+      "example": "She gave him a birthday present.",
+      "chinese": {
+        "meaning": "給予",
+        "example": "她送給他一份生日禮物。"
+      }
+    },
+    {
+      "word": "Glance",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To take a quick look",
+      "example": "He glanced at his watch.",
+      "chinese": {
+        "meaning": "瞥一眼",
+        "example": "他看了一眼手錶。"
+      }
+    },
+    {
+      "word": "Glide",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To move smoothly and quietly",
+      "example": "The swan glided across the lake.",
+      "chinese": {
+        "meaning": "滑行",
+        "example": "天鵝在湖面上滑行。"
+      }
+    },
+    {
+      "word": "Glimpse",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To see something briefly or partially",
+      "example": "She glimpsed the actor as he entered the building.",
+      "chinese": {
+        "meaning": "瞥見",
+        "example": "她瞥見那位演員走進大樓。"
+      }
+    },
+    {
+      "word": "Glisten",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To shine with a soft and reflected light",
+      "example": "The grass glistened with dew.",
+      "chinese": {
+        "meaning": "閃閃發光",
+        "example": "草地上閃著露水的光。"
+      }
+    },
+    {
+      "word": "Glitter",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To shine with bright, shimmering reflected light",
+      "example": "The stars glittered in the night sky.",
+      "chinese": {
+        "meaning": "閃爍",
+        "example": "星星在夜空中閃爍。"
+      }
+    },
+    {
+      "word": "Glorify",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To praise or honor something or someone",
+      "example": "The film glorifies the achievements of the team.",
+      "chinese": {
+        "meaning": "頌揚",
+        "example": "這部電影頌揚了這支隊伍的成就。"
+      }
+    },
+    {
+      "word": "Go",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To move from one place to another",
+      "example": "We went to the museum last weekend.",
+      "chinese": {
+        "meaning": "去",
+        "example": "我們上週末去了博物館。"
+      }
+    },
+    {
+      "word": "Goad",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To provoke or annoy someone so as to stimulate an action",
+      "example": "He was goaded into arguing.",
+      "chinese": {
+        "meaning": "激怒；刺激",
+        "example": "他被激怒而爭辯起來。"
+      }
+    },
+    {
+      "word": "Gobble",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To eat quickly and noisily",
+      "example": "He gobbled up his lunch.",
+      "chinese": {
+        "meaning": "狼吞虎嚥地吃",
+        "example": "他狼吞虎嚥地吃完午餐。"
+      }
+    },
+    {
+      "word": "Gorge",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To eat a large amount greedily",
+      "example": "They gorged on chocolate at the party.",
+      "chinese": {
+        "meaning": "狼吞虎嚥",
+        "example": "他們在派對上大吃巧克力。"
+      }
+    },
+    {
+      "word": "Govern",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To rule or control a group or area",
+      "example": "The country is governed by elected leaders.",
+      "chinese": {
+        "meaning": "治理",
+        "example": "該國由民選領導人治理。"
+      }
+    },
+    {
+      "word": "Grab",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To take hold of something quickly or suddenly",
+      "example": "He grabbed his bag and ran out.",
+      "chinese": {
+        "meaning": "抓住",
+        "example": "他抓起包就跑了出去。"
+      }
+    },
+    {
+      "word": "Graduate",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To complete a course of study successfully",
+      "example": "She graduated from university last year.",
+      "chinese": {
+        "meaning": "畢業",
+        "example": "她去年從大學畢業。"
+      }
+    },
+    {
+      "word": "Graffiti",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To write or draw graffiti",
+      "example": "Someone graffitied the wall last night.",
+      "chinese": {
+        "meaning": "塗鴉",
+        "example": "昨晚有人在牆上塗鴉。"
+      }
+    },
+    {
+      "word": "Grant",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To agree to give or allow something",
+      "example": "The council granted permission for the new building.",
+      "chinese": {
+        "meaning": "授予",
+        "example": "市議會批准了新建築的許可。"
+      }
+    },
+    {
+      "word": "Grapple",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To struggle or wrestle with something",
+      "example": "The government is grappling with the problem.",
+      "chinese": {
+        "meaning": "努力解決；扭打",
+        "example": "政府正努力解決這個問題。"
+      }
+    },
+    {
+      "word": "Grasp",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To take hold of something or understand it",
+      "example": "He grasped the concept quickly.",
+      "chinese": {
+        "meaning": "抓住；理解",
+        "example": "他很快理解了這個概念。"
+      }
+    },
+    {
+      "word": "Gratify",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To please or satisfy someone",
+      "example": "The praise gratified her.",
+      "chinese": {
+        "meaning": "使滿足",
+        "example": "讚美讓她感到滿足。"
+      }
+    },
+    {
+      "word": "Graze",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To feed on grass or to touch lightly in passing",
+      "example": "Cows graze in the field.",
+      "chinese": {
+        "meaning": "吃草；擦過",
+        "example": "牛在田裡吃草。"
+      }
+    },
+    {
+      "word": "Greet",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To say hello or welcome someone",
+      "example": "The teacher greeted each student at the door.",
+      "chinese": {
+        "meaning": "問候",
+        "example": "老師在門口向每位學生打招呼。"
+      }
+    },
+    {
+      "word": "Grieve",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To feel deep sadness, especially after someone's death",
+      "example": "She grieved the loss of her pet.",
+      "chinese": {
+        "meaning": "悲痛",
+        "example": "她為寵物的去世而悲痛。"
+      }
+    },
+    {
+      "word": "Grill",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To cook food over direct heat or to question intensely",
+      "example": "They grilled the meat for dinner.",
+      "chinese": {
+        "meaning": "燒烤；盤問",
+        "example": "他們烤肉做晚餐。"
+      }
+    },
+    {
+      "word": "Grind",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To crush into small pieces or powder",
+      "example": "She grinds coffee beans every morning.",
+      "chinese": {
+        "meaning": "磨碎",
+        "example": "她每天早上磨咖啡豆。"
+      }
+    },
+    {
+      "word": "Grip",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To hold something tightly",
+      "example": "He gripped the steering wheel firmly.",
+      "chinese": {
+        "meaning": "緊握",
+        "example": "他緊握方向盤。"
+      }
+    },
+    {
+      "word": "Groom",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To clean or maintain the appearance of oneself or an animal",
+      "example": "The cat grooms itself daily.",
+      "chinese": {
+        "meaning": "梳理；打扮",
+        "example": "貓每天都會梳理自己。"
+      }
+    },
+    {
+      "word": "Grope",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To feel about or search blindly or uncertainly",
+      "example": "He groped for the light switch in the dark.",
+      "chinese": {
+        "meaning": "摸索",
+        "example": "他在黑暗中摸索著找燈的開關。"
+      }
+    },
+    {
+      "word": "Ground",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To prohibit someone from going out as a punishment or to base something",
+      "example": "She was grounded for breaking the rules.",
+      "chinese": {
+        "meaning": "禁足；以...為基礎",
+        "example": "她因違規被禁足。"
+      }
+    },
+    {
+      "word": "Group",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To arrange or put people or things together",
+      "example": "Students were grouped by ability.",
+      "chinese": {
+        "meaning": "分組",
+        "example": "學生按能力分組。"
+      }
+    },
+    {
+      "word": "Grow",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To increase in size or develop",
+      "example": "The plant grows quickly in sunlight.",
+      "chinese": {
+        "meaning": "成長",
+        "example": "這種植物在陽光下長得很快。"
+      }
+    },
+    {
+      "word": "Grumble",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To complain about something in a bad-tempered way",
+      "example": "He grumbled about the long wait.",
+      "chinese": {
+        "meaning": "抱怨",
+        "example": "他抱怨等待時間太長。"
+      }
+    },
+    {
+      "word": "Guarantee",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To promise to do something or that something will happen",
+      "example": "I can’t guarantee you’ll get the job.",
+      "chinese": {
+        "meaning": "保證",
+        "example": "我不能保證你能得到這份工作。"
+      }
+    },
+    {
+      "word": "Guard",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To protect someone or something",
+      "example": "Soldiers guarded the entrance.",
+      "chinese": {
+        "meaning": "保護",
+        "example": "士兵守衛著入口。"
+      }
+    },
+    {
+      "word": "Guess",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To form an opinion or answer without enough information",
+      "example": "Can you guess the answer?",
+      "chinese": {
+        "meaning": "猜測",
+        "example": "你能猜出答案嗎？"
+      }
+    },
+    {
+      "word": "Guide",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To show or lead the way",
+      "example": "She guided us through the museum.",
+      "chinese": {
+        "meaning": "引導",
+        "example": "她帶領我們參觀博物館。"
+      }
+    },
+    {
+      "word": "Gulp",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To swallow quickly or in large amounts",
+      "example": "He gulped down his drink.",
+      "chinese": {
+        "meaning": "大口吞嚥",
+        "example": "他大口喝下飲料。"
+      }
+    },
+    {
+      "word": "Gush",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To flow out quickly and in large amounts",
+      "example": "Water gushed from the broken pipe.",
+      "chinese": {
+        "meaning": "湧出",
+        "example": "水從破裂的管道中湧出。"
+      }
+    },
+    {
+      "word": "Gyrate",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To move in a circle or spiral, or to spin quickly",
+      "example": "The dancer gyrated across the stage.",
+      "chinese": {
+        "meaning": "旋轉",
+        "example": "舞者在舞台上旋轉。"
+      }
+    }
+  ]
 }

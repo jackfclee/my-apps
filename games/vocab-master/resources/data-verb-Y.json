@@ -1,3 +1,70 @@
 {
-    
+  "words": [
+    {
+      "word": "Yank",
+      "type": "verb",
+      "letter": "Y",
+      "meaning": "To pull something with a sudden, sharp movement",
+      "example": "She yanked the drawer open.",
+      "chinese": {
+        "meaning": "猛拉",
+        "example": "她猛地打開抽屜。"
+      }
+    },
+    {
+      "word": "Yawn",
+      "type": "verb",
+      "letter": "Y",
+      "meaning": "To open your mouth wide and take a deep breath, usually when tired or bored",
+      "example": "She yawned during the long lecture.",
+      "chinese": {
+        "meaning": "打呵欠",
+        "example": "她在冗長的講座中打了呵欠。"
+      }
+    },
+    {
+      "word": "Yearn",
+      "type": "verb",
+      "letter": "Y",
+      "meaning": "To have a strong desire or longing for something",
+      "example": "He yearned for a chance to prove himself.",
+      "chinese": {
+        "meaning": "渴望",
+        "example": "他渴望有機會證明自己。"
+      }
+    },
+    {
+      "word": "Yell",
+      "type": "verb",
+      "letter": "Y",
+      "meaning": "To shout loudly, often in anger or excitement",
+      "example": "The coach yelled instructions to the players.",
+      "chinese": {
+        "meaning": "喊叫",
+        "example": "教練對球員大聲喊指令。"
+      }
+    },
+    {
+      "word": "Yield",
+      "type": "verb",
+      "letter": "Y",
+      "meaning": "To produce or provide something; or to give way under pressure",
+      "example": "The research yielded important results.",
+      "chinese": {
+        "meaning": "產生；讓步",
+        "example": "這項研究產生了重要結果。"
+      }
+    },
+    {
+      "word": "Yodel",
+      "type": "verb",
+      "letter": "Y",
+      "meaning": "To sing with repeated changes of pitch between chest and head voice",
+      "example": "He yodeled across the mountain valley.",
+      "chinese": {
+        "meaning": "用約德爾唱法唱歌",
+        "example": "他在山谷中用約德爾唱法唱歌。"
+      }
+    }
+  ]
 }

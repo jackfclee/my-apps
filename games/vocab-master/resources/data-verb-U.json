@@ -1,3 +1,499 @@
 {
-    
+  "words": [
+    {
+      "word": "Unbalance",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To disturb the balance of something",
+      "example": "A sudden movement can unbalance the structure.",
+      "chinese": {
+        "meaning": "使失去平衡",
+        "example": "突然的動作可能會使結構失去平衡。"
+      }
+    },
+    {
+      "word": "Unblock",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove an obstacle or blockage",
+      "example": "They unblocked the drain quickly.",
+      "chinese": {
+        "meaning": "疏通；解除封鎖",
+        "example": "他們很快疏通了排水管。"
+      }
+    },
+    {
+      "word": "Uncover",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To reveal something hidden or unknown",
+      "example": "The investigation uncovered important evidence.",
+      "chinese": {
+        "meaning": "揭示",
+        "example": "調查揭示了重要的證據。"
+      }
+    },
+    {
+      "word": "Underestimate",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To judge something as less important or smaller than it really is",
+      "example": "Do not underestimate the difficulty of the exam.",
+      "chinese": {
+        "meaning": "低估",
+        "example": "不要低估考試的難度。"
+      }
+    },
+    {
+      "word": "Undergo",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To experience or be subjected to something",
+      "example": "She underwent surgery last year.",
+      "chinese": {
+        "meaning": "經歷；接受",
+        "example": "她去年接受了手術。"
+      }
+    },
+    {
+      "word": "Underline",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To emphasize something",
+      "example": "The teacher underlined the importance of critical thinking.",
+      "chinese": {
+        "meaning": "強調；畫底線",
+        "example": "老師強調了批判性思維的重要性。"
+      }
+    },
+    {
+      "word": "Undermine",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To weaken or damage something, especially authority or confidence",
+      "example": "Spreading rumors can undermine trust.",
+      "chinese": {
+        "meaning": "削弱；破壞",
+        "example": "散布謠言會削弱信任。"
+      }
+    },
+    {
+      "word": "Understand",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To comprehend or grasp the meaning of something",
+      "example": "Students must understand the key concepts before the exam.",
+      "chinese": {
+        "meaning": "理解",
+        "example": "學生在考試前必須理解關鍵概念。"
+      }
+    },
+    {
+      "word": "Undertake",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To commit oneself to and begin a task or responsibility",
+      "example": "The team undertook a major research project.",
+      "chinese": {
+        "meaning": "承擔；著手進行",
+        "example": "該團隊承擔了一項重要的研究項目。"
+      }
+    },
+    {
+      "word": "Undertone",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To give a subtle or underlying quality",
+      "example": "His words undertoned a sense of warning.",
+      "chinese": {
+        "meaning": "帶有…的意味",
+        "example": "他話中帶有警告的意味。"
+      }
+    },
+    {
+      "word": "Undo",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To reverse or cancel an action or effect",
+      "example": "The update can be undone if necessary.",
+      "chinese": {
+        "meaning": "撤銷；解開",
+        "example": "如有需要，該更新可以撤銷。"
+      }
+    },
+    {
+      "word": "Undress",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove clothes from oneself or someone else",
+      "example": "He undressed before going to bed.",
+      "chinese": {
+        "meaning": "脫衣服",
+        "example": "他睡覺前脫了衣服。"
+      }
+    },
+    {
+      "word": "Unfasten",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To open or undo something that is fastened",
+      "example": "Please unfasten your seat belt.",
+      "chinese": {
+        "meaning": "解開",
+        "example": "請解開安全帶。"
+      }
+    },
+    {
+      "word": "Unfold",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To reveal or develop over time",
+      "example": "The drama unfolded over several episodes.",
+      "chinese": {
+        "meaning": "展開；透露",
+        "example": "劇情在幾集中逐漸展開。"
+      }
+    },
+    {
+      "word": "Unify",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To bring together or combine into one",
+      "example": "The reform aimed to unify national standards.",
+      "chinese": {
+        "meaning": "統一",
+        "example": "改革旨在統一全國標準。"
+      }
+    },
+    {
+      "word": "Unite",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To join together for a common purpose",
+      "example": "The students united to support the cause.",
+      "chinese": {
+        "meaning": "聯合；團結",
+        "example": "學生們團結起來支持這個事業。"
+      }
+    },
+    {
+      "word": "Unleash",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To release a powerful force or emotion",
+      "example": "The speech unleashed a wave of protests.",
+      "chinese": {
+        "meaning": "釋放",
+        "example": "這場演講引發了一波抗議。"
+      }
+    },
+    {
+      "word": "Unlock",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To open or make accessible",
+      "example": "A password is required to unlock the file.",
+      "chinese": {
+        "meaning": "解鎖；開啟",
+        "example": "需要密碼才能解鎖該文件。"
+      }
+    },
+    {
+      "word": "Unmask",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To reveal the true character of someone or something",
+      "example": "The article unmasked the corruption.",
+      "chinese": {
+        "meaning": "揭露",
+        "example": "這篇文章揭露了腐敗現象。"
+      }
+    },
+    {
+      "word": "Unpack",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove things from a suitcase, box, etc.",
+      "example": "She unpacked her suitcase after arriving.",
+      "chinese": {
+        "meaning": "拆包；解釋",
+        "example": "她到達後拆開了行李箱。"
+      }
+    },
+    {
+      "word": "Unplug",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To disconnect from an electrical source",
+      "example": "Remember to unplug the charger after use.",
+      "chinese": {
+        "meaning": "拔掉插頭",
+        "example": "使用後請記得拔掉充電器。"
+      }
+    },
+    {
+      "word": "Unravel",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To solve, explain, or become untangled",
+      "example": "The detective unraveled the mystery.",
+      "chinese": {
+        "meaning": "解開；闡明",
+        "example": "偵探解開了這個謎團。"
+      }
+    },
+    {
+      "word": "Unsettle",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To make someone feel anxious or uneasy",
+      "example": "The changes unsettled many employees.",
+      "chinese": {
+        "meaning": "使不安",
+        "example": "這些變動讓許多員工感到不安。"
+      }
+    },
+    {
+      "word": "Unsubscribe",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove oneself from a mailing list or service",
+      "example": "You can unsubscribe from the newsletter at any time.",
+      "chinese": {
+        "meaning": "取消訂閱",
+        "example": "您可以隨時取消訂閱電子報。"
+      }
+    },
+    {
+      "word": "Unveil",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To reveal something for the first time",
+      "example": "The company unveiled its new product.",
+      "chinese": {
+        "meaning": "揭幕；公布",
+        "example": "公司公布了新產品。"
+      }
+    },
+    {
+      "word": "Unwind",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To relax after a period of work or tension",
+      "example": "She likes to unwind by reading a book.",
+      "chinese": {
+        "meaning": "放鬆；解開",
+        "example": "她喜歡通過閱讀來放鬆。"
+      }
+    },
+    {
+      "word": "Unzip",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To open something fastened with a zip",
+      "example": "He unzipped his jacket.",
+      "chinese": {
+        "meaning": "拉開拉鍊",
+        "example": "他拉開了夾克的拉鍊。"
+      }
+    },
+    {
+      "word": "Update",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To bring something up to date",
+      "example": "Please update your contact details.",
+      "chinese": {
+        "meaning": "更新",
+        "example": "請更新您的聯絡資料。"
+      }
+    },
+    {
+      "word": "Upend",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To turn something upside down",
+      "example": "The new policy upended traditional practices.",
+      "chinese": {
+        "meaning": "顛覆；翻倒",
+        "example": "新政策顛覆了傳統做法。"
+      }
+    },
+    {
+      "word": "Upgrade",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To improve or enhance the quality or performance of something",
+      "example": "The school upgraded its computer system.",
+      "chinese": {
+        "meaning": "升級",
+        "example": "學校升級了電腦系統。"
+      }
+    },
+    {
+      "word": "Uphold",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To support or maintain a principle or law",
+      "example": "Judges must uphold justice.",
+      "chinese": {
+        "meaning": "維護；支持",
+        "example": "法官必須維護正義。"
+      }
+    },
+    {
+      "word": "Uplift",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To improve someone’s mood or spirit",
+      "example": "The movie uplifted the audience's spirits.",
+      "chinese": {
+        "meaning": "振奮",
+        "example": "這部電影振奮了觀眾的精神。"
+      }
+    },
+    {
+      "word": "Upload",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To transfer data or files to a larger system or the internet",
+      "example": "Please upload your assignment to the portal.",
+      "chinese": {
+        "meaning": "上傳",
+        "example": "請將作業上傳到平台。"
+      }
+    },
+    {
+      "word": "Uproot",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove completely, especially from a home or environment",
+      "example": "The war uprooted many families.",
+      "chinese": {
+        "meaning": "連根拔起；使離開家園",
+        "example": "戰爭使許多家庭流離失所。"
+      }
+    },
+    {
+      "word": "Upscale",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To increase the size or improve the quality of something",
+      "example": "The company plans to upscale its operations.",
+      "chinese": {
+        "meaning": "提升；擴大規模",
+        "example": "公司計劃擴大業務規模。"
+      }
+    },
+    {
+      "word": "Upset",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To disturb or cause emotional distress",
+      "example": "The news upset the entire community.",
+      "chinese": {
+        "meaning": "使心煩；打亂",
+        "example": "這個消息讓整個社區感到不安。"
+      }
+    },
+    {
+      "word": "Upskill",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To teach or learn new skills",
+      "example": "The company offers programs to upskill employees.",
+      "chinese": {
+        "meaning": "提升技能",
+        "example": "公司提供提升員工技能的課程。"
+      }
+    },
+    {
+      "word": "Upstage",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To draw attention away from someone else",
+      "example": "She upstaged her co-star during the performance.",
+      "chinese": {
+        "meaning": "搶風頭",
+        "example": "她在表演中搶了搭檔的風頭。"
+      }
+    },
+    {
+      "word": "Upsurge",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To rise or increase suddenly",
+      "example": "There was an upsurge in demand for online courses.",
+      "chinese": {
+        "meaning": "激增",
+        "example": "對線上課程的需求激增。"
+      }
+    },
+    {
+      "word": "Upvote",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To vote in favor of something online",
+      "example": "Many users upvoted the helpful answer.",
+      "chinese": {
+        "meaning": "點讚；投贊成票",
+        "example": "許多用戶給這個有用的答案點讚。"
+      }
+    },
+    {
+      "word": "Urge",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To strongly recommend or encourage someone to do something",
+      "example": "Teachers urged students to review regularly.",
+      "chinese": {
+        "meaning": "敦促；力勸",
+        "example": "老師敦促學生定期複習。"
+      }
+    },
+    {
+      "word": "Use",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To employ for a purpose",
+      "example": "She used the library resources for her assignment.",
+      "chinese": {
+        "meaning": "使用",
+        "example": "她使用圖書館資源來完成作業。"
+      }
+    },
+    {
+      "word": "Usher",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To guide or show the way",
+      "example": "The invention ushered in a new era.",
+      "chinese": {
+        "meaning": "引領；迎接",
+        "example": "這項發明開啟了一個新時代。"
+      }
+    },
+    {
+      "word": "Utilise",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To make effective use of something",
+      "example": "The report utilises data from multiple sources.",
+      "chinese": {
+        "meaning": "利用",
+        "example": "該報告利用了多個來源的數據。"
+      }
+    },
+    {
+      "word": "Utter",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To speak or say something",
+      "example": "He uttered a few words of thanks.",
+      "chinese": {
+        "meaning": "說出；發表",
+        "example": "他說了幾句感謝的話。"
+      }
+    }
+  ]
 }

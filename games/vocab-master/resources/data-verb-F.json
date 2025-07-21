@@ -1,3 +1,620 @@
 {
-    
+  "words": [
+    {
+      "word": "Facilitate",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To make a process or action easier or more likely to happen",
+      "example": "The new policy facilitates communication between departments.",
+      "chinese": {
+        "meaning": "促進",
+        "example": "新政策促進了部門之間的溝通。"
+      }
+    },
+    {
+      "word": "Fail",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To not succeed in what you are trying to achieve",
+      "example": "He failed to meet the deadline.",
+      "chinese": {
+        "meaning": "失敗",
+        "example": "他未能在截止日期前完成。"
+      }
+    },
+    {
+      "word": "Faint",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To suddenly become unconscious for a short time",
+      "example": "She fainted from the heat.",
+      "chinese": {
+        "meaning": "昏倒",
+        "example": "她因天氣炎熱而昏倒。"
+      }
+    },
+    {
+      "word": "Familiarize",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To make someone know or understand something better",
+      "example": "Students should familiarize themselves with the exam format.",
+      "chinese": {
+        "meaning": "使熟悉",
+        "example": "學生應該熟悉考試格式。"
+      }
+    },
+    {
+      "word": "Fascinate",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To attract and hold the attention of someone",
+      "example": "Space exploration fascinates many people.",
+      "chinese": {
+        "meaning": "使著迷",
+        "example": "太空探索讓許多人著迷。"
+      }
+    },
+    {
+      "word": "Favor",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To prefer or support something over something else",
+      "example": "The judge seemed to favor the defense.",
+      "chinese": {
+        "meaning": "偏愛",
+        "example": "法官似乎偏愛辯方。"
+      }
+    },
+    {
+      "word": "Fax",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To send a document using a fax machine",
+      "example": "Please fax the signed form to our office.",
+      "chinese": {
+        "meaning": "傳真",
+        "example": "請將簽署的表格傳真到我們辦公室。"
+      }
+    },
+    {
+      "word": "Fear",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To be afraid of someone or something",
+      "example": "Many people fear public speaking.",
+      "chinese": {
+        "meaning": "害怕",
+        "example": "許多人害怕公開演講。"
+      }
+    },
+    {
+      "word": "Feature",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To include someone or something as an important part",
+      "example": "The documentary features interviews with experts.",
+      "chinese": {
+        "meaning": "以…為特色",
+        "example": "該紀錄片以專家訪談為特色。"
+      }
+    },
+    {
+      "word": "Feed",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To provide food for someone or something",
+      "example": "They feed the animals every morning.",
+      "chinese": {
+        "meaning": "餵食",
+        "example": "他們每天早上餵動物。"
+      }
+    },
+    {
+      "word": "Feel",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To experience an emotion or sensation",
+      "example": "She felt nervous before the presentation.",
+      "chinese": {
+        "meaning": "感覺",
+        "example": "她在演講前感到緊張。"
+      }
+    },
+    {
+      "word": "Fence",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To enclose an area with a fence",
+      "example": "They fenced the garden to keep out animals.",
+      "chinese": {
+        "meaning": "用柵欄圍住",
+        "example": "他們用柵欄圍住花園以防動物進入。"
+      }
+    },
+    {
+      "word": "Fend",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To look after and provide for oneself without help",
+      "example": "He learned to fend for himself at a young age.",
+      "chinese": {
+        "meaning": "自力更生",
+        "example": "他從小就學會了自力更生。"
+      }
+    },
+    {
+      "word": "Fetch",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To go for and then bring back something",
+      "example": "Can you fetch my book from the other room?",
+      "chinese": {
+        "meaning": "取回",
+        "example": "你能幫我從另一個房間取回書嗎？"
+      }
+    },
+    {
+      "word": "Fiddle",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To touch or move something with your hands in a nervous way",
+      "example": "He fiddled with his pen during the meeting.",
+      "chinese": {
+        "meaning": "擺弄",
+        "example": "他在會議期間擺弄著筆。"
+      }
+    },
+    {
+      "word": "Fight",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To use physical force or argument against something or someone",
+      "example": "They fought for their rights.",
+      "chinese": {
+        "meaning": "爭鬥",
+        "example": "他們為自己的權利而戰。"
+      }
+    },
+    {
+      "word": "Figure",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To form an opinion or guess about something",
+      "example": "I figured it would be too late to catch the train.",
+      "chinese": {
+        "meaning": "認為",
+        "example": "我認為現在趕不上火車了。"
+      }
+    },
+    {
+      "word": "File",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To officially record or submit a document",
+      "example": "They filed a complaint with the council.",
+      "chinese": {
+        "meaning": "提交",
+        "example": "他們向市議會提交了投訴。"
+      }
+    },
+    {
+      "word": "Fill",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To make something full",
+      "example": "She filled the glass with water.",
+      "chinese": {
+        "meaning": "填滿",
+        "example": "她把杯子裝滿了水。"
+      }
+    },
+    {
+      "word": "Filter",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To remove unwanted parts from something",
+      "example": "The program filters out spam emails automatically.",
+      "chinese": {
+        "meaning": "過濾",
+        "example": "該程式自動過濾垃圾郵件。"
+      }
+    },
+    {
+      "word": "Finalise",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To complete all the details of something",
+      "example": "They finalized the agreement after weeks of negotiation.",
+      "chinese": {
+        "meaning": "定案",
+        "example": "經過數週的協商後，他們最終定案。"
+      }
+    },
+    {
+      "word": "Finance",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To provide money for a project or person",
+      "example": "The bank financed the construction of the new school.",
+      "chinese": {
+        "meaning": "資助",
+        "example": "銀行資助了新學校的建設。"
+      }
+    },
+    {
+      "word": "Find",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To discover something by chance or after searching",
+      "example": "She found her keys under the couch.",
+      "chinese": {
+        "meaning": "找到",
+        "example": "她在沙發下找到了鑰匙。"
+      }
+    },
+    {
+      "word": "Finish",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To complete something",
+      "example": "He finished his homework before dinner.",
+      "chinese": {
+        "meaning": "完成",
+        "example": "他在晚餐前完成了作業。"
+      }
+    },
+    {
+      "word": "Fire",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To dismiss someone from their job",
+      "example": "He was fired for being late repeatedly.",
+      "chinese": {
+        "meaning": "解雇",
+        "example": "他因多次遲到而被解雇。"
+      }
+    },
+    {
+      "word": "Fix",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To repair something that is broken or not working properly",
+      "example": "He fixed the broken chair.",
+      "chinese": {
+        "meaning": "修理",
+        "example": "他修好了壞掉的椅子。"
+      }
+    },
+    {
+      "word": "Flag",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To mark something for attention",
+      "example": "Please flag any errors you find in the document.",
+      "chinese": {
+        "meaning": "標記",
+        "example": "請標記你在文件中發現的任何錯誤。"
+      }
+    },
+    {
+      "word": "Flatter",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To praise someone in a way that is not sincere",
+      "example": "He flattered his boss to get a promotion.",
+      "chinese": {
+        "meaning": "奉承",
+        "example": "他奉承老闆以獲得晉升。"
+      }
+    },
+    {
+      "word": "Flee",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To escape from danger or a place quickly",
+      "example": "Residents fled the area during the flood.",
+      "chinese": {
+        "meaning": "逃離",
+        "example": "居民在洪水期間逃離了該地區。"
+      }
+    },
+    {
+      "word": "Flex",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To bend a part of your body or something else",
+      "example": "He flexed his muscles in the mirror.",
+      "chinese": {
+        "meaning": "彎曲",
+        "example": "他在鏡子前彎曲肌肉。"
+      }
+    },
+    {
+      "word": "Float",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To stay or move on the surface of a liquid",
+      "example": "The boat floated gently down the river.",
+      "chinese": {
+        "meaning": "漂浮",
+        "example": "小船在河上輕輕漂浮。"
+      }
+    },
+    {
+      "word": "Flood",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To cover an area with water",
+      "example": "The river flooded the nearby fields.",
+      "chinese": {
+        "meaning": "淹沒",
+        "example": "河水淹沒了附近的田地。"
+      }
+    },
+    {
+      "word": "Flourish",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To grow or develop successfully",
+      "example": "The business flourished after the new manager arrived.",
+      "chinese": {
+        "meaning": "繁榮",
+        "example": "新經理到來後，生意興隆。"
+      }
+    },
+    {
+      "word": "Flow",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To move in a steady and continuous way",
+      "example": "Water flowed from the tap.",
+      "chinese": {
+        "meaning": "流動",
+        "example": "水從水龍頭流出。"
+      }
+    },
+    {
+      "word": "Focus",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To concentrate attention or effort on something",
+      "example": "She focused on her studies during the exam period.",
+      "chinese": {
+        "meaning": "專注",
+        "example": "她在考試期間專注於學習。"
+      }
+    },
+    {
+      "word": "Fold",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To bend something so that one part covers another part",
+      "example": "She folded the letter and put it in an envelope.",
+      "chinese": {
+        "meaning": "摺疊",
+        "example": "她把信摺好放進信封。"
+      }
+    },
+    {
+      "word": "Follow",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To come or go after someone or something",
+      "example": "The children followed the teacher to the library.",
+      "chinese": {
+        "meaning": "跟隨",
+        "example": "孩子們跟著老師去圖書館。"
+      }
+    },
+    {
+      "word": "Forbid",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To order someone not to do something",
+      "example": "The school forbids smoking on campus.",
+      "chinese": {
+        "meaning": "禁止",
+        "example": "學校禁止在校園內吸煙。"
+      }
+    },
+    {
+      "word": "Force",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To make someone do something against their will",
+      "example": "They were forced to leave the building.",
+      "chinese": {
+        "meaning": "強迫",
+        "example": "他們被迫離開大樓。"
+      }
+    },
+    {
+      "word": "Forecast",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To predict a future condition or event",
+      "example": "The report forecasts economic growth in the next quarter.",
+      "chinese": {
+        "meaning": "預測",
+        "example": "報告預測下一季度的經濟增長。"
+      }
+    },
+    {
+      "word": "Foresee",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To know or expect that something will happen",
+      "example": "We could not foresee the consequences.",
+      "chinese": {
+        "meaning": "預見",
+        "example": "我們無法預見後果。"
+      }
+    },
+    {
+      "word": "Forge",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To make or produce something, especially with difficulty",
+      "example": "They forged a close friendship over the years.",
+      "chinese": {
+        "meaning": "建立",
+        "example": "多年來他們建立了深厚的友誼。"
+      }
+    },
+    {
+      "word": "Forget",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To not remember something",
+      "example": "I forgot to bring my textbook.",
+      "chinese": {
+        "meaning": "忘記",
+        "example": "我忘了帶課本。"
+      }
+    },
+    {
+      "word": "Forgive",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To stop feeling angry with someone who has done something wrong",
+      "example": "She forgave him for his mistake.",
+      "chinese": {
+        "meaning": "原諒",
+        "example": "她原諒了他的錯誤。"
+      }
+    },
+    {
+      "word": "Formulate",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To create or devise something methodically",
+      "example": "They formulated a new strategy for marketing.",
+      "chinese": {
+        "meaning": "制定",
+        "example": "他們制定了新的行銷策略。"
+      }
+    },
+    {
+      "word": "Foster",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To encourage the development of something",
+      "example": "The teacher fostered a love of reading in her students.",
+      "chinese": {
+        "meaning": "培養",
+        "example": "老師培養了學生對閱讀的熱愛。"
+      }
+    },
+    {
+      "word": "Found",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To establish or start an organization or institution",
+      "example": "The university was founded in 1901.",
+      "chinese": {
+        "meaning": "創立",
+        "example": "該大學成立於1901年。"
+      }
+    },
+    {
+      "word": "Frame",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To express something in a particular way",
+      "example": "She framed her argument carefully.",
+      "chinese": {
+        "meaning": "表達",
+        "example": "她仔細地表達了自己的論點。"
+      }
+    },
+    {
+      "word": "Freeze",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To become hard because of low temperature or to stop moving suddenly",
+      "example": "Water freezes at zero degrees Celsius.",
+      "chinese": {
+        "meaning": "結冰；凍結",
+        "example": "水在零度結冰。"
+      }
+    },
+    {
+      "word": "Frighten",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To make someone afraid or anxious",
+      "example": "The loud noise frightened the children.",
+      "chinese": {
+        "meaning": "使害怕",
+        "example": "巨大的聲響嚇壞了孩子們。"
+      }
+    },
+    {
+      "word": "Frustrate",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To make someone feel annoyed or less confident",
+      "example": "The delays frustrated everyone.",
+      "chinese": {
+        "meaning": "使沮喪",
+        "example": "延誤讓每個人都感到沮喪。"
+      }
+    },
+    {
+      "word": "Fulfill",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To achieve or realize something desired or promised",
+      "example": "She fulfilled her childhood dream.",
+      "chinese": {
+        "meaning": "實現",
+        "example": "她實現了兒時的夢想。"
+      }
+    },
+    {
+      "word": "Function",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To work or operate in the correct way",
+      "example": "The new system is functioning well.",
+      "chinese": {
+        "meaning": "運作",
+        "example": "新系統運作良好。"
+      }
+    },
+    {
+      "word": "Fund",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To provide money for something",
+      "example": "The project is funded by the government.",
+      "chinese": {
+        "meaning": "資助",
+        "example": "該項目由政府資助。"
+      }
+    },
+    {
+      "word": "Furnish",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To provide or supply something",
+      "example": "They furnished the apartment with new furniture.",
+      "chinese": {
+        "meaning": "提供；布置",
+        "example": "他們用新家具布置了公寓。"
+      }
+    },
+    {
+      "word": "Fuse",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To join or combine two or more things together",
+      "example": "The two companies fused to form a new corporation.",
+      "chinese": {
+        "meaning": "融合",
+        "example": "兩家公司合併成立了一家新公司。"
+      }
+    }
+  ]
 }

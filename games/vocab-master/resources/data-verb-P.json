@@ -1,3 +1,554 @@
 {
-    
+  "words": [
+    {
+      "word": "Pacify",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To calm someone who is angry or upset",
+      "example": "The mother pacified her crying baby.",
+      "chinese": {
+        "meaning": "安撫",
+        "example": "母親安撫哭泣的嬰兒。"
+      }
+    },
+    {
+      "word": "Pack",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To put things into a container or bag",
+      "example": "She packed her suitcase for the trip.",
+      "chinese": {
+        "meaning": "打包",
+        "example": "她為旅行打包行李。"
+      }
+    },
+    {
+      "word": "Paint",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To apply color to a surface",
+      "example": "He painted the walls of the room.",
+      "chinese": {
+        "meaning": "粉刷",
+        "example": "他粉刷了房間的牆壁。"
+      }
+    },
+    {
+      "word": "Participate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To take part in an activity or event",
+      "example": "Students participated in the science fair.",
+      "chinese": {
+        "meaning": "參加",
+        "example": "學生們參加了科學展。"
+      }
+    },
+    {
+      "word": "Pass",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To go past or through something",
+      "example": "We passed the library on our way home.",
+      "chinese": {
+        "meaning": "通過",
+        "example": "我們回家路上經過圖書館。"
+      }
+    },
+    {
+      "word": "Patrol",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To keep watch over an area",
+      "example": "The guards patrolled the premises.",
+      "chinese": {
+        "meaning": "巡邏",
+        "example": "守衛巡邏了場地。"
+      }
+    },
+    {
+      "word": "Pause",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To stop temporarily",
+      "example": "She paused the video to take notes.",
+      "chinese": {
+        "meaning": "暫停",
+        "example": "她暫停了影片以做筆記。"
+      }
+    },
+    {
+      "word": "Pay",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To give money for goods or services",
+      "example": "He paid the bill at the restaurant.",
+      "chinese": {
+        "meaning": "支付",
+        "example": "他支付了餐廳的帳單。"
+      }
+    },
+    {
+      "word": "Peer",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To look closely or carefully at something",
+      "example": "He peered through the window.",
+      "chinese": {
+        "meaning": "凝視",
+        "example": "他透過窗戶凝視。"
+      }
+    },
+    {
+      "word": "Perceive",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To become aware of or understand something",
+      "example": "She perceived a change in his attitude.",
+      "chinese": {
+        "meaning": "察覺",
+        "example": "她察覺到他態度的改變。"
+      }
+    },
+    {
+      "word": "Perform",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To carry out an action or task",
+      "example": "The actors performed on stage.",
+      "chinese": {
+        "meaning": "表演；執行",
+        "example": "演員們在舞台上表演。"
+      }
+    },
+    {
+      "word": "Perish",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To die, especially in a sudden or violent way",
+      "example": "Many plants perished in the drought.",
+      "chinese": {
+        "meaning": "死亡",
+        "example": "許多植物在乾旱中死亡。"
+      }
+    },
+    {
+      "word": "Permit",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To allow something to happen",
+      "example": "The school permitted students to leave early.",
+      "chinese": {
+        "meaning": "允許",
+        "example": "學校允許學生早退。"
+      }
+    },
+    {
+      "word": "Persist",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To continue firmly despite difficulties",
+      "example": "She persisted in her studies despite challenges.",
+      "chinese": {
+        "meaning": "堅持",
+        "example": "她克服困難堅持學習。"
+      }
+    },
+    {
+      "word": "Persuade",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To convince someone to do something",
+      "example": "He persuaded his friend to join the club.",
+      "chinese": {
+        "meaning": "說服",
+        "example": "他說服朋友加入俱樂部。"
+      }
+    },
+    {
+      "word": "Pick",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To choose or select something",
+      "example": "She picked a book from the shelf.",
+      "chinese": {
+        "meaning": "挑選",
+        "example": "她從書架上挑了一本書。"
+      }
+    },
+    {
+      "word": "Plan",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To decide on a course of action",
+      "example": "They planned their vacation carefully.",
+      "chinese": {
+        "meaning": "計劃",
+        "example": "他們仔細計劃了假期。"
+      }
+    },
+    {
+      "word": "Play",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To engage in activity for enjoyment",
+      "example": "The children played in the park.",
+      "chinese": {
+        "meaning": "玩",
+        "example": "孩子們在公園玩耍。"
+      }
+    },
+    {
+      "word": "Plead",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make an emotional request; to beg",
+      "example": "He pleaded for another chance.",
+      "chinese": {
+        "meaning": "懇求",
+        "example": "他懇求再給一次機會。"
+      }
+    },
+    {
+      "word": "Plunge",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To fall or jump suddenly from a high place",
+      "example": "The diver plunged into the pool.",
+      "chinese": {
+        "meaning": "跳入",
+        "example": "跳水運動員跳入泳池。"
+      }
+    },
+    {
+      "word": "Point",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To show direction or indicate something",
+      "example": "She pointed to the map to show the route.",
+      "chinese": {
+        "meaning": "指向",
+        "example": "她指著地圖顯示路線。"
+      }
+    },
+    {
+      "word": "Pollute",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To contaminate the environment",
+      "example": "Factories pollute the river.",
+      "chinese": {
+        "meaning": "污染",
+        "example": "工廠污染了河流。"
+      }
+    },
+    {
+      "word": "Ponder",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To think about something carefully",
+      "example": "He pondered the question for a long time.",
+      "chinese": {
+        "meaning": "沉思",
+        "example": "他長時間沉思這個問題。"
+      }
+    },
+    {
+      "word": "Postpone",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To delay something to a later time",
+      "example": "The meeting was postponed due to rain.",
+      "chinese": {
+        "meaning": "延期",
+        "example": "會議因下雨而延期。"
+      }
+    },
+    {
+      "word": "Practice",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To do something repeatedly to improve skill",
+      "example": "She practiced the piano every day.",
+      "chinese": {
+        "meaning": "練習",
+        "example": "她每天練習鋼琴。"
+      }
+    },
+    {
+      "word": "Predict",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To say what will happen in the future",
+      "example": "Scientists predict climate change will worsen.",
+      "chinese": {
+        "meaning": "預測",
+        "example": "科學家預測氣候變化會惡化。"
+      }
+    },
+    {
+      "word": "Prefer",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To like something more than another",
+      "example": "I prefer tea to coffee.",
+      "chinese": {
+        "meaning": "更喜歡",
+        "example": "我比起咖啡更喜歡茶。"
+      }
+    },
+    {
+      "word": "Prepare",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make ready for use or consideration",
+      "example": "She prepared a presentation for the meeting.",
+      "chinese": {
+        "meaning": "準備",
+        "example": "她為會議準備了一個報告。"
+      }
+    },
+    {
+      "word": "Prescribe",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To officially tell someone to use a medicine or treatment",
+      "example": "The doctor prescribed antibiotics.",
+      "chinese": {
+        "meaning": "開處方",
+        "example": "醫生開了抗生素處方。"
+      }
+    },
+    {
+      "word": "Present",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To show or offer something for consideration",
+      "example": "He presented his research findings.",
+      "chinese": {
+        "meaning": "呈現",
+        "example": "他呈現了他的研究結果。"
+      }
+    },
+    {
+      "word": "Preserve",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To keep something in its original state",
+      "example": "They preserved the historical buildings.",
+      "chinese": {
+        "meaning": "保存",
+        "example": "他們保存了歷史建築。"
+      }
+    },
+    {
+      "word": "Pretend",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To act as if something is true when it is not",
+      "example": "The children pretended to be pirates.",
+      "chinese": {
+        "meaning": "假裝",
+        "example": "孩子們假裝成為海盜。"
+      }
+    },
+    {
+      "word": "Prevent",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To stop something from happening",
+      "example": "Vaccines prevent many diseases.",
+      "chinese": {
+        "meaning": "防止",
+        "example": "疫苗預防許多疾病。"
+      }
+    },
+    {
+      "word": "Print",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To produce text or images on paper",
+      "example": "She printed the document for the meeting.",
+      "chinese": {
+        "meaning": "列印",
+        "example": "她為會議列印了文件。"
+      }
+    },
+    {
+      "word": "Proceed",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To continue or move forward",
+      "example": "We will proceed with the plan.",
+      "chinese": {
+        "meaning": "繼續",
+        "example": "我們將繼續執行計劃。"
+      }
+    },
+    {
+      "word": "Produce",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To create or bring something into existence",
+      "example": "Factories produce goods for export.",
+      "chinese": {
+        "meaning": "生產",
+        "example": "工廠生產出口商品。"
+      }
+    },
+    {
+      "word": "Progress",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To move forward or develop",
+      "example": "The project is progressing well.",
+      "chinese": {
+        "meaning": "進展",
+        "example": "該項目進展順利。"
+      }
+    },
+    {
+      "word": "Promise",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To assure someone that you will do something",
+      "example": "He promised to help with the homework.",
+      "chinese": {
+        "meaning": "承諾",
+        "example": "他承諾幫忙做作業。"
+      }
+    },
+    {
+      "word": "Promote",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To support or encourage something",
+      "example": "The campaign promotes healthy eating.",
+      "chinese": {
+        "meaning": "促進",
+        "example": "該運動促進健康飲食。"
+      }
+    },
+    {
+      "word": "Propose",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To suggest a plan or idea",
+      "example": "She proposed a new method for solving the problem.",
+      "chinese": {
+        "meaning": "提出",
+        "example": "她提出了解決問題的新方法。"
+      }
+    },
+    {
+      "word": "Protect",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To keep someone or something safe from harm",
+      "example": "Laws protect endangered species.",
+      "chinese": {
+        "meaning": "保護",
+        "example": "法律保護瀕危物種。"
+      }
+    },
+    {
+      "word": "Prove",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To show that something is true or correct",
+      "example": "He proved his theory with experiments.",
+      "chinese": {
+        "meaning": "證明",
+        "example": "他用實驗證明了他的理論。"
+      }
+    },
+    {
+      "word": "Provide",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To supply or make available",
+      "example": "The school provides textbooks to students.",
+      "chinese": {
+        "meaning": "提供",
+        "example": "學校為學生提供課本。"
+      }
+    },
+    {
+      "word": "Publish",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make information or a book available to the public",
+      "example": "The author published a new novel.",
+      "chinese": {
+        "meaning": "出版",
+        "example": "作者出版了一本新小說。"
+      }
+    },
+    {
+      "word": "Pull",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To draw or haul something towards oneself",
+      "example": "He pulled the chair closer to the table.",
+      "chinese": {
+        "meaning": "拉",
+        "example": "他把椅子拉近桌子。"
+      }
+    },
+    {
+      "word": "Punish",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make someone suffer for a wrongdoing",
+      "example": "The school punished students for cheating.",
+      "chinese": {
+        "meaning": "懲罰",
+        "example": "學校懲罰作弊的學生。"
+      }
+    },
+    {
+      "word": "Purchase",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To buy something",
+      "example": "They purchased new equipment for the lab.",
+      "chinese": {
+        "meaning": "購買",
+        "example": "他們為實驗室購買了新設備。"
+      }
+    },
+    {
+      "word": "Pursue",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To follow or chase in order to catch or achieve",
+      "example": "She decided to pursue a career in medicine.",
+      "chinese": {
+        "meaning": "追求",
+        "example": "她決定追求醫學事業。"
+      }
+    },
+    {
+      "word": "Push",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To apply force to move something away",
+      "example": "He pushed the door open.",
+      "chinese": {
+        "meaning": "推",
+        "example": "他推開了門。"
+      }
+    },
+    {
+      "word": "Put",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To place something somewhere",
+      "example": "She put the book on the shelf.",
+      "chinese": {
+        "meaning": "放置",
+        "example": "她把書放在架子上。"
+      }
+    }
+  ]
 }

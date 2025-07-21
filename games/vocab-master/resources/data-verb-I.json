@@ -1,3 +1,598 @@
 {
-    
+  "words": [
+    {
+      "word": "Identify",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To recognize and name someone or something",
+      "example": "The witness was able to identify the suspect.",
+      "chinese": {
+        "meaning": "識別",
+        "example": "證人能夠識別嫌疑人。"
+      }
+    },
+    {
+      "word": "Ignite",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To set on fire or to start burning",
+      "example": "The spark ignited the gasoline.",
+      "chinese": {
+        "meaning": "點燃",
+        "example": "火花點燃了汽油。"
+      }
+    },
+    {
+      "word": "Ignore",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To refuse to take notice of or acknowledge",
+      "example": "She ignored the warning signs.",
+      "chinese": {
+        "meaning": "忽視",
+        "example": "她忽視了警告標誌。"
+      }
+    },
+    {
+      "word": "Illustrate",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To explain or make something clear by using examples",
+      "example": "The teacher illustrated the concept with diagrams.",
+      "chinese": {
+        "meaning": "說明",
+        "example": "老師用圖表說明了這個概念。"
+      }
+    },
+    {
+      "word": "Imagine",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To form a mental image or concept of something",
+      "example": "Try to imagine a world without war.",
+      "chinese": {
+        "meaning": "想像",
+        "example": "試著想像一個沒有戰爭的世界。"
+      }
+    },
+    {
+      "word": "Imitate",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To copy the behavior or actions of someone",
+      "example": "Children often imitate their parents.",
+      "chinese": {
+        "meaning": "模仿",
+        "example": "孩子們經常模仿父母。"
+      }
+    },
+    {
+      "word": "Immunize",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To make someone immune to a disease",
+      "example": "Children are immunized against measles.",
+      "chinese": {
+        "meaning": "免疫",
+        "example": "兒童接種疫苗以免疫麻疹。"
+      }
+    },
+    {
+      "word": "Implement",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To put a decision or plan into effect",
+      "example": "The school implemented a new grading system.",
+      "chinese": {
+        "meaning": "實施",
+        "example": "學校實施了一個新的評分系統。"
+      }
+    },
+    {
+      "word": "Imply",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To suggest something without stating it directly",
+      "example": "His words implied a lack of trust.",
+      "chinese": {
+        "meaning": "暗示",
+        "example": "他的話暗示著缺乏信任。"
+      }
+    },
+    {
+      "word": "Import",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To bring goods or data into a place or system",
+      "example": "The country imports oil from overseas.",
+      "chinese": {
+        "meaning": "進口",
+        "example": "這個國家從海外進口石油。"
+      }
+    },
+    {
+      "word": "Impose",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To force something to be accepted or put in place",
+      "example": "The government imposed new regulations.",
+      "chinese": {
+        "meaning": "強加",
+        "example": "政府強加了新規定。"
+      }
+    },
+    {
+      "word": "Impress",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To make someone feel admiration and respect",
+      "example": "She impressed the judges with her performance.",
+      "chinese": {
+        "meaning": "使印象深刻",
+        "example": "她的表演給評委留下了深刻印象。"
+      }
+    },
+    {
+      "word": "Improve",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To make something better",
+      "example": "He improved his writing after taking the course.",
+      "chinese": {
+        "meaning": "改善",
+        "example": "上課後，他的寫作有所改善。"
+      }
+    },
+    {
+      "word": "Include",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To make someone or something part of a group or set",
+      "example": "The price includes breakfast.",
+      "chinese": {
+        "meaning": "包括",
+        "example": "價格包括早餐。"
+      }
+    },
+    {
+      "word": "Incorporate",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To include or integrate a part into a whole",
+      "example": "The curriculum incorporates new learning technologies.",
+      "chinese": {
+        "meaning": "納入",
+        "example": "課程納入了新的學習技術。"
+      }
+    },
+    {
+      "word": "Increase",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To become or make greater in size, amount, or degree",
+      "example": "The company increased its profits last year.",
+      "chinese": {
+        "meaning": "增加",
+        "example": "公司去年增加了利潤。"
+      }
+    },
+    {
+      "word": "Indicate",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To show or point out",
+      "example": "The results indicate a need for further study.",
+      "chinese": {
+        "meaning": "表明",
+        "example": "結果表明需要進一步研究。"
+      }
+    },
+    {
+      "word": "Induce",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To cause or bring about",
+      "example": "The drug may induce sleepiness.",
+      "chinese": {
+        "meaning": "引起",
+        "example": "這種藥可能引起困倦。"
+      }
+    },
+    {
+      "word": "Influence",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To have an effect on someone or something",
+      "example": "Parents can greatly influence their children’s values.",
+      "chinese": {
+        "meaning": "影響",
+        "example": "父母對孩子的價值觀有很大影響。"
+      }
+    },
+    {
+      "word": "Inform",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To give someone facts or information",
+      "example": "Please inform me of any changes.",
+      "chinese": {
+        "meaning": "通知",
+        "example": "請告知我任何變更。"
+      }
+    },
+    {
+      "word": "Ingrain",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To firmly fix or establish in a person",
+      "example": "These habits are deeply ingrained in our culture.",
+      "chinese": {
+        "meaning": "根深蒂固",
+        "example": "這些習慣在我們的文化中根深蒂固。"
+      }
+    },
+    {
+      "word": "Inherit",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To receive something from someone after they have died",
+      "example": "She inherited the house from her grandmother.",
+      "chinese": {
+        "meaning": "繼承",
+        "example": "她從祖母那裡繼承了這棟房子。"
+      }
+    },
+    {
+      "word": "Initiate",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To begin or start something",
+      "example": "The company initiated a new training program.",
+      "chinese": {
+        "meaning": "開始",
+        "example": "公司啟動了一個新的培訓計劃。"
+      }
+    },
+    {
+      "word": "Inject",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To introduce something, especially a liquid, into something else",
+      "example": "Doctors injected the vaccine into his arm.",
+      "chinese": {
+        "meaning": "注射",
+        "example": "醫生將疫苗注射到他的手臂中。"
+      }
+    },
+    {
+      "word": "Injure",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To harm or damage someone physically",
+      "example": "He injured his leg while playing football.",
+      "chinese": {
+        "meaning": "受傷",
+        "example": "他踢足球時傷了腿。"
+      }
+    },
+    {
+      "word": "Inquire",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To ask for information",
+      "example": "He inquired about the train times.",
+      "chinese": {
+        "meaning": "詢問",
+        "example": "他詢問了火車時刻。"
+      }
+    },
+    {
+      "word": "Inscribe",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To write or carve words on something",
+      "example": "His name was inscribed on the trophy.",
+      "chinese": {
+        "meaning": "刻寫",
+        "example": "他的名字被刻在獎盃上。"
+      }
+    },
+    {
+      "word": "Insert",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To put something into something else",
+      "example": "Please insert your card into the machine.",
+      "chinese": {
+        "meaning": "插入",
+        "example": "請將您的卡插入機器中。"
+      }
+    },
+    {
+      "word": "Insist",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To demand something forcefully",
+      "example": "She insisted on paying for the meal.",
+      "chinese": {
+        "meaning": "堅持",
+        "example": "她堅持要付飯錢。"
+      }
+    },
+    {
+      "word": "Inspire",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To motivate or encourage someone to act or feel something",
+      "example": "The story inspired her to write a book.",
+      "chinese": {
+        "meaning": "啟發",
+        "example": "這個故事啟發她寫了一本書。"
+      }
+    },
+    {
+      "word": "Install",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To set up equipment or software for use",
+      "example": "They installed new computers in the lab.",
+      "chinese": {
+        "meaning": "安裝",
+        "example": "他們在實驗室安裝了新電腦。"
+      }
+    },
+    {
+      "word": "Instruct",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To teach or guide someone on how to do something",
+      "example": "The coach instructed the team on new tactics.",
+      "chinese": {
+        "meaning": "指導",
+        "example": "教練指導球隊使用新戰術。"
+      }
+    },
+    {
+      "word": "Insult",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To speak or treat with disrespect",
+      "example": "He insulted her by ignoring her opinion.",
+      "chinese": {
+        "meaning": "侮辱",
+        "example": "他無視她的意見，侮辱了她。"
+      }
+    },
+    {
+      "word": "Integrate",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To combine things so they become a whole",
+      "example": "The company integrated new technology into its system.",
+      "chinese": {
+        "meaning": "整合",
+        "example": "公司將新技術整合進其系統中。"
+      }
+    },
+    {
+      "word": "Intensify",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To become stronger or more intense",
+      "example": "The storm intensified overnight.",
+      "chinese": {
+        "meaning": "加劇",
+        "example": "暴風雨在夜間加劇了。"
+      }
+    },
+    {
+      "word": "Interact",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To communicate or work together",
+      "example": "Students interact with their teachers in class.",
+      "chinese": {
+        "meaning": "互動",
+        "example": "學生在課堂上與老師互動。"
+      }
+    },
+    {
+      "word": "Interconnect",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To connect with each other",
+      "example": "The two systems are interconnected.",
+      "chinese": {
+        "meaning": "互相連接",
+        "example": "這兩個系統是互相連接的。"
+      }
+    },
+    {
+      "word": "Interfere",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To prevent something from happening smoothly",
+      "example": "Don't interfere with their conversation.",
+      "chinese": {
+        "meaning": "干涉",
+        "example": "不要干涉他們的談話。"
+      }
+    },
+    {
+      "word": "Interpret",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To explain or understand the meaning of something",
+      "example": "Students are asked to interpret the poem.",
+      "chinese": {
+        "meaning": "解釋",
+        "example": "學生被要求解釋這首詩的意思。"
+      }
+    },
+    {
+      "word": "Interrelate",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To be connected to each other",
+      "example": "The two subjects interrelate closely.",
+      "chinese": {
+        "meaning": "互相關聯",
+        "example": "這兩個科目密切相關。"
+      }
+    },
+    {
+      "word": "Interrupt",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To stop someone from speaking by saying or doing something",
+      "example": "Sorry to interrupt, but I have a question.",
+      "chinese": {
+        "meaning": "打斷",
+        "example": "抱歉打斷一下，我有個問題。"
+      }
+    },
+    {
+      "word": "Intervene",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To become involved in a situation to improve or prevent something",
+      "example": "The teacher intervened to stop the argument.",
+      "chinese": {
+        "meaning": "介入",
+        "example": "老師介入以阻止爭吵。"
+      }
+    },
+    {
+      "word": "Introduce",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To make someone known by name to another in person",
+      "example": "Let me introduce you to my friend.",
+      "chinese": {
+        "meaning": "介紹",
+        "example": "讓我介紹你認識我的朋友。"
+      }
+    },
+    {
+      "word": "Invalidate",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To make something not valid or legally acceptable",
+      "example": "The contract was invalidated by the court.",
+      "chinese": {
+        "meaning": "使無效",
+        "example": "合同被法院判定無效。"
+      }
+    },
+    {
+      "word": "Invent",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To create something that has never existed before",
+      "example": "He invented a new kind of engine.",
+      "chinese": {
+        "meaning": "發明",
+        "example": "他發明了一種新型引擎。"
+      }
+    },
+    {
+      "word": "Invest",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To put money or effort into something to achieve a result",
+      "example": "She invested a lot of time in her studies.",
+      "chinese": {
+        "meaning": "投資",
+        "example": "她在學業上投入了很多時間。"
+      }
+    },
+    {
+      "word": "Investigate",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To examine or look into something carefully",
+      "example": "The police are investigating the crime.",
+      "chinese": {
+        "meaning": "調查",
+        "example": "警方正在調查這起犯罪。"
+      }
+    },
+    {
+      "word": "Invigorate",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To make someone feel more lively or energetic",
+      "example": "A good night's sleep invigorates the body.",
+      "chinese": {
+        "meaning": "使有活力",
+        "example": "良好的睡眠使身體充滿活力。"
+      }
+    },
+    {
+      "word": "Invite",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To ask someone to go somewhere or do something",
+      "example": "She invited me to her birthday party.",
+      "chinese": {
+        "meaning": "邀請",
+        "example": "她邀請我參加她的生日派對。"
+      }
+    },
+    {
+      "word": "Involve",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To include someone or something in an activity or situation",
+      "example": "The project involves students from different schools.",
+      "chinese": {
+        "meaning": "涉及",
+        "example": "這個項目涉及來自不同學校的學生。"
+      }
+    },
+    {
+      "word": "Iron",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To press clothes with a heated iron to remove wrinkles",
+      "example": "She ironed her shirt before the interview.",
+      "chinese": {
+        "meaning": "熨燙",
+        "example": "她在面試前熨燙了襯衫。"
+      }
+    },
+    {
+      "word": "Isolate",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To separate something or someone from others",
+      "example": "The patient was isolated to prevent infection.",
+      "chinese": {
+        "meaning": "隔離",
+        "example": "為了防止感染，病人被隔離了。"
+      }
+    },
+    {
+      "word": "Issue",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To officially give out or distribute something",
+      "example": "The school issued new textbooks to students.",
+      "chinese": {
+        "meaning": "發放",
+        "example": "學校向學生發放了新課本。"
+      }
+    },
+    {
+      "word": "Itemize",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To list things separately",
+      "example": "Please itemize all your expenses for the trip.",
+      "chinese": {
+        "meaning": "逐項列出",
+        "example": "請將你旅行的所有開銷逐項列出。"
+      }
+    }
+  ]
 }

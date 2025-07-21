@@ -1,3 +1,356 @@
 {
-    
+  "words": [
+    {
+      "word": "Nab",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To catch or seize suddenly",
+      "example": "The police nabbed the thief.",
+      "chinese": {
+        "meaning": "逮捕；抓住",
+        "example": "警察逮捕了小偷。"
+      }
+    },
+    {
+      "word": "Nag",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To repeatedly complain or ask someone to do something",
+      "example": "She nagged him to finish his homework.",
+      "chinese": {
+        "meaning": "嘮叨；不停地催促",
+        "example": "她不停地催他做作業。"
+      }
+    },
+    {
+      "word": "Name",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To identify or specify something or someone by name",
+      "example": "Can you name the capitals of these countries?",
+      "chinese": {
+        "meaning": "命名；指出",
+        "example": "你能說出這些國家的首都嗎？"
+      }
+    },
+    {
+      "word": "Narrate",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To tell a story or describe a series of events",
+      "example": "She narrated the events of her trip.",
+      "chinese": {
+        "meaning": "敘述",
+        "example": "她敘述了她旅途中的經歷。"
+      }
+    },
+    {
+      "word": "Narrow",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To become or make less wide",
+      "example": "They narrowed the list of candidates.",
+      "chinese": {
+        "meaning": "縮小；變窄",
+        "example": "他們縮小了候選人名單。"
+      }
+    },
+    {
+      "word": "Narrowcast",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To transmit a program to a specific, limited audience",
+      "example": "The channel narrowcasts sports events to local fans.",
+      "chinese": {
+        "meaning": "針對特定對象播送",
+        "example": "該頻道針對本地球迷播送體育賽事。"
+      }
+    },
+    {
+      "word": "Navigate",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To find or direct a way through an area",
+      "example": "They navigated through the dense forest.",
+      "chinese": {
+        "meaning": "導航；引導",
+        "example": "他們穿越茂密的森林。"
+      }
+    },
+    {
+      "word": "Necessitate",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To make something necessary",
+      "example": "His injury necessitated surgery.",
+      "chinese": {
+        "meaning": "使成為必需",
+        "example": "他的傷勢需要手術。"
+      }
+    },
+    {
+      "word": "Negate",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To make something ineffective or invalid",
+      "example": "The evidence negated his alibi.",
+      "chinese": {
+        "meaning": "否定；使無效",
+        "example": "證據推翻了他的不在場證明。"
+      }
+    },
+    {
+      "word": "Neglect",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To fail to care for or attend to something",
+      "example": "He neglected his homework.",
+      "chinese": {
+        "meaning": "忽視；疏忽",
+        "example": "他忽略了作業。"
+      }
+    },
+    {
+      "word": "Negotiate",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To discuss in order to reach an agreement",
+      "example": "The countries negotiated a trade deal.",
+      "chinese": {
+        "meaning": "談判",
+        "example": "兩國進行了貿易談判。"
+      }
+    },
+    {
+      "word": "Nest",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To build or settle into a nest or cozy space",
+      "example": "The birds nested in the tree.",
+      "chinese": {
+        "meaning": "築巢",
+        "example": "鳥兒在樹上築巢。"
+      }
+    },
+    {
+      "word": "Nestle",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To settle or lie comfortably within or against something",
+      "example": "The child nestled in her mother's arms.",
+      "chinese": {
+        "meaning": "依偎；舒適地安頓",
+        "example": "孩子依偎在母親懷裡。"
+      }
+    },
+    {
+      "word": "Net",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To catch something with a net",
+      "example": "The fisherman netted a large salmon.",
+      "chinese": {
+        "meaning": "用網捕捉",
+        "example": "漁夫用網捕到一條大鮭魚。"
+      }
+    },
+    {
+      "word": "Network",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To interact with others to exchange information and develop contacts",
+      "example": "She networked with professionals at the conference.",
+      "chinese": {
+        "meaning": "建立人脈",
+        "example": "她在會議上建立了專業人脈。"
+      }
+    },
+    {
+      "word": "Neutralize",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To make something ineffective or harmless",
+      "example": "The medicine neutralizes the acid.",
+      "chinese": {
+        "meaning": "中和；使失效",
+        "example": "這藥物中和了酸性。"
+      }
+    },
+    {
+      "word": "Nip",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To bite or pinch sharply",
+      "example": "The cold wind nipped at my cheeks.",
+      "chinese": {
+        "meaning": "咬；夾；掐",
+        "example": "寒風刺痛了我的臉頰。"
+      }
+    },
+    {
+      "word": "Nix",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To reject or put a stop to something",
+      "example": "The manager nixed the proposal.",
+      "chinese": {
+        "meaning": "否決；取消",
+        "example": "經理否決了這項提議。"
+      }
+    },
+    {
+      "word": "Nod",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To move your head up and down as a way of agreeing",
+      "example": "He nodded in agreement.",
+      "chinese": {
+        "meaning": "點頭",
+        "example": "他點頭表示同意。"
+      }
+    },
+    {
+      "word": "Nominate",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To formally suggest someone for a position or award",
+      "example": "She was nominated for the leadership role.",
+      "chinese": {
+        "meaning": "提名",
+        "example": "她被提名為領導人選。"
+      }
+    },
+    {
+      "word": "Normalize",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To make or become normal or regular",
+      "example": "The two countries normalized diplomatic relations.",
+      "chinese": {
+        "meaning": "正常化",
+        "example": "兩國恢復了正常外交關係。"
+      }
+    },
+    {
+      "word": "Notate",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To write down using symbols, especially in music",
+      "example": "The composer notated the melody.",
+      "chinese": {
+        "meaning": "記譜；用符號記錄",
+        "example": "作曲家把旋律記了下來。"
+      }
+    },
+    {
+      "word": "Note",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To observe or mention something",
+      "example": "Please note the changes to the schedule.",
+      "chinese": {
+        "meaning": "注意；指出",
+        "example": "請注意時間表的變更。"
+      }
+    },
+    {
+      "word": "Notice",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To become aware of something or someone",
+      "example": "Did you notice her new haircut?",
+      "chinese": {
+        "meaning": "注意到",
+        "example": "你注意到她的新髮型了嗎？"
+      }
+    },
+    {
+      "word": "Notify",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To formally tell someone about something",
+      "example": "Please notify me if you are unable to attend.",
+      "chinese": {
+        "meaning": "通知",
+        "example": "如果你無法出席，請通知我。"
+      }
+    },
+    {
+      "word": "Nourish",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To provide food or other substances needed for growth",
+      "example": "The mother nourished her baby with care.",
+      "chinese": {
+        "meaning": "滋養",
+        "example": "母親細心地滋養著她的嬰兒。"
+      }
+    },
+    {
+      "word": "Nudge",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To gently push someone or something",
+      "example": "She nudged him to wake him up.",
+      "chinese": {
+        "meaning": "輕推",
+        "example": "她輕推他讓他醒來。"
+      }
+    },
+    {
+      "word": "Nullify",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To make something legally void or ineffective",
+      "example": "The court nullified the previous ruling.",
+      "chinese": {
+        "meaning": "使無效",
+        "example": "法院使之前的裁決無效。"
+      }
+    },
+    {
+      "word": "Numb",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To make someone unable to feel anything",
+      "example": "The cold wind numbed my fingers.",
+      "chinese": {
+        "meaning": "使麻木",
+        "example": "寒風讓我的手指麻木。"
+      }
+    },
+    {
+      "word": "Number",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To assign or count items using numbers",
+      "example": "The pages are numbered for easy reference.",
+      "chinese": {
+        "meaning": "編號",
+        "example": "這些頁面都已編號以方便參考。"
+      }
+    },
+    {
+      "word": "Nurture",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To care for and encourage the development of someone or something",
+      "example": "Teachers nurture students' potential.",
+      "chinese": {
+        "meaning": "培育",
+        "example": "老師培育學生的潛能。"
+      }
+    },
+    {
+      "word": "Nuzzle",
+      "type": "verb",
+      "letter": "N",
+      "meaning": "To gently push or rub your nose or face against someone or something",
+      "example": "The puppy nuzzled its owner's hand.",
+      "chinese": {
+        "meaning": "用鼻子輕觸",
+        "example": "小狗用鼻子輕觸主人的手。"
+      }
+    }
+  ]
 }

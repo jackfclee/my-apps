@@ -1,3 +1,576 @@
 {
-    
+  "words": [
+    {
+      "word": "Sacrifice",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To give up something valued for the sake of others",
+      "example": "She sacrificed her free time to help her friend.",
+      "chinese": {
+        "meaning": "犧牲",
+        "example": "她犧牲了自己的空閒時間去幫助朋友。"
+      }
+    },
+    {
+      "word": "Salvage",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To save something from being lost or destroyed",
+      "example": "They managed to salvage important data after the crash.",
+      "chinese": {
+        "meaning": "搶救",
+        "example": "他們在系統崩潰後搶救了重要數據。"
+      }
+    },
+    {
+      "word": "Sanction",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To approve or allow officially",
+      "example": "The board sanctioned the new policy.",
+      "chinese": {
+        "meaning": "批准",
+        "example": "董事會批准了新政策。"
+      }
+    },
+    {
+      "word": "Satisfy",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To meet the expectations or needs of someone",
+      "example": "The product satisfied all customer requirements.",
+      "chinese": {
+        "meaning": "滿足",
+        "example": "這產品滿足了所有顧客的需求。"
+      }
+    },
+    {
+      "word": "Save",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To keep something from being lost or wasted",
+      "example": "She saved money for her education.",
+      "chinese": {
+        "meaning": "儲蓄；拯救",
+        "example": "她為了教育儲蓄。"
+      }
+    },
+    {
+      "word": "Scan",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To look over something quickly or carefully",
+      "example": "He scanned the document for errors.",
+      "chinese": {
+        "meaning": "掃描；瀏覽",
+        "example": "他掃描文件找錯誤。"
+      }
+    },
+    {
+      "word": "Schedule",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To arrange for something to happen at a particular time",
+      "example": "The meeting is scheduled for Friday.",
+      "chinese": {
+        "meaning": "安排",
+        "example": "會議安排在星期五。"
+      }
+    },
+    {
+      "word": "Scream",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To cry out loudly",
+      "example": "The fans screamed with excitement.",
+      "chinese": {
+        "meaning": "尖叫",
+        "example": "粉絲們興奮地尖叫。"
+      }
+    },
+    {
+      "word": "Scrutinize",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To examine closely and carefully",
+      "example": "The teacher scrutinized the essay for errors.",
+      "chinese": {
+        "meaning": "仔細檢查",
+        "example": "老師仔細檢查了這篇文章的錯誤。"
+      }
+    },
+    {
+      "word": "Search",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To try to find something",
+      "example": "They searched the room for clues.",
+      "chinese": {
+        "meaning": "搜尋",
+        "example": "他們在房間裡搜尋線索。"
+      }
+    },
+    {
+      "word": "Secure",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To obtain or make safe",
+      "example": "She secured a scholarship to study abroad.",
+      "chinese": {
+        "meaning": "獲得；保護",
+        "example": "她獲得了出國留學的獎學金。"
+      }
+    },
+    {
+      "word": "Seize",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To take hold of suddenly or forcibly",
+      "example": "Police seized the stolen goods.",
+      "chinese": {
+        "meaning": "奪取；抓住",
+        "example": "警方奪取了贓物。"
+      }
+    },
+    {
+      "word": "Select",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To choose from a group",
+      "example": "Please select one of the options.",
+      "chinese": {
+        "meaning": "選擇",
+        "example": "請選擇其中一個選項。"
+      }
+    },
+    {
+      "word": "Separate",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To set or keep apart",
+      "example": "They separated the recyclable waste.",
+      "chinese": {
+        "meaning": "分開",
+        "example": "他們分開可回收垃圾。"
+      }
+    },
+    {
+      "word": "Serve",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To provide a service or help",
+      "example": "He served as the team captain.",
+      "chinese": {
+        "meaning": "服務；擔任",
+        "example": "他擔任隊長。"
+      }
+    },
+    {
+      "word": "Settle",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To resolve or come to an agreement",
+      "example": "They settled the dispute peacefully.",
+      "chinese": {
+        "meaning": "解決；定居",
+        "example": "他們和平解決了爭端。"
+      }
+    },
+    {
+      "word": "Shape",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To influence or determine the form of something",
+      "example": "Experiences shape our personality.",
+      "chinese": {
+        "meaning": "塑造",
+        "example": "經歷塑造我們的個性。"
+      }
+    },
+    {
+      "word": "Share",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To use or enjoy something together with others",
+      "example": "The students shared their notes.",
+      "chinese": {
+        "meaning": "分享",
+        "example": "學生們分享了他們的筆記。"
+      }
+    },
+    {
+      "word": "Shift",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To move or change position",
+      "example": "The focus of the discussion shifted quickly.",
+      "chinese": {
+        "meaning": "轉移",
+        "example": "討論的重點很快轉移了。"
+      }
+    },
+    {
+      "word": "Show",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To display or demonstrate something",
+      "example": "The results show an improvement.",
+      "chinese": {
+        "meaning": "顯示",
+        "example": "結果顯示有所改善。"
+      }
+    },
+    {
+      "word": "Shrink",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To become or make smaller in size",
+      "example": "The market shrank during the recession.",
+      "chinese": {
+        "meaning": "縮小",
+        "example": "經濟衰退期間市場縮小了。"
+      }
+    },
+    {
+      "word": "Signal",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To indicate or make known",
+      "example": "He signaled for help.",
+      "chinese": {
+        "meaning": "示意；發信號",
+        "example": "他示意求救。"
+      }
+    },
+    {
+      "word": "Simplify",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To make something easier to do or understand",
+      "example": "The teacher simplified the explanation.",
+      "chinese": {
+        "meaning": "簡化",
+        "example": "老師簡化了解釋。"
+      }
+    },
+    {
+      "word": "Simulate",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To imitate or replicate the appearance or character of something",
+      "example": "The software simulates real driving conditions.",
+      "chinese": {
+        "meaning": "模擬",
+        "example": "這軟體模擬了真實的駕駛情況。"
+      }
+    },
+    {
+      "word": "Sketch",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To make a quick, rough drawing",
+      "example": "She sketched the landscape in her notebook.",
+      "chinese": {
+        "meaning": "素描；草繪",
+        "example": "她在筆記本上素描了風景。"
+      }
+    },
+    {
+      "word": "Skip",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To move ahead or omit something",
+      "example": "He skipped breakfast this morning.",
+      "chinese": {
+        "meaning": "跳過",
+        "example": "他今天早上跳過了早餐。"
+      }
+    },
+    {
+      "word": "Slander",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To make false and damaging statements about someone",
+      "example": "He was sued for slandering his colleague.",
+      "chinese": {
+        "meaning": "誹謗",
+        "example": "他因誹謗同事而被起訴。"
+      }
+    },
+    {
+      "word": "Soar",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To rise rapidly or fly high",
+      "example": "Prices soared during the crisis.",
+      "chinese": {
+        "meaning": "飆升；翱翔",
+        "example": "危機期間價格飆升。"
+      }
+    },
+    {
+      "word": "Solve",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To find an answer to a problem",
+      "example": "She solved the equation quickly.",
+      "chinese": {
+        "meaning": "解決",
+        "example": "她很快解決了這個方程式。"
+      }
+    },
+    {
+      "word": "Spark",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To cause something to begin or happen",
+      "example": "The debate sparked public interest.",
+      "chinese": {
+        "meaning": "引發",
+        "example": "這場辯論引發了公眾關注。"
+      }
+    },
+    {
+      "word": "Specify",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To state something clearly and in detail",
+      "example": "The rules specify the criteria for selection.",
+      "chinese": {
+        "meaning": "明確說明",
+        "example": "規則明確說明了選擇標準。"
+      }
+    },
+    {
+      "word": "Spill",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To accidentally pour liquid out of a container",
+      "example": "She spilled coffee on the table.",
+      "chinese": {
+        "meaning": "灑出",
+        "example": "她把咖啡灑在桌子上。"
+      }
+    },
+    {
+      "word": "Sponsor",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To support financially or be responsible for",
+      "example": "The company sponsored the event.",
+      "chinese": {
+        "meaning": "贊助",
+        "example": "公司贊助了這個活動。"
+      }
+    },
+    {
+      "word": "Stabilize",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To make or become steady",
+      "example": "The government tried to stabilize the economy.",
+      "chinese": {
+        "meaning": "穩定",
+        "example": "政府試圖穩定經濟。"
+      }
+    },
+    {
+      "word": "Standardize",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To make things of the same type have the same features or qualities",
+      "example": "They standardized the testing procedures.",
+      "chinese": {
+        "meaning": "標準化",
+        "example": "他們標準化了測試流程。"
+      }
+    },
+    {
+      "word": "Stimulate",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To encourage something to happen, develop, or improve",
+      "example": "The new policy stimulated economic growth.",
+      "chinese": {
+        "meaning": "刺激",
+        "example": "新政策刺激了經濟增長。"
+      }
+    },
+    {
+      "word": "Strengthen",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To make something stronger",
+      "example": "Exercise strengthens the muscles.",
+      "chinese": {
+        "meaning": "加強",
+        "example": "運動能加強肌肉。"
+      }
+    },
+    {
+      "word": "Structure",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To arrange or organize in a clear way",
+      "example": "Students should structure their essays logically.",
+      "chinese": {
+        "meaning": "組織；安排",
+        "example": "學生應該有邏輯地組織文章。"
+      }
+    },
+    {
+      "word": "Struggle",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To try very hard to do something difficult",
+      "example": "He struggled to finish the assignment on time.",
+      "chinese": {
+        "meaning": "奮鬥；掙扎",
+        "example": "他努力按時完成作業。"
+      }
+    },
+    {
+      "word": "Submit",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To give or present something for consideration",
+      "example": "Please submit your application by Friday.",
+      "chinese": {
+        "meaning": "提交",
+        "example": "請在星期五前提交申請。"
+      }
+    },
+    {
+      "word": "Substitute",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To use something or someone instead of another",
+      "example": "You can substitute honey for sugar in this recipe.",
+      "chinese": {
+        "meaning": "代替",
+        "example": "這個食譜可以用蜂蜜代替糖。"
+      }
+    },
+    {
+      "word": "Succeed",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To achieve the desired aim or result",
+      "example": "She succeeded in passing all her exams.",
+      "chinese": {
+        "meaning": "成功",
+        "example": "她成功通過了所有考試。"
+      }
+    },
+    {
+      "word": "Summarize",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To give a brief statement of the main points",
+      "example": "Can you summarize the main idea?",
+      "chinese": {
+        "meaning": "總結",
+        "example": "你能總結一下主要思想嗎？"
+      }
+    },
+    {
+      "word": "Supply",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To provide something that is needed",
+      "example": "The company supplies water to the city.",
+      "chinese": {
+        "meaning": "供應",
+        "example": "這家公司為城市供應水。"
+      }
+    },
+    {
+      "word": "Support",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To give assistance or help",
+      "example": "Parents support their children in many ways.",
+      "chinese": {
+        "meaning": "支持",
+        "example": "父母以多種方式支持孩子。"
+      }
+    },
+    {
+      "word": "Surpass",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To exceed or go beyond",
+      "example": "Her performance surpassed expectations.",
+      "chinese": {
+        "meaning": "超越",
+        "example": "她的表現超出了預期。"
+      }
+    },
+    {
+      "word": "Surround",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To be all around something or someone",
+      "example": "The police surrounded the building.",
+      "chinese": {
+        "meaning": "包圍",
+        "example": "警方包圍了那棟建築。"
+      }
+    },
+    {
+      "word": "Suspect",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To believe that something may be true, especially something bad",
+      "example": "I suspect he is not telling the truth.",
+      "chinese": {
+        "meaning": "懷疑",
+        "example": "我懷疑他沒說實話。"
+      }
+    },
+    {
+      "word": "Sustain",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To keep something going over time",
+      "example": "It is hard to sustain motivation all year.",
+      "chinese": {
+        "meaning": "維持",
+        "example": "全年維持動力很困難。"
+      }
+    },
+    {
+      "word": "Symbolize",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To represent something by a symbol",
+      "example": "The dove symbolizes peace.",
+      "chinese": {
+        "meaning": "象徵",
+        "example": "鴿子象徵和平。"
+      }
+    },
+    {
+      "word": "Synthesize",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To combine different things to make something new",
+      "example": "The report synthesizes data from many sources.",
+      "chinese": {
+        "meaning": "綜合；合成",
+        "example": "這份報告綜合了多個來源的數據。"
+      }
+    },
+    {
+      "word": "Systematize",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To arrange according to an organized system",
+      "example": "We need to systematize our filing process.",
+      "chinese": {
+        "meaning": "系統化",
+        "example": "我們需要將歸檔流程系統化。"
+      }
+    }
+  ]
 }

@@ -1,3 +1,587 @@
 {
-    
+  "words": [
+    {
+      "word": "Raise",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To lift or move something to a higher position",
+      "example": "The student raised her hand to ask a question.",
+      "chinese": {
+        "meaning": "舉起；提出",
+        "example": "學生舉手提問。"
+      }
+    },
+    {
+      "word": "Rank",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To place someone or something in a particular position or level",
+      "example": "He ranked third in the competition.",
+      "chinese": {
+        "meaning": "排名",
+        "example": "他在比賽中排名第三。"
+      }
+    },
+    {
+      "word": "React",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To respond to something with a feeling or action",
+      "example": "The audience reacted positively to the performance.",
+      "chinese": {
+        "meaning": "反應",
+        "example": "觀眾對表演反應熱烈。"
+      }
+    },
+    {
+      "word": "Read",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To look at and understand written words",
+      "example": "She reads a new book every week.",
+      "chinese": {
+        "meaning": "閱讀",
+        "example": "她每週讀一本新書。"
+      }
+    },
+    {
+      "word": "Realize",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To become aware or understand something clearly",
+      "example": "He realized his mistake too late.",
+      "chinese": {
+        "meaning": "意識到",
+        "example": "他太遲才意識到自己的錯誤。"
+      }
+    },
+    {
+      "word": "Reason",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To think logically in order to form a conclusion",
+      "example": "She reasoned that it would be safer to wait.",
+      "chinese": {
+        "meaning": "推理",
+        "example": "她推斷等待會更安全。"
+      }
+    },
+    {
+      "word": "Rebuild",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To construct again after damage or destruction",
+      "example": "They rebuilt the town after the flood.",
+      "chinese": {
+        "meaning": "重建",
+        "example": "洪水過後他們重建了這個城鎮。"
+      }
+    },
+    {
+      "word": "Recall",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To remember something from the past",
+      "example": "I recall meeting her at the conference.",
+      "chinese": {
+        "meaning": "回憶",
+        "example": "我記得在會議上遇見她。"
+      }
+    },
+    {
+      "word": "Receive",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To get or be given something",
+      "example": "She received a scholarship for her studies.",
+      "chinese": {
+        "meaning": "收到；接受",
+        "example": "她獲得了獎學金。"
+      }
+    },
+    {
+      "word": "Recognize",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To identify someone or something seen before",
+      "example": "He recognized her voice instantly.",
+      "chinese": {
+        "meaning": "認出",
+        "example": "他立刻認出了她的聲音。"
+      }
+    },
+    {
+      "word": "Recommend",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To suggest something as useful or suitable",
+      "example": "The teacher recommended this book to the class.",
+      "chinese": {
+        "meaning": "推薦",
+        "example": "老師向班上推薦了這本書。"
+      }
+    },
+    {
+      "word": "Reflect",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To think deeply or carefully about something",
+      "example": "Students were asked to reflect on their progress.",
+      "chinese": {
+        "meaning": "反思",
+        "example": "學生被要求反思自己的進步。"
+      }
+    },
+    {
+      "word": "Refuse",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To say no to something offered or requested",
+      "example": "He refused to answer the question.",
+      "chinese": {
+        "meaning": "拒絕",
+        "example": "他拒絕回答這個問題。"
+      }
+    },
+    {
+      "word": "Regret",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To feel sad or sorry about something you did or did not do",
+      "example": "She regretted not attending the lecture.",
+      "chinese": {
+        "meaning": "後悔",
+        "example": "她後悔沒參加那場講座。"
+      }
+    },
+    {
+      "word": "Reinforce",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make something stronger or more effective",
+      "example": "The study reinforced the theory with new evidence.",
+      "chinese": {
+        "meaning": "加強",
+        "example": "該研究以新證據加強了該理論。"
+      }
+    },
+    {
+      "word": "Relate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To show or make a connection between things",
+      "example": "Can you relate this theory to real-world examples?",
+      "chinese": {
+        "meaning": "聯繫",
+        "example": "你能將這個理論與現實例子聯繫起來嗎？"
+      }
+    },
+    {
+      "word": "Release",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To allow something to move, act, or flow freely",
+      "example": "The company released a new product last month.",
+      "chinese": {
+        "meaning": "釋放；發表",
+        "example": "公司上月發布了一款新產品。"
+      }
+    },
+    {
+      "word": "Rely",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To depend on or trust someone or something",
+      "example": "Students often rely on the library for resources.",
+      "chinese": {
+        "meaning": "依賴",
+        "example": "學生經常依賴圖書館的資源。"
+      }
+    },
+    {
+      "word": "Remain",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To continue to exist or stay in the same state",
+      "example": "Many questions remain unanswered.",
+      "chinese": {
+        "meaning": "保持；依然",
+        "example": "許多問題仍未解答。"
+      }
+    },
+    {
+      "word": "Remove",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To take something away from a place",
+      "example": "Please remove your shoes before entering.",
+      "chinese": {
+        "meaning": "移除",
+        "example": "請在進入前脫鞋。"
+      }
+    },
+    {
+      "word": "Render",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To cause someone or something to be in a particular state",
+      "example": "The evidence rendered his argument invalid.",
+      "chinese": {
+        "meaning": "使成為",
+        "example": "證據使他的論點無效。"
+      }
+    },
+    {
+      "word": "Renew",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make something new again or extend its validity",
+      "example": "You need to renew your library card annually.",
+      "chinese": {
+        "meaning": "更新",
+        "example": "你需要每年更新圖書證。"
+      }
+    },
+    {
+      "word": "Reorganize",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To arrange something in a new way",
+      "example": "The school decided to reorganize the timetable.",
+      "chinese": {
+        "meaning": "重新組織",
+        "example": "學校決定重新安排課表。"
+      }
+    },
+    {
+      "word": "Repeat",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To say or do something again",
+      "example": "Please repeat the question.",
+      "chinese": {
+        "meaning": "重複",
+        "example": "請重複問題。"
+      }
+    },
+    {
+      "word": "Replace",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To take the place of something",
+      "example": "The teacher replaced the old textbooks with new ones.",
+      "chinese": {
+        "meaning": "替換",
+        "example": "老師用新課本替換了舊課本。"
+      }
+    },
+    {
+      "word": "Report",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To give a spoken or written account of something",
+      "example": "Students reported their findings to the class.",
+      "chinese": {
+        "meaning": "報告",
+        "example": "學生向全班報告了他們的發現。"
+      }
+    },
+    {
+      "word": "Represent",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To act or speak for someone or something",
+      "example": "He was chosen to represent the school at the event.",
+      "chinese": {
+        "meaning": "代表",
+        "example": "他被選為學校代表參加活動。"
+      }
+    },
+    {
+      "word": "Reproduce",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make a copy of something",
+      "example": "It is illegal to reproduce copyrighted material.",
+      "chinese": {
+        "meaning": "複製",
+        "example": "複製有版權的資料是違法的。"
+      }
+    },
+    {
+      "word": "Request",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To ask for something politely or formally",
+      "example": "She requested more time to complete the assignment.",
+      "chinese": {
+        "meaning": "請求",
+        "example": "她請求延長作業時間。"
+      }
+    },
+    {
+      "word": "Require",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To need something for a particular purpose",
+      "example": "The course requires basic computer skills.",
+      "chinese": {
+        "meaning": "需要",
+        "example": "這門課需要基本的電腦技能。"
+      }
+    },
+    {
+      "word": "Rescue",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To save someone or something from danger",
+      "example": "Firefighters rescued the cat from the tree.",
+      "chinese": {
+        "meaning": "救援",
+        "example": "消防員從樹上救下了貓。"
+      }
+    },
+    {
+      "word": "Research",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To study a subject in detail to discover new information",
+      "example": "She is researching the effects of climate change.",
+      "chinese": {
+        "meaning": "研究",
+        "example": "她正在研究氣候變化的影響。"
+      }
+    },
+    {
+      "word": "Resemble",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To look like or be similar to someone or something",
+      "example": "The painting resembles the original closely.",
+      "chinese": {
+        "meaning": "像；類似",
+        "example": "這幅畫與原作非常相像。"
+      }
+    },
+    {
+      "word": "Resist",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To refuse to accept or be changed by something",
+      "example": "He resisted the temptation to give up.",
+      "chinese": {
+        "meaning": "抵抗",
+        "example": "他抗拒了放棄的誘惑。"
+      }
+    },
+    {
+      "word": "Resolve",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To find a solution to a problem",
+      "example": "They resolved the issue after a long discussion.",
+      "chinese": {
+        "meaning": "解決",
+        "example": "經過長時間討論，他們解決了這個問題。"
+      }
+    },
+    {
+      "word": "Respond",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To reply or react to something",
+      "example": "Please respond to the invitation by Friday.",
+      "chinese": {
+        "meaning": "回應",
+        "example": "請於週五前回應邀請。"
+      }
+    },
+    {
+      "word": "Restore",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To bring something back to its original condition",
+      "example": "The museum restored the ancient artifact.",
+      "chinese": {
+        "meaning": "修復",
+        "example": "博物館修復了這件古物。"
+      }
+    },
+    {
+      "word": "Restrict",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To limit the amount or range of something",
+      "example": "The school restricted mobile phone use during class.",
+      "chinese": {
+        "meaning": "限制",
+        "example": "學校限制上課期間使用手機。"
+      }
+    },
+    {
+      "word": "Result",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To happen because of something else",
+      "example": "Poor planning can result in failure.",
+      "chinese": {
+        "meaning": "導致",
+        "example": "規劃不周可能導致失敗。"
+      }
+    },
+    {
+      "word": "Retain",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To keep or continue to have something",
+      "example": "It is important to retain information for exams.",
+      "chinese": {
+        "meaning": "保留",
+        "example": "在考試中保留資訊很重要。"
+      }
+    },
+    {
+      "word": "Retire",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To stop working permanently, usually because of age",
+      "example": "She plans to retire after thirty years of teaching.",
+      "chinese": {
+        "meaning": "退休",
+        "example": "她計劃教書三十年後退休。"
+      }
+    },
+    {
+      "word": "Retrieve",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To get something back",
+      "example": "You can retrieve the file from the backup.",
+      "chinese": {
+        "meaning": "取回",
+        "example": "你可以從備份中取回檔案。"
+      }
+    },
+    {
+      "word": "Reveal",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make something known or visible",
+      "example": "The data revealed an unexpected trend.",
+      "chinese": {
+        "meaning": "揭示",
+        "example": "數據揭示了一個意想不到的趨勢。"
+      }
+    },
+    {
+      "word": "Reverse",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To change something to the opposite direction or state",
+      "example": "The decision was reversed after further review.",
+      "chinese": {
+        "meaning": "逆轉",
+        "example": "進一步審查後決定被逆轉。"
+      }
+    },
+    {
+      "word": "Review",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To examine or assess something again",
+      "example": "Please review your notes before the exam.",
+      "chinese": {
+        "meaning": "複習；審查",
+        "example": "考試前請複習筆記。"
+      }
+    },
+    {
+      "word": "Revise",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To change or correct something, especially written work",
+      "example": "You should revise your essay before submitting it.",
+      "chinese": {
+        "meaning": "修改；複習",
+        "example": "你應該在提交前修改你的文章。"
+      }
+    },
+    {
+      "word": "Revolve",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To move around a central point",
+      "example": "The Earth revolves around the Sun.",
+      "chinese": {
+        "meaning": "繞著…轉",
+        "example": "地球繞著太陽轉。"
+      }
+    },
+    {
+      "word": "Reward",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To give something in recognition of effort or achievement",
+      "example": "The school rewards students for good behavior.",
+      "chinese": {
+        "meaning": "獎勵",
+        "example": "學校會獎勵表現良好的學生。"
+      }
+    },
+    {
+      "word": "Rid",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To free someone or something from something unwanted",
+      "example": "He tried to rid the essay of errors.",
+      "chinese": {
+        "meaning": "擺脫",
+        "example": "他試圖讓文章沒有錯誤。"
+      }
+    },
+    {
+      "word": "Ruin",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To spoil or destroy something completely",
+      "example": "Heavy rain ruined the outdoor event.",
+      "chinese": {
+        "meaning": "毀壞",
+        "example": "大雨毀壞了戶外活動。"
+      }
+    },
+    {
+      "word": "Rule",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To control or have authority over people or an area",
+      "example": "The teacher ruled the class firmly but fairly.",
+      "chinese": {
+        "meaning": "統治；支配",
+        "example": "老師嚴格但公正地管理班級。"
+      }
+    },
+    {
+      "word": "Run",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To move quickly by foot; to manage or operate",
+      "example": "She runs a small business and runs every morning.",
+      "chinese": {
+        "meaning": "跑步；經營",
+        "example": "她經營一家小公司，也每天早晨跑步。"
+      }
+    },
+    {
+      "word": "Rush",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To do something very quickly",
+      "example": "Don’t rush your answers during the exam.",
+      "chinese": {
+        "meaning": "匆忙",
+        "example": "考試時不要匆忙作答。"
+      }
+    }
+  ]
 }

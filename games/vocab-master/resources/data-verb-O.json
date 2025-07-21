@@ -1,3 +1,532 @@
 {
-    
+  "words": [
+    {
+      "word": "Obey",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To follow the commands or rules of someone or something",
+      "example": "The children were taught to obey their teachers.",
+      "chinese": {
+        "meaning": "服從",
+        "example": "孩子們被教導要服從老師。"
+      }
+    },
+    {
+      "word": "Object",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To express or feel disapproval or opposition",
+      "example": "Many people objected to the new policy.",
+      "chinese": {
+        "meaning": "反對",
+        "example": "很多人反對這項新政策。"
+      }
+    },
+    {
+      "word": "Oblige",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To require or force someone to do something",
+      "example": "The law obliges companies to pay taxes.",
+      "chinese": {
+        "meaning": "迫使；使有義務",
+        "example": "法律規定公司必須納稅。"
+      }
+    },
+    {
+      "word": "Obscure",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To make unclear or difficult to see",
+      "example": "Clouds obscured the sun.",
+      "chinese": {
+        "meaning": "使模糊",
+        "example": "雲遮住了太陽。"
+      }
+    },
+    {
+      "word": "Observe",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To notice or watch something carefully",
+      "example": "She observed the behavior of the animals.",
+      "chinese": {
+        "meaning": "觀察",
+        "example": "她觀察動物的行為。"
+      }
+    },
+    {
+      "word": "Obsess",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To think about something all the time",
+      "example": "He tends to obsess over details.",
+      "chinese": {
+        "meaning": "著迷；困擾",
+        "example": "他總是對細節過於著迷。"
+      }
+    },
+    {
+      "word": "Obstruct",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To block or get in the way of something",
+      "example": "The fallen tree obstructed the road.",
+      "chinese": {
+        "meaning": "阻礙",
+        "example": "倒下的樹阻礙了道路。"
+      }
+    },
+    {
+      "word": "Obtain",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To get or acquire something",
+      "example": "You need to obtain permission before entering.",
+      "chinese": {
+        "meaning": "獲得",
+        "example": "進入前你需要獲得許可。"
+      }
+    },
+    {
+      "word": "Occupy",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To take up space, time, or attention",
+      "example": "The students occupied the library for studying.",
+      "chinese": {
+        "meaning": "佔據",
+        "example": "學生佔用了圖書館進行學習。"
+      }
+    },
+    {
+      "word": "Occur",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To happen or take place",
+      "example": "Accidents occur frequently on this road.",
+      "chinese": {
+        "meaning": "發生",
+        "example": "這條路經常發生事故。"
+      }
+    },
+    {
+      "word": "Offend",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To cause someone to feel hurt or upset",
+      "example": "He didn't mean to offend anyone.",
+      "chinese": {
+        "meaning": "冒犯",
+        "example": "他無意冒犯任何人。"
+      }
+    },
+    {
+      "word": "Offer",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To present or provide something for someone to accept or reject",
+      "example": "She offered to help with the project.",
+      "chinese": {
+        "meaning": "提供",
+        "example": "她提出幫忙這個項目。"
+      }
+    },
+    {
+      "word": "Offset",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To balance or counteract something",
+      "example": "The costs were offset by government grants.",
+      "chinese": {
+        "meaning": "抵消",
+        "example": "政府補助抵消了這些費用。"
+      }
+    },
+    {
+      "word": "Ogle",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To look at someone with strong interest or desire",
+      "example": "He was caught ogling at the new car.",
+      "chinese": {
+        "meaning": "色迷迷地看",
+        "example": "他被發現色迷迷地看著新車。"
+      }
+    },
+    {
+      "word": "Omit",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To leave out or exclude",
+      "example": "You should not omit any important details.",
+      "chinese": {
+        "meaning": "省略",
+        "example": "你不應該省略任何重要細節。"
+      }
+    },
+    {
+      "word": "Open",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To make something accessible or not closed",
+      "example": "Please open the window.",
+      "chinese": {
+        "meaning": "打開",
+        "example": "請打開窗戶。"
+      }
+    },
+    {
+      "word": "Operate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To function or cause to function",
+      "example": "The machine operates automatically.",
+      "chinese": {
+        "meaning": "操作；運作",
+        "example": "這台機器自動運作。"
+      }
+    },
+    {
+      "word": "Oppose",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To disagree with or resist",
+      "example": "They opposed the construction of the factory.",
+      "chinese": {
+        "meaning": "反對",
+        "example": "他們反對工廠的建設。"
+      }
+    },
+    {
+      "word": "Opt",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To choose or select",
+      "example": "She opted to study abroad.",
+      "chinese": {
+        "meaning": "選擇",
+        "example": "她選擇去國外留學。"
+      }
+    },
+    {
+      "word": "Order",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To request something or give a command",
+      "example": "He ordered a cup of coffee.",
+      "chinese": {
+        "meaning": "訂購；命令",
+        "example": "他點了一杯咖啡。"
+      }
+    },
+    {
+      "word": "Organize",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To arrange or structure systematically",
+      "example": "He organized the event successfully.",
+      "chinese": {
+        "meaning": "組織",
+        "example": "他成功地組織了這次活動。"
+      }
+    },
+    {
+      "word": "Originate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To begin or arise from a source",
+      "example": "The idea originated from ancient texts.",
+      "chinese": {
+        "meaning": "起源",
+        "example": "這個想法起源於古代文獻。"
+      }
+    },
+    {
+      "word": "Oscillate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To move back and forth in a regular rhythm",
+      "example": "The fan oscillates to cool the room.",
+      "chinese": {
+        "meaning": "擺動",
+        "example": "風扇來回擺動以冷卻房間。"
+      }
+    },
+    {
+      "word": "Outgrow",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To grow too big for something",
+      "example": "Children often outgrow their clothes quickly.",
+      "chinese": {
+        "meaning": "長得太大而不適合",
+        "example": "孩子們常常很快就穿不下衣服了。"
+      }
+    },
+    {
+      "word": "Outlast",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To last longer than something else",
+      "example": "This battery will outlast the others.",
+      "chinese": {
+        "meaning": "比...更耐久",
+        "example": "這塊電池會比其他的更耐用。"
+      }
+    },
+    {
+      "word": "Outlaw",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To make something illegal",
+      "example": "The government outlawed smoking in public places.",
+      "chinese": {
+        "meaning": "禁止；宣布...為非法",
+        "example": "政府禁止在公共場所吸煙。"
+      }
+    },
+    {
+      "word": "Outline",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To give a general description or summary",
+      "example": "Please outline your plan for the project.",
+      "chinese": {
+        "meaning": "概述",
+        "example": "請概述你的項目計劃。"
+      }
+    },
+    {
+      "word": "Outnumber",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To be more numerous than",
+      "example": "The students outnumber the teachers.",
+      "chinese": {
+        "meaning": "數量超過",
+        "example": "學生人數超過老師。"
+      }
+    },
+    {
+      "word": "Outperform",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To do better than someone or something",
+      "example": "Our team outperformed all expectations.",
+      "chinese": {
+        "meaning": "勝過",
+        "example": "我們的團隊超越了所有期望。"
+      }
+    },
+    {
+      "word": "Outshine",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To be much better than someone or something",
+      "example": "Her performance outshone all the others.",
+      "chinese": {
+        "meaning": "勝過",
+        "example": "她的表現勝過所有其他人。"
+      }
+    },
+    {
+      "word": "Outsmart",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To defeat or trick someone by being more intelligent",
+      "example": "He managed to outsmart his opponent.",
+      "chinese": {
+        "meaning": "智勝",
+        "example": "他成功地智勝了對手。"
+      }
+    },
+    {
+      "word": "Outweigh",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To be more important or significant than",
+      "example": "The benefits outweigh the risks.",
+      "chinese": {
+        "meaning": "比...更重要",
+        "example": "好處大於風險。"
+      }
+    },
+    {
+      "word": "Overcome",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To succeed in dealing with a difficulty",
+      "example": "She overcame her fear of public speaking.",
+      "chinese": {
+        "meaning": "克服",
+        "example": "她克服了對公開演講的恐懼。"
+      }
+    },
+    {
+      "word": "Overestimate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To judge something as being greater than it actually is",
+      "example": "We overestimated the time needed for the project.",
+      "chinese": {
+        "meaning": "高估",
+        "example": "我們高估了這個項目所需的時間。"
+      }
+    },
+    {
+      "word": "Overhaul",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To repair or improve something so that it works well",
+      "example": "The company overhauled its computer system.",
+      "chinese": {
+        "meaning": "徹底檢修；全面改革",
+        "example": "公司徹底檢修了電腦系統。"
+      }
+    },
+    {
+      "word": "Overhear",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To accidentally hear what other people are saying",
+      "example": "I overheard them talking about the party.",
+      "chinese": {
+        "meaning": "無意中聽到",
+        "example": "我無意中聽到他們談論派對。"
+      }
+    },
+    {
+      "word": "Overload",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To put too much in or on something",
+      "example": "Don't overload the washing machine.",
+      "chinese": {
+        "meaning": "超載",
+        "example": "不要讓洗衣機超載。"
+      }
+    },
+    {
+      "word": "Overlook",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To fail to notice something or to forgive",
+      "example": "He overlooked her mistake.",
+      "chinese": {
+        "meaning": "忽略；寬恕",
+        "example": "他忽略了她的錯誤。"
+      }
+    },
+    {
+      "word": "Overreact",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To respond more emotionally or forcibly than necessary",
+      "example": "Don't overreact to minor problems.",
+      "chinese": {
+        "meaning": "反應過度",
+        "example": "不要對小問題反應過度。"
+      }
+    },
+    {
+      "word": "Overrule",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To reject or change a decision",
+      "example": "The judge overruled the objection.",
+      "chinese": {
+        "meaning": "駁回；否決",
+        "example": "法官駁回了異議。"
+      }
+    },
+    {
+      "word": "Oversee",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To supervise or manage",
+      "example": "She oversees the entire department.",
+      "chinese": {
+        "meaning": "監督",
+        "example": "她負責監督整個部門。"
+      }
+    },
+    {
+      "word": "Overshadow",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To make someone or something less important by comparison",
+      "example": "Her achievements overshadowed those of her peers.",
+      "chinese": {
+        "meaning": "使相形見絀",
+        "example": "她的成就使同齡人相形見絀。"
+      }
+    },
+    {
+      "word": "Overstate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To exaggerate or make something seem more important than it is",
+      "example": "He tends to overstate his abilities.",
+      "chinese": {
+        "meaning": "誇大",
+        "example": "他傾向於誇大自己的能力。"
+      }
+    },
+    {
+      "word": "Overtake",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To go past something by being faster",
+      "example": "The car overtook the truck quickly.",
+      "chinese": {
+        "meaning": "超越",
+        "example": "汽車很快超過了卡車。"
+      }
+    },
+    {
+      "word": "Overturn",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To turn something upside down or reverse a decision",
+      "example": "The court overturned the previous ruling.",
+      "chinese": {
+        "meaning": "推翻",
+        "example": "法院推翻了先前的裁決。"
+      }
+    },
+    {
+      "word": "Overwhelm",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To affect someone strongly or overpoweringly",
+      "example": "She was overwhelmed by emotion.",
+      "chinese": {
+        "meaning": "壓倒；使不知所措",
+        "example": "她被情緒壓倒了。"
+      }
+    },
+    {
+      "word": "Owe",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To need to pay or repay money to someone",
+      "example": "I owe you twenty dollars.",
+      "chinese": {
+        "meaning": "欠",
+        "example": "我欠你二十元。"
+      }
+    },
+    {
+      "word": "Own",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To possess something",
+      "example": "She owns a small business.",
+      "chinese": {
+        "meaning": "擁有",
+        "example": "她擁有一家小企業。"
+      }
+    }
+  ]
 }
