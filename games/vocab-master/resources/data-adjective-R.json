@@ -1,17 +1,6 @@
 {
   "words": [
     {
-      "word": " Reckless",
-      "type": "adjective",
-      "letter": "R",
-      "meaning": "魯莽的；不顧後果的",
-      "example": "His reckless driving caused an accident.",
-      "chinese": {
-        "meaning": "魯莽的；不顧後果的",
-        "example": "他魯莽的駕駛導致了事故。"
-      }
-    },
-    {
       "word": "Radiant",
       "type": "adjective",
       "letter": "R",
@@ -130,6 +119,17 @@
       "chinese": {
         "meaning": "最近的；新近的",
         "example": "最近的研究顯示污染水平下降。"
+      }
+    },
+    {
+      "word": "Reckless",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "魯莽的；不顧後果的",
+      "example": "His reckless driving caused an accident.",
+      "chinese": {
+        "meaning": "魯莽的；不顧後果的",
+        "example": "他魯莽的駕駛導致了事故。"
       }
     },
     {

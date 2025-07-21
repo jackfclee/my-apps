@@ -16,5 +16,5 @@ export async function loadAllWordData() {
     }
   }
 
-  return allWords;
+  return allWords.sort((a, b) => a.word.localeCompare(b.word));
 }
