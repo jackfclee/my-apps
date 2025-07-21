@@ -1,4 +1,4 @@
-export async function loadAllWordData() {
+export async function loadAllWordData(onProgress) {
   const dataFolder = 'resources/';
   const dataPrefix = 'data-';
   const dataSuffix = '.json';
@@ -6,13 +6,20 @@ export async function loadAllWordData() {
   const response = await fetch(`${dataFolder}index.json`);
   const fileList = await response.json();
 
-  const allWords = [];
+  const filesToLoad = fileList.filter(file => file.startsWith(dataPrefix) && file.endsWith(dataSuffix));
+  const totalFiles = filesToLoad.length;
 
-  for (const file of fileList) {
-    if (file.startsWith(dataPrefix) && file.endsWith(dataSuffix)) {
-      const res = await fetch(`${dataFolder}${file}`);
-      const data = await res.json();
-      allWords.push(...(data.words || []));
+  const allWords = [];
+  let loadedFiles = 0;
+
+  for (const file of filesToLoad) {
+    const res = await fetch(`${dataFolder}${file}`);
+    const data = await res.json();
+    allWords.push(...(data.words || []));
+
+    loadedFiles++;
+    if (onProgress) {
+      onProgress(loadedFiles / totalFiles);
     }
   }
 
