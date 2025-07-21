@@ -111,6 +111,17 @@
       }
     },
     {
+      "word": "Seclude",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To keep someone away from other people",
+      "example": "The monk secluded himself in the mountains.",
+      "chinese": {
+        "meaning": "使隔離；隱居",
+        "example": "那位和尚在山中隱居。"
+      }
+    },
+    {
       "word": "Secure",
       "type": "verb",
       "letter": "S",

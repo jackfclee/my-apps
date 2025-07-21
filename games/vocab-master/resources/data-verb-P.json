@@ -276,6 +276,17 @@
       }
     },
     {
+      "word": "Preclude",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To prevent something from happening or make it impossible",
+      "example": "His injury precluded an athletic career.",
+      "chinese": {
+        "meaning": "排除、阻止",
+        "example": "他的傷勢使他無法從事運動員生涯。"
+      }
+    },
+    {
       "word": "Predict",
       "type": "verb",
       "letter": "P",
