@@ -18,6 +18,11 @@ for f in deduped-data-adjective-*.json; do mv "$f" "${f#deduped-}"; done
 ```
 
 ```bash
+for f in data-noun-*.json; do jq '.words |= (sort_by(.word | ascii_downcase) | unique_by(.word | ascii_downcase) | map(.word |= (.[0:1] | ascii_upcase) + .[1:]))' "$f" > "deduped-$f"; done
+for f in deduped-data-noun-*.json; do mv "$f" "${f#deduped-}"; done
+```
+
+```bash
 for f in data-verb-*.json; do jq '.words |= (sort_by(.word | ascii_downcase) | unique_by(.word | ascii_downcase) | map(.word |= (.[0:1] | ascii_upcase) + .[1:]))' "$f" > "deduped-$f"; done
 for f in deduped-data-verb-*.json; do mv "$f" "${f#deduped-}"; done
 ```
