@@ -1,0 +1,609 @@
+{
+  "words": [
+    {
+      "word": "Jagged",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Having a rough or sharp edge",
+      "example": "The mountain trail was lined with jagged rocks.",
+      "chinese": {
+        "meaning": "鋸齒狀的",
+        "example": "山路兩旁都是鋸齒狀的岩石。"
+      }
+    },
+    {
+      "word": "Jaded",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Tired or bored, usually after having had too much of something",
+      "example": "She felt jaded after years of routine work.",
+      "chinese": {
+        "meaning": "厭倦的",
+        "example": "多年重複的工作讓她感到厭倦。"
+      }
+    },
+    {
+      "word": "Jaguarine",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to or resembling a jaguar",
+      "example": "The jaguarine pattern adorned the fabric.",
+      "chinese": {
+        "meaning": "像美洲虎的",
+        "example": "這塊布料上有像美洲虎的圖案。"
+      }
+    },
+    {
+      "word": "Jamaican",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to Jamaica or its people",
+      "example": "We enjoyed delicious Jamaican cuisine.",
+      "chinese": {
+        "meaning": "牙買加的",
+        "example": "我們品嚐了美味的牙買加料理。"
+      }
+    },
+    {
+      "word": "Jammy",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Lucky, especially in a way that is undeserved",
+      "example": "He was jammy to win the lottery twice.",
+      "chinese": {
+        "meaning": "幸運的",
+        "example": "他很幸運地兩次中獎。"
+      }
+    },
+    {
+      "word": "Jangly",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Making a harsh, ringing sound",
+      "example": "The jangly keys woke the baby.",
+      "chinese": {
+        "meaning": "叮噹作響的",
+        "example": "叮噹作響的鑰匙吵醒了嬰兒。"
+      }
+    },
+    {
+      "word": "Jarring",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Causing a shock or disturbance",
+      "example": "There was a jarring contrast between the two ideas.",
+      "chinese": {
+        "meaning": "刺耳的；衝突的",
+        "example": "這兩個想法之間形成了刺耳的對比。"
+      }
+    },
+    {
+      "word": "Jaunty",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Lively, cheerful, and confident",
+      "example": "He walked into the room with a jaunty step.",
+      "chinese": {
+        "meaning": "輕快自信的",
+        "example": "他輕快自信地走進房間。"
+      }
+    },
+    {
+      "word": "Jaw-dropping",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Extremely surprising or impressive",
+      "example": "The magician's tricks were jaw-dropping.",
+      "chinese": {
+        "meaning": "令人驚訝的",
+        "example": "魔術師的把戲令人驚訝。"
+      }
+    },
+    {
+      "word": "Jealous",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Feeling or showing envy of someone",
+      "example": "He was jealous of his friend’s success.",
+      "chinese": {
+        "meaning": "嫉妒的",
+        "example": "他對朋友的成功感到嫉妒。"
+      }
+    },
+    {
+      "word": "Jeering",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Mocking or taunting in a rude way",
+      "example": "The jeering crowd made him nervous.",
+      "chinese": {
+        "meaning": "嘲笑的",
+        "example": "嘲笑的群眾讓他感到緊張。"
+      }
+    },
+    {
+      "word": "Jesting",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Joking or playful",
+      "example": "His jesting remarks lightened the mood.",
+      "chinese": {
+        "meaning": "開玩笑的",
+        "example": "他開玩笑的話語讓氣氛輕鬆起來。"
+      }
+    },
+    {
+      "word": "Jet-black",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Completely black",
+      "example": "She wore a jet-black dress to the party.",
+      "chinese": {
+        "meaning": "漆黑的",
+        "example": "她穿著漆黑的洋裝參加派對。"
+      }
+    },
+    {
+      "word": "Jewel-like",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Resembling a jewel in appearance or quality",
+      "example": "The jewel-like colors of the bird amazed us.",
+      "chinese": {
+        "meaning": "像寶石的",
+        "example": "鳥兒像寶石般的色彩讓我們驚嘆。"
+      }
+    },
+    {
+      "word": "Jiggly",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Moving with quick, small shakes",
+      "example": "The jiggly dessert was fun to eat.",
+      "chinese": {
+        "meaning": "晃動的",
+        "example": "晃動的甜點吃起來很有趣。"
+      }
+    },
+    {
+      "word": "Jingoistic",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Extremely patriotic, often in an aggressive way",
+      "example": "The speech was filled with jingoistic rhetoric.",
+      "chinese": {
+        "meaning": "沙文主義的",
+        "example": "演講充滿了沙文主義言論。"
+      }
+    },
+    {
+      "word": "Jittery",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Nervous or unable to relax",
+      "example": "She felt jittery before the exam.",
+      "chinese": {
+        "meaning": "緊張不安的",
+        "example": "考試前她感到很緊張。"
+      }
+    },
+    {
+      "word": "Jobless",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Without a job; unemployed",
+      "example": "He has been jobless for six months.",
+      "chinese": {
+        "meaning": "失業的",
+        "example": "他已經失業六個月了。"
+      }
+    },
+    {
+      "word": "Jocular",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Fond of joking; humorous",
+      "example": "His jocular personality made him popular.",
+      "chinese": {
+        "meaning": "愛開玩笑的",
+        "example": "他愛開玩笑的個性讓他很受歡迎。"
+      }
+    },
+    {
+      "word": "Jocund",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Cheerful and light-hearted",
+      "example": "The jocund celebration lifted everyone's mood.",
+      "chinese": {
+        "meaning": "歡樂的",
+        "example": "歡樂的慶典讓每個人心情愉快。"
+      }
+    },
+    {
+      "word": "Joint",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Shared by or involving two or more parties",
+      "example": "They submitted a joint proposal.",
+      "chinese": {
+        "meaning": "共同的",
+        "example": "他們提交了一份共同提案。"
+      }
+    },
+    {
+      "word": "Jolly",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Happy and cheerful",
+      "example": "The children were in a jolly mood.",
+      "chinese": {
+        "meaning": "快樂的",
+        "example": "孩子們心情愉快。"
+      }
+    },
+    {
+      "word": "Journalistic",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Related to journalism or journalists",
+      "example": "She wrote with a journalistic style.",
+      "chinese": {
+        "meaning": "新聞工作的",
+        "example": "她以新聞工作的風格寫作。"
+      }
+    },
+    {
+      "word": "Jovial",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Friendly and cheerful",
+      "example": "He had a jovial manner that made him popular.",
+      "chinese": {
+        "meaning": "快樂友好的",
+        "example": "他愉快的態度使他很受歡迎。"
+      }
+    },
+    {
+      "word": "Joyful",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Feeling, expressing, or causing great happiness",
+      "example": "They had a joyful reunion.",
+      "chinese": {
+        "meaning": "充滿喜悅的",
+        "example": "他們有一場充滿喜悅的重聚。"
+      }
+    },
+    {
+      "word": "Joyless",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Without joy; unhappy",
+      "example": "The meal was joyless without her company.",
+      "chinese": {
+        "meaning": "無樂趣的",
+        "example": "沒有她的陪伴，這頓飯毫無樂趣。"
+      }
+    },
+    {
+      "word": "Jubilant",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Feeling or expressing great happiness and triumph",
+      "example": "The jubilant crowd cheered the winner.",
+      "chinese": {
+        "meaning": "歡欣鼓舞的",
+        "example": "歡欣鼓舞的人群為獲勝者歡呼。"
+      }
+    },
+    {
+      "word": "Judicious",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Having or showing good judgment",
+      "example": "She made a judicious choice regarding her career.",
+      "chinese": {
+        "meaning": "明智的",
+        "example": "她對職業的選擇很明智。"
+      }
+    },
+    {
+      "word": "Juicy",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Full of juice; succulent",
+      "example": "The peaches were sweet and juicy.",
+      "chinese": {
+        "meaning": "多汁的",
+        "example": "桃子甜美多汁。"
+      }
+    },
+    {
+      "word": "Jumbo",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Very large",
+      "example": "They ordered a jumbo pizza for the party.",
+      "chinese": {
+        "meaning": "特大的",
+        "example": "他們為派對點了一個特大的披薩。"
+      }
+    },
+    {
+      "word": "Jumpy",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Nervous and easily startled",
+      "example": "The loud noise made him jumpy.",
+      "chinese": {
+        "meaning": "緊張易受驚的",
+        "example": "巨響讓他很容易受驚。"
+      }
+    },
+    {
+      "word": "Jurassic",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to the period between 201 and 145 million years ago",
+      "example": "The Jurassic fossils fascinated the scientists.",
+      "chinese": {
+        "meaning": "侏羅紀的",
+        "example": "侏羅紀的化石讓科學家著迷。"
+      }
+    },
+    {
+      "word": "Just",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Based on or behaving according to what is morally right and fair",
+      "example": "She is a just and honest leader.",
+      "chinese": {
+        "meaning": "公正的",
+        "example": "她是一位公正誠實的領袖。"
+      }
+    },
+    {
+      "word": "Justifiable",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Able to be shown to be right or reasonable",
+      "example": "His anger was justifiable under the circumstances.",
+      "chinese": {
+        "meaning": "有正當理由的",
+        "example": "在這種情況下，他的憤怒是有正當理由的。"
+      }
+    },
+    {
+      "word": "Juvenile",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to young people; childish",
+      "example": "His juvenile behavior annoyed his colleagues.",
+      "chinese": {
+        "meaning": "幼稚的",
+        "example": "他幼稚的行為讓同事很煩。"
+      }
+    },
+    {
+      "word": "Jovian",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to the planet Jupiter",
+      "example": "Scientists study the Jovian atmosphere.",
+      "chinese": {
+        "meaning": "木星的",
+        "example": "科學家研究木星的大氣。"
+      }
+    },
+    {
+      "word": "Jocose",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Playful or humorous",
+      "example": "His jocose comments made everyone laugh.",
+      "chinese": {
+        "meaning": "詼諧的",
+        "example": "他詼諧的評論讓大家都笑了。"
+      }
+    },
+    {
+      "word": "Jubilatory",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Expressing joy or celebration",
+      "example": "There was a jubilatory mood in the air.",
+      "chinese": {
+        "meaning": "歡慶的",
+        "example": "空氣中充滿了歡慶的氣氛。"
+      }
+    },
+    {
+      "word": "Judgmental",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Having or displaying an excessively critical point of view",
+      "example": "His judgmental attitude upset his friends.",
+      "chinese": {
+        "meaning": "愛批判的",
+        "example": "他愛批判的態度讓朋友不高興。"
+      }
+    },
+    {
+      "word": "Jumbled",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Mixed up in a confused or untidy way",
+      "example": "Her thoughts were jumbled after the news.",
+      "chinese": {
+        "meaning": "混亂的",
+        "example": "聽到消息後，她的思緒很混亂。"
+      }
+    },
+    {
+      "word": "Jutting",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Extending out, over, or beyond the main body",
+      "example": "A jutting branch blocked the path.",
+      "chinese": {
+        "meaning": "突出的",
+        "example": "一根突出的樹枝擋住了路。"
+      }
+    },
+    {
+      "word": "Juxtaposed",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Placed side by side for comparison or contrast",
+      "example": "The artist used juxtaposed colors in her painting.",
+      "chinese": {
+        "meaning": "並列的",
+        "example": "藝術家在畫作中使用了並列的色彩。"
+      }
+    },
+    {
+      "word": "Jazzy",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Bright, colorful, and lively",
+      "example": "She wore a jazzy outfit to the party.",
+      "chinese": {
+        "meaning": "華麗活潑的",
+        "example": "她穿著華麗活潑的服裝參加派對。"
+      }
+    },
+    {
+      "word": "Jejune",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Naive, simplistic, and superficial",
+      "example": "His jejune explanation failed to impress.",
+      "chinese": {
+        "meaning": "幼稚的；枯燥的",
+        "example": "他幼稚的解釋未能打動人。"
+      }
+    },
+    {
+      "word": "Jerky",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Moving with sudden stops and starts",
+      "example": "The jerky motion of the bus made her feel sick.",
+      "chinese": {
+        "meaning": "顛簸的",
+        "example": "公車顛簸的行駛讓她不舒服。"
+      }
+    },
+    {
+      "word": "Judicable",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Capable of being judged or decided by law",
+      "example": "The dispute was judicable in court.",
+      "chinese": {
+        "meaning": "可審判的",
+        "example": "這個糾紛可以在法庭上審判。"
+      }
+    },
+    {
+      "word": "Juridical",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to judicial proceedings and the law",
+      "example": "The juridical system must be fair.",
+      "chinese": {
+        "meaning": "司法的",
+        "example": "司法制度必須公平。"
+      }
+    },
+    {
+      "word": "Juvenile",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to young people; childish",
+      "example": "His juvenile behavior annoyed his colleagues.",
+      "chinese": {
+        "meaning": "幼稚的",
+        "example": "他幼稚的行為讓同事很煩。"
+      }
+    },
+    {
+      "word": "Jubilant",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Feeling or expressing great happiness and triumph",
+      "example": "The jubilant crowd cheered the winner.",
+      "chinese": {
+        "meaning": "歡欣鼓舞的",
+        "example": "歡欣鼓舞的人群為獲勝者歡呼。"
+      }
+    },
+    {
+      "word": "Jumpy",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Nervous and easily startled",
+      "example": "The loud noise made him jumpy.",
+      "chinese": {
+        "meaning": "緊張易受驚的",
+        "example": "巨響讓他很容易受驚。"
+      }
+    },
+    {
+      "word": "Jovial",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Friendly and cheerful",
+      "example": "He had a jovial manner that made him popular.",
+      "chinese": {
+        "meaning": "快樂友好的",
+        "example": "他愉快的態度使他很受歡迎。"
+      }
+    },
+    {
+      "word": "Judicious",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Having or showing good judgment",
+      "example": "She made a judicious choice regarding her career.",
+      "chinese": {
+        "meaning": "明智的",
+        "example": "她對職業的選擇很明智。"
+      }
+    },
+    {
+      "word": "Jubilant",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Feeling or expressing great happiness and triumph",
+      "example": "The jubilant crowd cheered the winner.",
+      "chinese": {
+        "meaning": "歡欣鼓舞的",
+        "example": "歡欣鼓舞的人群為獲勝者歡呼。"
+      }
+    },
+    {
+      "word": "Juicy",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Full of juice; succulent",
+      "example": "The peaches were sweet and juicy.",
+      "chinese": {
+        "meaning": "多汁的",
+        "example": "桃子甜美多汁。"
+      }
+    },
+    {
+      "word": "Jazzy",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Bright, colorful, and lively",
+      "example": "She wore a jazzy outfit to the party.",
+      "chinese": {
+        "meaning": "華麗活潑的",
+        "example": "她穿著華麗活潑的服裝參加派對。"
+      }
+    }
+  ]
+}

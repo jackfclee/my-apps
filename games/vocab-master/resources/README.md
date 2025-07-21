@@ -2,6 +2,14 @@
 
 ## Shell Command for reference
 
+### Generate the empty JSON file
+
+```bash
+for letter in {A..Z}; do echo '{"words": []}' > "data-adjective-$letter.json"; done
+for letter in {A..Z}; do echo '{"words": []}' > "data-noun-$letter.json"; done
+for letter in {A..Z}; do echo '{"words": []}' > "data-verb-$letter.json"; done
+```
+
 ### Sort and Deduplicate the Array in JSON
 
 ```bash

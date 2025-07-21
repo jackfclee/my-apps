@@ -1,0 +1,719 @@
+{
+  "words": [
+    {
+      "word": "Factual",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Concerned with what is actually the case rather than interpretations",
+      "example": "His report was factual and objective.",
+      "chinese": {
+        "meaning": "事實的",
+        "example": "他的報告是基於事實且客觀的。"
+      }
+    },
+    {
+      "word": "Faded",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having lost brightness or intensity",
+      "example": "The faded photograph was hard to recognise.",
+      "chinese": {
+        "meaning": "褪色的",
+        "example": "這張照片已經褪色，很難辨認。"
+      }
+    },
+    {
+      "word": "Failing",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Losing strength or ability",
+      "example": "His failing health worried his family.",
+      "chinese": {
+        "meaning": "衰退的",
+        "example": "他日益衰退的健康讓家人擔憂。"
+      }
+    },
+    {
+      "word": "Faint",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Barely perceptible; weak",
+      "example": "There was a faint smell of smoke in the air.",
+      "chinese": {
+        "meaning": "微弱的",
+        "example": "空氣中有一股微弱的煙味。"
+      }
+    },
+    {
+      "word": "Fair",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Treating people equally without bias",
+      "example": "The judge gave a fair decision.",
+      "chinese": {
+        "meaning": "公平的",
+        "example": "法官做出了一個公平的判決。"
+      }
+    },
+    {
+      "word": "Faithful",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Loyal and reliable",
+      "example": "He remained faithful to his values.",
+      "chinese": {
+        "meaning": "忠誠的",
+        "example": "他對自己的價值觀保持忠誠。"
+      }
+    },
+    {
+      "word": "Fake",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Not genuine; counterfeit",
+      "example": "She was accused of using a fake passport.",
+      "chinese": {
+        "meaning": "假的",
+        "example": "她被指控使用假護照。"
+      }
+    },
+    {
+      "word": "Familiar",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Well known from long or close association",
+      "example": "The song sounded familiar to me.",
+      "chinese": {
+        "meaning": "熟悉的",
+        "example": "這首歌對我來說很熟悉。"
+      }
+    },
+    {
+      "word": "Famous",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Known about by many people",
+      "example": "Sydney is famous for its Opera House.",
+      "chinese": {
+        "meaning": "著名的",
+        "example": "悉尼以其歌劇院而聞名。"
+      }
+    },
+    {
+      "word": "Fanatical",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Filled with excessive enthusiasm",
+      "example": "He is a fanatical supporter of the team.",
+      "chinese": {
+        "meaning": "狂熱的",
+        "example": "他是這支球隊的狂熱支持者。"
+      }
+    },
+    {
+      "word": "Fancy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Elaborate in structure or decoration",
+      "example": "She wore a fancy dress to the party.",
+      "chinese": {
+        "meaning": "精緻的",
+        "example": "她穿著精緻的禮服參加派對。"
+      }
+    },
+    {
+      "word": "Fantastic",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Extraordinarily good or attractive",
+      "example": "The view from the top was fantastic.",
+      "chinese": {
+        "meaning": "極好的",
+        "example": "從山頂看到的景色極好。"
+      }
+    },
+    {
+      "word": "Far-reaching",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having important and widespread effects",
+      "example": "The reforms had far-reaching consequences.",
+      "chinese": {
+        "meaning": "深遠的",
+        "example": "這些改革產生了深遠的影響。"
+      }
+    },
+    {
+      "word": "Far-sighted",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having or showing an ability to anticipate future developments",
+      "example": "The CEO made a far-sighted decision.",
+      "chinese": {
+        "meaning": "有遠見的",
+        "example": "執行長做出了一個有遠見的決定。"
+      }
+    },
+    {
+      "word": "Fascinating",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Extremely interesting",
+      "example": "The documentary was fascinating.",
+      "chinese": {
+        "meaning": "迷人的",
+        "example": "這部紀錄片非常迷人。"
+      }
+    },
+    {
+      "word": "Fashionable",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Popular or in style at a particular time",
+      "example": "She always wears fashionable clothes.",
+      "chinese": {
+        "meaning": "時髦的",
+        "example": "她總是穿著時髦的衣服。"
+      }
+    },
+    {
+      "word": "Fast",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Moving or able to move quickly",
+      "example": "The train is fast and efficient.",
+      "chinese": {
+        "meaning": "快速的",
+        "example": "這列火車既快又高效。"
+      }
+    },
+    {
+      "word": "Fatal",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Causing death or disaster",
+      "example": "The crash was caused by a fatal error.",
+      "chinese": {
+        "meaning": "致命的",
+        "example": "這場車禍是由一個致命的錯誤引起的。"
+      }
+    },
+    {
+      "word": "Fatigued",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Extremely tired",
+      "example": "She felt fatigued after the long journey.",
+      "chinese": {
+        "meaning": "疲憊的",
+        "example": "長途旅行後她感到非常疲憊。"
+      }
+    },
+    {
+      "word": "Faultless",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Without fault; perfect",
+      "example": "Her performance was faultless.",
+      "chinese": {
+        "meaning": "完美無瑕的",
+        "example": "她的表現完美無瑕。"
+      }
+    },
+    {
+      "word": "Fearful",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Feeling afraid; showing fear",
+      "example": "He gave her a fearful look.",
+      "chinese": {
+        "meaning": "害怕的",
+        "example": "他露出害怕的神情看著她。"
+      }
+    },
+    {
+      "word": "Fearless",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Without fear; brave",
+      "example": "The firefighter was fearless in the rescue.",
+      "chinese": {
+        "meaning": "無畏的",
+        "example": "那位消防員在救援中表現得無畏。"
+      }
+    },
+    {
+      "word": "Feasible",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Possible to do easily or conveniently",
+      "example": "The plan is feasible with the current budget.",
+      "chinese": {
+        "meaning": "可行的",
+        "example": "這個計畫在現有預算下是可行的。"
+      }
+    },
+    {
+      "word": "Feeble",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Lacking physical strength, especially as a result of age or illness",
+      "example": "Her voice was feeble after the surgery.",
+      "chinese": {
+        "meaning": "虛弱的",
+        "example": "手術後她的聲音很虛弱。"
+      }
+    },
+    {
+      "word": "Fertile",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Able to produce abundantly",
+      "example": "The fertile soil produced a rich harvest.",
+      "chinese": {
+        "meaning": "肥沃的",
+        "example": "肥沃的土壤帶來了豐收。"
+      }
+    },
+    {
+      "word": "Fervent",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having or displaying a passionate intensity",
+      "example": "She made a fervent plea for help.",
+      "chinese": {
+        "meaning": "熱情的",
+        "example": "她熱情地呼籲大家幫忙。"
+      }
+    },
+    {
+      "word": "Festive",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to or suitable for a festival or celebration",
+      "example": "The room had a festive atmosphere.",
+      "chinese": {
+        "meaning": "節慶的",
+        "example": "房間裡有節慶的氣氛。"
+      }
+    },
+    {
+      "word": "Fickle",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Changing frequently, especially as regards one's loyalties",
+      "example": "The weather here is very fickle.",
+      "chinese": {
+        "meaning": "多變的",
+        "example": "這裡的天氣非常多變。"
+      }
+    },
+    {
+      "word": "Fierce",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having or displaying an intense or ferocious aggressiveness",
+      "example": "There was fierce competition among students.",
+      "chinese": {
+        "meaning": "激烈的",
+        "example": "學生之間的競爭非常激烈。"
+      }
+    },
+    {
+      "word": "Filthy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Disgustingly dirty",
+      "example": "The floor was filthy after the party.",
+      "chinese": {
+        "meaning": "骯髒的",
+        "example": "派對後地板非常骯髒。"
+      }
+    },
+    {
+      "word": "Final",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Last, coming at the end",
+      "example": "The final exam will be held next week.",
+      "chinese": {
+        "meaning": "最後的",
+        "example": "期末考將於下週舉行。"
+      }
+    },
+    {
+      "word": "Financial",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to money or finance",
+      "example": "They are facing financial difficulties.",
+      "chinese": {
+        "meaning": "財務的",
+        "example": "他們正面臨財務困難。"
+      }
+    },
+    {
+      "word": "Fine",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Of high quality; very thin or slender",
+      "example": "She has fine handwriting.",
+      "chinese": {
+        "meaning": "優秀的；細緻的",
+        "example": "她的字跡很細緻。"
+      }
+    },
+    {
+      "word": "Firm",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Strong and solid",
+      "example": "The table is firm and stable.",
+      "chinese": {
+        "meaning": "堅固的",
+        "example": "這張桌子很堅固穩定。"
+      }
+    },
+    {
+      "word": "Flamboyant",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Tending to attract attention because of exuberance or confidence",
+      "example": "He wore a flamboyant red suit.",
+      "chinese": {
+        "meaning": "炫耀的",
+        "example": "他穿著一套炫耀的紅色西裝。"
+      }
+    },
+    {
+      "word": "Flawless",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Without any imperfections or defects",
+      "example": "Her singing was flawless.",
+      "chinese": {
+        "meaning": "完美無瑕的",
+        "example": "她的歌聲完美無瑕。"
+      }
+    },
+    {
+      "word": "Flexible",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Willing to change or try different things",
+      "example": "A flexible schedule is important for work-life balance.",
+      "chinese": {
+        "meaning": "靈活的",
+        "example": "靈活的時間安排對於工作與生活的平衡很重要。"
+      }
+    },
+    {
+      "word": "Flimsy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Not strong or solid; fragile",
+      "example": "The evidence was flimsy and unconvincing.",
+      "chinese": {
+        "meaning": "脆弱的",
+        "example": "證據很脆弱，令人信服。"
+      }
+    },
+    {
+      "word": "Fluent",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Able to express oneself easily and articulately",
+      "example": "She is fluent in three languages.",
+      "chinese": {
+        "meaning": "流利的",
+        "example": "她能說三種語言，非常流利。"
+      }
+    },
+    {
+      "word": "Focused",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Concentrating on a particular task or goal",
+      "example": "He remained focused during the exam.",
+      "chinese": {
+        "meaning": "專注的",
+        "example": "考試期間他一直很專注。"
+      }
+    },
+    {
+      "word": "Foolish",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Lacking good sense or judgment",
+      "example": "It was a foolish mistake.",
+      "chinese": {
+        "meaning": "愚蠢的",
+        "example": "那是一個愚蠢的錯誤。"
+      }
+    },
+    {
+      "word": "Forceful",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Strong and assertive; vigorous",
+      "example": "She gave a forceful speech.",
+      "chinese": {
+        "meaning": "有力的",
+        "example": "她發表了一場有力的演說。"
+      }
+    },
+    {
+      "word": "Formal",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Following established conventions or rules",
+      "example": "He wore formal attire to the event.",
+      "chinese": {
+        "meaning": "正式的",
+        "example": "他穿著正式服裝參加活動。"
+      }
+    },
+    {
+      "word": "Fortunate",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Receiving good from uncertain or unexpected sources",
+      "example": "We were fortunate to avoid the storm.",
+      "chinese": {
+        "meaning": "幸運的",
+        "example": "我們很幸運地避開了暴風雨。"
+      }
+    },
+    {
+      "word": "Fragile",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Easily broken or damaged",
+      "example": "The vase is very fragile.",
+      "chinese": {
+        "meaning": "易碎的",
+        "example": "這個花瓶很易碎。"
+      }
+    },
+    {
+      "word": "Fragrant",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having a pleasant or sweet smell",
+      "example": "The garden is full of fragrant flowers.",
+      "chinese": {
+        "meaning": "芳香的",
+        "example": "花園裡充滿了芳香的花朵。"
+      }
+    },
+    {
+      "word": "Frank",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Open, honest, and direct in speech or writing",
+      "example": "She gave a frank answer.",
+      "chinese": {
+        "meaning": "坦率的",
+        "example": "她給了一個坦率的回答。"
+      }
+    },
+    {
+      "word": "Frail",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Physically weak and delicate",
+      "example": "The old man was frail and thin.",
+      "chinese": {
+        "meaning": "虛弱的",
+        "example": "那位老人身體虛弱且瘦小。"
+      }
+    },
+    {
+      "word": "Frantic",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Wild or distraught with fear, anxiety, or other emotion",
+      "example": "They made a frantic search for the lost keys.",
+      "chinese": {
+        "meaning": "瘋狂的；慌亂的",
+        "example": "他們瘋狂地尋找遺失的鑰匙。"
+      }
+    },
+    {
+      "word": "Fraudulent",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Obtained, done by, or involving deception",
+      "example": "He was arrested for fraudulent activities.",
+      "chinese": {
+        "meaning": "欺詐的",
+        "example": "他因欺詐行為被逮捕。"
+      }
+    },
+    {
+      "word": "Freakish",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Very unusual or unexpected",
+      "example": "A freakish storm hit the city.",
+      "chinese": {
+        "meaning": "異常的",
+        "example": "一場異常的暴風雨襲擊了城市。"
+      }
+    },
+    {
+      "word": "Frequent",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Occurring often",
+      "example": "He is a frequent visitor to the library.",
+      "chinese": {
+        "meaning": "頻繁的",
+        "example": "他經常來圖書館。"
+      }
+    },
+    {
+      "word": "Fresh",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Recently made or obtained; not stale or spoiled",
+      "example": "We bought fresh vegetables from the market.",
+      "chinese": {
+        "meaning": "新鮮的",
+        "example": "我們從市場買了新鮮蔬菜。"
+      }
+    },
+    {
+      "word": "Friendly",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Kind and pleasant",
+      "example": "He has a friendly personality.",
+      "chinese": {
+        "meaning": "友善的",
+        "example": "他個性很友善。"
+      }
+    },
+    {
+      "word": "Frightened",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Afraid or anxious",
+      "example": "The loud noise made her frightened.",
+      "chinese": {
+        "meaning": "害怕的",
+        "example": "巨響讓她感到害怕。"
+      }
+    },
+    {
+      "word": "Frigid",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Very cold in temperature",
+      "example": "The air was frigid in winter.",
+      "chinese": {
+        "meaning": "寒冷的",
+        "example": "冬天的空氣非常寒冷。"
+      }
+    },
+    {
+      "word": "Frivolous",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Not having any serious purpose or value",
+      "example": "They wasted money on frivolous purchases.",
+      "chinese": {
+        "meaning": "輕浮的",
+        "example": "他們把錢浪費在輕浮的消費上。"
+      }
+    },
+    {
+      "word": "Frugal",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Careful in spending or using resources",
+      "example": "He is frugal with his money.",
+      "chinese": {
+        "meaning": "節儉的",
+        "example": "他用錢很節儉。"
+      }
+    },
+    {
+      "word": "Frustrated",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Feeling or expressing distress and annoyance",
+      "example": "She was frustrated by the delay.",
+      "chinese": {
+        "meaning": "沮喪的",
+        "example": "延誤讓她感到沮喪。"
+      }
+    },
+    {
+      "word": "Fulfilling",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Making someone satisfied or happy through allowing their character to develop fully",
+      "example": "Teaching is a fulfilling career.",
+      "chinese": {
+        "meaning": "令人滿足的",
+        "example": "教書是一份令人滿足的職業。"
+      }
+    },
+    {
+      "word": "Full",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Containing as much as possible",
+      "example": "The stadium was full of fans.",
+      "chinese": {
+        "meaning": "充滿的",
+        "example": "體育館裡擠滿了球迷。"
+      }
+    },
+    {
+      "word": "Functional",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Designed to be practical and useful",
+      "example": "The design is simple and functional.",
+      "chinese": {
+        "meaning": "實用的",
+        "example": "這個設計簡單且實用。"
+      }
+    },
+    {
+      "word": "Fundamental",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Forming a necessary base or core; of central importance",
+      "example": "Honesty is a fundamental value.",
+      "chinese": {
+        "meaning": "基本的",
+        "example": "誠實是一個基本價值。"
+      }
+    },
+    {
+      "word": "Furious",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Extremely angry",
+      "example": "He was furious when he heard the news.",
+      "chinese": {
+        "meaning": "憤怒的",
+        "example": "聽到這消息時他非常憤怒。"
+      }
+    },
+    {
+      "word": "Fuzzy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Difficult to see clearly; covered with fine, soft hair",
+      "example": "The photo is fuzzy and unclear.",
+      "chinese": {
+        "meaning": "模糊的；毛茸茸的",
+        "example": "這張照片很模糊。"
+      }
+    }
+  ]
+}

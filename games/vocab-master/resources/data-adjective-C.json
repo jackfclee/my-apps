@@ -1,0 +1,642 @@
+{
+  "words": [
+    {
+      "word": "Capable",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Having the ability or qualities necessary to do something",
+      "example": "She is a capable leader with strong decision-making skills.",
+      "chinese": {
+        "meaning": "有能力的",
+        "example": "她是一位有能力的領導者，擁有強大的決策能力。"
+      }
+    },
+    {
+      "word": "Captivating",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Attracting and holding interest; charming",
+      "example": "The movie was captivating from beginning to end.",
+      "chinese": {
+        "meaning": "迷人的",
+        "example": "這部電影從頭到尾都很迷人。"
+      }
+    },
+    {
+      "word": "Careful",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Making sure of avoiding potential danger or harm",
+      "example": "Be careful when crossing the road.",
+      "chinese": {
+        "meaning": "小心的",
+        "example": "過馬路時要小心。"
+      }
+    },
+    {
+      "word": "Caring",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Displaying kindness and concern for others",
+      "example": "He is a caring father.",
+      "chinese": {
+        "meaning": "有愛心的",
+        "example": "他是一位有愛心的父親。"
+      }
+    },
+    {
+      "word": "Casual",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Relaxed and unconcerned",
+      "example": "They wore casual clothes to the party.",
+      "chinese": {
+        "meaning": "隨便的；休閒的",
+        "example": "他們穿著休閒服參加派對。"
+      }
+    },
+    {
+      "word": "Cautious",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Careful to avoid potential problems or dangers",
+      "example": "He was cautious when investing his money.",
+      "chinese": {
+        "meaning": "謹慎的",
+        "example": "他在投資時非常謹慎。"
+      }
+    },
+    {
+      "word": "Celebrated",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Greatly admired; renowned",
+      "example": "He is a celebrated artist.",
+      "chinese": {
+        "meaning": "著名的",
+        "example": "他是一位著名的藝術家。"
+      }
+    },
+    {
+      "word": "Challenging",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Testing one's abilities; demanding",
+      "example": "The exam was challenging but fair.",
+      "chinese": {
+        "meaning": "具挑戰性的",
+        "example": "這場考試具有挑戰性，但很公平。"
+      }
+    },
+    {
+      "word": "Charming",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Pleasant or attractive",
+      "example": "The village is charming in spring.",
+      "chinese": {
+        "meaning": "迷人的",
+        "example": "這個村莊在春天很迷人。"
+      }
+    },
+    {
+      "word": "Cheerful",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Noticeably happy and optimistic",
+      "example": "She is always cheerful in the morning.",
+      "chinese": {
+        "meaning": "開朗的",
+        "example": "她早上總是很開朗。"
+      }
+    },
+    {
+      "word": "Chief",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Most important; main",
+      "example": "Her chief concern is her family's safety.",
+      "chinese": {
+        "meaning": "主要的",
+        "example": "她最關心的是家人的安全。"
+      }
+    },
+    {
+      "word": "Chilly",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Uncomfortably cool or cold",
+      "example": "It was a chilly morning.",
+      "chinese": {
+        "meaning": "寒冷的",
+        "example": "那是一個寒冷的早晨。"
+      }
+    },
+    {
+      "word": "Classic",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Judged over a period of time to be of the highest quality",
+      "example": "That is a classic novel.",
+      "chinese": {
+        "meaning": "經典的",
+        "example": "那是一本經典小說。"
+      }
+    },
+    {
+      "word": "Clean",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Free from dirt, marks, or stains",
+      "example": "The kitchen is clean and tidy.",
+      "chinese": {
+        "meaning": "乾淨的",
+        "example": "廚房很乾淨整潔。"
+      }
+    },
+    {
+      "word": "Clear",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Easy to understand or see",
+      "example": "The instructions were clear and concise.",
+      "chinese": {
+        "meaning": "清楚的",
+        "example": "說明清晰明確。"
+      }
+    },
+    {
+      "word": "Clever",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Quick to understand, learn, and devise or apply ideas",
+      "example": "He gave a clever answer.",
+      "chinese": {
+        "meaning": "聰明的",
+        "example": "他給了一個聰明的回答。"
+      }
+    },
+    {
+      "word": "Close",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Near in space or time; having a strong relationship",
+      "example": "They are close friends.",
+      "chinese": {
+        "meaning": "親近的；接近的",
+        "example": "他們是親密的朋友。"
+      }
+    },
+    {
+      "word": "Coarse",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Rough or harsh in texture or manner",
+      "example": "The fabric felt coarse.",
+      "chinese": {
+        "meaning": "粗糙的",
+        "example": "這種布料摸起來很粗糙。"
+      }
+    },
+    {
+      "word": "Cold",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Of or at a low or relatively low temperature",
+      "example": "It is cold outside today.",
+      "chinese": {
+        "meaning": "冷的",
+        "example": "今天外面很冷。"
+      }
+    },
+    {
+      "word": "Colorful",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Having much or varied color; full of interest",
+      "example": "She wore a colorful dress.",
+      "chinese": {
+        "meaning": "色彩繽紛的",
+        "example": "她穿著一件色彩繽紛的裙子。"
+      }
+    },
+    {
+      "word": "Comfortable",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Providing physical ease and relaxation",
+      "example": "This chair is very comfortable.",
+      "chinese": {
+        "meaning": "舒適的",
+        "example": "這張椅子很舒適。"
+      }
+    },
+    {
+      "word": "Common",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Occurring, found, or done often; prevalent",
+      "example": "It is a common mistake.",
+      "chinese": {
+        "meaning": "常見的",
+        "example": "這是一個常見的錯誤。"
+      }
+    },
+    {
+      "word": "Compact",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Closely and neatly packed together; small",
+      "example": "The car is compact and easy to park.",
+      "chinese": {
+        "meaning": "小巧的；緊密的",
+        "example": "這輛車小巧且容易停放。"
+      }
+    },
+    {
+      "word": "Compassionate",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Feeling or showing sympathy and concern for others",
+      "example": "She is a compassionate nurse.",
+      "chinese": {
+        "meaning": "有同情心的",
+        "example": "她是一位有同情心的護士。"
+      }
+    },
+    {
+      "word": "Compelling",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Evoking interest, attention, or admiration in a powerfully irresistible way",
+      "example": "The speaker made a compelling argument.",
+      "chinese": {
+        "meaning": "引人注目的",
+        "example": "演講者提出了引人注目的論點。"
+      }
+    },
+    {
+      "word": "Competent",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Having the necessary ability or skills",
+      "example": "He is a competent engineer.",
+      "chinese": {
+        "meaning": "有能力的",
+        "example": "他是一位有能力的工程師。"
+      }
+    },
+    {
+      "word": "Competitive",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Having a strong desire to win or be the best",
+      "example": "She is very competitive in sports.",
+      "chinese": {
+        "meaning": "有競爭力的",
+        "example": "她在運動方面很有競爭力。"
+      }
+    },
+    {
+      "word": "Complacent",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Showing smug or uncritical satisfaction with oneself",
+      "example": "He became complacent after winning the award.",
+      "chinese": {
+        "meaning": "自滿的",
+        "example": "他獲獎後變得自滿。"
+      }
+    },
+    {
+      "word": "Composed",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Calm and in control of oneself",
+      "example": "She remained composed during the crisis.",
+      "chinese": {
+        "meaning": "鎮定的",
+        "example": "在危機中她保持鎮定。"
+      }
+    },
+    {
+      "word": "Comprehensive",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Covering all or nearly all elements or aspects",
+      "example": "The report provides a comprehensive overview of the issue.",
+      "chinese": {
+        "meaning": "全面的",
+        "example": "這份報告提供了這個問題的全面概述。"
+      }
+    },
+    {
+      "word": "Concise",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Giving a lot of information clearly and in a few words",
+      "example": "His explanation was clear and concise.",
+      "chinese": {
+        "meaning": "簡明的",
+        "example": "他的解釋簡明扼要。"
+      }
+    },
+    {
+      "word": "Confident",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Feeling or showing certainty",
+      "example": "She gave a confident presentation to the panel.",
+      "chinese": {
+        "meaning": "有信心的",
+        "example": "她向小組展示了充滿信心的報告。"
+      }
+    },
+    {
+      "word": "Conscientious",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Wishing to do what is right, especially to do one's work or duty well",
+      "example": "He is a conscientious student.",
+      "chinese": {
+        "meaning": "認真的",
+        "example": "他是一個認真的學生。"
+      }
+    },
+    {
+      "word": "Conscious",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Aware of and responding to one's surroundings",
+      "example": "He is conscious of the social issues around him.",
+      "chinese": {
+        "meaning": "有意識的",
+        "example": "他意識到周圍的社會問題。"
+      }
+    },
+    {
+      "word": "Considerate",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Careful not to inconvenience or harm others",
+      "example": "She is always considerate of others' feelings.",
+      "chinese": {
+        "meaning": "體貼的",
+        "example": "她總是體貼別人的感受。"
+      }
+    },
+    {
+      "word": "Consistent",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Acting or done in the same way over time",
+      "example": "His performance is consistent every year.",
+      "chinese": {
+        "meaning": "一致的",
+        "example": "他的表現每年都很穩定。"
+      }
+    },
+    {
+      "word": "Constant",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Occurring continuously over a period of time",
+      "example": "She is under constant pressure at work.",
+      "chinese": {
+        "meaning": "持續的",
+        "example": "她在工作中承受著持續的壓力。"
+      }
+    },
+    {
+      "word": "Constructive",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Serving a useful purpose; tending to build up",
+      "example": "He gave constructive feedback.",
+      "chinese": {
+        "meaning": "建設性的",
+        "example": "他給了建設性的反饋。"
+      }
+    },
+    {
+      "word": "Contemporary",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Belonging to or occurring in the present",
+      "example": "She prefers contemporary music.",
+      "chinese": {
+        "meaning": "當代的",
+        "example": "她喜歡當代音樂。"
+      }
+    },
+    {
+      "word": "Content",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "In a state of peaceful happiness",
+      "example": "He felt content with his life.",
+      "chinese": {
+        "meaning": "滿足的",
+        "example": "他對自己的生活感到滿足。"
+      }
+    },
+    {
+      "word": "Continuous",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Forming an unbroken whole; without interruption",
+      "example": "The machine works in continuous cycles.",
+      "chinese": {
+        "meaning": "連續的",
+        "example": "這台機器持續運作。"
+      }
+    },
+    {
+      "word": "Convenient",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Fitting in well with a person's needs, activities, and plans",
+      "example": "The location is convenient for shopping.",
+      "chinese": {
+        "meaning": "方便的",
+        "example": "這個地點購物很方便。"
+      }
+    },
+    {
+      "word": "Conventional",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Based on or in accordance with what is generally done or believed",
+      "example": "He prefers conventional methods.",
+      "chinese": {
+        "meaning": "傳統的",
+        "example": "他喜歡傳統的方法。"
+      }
+    },
+    {
+      "word": "Cool",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Of or at a fairly low temperature; calm and composed",
+      "example": "The weather is cool today.",
+      "chinese": {
+        "meaning": "涼爽的；冷靜的",
+        "example": "今天天氣很涼爽。"
+      }
+    },
+    {
+      "word": "Cooperative",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Willing to help or work together",
+      "example": "The team members are very cooperative.",
+      "chinese": {
+        "meaning": "合作的",
+        "example": "團隊成員非常合作。"
+      }
+    },
+    {
+      "word": "Courageous",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Not deterred by danger or pain; brave",
+      "example": "The firefighter made a courageous rescue.",
+      "chinese": {
+        "meaning": "勇敢的",
+        "example": "消防員進行了一次勇敢的救援。"
+      }
+    },
+    {
+      "word": "Courteous",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Polite, respectful, or considerate in manner",
+      "example": "The staff were courteous and helpful.",
+      "chinese": {
+        "meaning": "有禮貌的",
+        "example": "工作人員很有禮貌且樂於助人。"
+      }
+    },
+    {
+      "word": "Creative",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Having good imagination or original ideas",
+      "example": "She is a creative designer.",
+      "chinese": {
+        "meaning": "有創意的",
+        "example": "她是一位有創意的設計師。"
+      }
+    },
+    {
+      "word": "Credible",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Able to be believed; convincing",
+      "example": "The news source is credible.",
+      "chinese": {
+        "meaning": "可信的",
+        "example": "這個新聞來源是可信的。"
+      }
+    },
+    {
+      "word": "Critical",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Expressing adverse or disapproving comments or judgments; crucial",
+      "example": "She took a critical view of the government’s policy.",
+      "chinese": {
+        "meaning": "批判的；關鍵的",
+        "example": "她對政府政策持批判態度。"
+      }
+    },
+    {
+      "word": "Crowded",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Full of people, leaving little or no room for movement",
+      "example": "The train was crowded during rush hour.",
+      "chinese": {
+        "meaning": "擁擠的",
+        "example": "高峰時段火車很擁擠。"
+      }
+    },
+    {
+      "word": "Cruel",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Willfully causing pain or suffering to others",
+      "example": "It was a cruel decision.",
+      "chinese": {
+        "meaning": "殘忍的",
+        "example": "那是一個殘忍的決定。"
+      }
+    },
+    {
+      "word": "Curious",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Eager to know or learn something",
+      "example": "Children are naturally curious.",
+      "chinese": {
+        "meaning": "好奇的",
+        "example": "孩子們天生好奇。"
+      }
+    },
+    {
+      "word": "Current",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Belonging to the present time; happening now",
+      "example": "The current situation is difficult.",
+      "chinese": {
+        "meaning": "目前的",
+        "example": "目前的情況很困難。"
+      }
+    },
+    {
+      "word": "Curved",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Having a shape that is smoothly rounded or bent",
+      "example": "The road is curved in several places.",
+      "chinese": {
+        "meaning": "彎曲的",
+        "example": "這條路有幾處是彎曲的。"
+      }
+    },
+    {
+      "word": "Customary",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "According to the customs or usual practices",
+      "example": "It is customary to shake hands.",
+      "chinese": {
+        "meaning": "習慣的",
+        "example": "握手是習慣的做法。"
+      }
+    },
+    {
+      "word": "Cute",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Attractive in a pretty or endearing way",
+      "example": "The puppy is so cute.",
+      "chinese": {
+        "meaning": "可愛的",
+        "example": "這隻小狗很可愛。"
+      }
+    },
+    {
+      "word": "Cynical",
+      "type": "adjective",
+      "letter": "C",
+      "meaning": "Distrustful of human sincerity or integrity",
+      "example": "He has a cynical view of politics.",
+      "chinese": {
+        "meaning": "憤世嫉俗的",
+        "example": "他對政治持憤世嫉俗的看法。"
+      }
+    }
+  ]
+}

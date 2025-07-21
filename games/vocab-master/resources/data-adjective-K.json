@@ -1,0 +1,554 @@
+{
+  "words": [
+    {
+      "word": "Kafkaesque",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Marked by a senseless, disorienting, often nightmarish complexity",
+      "example": "The bureaucratic process felt Kafkaesque and surreal.",
+      "chinese": {
+        "meaning": "卡夫卡式的；荒誕的",
+        "example": "這種官僚過程讓人感覺荒誕如夢。"
+      }
+    },
+    {
+      "word": "Kaleidoscopic",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having complex patterns of colors; constantly changing",
+      "example": "The kaleidoscopic patterns on the fabric were mesmerizing.",
+      "chinese": {
+        "meaning": "萬花筒般的；色彩斑斕的",
+        "example": "布料上萬花筒般的圖案令人著迷。"
+      }
+    },
+    {
+      "word": "Keen",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having or showing eagerness or enthusiasm",
+      "example": "She was keen to learn new skills.",
+      "chinese": {
+        "meaning": "渴望的；敏銳的",
+        "example": "她渴望學習新技能。"
+      }
+    },
+    {
+      "word": "Key",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Of crucial importance",
+      "example": "Understanding grammar is key to mastering a language.",
+      "chinese": {
+        "meaning": "關鍵的",
+        "example": "理解文法是掌握語言的關鍵。"
+      }
+    },
+    {
+      "word": "Kind",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having or showing a friendly and considerate nature",
+      "example": "He is a kind and generous person.",
+      "chinese": {
+        "meaning": "仁慈的",
+        "example": "他是一個仁慈又慷慨的人。"
+      }
+    },
+    {
+      "word": "Kindhearted",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having a kind and sympathetic nature",
+      "example": "The kindhearted woman helped the lost child.",
+      "chinese": {
+        "meaning": "好心腸的",
+        "example": "這位好心腸的女士幫助了迷路的孩子。"
+      }
+    },
+    {
+      "word": "Kinetic",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Relating to or resulting from motion",
+      "example": "The sculpture had a kinetic design that moved with the wind.",
+      "chinese": {
+        "meaning": "動力的；運動的",
+        "example": "這個雕塑具有隨風移動的動態設計。"
+      }
+    },
+    {
+      "word": "Kingly",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having qualities befitting a king; majestic",
+      "example": "He carried himself with a kingly dignity.",
+      "chinese": {
+        "meaning": "王者的；威嚴的",
+        "example": "他舉止威嚴，像個國王。"
+      }
+    },
+    {
+      "word": "Kingly",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having qualities befitting a king; majestic",
+      "example": "He carried himself with a kingly dignity.",
+      "chinese": {
+        "meaning": "王者的；威嚴的",
+        "example": "他舉止威嚴，像個國王。"
+      }
+    },    
+    {
+      "word": "Kitschy",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Tastelessly showy or overly sentimental",
+      "example": "The souvenir shop was full of kitschy items.",
+      "chinese": {
+        "meaning": "俗氣的；庸俗的",
+        "example": "紀念品店裡充滿了俗氣的物品。"
+      }
+    },
+    {
+      "word": "Knavish",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Dishonest or unscrupulous",
+      "example": "The knavish trader tricked his customers.",
+      "chinese": {
+        "meaning": "狡猾的；不誠實的",
+        "example": "那個狡猾的商人欺騙了顧客。"
+      }
+    },
+    {
+      "word": "Knotty",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Full of knots; complex or difficult to solve",
+      "example": "The knotty problem required careful thought.",
+      "chinese": {
+        "meaning": "多結的；棘手的",
+        "example": "這個棘手的問題需要仔細思考。"
+      }
+    },
+    {
+      "word": "Knowledgeable",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Intelligent and well informed",
+      "example": "She is very knowledgeable in environmental science.",
+      "chinese": {
+        "meaning": "知識淵博的",
+        "example": "她在環境科學方面知識淵博。"
+      }
+    },
+    {
+      "word": "Kooky",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Strange or eccentric, often in a fun or harmless way",
+      "example": "Her kooky fashion sense made her stand out.",
+      "chinese": {
+        "meaning": "古怪有趣的",
+        "example": "她古怪有趣的穿著風格讓她與眾不同。"
+      }
+    },
+    {
+      "word": "Kosher",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Proper or legitimate; conforming to rules",
+      "example": "His explanation didn’t sound entirely kosher.",
+      "chinese": {
+        "meaning": "合規的；正當的",
+        "example": "他的解釋聽起來不太合規。"
+      }
+    },
+    {
+      "word": "Kempt",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Neatly kept; tidy",
+      "example": "He wore a kempt suit to the interview.",
+      "chinese": {
+        "meaning": "整潔的",
+        "example": "他穿著整潔的西裝去面試。"
+      }
+    },
+    {
+      "word": "Kindly",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having a kind disposition; benevolent",
+      "example": "The kindly old man helped the children cross the street.",
+      "chinese": {
+        "meaning": "和藹的；慈祥的",
+        "example": "那位和藹的老人幫助孩子們過馬路。"
+      }
+    },
+    {
+      "word": "Kaleidoscopic",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having complex patterns of colors; constantly changing",
+      "example": "The kaleidoscopic lights dazzled the audience.",
+      "chinese": {
+        "meaning": "萬花筒般的；千變萬化的",
+        "example": "萬花筒般的燈光讓觀眾目眩神迷。"
+      }
+    },
+    {
+      "word": "Kinetic",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Relating to or resulting from motion",
+      "example": "The kinetic energy of the moving car was impressive.",
+      "chinese": {
+        "meaning": "動力的；運動的",
+        "example": "移動車輛的動能令人印象深刻。"
+      }
+    },
+    {
+      "word": "Knavish",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Dishonest or unscrupulous",
+      "example": "The knavish merchant cheated his customers.",
+      "chinese": {
+        "meaning": "狡猾的；不誠實的",
+        "example": "那個狡猾的商人欺騙了顧客。"
+      }
+    },
+    {
+      "word": "Kaleidoscopic",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Continuously changing patterns or scenes",
+      "example": "The city skyline appeared kaleidoscopic at night.",
+      "chinese": {
+        "meaning": "千變萬化的",
+        "example": "夜晚的城市天際線變幻莫測。"
+      }
+    },
+    {
+      "word": "Kooky",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Unconventional or eccentric in a playful way",
+      "example": "His kooky ideas often surprised his colleagues.",
+      "chinese": {
+        "meaning": "古怪有趣的",
+        "example": "他古怪的想法經常讓同事驚訝。"
+      }
+    },
+    {
+      "word": "Knotty",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Full of knots; complicated",
+      "example": "The knotty problem took hours to solve.",
+      "chinese": {
+        "meaning": "多結的；複雜的",
+        "example": "這個複雜的問題花了幾個小時才解決。"
+      }
+    },
+    {
+      "word": "Kempt",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Well-groomed; tidy",
+      "example": "He always looked kempt and professional.",
+      "chinese": {
+        "meaning": "整潔的",
+        "example": "他總是看起來整潔且專業。"
+      }
+    },
+    {
+      "word": "Kindhearted",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having a kind and compassionate nature",
+      "example": "The kindhearted nurse cared deeply for her patients.",
+      "chinese": {
+        "meaning": "善良的",
+        "example": "那位善良的護士非常關心她的病人。"
+      }
+    },
+    {
+      "word": "Knightly",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Brave and chivalrous",
+      "example": "His knightly courage was admired by all.",
+      "chinese": {
+        "meaning": "騎士般的；勇敢的",
+        "example": "他的騎士般勇氣受到大家敬佩。"
+      }
+    },
+    {
+      "word": "Kitschy",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Tastelessly gaudy or sentimental",
+      "example": "The room was decorated with kitschy souvenirs.",
+      "chinese": {
+        "meaning": "俗氣的",
+        "example": "房間裡擺滿了俗氣的紀念品。"
+      }
+    },
+    {
+      "word": "Kaleidoscopic",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Rapidly changing or varied",
+      "example": "The kaleidoscopic events kept everyone on edge.",
+      "chinese": {
+        "meaning": "千變萬化的",
+        "example": "千變萬化的事件讓每個人都緊張不安。"
+      }
+    },
+    {
+      "word": "Keen-sighted",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having sharp vision or insight",
+      "example": "The keen-sighted hunter spotted the deer from afar.",
+      "chinese": {
+        "meaning": "視力敏銳的",
+        "example": "那位視力敏銳的獵人從遠處發現了鹿。"
+      }
+    },
+    {
+      "word": "Kooky",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Unusual in a fun or silly way",
+      "example": "Her kooky antics made everyone laugh.",
+      "chinese": {
+        "meaning": "古怪有趣的",
+        "example": "她古怪的舉止讓大家笑了起來。"
+      }
+    },
+    {
+      "word": "Knotty",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Difficult to understand or solve",
+      "example": "The knotty issue required expert advice.",
+      "chinese": {
+        "meaning": "棘手的",
+        "example": "這個棘手的問題需要專家建議。"
+      }
+    },
+    {
+      "word": "Knowledgeable",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Well-informed and educated",
+      "example": "She is knowledgeable about ancient history.",
+      "chinese": {
+        "meaning": "博學的",
+        "example": "她對古代歷史很博學。"
+      }
+    },
+    {
+      "word": "Kempt",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Neat and tidy in appearance",
+      "example": "His kempt appearance made a good impression.",
+      "chinese": {
+        "meaning": "整潔的",
+        "example": "他整潔的外表給人好印象。"
+      }
+    },
+    {
+      "word": "Kindly",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Gentle and benevolent",
+      "example": "The kindly teacher helped the struggling student.",
+      "chinese": {
+        "meaning": "和藹的；仁慈的",
+        "example": "那位和藹的老師幫助了成績不好的學生。"
+      }
+    },
+    {
+      "word": "Kaleidoscopic",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Varied and constantly changing",
+      "example": "The kaleidoscopic show featured many different acts.",
+      "chinese": {
+        "meaning": "多變的",
+        "example": "多變的表演包含了許多不同的節目。"
+      }
+    },
+    {
+      "word": "Keen",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Highly developed or sharp",
+      "example": "She has a keen sense of smell.",
+      "chinese": {
+        "meaning": "敏銳的",
+        "example": "她有敏銳的嗅覺。"
+      }
+    },
+    {
+      "word": "Knavish",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Dishonest or tricky",
+      "example": "The knavish salesman tried to deceive us.",
+      "chinese": {
+        "meaning": "狡猾的",
+        "example": "那個狡猾的推銷員試圖欺騙我們。"
+      }
+    },
+    {
+      "word": "Kooky",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Odd in a humorous way",
+      "example": "His kooky ideas always bring laughter.",
+      "chinese": {
+        "meaning": "古怪有趣的",
+        "example": "他古怪的想法總是帶來歡笑。"
+      }
+    },
+    {
+      "word": "Knotty",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Full of difficulties",
+      "example": "The knotty problem was finally solved.",
+      "chinese": {
+        "meaning": "棘手的",
+        "example": "這個棘手的問題終於解決了。"
+      }
+    },
+    {
+      "word": "Knowledgeable",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Possessing knowledge",
+      "example": "He is knowledgeable about technology.",
+      "chinese": {
+        "meaning": "有知識的",
+        "example": "他對科技很有知識。"
+      }
+    },
+    {
+      "word": "Kempt",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Well-groomed",
+      "example": "She always looks kempt and professional.",
+      "chinese": {
+        "meaning": "整潔的",
+        "example": "她總是看起來整潔且專業。"
+      }
+    },
+    {
+      "word": "Kindhearted",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having a kind nature",
+      "example": "The kindhearted man volunteered at the shelter.",
+      "chinese": {
+        "meaning": "善良的",
+        "example": "那位善良的男子在收容所做志願者。"
+      }
+    },
+    {
+      "word": "Knightly",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Chivalrous and brave",
+      "example": "His knightly deeds were praised by all.",
+      "chinese": {
+        "meaning": "騎士般的",
+        "example": "他的騎士般行為受到大家讚揚。"
+      }
+    },
+    {
+      "word": "Kitschy",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Tastelessly decorative",
+      "example": "The kitschy decor was not to everyone's taste.",
+      "chinese": {
+        "meaning": "俗氣的",
+        "example": "俗氣的裝飾並非人人喜愛。"
+      }
+    },
+    {
+      "word": "Kaleidoscopic",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Multicolored and changing",
+      "example": "The kaleidoscopic display dazzled the audience.",
+      "chinese": {
+        "meaning": "多彩多姿的",
+        "example": "多彩多姿的展示令觀眾目眩神迷。"
+      }
+    },
+    {
+      "word": "Keen-witted",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Quick to understand or respond",
+      "example": "The keen-witted student answered all questions correctly.",
+      "chinese": {
+        "meaning": "機智的",
+        "example": "那位機智的學生答對了所有問題。"
+      }
+    },
+    {
+      "word": "Kooky",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Eccentric in a fun way",
+      "example": "Her kooky personality made her popular.",
+      "chinese": {
+        "meaning": "古怪有趣的",
+        "example": "她古怪的個性使她很受歡迎。"
+      }
+    },
+    {
+      "word": "Knotty",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Difficult to unravel or understand",
+      "example": "The knotty mystery puzzled the detectives.",
+      "chinese": {
+        "meaning": "複雜的",
+        "example": "這個複雜的謎題讓偵探們困惑。"
+      }
+    },
+    {
+      "word": "Knowledgeable",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Well-informed",
+      "example": "She is knowledgeable about world affairs.",
+      "chinese": {
+        "meaning": "博學的",
+        "example": "她對世界事務很博學。"
+      }
+    },
+    {
+      "word": "Kempt",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Neatly maintained",
+      "example": "His kempt garden was admired by neighbors.",
+      "chinese": {
+        "meaning": "整潔的",
+        "example": "他整潔的花園受到鄰居讚賞。"
+      }
+    }
+  ]
+}

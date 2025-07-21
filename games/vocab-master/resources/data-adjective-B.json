@@ -1,0 +1,620 @@
+{
+  "words": [
+    {
+      "word": "Balanced",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Keeping or showing a balance; arranged in good proportions",
+      "example": "She presented a balanced argument.",
+      "chinese": {
+        "meaning": "平衡的；公正的",
+        "example": "她提出了一個平衡的論點。"
+      }
+    },
+    {
+      "word": "Barren",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Too poor to produce much or any vegetation; unproductive",
+      "example": "The land was barren and dry.",
+      "chinese": {
+        "meaning": "貧瘠的",
+        "example": "這塊土地貧瘠乾燥。"
+      }
+    },
+    {
+      "word": "Basic",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Forming an essential foundation or starting point",
+      "example": "Students must grasp basic concepts first.",
+      "chinese": {
+        "meaning": "基本的",
+        "example": "學生必須先掌握基本概念。"
+      }
+    },
+    {
+      "word": "Beautiful",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Pleasing the senses or mind aesthetically",
+      "example": "She wore a beautiful dress.",
+      "chinese": {
+        "meaning": "美麗的",
+        "example": "她穿著一件美麗的連衣裙。"
+      }
+    },
+    {
+      "word": "Belated",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Coming or happening later than should have been the case",
+      "example": "He sent a belated birthday card.",
+      "chinese": {
+        "meaning": "遲來的",
+        "example": "他寄了一張遲來的生日卡。"
+      }
+    },
+    {
+      "word": "Believable",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Able to be believed; credible",
+      "example": "Her story was not very believable.",
+      "chinese": {
+        "meaning": "可信的",
+        "example": "她的故事不太可信。"
+      }
+    },
+    {
+      "word": "Belligerent",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Hostile and aggressive",
+      "example": "He became belligerent after the argument.",
+      "chinese": {
+        "meaning": "好鬥的",
+        "example": "爭吵後他變得好鬥。"
+      }
+    },
+    {
+      "word": "Beneficial",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Producing good or helpful results",
+      "example": "A balanced diet is beneficial to health.",
+      "chinese": {
+        "meaning": "有益的",
+        "example": "均衡飲食對健康有益。"
+      }
+    },
+    {
+      "word": "Benevolent",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Well meaning and kindly",
+      "example": "She gave a benevolent smile.",
+      "chinese": {
+        "meaning": "仁慈的",
+        "example": "她露出了仁慈的微笑。"
+      }
+    },
+    {
+      "word": "Benign",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Gentle and kindly; not harmful",
+      "example": "The tumor was found to be benign.",
+      "chinese": {
+        "meaning": "良性的；和善的",
+        "example": "腫瘤被發現是良性的。"
+      }
+    },
+    {
+      "word": "Bewildered",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Confused and indecisive; puzzled",
+      "example": "He looked bewildered by the question.",
+      "chinese": {
+        "meaning": "困惑的",
+        "example": "他被這個問題弄得很困惑。"
+      }
+    },
+    {
+      "word": "Biased",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Unfairly prejudiced for or against someone or something",
+      "example": "The article was clearly biased.",
+      "chinese": {
+        "meaning": "有偏見的",
+        "example": "這篇文章顯然有偏見。"
+      }
+    },
+    {
+      "word": "Big",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Of considerable size, extent, or intensity",
+      "example": "They live in a big house.",
+      "chinese": {
+        "meaning": "大的",
+        "example": "他們住在一棟大房子裡。"
+      }
+    },
+    {
+      "word": "Bilateral",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Having or relating to two sides; affecting both sides",
+      "example": "They signed a bilateral agreement.",
+      "chinese": {
+        "meaning": "雙邊的",
+        "example": "他們簽署了一項雙邊協議。"
+      }
+    },
+    {
+      "word": "Bilingual",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Speaking two languages fluently",
+      "example": "The bilingual student translated for the class.",
+      "chinese": {
+        "meaning": "雙語的",
+        "example": "這位雙語學生為班上翻譯。"
+      }
+    },
+    {
+      "word": "Bitter",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Having a sharp, pungent taste or smell; not sweet; angry or hurt",
+      "example": "He felt bitter about the defeat.",
+      "chinese": {
+        "meaning": "苦的；痛苦的",
+        "example": "他對失敗感到痛苦。"
+      }
+    },
+    {
+      "word": "Bizarre",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Very strange or unusual",
+      "example": "She wore a bizarre costume.",
+      "chinese": {
+        "meaning": "奇異的",
+        "example": "她穿著奇異的服裝。"
+      }
+    },
+    {
+      "word": "Black",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Of the very darkest color owing to the absence of or complete absorption of light",
+      "example": "He wore a black suit.",
+      "chinese": {
+        "meaning": "黑色的",
+        "example": "他穿著黑色的西裝。"
+      }
+    },
+    {
+      "word": "Blank",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Not marked or filled in; empty",
+      "example": "She handed me a blank sheet of paper.",
+      "chinese": {
+        "meaning": "空白的",
+        "example": "她遞給我一張空白的紙。"
+      }
+    },
+    {
+      "word": "Bleak",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Lacking vegetation and exposed to the elements; cold and miserable",
+      "example": "The outlook for the economy is bleak.",
+      "chinese": {
+        "meaning": "荒涼的；黯淡的",
+        "example": "經濟前景黯淡。"
+      }
+    },
+    {
+      "word": "Blind",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Unable to see; lacking perception or awareness",
+      "example": "He is blind in one eye.",
+      "chinese": {
+        "meaning": "失明的；盲目的",
+        "example": "他一隻眼睛失明。"
+      }
+    },
+    {
+      "word": "Blissful",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Extremely happy; full of joy",
+      "example": "They shared a blissful moment together.",
+      "chinese": {
+        "meaning": "極樂的",
+        "example": "他們一起度過了極樂的時光。"
+      }
+    },
+    {
+      "word": "Blond",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Having fair or pale yellow hair",
+      "example": "She has blond hair.",
+      "chinese": {
+        "meaning": "金髮的",
+        "example": "她有一頭金髮。"
+      }
+    },
+    {
+      "word": "Bloody",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Covered in blood; involving or characterized by bloodshed",
+      "example": "He had a bloody nose.",
+      "chinese": {
+        "meaning": "血腥的",
+        "example": "他流了鼻血。"
+      }
+    },
+    {
+      "word": "Blunt",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Speaking in an honest but sometimes rude way",
+      "example": "His blunt criticism surprised everyone.",
+      "chinese": {
+        "meaning": "直率的",
+        "example": "他直率的批評讓大家都很驚訝。"
+      }
+    },
+    {
+      "word": "Blurry",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Not clear; difficult to see",
+      "example": "The photo is blurry.",
+      "chinese": {
+        "meaning": "模糊的",
+        "example": "這張照片很模糊。"
+      }
+    },
+    {
+      "word": "Boastful",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Showing excessive pride and self-satisfaction in one's achievements",
+      "example": "He was boastful about his success.",
+      "chinese": {
+        "meaning": "自誇的",
+        "example": "他對自己的成功很自誇。"
+      }
+    },
+    {
+      "word": "Bodily",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Relating to the body",
+      "example": "He suffered bodily harm.",
+      "chinese": {
+        "meaning": "身體的",
+        "example": "他遭受了身體傷害。"
+      }
+    },
+    {
+      "word": "Boiling",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "At or near the temperature at which a liquid boils; very hot",
+      "example": "It was a boiling hot day.",
+      "chinese": {
+        "meaning": "沸騰的；極熱的",
+        "example": "那天非常炎熱。"
+      }
+    },
+    {
+      "word": "Bold",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Showing a willingness to take risks; confident and courageous",
+      "example": "It was a bold decision to speak out.",
+      "chinese": {
+        "meaning": "大膽的",
+        "example": "發聲是個大膽的決定。"
+      }
+    },
+    {
+      "word": "Bony",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Very thin so that the bones can be seen under the skin",
+      "example": "He had a bony face.",
+      "chinese": {
+        "meaning": "瘦骨嶙峋的",
+        "example": "他有一張瘦骨嶙峋的臉。"
+      }
+    },
+    {
+      "word": "Booming",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Having a period of great prosperity or rapid economic growth",
+      "example": "The booming market attracted investors.",
+      "chinese": {
+        "meaning": "繁榮的",
+        "example": "繁榮的市場吸引了投資者。"
+      }
+    },
+    {
+      "word": "Bored",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Feeling weary and impatient because one is unoccupied or lacks interest",
+      "example": "She was bored during the lecture.",
+      "chinese": {
+        "meaning": "無聊的",
+        "example": "她在課堂上感到無聊。"
+      }
+    },
+    {
+      "word": "Boring",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Not interesting; tedious",
+      "example": "The movie was boring.",
+      "chinese": {
+        "meaning": "無聊的",
+        "example": "這部電影很無聊。"
+      }
+    },
+    {
+      "word": "Bossy",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Fond of giving people orders; domineering",
+      "example": "Her bossy attitude annoyed her colleagues.",
+      "chinese": {
+        "meaning": "專橫的",
+        "example": "她專橫的態度讓同事們很煩惱。"
+      }
+    },
+    {
+      "word": "Both",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Used to refer to two people or things, regarded and identified together",
+      "example": "Both answers are correct.",
+      "chinese": {
+        "meaning": "兩者的",
+        "example": "兩個答案都是正確的。"
+      }
+    },
+    {
+      "word": "Boundless",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Unlimited or immense",
+      "example": "She has boundless energy.",
+      "chinese": {
+        "meaning": "無限的",
+        "example": "她有無限的精力。"
+      }
+    },
+    {
+      "word": "Brave",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Ready to face and endure danger or pain; showing courage",
+      "example": "The brave firefighter rescued the child.",
+      "chinese": {
+        "meaning": "勇敢的",
+        "example": "勇敢的消防員救了那個孩子。"
+      }
+    },
+    {
+      "word": "Breathtaking",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Astonishing or awe-inspiring in quality, so as to take one's breath away",
+      "example": "The view from the mountain was breathtaking.",
+      "chinese": {
+        "meaning": "令人驚嘆的",
+        "example": "山上的景色令人驚嘆。"
+      }
+    },
+    {
+      "word": "Brief",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Short in duration, extent, or length",
+      "example": "The introduction was brief but effective.",
+      "chinese": {
+        "meaning": "簡短的",
+        "example": "這段介紹簡短卻有效。"
+      }
+    },
+    {
+      "word": "Bright",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Giving out or reflecting a lot of light; intelligent",
+      "example": "She is a bright student.",
+      "chinese": {
+        "meaning": "明亮的；聰明的",
+        "example": "她是一個聰明的學生。"
+      }
+    },
+    {
+      "word": "Brilliant",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Exceptionally clever or talented; very bright",
+      "example": "He came up with a brilliant idea.",
+      "chinese": {
+        "meaning": "傑出的；燦爛的",
+        "example": "他想出了一個傑出的主意。"
+      }
+    },
+    {
+      "word": "Brisk",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Active and energetic; quick",
+      "example": "They went for a brisk walk.",
+      "chinese": {
+        "meaning": "輕快的",
+        "example": "他們去散步，步伐很輕快。"
+      }
+    },
+    {
+      "word": "Broad",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Wide in extent or scope",
+      "example": "He has a broad understanding of politics.",
+      "chinese": {
+        "meaning": "廣泛的",
+        "example": "他對政治有廣泛的理解。"
+      }
+    },
+    {
+      "word": "Broken",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Having been fractured or damaged and no longer in one piece or in working order",
+      "example": "His arm was broken.",
+      "chinese": {
+        "meaning": "破碎的",
+        "example": "他的手臂骨折了。"
+      }
+    },
+    {
+      "word": "Bronze",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Made of or colored like bronze",
+      "example": "She won the bronze medal.",
+      "chinese": {
+        "meaning": "青銅的",
+        "example": "她贏得了銅牌。"
+      }
+    },
+    {
+      "word": "Brutal",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Savagely violent; harsh",
+      "example": "It was a brutal attack.",
+      "chinese": {
+        "meaning": "殘忍的",
+        "example": "那是一場殘忍的攻擊。"
+      }
+    },
+    {
+      "word": "Bubbly",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Full of cheerful high spirits",
+      "example": "She has a bubbly personality.",
+      "chinese": {
+        "meaning": "活潑的",
+        "example": "她個性活潑。"
+      }
+    },
+    {
+      "word": "Bulky",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Taking up much space, typically inconveniently; large and unwieldy",
+      "example": "The package was too bulky to carry.",
+      "chinese": {
+        "meaning": "龐大的",
+        "example": "這個包裹太大，難以攜帶。"
+      }
+    },
+    {
+      "word": "Bumpy",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Covered with or full of bumps; uneven",
+      "example": "The road was bumpy.",
+      "chinese": {
+        "meaning": "顛簸的",
+        "example": "這條路很顛簸。"
+      }
+    },
+    {
+      "word": "Buoyant",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Able to float; cheerful and optimistic",
+      "example": "She has a buoyant personality.",
+      "chinese": {
+        "meaning": "有浮力的；樂觀的",
+        "example": "她個性樂觀。"
+      }
+    },
+    {
+      "word": "Burdensome",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Difficult to carry out or fulfill; taxing",
+      "example": "The new regulations are burdensome.",
+      "chinese": {
+        "meaning": "繁重的",
+        "example": "新規定很繁重。"
+      }
+    },
+    {
+      "word": "Busy",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Having a great deal to do; occupied",
+      "example": "He is always busy with work.",
+      "chinese": {
+        "meaning": "忙碌的",
+        "example": "他總是忙於工作。"
+      }
+    },
+    {
+      "word": "Bustling",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Full of energetic and noisy activity",
+      "example": "The market was bustling with shoppers.",
+      "chinese": {
+        "meaning": "熙熙攘攘的",
+        "example": "市場上熙熙攘攘，人來人往。"
+      }
+    },
+    {
+      "word": "Busybody",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Meddling or prying into others' affairs",
+      "example": "He is such a busybody neighbor.",
+      "chinese": {
+        "meaning": "愛管閒事的",
+        "example": "他是個愛管閒事的鄰居。"
+      }
+    },
+    {
+      "word": "Buzzing",
+      "type": "adjective",
+      "letter": "B",
+      "meaning": "Making a continuous humming sound; lively and exciting",
+      "example": "The buzzing city never sleeps.",
+      "chinese": {
+        "meaning": "嗡嗡作響的；熱鬧的",
+        "example": "這座城市總是熱鬧非凡。"
+      }
+    }
+  ]
+}

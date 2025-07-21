@@ -1,0 +1,818 @@
+{
+  "words": [
+    {
+      "word": "Dainty",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Delicately small and pretty",
+      "example": "She wore a dainty silver necklace.",
+      "chinese": {
+        "meaning": "精緻的；嬌小的",
+        "example": "她戴著一條精緻的銀項鍊。"
+      }
+    },
+    {
+      "word": "Damaging",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Causing harm or injury",
+      "example": "The damaging effects of pollution are evident.",
+      "chinese": {
+        "meaning": "有害的；損害的",
+        "example": "污染造成的有害影響很明顯。"
+      }
+    },
+    {
+      "word": "Damp",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Slightly wet",
+      "example": "The clothes were still damp after drying.",
+      "chinese": {
+        "meaning": "潮濕的",
+        "example": "衣服曬完後還是有點潮濕。"
+      }
+    },
+    {
+      "word": "Daring",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Willing to take risks; bold",
+      "example": "The daring rescue attempt was successful.",
+      "chinese": {
+        "meaning": "大膽的",
+        "example": "這次大膽的救援行動成功了。"
+      }
+    },
+    {
+      "word": "Dark",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Lacking light; gloomy or mysterious in tone",
+      "example": "The novel had a dark and suspenseful theme.",
+      "chinese": {
+        "meaning": "黑暗的；陰鬱的",
+        "example": "這部小說的主題黑暗而懸疑。"
+      }
+    },
+    {
+      "word": "Dashing",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Attractive in a confident and stylish way",
+      "example": "He looked dashing in his new suit.",
+      "chinese": {
+        "meaning": "瀟灑的；有型的",
+        "example": "他穿著新西裝顯得非常瀟灑。"
+      }
+    },
+    {
+      "word": "Daunting",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Seeming difficult to deal with; intimidating",
+      "example": "Climbing the mountain seemed a daunting task.",
+      "chinese": {
+        "meaning": "令人生畏的",
+        "example": "爬那座山看起來是一項令人生畏的任務。"
+      }
+    },
+    {
+      "word": "Dazzling",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Extremely impressive, beautiful, or skillful",
+      "example": "She gave a dazzling performance on stage.",
+      "chinese": {
+        "meaning": "耀眼的；令人驚嘆的",
+        "example": "她在舞台上的表演令人驚嘆。"
+      }
+    },
+    {
+      "word": "Deadly",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Causing or able to cause death; extremely effective",
+      "example": "The virus had a deadly impact on the population.",
+      "chinese": {
+        "meaning": "致命的",
+        "example": "這種病毒對人口造成致命影響。"
+      }
+    },
+    {
+      "word": "Deafening",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Very loud",
+      "example": "The crowd gave a deafening cheer.",
+      "chinese": {
+        "meaning": "震耳欲聾的",
+        "example": "人群發出震耳欲聾的歡呼聲。"
+      }
+    },
+    {
+      "word": "Dear",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Loved or valued very much",
+      "example": "She is very dear to her family.",
+      "chinese": {
+        "meaning": "親愛的；珍貴的",
+        "example": "她對家人來說非常珍貴。"
+      }
+    },
+    {
+      "word": "Debatable",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Open to discussion or argument",
+      "example": "That is a debatable point.",
+      "chinese": {
+        "meaning": "有爭議的",
+        "example": "這是一個有爭議的觀點。"
+      }
+    },
+    {
+      "word": "Decent",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Respectable and proper",
+      "example": "He comes from a decent family background.",
+      "chinese": {
+        "meaning": "正派的；體面的",
+        "example": "他來自一個體面的家庭。"
+      }
+    },
+    {
+      "word": "Deceptive",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Giving an appearance or impression different from the true one",
+      "example": "Appearances can be deceptive.",
+      "chinese": {
+        "meaning": "欺騙性的",
+        "example": "表面往往具有欺騙性。"
+      }
+    },
+    {
+      "word": "Decisive",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Able to make decisions quickly and confidently",
+      "example": "Her decisive actions prevented a disaster.",
+      "chinese": {
+        "meaning": "果斷的",
+        "example": "她果斷的行動避免了一場災難。"
+      }
+    },
+    {
+      "word": "Decorative",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Serving to make something look more attractive",
+      "example": "The decorative lights brightened the room.",
+      "chinese": {
+        "meaning": "裝飾性的",
+        "example": "裝飾燈讓房間更加明亮。"
+      }
+    },
+    {
+      "word": "Dedicated",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Devoted to a task or purpose",
+      "example": "He is a dedicated teacher who always supports his students.",
+      "chinese": {
+        "meaning": "投入的；專注的",
+        "example": "他是一位全心投入、支持學生的老師。"
+      }
+    },
+    {
+      "word": "Defensive",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Used or intended to defend or protect",
+      "example": "Her defensive response showed she felt threatened.",
+      "chinese": {
+        "meaning": "防衛性的；辯解的",
+        "example": "她的防衛性回應顯示她感到受威脅。"
+      }
+    },
+    {
+      "word": "Defiant",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Showing resistance or disobedience",
+      "example": "The child gave a defiant look to his parents.",
+      "chinese": {
+        "meaning": "挑戰的；反抗的",
+        "example": "那孩子挑戰地看著父母。"
+      }
+    },
+    {
+      "word": "Deficient",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Not having enough of something",
+      "example": "The diet was deficient in vitamins.",
+      "chinese": {
+        "meaning": "缺乏的",
+        "example": "這種飲食缺乏維生素。"
+      }
+    },
+    {
+      "word": "Definite",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Clearly stated or decided; not vague",
+      "example": "We need a definite answer by tomorrow.",
+      "chinese": {
+        "meaning": "明確的",
+        "example": "我們明天需要一個明確的答覆。"
+      }
+    },
+    {
+      "word": "Delectable",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Delicious or extremely pleasant",
+      "example": "The cake was simply delectable.",
+      "chinese": {
+        "meaning": "美味的；令人愉快的",
+        "example": "這蛋糕非常美味。"
+      }
+    },
+    {
+      "word": "Deliberate",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Done consciously and intentionally",
+      "example": "It was a deliberate attempt to mislead the public.",
+      "chinese": {
+        "meaning": "故意的；深思熟慮的",
+        "example": "這是故意誤導公眾的行為。"
+      }
+    },
+    {
+      "word": "Delicate",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Easily broken or damaged; requiring careful handling",
+      "example": "The artist painted delicate flowers.",
+      "chinese": {
+        "meaning": "脆弱的；精細的",
+        "example": "藝術家畫了精緻的花朵。"
+      }
+    },
+    {
+      "word": "Delightful",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Very pleasant or enjoyable",
+      "example": "We had a delightful afternoon in the park.",
+      "chinese": {
+        "meaning": "令人愉快的",
+        "example": "我們在公園度過了一個愉快的下午。"
+      }
+    },
+    {
+      "word": "Demanding",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Requiring much effort or attention",
+      "example": "The teacher set demanding expectations for the students.",
+      "chinese": {
+        "meaning": "要求高的",
+        "example": "老師對學生的期望很高。"
+      }
+    },
+    {
+      "word": "Dense",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Closely packed together; thick",
+      "example": "The forest was dense and hard to walk through.",
+      "chinese": {
+        "meaning": "密集的；濃密的",
+        "example": "那片森林非常密集，難以穿越。"
+      }
+    },
+    {
+      "word": "Dependent",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Relying on someone or something else",
+      "example": "Young children are dependent on their parents.",
+      "chinese": {
+        "meaning": "依賴的",
+        "example": "小孩依賴父母。"
+      }
+    },
+    {
+      "word": "Deplorable",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Deserving strong condemnation; shockingly bad",
+      "example": "The living conditions were deplorable.",
+      "chinese": {
+        "meaning": "可悲的；糟糕的",
+        "example": "生活條件非常糟糕。"
+      }
+    },
+    {
+      "word": "Deprived",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Lacking basic necessities",
+      "example": "The children were deprived of a proper education.",
+      "chinese": {
+        "meaning": "被剝奪的；貧困的",
+        "example": "這些孩子被剝奪了受良好教育的機會。"
+      }
+    },
+    {
+      "word": "Descriptive",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Giving details about; illustrating",
+      "example": "She used descriptive language in her essay.",
+      "chinese": {
+        "meaning": "描述性的",
+        "example": "她在作文中使用了描述性的語言。"
+      }
+    },
+    {
+      "word": "Desirable",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Worth having or wanting",
+      "example": "A desirable job offers good pay and satisfaction.",
+      "chinese": {
+        "meaning": "理想的；值得擁有的",
+        "example": "理想的工作薪資和滿足感都很高。"
+      }
+    },
+    {
+      "word": "Desolate",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Empty and without life; deserted",
+      "example": "The town looked desolate after the storm.",
+      "chinese": {
+        "meaning": "荒涼的",
+        "example": "暴風雨過後，這個小鎮顯得很荒涼。"
+      }
+    },
+    {
+      "word": "Desperate",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Feeling or showing a hopeless sense that a situation is so bad as to be impossible to deal with",
+      "example": "He made a desperate attempt to escape.",
+      "chinese": {
+        "meaning": "絕望的；拼命的",
+        "example": "他拼命想逃脫。"
+      }
+    },
+    {
+      "word": "Detailed",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Including many small parts or facts",
+      "example": "She gave a detailed explanation.",
+      "chinese": {
+        "meaning": "詳細的",
+        "example": "她給出了詳細的說明。"
+      }
+    },
+    {
+      "word": "Determined",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Having made a firm decision and being resolved not to change it",
+      "example": "She was determined to win.",
+      "chinese": {
+        "meaning": "堅決的",
+        "example": "她下定決心要贏。"
+      }
+    },
+    {
+      "word": "Devastating",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Highly destructive or damaging",
+      "example": "The earthquake had devastating effects.",
+      "chinese": {
+        "meaning": "毀滅性的",
+        "example": "地震造成了毀滅性的影響。"
+      }
+    },
+    {
+      "word": "Devoted",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Very loving or loyal",
+      "example": "He is devoted to his family.",
+      "chinese": {
+        "meaning": "忠誠的；摯愛的",
+        "example": "他對家人非常忠誠。"
+      }
+    },
+    {
+      "word": "Difficult",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Needing much effort or skill; hard to do",
+      "example": "Math can be a difficult subject.",
+      "chinese": {
+        "meaning": "困難的",
+        "example": "數學可能是一門困難的科目。"
+      }
+    },
+    {
+      "word": "Different",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Not the same as another",
+      "example": "They have different opinions.",
+      "chinese": {
+        "meaning": "不同的",
+        "example": "他們有不同的意見。"
+      }
+    },
+    {
+      "word": "Dignified",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Having or showing a composed or serious manner",
+      "example": "He looked dignified in his uniform.",
+      "chinese": {
+        "meaning": "有尊嚴的",
+        "example": "他穿著制服看起來很有尊嚴。"
+      }
+    },
+    {
+      "word": "Diligent",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Showing care and effort in work or duties",
+      "example": "She is a diligent student.",
+      "chinese": {
+        "meaning": "勤奮的",
+        "example": "她是一位勤奮的學生。"
+      }
+    },
+    {
+      "word": "Dim",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Not bright or clear",
+      "example": "The room was dimly lit.",
+      "chinese": {
+        "meaning": "昏暗的",
+        "example": "房間燈光昏暗。"
+      }
+    },
+    {
+      "word": "Diminutive",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Very small",
+      "example": "She has a diminutive figure.",
+      "chinese": {
+        "meaning": "小巧的",
+        "example": "她身材小巧。"
+      }
+    },
+    {
+      "word": "Diplomatic",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Tactful in dealing with people",
+      "example": "He gave a diplomatic answer.",
+      "chinese": {
+        "meaning": "圓滑的；外交的",
+        "example": "他給了一個圓滑的答案。"
+      }
+    },
+    {
+      "word": "Dire",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Extremely serious or urgent",
+      "example": "The refugees are in dire need of help.",
+      "chinese": {
+        "meaning": "極其嚴重的",
+        "example": "難民極需幫助。"
+      }
+    },
+    {
+      "word": "Dirty",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Not clean",
+      "example": "The children came home with dirty clothes.",
+      "chinese": {
+        "meaning": "骯髒的",
+        "example": "孩子們穿著髒衣服回家。"
+      }
+    },
+    {
+      "word": "Disagreeable",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Unpleasant or offensive",
+      "example": "He has a disagreeable attitude.",
+      "chinese": {
+        "meaning": "令人不快的",
+        "example": "他的態度令人不快。"
+      }
+    },
+    {
+      "word": "Disastrous",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Causing great damage",
+      "example": "The flood was disastrous for the town.",
+      "chinese": {
+        "meaning": "災難性的",
+        "example": "洪水對小鎮造成災難性影響。"
+      }
+    },
+    {
+      "word": "Disciplined",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Well-behaved and controlled",
+      "example": "The soldiers are highly disciplined.",
+      "chinese": {
+        "meaning": "有紀律的",
+        "example": "士兵們紀律嚴明。"
+      }
+    },
+    {
+      "word": "Discreet",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Careful in one's speech or actions",
+      "example": "She was discreet about her private life.",
+      "chinese": {
+        "meaning": "謹慎的",
+        "example": "她對自己的私生活很謹慎。"
+      }
+    },
+    {
+      "word": "Disgusted",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Feeling or expressing strong dislike",
+      "example": "He looked disgusted by the mess.",
+      "chinese": {
+        "meaning": "感到厭惡的",
+        "example": "他對這一團亂感到厭惡。"
+      }
+    },
+    {
+      "word": "Dishonest",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Not truthful; likely to cheat or lie",
+      "example": "Dishonest behavior is not tolerated.",
+      "chinese": {
+        "meaning": "不誠實的",
+        "example": "不誠實的行為是不能容忍的。"
+      }
+    },
+    {
+      "word": "Dismal",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Depressing; gloomy",
+      "example": "It was a dismal rainy day.",
+      "chinese": {
+        "meaning": "陰沉的；令人沮喪的",
+        "example": "那是個陰沉的雨天。"
+      }
+    },
+    {
+      "word": "Distant",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Far away in space or time",
+      "example": "They could see distant mountains.",
+      "chinese": {
+        "meaning": "遙遠的",
+        "example": "他們可以看到遠處的山。"
+      }
+    },
+    {
+      "word": "Distinct",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Clearly different; easily noticed",
+      "example": "There was a distinct improvement.",
+      "chinese": {
+        "meaning": "明顯的；不同的",
+        "example": "有明顯的進步。"
+      }
+    },
+    {
+      "word": "Distraught",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Deeply upset and agitated",
+      "example": "She was distraught after hearing the news.",
+      "chinese": {
+        "meaning": "心煩意亂的",
+        "example": "聽到這消息後她心煩意亂。"
+      }
+    },
+    {
+      "word": "Diverse",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Showing a great deal of variety",
+      "example": "Sydney is a culturally diverse city.",
+      "chinese": {
+        "meaning": "多樣的",
+        "example": "雪梨是一個文化多元的城市。"
+      }
+    },
+    {
+      "word": "Divine",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Of, from, or like God; wonderful",
+      "example": "The food tasted divine.",
+      "chinese": {
+        "meaning": "神聖的；極好的",
+        "example": "這食物味道極好。"
+      }
+    },
+    {
+      "word": "Dizzy",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Having or involving a sensation of spinning around",
+      "example": "He felt dizzy after spinning in circles.",
+      "chinese": {
+        "meaning": "頭暈的",
+        "example": "他轉圈後感到頭暈。"
+      }
+    },
+    {
+      "word": "Docile",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Ready to accept control; submissive",
+      "example": "The docile puppy followed every command.",
+      "chinese": {
+        "meaning": "溫順的",
+        "example": "這隻小狗很溫順，聽從每個指令。"
+      }
+    },
+    {
+      "word": "Dogged",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Having or showing tenacity and persistence",
+      "example": "Her dogged determination impressed everyone.",
+      "chinese": {
+        "meaning": "頑強的；堅持不懈的",
+        "example": "她頑強的決心讓大家印象深刻。"
+      }
+    },
+    {
+      "word": "Domestic",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Relating to the home or family; not foreign",
+      "example": "Domestic chores can be tiring.",
+      "chinese": {
+        "meaning": "家庭的；國內的",
+        "example": "家務事可能很累人。"
+      }
+    },
+    {
+      "word": "Dominant",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Most important, powerful, or influential",
+      "example": "English is the dominant language in Australia.",
+      "chinese": {
+        "meaning": "主要的；支配的",
+        "example": "英語是澳洲的主要語言。"
+      }
+    },
+    {
+      "word": "Doubtful",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Feeling uncertain about something",
+      "example": "It is doubtful that he will come.",
+      "chinese": {
+        "meaning": "懷疑的",
+        "example": "他是否會來還很懷疑。"
+      }
+    },
+    {
+      "word": "Downcast",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Feeling sad or depressed",
+      "example": "She looked downcast after the loss.",
+      "chinese": {
+        "meaning": "沮喪的",
+        "example": "她輸了比賽後看起來很沮喪。"
+      }
+    },
+    {
+      "word": "Dramatic",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Sudden and striking; related to drama",
+      "example": "There was a dramatic change in the weather.",
+      "chinese": {
+        "meaning": "戲劇性的；引人注目的",
+        "example": "天氣發生了戲劇性的變化。"
+      }
+    },
+    {
+      "word": "Dreadful",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Causing fear or suffering; very bad",
+      "example": "The food tasted dreadful.",
+      "chinese": {
+        "meaning": "可怕的；糟糕的",
+        "example": "食物味道很糟糕。"
+      }
+    },
+    {
+      "word": "Dreamy",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Having a magical or pleasantly unreal quality",
+      "example": "The music had a dreamy quality.",
+      "chinese": {
+        "meaning": "夢幻的",
+        "example": "音樂帶有夢幻的感覺。"
+      }
+    },
+    {
+      "word": "Dreary",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Dull, bleak, and lifeless",
+      "example": "It was a cold and dreary day.",
+      "chinese": {
+        "meaning": "沉悶的；陰鬱的",
+        "example": "那天又冷又沉悶。"
+      }
+    },
+    {
+      "word": "Dubious",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Hesitating or doubting; not to be relied upon",
+      "example": "He gave a dubious explanation.",
+      "chinese": {
+        "meaning": "可疑的；懷疑的",
+        "example": "他的解釋令人懷疑。"
+      }
+    },
+    {
+      "word": "Dull",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Lacking interest or excitement; not bright",
+      "example": "The lecture was dull and boring.",
+      "chinese": {
+        "meaning": "無聊的；不鮮明的",
+        "example": "這場演講很無聊。"
+      }
+    },
+    {
+      "word": "Durable",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Able to withstand wear, pressure, or damage",
+      "example": "This phone is made from durable materials.",
+      "chinese": {
+        "meaning": "耐用的",
+        "example": "這款手機用的是耐用的材料。"
+      }
+    },
+    {
+      "word": "Dynamic",
+      "type": "adjective",
+      "letter": "D",
+      "meaning": "Characterized by constant change or activity",
+      "example": "She is a dynamic leader.",
+      "chinese": {
+        "meaning": "有活力的；動態的",
+        "example": "她是一位有活力的領袖。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "words": [
+    {
+      "word": "Able",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Having the power, skill, or means to do something",
+      "example": "She is able to complete complex tasks independently.",
+      "chinese": {
+        "meaning": "有能力的",
+        "example": "她能夠獨立完成複雜的任務。"
+      }
+    },
+    {
+      "word": "Absolute",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Complete and total",
+      "example": "He showed absolute confidence in his plan.",
+      "chinese": {
+        "meaning": "絕對的",
+        "example": "他對自己的計劃充滿絕對的信心。"
+      }
+    },
+    {
+      "word": "Absurd",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Wildly unreasonable, illogical, or inappropriate",
+      "example": "The idea was completely absurd.",
+      "chinese": {
+        "meaning": "荒謬的",
+        "example": "這個想法完全荒謬。"
+      }
+    },
+    {
+      "word": "Abundant",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Existing or available in large quantities",
+      "example": "The region is abundant in natural resources.",
+      "chinese": {
+        "meaning": "豐富的",
+        "example": "這個地區自然資源豐富。"
+      }
+    },
+    {
+      "word": "Academic",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Related to education or scholarly activities",
+      "example": "Her academic achievements were impressive.",
+      "chinese": {
+        "meaning": "學術的",
+        "example": "她的學術成就令人印象深刻。"
+      }
+    },
+    {
+      "word": "Acceptable",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Satisfactory or allowable",
+      "example": "The explanation was considered acceptable by the teacher.",
+      "chinese": {
+        "meaning": "可接受的",
+        "example": "老師認為這個解釋是可以接受的。"
+      }
+    },
+    {
+      "word": "Accessible",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Able to be reached or easily used",
+      "example": "The article is accessible to a wide audience.",
+      "chinese": {
+        "meaning": "易接近的；易理解的",
+        "example": "這篇文章適合廣泛的讀者閱讀。"
+      }
+    },
+    {
+      "word": "Accidental",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Happening by chance, unintentionally",
+      "example": "The damage was accidental, not deliberate.",
+      "chinese": {
+        "meaning": "偶然的",
+        "example": "這次損壞是偶然發生的，不是故意的。"
+      }
+    },
+    {
+      "word": "Accurate",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Free from mistakes or errors",
+      "example": "The data was accurate and reliable.",
+      "chinese": {
+        "meaning": "準確的",
+        "example": "這些數據準確且可靠。"
+      }
+    },
+    {
+      "word": "Active",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Engaging or ready to engage in energetic work",
+      "example": "She played an active role in the project.",
+      "chinese": {
+        "meaning": "積極的",
+        "example": "她在這個項目中發揮了積極作用。"
+      }
+    },
+    {
+      "word": "Actual",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Existing in fact; real",
+      "example": "The actual cost was higher than expected.",
+      "chinese": {
+        "meaning": "實際的",
+        "example": "實際成本比預期高。"
+      }
+    },
+    {
+      "word": "Adaptable",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Able to adjust to new conditions",
+      "example": "He is highly adaptable in changing environments.",
+      "chinese": {
+        "meaning": "適應力強的",
+        "example": "他能在變化的環境中快速適應。"
+      }
+    },
+    {
+      "word": "Addictive",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Causing a strong need to regularly have or do something",
+      "example": "Some games are highly addictive.",
+      "chinese": {
+        "meaning": "令人上癮的",
+        "example": "有些遊戲非常令人上癮。"
+      }
+    },
+    {
+      "word": "Adequate",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Enough or satisfactory for a particular purpose",
+      "example": "The food was adequate for everyone.",
+      "chinese": {
+        "meaning": "足夠的",
+        "example": "食物足夠每個人享用。"
+      }
+    },
+    {
+      "word": "Admirable",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Deserving respect or approval",
+      "example": "His dedication to the team is admirable.",
+      "chinese": {
+        "meaning": "令人欽佩的",
+        "example": "他對團隊的奉獻精神令人欽佩。"
+      }
+    },
+    {
+      "word": "Adorable",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Inspiring great affection; cute",
+      "example": "The puppy is absolutely adorable.",
+      "chinese": {
+        "meaning": "可愛的",
+        "example": "這隻小狗非常可愛。"
+      }
+    },
+    {
+      "word": "Adventurous",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Willing to take risks or try out new experiences",
+      "example": "She has an adventurous spirit.",
+      "chinese": {
+        "meaning": "愛冒險的",
+        "example": "她有冒險精神。"
+      }
+    },
+    {
+      "word": "Affectionate",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Showing fondness or tenderness",
+      "example": "He is very affectionate towards his family.",
+      "chinese": {
+        "meaning": "充滿感情的",
+        "example": "他對家人非常有愛心。"
+      }
+    },
+    {
+      "word": "Aggressive",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Ready or likely to attack or confront",
+      "example": "The company adopted an aggressive marketing strategy.",
+      "chinese": {
+        "meaning": "有攻擊性的",
+        "example": "公司採取了積極進取的行銷策略。"
+      }
+    },
+    {
+      "word": "Agile",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Able to move quickly and easily",
+      "example": "The gymnast is very agile.",
+      "chinese": {
+        "meaning": "靈活的",
+        "example": "這位體操選手非常靈活。"
+      }
+    },
+    {
+      "word": "Agreeable",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Enjoyable and pleasant; willing to agree",
+      "example": "The weather was agreeable for a picnic.",
+      "chinese": {
+        "meaning": "令人愉快的",
+        "example": "天氣適合野餐，非常愉快。"
+      }
+    },
+    {
+      "word": "Alert",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Quick to notice and respond to danger or problems",
+      "example": "Drivers must be alert at all times.",
+      "chinese": {
+        "meaning": "警覺的",
+        "example": "駕駛員必須時刻保持警覺。"
+      }
+    },
+    {
+      "word": "Alive",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Living; not dead",
+      "example": "The plant is still alive despite the cold.",
+      "chinese": {
+        "meaning": "活著的",
+        "example": "儘管天氣寒冷，這株植物仍然活著。"
+      }
+    },
+    {
+      "word": "Amazing",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Causing great surprise or wonder",
+      "example": "The magician performed an amazing trick.",
+      "chinese": {
+        "meaning": "令人驚奇的",
+        "example": "魔術師表演了一個令人驚奇的魔術。"
+      }
+    },
+    {
+      "word": "Ambitious",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Having a strong desire for success or achievement",
+      "example": "She is very ambitious and works hard.",
+      "chinese": {
+        "meaning": "有野心的",
+        "example": "她很有野心，努力工作。"
+      }
+    },
+    {
+      "word": "Ample",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Enough or more than enough; plentiful",
+      "example": "There was ample food for everyone.",
+      "chinese": {
+        "meaning": "充足的",
+        "example": "食物充足，大家都有份。"
+      }
+    },
+    {
+      "word": "Ancient",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Very old; from a long time ago",
+      "example": "They visited ancient ruins.",
+      "chinese": {
+        "meaning": "古老的",
+        "example": "他們參觀了古老的遺跡。"
+      }
+    },
+    {
+      "word": "Angry",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Feeling strong displeasure or hostility",
+      "example": "He was angry about the unfair decision.",
+      "chinese": {
+        "meaning": "生氣的",
+        "example": "他對不公平的決定感到生氣。"
+      }
+    },
+    {
+      "word": "Animated",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Full of life or excitement; lively",
+      "example": "She gave an animated presentation.",
+      "chinese": {
+        "meaning": "生動的",
+        "example": "她做了一個生動的簡報。"
+      }
+    },
+    {
+      "word": "Annoying",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Causing irritation or annoyance",
+      "example": "The noise outside was very annoying.",
+      "chinese": {
+        "meaning": "令人煩惱的",
+        "example": "外面的噪音令人煩惱。"
+      }
+    },
+    {
+      "word": "Anonymous",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Not identified by name; of unknown name",
+      "example": "The donation was made by an anonymous donor.",
+      "chinese": {
+        "meaning": "匿名的",
+        "example": "這筆捐款來自一位匿名捐贈者。"
+      }
+    },
+    {
+      "word": "Anxious",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Experiencing worry or unease",
+      "example": "She felt anxious before the exam.",
+      "chinese": {
+        "meaning": "焦慮的",
+        "example": "考試前她感到焦慮。"
+      }
+    },
+    {
+      "word": "Apparent",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Clearly visible or understood; obvious",
+      "example": "It was apparent that he was upset.",
+      "chinese": {
+        "meaning": "明顯的",
+        "example": "很明顯他很不高興。"
+      }
+    },
+    {
+      "word": "Appealing",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Attractive or interesting",
+      "example": "The design is very appealing to customers.",
+      "chinese": {
+        "meaning": "有吸引力的",
+        "example": "這個設計對顧客很有吸引力。"
+      }
+    },
+    {
+      "word": "Apprehensive",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Anxious or fearful that something bad will happen",
+      "example": "He felt apprehensive about the interview.",
+      "chinese": {
+        "meaning": "憂慮的",
+        "example": "他對面試感到憂慮。"
+      }
+    },
+    {
+      "word": "Appropriate",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Suitable or proper in the circumstances",
+      "example": "That was an appropriate response.",
+      "chinese": {
+        "meaning": "適當的",
+        "example": "那是一個適當的回應。"
+      }
+    },
+    {
+      "word": "Arbitrary",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Based on random choice or personal whim",
+      "example": "The decision seemed arbitrary.",
+      "chinese": {
+        "meaning": "隨意的",
+        "example": "這個決定似乎很隨意。"
+      }
+    },
+    {
+      "word": "Arctic",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Relating to the regions around the North Pole; very cold",
+      "example": "They explored the arctic environment.",
+      "chinese": {
+        "meaning": "北極的；極冷的",
+        "example": "他們探索了北極地區。"
+      }
+    },
+    {
+      "word": "Arrogant",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Having an exaggerated sense of one's own importance",
+      "example": "He sounded arrogant during the discussion.",
+      "chinese": {
+        "meaning": "傲慢的",
+        "example": "他在討論中表現得很傲慢。"
+      }
+    },
+    {
+      "word": "Artful",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Clever or skillful, especially in a crafty way",
+      "example": "She gave an artful answer to the tricky question.",
+      "chinese": {
+        "meaning": "巧妙的",
+        "example": "她巧妙地回答了那個棘手的問題。"
+      }
+    },
+    {
+      "word": "Artistic",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Having or showing creative skill or taste",
+      "example": "He has an artistic talent for painting.",
+      "chinese": {
+        "meaning": "有藝術天賦的",
+        "example": "他有繪畫的藝術天賦。"
+      }
+    },
+    {
+      "word": "Ashamed",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Feeling guilt or embarrassment",
+      "example": "She was ashamed of her mistake.",
+      "chinese": {
+        "meaning": "感到羞愧的",
+        "example": "她對自己的錯誤感到羞愧。"
+      }
+    },
+    {
+      "word": "Aspiring",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Directing one's hopes or ambitions toward becoming something",
+      "example": "He is an aspiring writer.",
+      "chinese": {
+        "meaning": "有志向的",
+        "example": "他是一位有志向的作家。"
+      }
+    },
+    {
+      "word": "Assertive",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Having or showing a confident and forceful personality",
+      "example": "She is assertive in expressing her opinions.",
+      "chinese": {
+        "meaning": "果斷的",
+        "example": "她在表達意見時很果斷。"
+      }
+    },
+    {
+      "word": "Attractive",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Pleasing or appealing to the senses",
+      "example": "The city is attractive to tourists.",
+      "chinese": {
+        "meaning": "有吸引力的",
+        "example": "這個城市對遊客很有吸引力。"
+      }
+    },
+    {
+      "word": "Authentic",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Genuine; real; not false or copied",
+      "example": "This is an authentic Italian restaurant.",
+      "chinese": {
+        "meaning": "真正的",
+        "example": "這是一家正宗的義大利餐廳。"
+      }
+    },
+    {
+      "word": "Automatic",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Working by itself with little or no direct human control",
+      "example": "The doors are automatic and open when you approach.",
+      "chinese": {
+        "meaning": "自動的",
+        "example": "這些門是自動的，當你靠近時會打開。"
+      }
+    },
+    {
+      "word": "Available",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Able to be used or obtained; at someone's disposal",
+      "example": "Tickets are available online.",
+      "chinese": {
+        "meaning": "可用的",
+        "example": "門票可以在線購買。"
+      }
+    },
+    {
+      "word": "Average",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Typical or usual; not out of the ordinary",
+      "example": "His performance was about average.",
+      "chinese": {
+        "meaning": "平均的；一般的",
+        "example": "他的表現大約是一般水準。"
+      }
+    },
+    {
+      "word": "Awake",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Not asleep; aware",
+      "example": "I was still awake at midnight.",
+      "chinese": {
+        "meaning": "醒著的",
+        "example": "我到半夜還沒睡著。"
+      }
+    },
+    {
+      "word": "Aware",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Having knowledge or perception of a situation",
+      "example": "She is aware of the risks.",
+      "chinese": {
+        "meaning": "意識到的",
+        "example": "她意識到了風險。"
+      }
+    },
+    {
+      "word": "Awesome",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Extremely impressive or daunting; inspiring awe",
+      "example": "The view from the mountain was awesome.",
+      "chinese": {
+        "meaning": "令人敬畏的；很棒的",
+        "example": "從山上看到的景色令人驚嘆。"
+      }
+    },
+    {
+      "word": "Awful",
+      "type": "adjective",
+      "letter": "A",
+      "meaning": "Very bad or unpleasant",
+      "example": "The weather was awful yesterday.",
+      "chinese": {
+        "meaning": "糟糕的",
+        "example": "昨天的天氣很糟糕。"
+      }
+    }
+  ]
+}

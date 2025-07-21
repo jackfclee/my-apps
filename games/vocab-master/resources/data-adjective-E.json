@@ -1,0 +1,708 @@
+{
+  "words": [
+    {
+      "word": "Eager",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Wanting very much to do or have something",
+      "example": "She was eager to start the new project.",
+      "chinese": {
+        "meaning": "渴望的",
+        "example": "她渴望開始這個新項目。"
+      }
+    },
+    {
+      "word": "Early",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Happening or done before the usual or expected time",
+      "example": "We took an early flight to avoid the crowd.",
+      "chinese": {
+        "meaning": "早的",
+        "example": "我們搭早班飛機以避開人潮。"
+      }
+    },
+    {
+      "word": "Earnest",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Showing sincere and intense conviction",
+      "example": "He made an earnest attempt to improve his grades.",
+      "chinese": {
+        "meaning": "認真的",
+        "example": "他認真努力提升成績。"
+      }
+    },
+    {
+      "word": "Earthy",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Relating to or resembling earth; practical and realistic",
+      "example": "Her earthy sense of humor appealed to everyone.",
+      "chinese": {
+        "meaning": "樸實的",
+        "example": "她樸實的幽默感受到大家歡迎。"
+      }
+    },
+    {
+      "word": "Easy",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Achieved without great effort; presenting few difficulties",
+      "example": "The exam was easy for most students.",
+      "chinese": {
+        "meaning": "容易的",
+        "example": "對大多數學生來說，這次考試很容易。"
+      }
+    },
+    {
+      "word": "Easygoing",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Relaxed and tolerant in attitude or manner",
+      "example": "She has an easygoing personality that makes her approachable.",
+      "chinese": {
+        "meaning": "隨和的",
+        "example": "她性格隨和，容易親近。"
+      }
+    },
+    {
+      "word": "Eclectic",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Deriving ideas, style, or taste from a broad and diverse range of sources",
+      "example": "The teacher used an eclectic approach to teaching literature.",
+      "chinese": {
+        "meaning": "兼收並蓄的",
+        "example": "老師採用兼收並蓄的方法來教文學。"
+      }
+    },
+    {
+      "word": "Ecological",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Relating to the environment and living things",
+      "example": "The ecological impact of the factory was concerning.",
+      "chinese": {
+        "meaning": "生態的",
+        "example": "這家工廠對生態造成的影響令人擔憂。"
+      }
+    },
+    {
+      "word": "Economic",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Relating to economics or the economy",
+      "example": "The country is facing serious economic challenges.",
+      "chinese": {
+        "meaning": "經濟的",
+        "example": "該國面臨嚴重的經濟挑戰。"
+      }
+    },
+    {
+      "word": "Edgy",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Tense, nervous, or easily annoyed; at the forefront of trends",
+      "example": "The film had an edgy style that attracted young audiences.",
+      "chinese": {
+        "meaning": "前衛的；緊張的",
+        "example": "這部電影有前衛的風格，吸引了年輕觀眾。"
+      }
+    },
+    {
+      "word": "Educated",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Having received education",
+      "example": "An educated population is key to national development.",
+      "chinese": {
+        "meaning": "受過教育的",
+        "example": "受過教育的人口是國家發展的關鍵。"
+      }
+    },
+    {
+      "word": "Effective",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Successful in producing a desired result",
+      "example": "The new method proved highly effective.",
+      "chinese": {
+        "meaning": "有效的",
+        "example": "新方法被證明非常有效。"
+      }
+    },
+    {
+      "word": "Efficient",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Performing tasks in the best possible manner with the least waste of time and effort",
+      "example": "She is an efficient worker who meets every deadline.",
+      "chinese": {
+        "meaning": "有效率的",
+        "example": "她是一位高效率的員工，總是準時完成任務。"
+      }
+    },
+    {
+      "word": "Egalitarian",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Believing in or based on the principle that all people are equal",
+      "example": "The school promotes an egalitarian approach to education.",
+      "chinese": {
+        "meaning": "平等主義的",
+        "example": "學校提倡平等主義的教育方式。"
+      }
+    },
+    {
+      "word": "Elderly",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Old or aging",
+      "example": "The program supports elderly citizens in the community.",
+      "chinese": {
+        "meaning": "年長的",
+        "example": "該計劃支援社區的年長市民。"
+      }
+    },
+    {
+      "word": "Electric",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Powered by electricity; exciting or full of energy",
+      "example": "The concert had an electric atmosphere.",
+      "chinese": {
+        "meaning": "電的；令人興奮的",
+        "example": "音樂會氣氛令人興奮。"
+      }
+    },
+    {
+      "word": "Elegant",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Graceful and stylish in appearance or manner",
+      "example": "She wore an elegant dress to the ceremony.",
+      "chinese": {
+        "meaning": "優雅的",
+        "example": "她穿著優雅的禮服參加典禮。"
+      }
+    },
+    {
+      "word": "Elemental",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Fundamental or basic; related to nature",
+      "example": "Water is an elemental part of life.",
+      "chinese": {
+        "meaning": "基本的；自然力的",
+        "example": "水是生命的基本部分。"
+      }
+    },
+    {
+      "word": "Elevated",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Situated or placed higher than the surrounding area; of a higher rank or status",
+      "example": "The discussion reached an elevated level of analysis.",
+      "chinese": {
+        "meaning": "高尚的；提高的",
+        "example": "討論達到了更高層次的分析。"
+      }
+    },
+    {
+      "word": "Elusive",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Difficult to find, catch, or achieve",
+      "example": "Success remained elusive for the young artist.",
+      "chinese": {
+        "meaning": "難以捉摸的",
+        "example": "成功對這位年輕藝術家來說依然難以捉摸。"
+      }
+    },
+    {
+      "word": "Emotional",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Relating to feelings",
+      "example": "The speech was very emotional and moved the audience.",
+      "chinese": {
+        "meaning": "情感的",
+        "example": "演講非常感人，打動了觀眾。"
+      }
+    },
+    {
+      "word": "Empirical",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Based on observation or experience rather than theory or logic",
+      "example": "The research is based on empirical evidence.",
+      "chinese": {
+        "meaning": "實證的",
+        "example": "這項研究基於實證證據。"
+      }
+    },
+    {
+      "word": "Empty",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Containing nothing; not filled or occupied",
+      "example": "The classroom was empty after the exam.",
+      "chinese": {
+        "meaning": "空的",
+        "example": "考試結束後教室是空的。"
+      }
+    },
+    {
+      "word": "Enchanted",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Delighted or charmed; under a spell",
+      "example": "The students were enchanted by the teacher's storytelling.",
+      "chinese": {
+        "meaning": "著迷的",
+        "example": "學生們被老師的故事講述迷住了。"
+      }
+    },
+    {
+      "word": "Encouraging",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Giving someone support or confidence",
+      "example": "Her encouraging words helped the team succeed.",
+      "chinese": {
+        "meaning": "鼓勵的",
+        "example": "她鼓勵的話語幫助了團隊成功。"
+      }
+    },
+    {
+      "word": "Endless",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Having or seeming to have no end",
+      "example": "There was endless discussion about the topic.",
+      "chinese": {
+        "meaning": "無止境的",
+        "example": "關於這個話題的討論沒完沒了。"
+      }
+    },
+    {
+      "word": "Energetic",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Showing or involving great activity or vitality",
+      "example": "The students were energetic during the sports day.",
+      "chinese": {
+        "meaning": "精力充沛的",
+        "example": "運動會期間學生們精力充沛。"
+      }
+    },
+    {
+      "word": "Engaged",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Busy or involved in something; interested",
+      "example": "The class was engaged in the group activity.",
+      "chinese": {
+        "meaning": "投入的",
+        "example": "全班都投入在小組活動中。"
+      }
+    },
+    {
+      "word": "Engaging",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Attractive and interesting",
+      "example": "The teacher gave an engaging lesson.",
+      "chinese": {
+        "meaning": "引人入勝的",
+        "example": "老師上了一堂引人入勝的課。"
+      }
+    },
+    {
+      "word": "Enlightened",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Having or showing a rational, modern, and well-informed outlook",
+      "example": "The policy is based on enlightened thinking.",
+      "chinese": {
+        "meaning": "開明的",
+        "example": "這項政策基於開明的思想。"
+      }
+    },
+    {
+      "word": "Enormous",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Very large in size, quantity, or extent",
+      "example": "There was enormous interest in the new course.",
+      "chinese": {
+        "meaning": "巨大的",
+        "example": "新課程引起了巨大關注。"
+      }
+    },
+    {
+      "word": "Enthusiastic",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Having or showing intense and eager enjoyment, interest, or approval",
+      "example": "The students were enthusiastic about the science experiment.",
+      "chinese": {
+        "meaning": "熱情的",
+        "example": "學生們對科學實驗很熱情。"
+      }
+    },
+    {
+      "word": "Entire",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "With no part left out; whole",
+      "example": "He read the entire book in one day.",
+      "chinese": {
+        "meaning": "全部的",
+        "example": "他一天之內讀完整本書。"
+      }
+    },
+    {
+      "word": "Envious",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Feeling or showing envy",
+      "example": "She was envious of her friend's achievements.",
+      "chinese": {
+        "meaning": "羨慕的",
+        "example": "她羨慕朋友的成就。"
+      }
+    },
+    {
+      "word": "Equitable",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Fair and impartial",
+      "example": "The teacher made an equitable decision.",
+      "chinese": {
+        "meaning": "公平的",
+        "example": "老師做出了公平的決定。"
+      }
+    },
+    {
+      "word": "Equivalent",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Equal in value, amount, function, meaning, etc.",
+      "example": "The two statements are equivalent.",
+      "chinese": {
+        "meaning": "等價的",
+        "example": "這兩個陳述是等價的。"
+      }
+    },
+    {
+      "word": "Erasable",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Able to be erased or removed",
+      "example": "Use an erasable pen for your draft.",
+      "chinese": {
+        "meaning": "可擦除的",
+        "example": "請用可擦筆寫草稿。"
+      }
+    },
+    {
+      "word": "Erratic",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Not regular or consistent; unpredictable",
+      "example": "His attendance was erratic throughout the term.",
+      "chinese": {
+        "meaning": "不穩定的",
+        "example": "他整個學期的出席率都不穩定。"
+      }
+    },
+    {
+      "word": "Essential",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Absolutely necessary; extremely important",
+      "example": "It is essential to review your notes before the exam.",
+      "chinese": {
+        "meaning": "必要的",
+        "example": "考試前複習筆記是必要的。"
+      }
+    },
+    {
+      "word": "Established",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Accepted or respected because of having existed for a long time",
+      "example": "He used an established method of analysis.",
+      "chinese": {
+        "meaning": "既定的",
+        "example": "他採用既定的分析方法。"
+      }
+    },
+    {
+      "word": "Esteemed",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Highly respected",
+      "example": "She is an esteemed member of the faculty.",
+      "chinese": {
+        "meaning": "受尊敬的",
+        "example": "她是受人尊敬的教職員。"
+      }
+    },
+    {
+      "word": "Ethical",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Morally right or acceptable",
+      "example": "It is important to make ethical decisions.",
+      "chinese": {
+        "meaning": "道德的",
+        "example": "做出道德的決定很重要。"
+      }
+    },
+    {
+      "word": "Euphoric",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Intensely happy or confident",
+      "example": "The team felt euphoric after winning the competition.",
+      "chinese": {
+        "meaning": "興高采烈的",
+        "example": "團隊贏得比賽後感到興高采烈。"
+      }
+    },
+    {
+      "word": "Evaluative",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Relating to the assessment or judgment of something",
+      "example": "The essay required evaluative skills.",
+      "chinese": {
+        "meaning": "評價的",
+        "example": "這篇作文需要評價能力。"
+      }
+    },
+    {
+      "word": "Evasive",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Tending to avoid commitment or self-revelation, especially by responding only indirectly",
+      "example": "His answer was evasive and unclear.",
+      "chinese": {
+        "meaning": "迴避的",
+        "example": "他的回答很迴避，不明確。"
+      }
+    },
+    {
+      "word": "Evident",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Clearly seen or understood; obvious",
+      "example": "It is evident that she worked hard.",
+      "chinese": {
+        "meaning": "明顯的",
+        "example": "很明顯她很努力。"
+      }
+    },
+    {
+      "word": "Evil",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Morally wrong or bad",
+      "example": "The villain was portrayed as evil in the novel.",
+      "chinese": {
+        "meaning": "邪惡的",
+        "example": "小說中的反派被描寫成邪惡的。"
+      }
+    },
+    {
+      "word": "Exaggerated",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Regarded or represented as larger, better, or worse than in reality",
+      "example": "His claims were exaggerated.",
+      "chinese": {
+        "meaning": "誇張的",
+        "example": "他的說法很誇張。"
+      }
+    },
+    {
+      "word": "Exemplary",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Serving as a desirable model; representing the best of its kind",
+      "example": "She received an award for her exemplary behavior.",
+      "chinese": {
+        "meaning": "模範的",
+        "example": "她因模範行為獲獎。"
+      }
+    },
+    {
+      "word": "Exhausted",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Extremely tired",
+      "example": "He felt exhausted after the exam.",
+      "chinese": {
+        "meaning": "筋疲力盡的",
+        "example": "考試後他感到筋疲力盡。"
+      }
+    },
+    {
+      "word": "Exotic",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Attractive or striking because it is unusual or different",
+      "example": "The essay described exotic cultures.",
+      "chinese": {
+        "meaning": "異國情調的",
+        "example": "這篇文章描述了異國文化。"
+      }
+    },
+    {
+      "word": "Expansive",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Covering a wide area in terms of space or scope",
+      "example": "She gave an expansive overview of the topic.",
+      "chinese": {
+        "meaning": "廣闊的",
+        "example": "她對這個主題做了廣闊的概述。"
+      }
+    },
+    {
+      "word": "Expected",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Regarded as likely to happen",
+      "example": "The results were as expected.",
+      "chinese": {
+        "meaning": "預期的",
+        "example": "結果如預期一樣。"
+      }
+    },
+    {
+      "word": "Expensive",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Costing a lot of money",
+      "example": "Textbooks can be expensive for students.",
+      "chinese": {
+        "meaning": "昂貴的",
+        "example": "課本對學生來說可能很昂貴。"
+      }
+    },
+    {
+      "word": "Experienced",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Having knowledge or skill in a particular field",
+      "example": "She is an experienced teacher.",
+      "chinese": {
+        "meaning": "有經驗的",
+        "example": "她是一位有經驗的老師。"
+      }
+    },
+    {
+      "word": "Expert",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Having or involving a great deal of knowledge or skill",
+      "example": "He gave expert advice on the subject.",
+      "chinese": {
+        "meaning": "專家的",
+        "example": "他對這個主題提供了專家的建議。"
+      }
+    },
+    {
+      "word": "Explicit",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Stated clearly and in detail, leaving no room for confusion",
+      "example": "The instructions were explicit.",
+      "chinese": {
+        "meaning": "明確的",
+        "example": "說明很明確。"
+      }
+    },
+    {
+      "word": "Exploratory",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Related to or involving exploration or investigation",
+      "example": "They conducted an exploratory study.",
+      "chinese": {
+        "meaning": "探索性的",
+        "example": "他們進行了探索性研究。"
+      }
+    },
+    {
+      "word": "Expressive",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Effectively conveying thought or feeling",
+      "example": "Her expressive writing impressed the teacher.",
+      "chinese": {
+        "meaning": "表達力強的",
+        "example": "她富有表達力的寫作讓老師印象深刻。"
+      }
+    },
+    {
+      "word": "Extensive",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Covering a large area; far-reaching",
+      "example": "He did extensive research for his essay.",
+      "chinese": {
+        "meaning": "廣泛的",
+        "example": "他為論文做了廣泛的研究。"
+      }
+    },
+    {
+      "word": "External",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Belonging to or forming the outer surface or structure of something",
+      "example": "External factors influenced the results.",
+      "chinese": {
+        "meaning": "外部的",
+        "example": "外部因素影響了結果。"
+      }
+    },
+    {
+      "word": "Extraordinary",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Very unusual or remarkable",
+      "example": "She showed extraordinary talent in mathematics.",
+      "chinese": {
+        "meaning": "非凡的",
+        "example": "她展現了非凡的數學天賦。"
+      }
+    },
+    {
+      "word": "Extreme",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Reaching a high or the highest degree; very great",
+      "example": "Extreme weather can disrupt school schedules.",
+      "chinese": {
+        "meaning": "極端的",
+        "example": "極端天氣會打亂學校課程。"
+      }
+    },
+    {
+      "word": "Exuberant",
+      "type": "adjective",
+      "letter": "E",
+      "meaning": "Full of energy, excitement, and cheerfulness",
+      "example": "The students were exuberant after the results were announced.",
+      "chinese": {
+        "meaning": "充滿活力的",
+        "example": "成績公佈後學生們充滿活力。"
+      }
+    }
+  ]
+}
