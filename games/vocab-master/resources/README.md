@@ -27,6 +27,20 @@ for f in data-verb-*.json; do jq '.words |= (sort_by(.word | ascii_downcase) | u
 for f in deduped-data-verb-*.json; do mv "$f" "${f#deduped-}"; done
 ```
 
+### Count all JSON files
+
+```sql
+for f in data-verb-[A-Z].json; do echo -n "$f: "; jq '.words | length' "$f"; done
+```
+
+```sql
+for f in data-adjective-[A-Z].json; do echo -n "$f: "; jq '.words | length' "$f"; done
+```
+
+```sql
+for f in data-noun-[A-Z].json; do echo -n "$f: "; jq '.words | length' "$f"; done
+```
+
 ### Sort and Deduplicate the Array in JSON
 
 ```bash

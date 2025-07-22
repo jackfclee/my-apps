@@ -342,6 +342,17 @@
       }
     },
     {
+      "word": "Come",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To move or travel toward a place or person",
+      "example": "She came to the party late.",
+      "chinese": {
+        "meaning": "來、到來",
+        "example": "她遲到了派對。"
+      }
+    },
+    {
       "word": "Comfort",
       "type": "verb",
       "letter": "C",
@@ -559,6 +570,17 @@
       "chinese": {
         "meaning": "轉換",
         "example": "他們把舊工廠改建成公寓。"
+      }
+    },
+    {
+      "word": "Convince",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make someone believe something is true or right",
+      "example": "She convinced him to apply for the scholarship.",
+      "chinese": {
+        "meaning": "說服、使信服",
+        "example": "她說服他去申請獎學金。"
       }
     },
     {

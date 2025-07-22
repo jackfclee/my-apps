@@ -573,6 +573,17 @@
       }
     },
     {
+      "word": "Assume",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To accept something as true without proof",
+      "example": "We assumed the meeting would start on time.",
+      "chinese": {
+        "meaning": "假設、認為",
+        "example": "我們假設會議會準時開始。"
+      }
+    },
+    {
       "word": "Assure",
       "type": "verb",
       "letter": "A",
