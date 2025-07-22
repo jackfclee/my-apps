@@ -375,6 +375,17 @@
       }
     },
     {
+      "word": "Fly",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To move through the air using wings or an aircraft",
+      "example": "Birds fly south for the winter.",
+      "chinese": {
+        "meaning": "飛行、飛翔",
+        "example": "鳥類在冬天飛往南方。"
+      }
+    },
+    {
       "word": "Focus",
       "type": "verb",
       "letter": "F",

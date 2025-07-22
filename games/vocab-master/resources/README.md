@@ -30,15 +30,15 @@ for f in deduped-data-verb-*.json; do mv "$f" "${f#deduped-}"; done
 ### Count all JSON files
 
 ```sql
-for f in data-verb-[A-Z].json; do echo -n "$f: "; jq '.words | length' "$f"; done
+total=0; for f in data-adjective-[A-Z].json; do c=$(jq '.words | length' "$f"); echo "$f: $c"; total=$((total + c)); done; echo "Total: $total"
 ```
 
 ```sql
-for f in data-adjective-[A-Z].json; do echo -n "$f: "; jq '.words | length' "$f"; done
+total=0; for f in data-noun-[A-Z].json; do c=$(jq '.words | length' "$f"); echo "$f: $c"; total=$((total + c)); done; echo "Total: $total"
 ```
 
 ```sql
-for f in data-noun-[A-Z].json; do echo -n "$f: "; jq '.words | length' "$f"; done
+total=0; for f in data-verb-[A-Z].json; do c=$(jq '.words | length' "$f"); echo "$f: $c"; total=$((total + c)); done; echo "Total: $total"
 ```
 
 ### Sort and Deduplicate the Array in JSON

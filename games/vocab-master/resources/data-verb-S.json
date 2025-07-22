@@ -408,6 +408,17 @@
       }
     },
     {
+      "word": "Stop",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To bring something to an end or prevent it from continuing",
+      "example": "He stopped the car at the red light.",
+      "chinese": {
+        "meaning": "停止、中止",
+        "example": "他在紅燈前把車停下來。"
+      }
+    },
+    {
       "word": "Strengthen",
       "type": "verb",
       "letter": "S",

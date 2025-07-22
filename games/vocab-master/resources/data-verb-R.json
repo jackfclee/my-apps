@@ -122,6 +122,17 @@
       }
     },
     {
+      "word": "Recuse",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To withdraw from a legal case due to a possible conflict of interest",
+      "example": "The judge recused herself from the case.",
+      "chinese": {
+        "meaning": "迴避（因利益衝突）",
+        "example": "法官因利益衝突而迴避此案。"
+      }
+    },
+    {
       "word": "Reflect",
       "type": "verb",
       "letter": "R",
@@ -334,11 +345,11 @@
       "word": "Rescue",
       "type": "verb",
       "letter": "R",
-      "meaning": "To save someone or something from danger",
-      "example": "Firefighters rescued the cat from the tree.",
+      "meaning": "To save someone from a dangerous or harmful situation",
+      "example": "The firefighters rescued the family from the burning building.",
       "chinese": {
-        "meaning": "救援",
-        "example": "消防員從樹上救下了貓。"
+        "meaning": "救援、拯救",
+        "example": "消防員從燃燒的建築中救出了那個家庭。"
       }
     },
     {
@@ -537,6 +548,17 @@
       "chinese": {
         "meaning": "擺脫",
         "example": "他試圖讓文章沒有錯誤。"
+      }
+    },
+    {
+      "word": "Rotate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To turn around a central point or axis",
+      "example": "The Earth rotates on its axis every 24 hours.",
+      "chinese": {
+        "meaning": "旋轉、輪轉",
+        "example": "地球每24小時自轉一圈。"
       }
     },
     {

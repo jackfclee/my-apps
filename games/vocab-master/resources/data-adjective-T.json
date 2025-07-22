@@ -254,6 +254,28 @@
       }
     },
     {
+      "word": "Thick",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having a large distance between two sides",
+      "example": "The book has thick pages.",
+      "chinese": {
+        "meaning": "厚的、濃的",
+        "example": "這本書的紙很厚。"
+      }
+    },
+    {
+      "word": "Thin",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having little thickness or depth",
+      "example": "He wore a thin jacket in the cold weather.",
+      "chinese": {
+        "meaning": "薄的、細的",
+        "example": "他在寒冷的天氣裡穿著一件薄外套。"
+      }
+    },
+    {
       "word": "Thorough",
       "type": "adjective",
       "letter": "T",

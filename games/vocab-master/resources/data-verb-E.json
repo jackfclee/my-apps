@@ -364,6 +364,17 @@
       }
     },
     {
+      "word": "Excuse",
+      "type": "verb",
+      "letter": "E",
+      "meaning": "To forgive or justify someone’s behavior or mistake",
+      "example": "She excused him for being late.",
+      "chinese": {
+        "meaning": "原諒、為…辯解",
+        "example": "她原諒了他的遲到。"
+      }
+    },
+    {
       "word": "Exhibit",
       "type": "verb",
       "letter": "E",
