@@ -12,6 +12,17 @@
       }
     },
     {
+      "word": "Abate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To reduce in intensity or amount",
+      "example": "The storm finally began to abate.",
+      "chinese": {
+        "meaning": "減弱、減少",
+        "example": "暴風雨終於開始減弱。"
+      }
+    },
+    {
       "word": "Abbreviate",
       "type": "verb",
       "letter": "A",
@@ -20,6 +31,17 @@
       "chinese": {
         "meaning": "縮寫、簡寫",
         "example": "我們常把 Doctor 縮寫為 Dr.。"
+      }
+    },
+    {
+      "word": "Abdicate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To formally give up power or responsibility, especially by a monarch or leader",
+      "example": "The king decided to abdicate the throne in favor of his son.",
+      "chinese": {
+        "meaning": "退位、放棄責任",
+        "example": "國王決定將王位讓給他的兒子。"
       }
     },
     {
@@ -45,6 +67,28 @@
       }
     },
     {
+      "word": "Abjure",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To solemnly renounce or reject a belief, cause, or claim",
+      "example": "He abjured his allegiance to the former king.",
+      "chinese": {
+        "meaning": "鄭重放棄、發誓放棄",
+        "example": "他鄭重放棄對前國王的效忠。"
+      }
+    },
+    {
+      "word": "Abnegate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To renounce or reject something desired or valuable",
+      "example": "She abnegated her desire for fame.",
+      "chinese": {
+        "meaning": "克制、放棄",
+        "example": "她放棄了對名聲的渴望。"
+      }
+    },
+    {
       "word": "Abolish",
       "type": "verb",
       "letter": "A",
@@ -53,6 +97,28 @@
       "chinese": {
         "meaning": "廢除、取消",
         "example": "奴隸制度在19世紀被廢除。"
+      }
+    },
+    {
+      "word": "Abort",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To stop a process before it is complete",
+      "example": "The mission was aborted due to bad weather.",
+      "chinese": {
+        "meaning": "中止、取消",
+        "example": "由於天氣惡劣，任務被中止了。"
+      }
+    },
+    {
+      "word": "Abrogate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To formally end a law, agreement, or custom",
+      "example": "The treaty was abrogated by mutual consent.",
+      "chinese": {
+        "meaning": "廢除、撤銷（法律、協議等）",
+        "example": "該條約經雙方同意而被廢除。"
       }
     },
     {
@@ -67,6 +133,28 @@
       }
     },
     {
+      "word": "Absent",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To keep oneself away from a place or event",
+      "example": "He absented himself from the meeting.",
+      "chinese": {
+        "meaning": "缺席、使自己不在場",
+        "example": "他讓自己缺席了會議。"
+      }
+    },
+    {
+      "word": "Absolve",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To clear someone from blame or guilt",
+      "example": "The priest absolved him of his sins.",
+      "chinese": {
+        "meaning": "赦免、免除責任",
+        "example": "神父赦免了他的罪。"
+      }
+    },
+    {
       "word": "Absorb",
       "type": "verb",
       "letter": "A",
@@ -78,6 +166,28 @@
       }
     },
     {
+      "word": "Abstain",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To deliberately avoid doing something, especially voting or drinking",
+      "example": "He abstained from voting in the election.",
+      "chinese": {
+        "meaning": "戒除、棄權",
+        "example": "他在選舉中棄權未投票。"
+      }
+    },
+    {
+      "word": "Abstract",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To remove or extract something, especially in a summary form",
+      "example": "The researcher abstracted key findings from the data.",
+      "chinese": {
+        "meaning": "提取、摘要",
+        "example": "研究員從數據中提取了關鍵結果。"
+      }
+    },
+    {
       "word": "Accelerate",
       "type": "verb",
       "letter": "A",
@@ -86,6 +196,28 @@
       "chinese": {
         "meaning": "加速",
         "example": "汽車在高速公路上快速加速。"
+      }
+    },
+    {
+      "word": "Accentuate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make something more noticeable or prominent",
+      "example": "Her dress accentuated her slim figure.",
+      "chinese": {
+        "meaning": "強調、使突出",
+        "example": "她的洋裝突顯了她苗條的身材。"
+      }
+    },
+    {
+      "word": "Acclaim",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To praise enthusiastically and publicly",
+      "example": "The actor was acclaimed for his outstanding performance.",
+      "chinese": {
+        "meaning": "稱讚、喝采",
+        "example": "那位演員因出色的表現而受到稱讚。"
       }
     },
     {
@@ -108,6 +240,28 @@
       "chinese": {
         "meaning": "陪伴、伴隨",
         "example": "她陪他一起去參加活動。"
+      }
+    },
+    {
+      "word": "Accost",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To approach and speak to someone aggressively or boldly",
+      "example": "He was accosted by a stranger on the street.",
+      "chinese": {
+        "meaning": "搭訕、挑釁地接近",
+        "example": "他在街上被一個陌生人搭訕。"
+      }
+    },
+    {
+      "word": "Acculturate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To adapt to or adopt elements of another culture",
+      "example": "The immigrants acculturated quickly to their new country.",
+      "chinese": {
+        "meaning": "文化適應、同化",
+        "example": "移民很快適應了他們的新國家。"
       }
     },
     {
@@ -152,6 +306,17 @@
       "chinese": {
         "meaning": "承認或意識到某事",
         "example": "她在報告中承認了自己的錯誤。"
+      }
+    },
+    {
+      "word": "Acquiesce",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To accept or comply silently or reluctantly",
+      "example": "He acquiesced to her demands without protest.",
+      "chinese": {
+        "meaning": "默許、勉強同意",
+        "example": "他默許了她的要求，沒有抗議。"
       }
     },
     {
@@ -210,6 +375,50 @@
       }
     },
     {
+      "word": "Adduce",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To cite as evidence or an example",
+      "example": "Several reasons were adduced to justify the decision.",
+      "chinese": {
+        "meaning": "舉出（證據、理由）",
+        "example": "舉出了幾個理由來證明這項決定。"
+      }
+    },
+    {
+      "word": "Adhere",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To stick to or follow closely",
+      "example": "You must adhere to the school rules.",
+      "chinese": {
+        "meaning": "堅持、遵守",
+        "example": "你必須遵守學校規則。"
+      }
+    },
+    {
+      "word": "Adjourn",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To suspend or end a meeting temporarily or indefinitely",
+      "example": "The court adjourned for lunch.",
+      "chinese": {
+        "meaning": "休會、延期",
+        "example": "法庭因午餐時間休庭。"
+      }
+    },
+    {
+      "word": "Adjudge",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To declare or decide legally",
+      "example": "The defendant was adjudged guilty.",
+      "chinese": {
+        "meaning": "裁定、判決",
+        "example": "被告被裁定有罪。"
+      }
+    },
+    {
       "word": "Adjust",
       "type": "verb",
       "letter": "A",
@@ -218,6 +427,17 @@
       "chinese": {
         "meaning": "調整、校正",
         "example": "她調整了鏡子以便看得更清楚。"
+      }
+    },
+    {
+      "word": "Adlib",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To speak or perform without preparation",
+      "example": "He adlibbed the entire speech.",
+      "chinese": {
+        "meaning": "即興發言、即興表演",
+        "example": "他整場演講都是即興發揮。"
       }
     },
     {
@@ -243,6 +463,17 @@
       }
     },
     {
+      "word": "Admonish",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To warn or reprimand firmly",
+      "example": "The teacher admonished the student for being late.",
+      "chinese": {
+        "meaning": "警告、告誡",
+        "example": "老師因為遲到而告誡了學生。"
+      }
+    },
+    {
       "word": "Adopt",
       "type": "verb",
       "letter": "A",
@@ -251,6 +482,28 @@
       "chinese": {
         "meaning": "採用、收養",
         "example": "他們採用了新政策。"
+      }
+    },
+    {
+      "word": "Adore",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To love deeply and respect highly",
+      "example": "Children adore their parents.",
+      "chinese": {
+        "meaning": "崇拜、熱愛",
+        "example": "孩子們崇拜他們的父母。"
+      }
+    },
+    {
+      "word": "Adulate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To praise someone excessively or slavishly",
+      "example": "The fans adulated the pop star.",
+      "chinese": {
+        "meaning": "過度讚美、諂媚",
+        "example": "粉絲們對那位流行歌手過度讚美。"
       }
     },
     {
@@ -298,6 +551,17 @@
       }
     },
     {
+      "word": "Affirm",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To state or assert positively",
+      "example": "She affirmed her commitment to the cause.",
+      "chinese": {
+        "meaning": "肯定、確認",
+        "example": "她確認了自己對這項事業的承諾。"
+      }
+    },
+    {
       "word": "Afford",
       "type": "verb",
       "letter": "A",
@@ -306,6 +570,28 @@
       "chinese": {
         "meaning": "負擔得起",
         "example": "我買不起新車。"
+      }
+    },
+    {
+      "word": "Aggravate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make worse or more serious",
+      "example": "The loud noise aggravated her headache.",
+      "chinese": {
+        "meaning": "加重、惡化",
+        "example": "吵鬧聲加重了她的頭痛。"
+      }
+    },
+    {
+      "word": "Agitate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To stir up public concern or anger; to disturb or shake",
+      "example": "The protesters agitated for better working conditions.",
+      "chinese": {
+        "meaning": "鼓動、煽動",
+        "example": "抗議者為了更好的工作條件而鼓動民眾。"
       }
     },
     {
@@ -342,6 +628,17 @@
       }
     },
     {
+      "word": "Alight",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To descend and settle, as after flight",
+      "example": "The bird alighted on the branch.",
+      "chinese": {
+        "meaning": "降落、下車",
+        "example": "那隻鳥降落在樹枝上。"
+      }
+    },
+    {
       "word": "Align",
       "type": "verb",
       "letter": "A",
@@ -350,6 +647,39 @@
       "chinese": {
         "meaning": "排列、對齊",
         "example": "請將文字左對齊。"
+      }
+    },
+    {
+      "word": "Allay",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To reduce fear, suspicion, or worry",
+      "example": "The president's speech allayed public fears.",
+      "chinese": {
+        "meaning": "減輕、緩和（情緒）",
+        "example": "總統的演說減輕了民眾的恐懼。"
+      }
+    },
+    {
+      "word": "Allege",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To state something as a fact without proof",
+      "example": "The newspaper alleged that the politician was involved in corruption.",
+      "chinese": {
+        "meaning": "指稱、聲稱（無證據）",
+        "example": "報紙聲稱那位政治人物涉及貪污。"
+      }
+    },
+    {
+      "word": "Alleviate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make something less severe",
+      "example": "The medicine alleviated the pain.",
+      "chinese": {
+        "meaning": "減輕、緩和",
+        "example": "藥物減輕了疼痛。"
       }
     },
     {
@@ -364,6 +694,17 @@
       }
     },
     {
+      "word": "Allot",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To assign or distribute something",
+      "example": "Each speaker was allotted five minutes.",
+      "chinese": {
+        "meaning": "分配、指派",
+        "example": "每位發言者被分配了五分鐘時間。"
+      }
+    },
+    {
       "word": "Allow",
       "type": "verb",
       "letter": "A",
@@ -375,6 +716,28 @@
       }
     },
     {
+      "word": "Allude",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To refer to something in an indirect way",
+      "example": "He alluded to his past without giving details.",
+      "chinese": {
+        "meaning": "暗示、間接提及",
+        "example": "他暗示了自己的過去，卻未說明細節。"
+      }
+    },
+    {
+      "word": "Ally",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To unite or join for a common purpose",
+      "example": "The two nations allied themselves against the enemy.",
+      "chinese": {
+        "meaning": "聯盟、結盟",
+        "example": "兩國結成同盟對抗敵人。"
+      }
+    },
+    {
       "word": "Alter",
       "type": "verb",
       "letter": "A",
@@ -383,6 +746,28 @@
       "chinese": {
         "meaning": "改變、修改",
         "example": "她修改了裙子使其更合身。"
+      }
+    },
+    {
+      "word": "Amalgamate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To combine or unite to form one structure",
+      "example": "The companies amalgamated to form a new corporation.",
+      "chinese": {
+        "meaning": "合併、融合",
+        "example": "這些公司合併為一間新企業。"
+      }
+    },
+    {
+      "word": "Amble",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To walk slowly or leisurely",
+      "example": "They ambled along the beach.",
+      "chinese": {
+        "meaning": "漫步、閒逛",
+        "example": "他們沿著海灘漫步。"
       }
     },
     {
@@ -405,6 +790,28 @@
       "chinese": {
         "meaning": "分析、研究",
         "example": "科學家分析數據以找出規律。"
+      }
+    },
+    {
+      "word": "Annex",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To add or attach, especially territory",
+      "example": "The country annexed the neighboring region.",
+      "chinese": {
+        "meaning": "併吞、附加",
+        "example": "該國併吞了鄰近地區。"
+      }
+    },
+    {
+      "word": "Annihilate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To destroy completely",
+      "example": "The city was annihilated during the war.",
+      "chinese": {
+        "meaning": "消滅、徹底毀滅",
+        "example": "那座城市在戰爭中被徹底毀滅了。"
       }
     },
     {
@@ -496,6 +903,17 @@
       }
     },
     {
+      "word": "Appraise",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To evaluate the value or quality of something",
+      "example": "The expert appraised the painting.",
+      "chinese": {
+        "meaning": "評價、鑑定",
+        "example": "專家鑑定了這幅畫。"
+      }
+    },
+    {
       "word": "Appreciate",
       "type": "verb",
       "letter": "A",
@@ -504,6 +922,17 @@
       "chinese": {
         "meaning": "感激、欣賞",
         "example": "我非常感謝你的幫助。"
+      }
+    },
+    {
+      "word": "Apprehend",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To arrest or seize",
+      "example": "The police apprehended the suspect.",
+      "chinese": {
+        "meaning": "逮捕、抓住",
+        "example": "警方逮捕了嫌疑人。"
       }
     },
     {
@@ -529,6 +958,17 @@
       }
     },
     {
+      "word": "Arbitrate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To settle a dispute by having a third party make a decision",
+      "example": "The dispute was arbitrated by an independent panel.",
+      "chinese": {
+        "meaning": "仲裁、調解",
+        "example": "這場爭議由一個獨立小組進行仲裁。"
+      }
+    },
+    {
       "word": "Argue",
       "type": "verb",
       "letter": "A",
@@ -551,6 +991,17 @@
       }
     },
     {
+      "word": "Arraign",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To call someone to court to answer a charge",
+      "example": "He was arraigned for theft.",
+      "chinese": {
+        "meaning": "傳訊、提審",
+        "example": "他因竊盜而被提審。"
+      }
+    },
+    {
       "word": "Arrange",
       "type": "verb",
       "letter": "A",
@@ -570,6 +1021,94 @@
       "chinese": {
         "meaning": "到達、抵達",
         "example": "客人提前到了。"
+      }
+    },
+    {
+      "word": "Articulate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To express clearly and effectively",
+      "example": "She articulated her opinion confidently.",
+      "chinese": {
+        "meaning": "清晰表達",
+        "example": "她自信地表達了自己的觀點。"
+      }
+    },
+    {
+      "word": "Ascend",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To move upward",
+      "example": "The balloon ascended into the sky.",
+      "chinese": {
+        "meaning": "上升、攀升",
+        "example": "氣球升上了天空。"
+      }
+    },
+    {
+      "word": "Ascertain",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To find out for certain",
+      "example": "The doctor tried to ascertain the cause of the illness.",
+      "chinese": {
+        "meaning": "查明、確定",
+        "example": "醫生試圖查明病因。"
+      }
+    },
+    {
+      "word": "Ascribe",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To attribute something to a cause or source",
+      "example": "He ascribed his success to luck.",
+      "chinese": {
+        "meaning": "歸因於、認為是…造成",
+        "example": "他將成功歸因於運氣。"
+      }
+    },
+    {
+      "word": "Aspire",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To have a strong desire or ambition",
+      "example": "She aspires to be a great scientist.",
+      "chinese": {
+        "meaning": "渴望、立志",
+        "example": "她立志成為偉大的科學家。"
+      }
+    },
+    {
+      "word": "Assail",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To attack violently or criticize strongly",
+      "example": "He was assailed by the media.",
+      "chinese": {
+        "meaning": "猛烈攻擊、抨擊",
+        "example": "他受到媒體猛烈抨擊。"
+      }
+    },
+    {
+      "word": "Assemble",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To gather or bring together",
+      "example": "Students assembled in the hall.",
+      "chinese": {
+        "meaning": "集合、組裝",
+        "example": "學生們在禮堂集合。"
+      }
+    },
+    {
+      "word": "Assent",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To express approval or agreement",
+      "example": "She assented to the proposal.",
+      "chinese": {
+        "meaning": "同意、贊成",
+        "example": "她同意了這項提議。"
       }
     },
     {
@@ -606,6 +1145,17 @@
       }
     },
     {
+      "word": "Attain",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To succeed in achieving something",
+      "example": "He attained a high level of skill.",
+      "chinese": {
+        "meaning": "達到、獲得",
+        "example": "他達到了高水平的技術。"
+      }
+    },
+    {
       "word": "Attempt",
       "type": "verb",
       "letter": "A",
@@ -628,6 +1178,17 @@
       }
     },
     {
+      "word": "Attest",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To provide or serve as clear evidence of something",
+      "example": "Many witnesses attested to his innocence.",
+      "chinese": {
+        "meaning": "證明、作證",
+        "example": "許多證人證明他是無辜的。"
+      }
+    },
+    {
       "word": "Attract",
       "type": "verb",
       "letter": "A",
@@ -639,6 +1200,72 @@
       }
     },
     {
+      "word": "Auction",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To sell something to the highest bidder",
+      "example": "They auctioned off their old furniture.",
+      "chinese": {
+        "meaning": "拍賣",
+        "example": "他們把舊家具拍賣掉了。"
+      }
+    },
+    {
+      "word": "Augment",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make something greater by adding to it",
+      "example": "She augmented her income by freelancing.",
+      "chinese": {
+        "meaning": "增加、擴大",
+        "example": "她靠兼職增加了收入。"
+      }
+    },
+    {
+      "word": "Authenticate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To prove or show something is genuine",
+      "example": "The painting was authenticated as a Picasso.",
+      "chinese": {
+        "meaning": "驗證、證明真實性",
+        "example": "這幅畫被證實為畢卡索的作品。"
+      }
+    },
+    {
+      "word": "Avail",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To use or take advantage of an opportunity",
+      "example": "He availed himself of the free trial.",
+      "chinese": {
+        "meaning": "利用（機會、資源）",
+        "example": "他利用了免費試用的機會。"
+      }
+    },
+    {
+      "word": "Avenge",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To take revenge for a wrong",
+      "example": "He vowed to avenge his brother's death.",
+      "chinese": {
+        "meaning": "報仇、復仇",
+        "example": "他發誓要為兄弟報仇。"
+      }
+    },
+    {
+      "word": "Avert",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To prevent something bad from happening",
+      "example": "They tried to avert a crisis.",
+      "chinese": {
+        "meaning": "避免、防止",
+        "example": "他們試圖避免一場危機。"
+      }
+    },
+    {
       "word": "Avoid",
       "type": "verb",
       "letter": "A",
@@ -647,6 +1274,17 @@
       "chinese": {
         "meaning": "避免、避開",
         "example": "她避而不談這個問題。"
+      }
+    },
+    {
+      "word": "Avow",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To declare openly and without shame",
+      "example": "She avowed her innocence.",
+      "chinese": {
+        "meaning": "公開宣稱、坦率承認",
+        "example": "她公開宣稱自己的清白。"
       }
     },
     {
