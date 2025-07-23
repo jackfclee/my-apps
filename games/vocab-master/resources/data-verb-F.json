@@ -34,6 +34,17 @@
       }
     },
     {
+      "word": "Fall",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To drop down from a higher place or position",
+      "example": "The leaves fall from the trees in autumn.",
+      "chinese": {
+        "meaning": "落下",
+        "example": "秋天樹葉從樹上落下。"
+      }
+    },
+    {
       "word": "Familiarize",
       "type": "verb",
       "letter": "F",
@@ -276,6 +287,17 @@
       }
     },
     {
+      "word": "Fit",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To be of the correct shape or size for someone or something",
+      "example": "The jacket fits him perfectly.",
+      "chinese": {
+        "meaning": "合適",
+        "example": "這件外套非常合適他。"
+      }
+    },
+    {
       "word": "Fix",
       "type": "verb",
       "letter": "F",
@@ -331,6 +353,17 @@
       }
     },
     {
+      "word": "Fling",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To throw something forcefully or carelessly",
+      "example": "He flung the book across the room.",
+      "chinese": {
+        "meaning": "拋擲",
+        "example": "他把書拋到房間的另一邊。"
+      }
+    },
+    {
       "word": "Float",
       "type": "verb",
       "letter": "F",
@@ -350,6 +383,17 @@
       "chinese": {
         "meaning": "淹沒",
         "example": "河水淹沒了附近的田地。"
+      }
+    },
+    {
+      "word": "Floodlight",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To illuminate a space or area using strong artificial light",
+      "example": "The stadium was floodlighted for the night match.",
+      "chinese": {
+        "meaning": "用探照燈照亮",
+        "example": "球場因夜賽而被探照燈照亮。"
       }
     },
     {
@@ -419,6 +463,17 @@
       }
     },
     {
+      "word": "Forbear",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To avoid doing something or to show patience and restraint",
+      "example": "He forbore from commenting on the matter.",
+      "chinese": {
+        "meaning": "克制",
+        "example": "他克制自己沒有對此事發表評論。"
+      }
+    },
+    {
       "word": "Forbid",
       "type": "verb",
       "letter": "F",
@@ -463,6 +518,17 @@
       }
     },
     {
+      "word": "Foretell",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To predict or tell about something before it happens",
+      "example": "The prophet foretold the city's destruction.",
+      "chinese": {
+        "meaning": "預言",
+        "example": "先知預言了這座城市的毀滅。"
+      }
+    },
+    {
       "word": "Forge",
       "type": "verb",
       "letter": "F",
@@ -496,6 +562,17 @@
       }
     },
     {
+      "word": "Forgo",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To decide not to do or have something valuable or pleasant",
+      "example": "She decided to forgo dessert to save calories.",
+      "chinese": {
+        "meaning": "放棄",
+        "example": "她為了節省熱量而放棄甜點。"
+      }
+    },
+    {
       "word": "Formulate",
       "type": "verb",
       "letter": "F",
@@ -504,6 +581,28 @@
       "chinese": {
         "meaning": "制定",
         "example": "他們制定了新的行銷策略。"
+      }
+    },
+    {
+      "word": "Forsake",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To abandon or give up something or someone",
+      "example": "He forsook his family to follow his dream.",
+      "chinese": {
+        "meaning": "拋棄",
+        "example": "他為了追夢拋棄了家庭。"
+      }
+    },
+    {
+      "word": "Forswear",
+      "type": "verb",
+      "letter": "F",
+      "meaning": "To make a serious promise to give up something",
+      "example": "She forswore all bad habits.",
+      "chinese": {
+        "meaning": "發誓放棄",
+        "example": "她發誓放棄所有壞習慣。"
       }
     },
     {

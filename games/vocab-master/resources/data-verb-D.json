@@ -1,6 +1,17 @@
 {
   "words": [
     {
+      "word": "Deal",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To take action with something or someone, especially in a business or problematic context",
+      "example": "She deals with customer complaints professionally.",
+      "chinese": {
+        "meaning": "處理、應對",
+        "example": "她專業地處理顧客投訴。"
+      }
+    },
+    {
       "word": "Debate",
       "type": "verb",
       "letter": "D",

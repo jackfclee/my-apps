@@ -12,6 +12,17 @@
       }
     },
     {
+      "word": "Gainsay",
+      "type": "verb",
+      "letter": "G",
+      "meaning": "To deny or contradict a fact or statement",
+      "example": "No one could gainsay her success.",
+      "chinese": {
+        "meaning": "否認；反駁",
+        "example": "沒有人能反駁她的成功。"
+      }
+    },
+    {
       "word": "Gamble",
       "type": "verb",
       "letter": "G",

@@ -1,6 +1,17 @@
 {
   "words": [
     {
+      "word": "Babysit",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To take care of someone's child temporarily",
+      "example": "She babysits for her neighbors on weekends.",
+      "chinese": {
+        "meaning": "臨時照顧小孩、當保姆",
+        "example": "她在週末幫鄰居照顧孩子。"
+      }
+    },
+    {
       "word": "Bake",
       "type": "verb",
       "letter": "B",
@@ -155,6 +166,28 @@
       }
     },
     {
+      "word": "Become",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To begin to be something",
+      "example": "He became a doctor after years of study.",
+      "chinese": {
+        "meaning": "成為",
+        "example": "經過多年學習，他成為了一名醫生。"
+      }
+    },
+    {
+      "word": "Befall",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To happen, especially something bad",
+      "example": "A great tragedy befell the village.",
+      "chinese": {
+        "meaning": "降臨、發生（多指不幸）",
+        "example": "一場大災難降臨在村莊。"
+      }
+    },
+    {
       "word": "Befriend",
       "type": "verb",
       "letter": "B",
@@ -174,6 +207,17 @@
       "chinese": {
         "meaning": "乞求",
         "example": "她懇求他留下。"
+      }
+    },
+    {
+      "word": "Beget",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To cause or produce; to father (a child)",
+      "example": "Violence begets more violence.",
+      "chinese": {
+        "meaning": "引起、產生；生（孩子）",
+        "example": "暴力引發更多暴力。"
       }
     },
     {
@@ -240,6 +284,61 @@
       "chinese": {
         "meaning": "受益",
         "example": "學生從規律運動中受益。"
+      }
+    },
+    {
+      "word": "Beseech",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To ask someone urgently and fervently",
+      "example": "I beseech you to reconsider your decision.",
+      "chinese": {
+        "meaning": "懇求、哀求",
+        "example": "我懇求你重新考慮你的決定。"
+      }
+    },
+    {
+      "word": "Beset",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To trouble persistently; to attack from all sides",
+      "example": "The team was beset by injuries all season.",
+      "chinese": {
+        "meaning": "困擾、包圍",
+        "example": "整個賽季球隊都受到傷病困擾。"
+      }
+    },
+    {
+      "word": "Bespeak",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To indicate or show something clearly",
+      "example": "His actions bespeak his intentions.",
+      "chinese": {
+        "meaning": "顯示、表明",
+        "example": "他的行為表明了他的意圖。"
+      }
+    },
+    {
+      "word": "Bet",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To risk something, usually money, on the outcome of an event",
+      "example": "He bet all his savings on that horse.",
+      "chinese": {
+        "meaning": "下注、賭博",
+        "example": "他把所有積蓄都押在那匹馬上。"
+      }
+    },
+    {
+      "word": "Betake",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To go to or toward a place (archaic/formal)",
+      "example": "He betook himself to his chamber.",
+      "chinese": {
+        "meaning": "前往（古語）",
+        "example": "他回到自己的房間。"
       }
     },
     {
@@ -639,6 +738,17 @@
       }
     },
     {
+      "word": "Breastfeed",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To feed a baby with milk from the breast",
+      "example": "She chose to breastfeed her baby for six months.",
+      "chinese": {
+        "meaning": "哺乳",
+        "example": "她選擇哺乳嬰兒六個月。"
+      }
+    },
+    {
       "word": "Breathe",
       "type": "verb",
       "letter": "B",
@@ -768,6 +878,17 @@
       "chinese": {
         "meaning": "斡旋、調停",
         "example": "他斡旋達成了和平協議。"
+      }
+    },
+    {
+      "word": "Browbeat",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To intimidate or bully someone into doing something",
+      "example": "The suspect was browbeaten into confessing.",
+      "chinese": {
+        "meaning": "威嚇、恐嚇",
+        "example": "嫌犯在恐嚇下招供了。"
       }
     },
     {

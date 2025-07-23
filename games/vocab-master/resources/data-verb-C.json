@@ -276,6 +276,17 @@
       }
     },
     {
+      "word": "Cleave",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To split or sever something, often violently; or to cling strongly to a belief or person",
+      "example": "He cleaved the log with an axe.",
+      "chinese": {
+        "meaning": "劈開；緊緊依附",
+        "example": "他用斧頭把木頭劈開。"
+      }
+    },
+    {
       "word": "Climb",
       "type": "verb",
       "letter": "C",
@@ -284,6 +295,17 @@
       "chinese": {
         "meaning": "攀爬",
         "example": "他們爬上了山。"
+      }
+    },
+    {
+      "word": "Cling",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To hold on tightly to someone or something",
+      "example": "The child clung to her mother.",
+      "chinese": {
+        "meaning": "緊貼、依附",
+        "example": "孩子緊緊抱住媽媽。"
       }
     },
     {
@@ -658,6 +680,17 @@
       "chinese": {
         "meaning": "創造",
         "example": "她創作了一幅美麗的畫。"
+      }
+    },
+    {
+      "word": "Creep",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To move slowly and quietly, especially to avoid being noticed",
+      "example": "He crept into the room without making a sound.",
+      "chinese": {
+        "meaning": "悄悄移動、爬行",
+        "example": "他悄悄地走進房間，沒有發出聲音。"
       }
     },
     {

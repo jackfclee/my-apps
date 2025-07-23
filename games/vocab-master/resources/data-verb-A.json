@@ -67,6 +67,17 @@
       }
     },
     {
+      "word": "Abide",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To accept or act in accordance with a rule, decision, or recommendation",
+      "example": "All members must abide by the club's regulations.",
+      "chinese": {
+        "meaning": "遵守、忍受",
+        "example": "所有成員都必須遵守俱樂部的規定。"
+      }
+    },
+    {
       "word": "Abjure",
       "type": "verb",
       "letter": "A",
@@ -1472,6 +1483,17 @@
       "chinese": {
         "meaning": "公開宣稱、坦率承認",
         "example": "她公開宣稱自己的清白。"
+      }
+    },
+    {
+      "word": "Awake",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To stop sleeping or to make someone stop sleeping; to become aware of something",
+      "example": "She awoke to the sound of birds singing.",
+      "chinese": {
+        "meaning": "醒來、意識到",
+        "example": "她在鳥鳴聲中醒來。"
       }
     },
     {
