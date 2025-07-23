@@ -378,11 +378,11 @@
       "word": "Comfort",
       "type": "verb",
       "letter": "C",
-      "meaning": "To make someone feel better",
-      "example": "She comforted her friend after the loss.",
+      "meaning": "To make someone feel less worried or upset",
+      "example": "He comforted his sister after the bad news.",
       "chinese": {
         "meaning": "安慰",
-        "example": "她在朋友失落時安慰了他。"
+        "example": "壞消息傳來後，他安慰了妹妹。"
       }
     },
     {
@@ -394,6 +394,39 @@
       "chinese": {
         "meaning": "命令",
         "example": "軍官命令士兵們。"
+      }
+    },
+    {
+      "word": "Commence",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To begin or start something",
+      "example": "The ceremony will commence at noon.",
+      "chinese": {
+        "meaning": "開始",
+        "example": "儀式將於中午開始。"
+      }
+    },
+    {
+      "word": "Comment",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To express an opinion or reaction",
+      "example": "She commented on the new policy.",
+      "chinese": {
+        "meaning": "評論",
+        "example": "她對新政策發表了評論。"
+      }
+    },
+    {
+      "word": "Commit",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To carry out or perpetrate (a mistake, crime, or immoral act)",
+      "example": "He committed a serious mistake.",
+      "chinese": {
+        "meaning": "犯（錯誤、罪行）",
+        "example": "他犯了一個嚴重的錯誤。"
       }
     },
     {
@@ -419,6 +452,17 @@
       }
     },
     {
+      "word": "Compensate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make up for something, especially a loss or damage",
+      "example": "The company compensated him for the injury.",
+      "chinese": {
+        "meaning": "賠償、補償",
+        "example": "公司對他的受傷進行了賠償。"
+      }
+    },
+    {
       "word": "Compete",
       "type": "verb",
       "letter": "C",
@@ -427,6 +471,17 @@
       "chinese": {
         "meaning": "競爭",
         "example": "他們參加了比賽。"
+      }
+    },
+    {
+      "word": "Compile",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To collect and arrange information from different sources",
+      "example": "She compiled a list of all the guests.",
+      "chinese": {
+        "meaning": "編輯、彙編",
+        "example": "她編制了一份所有賓客的名單。"
       }
     },
     {
@@ -452,14 +507,47 @@
       }
     },
     {
+      "word": "Complicate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make something more difficult to understand or deal with",
+      "example": "His involvement complicated the situation.",
+      "chinese": {
+        "meaning": "使複雜化",
+        "example": "他的介入使情況變得更複雜。"
+      }
+    },
+    {
+      "word": "Comprehend",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To understand something fully",
+      "example": "He could not comprehend the complexity of the issue.",
+      "chinese": {
+        "meaning": "理解",
+        "example": "他無法理解這個問題的複雜性。"
+      }
+    },
+    {
+      "word": "Comprise",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To be made up of",
+      "example": "The team comprises five players.",
+      "chinese": {
+        "meaning": "包含、由...組成",
+        "example": "這支隊伍由五名球員組成。"
+      }
+    },
+    {
       "word": "Concentrate",
       "type": "verb",
       "letter": "C",
-      "meaning": "To focus attention",
-      "example": "Please concentrate on your homework.",
+      "meaning": "To focus one's attention or mental effort",
+      "example": "Please concentrate on your work.",
       "chinese": {
         "meaning": "集中注意力",
-        "example": "請專心做作業。"
+        "example": "請專注於你的工作。"
       }
     },
     {
