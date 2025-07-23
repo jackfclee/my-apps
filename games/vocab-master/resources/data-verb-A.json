@@ -111,6 +111,17 @@
       }
     },
     {
+      "word": "Abridge",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To shorten a text without losing its essence",
+      "example": "The article was abridged for clarity.",
+      "chinese": {
+        "meaning": "縮短、刪節",
+        "example": "這篇文章為了清晰而被刪節。"
+      }
+    },
+    {
       "word": "Abrogate",
       "type": "verb",
       "letter": "A",
@@ -507,6 +518,17 @@
       }
     },
     {
+      "word": "Adulterate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make something poorer in quality by adding another substance",
+      "example": "The milk was found to be adulterated with water.",
+      "chinese": {
+        "meaning": "摻雜、摻假",
+        "example": "這牛奶被發現摻了水。"
+      }
+    },
+    {
       "word": "Advance",
       "type": "verb",
       "letter": "A",
@@ -562,6 +584,17 @@
       }
     },
     {
+      "word": "Afflict",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To cause pain or suffering",
+      "example": "The disease afflicted thousands of people.",
+      "chinese": {
+        "meaning": "折磨、使痛苦",
+        "example": "這場疾病折磨了成千上萬的人。"
+      }
+    },
+    {
       "word": "Afford",
       "type": "verb",
       "letter": "A",
@@ -570,6 +603,17 @@
       "chinese": {
         "meaning": "負擔得起",
         "example": "我買不起新車。"
+      }
+    },
+    {
+      "word": "Aggrandize",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To increase the power, status, or wealth of",
+      "example": "He used his position to aggrandize himself.",
+      "chinese": {
+        "meaning": "提升地位、誇大",
+        "example": "他利用職位抬高自己的地位。"
       }
     },
     {
@@ -617,6 +661,17 @@
       }
     },
     {
+      "word": "Alchemize",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To transform something in a seemingly magical or mysterious way",
+      "example": "She alchemized pain into poetry.",
+      "chinese": {
+        "meaning": "神秘地轉化、化為精華",
+        "example": "她把痛苦轉化為詩意。"
+      }
+    },
+    {
       "word": "Alert",
       "type": "verb",
       "letter": "A",
@@ -625,6 +680,17 @@
       "chinese": {
         "meaning": "警告、提醒",
         "example": "他們向警方報告了盜竊事件。"
+      }
+    },
+    {
+      "word": "Alienate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To cause someone to feel isolated or estranged",
+      "example": "His behavior alienated his friends.",
+      "chinese": {
+        "meaning": "使疏遠、離間",
+        "example": "他的行為使朋友們疏遠了他。"
       }
     },
     {
@@ -669,6 +735,17 @@
       "chinese": {
         "meaning": "指稱、聲稱（無證據）",
         "example": "報紙聲稱那位政治人物涉及貪污。"
+      }
+    },
+    {
+      "word": "Allegorize",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To interpret or represent something as an allegory",
+      "example": "The novel allegorizes the struggle between good and evil.",
+      "chinese": {
+        "meaning": "寓言化、象徵化",
+        "example": "這本小說象徵性地描寫善與惡之間的鬥爭。"
       }
     },
     {
@@ -837,6 +914,17 @@
       }
     },
     {
+      "word": "Annul",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To declare invalid, especially in legal context",
+      "example": "The contract was annulled by the court.",
+      "chinese": {
+        "meaning": "廢除、取消（法律或契約）",
+        "example": "合同被法院宣布無效。"
+      }
+    },
+    {
       "word": "Anticipate",
       "type": "verb",
       "letter": "A",
@@ -881,6 +969,17 @@
       }
     },
     {
+      "word": "Appease",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To calm or pacify someone by giving in to their demands",
+      "example": "The government tried to appease the protesters.",
+      "chinese": {
+        "meaning": "安撫、平息",
+        "example": "政府試圖安撫抗議者。"
+      }
+    },
+    {
       "word": "Apply",
       "type": "verb",
       "letter": "A",
@@ -900,6 +999,17 @@
       "chinese": {
         "meaning": "任命、指派",
         "example": "他被任命為新經理。"
+      }
+    },
+    {
+      "word": "Apportion",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To divide and allocate proportionally",
+      "example": "The funds were apportioned among the departments.",
+      "chinese": {
+        "meaning": "分配、分攤",
+        "example": "資金被分配給各個部門。"
       }
     },
     {
@@ -1112,6 +1222,28 @@
       }
     },
     {
+      "word": "Assert",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To state a fact or belief confidently and forcefully",
+      "example": "He asserted his innocence in court.",
+      "chinese": {
+        "meaning": "主張、斷言",
+        "example": "他在法庭上堅稱自己無罪。"
+      }
+    },
+    {
+      "word": "Assimilate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To absorb and integrate into a wider society or culture",
+      "example": "Immigrants often assimilate into the local community.",
+      "chinese": {
+        "meaning": "同化、吸收",
+        "example": "移民常常融入當地社區。"
+      }
+    },
+    {
       "word": "Assume",
       "type": "verb",
       "letter": "A",
@@ -1178,6 +1310,17 @@
       }
     },
     {
+      "word": "Attenuate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To reduce the force, effect, or value of something",
+      "example": "The drug attenuates the effects of the virus.",
+      "chinese": {
+        "meaning": "減弱、削弱",
+        "example": "該藥物可減弱病毒的影響。"
+      }
+    },
+    {
       "word": "Attest",
       "type": "verb",
       "letter": "A",
@@ -1208,6 +1351,17 @@
       "chinese": {
         "meaning": "拍賣",
         "example": "他們把舊家具拍賣掉了。"
+      }
+    },
+    {
+      "word": "Audit",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To examine financial accounts or records",
+      "example": "The company was audited by an independent firm.",
+      "chinese": {
+        "meaning": "審計、查帳",
+        "example": "該公司由一家獨立公司進行審計。"
       }
     },
     {
