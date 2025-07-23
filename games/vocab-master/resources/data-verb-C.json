@@ -331,6 +331,17 @@
       }
     },
     {
+      "word": "Collaborate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To work together with others to achieve a common goal",
+      "example": "They collaborated on the school project.",
+      "chinese": {
+        "meaning": "合作",
+        "example": "他們一起合作完成了學校的專案。"
+      }
+    },
+    {
       "word": "Collect",
       "type": "verb",
       "letter": "C",
@@ -427,6 +438,17 @@
       "chinese": {
         "meaning": "犯（錯誤、罪行）",
         "example": "他犯了一個嚴重的錯誤。"
+      }
+    },
+    {
+      "word": "Commodate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To lend something for use without expecting payment (rare/legal term)",
+      "example": "The museum commodated the artifact to the university for research.",
+      "chinese": {
+        "meaning": "出借（無償使用）",
+        "example": "博物館將這件文物無償出借給大學作研究用途。"
       }
     },
     {
@@ -870,6 +892,17 @@
       }
     },
     {
+      "word": "Cooperate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To work or act together for a common purpose",
+      "example": "The teams cooperated to complete the mission.",
+      "chinese": {
+        "meaning": "合作、配合",
+        "example": "這些隊伍通力合作完成任務。"
+      }
+    },
+    {
       "word": "Copy",
       "type": "verb",
       "letter": "C",
@@ -889,6 +922,17 @@
       "chinese": {
         "meaning": "糾正",
         "example": "他糾正了報告中的錯誤。"
+      }
+    },
+    {
+      "word": "Correlate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To have a mutual relationship or connection",
+      "example": "The data correlates with the experiment results.",
+      "chinese": {
+        "meaning": "相關、使有關聯",
+        "example": "這些數據與實驗結果相關聯。"
       }
     },
     {

@@ -122,6 +122,17 @@
       }
     },
     {
+      "word": "Delete",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To remove or erase something, especially from a document or computer",
+      "example": "She accidentally deleted the file.",
+      "chinese": {
+        "meaning": "刪除",
+        "example": "她不小心刪除了檔案。"
+      }
+    },
+    {
       "word": "Deliver",
       "type": "verb",
       "letter": "D",
@@ -251,6 +262,17 @@
       "chinese": {
         "meaning": "摧毀",
         "example": "大火摧毀了幾棟建築物。"
+      }
+    },
+    {
+      "word": "Destruct",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To deliberately destroy something (often used in technical or military contexts)",
+      "example": "The system will self-destruct in 10 seconds.",
+      "chinese": {
+        "meaning": "自毀、破壞",
+        "example": "該系統將在10秒內自毀。"
       }
     },
     {
