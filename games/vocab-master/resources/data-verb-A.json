@@ -848,6 +848,17 @@
       }
     },
     {
+      "word": "Ameliorate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make something bad or unsatisfactory better",
+      "example": "The reforms did much to ameliorate the living standards of the poor.",
+      "chinese": {
+        "meaning": "改善、改良",
+        "example": "改革大大改善了窮人的生活水平。"
+      }
+    },
+    {
       "word": "Amend",
       "type": "verb",
       "letter": "A",
@@ -1244,6 +1255,17 @@
       }
     },
     {
+      "word": "Assuage",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make an unpleasant feeling less intense",
+      "example": "The letter was intended to assuage the fears of the public.",
+      "chinese": {
+        "meaning": "緩和、減輕（不愉快的情感）",
+        "example": "這封信旨在緩和公眾的恐懼。"
+      }
+    },
+    {
       "word": "Assume",
       "type": "verb",
       "letter": "A",
@@ -1340,6 +1362,17 @@
       "chinese": {
         "meaning": "吸引",
         "example": "節日吸引了很多遊客。"
+      }
+    },
+    {
+      "word": "Attribute",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To regard something as being caused by a particular person or thing",
+      "example": "The author attributes the character's downfall to his arrogance.",
+      "chinese": {
+        "meaning": "歸因於",
+        "example": "作者將角色的失敗歸因於他的傲慢。"
       }
     },
     {
