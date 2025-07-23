@@ -89,6 +89,17 @@
       }
     },
     {
+      "word": "Tear",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To pull something apart or into pieces with force",
+      "example": "She tore the letter into pieces.",
+      "chinese": {
+        "meaning": "撕裂",
+        "example": "她把信撕成了碎片。"
+      }
+    },
+    {
       "word": "Tease",
       "type": "verb",
       "letter": "T",
@@ -97,6 +108,17 @@
       "chinese": {
         "meaning": "取笑",
         "example": "他取笑朋友的口音。"
+      }
+    },
+    {
+      "word": "Telecast",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To broadcast by television",
+      "example": "The ceremony was telecast live.",
+      "chinese": {
+        "meaning": "電視轉播",
+        "example": "典禮進行了電視直播。"
       }
     },
     {
@@ -196,6 +218,17 @@
       "chinese": {
         "meaning": "投擲",
         "example": "他把球投給了朋友。"
+      }
+    },
+    {
+      "word": "Thrust",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To push something or someone suddenly or violently",
+      "example": "He thrust the door open.",
+      "chinese": {
+        "meaning": "猛推",
+        "example": "他猛地推開門。"
       }
     },
     {
@@ -375,6 +408,17 @@
       }
     },
     {
+      "word": "Tread",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To step or walk on or over",
+      "example": "Watch where you tread.",
+      "chinese": {
+        "meaning": "踩踏",
+        "example": "注意你踩的地方。"
+      }
+    },
+    {
       "word": "Treasure",
       "type": "verb",
       "letter": "T",
@@ -515,6 +559,28 @@
       "chinese": {
         "meaning": "打字",
         "example": "她很快地打好了信。"
+      }
+    },
+    {
+      "word": "Typecast",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To repeatedly assign an actor the same type of role",
+      "example": "She was typecast as a villain in most films.",
+      "chinese": {
+        "meaning": "定型演出",
+        "example": "她在大多數電影中都被定型為反派。"
+      }
+    },
+    {
+      "word": "Typeset",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To arrange text and images for printing",
+      "example": "The manuscript was typeset and printed.",
+      "chinese": {
+        "meaning": "排版",
+        "example": "稿件已經排版並印刷。"
       }
     }
   ]

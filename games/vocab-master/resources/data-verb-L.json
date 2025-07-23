@@ -133,6 +133,17 @@
       }
     },
     {
+      "word": "Leap",
+      "type": "verb",
+      "letter": "L",
+      "meaning": "To jump or spring a long way or to a great height",
+      "example": "The athlete leaped over the hurdle.",
+      "chinese": {
+        "meaning": "跳躍",
+        "example": "運動員跳過了欄架。"
+      }
+    },
+    {
       "word": "Learn",
       "type": "verb",
       "letter": "L",

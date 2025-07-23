@@ -45,6 +45,17 @@
       }
     },
     {
+      "word": "Hamstring",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To severely restrict the effectiveness or movement of someone or something",
+      "example": "The new regulations hamstrung the project.",
+      "chinese": {
+        "meaning": "削弱能力；使受挫",
+        "example": "新規定使該項目受到嚴重限制。"
+      }
+    },
+    {
       "word": "Handle",
       "type": "verb",
       "letter": "H",
@@ -210,6 +221,17 @@
       }
     },
     {
+      "word": "Heave",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To lift or haul something with effort",
+      "example": "They heaved the heavy box onto the truck.",
+      "chinese": {
+        "meaning": "用力舉起；搬運",
+        "example": "他們費力地把沉重的箱子搬上卡車。"
+      }
+    },
+    {
       "word": "Heighten",
       "type": "verb",
       "letter": "H",
@@ -240,6 +262,17 @@
       "chinese": {
         "meaning": "猶豫",
         "example": "他在回答問題前猶豫了一下。"
+      }
+    },
+    {
+      "word": "Hew",
+      "type": "verb",
+      "letter": "H",
+      "meaning": "To chop or cut something, especially wood, with a tool such as an axe",
+      "example": "They hewed logs to build a cabin.",
+      "chinese": {
+        "meaning": "劈砍；砍伐",
+        "example": "他們砍伐木頭來建造小屋。"
       }
     },
     {

@@ -34,6 +34,17 @@
       }
     },
     {
+      "word": "Partake",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To take part in or share something",
+      "example": "They partook in the celebration with joy.",
+      "chinese": {
+        "meaning": "參與；分享",
+        "example": "他們歡樂地參與了慶祝活動。"
+      }
+    },
+    {
       "word": "Participate",
       "type": "verb",
       "letter": "P",
@@ -353,6 +364,17 @@
       }
     },
     {
+      "word": "Preset",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To set something in advance",
+      "example": "She preset the timer before cooking.",
+      "chinese": {
+        "meaning": "預先設定",
+        "example": "她在烹飪前預先設定了計時器。"
+      }
+    },
+    {
       "word": "Pretend",
       "type": "verb",
       "letter": "P",
@@ -438,6 +460,17 @@
       "chinese": {
         "meaning": "促進",
         "example": "該運動促進健康飲食。"
+      }
+    },
+    {
+      "word": "Proofread",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To read and correct errors in a text",
+      "example": "He proofread the article before submission.",
+      "chinese": {
+        "meaning": "校對",
+        "example": "他在提交前校對了文章。"
       }
     },
     {

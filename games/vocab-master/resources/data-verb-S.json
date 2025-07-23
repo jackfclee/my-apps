@@ -56,6 +56,28 @@
       }
     },
     {
+      "word": "Saw",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To cut something using a saw",
+      "example": "He sawed the log into pieces.",
+      "chinese": {
+        "meaning": "鋸",
+        "example": "他把木頭鋸成了幾塊。"
+      }
+    },
+    {
+      "word": "Say",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To express something using words",
+      "example": "She said she would help.",
+      "chinese": {
+        "meaning": "說",
+        "example": "她說她會幫忙。"
+      }
+    },
+    {
       "word": "Scan",
       "type": "verb",
       "letter": "S",
@@ -133,6 +155,28 @@
       }
     },
     {
+      "word": "See",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To perceive with the eyes",
+      "example": "I saw a bird outside the window.",
+      "chinese": {
+        "meaning": "看見",
+        "example": "我在窗外看到一隻鳥。"
+      }
+    },
+    {
+      "word": "Seek",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To try to find or obtain something",
+      "example": "They sought advice from an expert.",
+      "chinese": {
+        "meaning": "尋求",
+        "example": "他們尋求專家的建議。"
+      }
+    },
+    {
       "word": "Seize",
       "type": "verb",
       "letter": "S",
@@ -152,6 +196,28 @@
       "chinese": {
         "meaning": "選擇",
         "example": "請選擇其中一個選項。"
+      }
+    },
+    {
+      "word": "Sell",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To give something in exchange for money",
+      "example": "She sold her car last week.",
+      "chinese": {
+        "meaning": "出售",
+        "example": "她上週把車賣了。"
+      }
+    },
+    {
+      "word": "Send",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To cause to go or be taken to a particular destination",
+      "example": "He sent a letter to his parents.",
+      "chinese": {
+        "meaning": "寄送",
+        "example": "他寄了一封信給父母。"
       }
     },
     {
@@ -177,6 +243,17 @@
       }
     },
     {
+      "word": "Set",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To put something in a particular place or position",
+      "example": "He set the glass on the table.",
+      "chinese": {
+        "meaning": "放置；設定",
+        "example": "他把杯子放在桌上。"
+      }
+    },
+    {
       "word": "Settle",
       "type": "verb",
       "letter": "S",
@@ -185,6 +262,28 @@
       "chinese": {
         "meaning": "解決；定居",
         "example": "他們和平解決了爭端。"
+      }
+    },
+    {
+      "word": "Sew",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To join pieces of fabric using a needle and thread",
+      "example": "She sewed a new dress.",
+      "chinese": {
+        "meaning": "縫紉",
+        "example": "她縫了一件新裙子。"
+      }
+    },
+    {
+      "word": "Shake",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To move something back and forth or up and down quickly",
+      "example": "She shook the bottle before opening it.",
+      "chinese": {
+        "meaning": "搖動",
+        "example": "她在打開瓶子前搖了搖。"
       }
     },
     {
@@ -210,6 +309,28 @@
       }
     },
     {
+      "word": "Shear",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To cut the wool off a sheep",
+      "example": "They sheared the sheep in spring.",
+      "chinese": {
+        "meaning": "剪羊毛",
+        "example": "他們在春天剪羊毛。"
+      }
+    },
+    {
+      "word": "Shed",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To lose or let fall a natural covering or part",
+      "example": "The tree sheds its leaves in autumn.",
+      "chinese": {
+        "meaning": "脫落；流出",
+        "example": "這棵樹在秋天落葉。"
+      }
+    },
+    {
       "word": "Shift",
       "type": "verb",
       "letter": "S",
@@ -218,6 +339,50 @@
       "chinese": {
         "meaning": "轉移",
         "example": "討論的重點很快轉移了。"
+      }
+    },
+    {
+      "word": "Shine",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To give off light",
+      "example": "The sun shines brightly.",
+      "chinese": {
+        "meaning": "發光",
+        "example": "太陽閃耀著光芒。"
+      }
+    },
+    {
+      "word": "Shit",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To defecate (vulgar slang)",
+      "example": "The baby shits in the diaper.",
+      "chinese": {
+        "meaning": "大便（粗俗）",
+        "example": "嬰兒在尿布裡大便。"
+      }
+    },
+    {
+      "word": "Shoe",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To put shoes on a horse",
+      "example": "The blacksmith shoed the horse.",
+      "chinese": {
+        "meaning": "給馬釘蹄鐵",
+        "example": "鐵匠給馬釘上了蹄鐵。"
+      }
+    },
+    {
+      "word": "Shoot",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To fire a gun or other weapon",
+      "example": "The hunter shot a deer.",
+      "chinese": {
+        "meaning": "射擊",
+        "example": "獵人射中了一頭鹿。"
       }
     },
     {
@@ -240,6 +405,17 @@
       "chinese": {
         "meaning": "縮小",
         "example": "經濟衰退期間市場縮小了。"
+      }
+    },
+    {
+      "word": "Shut",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To close something tightly",
+      "example": "He shut the door quietly.",
+      "chinese": {
+        "meaning": "關閉",
+        "example": "他悄悄地關上了門。"
       }
     },
     {
@@ -276,6 +452,50 @@
       }
     },
     {
+      "word": "Simulcast",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To broadcast simultaneously by multiple media",
+      "example": "The concert was simulcast on TV and radio.",
+      "chinese": {
+        "meaning": "同步播放",
+        "example": "音樂會在電視和電台同步播放。"
+      }
+    },
+    {
+      "word": "Sing",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To produce musical tones with the voice",
+      "example": "She sang a beautiful song.",
+      "chinese": {
+        "meaning": "唱歌",
+        "example": "她唱了一首動聽的歌。"
+      }
+    },
+    {
+      "word": "Sink",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To go down below the surface of something",
+      "example": "The boat sank after hitting the rock.",
+      "chinese": {
+        "meaning": "下沉",
+        "example": "船撞到岩石後沉了。"
+      }
+    },
+    {
+      "word": "Sit",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To be in a position where the body is supported by the buttocks",
+      "example": "Please sit down and relax.",
+      "chinese": {
+        "meaning": "坐下",
+        "example": "請坐下來放鬆。"
+      }
+    },
+    {
       "word": "Sketch",
       "type": "verb",
       "letter": "S",
@@ -309,6 +529,94 @@
       }
     },
     {
+      "word": "Slay",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To kill violently",
+      "example": "The dragon was slain by the knight.",
+      "chinese": {
+        "meaning": "殺死",
+        "example": "那條龍被騎士殺死了。"
+      }
+    },
+    {
+      "word": "Sleep",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To rest with the eyes closed and the body inactive",
+      "example": "He slept for eight hours.",
+      "chinese": {
+        "meaning": "睡覺",
+        "example": "他睡了八個小時。"
+      }
+    },
+    {
+      "word": "Slide",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To move smoothly along a surface",
+      "example": "She slid the window open.",
+      "chinese": {
+        "meaning": "滑動",
+        "example": "她滑開了窗戶。"
+      }
+    },
+    {
+      "word": "Sling",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To throw or hang something loosely",
+      "example": "He slung his bag over his shoulder.",
+      "chinese": {
+        "meaning": "吊掛；甩",
+        "example": "他把背包甩到肩膀上。"
+      }
+    },
+    {
+      "word": "Slink",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To move smoothly and quietly with gliding steps",
+      "example": "The cat slinked through the doorway.",
+      "chinese": {
+        "meaning": "悄悄移動",
+        "example": "那隻貓悄悄地穿過門口。"
+      }
+    },
+    {
+      "word": "Slit",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To cut or make a long narrow opening",
+      "example": "He slit the envelope open.",
+      "chinese": {
+        "meaning": "切開",
+        "example": "他把信封割開。"
+      }
+    },
+    {
+      "word": "Smell",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To perceive an odor through the nose",
+      "example": "I smelled something burning.",
+      "chinese": {
+        "meaning": "聞到",
+        "example": "我聞到有東西在燒。"
+      }
+    },
+    {
+      "word": "Smite",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To strike with a firm blow",
+      "example": "He was smitten by guilt.",
+      "chinese": {
+        "meaning": "猛擊；懲罰",
+        "example": "他被內疚擊倒了。"
+      }
+    },
+    {
       "word": "Soar",
       "type": "verb",
       "letter": "S",
@@ -331,6 +639,17 @@
       }
     },
     {
+      "word": "Sow",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To plant seeds in the ground",
+      "example": "Farmers sow seeds in spring.",
+      "chinese": {
+        "meaning": "播種",
+        "example": "農民在春天播種。"
+      }
+    },
+    {
       "word": "Spark",
       "type": "verb",
       "letter": "S",
@@ -339,6 +658,17 @@
       "chinese": {
         "meaning": "引發",
         "example": "這場辯論引發了公眾關注。"
+      }
+    },
+    {
+      "word": "Speak",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To say words or talk",
+      "example": "She spoke to the audience.",
+      "chinese": {
+        "meaning": "說話",
+        "example": "她對觀眾發言。"
       }
     },
     {
@@ -353,6 +683,39 @@
       }
     },
     {
+      "word": "Speed",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To move quickly",
+      "example": "The car sped down the highway.",
+      "chinese": {
+        "meaning": "加速；快速前進",
+        "example": "那輛車在高速公路上飛馳。"
+      }
+    },
+    {
+      "word": "Spell",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To write or say the letters of a word",
+      "example": "Can you spell your name for me?",
+      "chinese": {
+        "meaning": "拼寫",
+        "example": "你能為我拼出你的名字嗎？"
+      }
+    },
+    {
+      "word": "Spend",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To use money or time for a purpose",
+      "example": "She spent all day studying.",
+      "chinese": {
+        "meaning": "花費",
+        "example": "她花了一整天學習。"
+      }
+    },
+    {
       "word": "Spill",
       "type": "verb",
       "letter": "S",
@@ -361,6 +724,50 @@
       "chinese": {
         "meaning": "灑出",
         "example": "她把咖啡灑在桌子上。"
+      }
+    },
+    {
+      "word": "Spin",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To turn around quickly",
+      "example": "The wheel was spinning fast.",
+      "chinese": {
+        "meaning": "旋轉",
+        "example": "那個輪子轉得很快。"
+      }
+    },
+    {
+      "word": "Spit",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To force saliva out of the mouth",
+      "example": "He spat on the ground.",
+      "chinese": {
+        "meaning": "吐出（唾液）",
+        "example": "他朝地上吐了口水。"
+      }
+    },
+    {
+      "word": "Split",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To divide or break into parts",
+      "example": "They split the bill evenly.",
+      "chinese": {
+        "meaning": "分裂；分開",
+        "example": "他們平均分攤帳單。"
+      }
+    },
+    {
+      "word": "Spoil",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To ruin or damage something",
+      "example": "The rain spoiled our picnic.",
+      "chinese": {
+        "meaning": "破壞；寵壞",
+        "example": "雨破壞了我們的野餐。"
       }
     },
     {
@@ -375,6 +782,39 @@
       }
     },
     {
+      "word": "Spotlight",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To highlight or give attention to",
+      "example": "The article spotlights the main issues.",
+      "chinese": {
+        "meaning": "聚焦；突出",
+        "example": "這篇文章突出了主要問題。"
+      }
+    },
+    {
+      "word": "Spread",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To extend over a large area or among many people",
+      "example": "The virus spread quickly.",
+      "chinese": {
+        "meaning": "傳播；擴散",
+        "example": "病毒迅速傳播。"
+      }
+    },
+    {
+      "word": "Spring",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To move or leap suddenly or swiftly",
+      "example": "The cat sprang onto the table.",
+      "chinese": {
+        "meaning": "跳躍；湧現",
+        "example": "貓突然跳到桌子上。"
+      }
+    },
+    {
       "word": "Stabilize",
       "type": "verb",
       "letter": "S",
@@ -383,6 +823,17 @@
       "chinese": {
         "meaning": "穩定",
         "example": "政府試圖穩定經濟。"
+      }
+    },
+    {
+      "word": "Stand",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To be in an upright position on the feet",
+      "example": "He stood by the window.",
+      "chinese": {
+        "meaning": "站立",
+        "example": "他站在窗邊。"
       }
     },
     {
@@ -397,6 +848,39 @@
       }
     },
     {
+      "word": "Stave",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To break something by forcing it inward or apart",
+      "example": "They staved in the door to enter the room.",
+      "chinese": {
+        "meaning": "擊穿；擋開",
+        "example": "他們擊穿了門闖入房間。"
+      }
+    },
+    {
+      "word": "Steal",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To take something without permission",
+      "example": "Someone stole my wallet.",
+      "chinese": {
+        "meaning": "偷竊",
+        "example": "有人偷了我的錢包。"
+      }
+    },
+    {
+      "word": "Stick",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To attach or cling to a surface",
+      "example": "He stuck the photo to the wall.",
+      "chinese": {
+        "meaning": "黏貼；堅持",
+        "example": "他把照片貼在牆上。"
+      }
+    },
+    {
       "word": "Stimulate",
       "type": "verb",
       "letter": "S",
@@ -405,6 +889,28 @@
       "chinese": {
         "meaning": "刺激",
         "example": "新政策刺激了經濟增長。"
+      }
+    },
+    {
+      "word": "Sting",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To cause sharp pain with a pointed object or insect",
+      "example": "The bee stung his arm.",
+      "chinese": {
+        "meaning": "刺痛；叮咬",
+        "example": "蜜蜂叮了他的手臂。"
+      }
+    },
+    {
+      "word": "Stink",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To have a strong unpleasant smell",
+      "example": "The garbage stinks.",
+      "chinese": {
+        "meaning": "發臭",
+        "example": "垃圾很臭。"
       }
     },
     {
@@ -430,6 +936,61 @@
       }
     },
     {
+      "word": "Strew",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To scatter or spread things untidily",
+      "example": "The clothes were strewn across the floor.",
+      "chinese": {
+        "meaning": "撒；散布",
+        "example": "衣服散落在地板上。"
+      }
+    },
+    {
+      "word": "Stride",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To walk with long decisive steps",
+      "example": "She strode across the room.",
+      "chinese": {
+        "meaning": "大步行走",
+        "example": "她大步走過房間。"
+      }
+    },
+    {
+      "word": "Strike",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To hit something with force",
+      "example": "The clock struck midnight.",
+      "chinese": {
+        "meaning": "打擊；敲響",
+        "example": "時鐘敲響了午夜。"
+      }
+    },
+    {
+      "word": "String",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To thread or arrange in a line or series",
+      "example": "She strung the beads into a necklace.",
+      "chinese": {
+        "meaning": "串連；排列",
+        "example": "她把珠子串成了一條項鍊。"
+      }
+    },
+    {
+      "word": "Strive",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To make great efforts to achieve or obtain something",
+      "example": "She strives for excellence in all her work.",
+      "chinese": {
+        "meaning": "努力；奮鬥",
+        "example": "她在所有工作中都力求卓越。"
+      }
+    },
+    {
       "word": "Structure",
       "type": "verb",
       "letter": "S",
@@ -449,6 +1010,17 @@
       "chinese": {
         "meaning": "奮鬥；掙扎",
         "example": "他努力按時完成作業。"
+      }
+    },
+    {
+      "word": "Sublet",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To lease a rented property to another person",
+      "example": "He sublet his apartment while working abroad.",
+      "chinese": {
+        "meaning": "轉租",
+        "example": "他出國工作期間轉租了他的公寓。"
       }
     },
     {
@@ -540,6 +1112,17 @@
       }
     },
     {
+      "word": "Survive",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To continue to live or exist, especially after a dangerous event",
+      "example": "They survived the storm without injury.",
+      "chinese": {
+        "meaning": "存活；倖存",
+        "example": "他們在風暴中倖免於難。"
+      }
+    },
+    {
       "word": "Suspect",
       "type": "verb",
       "letter": "S",
@@ -559,6 +1142,61 @@
       "chinese": {
         "meaning": "維持",
         "example": "全年維持動力很困難。"
+      }
+    },
+    {
+      "word": "Swear",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To make a solemn declaration or use offensive language",
+      "example": "He swore to tell the truth.",
+      "chinese": {
+        "meaning": "發誓；咒罵",
+        "example": "他發誓要說實話。"
+      }
+    },
+    {
+      "word": "Sweep",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To clean or move something with a broom or similar tool",
+      "example": "She swept the floor every morning.",
+      "chinese": {
+        "meaning": "掃；席捲",
+        "example": "她每天早上掃地。"
+      }
+    },
+    {
+      "word": "Swell",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To increase in size or volume, often due to fluid",
+      "example": "His ankle swelled after the fall.",
+      "chinese": {
+        "meaning": "腫脹；增大",
+        "example": "他摔倒後腳踝腫起來了。"
+      }
+    },
+    {
+      "word": "Swim",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To move through water by using the limbs",
+      "example": "He swims every day for exercise.",
+      "chinese": {
+        "meaning": "游泳",
+        "example": "他每天游泳作為鍛煉。"
+      }
+    },
+    {
+      "word": "Swing",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To move back and forth or from side to side",
+      "example": "The child swung on the playground swing.",
+      "chinese": {
+        "meaning": "搖擺",
+        "example": "孩子在遊樂場的鞦韆上搖擺。"
       }
     },
     {

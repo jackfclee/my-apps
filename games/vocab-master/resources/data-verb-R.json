@@ -89,6 +89,17 @@
       }
     },
     {
+      "word": "Recast",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To present or organize something in a different way",
+      "example": "The director recast the role after the actor left.",
+      "chinese": {
+        "meaning": "重塑；重新分配角色",
+        "example": "導演在演員離開後重新分配了角色。"
+      }
+    },
+    {
       "word": "Receive",
       "type": "verb",
       "letter": "R",
@@ -133,6 +144,28 @@
       }
     },
     {
+      "word": "Redo",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To do something again to improve or correct it",
+      "example": "She decided to redo the project after receiving feedback.",
+      "chinese": {
+        "meaning": "重做",
+        "example": "收到反饋後她決定重做這個項目。"
+      }
+    },
+    {
+      "word": "Redraw",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To draw again or differently",
+      "example": "The artist had to redraw the image due to an error.",
+      "chinese": {
+        "meaning": "重新繪製",
+        "example": "由於出錯，畫家不得不重新繪圖。"
+      }
+    },
+    {
       "word": "Reflect",
       "type": "verb",
       "letter": "R",
@@ -163,6 +196,17 @@
       "chinese": {
         "meaning": "後悔",
         "example": "她後悔沒參加那場講座。"
+      }
+    },
+    {
+      "word": "Rehear",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To hear again, especially in a legal or formal context",
+      "example": "The court agreed to rehear the case.",
+      "chinese": {
+        "meaning": "重審",
+        "example": "法院同意重新審理此案。"
       }
     },
     {
@@ -221,6 +265,17 @@
       }
     },
     {
+      "word": "Remake",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make something again or differently",
+      "example": "The film was remade with a new cast.",
+      "chinese": {
+        "meaning": "重拍；重做",
+        "example": "這部電影由新演員重新拍攝。"
+      }
+    },
+    {
       "word": "Remove",
       "type": "verb",
       "letter": "R",
@@ -229,6 +284,17 @@
       "chinese": {
         "meaning": "移除",
         "example": "請在進入前脫鞋。"
+      }
+    },
+    {
+      "word": "Rend",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To tear something into pieces violently",
+      "example": "The explosion rent the air with a loud bang.",
+      "chinese": {
+        "meaning": "撕裂",
+        "example": "爆炸聲撕裂了空氣。"
       }
     },
     {
@@ -342,6 +408,17 @@
       }
     },
     {
+      "word": "Rerun",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To show or perform something again",
+      "example": "The station decided to rerun the series.",
+      "chinese": {
+        "meaning": "重播",
+        "example": "電視台決定重播這部連續劇。"
+      }
+    },
+    {
       "word": "Rescue",
       "type": "verb",
       "letter": "R",
@@ -364,6 +441,17 @@
       }
     },
     {
+      "word": "Resell",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To sell something that one has bought",
+      "example": "He plans to resell the tickets online.",
+      "chinese": {
+        "meaning": "轉售",
+        "example": "他打算在網上轉售這些票。"
+      }
+    },
+    {
       "word": "Resemble",
       "type": "verb",
       "letter": "R",
@@ -383,6 +471,17 @@
       "chinese": {
         "meaning": "抵抗",
         "example": "他抗拒了放棄的誘惑。"
+      }
+    },
+    {
+      "word": "Resit",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To take an exam again after failing or missing it",
+      "example": "She had to resit the test in December.",
+      "chinese": {
+        "meaning": "重考",
+        "example": "她必須在十二月重考。"
       }
     },
     {
@@ -430,6 +529,17 @@
       }
     },
     {
+      "word": "Restring",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To replace the strings of an instrument or object",
+      "example": "He had to restring his guitar before the concert.",
+      "chinese": {
+        "meaning": "重新裝上弦線",
+        "example": "他在音樂會前重新裝上吉他弦。"
+      }
+    },
+    {
       "word": "Result",
       "type": "verb",
       "letter": "R",
@@ -452,6 +562,39 @@
       }
     },
     {
+      "word": "Retake",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To take something again, such as an exam or a place",
+      "example": "She decided to retake the course next semester.",
+      "chinese": {
+        "meaning": "重修；重拍；重考",
+        "example": "她決定下學期重修這門課。"
+      }
+    },
+    {
+      "word": "Retell",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To tell a story or event again, often in a different way",
+      "example": "The teacher asked the students to retell the story.",
+      "chinese": {
+        "meaning": "重述",
+        "example": "老師請學生重新講述故事。"
+      }
+    },
+    {
+      "word": "Rethink",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To consider again a plan or idea",
+      "example": "We need to rethink our approach.",
+      "chinese": {
+        "meaning": "重新思考",
+        "example": "我們需要重新思考我們的方法。"
+      }
+    },
+    {
       "word": "Retire",
       "type": "verb",
       "letter": "R",
@@ -460,6 +603,17 @@
       "chinese": {
         "meaning": "退休",
         "example": "她計劃教書三十年後退休。"
+      }
+    },
+    {
+      "word": "Retread",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To put new tread on a used tire; to reuse old ideas",
+      "example": "They retreaded the tires to save money.",
+      "chinese": {
+        "meaning": "翻新（輪胎）",
+        "example": "他們翻新輪胎以節省成本。"
       }
     },
     {
@@ -540,6 +694,28 @@
       }
     },
     {
+      "word": "Rewind",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To wind back to the beginning",
+      "example": "He rewound the tape to watch it again.",
+      "chinese": {
+        "meaning": "倒帶",
+        "example": "他把錄影帶倒回去再看一次。"
+      }
+    },
+    {
+      "word": "Rewrite",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To write something again to improve it",
+      "example": "You should rewrite the essay for clarity.",
+      "chinese": {
+        "meaning": "重寫",
+        "example": "你應該為了清晰度重寫這篇文章。"
+      }
+    },
+    {
       "word": "Rid",
       "type": "verb",
       "letter": "R",
@@ -548,6 +724,39 @@
       "chinese": {
         "meaning": "擺脫",
         "example": "他試圖讓文章沒有錯誤。"
+      }
+    },
+    {
+      "word": "Ride",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To sit on and control the movement of a vehicle or animal",
+      "example": "He rides his bicycle to school every day.",
+      "chinese": {
+        "meaning": "騎乘",
+        "example": "他每天騎腳踏車上學。"
+      }
+    },
+    {
+      "word": "Ring",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make a sound like a bell or to telephone someone",
+      "example": "The phone rang during the lecture.",
+      "chinese": {
+        "meaning": "響；打電話",
+        "example": "講課時電話響了。"
+      }
+    },
+    {
+      "word": "Rise",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To move upward or to increase",
+      "example": "Prices are expected to rise this year.",
+      "chinese": {
+        "meaning": "上升；升起",
+        "example": "預計今年價格會上升。"
       }
     },
     {

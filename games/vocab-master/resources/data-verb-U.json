@@ -12,6 +12,17 @@
       }
     },
     {
+      "word": "Unbend",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To straighten something that is bent",
+      "example": "She tried to unbend the bent wire.",
+      "chinese": {
+        "meaning": "使伸直；放鬆",
+        "example": "她試圖把彎曲的鐵絲弄直。"
+      }
+    },
+    {
       "word": "Unblock",
       "type": "verb",
       "letter": "U",
@@ -31,6 +42,28 @@
       "chinese": {
         "meaning": "揭示",
         "example": "調查揭示了重要的證據。"
+      }
+    },
+    {
+      "word": "Underbid",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To offer a lower price than a competitor",
+      "example": "The company underbid its rivals for the contract.",
+      "chinese": {
+        "meaning": "出價低於他人",
+        "example": "該公司在競標中報價低於對手。"
+      }
+    },
+    {
+      "word": "Undercut",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To sell at a lower price than a competitor",
+      "example": "They undercut other retailers by 10%.",
+      "chinese": {
+        "meaning": "削價競爭",
+        "example": "他們比其他零售商便宜10%。"
       }
     },
     {
@@ -56,6 +89,17 @@
       }
     },
     {
+      "word": "Underlie",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To be the cause or basis of something",
+      "example": "Economic factors underlie the decision.",
+      "chinese": {
+        "meaning": "構成基礎；位於…之下",
+        "example": "經濟因素是這一決策的基礎。"
+      }
+    },
+    {
       "word": "Underline",
       "type": "verb",
       "letter": "U",
@@ -75,6 +119,28 @@
       "chinese": {
         "meaning": "削弱；破壞",
         "example": "散布謠言會削弱信任。"
+      }
+    },
+    {
+      "word": "Underpay",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To pay someone less than what is deserved or usual",
+      "example": "Many workers are underpaid for their efforts.",
+      "chinese": {
+        "meaning": "給薪過低",
+        "example": "許多工人的付出得不到應有的報酬。"
+      }
+    },
+    {
+      "word": "Undersell",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To sell something at a lower price than competitors or to underestimate the value",
+      "example": "They undersell their own abilities.",
+      "chinese": {
+        "meaning": "低價出售；貶低",
+        "example": "他們低估了自己的能力。"
       }
     },
     {
@@ -108,6 +174,17 @@
       "chinese": {
         "meaning": "帶有…的意味",
         "example": "他話中帶有警告的意味。"
+      }
+    },
+    {
+      "word": "Underwrite",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To financially support or guarantee",
+      "example": "The bank agreed to underwrite the new venture.",
+      "chinese": {
+        "meaning": "承保；資助",
+        "example": "銀行同意為這項新業務提供保險。"
       }
     },
     {
@@ -152,6 +229,17 @@
       "chinese": {
         "meaning": "展開；透露",
         "example": "劇情在幾集中逐漸展開。"
+      }
+    },
+    {
+      "word": "Unfreeze",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To make something no longer frozen or restricted",
+      "example": "The government decided to unfreeze wages.",
+      "chinese": {
+        "meaning": "解凍；解除凍結",
+        "example": "政府決定解除工資凍結。"
       }
     },
     {

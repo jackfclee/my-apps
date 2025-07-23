@@ -276,6 +276,28 @@
       }
     },
     {
+      "word": "Inlay",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To embed pieces of a different material into a surface for decoration",
+      "example": "The craftsman inlaid the table with mother-of-pearl.",
+      "chinese": {
+        "meaning": "鑲嵌",
+        "example": "工匠在桌子上鑲嵌了珍珠母。"
+      }
+    },
+    {
+      "word": "Input",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To enter data or information into a computer or system",
+      "example": "Please input your password to log in.",
+      "chinese": {
+        "meaning": "輸入",
+        "example": "請輸入您的密碼以登入。"
+      }
+    },
+    {
       "word": "Inquire",
       "type": "verb",
       "letter": "I",
@@ -306,6 +328,17 @@
       "chinese": {
         "meaning": "插入",
         "example": "請將您的卡插入機器中。"
+      }
+    },
+    {
+      "word": "Inset",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To place or set something in a space or surface",
+      "example": "They inset a map into the book’s cover.",
+      "chinese": {
+        "meaning": "嵌入",
+        "example": "他們把地圖嵌入書本封面中。"
       }
     },
     {
@@ -408,6 +441,17 @@
       }
     },
     {
+      "word": "Intercut",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To alternate between two scenes in a film or video",
+      "example": "The documentary intercuts interviews with historical footage.",
+      "chinese": {
+        "meaning": "交叉剪接",
+        "example": "這部紀錄片將訪談與歷史影像交叉剪接。"
+      }
+    },
+    {
       "word": "Interfere",
       "type": "verb",
       "letter": "I",
@@ -460,6 +504,17 @@
       "chinese": {
         "meaning": "介入",
         "example": "老師介入以阻止爭吵。"
+      }
+    },
+    {
+      "word": "Interweave",
+      "type": "verb",
+      "letter": "I",
+      "meaning": "To twist or mix things together in a combined way",
+      "example": "Their cultures are interwoven through generations.",
+      "chinese": {
+        "meaning": "交織",
+        "example": "他們的文化世代交織在一起。"
       }
     },
     {

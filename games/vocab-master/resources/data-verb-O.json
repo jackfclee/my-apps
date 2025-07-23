@@ -254,6 +254,28 @@
       }
     },
     {
+      "word": "Outbid",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To offer more money than someone else in an auction",
+      "example": "She outbid everyone to win the painting.",
+      "chinese": {
+        "meaning": "出價高過他人",
+        "example": "她出價高過所有人，贏得了這幅畫。"
+      }
+    },
+    {
+      "word": "Outdo",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To do better than someone else",
+      "example": "He always tries to outdo his classmates.",
+      "chinese": {
+        "meaning": "勝過；超越",
+        "example": "他總是試圖勝過同學。"
+      }
+    },
+    {
       "word": "Outgrow",
       "type": "verb",
       "letter": "O",
@@ -320,6 +342,28 @@
       }
     },
     {
+      "word": "Output",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To produce or deliver data or results",
+      "example": "The program outputs the data in JSON format.",
+      "chinese": {
+        "meaning": "輸出",
+        "example": "該程式以 JSON 格式輸出資料。"
+      }
+    },
+    {
+      "word": "Outsell",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To sell more than another product or competitor",
+      "example": "Their product outsold all the others.",
+      "chinese": {
+        "meaning": "銷量超過",
+        "example": "他們的產品銷量超過所有其他產品。"
+      }
+    },
+    {
       "word": "Outshine",
       "type": "verb",
       "letter": "O",
@@ -339,6 +383,17 @@
       "chinese": {
         "meaning": "智勝",
         "example": "他成功地智勝了對手。"
+      }
+    },
+    {
+      "word": "Outspend",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To spend more money than someone else",
+      "example": "They outspent their competitors in advertising.",
+      "chinese": {
+        "meaning": "花費超過",
+        "example": "他們在廣告上的支出超過了競爭對手。"
       }
     },
     {
@@ -364,6 +419,39 @@
       }
     },
     {
+      "word": "Overdo",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To do something to an excessive degree",
+      "example": "Don't overdo your workout.",
+      "chinese": {
+        "meaning": "做得過頭",
+        "example": "不要運動過度。"
+      }
+    },
+    {
+      "word": "Overdraw",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To withdraw more money than is available in an account",
+      "example": "He overdrew his bank account.",
+      "chinese": {
+        "meaning": "透支",
+        "example": "他透支了銀行帳戶。"
+      }
+    },
+    {
+      "word": "Overeat",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To eat too much food",
+      "example": "He tends to overeat at buffets.",
+      "chinese": {
+        "meaning": "吃太多",
+        "example": "他在自助餐時常常吃太多。"
+      }
+    },
+    {
       "word": "Overestimate",
       "type": "verb",
       "letter": "O",
@@ -372,6 +460,39 @@
       "chinese": {
         "meaning": "高估",
         "example": "我們高估了這個項目所需的時間。"
+      }
+    },
+    {
+      "word": "Overfeed",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To feed someone or something too much",
+      "example": "Don't overfeed your pets.",
+      "chinese": {
+        "meaning": "餵食過多",
+        "example": "不要餵寵物太多。"
+      }
+    },
+    {
+      "word": "Overfly",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To fly over a particular area or place",
+      "example": "The plane overflew the restricted zone.",
+      "chinese": {
+        "meaning": "飛越",
+        "example": "飛機飛越了禁飛區。"
+      }
+    },
+    {
+      "word": "Overhang",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To hang or extend outwards over something",
+      "example": "The roof overhangs the wall.",
+      "chinese": {
+        "meaning": "懸掛於...之上",
+        "example": "屋頂懸掛在牆面之上。"
       }
     },
     {
@@ -397,6 +518,28 @@
       }
     },
     {
+      "word": "Overlay",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To cover the surface of something with a layer",
+      "example": "The map was overlaid with data points.",
+      "chinese": {
+        "meaning": "覆蓋",
+        "example": "地圖上覆蓋了數據點。"
+      }
+    },
+    {
+      "word": "Overlie",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To lie on top of something",
+      "example": "A thick layer of fog overlies the city.",
+      "chinese": {
+        "meaning": "躺在...之上",
+        "example": "厚霧覆蓋在城市上方。"
+      }
+    },
+    {
       "word": "Overload",
       "type": "verb",
       "letter": "O",
@@ -419,6 +562,17 @@
       }
     },
     {
+      "word": "Overpay",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To pay more than is necessary or required",
+      "example": "They overpaid for the property.",
+      "chinese": {
+        "meaning": "多付",
+        "example": "他們為這個房產多付了錢。"
+      }
+    },
+    {
       "word": "Overreact",
       "type": "verb",
       "letter": "O",
@@ -427,6 +581,17 @@
       "chinese": {
         "meaning": "反應過度",
         "example": "不要對小問題反應過度。"
+      }
+    },
+    {
+      "word": "Override",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To use one's authority to reject or cancel",
+      "example": "The manager overrode the decision.",
+      "chinese": {
+        "meaning": "推翻；否決",
+        "example": "經理推翻了這項決定。"
       }
     },
     {
@@ -441,6 +606,17 @@
       }
     },
     {
+      "word": "Overrun",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To exceed a limit or boundary",
+      "example": "The project overran its budget.",
+      "chinese": {
+        "meaning": "超出（預算、時間）",
+        "example": "這個項目超出了預算。"
+      }
+    },
+    {
       "word": "Oversee",
       "type": "verb",
       "letter": "O",
@@ -452,6 +628,17 @@
       }
     },
     {
+      "word": "Oversell",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To sell more than can be supplied or delivered",
+      "example": "The airline oversold the flight.",
+      "chinese": {
+        "meaning": "超賣",
+        "example": "航空公司超賣了這班航班。"
+      }
+    },
+    {
       "word": "Overshadow",
       "type": "verb",
       "letter": "O",
@@ -460,6 +647,39 @@
       "chinese": {
         "meaning": "使相形見絀",
         "example": "她的成就使同齡人相形見絀。"
+      }
+    },
+    {
+      "word": "Overshoot",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To go beyond a target or limit",
+      "example": "The car overshot the parking spot.",
+      "chinese": {
+        "meaning": "超出；越界",
+        "example": "汽車開過了停車位。"
+      }
+    },
+    {
+      "word": "Oversleep",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To sleep longer than intended",
+      "example": "I overslept and missed my train.",
+      "chinese": {
+        "meaning": "睡過頭",
+        "example": "我睡過頭錯過了火車。"
+      }
+    },
+    {
+      "word": "Overspend",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To spend more money than one can afford",
+      "example": "We overspent during the holiday season.",
+      "chinese": {
+        "meaning": "超支",
+        "example": "我們在假日期間花費超支。"
       }
     },
     {
@@ -485,6 +705,28 @@
       }
     },
     {
+      "word": "Overthink",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To think about something too much",
+      "example": "Try not to overthink the situation.",
+      "chinese": {
+        "meaning": "想太多",
+        "example": "試著不要想太多這個情況。"
+      }
+    },
+    {
+      "word": "Overthrow",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To remove a leader or government by force",
+      "example": "The rebels overthrew the dictator.",
+      "chinese": {
+        "meaning": "推翻（政權）",
+        "example": "叛軍推翻了獨裁者。"
+      }
+    },
+    {
       "word": "Overturn",
       "type": "verb",
       "letter": "O",
@@ -504,6 +746,17 @@
       "chinese": {
         "meaning": "壓倒；使不知所措",
         "example": "她被情緒壓倒了。"
+      }
+    },
+    {
+      "word": "Overwrite",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To write over existing data",
+      "example": "Be careful not to overwrite the original file.",
+      "chinese": {
+        "meaning": "覆寫",
+        "example": "小心不要覆寫原始檔案。"
       }
     },
     {

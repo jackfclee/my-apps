@@ -122,6 +122,17 @@
       }
     },
     {
+      "word": "Waylay",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To stop or interrupt someone and detain them in conversation or trouble them",
+      "example": "He was waylaid by reporters as he left the court.",
+      "chinese": {
+        "meaning": "攔截",
+        "example": "他離開法庭時被記者攔住了。"
+      }
+    },
+    {
       "word": "Weaken",
       "type": "verb",
       "letter": "W",
@@ -207,6 +218,17 @@
       "chinese": {
         "meaning": "焊接",
         "example": "工人焊接鋼樑。"
+      }
+    },
+    {
+      "word": "Wet",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To make something wet",
+      "example": "The rain wet the ground.",
+      "chinese": {
+        "meaning": "弄濕",
+        "example": "雨水把地面弄濕了。"
       }
     },
     {
@@ -328,6 +350,17 @@
       "chinese": {
         "meaning": "扣留",
         "example": "公司因表現不佳而扣留獎金。"
+      }
+    },
+    {
+      "word": "Withstand",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To resist or endure successfully",
+      "example": "This material can withstand high temperatures.",
+      "chinese": {
+        "meaning": "承受",
+        "example": "這種材料能承受高溫。"
       }
     },
     {
