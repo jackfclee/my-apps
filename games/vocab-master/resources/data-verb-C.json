@@ -12,6 +12,17 @@
       }
     },
     {
+      "word": "Calibrate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To adjust or measure something precisely, often scientific equipment",
+      "example": "Technicians calibrated the instruments before the test.",
+      "chinese": {
+        "meaning": "校準、調整",
+        "example": "技術人員在測試前校準了儀器。"
+      }
+    },
+    {
       "word": "Call",
       "type": "verb",
       "letter": "C",
@@ -42,6 +53,17 @@
       "chinese": {
         "meaning": "露營",
         "example": "他們在湖邊露營。"
+      }
+    },
+    {
+      "word": "Campaign",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To actively work for a cause, often political or social",
+      "example": "They campaigned for climate change action.",
+      "chinese": {
+        "meaning": "從事活動、參與競選",
+        "example": "他們發起了氣候行動活動。"
       }
     },
     {
@@ -122,6 +144,28 @@
       }
     },
     {
+      "word": "Categorize",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To place things into categories or groups",
+      "example": "The librarian categorized the books by genre.",
+      "chinese": {
+        "meaning": "分類",
+        "example": "圖書館員按類型對書籍進行分類。"
+      }
+    },
+    {
+      "word": "Cater",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To provide food or services for an event or need",
+      "example": "They catered the wedding reception.",
+      "chinese": {
+        "meaning": "提供飲食服務",
+        "example": "他們為婚禮提供了餐飲服務。"
+      }
+    },
+    {
       "word": "Cause",
       "type": "verb",
       "letter": "C",
@@ -133,6 +177,17 @@
       }
     },
     {
+      "word": "Cease",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To stop doing something",
+      "example": "All activity ceased when the lights went out.",
+      "chinese": {
+        "meaning": "停止、終止",
+        "example": "燈一熄滅，所有活動都停止了。"
+      }
+    },
+    {
       "word": "Celebrate",
       "type": "verb",
       "letter": "C",
@@ -141,6 +196,28 @@
       "chinese": {
         "meaning": "慶祝",
         "example": "他們舉辦派對慶祝她的生日。"
+      }
+    },
+    {
+      "word": "Centralize",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To bring control under one central authority",
+      "example": "The government centralized its power.",
+      "chinese": {
+        "meaning": "集中（權力）",
+        "example": "政府將權力集中起來。"
+      }
+    },
+    {
+      "word": "Certify",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To formally declare something as true or qualified",
+      "example": "The engineer was certified to operate heavy machinery.",
+      "chinese": {
+        "meaning": "證明、認證",
+        "example": "這位工程師獲得了操作重型機械的認證。"
       }
     },
     {
@@ -166,6 +243,17 @@
       }
     },
     {
+      "word": "Characterize",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To describe or define the qualities of someone or something",
+      "example": "The novel is characterized by dark humor.",
+      "chinese": {
+        "meaning": "描述...的特性",
+        "example": "這部小說的特色是黑色幽默。"
+      }
+    },
+    {
       "word": "Charge",
       "type": "verb",
       "letter": "C",
@@ -174,6 +262,17 @@
       "chinese": {
         "meaning": "收費、衝鋒",
         "example": "他們對服務收取費用。"
+      }
+    },
+    {
+      "word": "Charm",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To attract or please someone greatly",
+      "example": "He charmed everyone at the party.",
+      "chinese": {
+        "meaning": "使著迷、吸引",
+        "example": "他在派對上迷倒了眾人。"
       }
     },
     {
@@ -199,6 +298,17 @@
       }
     },
     {
+      "word": "Cheat",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To act dishonestly or unfairly to gain an advantage",
+      "example": "He cheated on the exam.",
+      "chinese": {
+        "meaning": "作弊、欺騙",
+        "example": "他在考試中作弊。"
+      }
+    },
+    {
       "word": "Check",
       "type": "verb",
       "letter": "C",
@@ -218,6 +328,17 @@
       "chinese": {
         "meaning": "歡呼",
         "example": "人群大聲歡呼。"
+      }
+    },
+    {
+      "word": "Choke",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To have trouble breathing because of something blocking the throat",
+      "example": "She choked on a piece of food.",
+      "chinese": {
+        "meaning": "噎住、使窒息",
+        "example": "她被一塊食物噎住了。"
       }
     },
     {
@@ -243,6 +364,28 @@
       }
     },
     {
+      "word": "Circulate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To move or spread through a system or group",
+      "example": "The memo circulated among all staff members.",
+      "chinese": {
+        "meaning": "傳播、流通",
+        "example": "這份備忘錄在全體員工中傳閱。"
+      }
+    },
+    {
+      "word": "Civilize",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To bring a society or group to a more advanced stage of development",
+      "example": "They aimed to civilize the remote region.",
+      "chinese": {
+        "meaning": "教化、使文明",
+        "example": "他們試圖教化這個偏遠地區。"
+      }
+    },
+    {
       "word": "Claim",
       "type": "verb",
       "letter": "C",
@@ -262,6 +405,28 @@
       "chinese": {
         "meaning": "拍手",
         "example": "觀眾大聲鼓掌。"
+      }
+    },
+    {
+      "word": "Clash",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To come into conflict or fight",
+      "example": "The protesters clashed with police.",
+      "chinese": {
+        "meaning": "衝突、打鬥",
+        "example": "抗議者與警方發生衝突。"
+      }
+    },
+    {
+      "word": "Classify",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To organize into categories or groups",
+      "example": "The documents were classified by topic.",
+      "chinese": {
+        "meaning": "分類、歸類",
+        "example": "這些文件按主題分類。"
       }
     },
     {
@@ -320,6 +485,17 @@
       }
     },
     {
+      "word": "Cloak",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To hide or cover something",
+      "example": "His intentions were cloaked in secrecy.",
+      "chinese": {
+        "meaning": "掩蓋、隱藏",
+        "example": "他的意圖被神秘所掩蓋。"
+      }
+    },
+    {
       "word": "Close",
       "type": "verb",
       "letter": "C",
@@ -342,6 +518,61 @@
       }
     },
     {
+      "word": "Coalesce",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To come together to form one group or whole",
+      "example": "The two companies coalesced into a single corporation.",
+      "chinese": {
+        "meaning": "合併、聯合",
+        "example": "這兩家公司合併成了一家大公司。"
+      }
+    },
+    {
+      "word": "Code",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To write computer instructions in a programming language",
+      "example": "She spent the weekend coding a new website.",
+      "chinese": {
+        "meaning": "編碼、寫程式",
+        "example": "她花了一整個週末編寫新網站的程式。"
+      }
+    },
+    {
+      "word": "Coerce",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To force someone to do something using threats or pressure",
+      "example": "They were coerced into signing the agreement.",
+      "chinese": {
+        "meaning": "強迫、脅迫",
+        "example": "他們被迫簽署了協議。"
+      }
+    },
+    {
+      "word": "Coexist",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To exist together at the same time or in the same place",
+      "example": "Different religions can coexist peacefully.",
+      "chinese": {
+        "meaning": "共存",
+        "example": "不同宗教可以和平共處。"
+      }
+    },
+    {
+      "word": "Coincide",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To occur at the same time or correspond exactly",
+      "example": "The meeting coincided with a national holiday.",
+      "chinese": {
+        "meaning": "同時發生、一致",
+        "example": "這場會議恰逢國定假日。"
+      }
+    },
+    {
       "word": "Collaborate",
       "type": "verb",
       "letter": "C",
@@ -350,6 +581,28 @@
       "chinese": {
         "meaning": "合作",
         "example": "他們一起合作完成了學校的專案。"
+      }
+    },
+    {
+      "word": "Collapse",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To fall down or fail suddenly",
+      "example": "The bridge collapsed during the storm.",
+      "chinese": {
+        "meaning": "倒塌、崩潰",
+        "example": "暴風雨中橋樑倒塌了。"
+      }
+    },
+    {
+      "word": "Collate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To gather and arrange information or documents in order",
+      "example": "The assistant collated the reports for the meeting.",
+      "chinese": {
+        "meaning": "整理、校對",
+        "example": "助理整理好了會議報告。"
       }
     },
     {
@@ -364,6 +617,39 @@
       }
     },
     {
+      "word": "Collide",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To crash into or come into conflict with something",
+      "example": "The two cars collided at the intersection.",
+      "chinese": {
+        "meaning": "碰撞、衝突",
+        "example": "兩輛車在交叉口相撞了。"
+      }
+    },
+    {
+      "word": "Collocate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To place together or arrange in proper order (esp. in language or data)",
+      "example": "In English, certain words tend to collocate naturally.",
+      "chinese": {
+        "meaning": "搭配、並列",
+        "example": "在英文中，某些詞語傾向於自然搭配使用。"
+      }
+    },
+    {
+      "word": "Colonize",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To take control of an area and settle there",
+      "example": "The country colonized distant islands.",
+      "chinese": {
+        "meaning": "殖民",
+        "example": "這個國家曾殖民遙遠的島嶼。"
+      }
+    },
+    {
       "word": "Color",
       "type": "verb",
       "letter": "C",
@@ -372,6 +658,17 @@
       "chinese": {
         "meaning": "著色",
         "example": "孩子們給圖片上色。"
+      }
+    },
+    {
+      "word": "Comb",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To untangle or arrange hair or to search thoroughly",
+      "example": "She combed her hair before the interview.",
+      "chinese": {
+        "meaning": "梳理、仔細搜尋",
+        "example": "她在面試前梳好了頭髮。"
       }
     },
     {
@@ -419,6 +716,17 @@
       }
     },
     {
+      "word": "Commemorate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To honor or remember someone or something with a ceremony or memorial",
+      "example": "They commemorated the war heroes with a monument.",
+      "chinese": {
+        "meaning": "紀念",
+        "example": "他們立碑紀念戰爭英雄。"
+      }
+    },
+    {
       "word": "Commence",
       "type": "verb",
       "letter": "C",
@@ -438,6 +746,28 @@
       "chinese": {
         "meaning": "評論",
         "example": "她對新政策發表了評論。"
+      }
+    },
+    {
+      "word": "Commercialize",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To turn something into a business or profit-making activity",
+      "example": "They commercialized the new technology quickly.",
+      "chinese": {
+        "meaning": "商業化",
+        "example": "他們迅速將這項新技術商業化。"
+      }
+    },
+    {
+      "word": "Commiserate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To express sympathy or pity for someone",
+      "example": "She commiserated with her friend over the loss.",
+      "chinese": {
+        "meaning": "同情、憐憫",
+        "example": "她對朋友的損失表示同情。"
       }
     },
     {
@@ -463,6 +793,17 @@
       }
     },
     {
+      "word": "Commune",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To share deep feelings or thoughts with someone or something (often spiritual)",
+      "example": "He communed with nature during his retreat.",
+      "chinese": {
+        "meaning": "交流、心靈溝通",
+        "example": "他在靜修期間與大自然心靈交流。"
+      }
+    },
+    {
       "word": "Communicate",
       "type": "verb",
       "letter": "C",
@@ -474,6 +815,28 @@
       }
     },
     {
+      "word": "Commute",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To travel regularly between home and work; or to reduce a punishment",
+      "example": "He commutes to work every day by train.",
+      "chinese": {
+        "meaning": "通勤；減刑",
+        "example": "他每天搭火車通勤。"
+      }
+    },
+    {
+      "word": "Compact",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To compress or make something more dense or packed",
+      "example": "The machine compacted the trash into a small cube.",
+      "chinese": {
+        "meaning": "壓縮、壓實",
+        "example": "這台機器把垃圾壓成小方塊。"
+      }
+    },
+    {
       "word": "Compare",
       "type": "verb",
       "letter": "C",
@@ -482,6 +845,17 @@
       "chinese": {
         "meaning": "比較",
         "example": "比較這兩本書。"
+      }
+    },
+    {
+      "word": "Compel",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To force someone to do something",
+      "example": "The law compels citizens to pay taxes.",
+      "chinese": {
+        "meaning": "強迫、迫使",
+        "example": "法律強迫公民繳稅。"
       }
     },
     {
@@ -529,6 +903,17 @@
       }
     },
     {
+      "word": "Complement",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To complete or enhance something",
+      "example": "The wine complements the dish perfectly.",
+      "chinese": {
+        "meaning": "補充、襯托",
+        "example": "這款葡萄酒與菜餚相得益彰。"
+      }
+    },
+    {
       "word": "Complete",
       "type": "verb",
       "letter": "C",
@@ -548,6 +933,28 @@
       "chinese": {
         "meaning": "使複雜化",
         "example": "他的介入使情況變得更複雜。"
+      }
+    },
+    {
+      "word": "Comply",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To act according to rules or requests",
+      "example": "You must comply with the safety regulations.",
+      "chinese": {
+        "meaning": "遵守、服從",
+        "example": "你必須遵守安全規定。"
+      }
+    },
+    {
+      "word": "Compose",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To create or put together, especially in writing or music",
+      "example": "She composed a song for the event.",
+      "chinese": {
+        "meaning": "創作、構成",
+        "example": "她為這個活動創作了一首歌。"
       }
     },
     {
@@ -573,6 +980,61 @@
       }
     },
     {
+      "word": "Compromise",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To reach an agreement by making mutual concessions",
+      "example": "They compromised after a long debate.",
+      "chinese": {
+        "meaning": "妥協、讓步",
+        "example": "經過長時間討論，他們做出了妥協。"
+      }
+    },
+    {
+      "word": "Compute",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To calculate or determine by mathematical methods",
+      "example": "The computer computed the total cost.",
+      "chinese": {
+        "meaning": "計算",
+        "example": "電腦計算出總成本。"
+      }
+    },
+    {
+      "word": "Conceal",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To hide or keep something secret",
+      "example": "He concealed the letter in his drawer.",
+      "chinese": {
+        "meaning": "隱藏、掩蓋",
+        "example": "他把信藏在抽屜裡。"
+      }
+    },
+    {
+      "word": "Concede",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To admit something is true, or to give up a position",
+      "example": "She conceded defeat gracefully.",
+      "chinese": {
+        "meaning": "承認、讓步",
+        "example": "她大方地承認了失敗。"
+      }
+    },
+    {
+      "word": "Conceive",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To form or imagine an idea; or to become pregnant",
+      "example": "He conceived a plan to improve sales.",
+      "chinese": {
+        "meaning": "構想、懷孕",
+        "example": "他構思了一個提高銷售的計劃。"
+      }
+    },
+    {
       "word": "Concentrate",
       "type": "verb",
       "letter": "C",
@@ -581,6 +1043,17 @@
       "chinese": {
         "meaning": "集中注意力",
         "example": "請專注於你的工作。"
+      }
+    },
+    {
+      "word": "Conceptualize",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To form an idea or concept of something in the mind",
+      "example": "She conceptualized the design from nature.",
+      "chinese": {
+        "meaning": "構思、使具概念",
+        "example": "她從大自然中構思了這個設計。"
       }
     },
     {
@@ -606,6 +1079,28 @@
       }
     },
     {
+      "word": "Concord",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "(Rare) To agree or act in harmony (formal/literary use)",
+      "example": "Their voices concorded in peaceful harmony.",
+      "chinese": {
+        "meaning": "一致、和諧（罕用動詞）",
+        "example": "他們的聲音和諧一致。"
+      }
+    },
+    {
+      "word": "Concur",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To agree or have the same opinion",
+      "example": "I concur with your conclusion.",
+      "chinese": {
+        "meaning": "同意、一致",
+        "example": "我同意你的結論。"
+      }
+    },
+    {
       "word": "Condemn",
       "type": "verb",
       "letter": "C",
@@ -614,6 +1109,39 @@
       "chinese": {
         "meaning": "譴責",
         "example": "老師譴責任何形式的作弊行為。"
+      }
+    },
+    {
+      "word": "Condense",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To reduce in volume or make more compact",
+      "example": "He condensed the article into one page.",
+      "chinese": {
+        "meaning": "濃縮、簡縮",
+        "example": "他把文章濃縮成了一頁。"
+      }
+    },
+    {
+      "word": "Conduct",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To lead, guide, or organize an activity",
+      "example": "The teacher conducted a science experiment.",
+      "chinese": {
+        "meaning": "進行、指導",
+        "example": "老師進行了一個科學實驗。"
+      }
+    },
+    {
+      "word": "Confect",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make or prepare something sweet (rare or formal)",
+      "example": "They confected candies for the festival.",
+      "chinese": {
+        "meaning": "製作（甜點、藥品等）",
+        "example": "他們為節日製作了糖果。"
       }
     },
     {
@@ -650,6 +1178,28 @@
       }
     },
     {
+      "word": "Configure",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To arrange or set up hardware or software",
+      "example": "He configured the network settings.",
+      "chinese": {
+        "meaning": "配置、設定",
+        "example": "他設定了網路參數。"
+      }
+    },
+    {
+      "word": "Confine",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To restrict or limit someone or something",
+      "example": "He was confined to bed after the surgery.",
+      "chinese": {
+        "meaning": "限制、監禁",
+        "example": "他手術後只能臥床休息。"
+      }
+    },
+    {
       "word": "Confirm",
       "type": "verb",
       "letter": "C",
@@ -658,6 +1208,17 @@
       "chinese": {
         "meaning": "確認",
         "example": "他們確認了會議時間。"
+      }
+    },
+    {
+      "word": "Confiscate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To take something away by authority",
+      "example": "The teacher confiscated his phone.",
+      "chinese": {
+        "meaning": "沒收、充公",
+        "example": "老師沒收了他的手機。"
       }
     },
     {
@@ -672,6 +1233,28 @@
       }
     },
     {
+      "word": "Confound",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To confuse or surprise someone unexpectedly",
+      "example": "The results confounded the scientists.",
+      "chinese": {
+        "meaning": "使困惑、使驚訝",
+        "example": "結果讓科學家們感到困惑。"
+      }
+    },
+    {
+      "word": "Confront",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To face or deal with something directly",
+      "example": "She confronted him about the missing money.",
+      "chinese": {
+        "meaning": "面對、對質",
+        "example": "她當面質問他那筆不見的錢。"
+      }
+    },
+    {
       "word": "Confuse",
       "type": "verb",
       "letter": "C",
@@ -680,6 +1263,28 @@
       "chinese": {
         "meaning": "使困惑",
         "example": "複雜的解釋讓學生們感到困惑。"
+      }
+    },
+    {
+      "word": "Congratulate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To express joy or praise for someone's success",
+      "example": "They congratulated her on the promotion.",
+      "chinese": {
+        "meaning": "祝賀、道賀",
+        "example": "他們祝賀她升職。"
+      }
+    },
+    {
+      "word": "Congregate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To gather together in a group",
+      "example": "People congregated outside the hall.",
+      "chinese": {
+        "meaning": "聚集、集合",
+        "example": "人們在大廳外聚集。"
       }
     },
     {
@@ -694,6 +1299,17 @@
       }
     },
     {
+      "word": "Conquer",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To take control of a place or defeat someone",
+      "example": "The army conquered the entire region.",
+      "chinese": {
+        "meaning": "征服、戰勝",
+        "example": "軍隊征服了整個地區。"
+      }
+    },
+    {
       "word": "Conquest",
       "type": "verb",
       "letter": "C",
@@ -702,6 +1318,17 @@
       "chinese": {
         "meaning": "征服（較少見作動詞）",
         "example": "經過長時間的戰鬥，他們征服了這片土地。"
+      }
+    },
+    {
+      "word": "Consent",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To agree to something or give permission",
+      "example": "She consented to the treatment.",
+      "chinese": {
+        "meaning": "同意、允許",
+        "example": "她同意接受治療。"
       }
     },
     {
@@ -727,6 +1354,17 @@
       }
     },
     {
+      "word": "Consign",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To deliver or assign something, often for sale or safekeeping",
+      "example": "He consigned the paintings to a gallery.",
+      "chinese": {
+        "meaning": "寄售、交付",
+        "example": "他將畫作寄售給畫廊。"
+      }
+    },
+    {
       "word": "Consist",
       "type": "verb",
       "letter": "C",
@@ -746,6 +1384,50 @@
       "chinese": {
         "meaning": "安慰",
         "example": "壞消息後他安慰了她。"
+      }
+    },
+    {
+      "word": "Consolidate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To combine or bring together into a stronger whole",
+      "example": "The two departments were consolidated into one.",
+      "chinese": {
+        "meaning": "合併、鞏固",
+        "example": "這兩個部門合併為一個。"
+      }
+    },
+    {
+      "word": "Consort",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To associate with someone, often disapproved of",
+      "example": "He was known to consort with criminals.",
+      "chinese": {
+        "meaning": "交往、結交（常指不良關係）",
+        "example": "他以與罪犯交往而聞名。"
+      }
+    },
+    {
+      "word": "Conspire",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To secretly plan with others to do something unlawful",
+      "example": "They conspired to overthrow the government.",
+      "chinese": {
+        "meaning": "密謀、共謀",
+        "example": "他們密謀推翻政府。"
+      }
+    },
+    {
+      "word": "Constitute",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make up or form something",
+      "example": "Twelve months constitute a year.",
+      "chinese": {
+        "meaning": "構成、組成",
+        "example": "十二個月構成一年。"
       }
     },
     {
@@ -779,6 +1461,17 @@
       "chinese": {
         "meaning": "諮詢",
         "example": "他就病情諮詢了醫生。"
+      }
+    },
+    {
+      "word": "Consume",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To use up or eat something",
+      "example": "The fire consumed the entire building.",
+      "chinese": {
+        "meaning": "消耗、吃掉",
+        "example": "火災吞噬了整棟建築。"
       }
     },
     {
@@ -826,6 +1519,17 @@
       }
     },
     {
+      "word": "Contract",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make an agreement legally binding; or to shrink",
+      "example": "He contracted a serious illness.",
+      "chinese": {
+        "meaning": "訂立合約；感染；收縮",
+        "example": "他感染了重病。"
+      }
+    },
+    {
       "word": "Contradict",
       "type": "verb",
       "letter": "C",
@@ -859,6 +1563,17 @@
       }
     },
     {
+      "word": "Controvert",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To argue against or challenge a statement or idea",
+      "example": "Scholars controvert the validity of the findings.",
+      "chinese": {
+        "meaning": "駁斥、反駁",
+        "example": "學者們對研究結果提出質疑。"
+      }
+    },
+    {
       "word": "Convene",
       "type": "verb",
       "letter": "C",
@@ -881,6 +1596,17 @@
       }
     },
     {
+      "word": "Converse",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To talk with someone, especially formally",
+      "example": "She conversed with the guests during dinner.",
+      "chinese": {
+        "meaning": "交談、談話",
+        "example": "她在晚餐時與賓客交談。"
+      }
+    },
+    {
       "word": "Convert",
       "type": "verb",
       "letter": "C",
@@ -892,6 +1618,28 @@
       }
     },
     {
+      "word": "Convey",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To communicate or transport something",
+      "example": "She conveyed her feelings through a letter.",
+      "chinese": {
+        "meaning": "傳達、運送",
+        "example": "她透過信件傳達了自己的感受。"
+      }
+    },
+    {
+      "word": "Convict",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To find someone guilty of a crime in court",
+      "example": "He was convicted of fraud.",
+      "chinese": {
+        "meaning": "定罪、判罪",
+        "example": "他被判詐欺罪。"
+      }
+    },
+    {
       "word": "Convince",
       "type": "verb",
       "letter": "C",
@@ -900,6 +1648,39 @@
       "chinese": {
         "meaning": "說服、使信服",
         "example": "她說服他去申請獎學金。"
+      }
+    },
+    {
+      "word": "Convoke",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To call people together for a formal meeting",
+      "example": "The board convoked a general assembly.",
+      "chinese": {
+        "meaning": "召集（正式會議）",
+        "example": "董事會召開了大會。"
+      }
+    },
+    {
+      "word": "Convolve",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To roll together or coil up (also used in math/image processing)",
+      "example": "The functions were convolved to obtain the result.",
+      "chinese": {
+        "meaning": "纏繞、摺疊；捲積（數學用語）",
+        "example": "這些函數被捲積以得到結果。"
+      }
+    },
+    {
+      "word": "Convoy",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "(Rare) To accompany and protect vehicles or people on a journey",
+      "example": "The trucks were convoyed across the desert.",
+      "chinese": {
+        "meaning": "護送（罕用）",
+        "example": "卡車被護送穿越沙漠。"
       }
     },
     {
@@ -922,6 +1703,28 @@
       "chinese": {
         "meaning": "合作、配合",
         "example": "這些隊伍通力合作完成任務。"
+      }
+    },
+    {
+      "word": "Coordinate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To organize or arrange things or people to work together effectively",
+      "example": "She coordinated the whole event flawlessly.",
+      "chinese": {
+        "meaning": "協調、整合",
+        "example": "她完美地協調了整個活動。"
+      }
+    },
+    {
+      "word": "Cope",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To deal with difficult situations successfully",
+      "example": "He is coping well with stress.",
+      "chinese": {
+        "meaning": "應對、處理",
+        "example": "他能很好地應對壓力。"
       }
     },
     {
@@ -958,6 +1761,50 @@
       }
     },
     {
+      "word": "Correspond",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To match or communicate by exchanging messages",
+      "example": "Their stories corresponded exactly.",
+      "chinese": {
+        "meaning": "符合、通信",
+        "example": "他們的說法完全一致。"
+      }
+    },
+    {
+      "word": "Corrode",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To wear away or destroy gradually, especially by chemical action",
+      "example": "The metal was corroded by salt water.",
+      "chinese": {
+        "meaning": "腐蝕、侵蝕",
+        "example": "金屬被鹽水腐蝕了。"
+      }
+    },
+    {
+      "word": "Corrupt",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To cause someone or something to become dishonest or impure",
+      "example": "Power can corrupt even the best leaders.",
+      "chinese": {
+        "meaning": "腐敗、使墮落",
+        "example": "權力可能會腐化最好的領導者。"
+      }
+    },
+    {
+      "word": "Coruscate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To sparkle or flash (literary or poetic use)",
+      "example": "Stars coruscated in the clear night sky.",
+      "chinese": {
+        "meaning": "閃爍、閃耀（文學用語）",
+        "example": "星星在晴朗的夜空中閃爍。"
+      }
+    },
+    {
       "word": "Cost",
       "type": "verb",
       "letter": "C",
@@ -966,6 +1813,28 @@
       "chinese": {
         "meaning": "花費",
         "example": "這輛車花了很多錢。"
+      }
+    },
+    {
+      "word": "Cough",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To force air out of the lungs suddenly with a harsh sound",
+      "example": "She coughed loudly during the lecture.",
+      "chinese": {
+        "meaning": "咳嗽",
+        "example": "她在演講中大聲咳嗽。"
+      }
+    },
+    {
+      "word": "Counsel",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To give advice or guidance",
+      "example": "The therapist counseled the patient through trauma.",
+      "chinese": {
+        "meaning": "諮詢、建議",
+        "example": "治療師幫助病人處理創傷。"
       }
     },
     {
@@ -980,6 +1849,105 @@
       }
     },
     {
+      "word": "Counter",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To oppose or respond to something with an argument or action",
+      "example": "She countered his accusations with evidence.",
+      "chinese": {
+        "meaning": "反駁、對抗",
+        "example": "她用證據反駁了他的指控。"
+      }
+    },
+    {
+      "word": "Counteract",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To neutralize or reduce the effect of something",
+      "example": "The medicine counteracts the symptoms of the allergy.",
+      "chinese": {
+        "meaning": "抵銷、對抗",
+        "example": "這種藥物能對抗過敏症狀。"
+      }
+    },
+    {
+      "word": "Counterbalance",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To offset or balance the weight or effect of something",
+      "example": "The loss was counterbalanced by the gains elsewhere.",
+      "chinese": {
+        "meaning": "平衡、抵銷",
+        "example": "其他地方的收益抵銷了這次的損失。"
+      }
+    },
+    {
+      "word": "Countermand",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To cancel an order or command",
+      "example": "They countermanded the evacuation order.",
+      "chinese": {
+        "meaning": "取消命令、撤回",
+        "example": "他們撤回了撤離命令。"
+      }
+    },
+    {
+      "word": "Countersign",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To sign a document that has already been signed, typically for confirmation",
+      "example": "The manager countersigned the contract.",
+      "chinese": {
+        "meaning": "副簽、再簽",
+        "example": "經理在合約上副簽。"
+      }
+    },
+    {
+      "word": "Countervail",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To act against with equal force or power (formal/literary)",
+      "example": "The benefits countervail the risks.",
+      "chinese": {
+        "meaning": "對抗、抵銷（正式用語）",
+        "example": "好處足以抵消風險。"
+      }
+    },
+    {
+      "word": "Couple",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To link or connect two things together",
+      "example": "The device couples a sensor with a motor.",
+      "chinese": {
+        "meaning": "連接、結合",
+        "example": "這個裝置把感測器和馬達結合起來。"
+      }
+    },
+    {
+      "word": "Court",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To try to attract or win the favor of someone",
+      "example": "He courted investors for his startup.",
+      "chinese": {
+        "meaning": "追求、尋求",
+        "example": "他為創業尋求投資者。"
+      }
+    },
+    {
+      "word": "Covenant",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make a formal agreement or promise (formal/legal)",
+      "example": "They covenanted to share profits equally.",
+      "chinese": {
+        "meaning": "立約、承諾（正式）",
+        "example": "他們立約平均分配利潤。"
+      }
+    },
+    {
       "word": "Cover",
       "type": "verb",
       "letter": "C",
@@ -988,6 +1956,160 @@
       "chinese": {
         "meaning": "覆蓋",
         "example": "他用布蓋住了桌子。"
+      }
+    },
+    {
+      "word": "Covet",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To desire something, especially that belongs to someone else",
+      "example": "He coveted his neighbor’s car.",
+      "chinese": {
+        "meaning": "渴望、垂涎",
+        "example": "他垂涎鄰居的汽車。"
+      }
+    },
+    {
+      "word": "Crack",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To break or cause to break without separating completely",
+      "example": "The glass cracked when dropped.",
+      "chinese": {
+        "meaning": "裂開、打裂",
+        "example": "玻璃掉下來時裂了。"
+      }
+    },
+    {
+      "word": "Crackle",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make a series of small sharp sounds",
+      "example": "The fire crackled in the fireplace.",
+      "chinese": {
+        "meaning": "劈啪作響",
+        "example": "壁爐裡的火劈啪作響。"
+      }
+    },
+    {
+      "word": "Cradle",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To hold gently and protectively",
+      "example": "She cradled the baby in her arms.",
+      "chinese": {
+        "meaning": "輕抱、呵護",
+        "example": "她輕輕地抱著嬰兒。"
+      }
+    },
+    {
+      "word": "Craft",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make or produce something with skill",
+      "example": "He crafted a beautiful wooden bowl.",
+      "chinese": {
+        "meaning": "精製、打造",
+        "example": "他打造了一個精美的木碗。"
+      }
+    },
+    {
+      "word": "Cram",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To fill something tightly or study intensively in a short time",
+      "example": "She crammed for the exam all night.",
+      "chinese": {
+        "meaning": "塞滿、死記硬背",
+        "example": "她整晚都在為考試死背。"
+      }
+    },
+    {
+      "word": "Cramp",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To restrict movement or space; to cause muscle contraction",
+      "example": "Tight shoes cramped his feet.",
+      "chinese": {
+        "meaning": "束縛、抽筋",
+        "example": "鞋太緊讓他腳抽筋了。"
+      }
+    },
+    {
+      "word": "Crank",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To turn a handle to start or operate a machine",
+      "example": "He cranked the engine manually.",
+      "chinese": {
+        "meaning": "用曲柄啟動、轉動",
+        "example": "他用手動曲柄啟動了引擎。"
+      }
+    },
+    {
+      "word": "Crash",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To collide violently or fail suddenly",
+      "example": "The plane crashed into the mountain.",
+      "chinese": {
+        "meaning": "撞擊、墜毀",
+        "example": "飛機撞上了山。"
+      }
+    },
+    {
+      "word": "Crave",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To strongly desire something",
+      "example": "He craves attention and recognition.",
+      "chinese": {
+        "meaning": "渴望、渴求",
+        "example": "他渴望關注和認可。"
+      }
+    },
+    {
+      "word": "Crawl",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To move slowly with the body close to the ground",
+      "example": "The baby crawled across the floor.",
+      "chinese": {
+        "meaning": "爬行、緩慢移動",
+        "example": "嬰兒在地上爬行。"
+      }
+    },
+    {
+      "word": "Creak",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make a sharp, high sound when moving or under pressure",
+      "example": "The old stairs creaked underfoot.",
+      "chinese": {
+        "meaning": "嘎吱作響",
+        "example": "老樓梯在腳下嘎吱作響。"
+      }
+    },
+    {
+      "word": "Cream",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To beat ingredients into a creamy texture or defeat someone badly (informal)",
+      "example": "She creamed the butter and sugar together.",
+      "chinese": {
+        "meaning": "打成奶油狀、徹底擊敗",
+        "example": "她把奶油和糖打成糊狀。"
+      }
+    },
+    {
+      "word": "Crease",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make a line or fold in something",
+      "example": "Don't crease the paper!",
+      "chinese": {
+        "meaning": "弄皺、產生摺痕",
+        "example": "不要把紙弄皺了！"
       }
     },
     {
@@ -1002,6 +2124,17 @@
       }
     },
     {
+      "word": "Credit",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To give recognition or add money to an account",
+      "example": "He was credited for his contribution.",
+      "chinese": {
+        "meaning": "歸功於、入帳",
+        "example": "他的貢獻獲得了讚譽。"
+      }
+    },
+    {
       "word": "Creep",
       "type": "verb",
       "letter": "C",
@@ -1010,6 +2143,28 @@
       "chinese": {
         "meaning": "悄悄移動、爬行",
         "example": "他悄悄地走進房間，沒有發出聲音。"
+      }
+    },
+    {
+      "word": "Cremate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To burn a dead body to ashes",
+      "example": "They cremated his remains after the funeral.",
+      "chinese": {
+        "meaning": "火化",
+        "example": "葬禮後，他的遺體被火化。"
+      }
+    },
+    {
+      "word": "Criminalize",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make something illegal by law",
+      "example": "The government criminalized the use of banned substances.",
+      "chinese": {
+        "meaning": "使成為犯罪、立法禁止",
+        "example": "政府將使用禁藥定為犯罪行為。"
       }
     },
     {
@@ -1032,6 +2187,61 @@
       "chinese": {
         "meaning": "哭泣",
         "example": "嬰兒大聲哭泣。"
+      }
+    },
+    {
+      "word": "Crystallize",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To form crystals or make an idea clear and definite",
+      "example": "Her thoughts crystallized into a clear plan.",
+      "chinese": {
+        "meaning": "結晶、明確化",
+        "example": "她的想法逐漸清晰為一個明確的計劃。"
+      }
+    },
+    {
+      "word": "Curse",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To call upon a supernatural power to bring harm; or to use offensive language",
+      "example": "He cursed under his breath when he dropped his phone.",
+      "chinese": {
+        "meaning": "詛咒、咒罵",
+        "example": "他掉手機時低聲咒罵。"
+      }
+    },
+    {
+      "word": "Curtail",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To reduce or limit something, especially time or expense",
+      "example": "The company curtailed unnecessary spending.",
+      "chinese": {
+        "meaning": "縮減、限制",
+        "example": "公司削減了不必要的開支。"
+      }
+    },
+    {
+      "word": "Curve",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To bend or cause to bend in a smooth, rounded shape",
+      "example": "She curved the wire into a circle.",
+      "chinese": {
+        "meaning": "使彎曲",
+        "example": "她把電線彎成一個圓形。"
+      }
+    },
+    {
+      "word": "Customize",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To modify something to suit a particular individual or task",
+      "example": "She customized her laptop with new software.",
+      "chinese": {
+        "meaning": "自訂、客製化",
+        "example": "她為筆電安裝了客製化軟體。"
       }
     },
     {

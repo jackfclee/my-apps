@@ -23,6 +23,17 @@
       }
     },
     {
+      "word": "Quarantine",
+      "type": "verb",
+      "letter": "Q",
+      "meaning": "To isolate a person, animal, or place to prevent the spread of disease",
+      "example": "They quarantined the travelers for two weeks.",
+      "chinese": {
+        "meaning": "隔離（以防傳染）",
+        "example": "他們對旅客進行了兩週的隔離。"
+      }
+    },
+    {
       "word": "Quarrel",
       "type": "verb",
       "letter": "Q",
