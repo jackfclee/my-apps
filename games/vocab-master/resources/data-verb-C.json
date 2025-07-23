@@ -485,6 +485,50 @@
       }
     },
     {
+      "word": "Condemn",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To express strong disapproval of something or someone",
+      "example": "The teacher condemned cheating in all forms.",
+      "chinese": {
+        "meaning": "譴責",
+        "example": "老師譴責任何形式的作弊行為。"
+      }
+    },
+    {
+      "word": "Confer",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To discuss something with someone in order to exchange ideas or seek advice",
+      "example": "The committee conferred before making a decision.",
+      "chinese": {
+        "meaning": "協商、商討",
+        "example": "委員會在做出決定前進行了協商。"
+      }
+    },
+    {
+      "word": "Confess",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To admit to doing something wrong or illegal",
+      "example": "He confessed to the crime.",
+      "chinese": {
+        "meaning": "承認",
+        "example": "他承認了犯罪行為。"
+      }
+    },
+    {
+      "word": "Confide",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To tell someone a secret or private matter while trusting them not to repeat it to others",
+      "example": "She confided her fears to her friend.",
+      "chinese": {
+        "meaning": "吐露（秘密）",
+        "example": "她向朋友吐露了自己的恐懼。"
+      }
+    },
+    {
       "word": "Confirm",
       "type": "verb",
       "letter": "C",
@@ -496,6 +540,28 @@
       }
     },
     {
+      "word": "Conform",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To comply with rules, standards, or laws",
+      "example": "Students must conform to the school rules.",
+      "chinese": {
+        "meaning": "遵守、符合",
+        "example": "學生必須遵守校規。"
+      }
+    },
+    {
+      "word": "Confuse",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To make someone unable to think clearly or understand something",
+      "example": "The complex explanation confused the students.",
+      "chinese": {
+        "meaning": "使困惑",
+        "example": "複雜的解釋讓學生們感到困惑。"
+      }
+    },
+    {
       "word": "Connect",
       "type": "verb",
       "letter": "C",
@@ -504,6 +570,17 @@
       "chinese": {
         "meaning": "連接",
         "example": "橋樑連接兩個城市。"
+      }
+    },
+    {
+      "word": "Conserve",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To protect something, especially an environment or resource, from harm or destruction",
+      "example": "We must conserve water during droughts.",
+      "chinese": {
+        "meaning": "保存、保護",
+        "example": "在乾旱期間，我們必須節約用水。"
       }
     },
     {
@@ -526,6 +603,28 @@
       "chinese": {
         "meaning": "由...組成",
         "example": "隊伍由五名球員組成。"
+      }
+    },
+    {
+      "word": "Console",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To comfort someone who is sad or disappointed",
+      "example": "He consoled her after the bad news.",
+      "chinese": {
+        "meaning": "安慰",
+        "example": "壞消息後他安慰了她。"
+      }
+    },
+    {
+      "word": "Constrain",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To restrict or limit someone or something",
+      "example": "The project was constrained by budget limitations.",
+      "chinese": {
+        "meaning": "限制、約束",
+        "example": "這個項目受到預算限制。"
       }
     },
     {
@@ -562,6 +661,28 @@
       }
     },
     {
+      "word": "Contemplate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To think deeply or carefully about something",
+      "example": "He contemplated his future career choices.",
+      "chinese": {
+        "meaning": "沉思",
+        "example": "他沉思自己的未來職業選擇。"
+      }
+    },
+    {
+      "word": "Contend",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To compete or argue to gain or defend something",
+      "example": "Three teams will contend for the championship.",
+      "chinese": {
+        "meaning": "爭奪、主張",
+        "example": "三支隊伍將爭奪冠軍。"
+      }
+    },
+    {
       "word": "Continue",
       "type": "verb",
       "letter": "C",
@@ -573,6 +694,28 @@
       }
     },
     {
+      "word": "Contradict",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To say the opposite of what someone else has said",
+      "example": "Her story contradicted his version of the event.",
+      "chinese": {
+        "meaning": "反駁",
+        "example": "她的說法與他的版本相矛盾。"
+      }
+    },
+    {
+      "word": "Contribute",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To give or add something, such as time or money",
+      "example": "She contributed to the relief fund.",
+      "chinese": {
+        "meaning": "貢獻",
+        "example": "她為救災基金作出貢獻。"
+      }
+    },
+    {
       "word": "Control",
       "type": "verb",
       "letter": "C",
@@ -581,6 +724,28 @@
       "chinese": {
         "meaning": "控制",
         "example": "他掌控著公司。"
+      }
+    },
+    {
+      "word": "Convene",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To come together or bring people together for a meeting or activity",
+      "example": "The board convened to discuss the issue.",
+      "chinese": {
+        "meaning": "召集、開會",
+        "example": "董事會召開會議討論該問題。"
+      }
+    },
+    {
+      "word": "Converge",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To come together from different directions to reach the same point",
+      "example": "The roads converge at the central plaza.",
+      "chinese": {
+        "meaning": "匯聚",
+        "example": "這些道路在中央廣場匯聚。"
       }
     },
     {
