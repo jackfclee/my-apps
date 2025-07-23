@@ -210,6 +210,17 @@
       }
     },
     {
+      "word": "Abuse",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To treat someone or something badly or wrongly",
+      "example": "He abused his power as a manager.",
+      "chinese": {
+        "meaning": "濫用、虐待",
+        "example": "他濫用了作為經理的權力。"
+      }
+    },
+    {
       "word": "Accelerate",
       "type": "verb",
       "letter": "A",
@@ -232,6 +243,28 @@
       }
     },
     {
+      "word": "Accept",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To receive or agree to something offered",
+      "example": "She accepted the job offer.",
+      "chinese": {
+        "meaning": "接受、同意",
+        "example": "她接受了那份工作。"
+      }
+    },
+    {
+      "word": "Access",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To obtain, enter, or use something",
+      "example": "You can access the files online.",
+      "chinese": {
+        "meaning": "訪問、進入、使用",
+        "example": "你可以在線上存取這些檔案。"
+      }
+    },
+    {
       "word": "Acclaim",
       "type": "verb",
       "letter": "A",
@@ -240,6 +273,17 @@
       "chinese": {
         "meaning": "稱讚、喝采",
         "example": "那位演員因出色的表現而受到稱讚。"
+      }
+    },
+    {
+      "word": "Acclimate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To adjust to a new environment or situation",
+      "example": "It took time to acclimate to the cold weather.",
+      "chinese": {
+        "meaning": "適應",
+        "example": "他花了一些時間適應寒冷的天氣。"
       }
     },
     {
@@ -265,6 +309,28 @@
       }
     },
     {
+      "word": "Accomplish",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To complete or achieve something successfully",
+      "example": "They accomplished the task on time.",
+      "chinese": {
+        "meaning": "完成、實現",
+        "example": "他們準時完成了任務。"
+      }
+    },
+    {
+      "word": "Accord",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To give or grant something formally",
+      "example": "He was accorded special honors.",
+      "chinese": {
+        "meaning": "給予、一致",
+        "example": "他獲得了特殊榮譽。"
+      }
+    },
+    {
       "word": "Accost",
       "type": "verb",
       "letter": "A",
@@ -273,6 +339,39 @@
       "chinese": {
         "meaning": "搭訕、挑釁地接近",
         "example": "他在街上被一個陌生人搭訕。"
+      }
+    },
+    {
+      "word": "Account",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To explain or justify something",
+      "example": "He couldn't account for his absence.",
+      "chinese": {
+        "meaning": "解釋、說明",
+        "example": "他無法解釋自己的缺席。"
+      }
+    },
+    {
+      "word": "Accredit",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To officially recognize or approve someone or something",
+      "example": "The school is accredited by the education board.",
+      "chinese": {
+        "meaning": "認可、授權",
+        "example": "這所學校獲得了教育部的認可。"
+      }
+    },
+    {
+      "word": "Accrue",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To accumulate or receive over time",
+      "example": "Interest will accrue on the savings account.",
+      "chinese": {
+        "meaning": "累積、產生",
+        "example": "儲蓄帳戶將產生利息。"
       }
     },
     {
@@ -309,6 +408,17 @@
       }
     },
     {
+      "word": "Accustom",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make someone familiar with something",
+      "example": "He accustomed himself to the new routine.",
+      "chinese": {
+        "meaning": "使習慣",
+        "example": "他讓自己習慣了新的作息。"
+      }
+    },
+    {
       "word": "Achieve",
       "type": "verb",
       "letter": "A",
@@ -328,6 +438,17 @@
       "chinese": {
         "meaning": "承認或意識到某事",
         "example": "她在報告中承認了自己的錯誤。"
+      }
+    },
+    {
+      "word": "Acquaint",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make someone aware of or familiar with something",
+      "example": "She acquainted him with the new procedures.",
+      "chinese": {
+        "meaning": "使熟悉、介紹",
+        "example": "她讓他熟悉了新流程。"
       }
     },
     {
@@ -353,6 +474,17 @@
       }
     },
     {
+      "word": "Acquit",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To declare someone not guilty of a crime",
+      "example": "The jury acquitted him of all charges.",
+      "chinese": {
+        "meaning": "宣判無罪",
+        "example": "陪審團宣判他無罪。"
+      }
+    },
+    {
       "word": "Act",
       "type": "verb",
       "letter": "A",
@@ -361,6 +493,17 @@
       "chinese": {
         "meaning": "行動、做事",
         "example": "他們迅速行動解決問題。"
+      }
+    },
+    {
+      "word": "Activate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make something active or start working",
+      "example": "He activated the alarm system.",
+      "chinese": {
+        "meaning": "啟動、使活動",
+        "example": "他啟動了警報系統。"
       }
     },
     {
@@ -441,6 +584,17 @@
       }
     },
     {
+      "word": "Adjudicate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make an official judgment or decision about a dispute",
+      "example": "The committee will adjudicate the dispute.",
+      "chinese": {
+        "meaning": "裁決、判決",
+        "example": "委員會將對爭議作出裁決。"
+      }
+    },
+    {
       "word": "Adjust",
       "type": "verb",
       "letter": "A",
@@ -460,6 +614,17 @@
       "chinese": {
         "meaning": "即興發言、即興表演",
         "example": "他整場演講都是即興發揮。"
+      }
+    },
+    {
+      "word": "Administer",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To manage or supervise the execution of something",
+      "example": "She administers the company's finances.",
+      "chinese": {
+        "meaning": "管理、執行",
+        "example": "她負責公司財務的管理。"
       }
     },
     {
@@ -518,6 +683,17 @@
       }
     },
     {
+      "word": "Adorn",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To decorate or add beauty to something",
+      "example": "The walls were adorned with paintings.",
+      "chinese": {
+        "meaning": "裝飾、美化",
+        "example": "牆上裝飾著畫作。"
+      }
+    },
+    {
       "word": "Adulate",
       "type": "verb",
       "letter": "A",
@@ -548,6 +724,17 @@
       "chinese": {
         "meaning": "前進、推進",
         "example": "部隊向城市前進。"
+      }
+    },
+    {
+      "word": "Advertise",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To promote a product, service, or event publicly",
+      "example": "They advertised the concert on social media.",
+      "chinese": {
+        "meaning": "廣告、宣傳",
+        "example": "他們在社交媒體上宣傳音樂會。"
       }
     },
     {
@@ -617,6 +804,17 @@
       }
     },
     {
+      "word": "Affront",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To insult or offend someone openly",
+      "example": "He was affronted by her rude remarks.",
+      "chinese": {
+        "meaning": "冒犯、侮辱",
+        "example": "她粗魯的話語冒犯了他。"
+      }
+    },
+    {
       "word": "Aggrandize",
       "type": "verb",
       "letter": "A",
@@ -636,6 +834,17 @@
       "chinese": {
         "meaning": "加重、惡化",
         "example": "吵鬧聲加重了她的頭痛。"
+      }
+    },
+    {
+      "word": "Aggregate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To gather or combine into a whole",
+      "example": "The system aggregates user data for analysis.",
+      "chinese": {
+        "meaning": "聚集、合計",
+        "example": "這個系統會聚合用戶資料來進行分析。"
       }
     },
     {
@@ -669,6 +878,17 @@
       "chinese": {
         "meaning": "瞄準、針對",
         "example": "他把球瞄準籃框。"
+      }
+    },
+    {
+      "word": "Alarm",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To cause worry or fear",
+      "example": "The news alarmed the public.",
+      "chinese": {
+        "meaning": "使驚慌、使不安",
+        "example": "這則新聞讓大眾感到驚慌。"
       }
     },
     {
@@ -848,6 +1068,17 @@
       }
     },
     {
+      "word": "Amaze",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To surprise someone greatly",
+      "example": "Her performance amazed the audience.",
+      "chinese": {
+        "meaning": "使驚奇、使驚訝",
+        "example": "她的表演讓觀眾驚嘆不已。"
+      }
+    },
+    {
       "word": "Amble",
       "type": "verb",
       "letter": "A",
@@ -878,6 +1109,28 @@
       "chinese": {
         "meaning": "修正、改進",
         "example": "他們修正了合約條款。"
+      }
+    },
+    {
+      "word": "Amplify",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make something louder, stronger, or more important",
+      "example": "The speaker amplified his voice with a microphone.",
+      "chinese": {
+        "meaning": "放大、增強",
+        "example": "演講者用麥克風放大了聲音。"
+      }
+    },
+    {
+      "word": "Amuse",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To entertain or make someone laugh",
+      "example": "The clown amused the children with tricks.",
+      "chinese": {
+        "meaning": "娛樂、逗笑",
+        "example": "小丑用把戲逗孩子們開心。"
       }
     },
     {
@@ -914,6 +1167,17 @@
       }
     },
     {
+      "word": "Annotate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To add notes or comments to a text for explanation or analysis",
+      "example": "The teacher annotated the essay with feedback.",
+      "chinese": {
+        "meaning": "註解、加註",
+        "example": "老師在文章上加上了註解。"
+      }
+    },
+    {
       "word": "Announce",
       "type": "verb",
       "letter": "A",
@@ -947,6 +1211,17 @@
       }
     },
     {
+      "word": "Answer",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To respond to a question or request",
+      "example": "She answered the phone immediately.",
+      "chinese": {
+        "meaning": "回答、回應",
+        "example": "她馬上接了電話。"
+      }
+    },
+    {
       "word": "Anticipate",
       "type": "verb",
       "letter": "A",
@@ -966,6 +1241,17 @@
       "chinese": {
         "meaning": "道歉",
         "example": "他為遲到道歉。"
+      }
+    },
+    {
+      "word": "Apparel",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To clothe or dress (formal/literary usage)",
+      "example": "The children were appareled in holiday attire.",
+      "chinese": {
+        "meaning": "穿著、裝扮（文學用法）",
+        "example": "孩子們穿上了節日服裝。"
       }
     },
     {
@@ -999,6 +1285,28 @@
       "chinese": {
         "meaning": "安撫、平息",
         "example": "政府試圖安撫抗議者。"
+      }
+    },
+    {
+      "word": "Append",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To add something to the end of a document or list",
+      "example": "He appended a note to the letter.",
+      "chinese": {
+        "meaning": "附加、添加",
+        "example": "他在信件後附上一張便條。"
+      }
+    },
+    {
+      "word": "Applaud",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To show approval by clapping hands or expressing praise",
+      "example": "The audience applauded the speaker.",
+      "chinese": {
+        "meaning": "鼓掌、讚賞",
+        "example": "觀眾為演講者鼓掌。"
       }
     },
     {
@@ -1101,6 +1409,17 @@
       }
     },
     {
+      "word": "Archive",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To store or preserve documents or records",
+      "example": "The emails were archived for future reference.",
+      "chinese": {
+        "meaning": "歸檔、存檔",
+        "example": "這些電子郵件已歸檔以供日後參考。"
+      }
+    },
+    {
       "word": "Argue",
       "type": "verb",
       "letter": "A",
@@ -1123,6 +1442,17 @@
       }
     },
     {
+      "word": "Arouse",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To awaken a feeling or provoke a response",
+      "example": "His speech aroused great interest.",
+      "chinese": {
+        "meaning": "引起、喚起",
+        "example": "他的演講引起了極大的興趣。"
+      }
+    },
+    {
       "word": "Arraign",
       "type": "verb",
       "letter": "A",
@@ -1142,6 +1472,17 @@
       "chinese": {
         "meaning": "安排、整理",
         "example": "她把花插在花瓶裡。"
+      }
+    },
+    {
+      "word": "Arrest",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To take someone into custody by legal authority",
+      "example": "The police arrested the suspect at the scene.",
+      "chinese": {
+        "meaning": "逮捕、拘留",
+        "example": "警方在現場逮捕了嫌疑人。"
       }
     },
     {
@@ -1200,6 +1541,17 @@
       }
     },
     {
+      "word": "Ask",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To request information or make a request",
+      "example": "She asked him for directions.",
+      "chinese": {
+        "meaning": "詢問、請求",
+        "example": "她向他詢問路線。"
+      }
+    },
+    {
       "word": "Aspire",
       "type": "verb",
       "letter": "A",
@@ -1219,6 +1571,28 @@
       "chinese": {
         "meaning": "猛烈攻擊、抨擊",
         "example": "他受到媒體猛烈抨擊。"
+      }
+    },
+    {
+      "word": "Assassinate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To kill an important person for political or ideological reasons",
+      "example": "The leader was assassinated during the rally.",
+      "chinese": {
+        "meaning": "暗殺",
+        "example": "那位領袖在集會中被暗殺。"
+      }
+    },
+    {
+      "word": "Assault",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To attack someone physically or violently",
+      "example": "He was arrested for assaulting a police officer.",
+      "chinese": {
+        "meaning": "攻擊、襲擊",
+        "example": "他因襲警被逮捕。"
       }
     },
     {
@@ -1266,6 +1640,39 @@
       }
     },
     {
+      "word": "Assist",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To help or support someone",
+      "example": "She assisted the elderly man across the street.",
+      "chinese": {
+        "meaning": "協助、幫助",
+        "example": "她幫助那位老人過馬路。"
+      }
+    },
+    {
+      "word": "Associate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To connect someone or something in the mind",
+      "example": "People often associate dark clouds with rain.",
+      "chinese": {
+        "meaning": "聯想、與...聯繫",
+        "example": "人們常把烏雲與下雨聯想在一起。"
+      }
+    },
+    {
+      "word": "Assort",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To arrange or group things into categories",
+      "example": "The candies were assorted by color and flavor.",
+      "chinese": {
+        "meaning": "分類、分組",
+        "example": "這些糖果按顏色和口味分類。"
+      }
+    },
+    {
       "word": "Assuage",
       "type": "verb",
       "letter": "A",
@@ -1299,6 +1706,17 @@
       }
     },
     {
+      "word": "Astonish",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To greatly surprise or impress someone",
+      "example": "His performance astonished the judges.",
+      "chinese": {
+        "meaning": "使震驚、使驚訝",
+        "example": "他的表現令評審震驚。"
+      }
+    },
+    {
       "word": "Attach",
       "type": "verb",
       "letter": "A",
@@ -1307,6 +1725,17 @@
       "chinese": {
         "meaning": "附加、繫上",
         "example": "請將文件附加到郵件中。"
+      }
+    },
+    {
+      "word": "Attack",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To try to hurt or damage someone or something",
+      "example": "The army attacked the enemy base at dawn.",
+      "chinese": {
+        "meaning": "攻擊、進攻",
+        "example": "軍隊在黎明時攻擊了敵方基地。"
       }
     },
     {
@@ -1387,6 +1816,17 @@
       }
     },
     {
+      "word": "Attune",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To bring into harmony or adjust to something",
+      "example": "She attuned herself to the new culture quickly.",
+      "chinese": {
+        "meaning": "使協調、使適應",
+        "example": "她很快就適應了新文化。"
+      }
+    },
+    {
       "word": "Auction",
       "type": "verb",
       "letter": "A",
@@ -1431,6 +1871,39 @@
       }
     },
     {
+      "word": "Author",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To write or create a written work",
+      "example": "She authored three best-selling novels.",
+      "chinese": {
+        "meaning": "創作、寫作",
+        "example": "她創作了三本暢銷小說。"
+      }
+    },
+    {
+      "word": "Authorize",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To give official permission or approval",
+      "example": "The manager authorized the purchase.",
+      "chinese": {
+        "meaning": "授權、批准",
+        "example": "經理批准了這項採購。"
+      }
+    },
+    {
+      "word": "Automate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To make a system or process operate automatically",
+      "example": "The factory automated its production line.",
+      "chinese": {
+        "meaning": "自動化",
+        "example": "工廠將生產線自動化了。"
+      }
+    },
+    {
       "word": "Avail",
       "type": "verb",
       "letter": "A",
@@ -1464,6 +1937,17 @@
       }
     },
     {
+      "word": "Aviate",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To pilot or fly an aircraft",
+      "example": "He learned to aviate at a young age.",
+      "chinese": {
+        "meaning": "駕駛飛機",
+        "example": "他年輕時就學會了駕駛飛機。"
+      }
+    },
+    {
       "word": "Avoid",
       "type": "verb",
       "letter": "A",
@@ -1483,6 +1967,17 @@
       "chinese": {
         "meaning": "公開宣稱、坦率承認",
         "example": "她公開宣稱自己的清白。"
+      }
+    },
+    {
+      "word": "Await",
+      "type": "verb",
+      "letter": "A",
+      "meaning": "To wait for something or someone",
+      "example": "He awaited the decision nervously.",
+      "chinese": {
+        "meaning": "等待",
+        "example": "他緊張地等待決定。"
       }
     },
     {

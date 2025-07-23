@@ -56,6 +56,39 @@
       }
     },
     {
+      "word": "Bankrupt",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To cause someone or something to lose all financial resources",
+      "example": "The lawsuit bankrupted the company.",
+      "chinese": {
+        "meaning": "使破產",
+        "example": "那場訴訟使公司破產了。"
+      }
+    },
+    {
+      "word": "Baptize",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To perform a ceremony of admitting someone into a religion, especially Christianity",
+      "example": "The baby was baptized at the church.",
+      "chinese": {
+        "meaning": "施洗、命名",
+        "example": "嬰兒在教堂接受了洗禮。"
+      }
+    },
+    {
+      "word": "Bar",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To prevent or prohibit someone from entering or doing something",
+      "example": "They barred him from entering the building.",
+      "chinese": {
+        "meaning": "禁止、阻擋",
+        "example": "他被禁止進入那棟建築。"
+      }
+    },
+    {
       "word": "Bargain",
       "type": "verb",
       "letter": "B",
@@ -78,6 +111,17 @@
       }
     },
     {
+      "word": "Base",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To use something as a foundation for something else",
+      "example": "The film is based on a true story.",
+      "chinese": {
+        "meaning": "以…為基礎",
+        "example": "這部電影以真實故事為基礎。"
+      }
+    },
+    {
       "word": "Bash",
       "type": "verb",
       "letter": "B",
@@ -97,6 +141,17 @@
       "chinese": {
         "meaning": "曬太陽、享受溫暖",
         "example": "他們在午後的陽光下曬太陽。"
+      }
+    },
+    {
+      "word": "Bath",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To wash oneself or someone else in a bath",
+      "example": "She bathed the baby before bedtime.",
+      "chinese": {
+        "meaning": "洗澡",
+        "example": "她在睡前給嬰兒洗澡。"
       }
     },
     {
@@ -254,6 +309,17 @@
       }
     },
     {
+      "word": "Believe",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To accept something as true or real",
+      "example": "I believe what she said.",
+      "chinese": {
+        "meaning": "相信",
+        "example": "我相信她說的話。"
+      }
+    },
+    {
       "word": "Belong",
       "type": "verb",
       "letter": "B",
@@ -342,6 +408,17 @@
       }
     },
     {
+      "word": "Betray",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To be disloyal or reveal secrets about someone",
+      "example": "He betrayed his friend's trust.",
+      "chinese": {
+        "meaning": "背叛、出賣",
+        "example": "他背叛了朋友的信任。"
+      }
+    },
+    {
       "word": "Beware",
       "type": "verb",
       "letter": "B",
@@ -372,6 +449,17 @@
       "chinese": {
         "meaning": "綁、束縛",
         "example": "他們用繩子把箱子綁起來。"
+      }
+    },
+    {
+      "word": "Biodegrade",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To decompose naturally by biological processes",
+      "example": "The packaging is designed to biodegrade in weeks.",
+      "chinese": {
+        "meaning": "生物分解",
+        "example": "這種包裝設計可在幾週內生物分解。"
       }
     },
     {
@@ -416,6 +504,17 @@
       "chinese": {
         "meaning": "熊熊燃燒",
         "example": "火焰整夜熊熊燃燒。"
+      }
+    },
+    {
+      "word": "Bleach",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To make something white or lighter in color using chemicals",
+      "example": "She bleached her hair blonde.",
+      "chinese": {
+        "meaning": "漂白",
+        "example": "她把頭髮漂成金色。"
       }
     },
     {
@@ -507,6 +606,17 @@
       }
     },
     {
+      "word": "Blur",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To make something unclear or difficult to see",
+      "example": "Tears blurred her vision.",
+      "chinese": {
+        "meaning": "模糊、變模糊",
+        "example": "淚水讓她看不清楚。"
+      }
+    },
+    {
       "word": "Blush",
       "type": "verb",
       "letter": "B",
@@ -515,6 +625,17 @@
       "chinese": {
         "meaning": "臉紅",
         "example": "他讚美她時，她臉紅了。"
+      }
+    },
+    {
+      "word": "Board",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To get on a vehicle, ship, or aircraft",
+      "example": "They boarded the plane at 8 AM.",
+      "chinese": {
+        "meaning": "登上（交通工具）",
+        "example": "他們在早上八點登上了飛機。"
       }
     },
     {
@@ -617,6 +738,17 @@
       }
     },
     {
+      "word": "Born",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To be brought into life (used in passive voice only)",
+      "example": "She was born in 1990.",
+      "chinese": {
+        "meaning": "出生",
+        "example": "她出生於1990年。"
+      }
+    },
+    {
       "word": "Borrow",
       "type": "verb",
       "letter": "B",
@@ -625,6 +757,17 @@
       "chinese": {
         "meaning": "借用",
         "example": "我可以借用你的筆嗎？"
+      }
+    },
+    {
+      "word": "Bother",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To annoy or disturb someone",
+      "example": "Don't bother me while I'm working.",
+      "chinese": {
+        "meaning": "打擾、煩擾",
+        "example": "我工作時別打擾我。"
       }
     },
     {
@@ -669,6 +812,17 @@
       "chinese": {
         "meaning": "做好準備、支撐",
         "example": "她為衝擊做好了準備。"
+      }
+    },
+    {
+      "word": "Brainstorm",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To generate ideas or solutions through discussion or thinking",
+      "example": "Let's brainstorm ideas for the project.",
+      "chinese": {
+        "meaning": "腦力激盪",
+        "example": "我們來為這個專案集思廣益。"
       }
     },
     {
@@ -889,6 +1043,17 @@
       "chinese": {
         "meaning": "威嚇、恐嚇",
         "example": "嫌犯在恐嚇下招供了。"
+      }
+    },
+    {
+      "word": "Browse",
+      "type": "verb",
+      "letter": "B",
+      "meaning": "To look through or glance at casually",
+      "example": "She browsed the bookstore for a while.",
+      "chinese": {
+        "meaning": "瀏覽、隨意翻閱",
+        "example": "她在書店隨意逛了一會兒。"
       }
     },
     {

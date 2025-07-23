@@ -133,6 +133,17 @@
       }
     },
     {
+      "word": "Celebrate",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To show happiness or honor a special event",
+      "example": "They celebrated her birthday with a party.",
+      "chinese": {
+        "meaning": "慶祝",
+        "example": "他們舉辦派對慶祝她的生日。"
+      }
+    },
+    {
       "word": "Challenge",
       "type": "verb",
       "letter": "C",
@@ -680,6 +691,17 @@
       "chinese": {
         "meaning": "連接",
         "example": "橋樑連接兩個城市。"
+      }
+    },
+    {
+      "word": "Conquest",
+      "type": "verb",
+      "letter": "C",
+      "meaning": "To gain control over a place or people by use of military force (Note: 'conquest' is typically a noun, but used here as an archaic or poetic verb)",
+      "example": "They conquested the land after a long battle.",
+      "chinese": {
+        "meaning": "征服（較少見作動詞）",
+        "example": "經過長時間的戰鬥，他們征服了這片土地。"
       }
     },
     {

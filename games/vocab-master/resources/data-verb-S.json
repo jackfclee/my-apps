@@ -430,6 +430,17 @@
       }
     },
     {
+      "word": "Silence",
+      "type": "verb",
+      "letter": "S",
+      "meaning": "To make someone or something quiet or stop them from speaking or making noise",
+      "example": "The teacher silenced the class with a stern look.",
+      "chinese": {
+        "meaning": "使安靜、使沉默",
+        "example": "老師用嚴厲的眼神讓全班安靜下來。"
+      }
+    },
+    {
       "word": "Simplify",
       "type": "verb",
       "letter": "S",
