@@ -23,6 +23,16 @@
       }
     },
     {
+      "word": "Nail",
+      "type": "verb",
+      "meaning": "To fasten with or as if with a nail; to catch or expose someone",
+      "example": "He nailed the sign to the wall.",
+      "chinese": {
+        "meaning": "釘住；揭露、抓住（某人）",
+        "example": "他把標誌釘在牆上。"
+      }
+    },
+    {
       "word": "Name",
       "type": "verb",
       "letter": "N",
@@ -31,6 +41,16 @@
       "chinese": {
         "meaning": "命名；指出",
         "example": "你能說出這些國家的首都嗎？"
+      }
+    },
+    {
+      "word": "Nap",
+      "type": "verb",
+      "meaning": "To take a short sleep, especially during the day",
+      "example": "I like to nap after lunch.",
+      "chinese": {
+        "meaning": "小睡；打盹",
+        "example": "我喜歡午飯後小睡一會兒。"
       }
     },
     {
@@ -67,6 +87,26 @@
       }
     },
     {
+      "word": "Nationalize",
+      "type": "verb",
+      "meaning": "To transfer private industry into government ownership",
+      "example": "The government decided to nationalize the oil industry.",
+      "chinese": {
+        "meaning": "國有化；使成為國有",
+        "example": "政府決定將石油工業國有化。"
+      }
+    },
+    {
+      "word": "Naturalize",
+      "type": "verb",
+      "meaning": "To grant citizenship; to adapt a foreign plant/animal to a new environment",
+      "example": "He was naturalized as a citizen last year.",
+      "chinese": {
+        "meaning": "使入籍；使（植物、動物）本地化",
+        "example": "他去年入籍成為公民。"
+      }
+    },
+    {
       "word": "Navigate",
       "type": "verb",
       "letter": "N",
@@ -78,6 +118,16 @@
       }
     },
     {
+      "word": "Neaten",
+      "type": "verb",
+      "meaning": "To make neat or tidy",
+      "example": "She neatened the books on the shelf.",
+      "chinese": {
+        "meaning": "使整潔；整理",
+        "example": "她整理了書架上的書。"
+      }
+    },
+    {
       "word": "Necessitate",
       "type": "verb",
       "letter": "N",
@@ -86,6 +136,16 @@
       "chinese": {
         "meaning": "使成為必需",
         "example": "他的傷勢需要手術。"
+      }
+    },
+    {
+      "word": "Need",
+      "type": "verb",
+      "meaning": "To require something because it is essential or very important",
+      "example": "We need more time to finish the project.",
+      "chinese": {
+        "meaning": "需要",
+        "example": "我們需要更多時間來完成這個項目。"
       }
     },
     {
@@ -177,6 +237,26 @@
       }
     },
     {
+      "word": "Nibble",
+      "type": "verb",
+      "meaning": "To take small bites",
+      "example": "The rabbit nibbled the carrot.",
+      "chinese": {
+        "meaning": "小口咬；慢慢咬",
+        "example": "兔子小口咬著胡蘿蔔。"
+      }
+    },
+    {
+      "word": "Nick",
+      "type": "verb",
+      "meaning": "To make a small cut or notch; to steal (informal)",
+      "example": "Be careful not to nick your finger.",
+      "chinese": {
+        "meaning": "割破；偷（俚語）",
+        "example": "小心別割破手指了。"
+      }
+    },
+    {
       "word": "Nip",
       "type": "verb",
       "letter": "N",
@@ -185,6 +265,16 @@
       "chinese": {
         "meaning": "咬；夾；掐",
         "example": "寒風刺痛了我的臉頰。"
+      }
+    },
+    {
+      "word": "Nitpick",
+      "type": "verb",
+      "meaning": "To find fault with small or unimportant details",
+      "example": "Stop nitpicking and look at the big picture.",
+      "chinese": {
+        "meaning": "吹毛求疵；挑剔小事",
+        "example": "別再吹毛求疵了，看看整體吧。"
       }
     },
     {
@@ -232,6 +322,16 @@
       }
     },
     {
+      "word": "Notarize",
+      "type": "verb",
+      "meaning": "To have a document legally certified by a notary public",
+      "example": "The contract must be notarized before submission.",
+      "chinese": {
+        "meaning": "公證；使文件經過公證人認證",
+        "example": "合同在提交前必須經過公證。"
+      }
+    },
+    {
       "word": "Notate",
       "type": "verb",
       "letter": "N",
@@ -240,6 +340,16 @@
       "chinese": {
         "meaning": "記譜；用符號記錄",
         "example": "作曲家把旋律記了下來。"
+      }
+    },
+    {
+      "word": "Notch",
+      "type": "verb",
+      "meaning": "To cut a small groove or indentation",
+      "example": "He notched the stick to mark the measurement.",
+      "chinese": {
+        "meaning": "刻痕；做記號",
+        "example": "他在棍子上刻了一個記號來做量度。"
       }
     },
     {
@@ -328,6 +438,16 @@
       "chinese": {
         "meaning": "編號",
         "example": "這些頁面都已編號以方便參考。"
+      }
+    },
+    {
+      "word": "Nurse",
+      "type": "verb",
+      "meaning": "To care for a sick person; to breastfeed a baby; to hold and protect tenderly",
+      "example": "She nursed him back to health.",
+      "chinese": {
+        "meaning": "照顧病人；哺乳；細心照顧",
+        "example": "她精心照顧他直到康復。"
       }
     },
     {

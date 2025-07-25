@@ -1,6 +1,16 @@
 {
   "words": [
     {
+      "word": "Hack",
+      "type": "verb",
+      "meaning": "To cut something roughly or irregularly, often with heavy blows",
+      "example": "He hacked away at the branches with a machete.",
+      "chinese": {
+        "meaning": "砍、劈",
+        "example": "他用彎刀砍掉那些樹枝。"
+      }
+    },
+    {
       "word": "Hail",
       "type": "verb",
       "letter": "H",
@@ -12,6 +22,26 @@
       }
     },
     {
+      "word": "Hallow",
+      "type": "verb",
+      "meaning": "To make something holy or set it apart as sacred",
+      "example": "This ground is hallowed by the memories of those who died here.",
+      "chinese": {
+        "meaning": "神聖化、尊崇",
+        "example": "這片土地因為死者的記憶而變得神聖。"
+      }
+    },
+    {
+      "word": "Hallucinate",
+      "type": "verb",
+      "meaning": "To see or sense things that are not real, often due to illness or drugs",
+      "example": "He began to hallucinate after several sleepless nights.",
+      "chinese": {
+        "meaning": "產生幻覺",
+        "example": "幾夜沒睡後他開始產生幻覺。"
+      }
+    },
+    {
       "word": "Halt",
       "type": "verb",
       "letter": "H",
@@ -20,6 +50,16 @@
       "chinese": {
         "meaning": "停止",
         "example": "火車突然停了下來。"
+      }
+    },
+    {
+      "word": "Halve",
+      "type": "verb",
+      "meaning": "To divide something into two equal parts",
+      "example": "Halve the apple and give me one piece.",
+      "chinese": {
+        "meaning": "對半分",
+        "example": "把蘋果對半分，給我一塊。"
       }
     },
     {
@@ -56,6 +96,26 @@
       }
     },
     {
+      "word": "Hand",
+      "type": "verb",
+      "meaning": "To give or pass something to someone",
+      "example": "She handed him the keys.",
+      "chinese": {
+        "meaning": "遞交、交給",
+        "example": "她把鑰匙交給了他。"
+      }
+    },
+    {
+      "word": "Handicap",
+      "type": "verb",
+      "meaning": "To place at a disadvantage",
+      "example": "He was handicapped by his lack of experience.",
+      "chinese": {
+        "meaning": "使處於不利地位",
+        "example": "他因缺乏經驗而處於劣勢。"
+      }
+    },
+    {
       "word": "Handle",
       "type": "verb",
       "letter": "H",
@@ -64,6 +124,16 @@
       "chinese": {
         "meaning": "處理",
         "example": "她冷靜地處理了這個情況。"
+      }
+    },
+    {
+      "word": "Handpick",
+      "type": "verb",
+      "meaning": "To choose something very carefully",
+      "example": "She handpicked each candidate for the team.",
+      "chinese": {
+        "meaning": "精心挑選",
+        "example": "她為團隊精心挑選每一位候選人。"
       }
     },
     {
@@ -78,6 +148,16 @@
       }
     },
     {
+      "word": "Hanker",
+      "type": "verb",
+      "meaning": "To have a strong desire or craving for something",
+      "example": "He hankered for adventure after years in the same job.",
+      "chinese": {
+        "meaning": "渴望、嚮往",
+        "example": "多年做同一份工作後，他渴望冒險。"
+      }
+    },
+    {
       "word": "Happen",
       "type": "verb",
       "letter": "H",
@@ -89,6 +169,36 @@
       }
     },
     {
+      "word": "Harangue",
+      "type": "verb",
+      "meaning": "To lecture someone in an aggressive or critical manner",
+      "example": "The coach harangued the players for their poor performance.",
+      "chinese": {
+        "meaning": "訓斥、高聲訓話",
+        "example": "教練因為球員表現不佳而訓斥他們。"
+      }
+    },
+    {
+      "word": "Harass",
+      "type": "verb",
+      "meaning": "To annoy or intimidate someone repeatedly",
+      "example": "The protesters were harassed by the authorities.",
+      "chinese": {
+        "meaning": "騷擾、困擾",
+        "example": "抗議者遭到當局的騷擾。"
+      }
+    },
+    {
+      "word": "Harbor",
+      "type": "verb",
+      "meaning": "To shelter or give refuge; to keep a thought or feeling in mind",
+      "example": "He harbored resentment for years.",
+      "chinese": {
+        "meaning": "懷有（情感）、庇護",
+        "example": "他多年來心懷怨恨。"
+      }
+    },
+    {
       "word": "Harden",
       "type": "verb",
       "letter": "H",
@@ -97,6 +207,16 @@
       "chinese": {
         "meaning": "變硬",
         "example": "混凝土一夜之間變硬了。"
+      }
+    },
+    {
+      "word": "Hardwire",
+      "type": "verb",
+      "meaning": "To make something permanent or innate",
+      "example": "Some behaviors are hardwired into our brains.",
+      "chinese": {
+        "meaning": "（習性等）根深蒂固；硬接",
+        "example": "某些行為是我們大腦中根深蒂固的。"
       }
     },
     {
@@ -122,6 +242,36 @@
       }
     },
     {
+      "word": "Harp",
+      "type": "verb",
+      "meaning": "To talk repeatedly or continuously about a topic",
+      "example": "Stop harping on my mistake.",
+      "chinese": {
+        "meaning": "反覆講、喋喋不休",
+        "example": "別再反覆說我的錯誤了。"
+      }
+    },
+    {
+      "word": "Harry",
+      "type": "verb",
+      "meaning": "To continually harass or attack",
+      "example": "The town was harried by bandits for months.",
+      "chinese": {
+        "meaning": "持續騷擾、折磨",
+        "example": "這個小鎮被土匪騷擾了好幾個月。"
+      }
+    },
+    {
+      "word": "Hash",
+      "type": "verb",
+      "meaning": "To make a mess of something; to discuss something in detail",
+      "example": "Let’s hash out the details before we start.",
+      "chinese": {
+        "meaning": "反覆討論、弄亂",
+        "example": "我們在開始前把細節好好談一談。"
+      }
+    },
+    {
       "word": "Hasten",
       "type": "verb",
       "letter": "H",
@@ -144,6 +294,16 @@
       }
     },
     {
+      "word": "Hate",
+      "type": "verb",
+      "meaning": "To strongly dislike something or someone",
+      "example": "I hate being late for appointments.",
+      "chinese": {
+        "meaning": "憎恨、厭惡",
+        "example": "我討厭遲到赴約。"
+      }
+    },
+    {
       "word": "Haul",
       "type": "verb",
       "letter": "H",
@@ -163,6 +323,26 @@
       "chinese": {
         "meaning": "縈繞；困擾",
         "example": "事故的記憶多年來一直困擾著他。"
+      }
+    },
+    {
+      "word": "Hazard",
+      "type": "verb",
+      "meaning": "To risk or expose to danger",
+      "example": "He hazarded a guess.",
+      "chinese": {
+        "meaning": "冒險、猜測",
+        "example": "他冒險猜了一下。"
+      }
+    },
+    {
+      "word": "Haze",
+      "type": "verb",
+      "meaning": "To subject someone to initiation rituals, often humiliating or abusive",
+      "example": "The fraternity was banned for hazing new members.",
+      "chinese": {
+        "meaning": "欺侮、惡整（新成員）",
+        "example": "那個兄弟會因欺侮新成員而被取締。"
       }
     },
     {
@@ -232,6 +412,36 @@
       }
     },
     {
+      "word": "Hedge",
+      "type": "verb",
+      "meaning": "To protect oneself against risk or loss",
+      "example": "He hedged his bets by investing in different markets.",
+      "chinese": {
+        "meaning": "防範風險、對沖",
+        "example": "他透過投資不同市場來對沖風險。"
+      }
+    },
+    {
+      "word": "Heed",
+      "type": "verb",
+      "meaning": "To pay attention to or take notice of",
+      "example": "You should heed the warning signs.",
+      "chinese": {
+        "meaning": "注意、留意",
+        "example": "你應該留意那些警告標誌。"
+      }
+    },
+    {
+      "word": "Heel",
+      "type": "verb",
+      "meaning": "To follow someone closely, especially a dog following its owner",
+      "example": "The dog heeled obediently beside its master.",
+      "chinese": {
+        "meaning": "緊跟（尤指狗跟著主人）",
+        "example": "那隻狗乖乖地跟在主人旁邊。"
+      }
+    },
+    {
       "word": "Heighten",
       "type": "verb",
       "letter": "H",
@@ -254,6 +464,26 @@
       }
     },
     {
+      "word": "Hem",
+      "type": "verb",
+      "meaning": "To fold and sew the edge of a piece of cloth",
+      "example": "She hemmed the dress to make it shorter.",
+      "chinese": {
+        "meaning": "縫邊",
+        "example": "她把裙子縫短了一些。"
+      }
+    },
+    {
+      "word": "Herald",
+      "type": "verb",
+      "meaning": "To announce or signal the approach of something",
+      "example": "The blooming flowers herald the arrival of spring.",
+      "chinese": {
+        "meaning": "預示、宣告",
+        "example": "盛開的花朵預示著春天的來臨。"
+      }
+    },
+    {
       "word": "Hesitate",
       "type": "verb",
       "letter": "H",
@@ -273,6 +503,16 @@
       "chinese": {
         "meaning": "劈砍；砍伐",
         "example": "他們砍伐木頭來建造小屋。"
+      }
+    },
+    {
+      "word": "Hex",
+      "type": "verb",
+      "meaning": "To cast a spell or curse on someone",
+      "example": "The witch hexed the villagers.",
+      "chinese": {
+        "meaning": "施魔法、詛咒",
+        "example": "女巫對村民施了魔咒。"
       }
     },
     {
@@ -306,6 +546,16 @@
       "chinese": {
         "meaning": "劫持",
         "example": "飛機被恐怖分子劫持了。"
+      }
+    },
+    {
+      "word": "Hike",
+      "type": "verb",
+      "meaning": "To walk a long distance, especially in nature",
+      "example": "We hiked up the mountain trail.",
+      "chinese": {
+        "meaning": "健行、徒步旅行",
+        "example": "我們沿著山徑健行。"
       }
     },
     {
@@ -353,6 +603,16 @@
       }
     },
     {
+      "word": "Hiss",
+      "type": "verb",
+      "meaning": "To make a sharp sibilant sound, like a snake or steam",
+      "example": "The cat hissed at the dog.",
+      "chinese": {
+        "meaning": "發出嘶嘶聲",
+        "example": "貓對著狗發出嘶嘶聲。"
+      }
+    },
+    {
       "word": "Hit",
       "type": "verb",
       "letter": "H",
@@ -361,6 +621,16 @@
       "chinese": {
         "meaning": "打；撞",
         "example": "球打到窗戶上了。"
+      }
+    },
+    {
+      "word": "Hitch",
+      "type": "verb",
+      "meaning": "To attach or connect something to another",
+      "example": "He hitched the trailer to the truck.",
+      "chinese": {
+        "meaning": "拴住、連接",
+        "example": "他把拖車拴在卡車上。"
       }
     },
     {
@@ -375,6 +645,16 @@
       }
     },
     {
+      "word": "Hoist",
+      "type": "verb",
+      "meaning": "To raise or lift something, especially with a rope or mechanical help",
+      "example": "They hoisted the flag at sunrise.",
+      "chinese": {
+        "meaning": "升起、吊起",
+        "example": "他們在日出時升起國旗。"
+      }
+    },
+    {
       "word": "Hold",
       "type": "verb",
       "letter": "H",
@@ -386,6 +666,46 @@
       }
     },
     {
+      "word": "Holler",
+      "type": "verb",
+      "meaning": "To shout or yell loudly",
+      "example": "He hollered for help.",
+      "chinese": {
+        "meaning": "大聲喊叫",
+        "example": "他大聲呼救。"
+      }
+    },
+    {
+      "word": "Hollow",
+      "type": "verb",
+      "meaning": "To make a hole or empty space in something",
+      "example": "They hollowed out a log to make a canoe.",
+      "chinese": {
+        "meaning": "挖空、掏空",
+        "example": "他們把木頭挖空來製作獨木舟。"
+      }
+    },
+    {
+      "word": "Homogenize",
+      "type": "verb",
+      "meaning": "To make something uniform or similar in composition",
+      "example": "Milk is homogenized to distribute the fat evenly.",
+      "chinese": {
+        "meaning": "使均勻、使一致",
+        "example": "牛奶經過均質處理使脂肪均勻分布。"
+      }
+    },
+    {
+      "word": "Hone",
+      "type": "verb",
+      "meaning": "To sharpen or refine something over time",
+      "example": "She honed her writing skills through practice.",
+      "chinese": {
+        "meaning": "磨練、提升（技能）",
+        "example": "她透過練習磨練自己的寫作技巧。"
+      }
+    },
+    {
       "word": "Honor",
       "type": "verb",
       "letter": "H",
@@ -394,6 +714,46 @@
       "chinese": {
         "meaning": "表彰；尊敬",
         "example": "他們在典禮上表彰了獲獎者。"
+      }
+    },
+    {
+      "word": "Hoodwink",
+      "type": "verb",
+      "meaning": "To deceive or trick someone",
+      "example": "They hoodwinked the investors with false promises.",
+      "chinese": {
+        "meaning": "欺騙、蒙騙",
+        "example": "他們用虛假承諾欺騙了投資者。"
+      }
+    },
+    {
+      "word": "Hook",
+      "type": "verb",
+      "meaning": "To attach or fasten with a hook",
+      "example": "She hooked her bag onto the chair.",
+      "chinese": {
+        "meaning": "掛住、鉤住",
+        "example": "她把包包掛在椅子上。"
+      }
+    },
+    {
+      "word": "Hoop",
+      "type": "verb",
+      "meaning": "To bind or encircle with a hoop or ring",
+      "example": "They hooped the barrel for reinforcement.",
+      "chinese": {
+        "meaning": "用箍圈住",
+        "example": "他們用鐵箍加固了桶子。"
+      }
+    },
+    {
+      "word": "Hoot",
+      "type": "verb",
+      "meaning": "To shout or laugh loudly, or to make a sound like an owl",
+      "example": "The audience hooted with laughter.",
+      "chinese": {
+        "meaning": "哄笑、大聲叫囂；發出貓頭鷹叫聲",
+        "example": "觀眾哄堂大笑。"
       }
     },
     {
@@ -419,6 +779,16 @@
       }
     },
     {
+      "word": "Hospitalize",
+      "type": "verb",
+      "meaning": "To admit someone to a hospital for treatment",
+      "example": "She was hospitalized for dehydration.",
+      "chinese": {
+        "meaning": "送入醫院治療",
+        "example": "她因脫水被送進醫院。"
+      }
+    },
+    {
       "word": "Host",
       "type": "verb",
       "letter": "H",
@@ -438,6 +808,16 @@
       "chinese": {
         "meaning": "敵對",
         "example": "他們對新政策持敵對態度。"
+      }
+    },
+    {
+      "word": "Hound",
+      "type": "verb",
+      "meaning": "To persistently pursue or harass someone",
+      "example": "The press hounded the celebrity for interviews.",
+      "chinese": {
+        "meaning": "糾纏、追逐",
+        "example": "媒體不斷糾纏那位名人要求採訪。"
       }
     },
     {
@@ -474,6 +854,36 @@
       }
     },
     {
+      "word": "Howl",
+      "type": "verb",
+      "meaning": "To make a long, loud cry like a wolf or to cry in pain",
+      "example": "The dog howled all night.",
+      "chinese": {
+        "meaning": "嚎叫、哀號",
+        "example": "那隻狗整晚都在嚎叫。"
+      }
+    },
+    {
+      "word": "Huddle",
+      "type": "verb",
+      "meaning": "To crowd closely together, usually for warmth or comfort",
+      "example": "The children huddled together in the cold.",
+      "chinese": {
+        "meaning": "擠在一起（通常是為了取暖或安全）",
+        "example": "孩子們在寒風中擠在一起。"
+      }
+    },
+    {
+      "word": "Huff",
+      "type": "verb",
+      "meaning": "To breathe out loudly, especially in anger or annoyance",
+      "example": "She huffed and stormed out of the room.",
+      "chinese": {
+        "meaning": "生氣地喘氣",
+        "example": "她生氣地喘氣並衝出房間。"
+      }
+    },
+    {
       "word": "Hug",
       "type": "verb",
       "letter": "H",
@@ -496,6 +906,36 @@
       }
     },
     {
+      "word": "Humanize",
+      "type": "verb",
+      "meaning": "To make something more human or relatable",
+      "example": "The author humanized the robot character.",
+      "chinese": {
+        "meaning": "使人性化",
+        "example": "作者讓機器人角色更加人性化。"
+      }
+    },
+    {
+      "word": "Humble",
+      "type": "verb",
+      "meaning": "To lower in pride or importance; to show modesty",
+      "example": "The experience humbled him.",
+      "chinese": {
+        "meaning": "使謙卑",
+        "example": "那次經歷讓他變得謙虛。"
+      }
+    },
+    {
+      "word": "Humidify",
+      "type": "verb",
+      "meaning": "To add moisture to the air",
+      "example": "We used a machine to humidify the room.",
+      "chinese": {
+        "meaning": "使加濕",
+        "example": "我們用機器為房間加濕。"
+      }
+    },
+    {
       "word": "Humiliate",
       "type": "verb",
       "letter": "H",
@@ -507,6 +947,26 @@
       }
     },
     {
+      "word": "Humor",
+      "type": "verb",
+      "meaning": "To comply with someone’s mood or desire to keep them happy",
+      "example": "He humored the child by pretending to be a dinosaur.",
+      "chinese": {
+        "meaning": "遷就、迎合",
+        "example": "他假裝成恐龍來哄小孩開心。"
+      }
+    },
+    {
+      "word": "Hump",
+      "type": "verb",
+      "meaning": "To carry or lift something heavy with effort",
+      "example": "He humped the backpack over the hill.",
+      "chinese": {
+        "meaning": "吃力地搬運",
+        "example": "他吃力地扛著背包越過山丘。"
+      }
+    },
+    {
       "word": "Hunt",
       "type": "verb",
       "letter": "H",
@@ -515,6 +975,26 @@
       "chinese": {
         "meaning": "狩獵；搜尋",
         "example": "他們在森林裡狩獵鹿。"
+      }
+    },
+    {
+      "word": "Hurl",
+      "type": "verb",
+      "meaning": "To throw something forcefully",
+      "example": "She hurled the rock into the river.",
+      "chinese": {
+        "meaning": "猛扔",
+        "example": "她把石頭猛地扔進河裡。"
+      }
+    },
+    {
+      "word": "Hurrah",
+      "type": "verb",
+      "meaning": "To shout in celebration or approval",
+      "example": "The fans hurrahed as the team scored.",
+      "chinese": {
+        "meaning": "歡呼",
+        "example": "球迷們在球隊得分時歡呼。"
       }
     },
     {
@@ -540,6 +1020,16 @@
       }
     },
     {
+      "word": "Hurtle",
+      "type": "verb",
+      "meaning": "To move rapidly or forcefully",
+      "example": "The car hurtled down the road.",
+      "chinese": {
+        "meaning": "快速或猛烈地移動",
+        "example": "汽車在路上飛馳。"
+      }
+    },
+    {
       "word": "Hush",
       "type": "verb",
       "letter": "H",
@@ -551,6 +1041,36 @@
       }
     },
     {
+      "word": "Husk",
+      "type": "verb",
+      "meaning": "To remove the outer covering of something, especially corn or grain",
+      "example": "They husked the corn by hand.",
+      "chinese": {
+        "meaning": "剝殼",
+        "example": "他們用手剝玉米殼。"
+      }
+    },
+    {
+      "word": "Hustle",
+      "type": "verb",
+      "meaning": "To move quickly or push forcefully; to work hard",
+      "example": "She hustled to catch the train.",
+      "chinese": {
+        "meaning": "趕緊行動；奔忙",
+        "example": "她急忙趕火車。"
+      }
+    },
+    {
+      "word": "Hybridize",
+      "type": "verb",
+      "meaning": "To cross-breed two different species or varieties",
+      "example": "Scientists hybridized two types of rice.",
+      "chinese": {
+        "meaning": "使雜交",
+        "example": "科學家讓兩種稻米進行雜交。"
+      }
+    },
+    {
       "word": "Hydrate",
       "type": "verb",
       "letter": "H",
@@ -559,6 +1079,56 @@
       "chinese": {
         "meaning": "補水",
         "example": "運動後你應該補充水分。"
+      }
+    },
+    {
+      "word": "Hydroplane",
+      "type": "verb",
+      "meaning": "To slide uncontrollably on a wet surface, especially by a vehicle",
+      "example": "The car hydroplaned across the slick road.",
+      "chinese": {
+        "meaning": "在濕地上滑行（水滑現象）",
+        "example": "那輛車在濕滑的路面上打滑。"
+      }
+    },
+    {
+      "word": "Hype",
+      "type": "verb",
+      "meaning": "To promote or publicize something aggressively",
+      "example": "The company hyped the product before launch.",
+      "chinese": {
+        "meaning": "大肆宣傳",
+        "example": "公司在產品推出前大肆宣傳。"
+      }
+    },
+    {
+      "word": "Hyperextend",
+      "type": "verb",
+      "meaning": "To extend a joint beyond its normal range of motion",
+      "example": "He hyperextended his knee during the game.",
+      "chinese": {
+        "meaning": "過度伸展（關節）",
+        "example": "他在比賽中膝蓋過度伸展。"
+      }
+    },
+    {
+      "word": "Hyphenate",
+      "type": "verb",
+      "meaning": "To connect or divide words with a hyphen",
+      "example": "Some compound adjectives should be hyphenated.",
+      "chinese": {
+        "meaning": "用連字號連接",
+        "example": "有些複合形容詞應該加上連字號。"
+      }
+    },
+    {
+      "word": "Hypnotize",
+      "type": "verb",
+      "meaning": "To put someone in a trance-like state using hypnosis",
+      "example": "The magician hypnotized a volunteer.",
+      "chinese": {
+        "meaning": "催眠",
+        "example": "魔術師催眠了一位志願者。"
       }
     },
     {

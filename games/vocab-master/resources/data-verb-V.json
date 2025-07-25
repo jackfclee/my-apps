@@ -12,6 +12,16 @@
       }
     },
     {
+      "word": "Vaccinate",
+      "type": "verb",
+      "meaning": "To administer a vaccine to protect against disease",
+      "example": "Children are vaccinated against measles.",
+      "chinese": {
+        "meaning": "接種疫苗",
+        "example": "孩子們接種麻疹疫苗。"
+      }
+    },
+    {
       "word": "Vacillate",
       "type": "verb",
       "letter": "V",
@@ -34,6 +44,16 @@
       }
     },
     {
+      "word": "Vail",
+      "type": "verb",
+      "meaning": "To lower or take off, especially as a sign of respect (archaic)",
+      "example": "He vailed his hat in the presence of the king.",
+      "chinese": {
+        "meaning": "脫帽致敬（古語）",
+        "example": "他在國王面前脫帽致敬。"
+      }
+    },
+    {
       "word": "Validate",
       "type": "verb",
       "letter": "V",
@@ -42,6 +62,16 @@
       "chinese": {
         "meaning": "驗證",
         "example": "數據已由多個來源驗證。"
+      }
+    },
+    {
+      "word": "Valuate",
+      "type": "verb",
+      "meaning": "To assess or estimate the value of something",
+      "example": "The appraiser will valuate the property.",
+      "chinese": {
+        "meaning": "評估價值",
+        "example": "評估師會對該房產進行估價。"
       }
     },
     {
@@ -56,6 +86,16 @@
       }
     },
     {
+      "word": "Vamp",
+      "type": "verb",
+      "meaning": "To patch up or refurbish; to improvise music (or slang: to seduce)",
+      "example": "The band vamped a few bars until the singer arrived.",
+      "chinese": {
+        "meaning": "即興演奏；修補；勾引（俚語）",
+        "example": "樂隊即興演奏了幾小節，直到主唱到來。"
+      }
+    },
+    {
       "word": "Vanish",
       "type": "verb",
       "letter": "V",
@@ -64,6 +104,16 @@
       "chinese": {
         "meaning": "消失",
         "example": "證據似乎在一夜之間消失了。"
+      }
+    },
+    {
+      "word": "Vanquish",
+      "type": "verb",
+      "meaning": "To defeat thoroughly",
+      "example": "They vanquished their enemies in battle.",
+      "chinese": {
+        "meaning": "徹底打敗；征服",
+        "example": "他們在戰鬥中徹底擊敗敵人。"
       }
     },
     {
@@ -89,6 +139,56 @@
       }
     },
     {
+      "word": "Vault",
+      "type": "verb",
+      "meaning": "To leap or jump over something using hands or a pole",
+      "example": "He vaulted over the fence.",
+      "chinese": {
+        "meaning": "跳躍；撐竿跳",
+        "example": "他跳過了圍欄。"
+      }
+    },
+    {
+      "word": "Vaunt",
+      "type": "verb",
+      "meaning": "To boast or brag about something",
+      "example": "He vaunted his achievements constantly.",
+      "chinese": {
+        "meaning": "誇耀；吹噓",
+        "example": "他經常誇耀自己的成就。"
+      }
+    },
+    {
+      "word": "Veer",
+      "type": "verb",
+      "meaning": "To change direction suddenly",
+      "example": "The car veered off the road.",
+      "chinese": {
+        "meaning": "突然轉向",
+        "example": "車子突然偏離了道路。"
+      }
+    },
+    {
+      "word": "Veil",
+      "type": "verb",
+      "meaning": "To cover with or as with a veil; to conceal",
+      "example": "The fog veiled the mountain.",
+      "chinese": {
+        "meaning": "遮蓋；掩飾",
+        "example": "霧氣遮蓋了山嶺。"
+      }
+    },
+    {
+      "word": "Vend",
+      "type": "verb",
+      "meaning": "To sell something",
+      "example": "He vends snacks on the street corner.",
+      "chinese": {
+        "meaning": "販售；兜售",
+        "example": "他在街角販售小吃。"
+      }
+    },
+    {
       "word": "Venerate",
       "type": "verb",
       "letter": "V",
@@ -97,6 +197,16 @@
       "chinese": {
         "meaning": "尊敬",
         "example": "社區尊敬長者。"
+      }
+    },
+    {
+      "word": "Venge",
+      "type": "verb",
+      "meaning": "To take revenge (archaic/literary)",
+      "example": "He vowed to venge his brother's death.",
+      "chinese": {
+        "meaning": "報仇（文學用語）",
+        "example": "他誓言為兄弟報仇。"
       }
     },
     {
@@ -122,6 +232,26 @@
       }
     },
     {
+      "word": "Verbalize",
+      "type": "verb",
+      "meaning": "To express in words",
+      "example": "She struggled to verbalize her emotions.",
+      "chinese": {
+        "meaning": "用言語表達",
+        "example": "她難以用語言表達自己的情感。"
+      }
+    },
+    {
+      "word": "Verdigris",
+      "type": "verb",
+      "meaning": "To coat or affect with verdigris (rare verb usage)",
+      "example": "The statue was verdigrised by the elements.",
+      "chinese": {
+        "meaning": "使生銅綠（少見動詞用法）",
+        "example": "雕像因風雨而生銅綠。"
+      }
+    },
+    {
       "word": "Verify",
       "type": "verb",
       "letter": "V",
@@ -130,6 +260,46 @@
       "chinese": {
         "meaning": "核實",
         "example": "請核實您的帳戶資料。"
+      }
+    },
+    {
+      "word": "Verminate",
+      "type": "verb",
+      "meaning": "To infest with vermin (rare, obsolete)",
+      "example": "The cabin was verminated and abandoned.",
+      "chinese": {
+        "meaning": "蟲害侵擾（罕見或過時用法）",
+        "example": "這小屋遭受蟲害而被遺棄。"
+      }
+    },
+    {
+      "word": "Vernacularize",
+      "type": "verb",
+      "meaning": "To translate or adapt into the vernacular language",
+      "example": "The liturgy was vernacularized after the reforms.",
+      "chinese": {
+        "meaning": "使本地語化；用白話表達",
+        "example": "改革後儀式語被轉為白話。"
+      }
+    },
+    {
+      "word": "Verse",
+      "type": "verb",
+      "meaning": "To compose or express in verse (poetry)",
+      "example": "She versed her thoughts into a poem.",
+      "chinese": {
+        "meaning": "用詩表達；作詩",
+        "example": "她把想法寫成了一首詩。"
+      }
+    },
+    {
+      "word": "Versify",
+      "type": "verb",
+      "meaning": "To turn prose into verse; to compose poetry",
+      "example": "He versified the story into a ballad.",
+      "chinese": {
+        "meaning": "作詩；把散文改寫成詩",
+        "example": "他把這故事改編成了一首民謠。"
       }
     },
     {
@@ -163,6 +333,16 @@
       "chinese": {
         "meaning": "震動",
         "example": "警報器在桌子上震動。"
+      }
+    },
+    {
+      "word": "Vie",
+      "type": "verb",
+      "meaning": "To compete eagerly with someone in order to do or achieve something",
+      "example": "Teams vied for the championship title.",
+      "chinese": {
+        "meaning": "競爭；爭奪",
+        "example": "各隊爭奪冠軍頭銜。"
       }
     },
     {
@@ -210,6 +390,26 @@
       }
     },
     {
+      "word": "Virilize",
+      "type": "verb",
+      "meaning": "To cause the development of male characteristics",
+      "example": "The hormone treatment can virilize female athletes.",
+      "chinese": {
+        "meaning": "使具男性特徵",
+        "example": "荷爾蒙治療可能使女運動員產生男性特徵。"
+      }
+    },
+    {
+      "word": "Virtualize",
+      "type": "verb",
+      "meaning": "To create a virtual version of something, such as hardware or an operating system",
+      "example": "The server was virtualized to improve efficiency.",
+      "chinese": {
+        "meaning": "虛擬化",
+        "example": "伺服器經過虛擬化以提升效率。"
+      }
+    },
+    {
       "word": "Visualise",
       "type": "verb",
       "letter": "V",
@@ -243,6 +443,36 @@
       }
     },
     {
+      "word": "Vitiate",
+      "type": "verb",
+      "meaning": "To spoil or impair the quality or efficiency of something",
+      "example": "His constant interruptions vitiated the discussion.",
+      "chinese": {
+        "meaning": "削弱；損害",
+        "example": "他不斷的打斷破壞了討論的品質。"
+      }
+    },
+    {
+      "word": "Vituperate",
+      "type": "verb",
+      "meaning": "To blame or insult someone in strong or violent language",
+      "example": "The critic vituperated the author’s latest novel.",
+      "chinese": {
+        "meaning": "責罵；痛斥",
+        "example": "評論家猛烈抨擊該作家的新小說。"
+      }
+    },
+    {
+      "word": "Vivify",
+      "type": "verb",
+      "meaning": "To enliven or animate",
+      "example": "Her storytelling vivified the characters.",
+      "chinese": {
+        "meaning": "使生動；使有生氣",
+        "example": "她的敘述讓角色栩栩如生。"
+      }
+    },
+    {
       "word": "Vocalise",
       "type": "verb",
       "letter": "V",
@@ -265,6 +495,16 @@
       }
     },
     {
+      "word": "Vociferate",
+      "type": "verb",
+      "meaning": "To shout, complain, or argue loudly or vehemently",
+      "example": "The protestors vociferated against the new policy.",
+      "chinese": {
+        "meaning": "大聲喊叫；叫嚷",
+        "example": "抗議者高聲反對新政策。"
+      }
+    },
+    {
       "word": "Voice",
       "type": "verb",
       "letter": "V",
@@ -276,6 +516,26 @@
       }
     },
     {
+      "word": "Void",
+      "type": "verb",
+      "meaning": "To cancel or invalidate something",
+      "example": "The court voided the agreement.",
+      "chinese": {
+        "meaning": "使無效；取消",
+        "example": "法院宣判該協議無效。"
+      }
+    },
+    {
+      "word": "Volley",
+      "type": "verb",
+      "meaning": "To hit or fire something rapidly or in quick succession",
+      "example": "The player volleyed the ball across the net.",
+      "chinese": {
+        "meaning": "連續發射；截擊（球）",
+        "example": "那位球員迅速將球截擊過網。"
+      }
+    },
+    {
       "word": "Volunteer",
       "type": "verb",
       "letter": "V",
@@ -284,6 +544,26 @@
       "chinese": {
         "meaning": "自願",
         "example": "他自願幫忙籌備活動。"
+      }
+    },
+    {
+      "word": "Vomit",
+      "type": "verb",
+      "meaning": "To eject the contents of the stomach through the mouth",
+      "example": "He vomited after eating spoiled food.",
+      "chinese": {
+        "meaning": "嘔吐",
+        "example": "他吃了壞掉的食物後嘔吐了。"
+      }
+    },
+    {
+      "word": "Vote",
+      "type": "verb",
+      "meaning": "To express a choice or opinion, especially by casting a ballot",
+      "example": "They voted in favor of the new law.",
+      "chinese": {
+        "meaning": "投票",
+        "example": "他們投票贊成新法律。"
       }
     },
     {
@@ -306,6 +586,36 @@
       "chinese": {
         "meaning": "賜予",
         "example": "他賜予我們一瞥他的新項目。"
+      }
+    },
+    {
+      "word": "Vow",
+      "type": "verb",
+      "meaning": "To make a serious promise or determination",
+      "example": "She vowed to complete the marathon.",
+      "chinese": {
+        "meaning": "發誓；立誓",
+        "example": "她發誓要完成馬拉松。"
+      }
+    },
+    {
+      "word": "Voyage",
+      "type": "verb",
+      "meaning": "To travel on a long journey, especially by sea or space",
+      "example": "They voyaged across the Atlantic.",
+      "chinese": {
+        "meaning": "航行；遠行",
+        "example": "他們橫渡大西洋航行。"
+      }
+    },
+    {
+      "word": "Vulcanize",
+      "type": "verb",
+      "meaning": "To treat rubber with heat and sulfur to improve durability",
+      "example": "The factory vulcanizes tires to make them stronger.",
+      "chinese": {
+        "meaning": "硫化（橡膠）",
+        "example": "工廠將輪胎進行硫化處理以增加強度。"
       }
     }
   ]

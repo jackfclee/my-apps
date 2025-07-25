@@ -221,6 +221,16 @@
       }
     },
     {
+      "word": "Knap",
+      "type": "verb",
+      "meaning": "To shape or break stone by striking it, typically in flintknapping",
+      "example": "He learned how to knap flint to make arrowheads.",
+      "chinese": {
+        "meaning": "敲打（石頭以塑形）；打製（燧石工具）",
+        "example": "他學會了如何打製燧石箭頭。"
+      }
+    },
+    {
       "word": "Knead",
       "type": "verb",
       "letter": "K",
@@ -229,6 +239,16 @@
       "chinese": {
         "meaning": "揉捏",
         "example": "她在揉麵團做麵包。"
+      }
+    },
+    {
+      "word": "Knee",
+      "type": "verb",
+      "meaning": "To strike with the knee",
+      "example": "She kneed the attacker in the stomach.",
+      "chinese": {
+        "meaning": "用膝蓋撞擊",
+        "example": "她用膝蓋頂了那個襲擊者的肚子。"
       }
     },
     {
@@ -262,6 +282,26 @@
       "chinese": {
         "meaning": "跪下",
         "example": "她跪下來繫鞋帶。"
+      }
+    },
+    {
+      "word": "Knell",
+      "type": "verb",
+      "meaning": "To ring a bell, especially for a death or funeral; to signal the end of something",
+      "example": "The church bells knelled mournfully for the deceased.",
+      "chinese": {
+        "meaning": "鳴喪鐘；象徵終結",
+        "example": "教堂的鐘聲為逝者哀悼地鳴響。"
+      }
+    },
+    {
+      "word": "Knick",
+      "type": "verb",
+      "meaning": "To make a small cut or notch; to nick (less common form)",
+      "example": "He knicked the paper with the scissors.",
+      "chinese": {
+        "meaning": "割傷；切出小缺口（較少用的形式）",
+        "example": "他用剪刀把紙割出了一個小口。"
       }
     },
     {

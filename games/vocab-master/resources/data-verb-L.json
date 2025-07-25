@@ -12,6 +12,26 @@
       }
     },
     {
+      "word": "Labor",
+      "type": "verb",
+      "meaning": "To work hard, especially physically",
+      "example": "They labored in the fields all day.",
+      "chinese": {
+        "meaning": "勞動；努力工作",
+        "example": "他們整天在田裡勞動。"
+      }
+    },
+    {
+      "word": "Lace",
+      "type": "verb",
+      "meaning": "To fasten or decorate with lace or to mix a substance with another",
+      "example": "She laced her shoes tightly.",
+      "chinese": {
+        "meaning": "繫帶；摻入",
+        "example": "她把鞋帶繫得很緊。"
+      }
+    },
+    {
       "word": "Lack",
       "type": "verb",
       "letter": "L",
@@ -20,6 +40,36 @@
       "chinese": {
         "meaning": "缺乏",
         "example": "他缺乏擔任此職位的經驗。"
+      }
+    },
+    {
+      "word": "Lacquer",
+      "type": "verb",
+      "meaning": "To coat or cover with lacquer",
+      "example": "They lacquered the wooden table for protection.",
+      "chinese": {
+        "meaning": "塗漆；上光",
+        "example": "他們給木桌上了漆以保護它。"
+      }
+    },
+    {
+      "word": "Lag",
+      "type": "verb",
+      "meaning": "To fall behind in movement, progress, or development",
+      "example": "The runner lagged behind the others.",
+      "chinese": {
+        "meaning": "落後；拖延",
+        "example": "那名跑者落後於其他人。"
+      }
+    },
+    {
+      "word": "Lambaste",
+      "type": "verb",
+      "meaning": "To criticize harshly",
+      "example": "The critics lambasted the new movie.",
+      "chinese": {
+        "meaning": "嚴厲批評",
+        "example": "評論家們嚴厲批評了這部新電影。"
       }
     },
     {
@@ -34,6 +84,26 @@
       }
     },
     {
+      "word": "Laminate",
+      "type": "verb",
+      "meaning": "To cover with a protective layer",
+      "example": "They laminated the documents to preserve them.",
+      "chinese": {
+        "meaning": "覆膜；層壓",
+        "example": "他們將文件覆膜以保存。"
+      }
+    },
+    {
+      "word": "Lampoon",
+      "type": "verb",
+      "meaning": "To publicly criticize by using ridicule or sarcasm",
+      "example": "The article lampooned the politician's policies.",
+      "chinese": {
+        "meaning": "諷刺；嘲笑",
+        "example": "這篇文章諷刺了那位政治家的政策。"
+      }
+    },
+    {
       "word": "Land",
       "type": "verb",
       "letter": "L",
@@ -45,6 +115,26 @@
       }
     },
     {
+      "word": "Landscape",
+      "type": "verb",
+      "meaning": "To make changes to the appearance of an area of land",
+      "example": "They landscaped the garden with new plants.",
+      "chinese": {
+        "meaning": "美化景觀；造景",
+        "example": "他們用新植物美化了花園。"
+      }
+    },
+    {
+      "word": "Languish",
+      "type": "verb",
+      "meaning": "To lose vitality or grow weak",
+      "example": "The plants languished without water.",
+      "chinese": {
+        "meaning": "衰弱；失去活力",
+        "example": "植物沒有水分而枯萎了。"
+      }
+    },
+    {
       "word": "Lap",
       "type": "verb",
       "letter": "L",
@@ -53,6 +143,26 @@
       "chinese": {
         "meaning": "舔食",
         "example": "貓舔著牛奶。"
+      }
+    },
+    {
+      "word": "Lapse",
+      "type": "verb",
+      "meaning": "To slip or fall from a previous standard",
+      "example": "He lapsed into silence during the meeting.",
+      "chinese": {
+        "meaning": "失誤；終止",
+        "example": "他在會議中陷入沉默。"
+      }
+    },
+    {
+      "word": "Lash",
+      "type": "verb",
+      "meaning": "To strike or beat; to fasten tightly",
+      "example": "The wind lashed the windows during the storm.",
+      "chinese": {
+        "meaning": "鞭打；繫牢",
+        "example": "風暴中風猛烈地打擊著窗戶。"
       }
     },
     {
@@ -78,6 +188,16 @@
       }
     },
     {
+      "word": "Laud",
+      "type": "verb",
+      "meaning": "To praise highly",
+      "example": "She was lauded for her brave actions.",
+      "chinese": {
+        "meaning": "讚美；稱讚",
+        "example": "她因勇敢的行為而受到讚揚。"
+      }
+    },
+    {
       "word": "Laugh",
       "type": "verb",
       "letter": "L",
@@ -100,6 +220,26 @@
       }
     },
     {
+      "word": "Launder",
+      "type": "verb",
+      "meaning": "To wash or clean; to conceal illegally obtained money",
+      "example": "They laundered the clothes after the hike.",
+      "chinese": {
+        "meaning": "洗滌；洗錢",
+        "example": "他們徒步後洗了衣服。"
+      }
+    },
+    {
+      "word": "Lavish",
+      "type": "verb",
+      "meaning": "To give or spend in great amounts",
+      "example": "She lavished gifts on her friends.",
+      "chinese": {
+        "meaning": "慷慨給予；浪費",
+        "example": "她慷慨地送禮物給朋友們。"
+      }
+    },
+    {
       "word": "Lay",
       "type": "verb",
       "letter": "L",
@@ -108,6 +248,16 @@
       "chinese": {
         "meaning": "放置",
         "example": "他把書放在桌上。"
+      }
+    },
+    {
+      "word": "Layer",
+      "type": "verb",
+      "meaning": "To arrange in layers",
+      "example": "They layered the cake with cream.",
+      "chinese": {
+        "meaning": "分層排列",
+        "example": "他們給蛋糕塗了層奶油。"
       }
     },
     {
@@ -133,6 +283,16 @@
       }
     },
     {
+      "word": "Lean",
+      "type": "verb",
+      "meaning": "To incline or rest against something",
+      "example": "She leaned against the wall while waiting.",
+      "chinese": {
+        "meaning": "傾斜；依靠",
+        "example": "她在等待時靠在牆上。"
+      }
+    },
+    {
       "word": "Leap",
       "type": "verb",
       "letter": "L",
@@ -152,6 +312,26 @@
       "chinese": {
         "meaning": "學習",
         "example": "他正在學法語。"
+      }
+    },
+    {
+      "word": "Lease",
+      "type": "verb",
+      "meaning": "To rent property or equipment",
+      "example": "They leased an apartment downtown.",
+      "chinese": {
+        "meaning": "租賃",
+        "example": "他們在市中心租了一套公寓。"
+      }
+    },
+    {
+      "word": "Leash",
+      "type": "verb",
+      "meaning": "To restrain or control, typically an animal",
+      "example": "Please leash your dog in the park.",
+      "chinese": {
+        "meaning": "束縛；控制",
+        "example": "請在公園裡拴好你的狗。"
       }
     },
     {
@@ -188,6 +368,16 @@
       }
     },
     {
+      "word": "Legalize",
+      "type": "verb",
+      "meaning": "To make something legal",
+      "example": "The government legalized the new policy.",
+      "chinese": {
+        "meaning": "使合法化",
+        "example": "政府使新政策合法化。"
+      }
+    },
+    {
       "word": "Legislate",
       "type": "verb",
       "letter": "L",
@@ -210,6 +400,16 @@
       }
     },
     {
+      "word": "Legitimize",
+      "type": "verb",
+      "meaning": "To make legitimate or acceptable",
+      "example": "They tried to legitimize their business practices.",
+      "chinese": {
+        "meaning": "使合法；使正當",
+        "example": "他們試圖使自己的商業行為合法化。"
+      }
+    },
+    {
       "word": "Lend",
       "type": "verb",
       "letter": "L",
@@ -218,6 +418,26 @@
       "chinese": {
         "meaning": "借出",
         "example": "他把書借給我。"
+      }
+    },
+    {
+      "word": "Lengthen",
+      "type": "verb",
+      "meaning": "To make something longer",
+      "example": "She lengthened the curtains to fit the window.",
+      "chinese": {
+        "meaning": "延長",
+        "example": "她把窗簾拉長以適合窗戶。"
+      }
+    },
+    {
+      "word": "Lessen",
+      "type": "verb",
+      "meaning": "To reduce in size, amount, or degree",
+      "example": "The medicine lessened the pain.",
+      "chinese": {
+        "meaning": "減少",
+        "example": "藥物減輕了疼痛。"
       }
     },
     {
@@ -243,6 +463,26 @@
       }
     },
     {
+      "word": "Leverage",
+      "type": "verb",
+      "meaning": "To use something to maximum advantage",
+      "example": "They leveraged their network to find new clients.",
+      "chinese": {
+        "meaning": "利用；發揮影響力",
+        "example": "他們利用人脈來尋找新客戶。"
+      }
+    },
+    {
+      "word": "Levy",
+      "type": "verb",
+      "meaning": "To impose or collect a tax, fee, or fine",
+      "example": "The government levied a new tax on imports.",
+      "chinese": {
+        "meaning": "徵收（稅款等）",
+        "example": "政府對進口商品徵收新稅。"
+      }
+    },
+    {
       "word": "Liberate",
       "type": "verb",
       "letter": "L",
@@ -265,6 +505,26 @@
       }
     },
     {
+      "word": "Lick",
+      "type": "verb",
+      "meaning": "To pass the tongue over something",
+      "example": "The dog licked his owner's hand.",
+      "chinese": {
+        "meaning": "舔",
+        "example": "狗舔了主人的手。"
+      }
+    },
+    {
+      "word": "Lift",
+      "type": "verb",
+      "meaning": "To raise something to a higher position",
+      "example": "He lifted the box onto the shelf.",
+      "chinese": {
+        "meaning": "提起；舉起",
+        "example": "他把箱子舉到架子上。"
+      }
+    },
+    {
       "word": "Light",
       "type": "verb",
       "letter": "L",
@@ -273,6 +533,16 @@
       "chinese": {
         "meaning": "點燃",
         "example": "她點燃了蠟燭。"
+      }
+    },
+    {
+      "word": "Lighten",
+      "type": "verb",
+      "meaning": "To make lighter in weight, color, or mood",
+      "example": "The sky lightened as dawn approached.",
+      "chinese": {
+        "meaning": "變亮；變輕；使輕鬆",
+        "example": "黎明來臨時天空變亮了。"
       }
     },
     {
@@ -287,6 +557,16 @@
       }
     },
     {
+      "word": "Limber",
+      "type": "verb",
+      "meaning": "To make flexible or supple",
+      "example": "The athletes limbered up before the race.",
+      "chinese": {
+        "meaning": "使柔軟；使靈活",
+        "example": "運動員在比賽前做柔軟操。"
+      }
+    },
+    {
       "word": "Limit",
       "type": "verb",
       "letter": "L",
@@ -298,6 +578,36 @@
       }
     },
     {
+      "word": "Limp",
+      "type": "verb",
+      "meaning": "To walk with difficulty because of injury",
+      "example": "He limped after twisting his ankle.",
+      "chinese": {
+        "meaning": "跛行",
+        "example": "他扭傷腳踝後跛行。"
+      }
+    },
+    {
+      "word": "Line",
+      "type": "verb",
+      "meaning": "To cover the inside surface of something",
+      "example": "She lined the drawer with decorative paper.",
+      "chinese": {
+        "meaning": "襯裡；排列",
+        "example": "她用裝飾紙襯裡抽屜。"
+      }
+    },
+    {
+      "word": "Linger",
+      "type": "verb",
+      "meaning": "To stay in a place longer than necessary",
+      "example": "They lingered after the party ended.",
+      "chinese": {
+        "meaning": "逗留；徘徊",
+        "example": "聚會結束後他們仍逗留。"
+      }
+    },
+    {
       "word": "Link",
       "type": "verb",
       "letter": "L",
@@ -306,6 +616,16 @@
       "chinese": {
         "meaning": "連接",
         "example": "研究將吸煙與健康問題聯繫起來。"
+      }
+    },
+    {
+      "word": "Lisp",
+      "type": "verb",
+      "meaning": "To speak with difficulty pronouncing 's' sounds",
+      "example": "The child lisped when saying certain words.",
+      "chinese": {
+        "meaning": "口齒不清地說",
+        "example": "那孩子說話時有些音發不清楚。"
       }
     },
     {
@@ -331,6 +651,16 @@
       }
     },
     {
+      "word": "Litter",
+      "type": "verb",
+      "meaning": "To scatter trash or objects carelessly",
+      "example": "People should not litter in public parks.",
+      "chinese": {
+        "meaning": "亂丟垃圾",
+        "example": "人們不應該在公園亂丟垃圾。"
+      }
+    },
+    {
       "word": "Live",
       "type": "verb",
       "letter": "L",
@@ -353,6 +683,16 @@
       }
     },
     {
+      "word": "Loaf",
+      "type": "verb",
+      "meaning": "To spend time idly or lazily",
+      "example": "He loafed around the house all day.",
+      "chinese": {
+        "meaning": "遊手好閒；閒逛",
+        "example": "他整天在家裡遊手好閒。"
+      }
+    },
+    {
       "word": "Loan",
       "type": "verb",
       "letter": "L",
@@ -361,6 +701,46 @@
       "chinese": {
         "meaning": "借出（錢）",
         "example": "銀行借錢給她買車。"
+      }
+    },
+    {
+      "word": "Loathe",
+      "type": "verb",
+      "meaning": "To feel intense dislike or disgust",
+      "example": "She loathes waking up early.",
+      "chinese": {
+        "meaning": "厭惡；憎恨",
+        "example": "她討厭早起。"
+      }
+    },
+    {
+      "word": "Lobby",
+      "type": "verb",
+      "meaning": "To try to influence lawmakers or officials",
+      "example": "Groups lobbied for environmental protection laws.",
+      "chinese": {
+        "meaning": "遊說；說服",
+        "example": "團體遊說通過環保法。"
+      }
+    },
+    {
+      "word": "Localize",
+      "type": "verb",
+      "meaning": "To adapt something for a particular place or culture",
+      "example": "They localized the software for the Chinese market.",
+      "chinese": {
+        "meaning": "本地化；使適應當地",
+        "example": "他們使軟件適應中國市場。"
+      }
+    },
+    {
+      "word": "Locate",
+      "type": "verb",
+      "meaning": "To find the position of something or someone",
+      "example": "They used GPS to locate the missing hiker.",
+      "chinese": {
+        "meaning": "定位；找到",
+        "example": "他們用 GPS 定位失蹤的登山客。"
       }
     },
     {
@@ -375,6 +755,16 @@
       }
     },
     {
+      "word": "Lodge",
+      "type": "verb",
+      "meaning": "To stay temporarily or to place something firmly",
+      "example": "They lodged a complaint with the authorities.",
+      "chinese": {
+        "meaning": "暫住；提出（申訴等）",
+        "example": "他們向有關當局提出申訴。"
+      }
+    },
+    {
       "word": "Log",
       "type": "verb",
       "letter": "L",
@@ -383,6 +773,26 @@
       "chinese": {
         "meaning": "記錄",
         "example": "她記錄了工作的時間。"
+      }
+    },
+    {
+      "word": "Loiter",
+      "type": "verb",
+      "meaning": "To move or wait somewhere without any clear purpose",
+      "example": "Students were loitering near the school gate.",
+      "chinese": {
+        "meaning": "閒晃；徘徊",
+        "example": "學生在校門口閒晃。"
+      }
+    },
+    {
+      "word": "Loll",
+      "type": "verb",
+      "meaning": "To sit or lie in a relaxed way",
+      "example": "He lolled on the sofa watching TV.",
+      "chinese": {
+        "meaning": "懶洋洋地坐（或躺）",
+        "example": "他懶洋洋地躺在沙發上看電視。"
       }
     },
     {
@@ -408,6 +818,56 @@
       }
     },
     {
+      "word": "Loom",
+      "type": "verb",
+      "meaning": "To appear as a large, often threatening shape or idea",
+      "example": "A crisis looms on the horizon.",
+      "chinese": {
+        "meaning": "隱約出現；逼近",
+        "example": "一場危機即將來臨。"
+      }
+    },
+    {
+      "word": "Loop",
+      "type": "verb",
+      "meaning": "To form or make something into a loop or loops",
+      "example": "She looped the ribbon around the box.",
+      "chinese": {
+        "meaning": "使成圈；纏繞",
+        "example": "她把絲帶纏繞在盒子上。"
+      }
+    },
+    {
+      "word": "Loosen",
+      "type": "verb",
+      "meaning": "To make something less tight or firm",
+      "example": "He loosened his tie after the meeting.",
+      "chinese": {
+        "meaning": "鬆開；放鬆",
+        "example": "開會後他鬆開了領帶。"
+      }
+    },
+    {
+      "word": "Loot",
+      "type": "verb",
+      "meaning": "To steal from a place, typically during war or chaos",
+      "example": "The stores were looted during the riot.",
+      "chinese": {
+        "meaning": "掠奪；搶劫",
+        "example": "暴動期間商店遭到搶劫。"
+      }
+    },
+    {
+      "word": "Lop",
+      "type": "verb",
+      "meaning": "To cut off branches or parts of something",
+      "example": "He lopped the dead branches off the tree.",
+      "chinese": {
+        "meaning": "修剪；砍掉",
+        "example": "他修剪了樹上的枯枝。"
+      }
+    },
+    {
       "word": "Lose",
       "type": "verb",
       "letter": "L",
@@ -416,6 +876,16 @@
       "chinese": {
         "meaning": "失去",
         "example": "她丟了鑰匙。"
+      }
+    },
+    {
+      "word": "Lounge",
+      "type": "verb",
+      "meaning": "To lie or sit in a relaxed or lazy way",
+      "example": "They lounged on the beach all afternoon.",
+      "chinese": {
+        "meaning": "閒坐；懶洋洋地躺",
+        "example": "他們整個下午都在海灘上閒坐。"
       }
     },
     {
@@ -452,6 +922,66 @@
       }
     },
     {
+      "word": "Lug",
+      "type": "verb",
+      "meaning": "To carry or drag something heavy with effort",
+      "example": "She lugged the suitcase up the stairs.",
+      "chinese": {
+        "meaning": "吃力地搬運",
+        "example": "她吃力地把行李箱搬上樓梯。"
+      }
+    },
+    {
+      "word": "Lull",
+      "type": "verb",
+      "meaning": "To calm or soothe someone, often to sleep",
+      "example": "The mother's singing lulled the baby to sleep.",
+      "chinese": {
+        "meaning": "使安靜；使入睡",
+        "example": "媽媽唱歌哄嬰兒入睡。"
+      }
+    },
+    {
+      "word": "Lumber",
+      "type": "verb",
+      "meaning": "To move in a slow, heavy, awkward way",
+      "example": "The bear lumbered through the forest.",
+      "chinese": {
+        "meaning": "笨重地移動",
+        "example": "那隻熊在森林中笨重地走動。"
+      }
+    },
+    {
+      "word": "Luminesce",
+      "type": "verb",
+      "meaning": "To emit light without heat, such as from a chemical reaction",
+      "example": "The jellyfish luminesced in the dark water.",
+      "chinese": {
+        "meaning": "發冷光",
+        "example": "水母在黑暗中發出冷光。"
+      }
+    },
+    {
+      "word": "Lunch",
+      "type": "verb",
+      "meaning": "To eat lunch",
+      "example": "They lunched together at a nearby café.",
+      "chinese": {
+        "meaning": "吃午餐",
+        "example": "他們在附近的咖啡館共進午餐。"
+      }
+    },
+    {
+      "word": "Lunge",
+      "type": "verb",
+      "meaning": "To make a sudden forward movement",
+      "example": "He lunged at the ball and missed.",
+      "chinese": {
+        "meaning": "衝；撲",
+        "example": "他衝向球但沒接到。"
+      }
+    },
+    {
       "word": "Lure",
       "type": "verb",
       "letter": "L",
@@ -460,6 +990,26 @@
       "chinese": {
         "meaning": "引誘",
         "example": "廣告吸引顧客來店裡。"
+      }
+    },
+    {
+      "word": "Lurk",
+      "type": "verb",
+      "meaning": "To stay hidden, often with a bad intention",
+      "example": "A thief was lurking in the shadows.",
+      "chinese": {
+        "meaning": "潛伏；潛藏",
+        "example": "有個小偷潛伏在陰影中。"
+      }
+    },
+    {
+      "word": "Lust",
+      "type": "verb",
+      "meaning": "To have a strong desire, especially sexual or for power",
+      "example": "He lusted for fame and fortune.",
+      "chinese": {
+        "meaning": "渴望；貪求",
+        "example": "他渴望名聲與財富。"
       }
     },
     {

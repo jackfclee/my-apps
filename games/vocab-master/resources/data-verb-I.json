@@ -1,6 +1,26 @@
 {
   "words": [
     {
+      "word": "Ice",
+      "type": "verb",
+      "meaning": "To cover or decorate with icing; to freeze or cool something",
+      "example": "She iced the cake with chocolate frosting.",
+      "chinese": {
+        "meaning": "上糖霜；冷卻",
+        "example": "她在蛋糕上塗上巧克力糖霜。"
+      }
+    },
+    {
+      "word": "Idealize",
+      "type": "verb",
+      "meaning": "To regard or represent something as perfect or better than reality",
+      "example": "He tends to idealize his childhood memories.",
+      "chinese": {
+        "meaning": "理想化",
+        "example": "他傾向於理想化童年的回憶。"
+      }
+    },
+    {
       "word": "Identify",
       "type": "verb",
       "letter": "I",
@@ -9,6 +29,16 @@
       "chinese": {
         "meaning": "識別",
         "example": "證人能夠識別嫌疑人。"
+      }
+    },
+    {
+      "word": "Idle",
+      "type": "verb",
+      "meaning": "To spend time doing nothing; to operate without being active",
+      "example": "The car engine idled while we waited.",
+      "chinese": {
+        "meaning": "閒置；空轉",
+        "example": "我們等候時汽車引擎在空轉。"
       }
     },
     {
@@ -34,6 +64,16 @@
       }
     },
     {
+      "word": "Illuminate",
+      "type": "verb",
+      "meaning": "To light up; to make something clear or easier to understand",
+      "example": "The lanterns illuminated the dark path.",
+      "chinese": {
+        "meaning": "照亮；闡明",
+        "example": "燈籠照亮了黑暗的小路。"
+      }
+    },
+    {
       "word": "Illustrate",
       "type": "verb",
       "letter": "I",
@@ -56,6 +96,16 @@
       }
     },
     {
+      "word": "Imbibe",
+      "type": "verb",
+      "meaning": "To drink; to absorb or take in ideas or knowledge",
+      "example": "They imbibed the local customs during their stay.",
+      "chinese": {
+        "meaning": "飲；吸收（知識、思想）",
+        "example": "他們在停留期間吸收了當地的風俗。"
+      }
+    },
+    {
       "word": "Imitate",
       "type": "verb",
       "letter": "I",
@@ -64,6 +114,36 @@
       "chinese": {
         "meaning": "模仿",
         "example": "孩子們經常模仿父母。"
+      }
+    },
+    {
+      "word": "Immerse",
+      "type": "verb",
+      "meaning": "To involve deeply; to submerge in liquid",
+      "example": "She immersed herself in her studies.",
+      "chinese": {
+        "meaning": "沉浸；浸入",
+        "example": "她全心投入學習中。"
+      }
+    },
+    {
+      "word": "Immigrate",
+      "type": "verb",
+      "meaning": "To come to live permanently in a foreign country",
+      "example": "They immigrated to Australia in the 1990s.",
+      "chinese": {
+        "meaning": "移民（入境）",
+        "example": "他們在1990年代移民到澳洲。"
+      }
+    },
+    {
+      "word": "Immobilize",
+      "type": "verb",
+      "meaning": "To prevent movement; to make something or someone immobile",
+      "example": "The doctor immobilized her leg with a cast.",
+      "chinese": {
+        "meaning": "使固定；使不能動彈",
+        "example": "醫生用石膏將她的腿固定。"
       }
     },
     {
@@ -78,6 +158,66 @@
       }
     },
     {
+      "word": "Impeach",
+      "type": "verb",
+      "meaning": "To charge a public official with misconduct in office",
+      "example": "The president was impeached by the legislature.",
+      "chinese": {
+        "meaning": "彈劾",
+        "example": "總統被立法機構彈劾了。"
+      }
+    },
+    {
+      "word": "Impede",
+      "type": "verb",
+      "meaning": "To hinder or obstruct the progress of something",
+      "example": "Heavy traffic impeded our journey.",
+      "chinese": {
+        "meaning": "阻礙；妨礙",
+        "example": "交通擁堵妨礙了我們的行程。"
+      }
+    },
+    {
+      "word": "Impel",
+      "type": "verb",
+      "meaning": "To drive or urge someone to do something",
+      "example": "Her conscience impelled her to speak the truth.",
+      "chinese": {
+        "meaning": "驅使；推動",
+        "example": "她的良心驅使她說出真相。"
+      }
+    },
+    {
+      "word": "Imperil",
+      "type": "verb",
+      "meaning": "To put something or someone in danger",
+      "example": "His reckless actions imperiled the entire mission.",
+      "chinese": {
+        "meaning": "使陷入危險",
+        "example": "他魯莽的行為讓整個任務陷入危險。"
+      }
+    },
+    {
+      "word": "Impersonate",
+      "type": "verb",
+      "meaning": "To pretend to be another person",
+      "example": "He was arrested for impersonating a police officer.",
+      "chinese": {
+        "meaning": "冒充；模仿",
+        "example": "他因冒充警察被逮捕。"
+      }
+    },
+    {
+      "word": "Implant",
+      "type": "verb",
+      "meaning": "To insert or fix firmly in the body or mind",
+      "example": "A tracking chip was implanted under the skin.",
+      "chinese": {
+        "meaning": "植入；灌輸",
+        "example": "一個追蹤晶片被植入皮膚下。"
+      }
+    },
+    {
       "word": "Implement",
       "type": "verb",
       "letter": "I",
@@ -86,6 +226,36 @@
       "chinese": {
         "meaning": "實施",
         "example": "學校實施了一個新的評分系統。"
+      }
+    },
+    {
+      "word": "Implicate",
+      "type": "verb",
+      "meaning": "To show someone is involved in a crime or wrongdoing",
+      "example": "He was implicated in the bribery scandal.",
+      "chinese": {
+        "meaning": "牽連；涉及",
+        "example": "他被牽連進賄賂醜聞。"
+      }
+    },
+    {
+      "word": "Implode",
+      "type": "verb",
+      "meaning": "To collapse inward violently",
+      "example": "The building imploded after the demolition charge.",
+      "chinese": {
+        "meaning": "向內爆炸；崩潰",
+        "example": "大樓在爆破後內部崩塌。"
+      }
+    },
+    {
+      "word": "Implore",
+      "type": "verb",
+      "meaning": "To beg earnestly or desperately",
+      "example": "She implored him for forgiveness.",
+      "chinese": {
+        "meaning": "懇求；哀求",
+        "example": "她懇求他原諒。"
       }
     },
     {
@@ -111,6 +281,16 @@
       }
     },
     {
+      "word": "Importune",
+      "type": "verb",
+      "meaning": "To harass someone persistently for something",
+      "example": "The salesman importuned him to buy insurance.",
+      "chinese": {
+        "meaning": "糾纏；強求",
+        "example": "那名推銷員不斷強求他買保險。"
+      }
+    },
+    {
       "word": "Impose",
       "type": "verb",
       "letter": "I",
@@ -119,6 +299,26 @@
       "chinese": {
         "meaning": "強加",
         "example": "政府強加了新規定。"
+      }
+    },
+    {
+      "word": "Impound",
+      "type": "verb",
+      "meaning": "To seize and take legal custody of something",
+      "example": "The police impounded the suspect’s car.",
+      "chinese": {
+        "meaning": "扣押；沒收",
+        "example": "警方扣押了嫌犯的汽車。"
+      }
+    },
+    {
+      "word": "Impoverish",
+      "type": "verb",
+      "meaning": "To make someone or something poor or weak",
+      "example": "The war impoverished the entire region.",
+      "chinese": {
+        "meaning": "使貧困；使惡化",
+        "example": "戰爭使整個地區陷入貧困。"
       }
     },
     {
@@ -133,6 +333,26 @@
       }
     },
     {
+      "word": "Imprint",
+      "type": "verb",
+      "meaning": "To impress or stamp a mark or idea firmly on something",
+      "example": "The experience was deeply imprinted on her memory.",
+      "chinese": {
+        "meaning": "印記；銘刻",
+        "example": "這段經歷深深地銘刻在她的記憶中。"
+      }
+    },
+    {
+      "word": "Imprison",
+      "type": "verb",
+      "meaning": "To confine someone in prison",
+      "example": "He was imprisoned for robbery.",
+      "chinese": {
+        "meaning": "監禁",
+        "example": "他因搶劫被監禁。"
+      }
+    },
+    {
       "word": "Improve",
       "type": "verb",
       "letter": "I",
@@ -141,6 +361,136 @@
       "chinese": {
         "meaning": "改善",
         "example": "上課後，他的寫作有所改善。"
+      }
+    },
+    {
+      "word": "Improvise",
+      "type": "verb",
+      "meaning": "To perform or create something without preparation",
+      "example": "She improvised a speech on the spot.",
+      "chinese": {
+        "meaning": "即興創作；即席發言",
+        "example": "她當場即興發表了一篇演講。"
+      }
+    },
+    {
+      "word": "Impugn",
+      "type": "verb",
+      "meaning": "To challenge or call into question the truth or integrity of something",
+      "example": "The lawyer impugned the witness's credibility.",
+      "chinese": {
+        "meaning": "質疑；責難",
+        "example": "律師質疑證人的可信度。"
+      }
+    },
+    {
+      "word": "Impute",
+      "type": "verb",
+      "meaning": "To attribute something, especially a fault or wrongdoing, to someone",
+      "example": "They imputed the accident to driver error.",
+      "chinese": {
+        "meaning": "歸咎；歸因",
+        "example": "他們將這場事故歸咎於駕駛者失誤。"
+      }
+    },
+    {
+      "word": "Inactivate",
+      "type": "verb",
+      "meaning": "To make something inactive or non-functional",
+      "example": "The virus was inactivated by heat.",
+      "chinese": {
+        "meaning": "使不活躍；使失效",
+        "example": "病毒被高溫處理後失效。"
+      }
+    },
+    {
+      "word": "Inaugurate",
+      "type": "verb",
+      "meaning": "To begin or introduce something officially, especially a policy or period",
+      "example": "The mayor inaugurated the new city hall.",
+      "chinese": {
+        "meaning": "正式開始；為...舉行就職典禮",
+        "example": "市長為新市政廳舉行了落成典禮。"
+      }
+    },
+    {
+      "word": "Incapacitate",
+      "type": "verb",
+      "meaning": "To make someone or something unable to function or work normally",
+      "example": "The injury incapacitated him for several weeks.",
+      "chinese": {
+        "meaning": "使無能力；使喪失行動能力",
+        "example": "這次受傷讓他幾週無法行動。"
+      }
+    },
+    {
+      "word": "Incarcerate",
+      "type": "verb",
+      "meaning": "To put someone in prison",
+      "example": "The criminal was incarcerated for life.",
+      "chinese": {
+        "meaning": "監禁；關押",
+        "example": "這名罪犯被終身監禁。"
+      }
+    },
+    {
+      "word": "Incense",
+      "type": "verb",
+      "meaning": "To make someone very angry",
+      "example": "Her rude comments incensed him.",
+      "chinese": {
+        "meaning": "激怒",
+        "example": "她無禮的評論激怒了他。"
+      }
+    },
+    {
+      "word": "Incentivize",
+      "type": "verb",
+      "meaning": "To provide incentives or motivation for someone to do something",
+      "example": "The company incentivized employees with bonuses.",
+      "chinese": {
+        "meaning": "提供誘因；激勵",
+        "example": "公司以獎金激勵員工。"
+      }
+    },
+    {
+      "word": "Incinerate",
+      "type": "verb",
+      "meaning": "To destroy something completely by burning",
+      "example": "The waste was incinerated at a high temperature.",
+      "chinese": {
+        "meaning": "焚化；燒毀",
+        "example": "廢棄物在高溫下被焚燒。"
+      }
+    },
+    {
+      "word": "Incise",
+      "type": "verb",
+      "meaning": "To cut into something, especially with precision",
+      "example": "The surgeon incised the skin carefully.",
+      "chinese": {
+        "meaning": "切入；雕刻",
+        "example": "外科醫生小心地切開皮膚。"
+      }
+    },
+    {
+      "word": "Incite",
+      "type": "verb",
+      "meaning": "To provoke or stir up violence or unlawful behavior",
+      "example": "The speech incited the crowd to protest.",
+      "chinese": {
+        "meaning": "煽動；激起",
+        "example": "演講煽動了群眾進行抗議。"
+      }
+    },
+    {
+      "word": "Incline",
+      "type": "verb",
+      "meaning": "To have a tendency or preference; to bend or tilt",
+      "example": "He inclined his head in agreement.",
+      "chinese": {
+        "meaning": "傾向；傾斜",
+        "example": "他點頭表示同意。"
       }
     },
     {
@@ -177,6 +527,86 @@
       }
     },
     {
+      "word": "Incriminate",
+      "type": "verb",
+      "meaning": "To make someone appear guilty of a crime or wrongdoing",
+      "example": "The evidence could incriminate him.",
+      "chinese": {
+        "meaning": "牽連；控告",
+        "example": "這項證據可能會使他被控罪。"
+      }
+    },
+    {
+      "word": "Incubate",
+      "type": "verb",
+      "meaning": "To keep something at the right conditions for development, especially eggs or ideas",
+      "example": "The eggs must be incubated for 21 days.",
+      "chinese": {
+        "meaning": "孵化；培養",
+        "example": "蛋需要孵化21天。"
+      }
+    },
+    {
+      "word": "Inculcate",
+      "type": "verb",
+      "meaning": "To teach persistently and repeatedly to instill an idea or habit",
+      "example": "Parents inculcate good manners in their children.",
+      "chinese": {
+        "meaning": "灌輸；反覆教導",
+        "example": "父母向孩子灌輸良好的禮儀。"
+      }
+    },
+    {
+      "word": "Incur",
+      "type": "verb",
+      "meaning": "To become subject to something, usually unpleasant or unwelcome",
+      "example": "He incurred heavy debts after the investment failed.",
+      "chinese": {
+        "meaning": "招致；承擔",
+        "example": "投資失敗後他背負了巨額債務。"
+      }
+    },
+    {
+      "word": "Indebt",
+      "type": "verb",
+      "meaning": "To make someone owe money or gratitude",
+      "example": "His kindness indebted me for life.",
+      "chinese": {
+        "meaning": "使負債；使感激",
+        "example": "他的善意讓我終身感激。"
+      }
+    },
+    {
+      "word": "Indemnify",
+      "type": "verb",
+      "meaning": "To compensate for harm or loss; to secure against legal responsibility",
+      "example": "The company agreed to indemnify the workers for injuries sustained on the job.",
+      "chinese": {
+        "meaning": "賠償；保障免於法律責任",
+        "example": "公司同意對工作中受傷的工人進行賠償。"
+      }
+    },
+    {
+      "word": "Indent",
+      "type": "verb",
+      "meaning": "To make a space at the beginning of a line of text; to contract for goods or services",
+      "example": "Please indent the first line of each paragraph.",
+      "chinese": {
+        "meaning": "縮排；訂購（商品）",
+        "example": "請將每段的第一行縮排。"
+      }
+    },
+    {
+      "word": "Index",
+      "type": "verb",
+      "meaning": "To list or register systematically; to adjust according to an index",
+      "example": "The book is indexed by topic and author.",
+      "chinese": {
+        "meaning": "編索引；根據指數調整",
+        "example": "這本書按主題和作者編有索引。"
+      }
+    },
+    {
       "word": "Indicate",
       "type": "verb",
       "letter": "I",
@@ -188,6 +618,36 @@
       }
     },
     {
+      "word": "Indict",
+      "type": "verb",
+      "meaning": "To formally accuse someone of a crime",
+      "example": "The grand jury indicted the suspect for fraud.",
+      "chinese": {
+        "meaning": "起訴；控告",
+        "example": "大陪審團對嫌疑人提出欺詐指控。"
+      }
+    },
+    {
+      "word": "Individualize",
+      "type": "verb",
+      "meaning": "To make something distinctive or personalized",
+      "example": "The program individualizes learning plans for each student.",
+      "chinese": {
+        "meaning": "使個別化；使獨特化",
+        "example": "該方案為每位學生制定個性化學習計劃。"
+      }
+    },
+    {
+      "word": "Indoctrinate",
+      "type": "verb",
+      "meaning": "To teach a person or group to accept a set of beliefs uncritically",
+      "example": "The cult tried to indoctrinate new members.",
+      "chinese": {
+        "meaning": "灌輸（思想、信仰）",
+        "example": "該邪教試圖灌輸新成員思想。"
+      }
+    },
+    {
       "word": "Induce",
       "type": "verb",
       "letter": "I",
@@ -196,6 +656,66 @@
       "chinese": {
         "meaning": "引起",
         "example": "這種藥可能引起困倦。"
+      }
+    },
+    {
+      "word": "Indulge",
+      "type": "verb",
+      "meaning": "To allow oneself or others to enjoy something pleasurable",
+      "example": "She indulged in a slice of chocolate cake.",
+      "chinese": {
+        "meaning": "縱容；沉溺於",
+        "example": "她沉溺於一片巧克力蛋糕。"
+      }
+    },
+    {
+      "word": "Infiltrate",
+      "type": "verb",
+      "meaning": "To secretly enter or gain access to a group or place",
+      "example": "The spy infiltrated the enemy's headquarters.",
+      "chinese": {
+        "meaning": "滲透；秘密潛入",
+        "example": "間諜潛入敵方總部。"
+      }
+    },
+    {
+      "word": "Inflame",
+      "type": "verb",
+      "meaning": "To provoke strong feelings; to cause inflammation",
+      "example": "His speech inflamed public opinion.",
+      "chinese": {
+        "meaning": "激起（感情）；使發炎",
+        "example": "他的演講激起了公眾輿論。"
+      }
+    },
+    {
+      "word": "Inflate",
+      "type": "verb",
+      "meaning": "To fill with air or gas; to increase in size or price",
+      "example": "They inflated the tires before the trip.",
+      "chinese": {
+        "meaning": "充氣；膨脹；物價上漲",
+        "example": "他們在旅行前給輪胎充氣。"
+      }
+    },
+    {
+      "word": "Inflect",
+      "type": "verb",
+      "meaning": "To change the form of a word to express different grammatical features",
+      "example": "In English, verbs inflect for tense.",
+      "chinese": {
+        "meaning": "詞形變化；屈折變化",
+        "example": "英語動詞有時態的詞形變化。"
+      }
+    },
+    {
+      "word": "Inflict",
+      "type": "verb",
+      "meaning": "To cause something unpleasant or painful to be suffered",
+      "example": "The storm inflicted heavy damage on the town.",
+      "chinese": {
+        "meaning": "造成（傷害、損失）",
+        "example": "風暴對小鎮造成了嚴重損害。"
       }
     },
     {
@@ -221,6 +741,36 @@
       }
     },
     {
+      "word": "Infuriate",
+      "type": "verb",
+      "meaning": "To make someone extremely angry",
+      "example": "His rude behavior infuriated the teacher.",
+      "chinese": {
+        "meaning": "激怒",
+        "example": "他的無禮行為激怒了老師。"
+      }
+    },
+    {
+      "word": "Infuse",
+      "type": "verb",
+      "meaning": "To fill or soak something with a substance or quality",
+      "example": "She infused the tea with herbs.",
+      "chinese": {
+        "meaning": "注入；灌輸",
+        "example": "她在茶中加入了香草。"
+      }
+    },
+    {
+      "word": "Ingest",
+      "type": "verb",
+      "meaning": "To take food, drink, or other substances into the body",
+      "example": "The patient was advised not to ingest solid food.",
+      "chinese": {
+        "meaning": "攝取；吞嚥",
+        "example": "醫生建議病人不要攝取固體食物。"
+      }
+    },
+    {
       "word": "Ingrain",
       "type": "verb",
       "letter": "I",
@@ -232,6 +782,16 @@
       }
     },
     {
+      "word": "Inhale",
+      "type": "verb",
+      "meaning": "To breathe air or other substances into the lungs",
+      "example": "She inhaled the fresh mountain air deeply.",
+      "chinese": {
+        "meaning": "吸入",
+        "example": "她深深吸了一口新鮮的山間空氣。"
+      }
+    },
+    {
       "word": "Inherit",
       "type": "verb",
       "letter": "I",
@@ -240,6 +800,16 @@
       "chinese": {
         "meaning": "繼承",
         "example": "她從祖母那裡繼承了這棟房子。"
+      }
+    },
+    {
+      "word": "Inhibit",
+      "type": "verb",
+      "meaning": "To hinder or restrain an action or process",
+      "example": "Certain chemicals inhibit plant growth.",
+      "chinese": {
+        "meaning": "抑制；限制",
+        "example": "某些化學物質抑制植物生長。"
       }
     },
     {
@@ -284,6 +854,26 @@
       "chinese": {
         "meaning": "鑲嵌",
         "example": "工匠在桌子上鑲嵌了珍珠母。"
+      }
+    },
+    {
+      "word": "Innovate",
+      "type": "verb",
+      "meaning": "To introduce new ideas, methods, or products",
+      "example": "The company continues to innovate in technology.",
+      "chinese": {
+        "meaning": "創新",
+        "example": "該公司持續在技術領域創新。"
+      }
+    },
+    {
+      "word": "Inoculate",
+      "type": "verb",
+      "meaning": "To introduce a vaccine into the body to produce immunity",
+      "example": "Doctors inoculated the children against measles.",
+      "chinese": {
+        "meaning": "接種疫苗",
+        "example": "醫生為孩子們接種麻疹疫苗。"
       }
     },
     {
@@ -353,6 +943,16 @@
       }
     },
     {
+      "word": "Inspect",
+      "type": "verb",
+      "meaning": "To carefully examine or check something",
+      "example": "The engineer inspected the bridge for cracks.",
+      "chinese": {
+        "meaning": "檢查；視察",
+        "example": "工程師檢查橋梁是否有裂縫。"
+      }
+    },
+    {
       "word": "Inspire",
       "type": "verb",
       "letter": "I",
@@ -375,6 +975,36 @@
       }
     },
     {
+      "word": "Instigate",
+      "type": "verb",
+      "meaning": "To provoke or stir up an action or event",
+      "example": "The politician instigated a debate on education reform.",
+      "chinese": {
+        "meaning": "煽動；發起",
+        "example": "政治家發起了關於教育改革的辯論。"
+      }
+    },
+    {
+      "word": "Instill",
+      "type": "verb",
+      "meaning": "To gradually introduce an idea or attitude",
+      "example": "Parents should instill good values in their children.",
+      "chinese": {
+        "meaning": "逐漸灌輸",
+        "example": "父母應該逐漸灌輸孩子良好的價值觀。"
+      }
+    },
+    {
+      "word": "Institute",
+      "type": "verb",
+      "meaning": "To establish or initiate a system, rule, or practice",
+      "example": "The government instituted new policies for environmental protection.",
+      "chinese": {
+        "meaning": "建立；制定",
+        "example": "政府制定了新的環境保護政策。"
+      }
+    },
+    {
       "word": "Instruct",
       "type": "verb",
       "letter": "I",
@@ -386,6 +1016,16 @@
       }
     },
     {
+      "word": "Insulate",
+      "type": "verb",
+      "meaning": "To protect from heat, cold, or noise; to isolate",
+      "example": "They insulated the house to reduce energy costs.",
+      "chinese": {
+        "meaning": "隔絕；隔熱",
+        "example": "他們為房子做了隔熱處理以降低能源成本。"
+      }
+    },
+    {
       "word": "Insult",
       "type": "verb",
       "letter": "I",
@@ -394,6 +1034,16 @@
       "chinese": {
         "meaning": "侮辱",
         "example": "他無視她的意見，侮辱了她。"
+      }
+    },
+    {
+      "word": "Insure",
+      "type": "verb",
+      "meaning": "To provide or obtain insurance coverage",
+      "example": "She insured her car against theft and accidents.",
+      "chinese": {
+        "meaning": "保險；投保",
+        "example": "她為汽車投保防盜和事故險。"
       }
     },
     {
@@ -430,6 +1080,26 @@
       }
     },
     {
+      "word": "Intercept",
+      "type": "verb",
+      "meaning": "To stop or seize something on the way from one place to another",
+      "example": "The police intercepted the stolen goods before they reached the market.",
+      "chinese": {
+        "meaning": "攔截；截取",
+        "example": "警方在贓物到達市場前將其攔截。"
+      }
+    },
+    {
+      "word": "Interchange",
+      "type": "verb",
+      "meaning": "To exchange or swap places, ideas, or things",
+      "example": "The two companies interchanged technology and expertise.",
+      "chinese": {
+        "meaning": "互換；交流",
+        "example": "兩家公司交換技術和專業知識。"
+      }
+    },
+    {
       "word": "Interconnect",
       "type": "verb",
       "letter": "I",
@@ -452,6 +1122,26 @@
       }
     },
     {
+      "word": "Interdict",
+      "type": "verb",
+      "meaning": "To prohibit or forbid by authority",
+      "example": "The government interdicted the use of harmful chemicals.",
+      "chinese": {
+        "meaning": "禁止；取締",
+        "example": "政府禁止使用有害化學品。"
+      }
+    },
+    {
+      "word": "Interface",
+      "type": "verb",
+      "meaning": "To interact or connect with another system or group",
+      "example": "The software interfaces with various hardware devices.",
+      "chinese": {
+        "meaning": "連接；交互作用",
+        "example": "該軟件與多種硬件設備相連接。"
+      }
+    },
+    {
       "word": "Interfere",
       "type": "verb",
       "letter": "I",
@@ -460,6 +1150,106 @@
       "chinese": {
         "meaning": "干涉",
         "example": "不要干涉他們的談話。"
+      }
+    },
+    {
+      "word": "Interject",
+      "type": "verb",
+      "meaning": "To insert a comment or remark abruptly into a conversation",
+      "example": "She interjected to clarify a misunderstanding.",
+      "chinese": {
+        "meaning": "插話；插入評論",
+        "example": "她插話澄清了一個誤會。"
+      }
+    },
+    {
+      "word": "Interlace",
+      "type": "verb",
+      "meaning": "To cross or weave together",
+      "example": "The vines interlaced around the trellis.",
+      "chinese": {
+        "meaning": "交織；編織",
+        "example": "藤蔓交織在格架上。"
+      }
+    },
+    {
+      "word": "Interleave",
+      "type": "verb",
+      "meaning": "To insert something between layers or parts",
+      "example": "The pages were interleaved with protective sheets.",
+      "chinese": {
+        "meaning": "交錯插入",
+        "example": "頁面間插有保護紙。"
+      }
+    },
+    {
+      "word": "Interlink",
+      "type": "verb",
+      "meaning": "To connect or link together",
+      "example": "The company's networks are interlinked globally.",
+      "chinese": {
+        "meaning": "互相連接",
+        "example": "公司的網絡在全球互相連接。"
+      }
+    },
+    {
+      "word": "Interlock",
+      "type": "verb",
+      "meaning": "To engage or lock together",
+      "example": "The gears interlock to transmit motion.",
+      "chinese": {
+        "meaning": "互鎖；咬合",
+        "example": "齒輪互鎖以傳遞運動。"
+      }
+    },
+    {
+      "word": "Interlope",
+      "type": "verb",
+      "meaning": "To intrude or interfere in a place or situation",
+      "example": "They accused him of interloping in their business.",
+      "chinese": {
+        "meaning": "干涉；闖入",
+        "example": "他們指責他干涉他們的生意。"
+      }
+    },
+    {
+      "word": "Intermarry",
+      "type": "verb",
+      "meaning": "To marry between different groups or communities",
+      "example": "The families decided to intermarry to strengthen ties.",
+      "chinese": {
+        "meaning": "異族通婚；聯姻",
+        "example": "兩個家族決定通婚以加強聯繫。"
+      }
+    },
+    {
+      "word": "Intermix",
+      "type": "verb",
+      "meaning": "To mix or blend together",
+      "example": "The two colors were intermixed to create a new shade.",
+      "chinese": {
+        "meaning": "混合；交織",
+        "example": "兩種顏色混合以創造新的色調。"
+      }
+    },
+    {
+      "word": "Internalize",
+      "type": "verb",
+      "meaning": "To incorporate ideas or attitudes into one's own thinking",
+      "example": "She internalized the values taught by her parents.",
+      "chinese": {
+        "meaning": "內化；吸收",
+        "example": "她內化了父母教導的價值觀。"
+      }
+    },
+    {
+      "word": "Interpose",
+      "type": "verb",
+      "meaning": "To place or insert between one thing and another",
+      "example": "He interposed a comment during the discussion.",
+      "chinese": {
+        "meaning": "插入；干預",
+        "example": "他在討論中插入了一句評論。"
       }
     },
     {
@@ -485,6 +1275,16 @@
       }
     },
     {
+      "word": "Interrogate",
+      "type": "verb",
+      "meaning": "To question formally or aggressively",
+      "example": "The police interrogated the suspect for hours.",
+      "chinese": {
+        "meaning": "訊問；審問",
+        "example": "警方對嫌疑人進行了數小時的審問。"
+      }
+    },
+    {
       "word": "Interrupt",
       "type": "verb",
       "letter": "I",
@@ -493,6 +1293,26 @@
       "chinese": {
         "meaning": "打斷",
         "example": "抱歉打斷一下，我有個問題。"
+      }
+    },
+    {
+      "word": "Intersperse",
+      "type": "verb",
+      "meaning": "To scatter or place at intervals among other things",
+      "example": "The book is interspersed with beautiful illustrations.",
+      "chinese": {
+        "meaning": "散布；穿插",
+        "example": "這本書中穿插著精美的插圖。"
+      }
+    },
+    {
+      "word": "Intertwine",
+      "type": "verb",
+      "meaning": "To twist or weave together",
+      "example": "The vines intertwined around the tree branches.",
+      "chinese": {
+        "meaning": "交織；纏繞",
+        "example": "藤蔓纏繞在樹枝上。"
       }
     },
     {
@@ -507,6 +1327,16 @@
       }
     },
     {
+      "word": "Interview",
+      "type": "verb",
+      "meaning": "To question someone formally, typically for a job or investigation",
+      "example": "She was interviewed for the position yesterday.",
+      "chinese": {
+        "meaning": "面試；採訪",
+        "example": "她昨天參加了該職位的面試。"
+      }
+    },
+    {
       "word": "Interweave",
       "type": "verb",
       "letter": "I",
@@ -518,6 +1348,56 @@
       }
     },
     {
+      "word": "Intimate",
+      "type": "verb",
+      "meaning": "To imply or hint at something subtly",
+      "example": "He intimated that the project might be delayed.",
+      "chinese": {
+        "meaning": "暗示；提示",
+        "example": "他暗示該項目可能會延遲。"
+      }
+    },
+    {
+      "word": "Intimidate",
+      "type": "verb",
+      "meaning": "To frighten or threaten to make someone do something",
+      "example": "They tried to intimidate the witnesses.",
+      "chinese": {
+        "meaning": "恐嚇；威脅",
+        "example": "他們試圖恐嚇證人。"
+      }
+    },
+    {
+      "word": "Intone",
+      "type": "verb",
+      "meaning": "To say or recite with a particular tone or rhythm",
+      "example": "The priest intoned the prayers solemnly.",
+      "chinese": {
+        "meaning": "吟唱；誦讀",
+        "example": "牧師莊嚴地誦讀祈禱文。"
+      }
+    },
+    {
+      "word": "Intoxicate",
+      "type": "verb",
+      "meaning": "To make someone drunk or exhilarated",
+      "example": "The wine intoxicated the guests quickly.",
+      "chinese": {
+        "meaning": "使陶醉；使醉酒",
+        "example": "葡萄酒很快使客人們陶醉。"
+      }
+    },
+    {
+      "word": "Intrigue",
+      "type": "verb",
+      "meaning": "To arouse curiosity or interest",
+      "example": "The mysterious story intrigued many readers.",
+      "chinese": {
+        "meaning": "引起興趣；激起好奇心",
+        "example": "這個神秘的故事引起了許多讀者的興趣。"
+      }
+    },
+    {
       "word": "Introduce",
       "type": "verb",
       "letter": "I",
@@ -526,6 +1406,46 @@
       "chinese": {
         "meaning": "介紹",
         "example": "讓我介紹你認識我的朋友。"
+      }
+    },
+    {
+      "word": "Intrude",
+      "type": "verb",
+      "meaning": "To enter without permission or invitation",
+      "example": "He intruded on their private conversation.",
+      "chinese": {
+        "meaning": "侵入；闖入",
+        "example": "他闖入了他們的私人談話。"
+      }
+    },
+    {
+      "word": "Inundate",
+      "type": "verb",
+      "meaning": "To flood or overwhelm",
+      "example": "The town was inundated with heavy rain.",
+      "chinese": {
+        "meaning": "淹沒；泛濫",
+        "example": "該鎮被大雨淹沒。"
+      }
+    },
+    {
+      "word": "Inure",
+      "type": "verb",
+      "meaning": "To become accustomed to something unpleasant",
+      "example": "She was inured to the harsh conditions after years of work.",
+      "chinese": {
+        "meaning": "使習慣（不愉快的事物）",
+        "example": "多年工作後，她習慣了惡劣的條件。"
+      }
+    },
+    {
+      "word": "Invade",
+      "type": "verb",
+      "meaning": "To enter forcefully or intrusively",
+      "example": "The army invaded the neighboring country.",
+      "chinese": {
+        "meaning": "入侵；侵略",
+        "example": "軍隊入侵了鄰國。"
       }
     },
     {
@@ -548,6 +1468,16 @@
       "chinese": {
         "meaning": "發明",
         "example": "他發明了一種新型引擎。"
+      }
+    },
+    {
+      "word": "Invert",
+      "type": "verb",
+      "meaning": "To turn upside down or inside out",
+      "example": "Invert the bottle before use.",
+      "chinese": {
+        "meaning": "倒轉；顛倒",
+        "example": "使用前將瓶子倒轉。"
       }
     },
     {
@@ -595,6 +1525,16 @@
       }
     },
     {
+      "word": "Invoke",
+      "type": "verb",
+      "meaning": "To call on for help or support",
+      "example": "He invoked the law to defend his rights.",
+      "chinese": {
+        "meaning": "祈求；援引",
+        "example": "他援引法律來維護自己的權利。"
+      }
+    },
+    {
       "word": "Involve",
       "type": "verb",
       "letter": "I",
@@ -614,6 +1554,36 @@
       "chinese": {
         "meaning": "熨燙",
         "example": "她在面試前熨燙了襯衫。"
+      }
+    },
+    {
+      "word": "Irradiate",
+      "type": "verb",
+      "meaning": "To expose to radiation",
+      "example": "The food was irradiated to kill bacteria.",
+      "chinese": {
+        "meaning": "照射；輻照",
+        "example": "食物被照射以殺死細菌。"
+      }
+    },
+    {
+      "word": "Irrigate",
+      "type": "verb",
+      "meaning": "To supply water to land or crops",
+      "example": "Farmers irrigate their fields during dry seasons.",
+      "chinese": {
+        "meaning": "灌溉",
+        "example": "農民在旱季灌溉田地。"
+      }
+    },
+    {
+      "word": "Irritate",
+      "type": "verb",
+      "meaning": "To cause discomfort or annoyance",
+      "example": "The smoke irritated her eyes.",
+      "chinese": {
+        "meaning": "使發炎；使惱怒",
+        "example": "煙霧刺激了她的眼睛。"
       }
     },
     {
@@ -639,6 +1609,26 @@
       }
     },
     {
+      "word": "Italicize",
+      "type": "verb",
+      "meaning": "To write or print in italics",
+      "example": "Please italicize the book titles in your essay.",
+      "chinese": {
+        "meaning": "用斜體字印刷或書寫",
+        "example": "請在你的論文中用斜體字標示書名。"
+      }
+    },
+    {
+      "word": "Itch",
+      "type": "verb",
+      "meaning": "To have an uncomfortable sensation on the skin that causes a desire to scratch",
+      "example": "Mosquito bites made her skin itch.",
+      "chinese": {
+        "meaning": "發癢；搔癢",
+        "example": "蚊子叮咬讓她皮膚發癢。"
+      }
+    },
+    {
       "word": "Itemize",
       "type": "verb",
       "letter": "I",
@@ -647,6 +1637,16 @@
       "chinese": {
         "meaning": "逐項列出",
         "example": "請將你旅行的所有開銷逐項列出。"
+      }
+    },
+    {
+      "word": "Iterate",
+      "type": "verb",
+      "meaning": "To repeat a process or action",
+      "example": "The software development team iterated the design several times.",
+      "chinese": {
+        "meaning": "重複；反覆",
+        "example": "軟件開發團隊多次重複設計。"
       }
     }
   ]

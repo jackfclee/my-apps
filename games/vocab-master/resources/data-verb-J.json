@@ -89,6 +89,16 @@
       }
     },
     {
+      "word": "Jangle",
+      "type": "verb",
+      "meaning": "To make a discordant metallic sound; to cause a harsh ringing noise",
+      "example": "The keys jangled in his pocket as he walked.",
+      "chinese": {
+        "meaning": "發出叮噹聲；金屬撞擊聲",
+        "example": "他走路時鑰匙在口袋裡叮噹作響。"
+      }
+    },
+    {
       "word": "Jape",
       "type": "verb",
       "letter": "J",
@@ -100,6 +110,16 @@
       }
     },
     {
+      "word": "Jar",
+      "type": "verb",
+      "meaning": "To shock or jolt physically or emotionally; to have an unpleasant or disturbing effect",
+      "example": "The sudden noise jarred her nerves.",
+      "chinese": {
+        "meaning": "震動；使不安",
+        "example": "突如其來的聲音讓她神經緊張。"
+      }
+    },
+    {
       "word": "Jaw",
       "type": "verb",
       "letter": "J",
@@ -108,6 +128,26 @@
       "chinese": {
         "meaning": "長時間談話",
         "example": "他們長時間談論政治。"
+      }
+    },
+    {
+      "word": "Jaywalk",
+      "type": "verb",
+      "meaning": "To cross a street unlawfully or without regard for traffic rules",
+      "example": "He was fined for jaywalking across the busy road.",
+      "chinese": {
+        "meaning": "亂穿馬路",
+        "example": "他因為亂穿馬路而被罰款。"
+      }
+    },
+    {
+      "word": "Jazz",
+      "type": "verb",
+      "meaning": "To enliven or make more exciting, often with music or style",
+      "example": "They jazzed up the party with some live music.",
+      "chinese": {
+        "meaning": "使活潑、使有趣（常指音樂或風格）",
+        "example": "他們用現場音樂讓派對氣氛更活潑。"
       }
     },
     {
@@ -196,6 +236,16 @@
       "chinese": {
         "meaning": "一致；嘲諷",
         "example": "他的說法與事實不一致。"
+      }
+    },
+    {
+      "word": "Jiggle",
+      "type": "verb",
+      "meaning": "To move or shake with quick small motions",
+      "example": "She jiggled the handle to fix the stuck door.",
+      "chinese": {
+        "meaning": "輕搖；抖動",
+        "example": "她搖了搖門把試圖打開卡住的門。"
       }
     },
     {
