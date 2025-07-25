@@ -1,6 +1,26 @@
 {
   "words": [
     {
+      "word": "Gab",
+      "type": "verb",
+      "meaning": "To talk informally, especially about trivial matters",
+      "example": "They spent the afternoon gabbing about old times.",
+      "chinese": {
+        "meaning": "閒聊、喋喋不休",
+        "example": "他們一下午都在閒聊往事。"
+      }
+    },
+    {
+      "word": "Gag",
+      "type": "verb",
+      "meaning": "To choke or retch; to stop someone from speaking",
+      "example": "The smell made her gag.",
+      "chinese": {
+        "meaning": "作嘔；使說不出話",
+        "example": "那氣味讓她作嘔。"
+      }
+    },
+    {
       "word": "Gain",
       "type": "verb",
       "letter": "G",
@@ -23,6 +43,26 @@
       }
     },
     {
+      "word": "Gallop",
+      "type": "verb",
+      "meaning": "To run fast (especially of a horse)",
+      "example": "The horse galloped across the field.",
+      "chinese": {
+        "meaning": "飛奔、疾馳（馬）",
+        "example": "馬在田野上飛奔。"
+      }
+    },
+    {
+      "word": "Galvanize",
+      "type": "verb",
+      "meaning": "To shock or excite someone into taking action",
+      "example": "The speech galvanized the crowd into action.",
+      "chinese": {
+        "meaning": "激勵、刺激",
+        "example": "演講激勵了群眾採取行動。"
+      }
+    },
+    {
       "word": "Gamble",
       "type": "verb",
       "letter": "G",
@@ -31,6 +71,26 @@
       "chinese": {
         "meaning": "賭博",
         "example": "他把所有積蓄都押在一筆生意上。"
+      }
+    },
+    {
+      "word": "Garble",
+      "type": "verb",
+      "meaning": "To distort or confuse a message or information",
+      "example": "He garbled the instructions.",
+      "chinese": {
+        "meaning": "混淆、歪曲（訊息）",
+        "example": "他把指示講得亂七八糟。"
+      }
+    },
+    {
+      "word": "Garner",
+      "type": "verb",
+      "meaning": "To collect or gather something, especially information or support",
+      "example": "She garnered praise for her performance.",
+      "chinese": {
+        "meaning": "收集、獲得",
+        "example": "她的表現贏得了讚譽。"
       }
     },
     {
@@ -53,6 +113,26 @@
       "chinese": {
         "meaning": "用毒氣攻擊",
         "example": "士兵在戰爭中被毒氣攻擊。"
+      }
+    },
+    {
+      "word": "Gash",
+      "type": "verb",
+      "meaning": "To make a deep cut or wound",
+      "example": "He gashed his leg on the sharp rock.",
+      "chinese": {
+        "meaning": "劃傷、割破",
+        "example": "他被尖石劃傷了腿。"
+      }
+    },
+    {
+      "word": "Gasp",
+      "type": "verb",
+      "meaning": "To inhale suddenly with surprise or pain",
+      "example": "He gasped at the shocking news.",
+      "chinese": {
+        "meaning": "倒抽一口氣、喘氣",
+        "example": "他聽到令人震驚的消息時倒抽了一口氣。"
       }
     },
     {
@@ -89,6 +169,16 @@
       }
     },
     {
+      "word": "Gear",
+      "type": "verb",
+      "meaning": "To prepare or adjust for a specific purpose",
+      "example": "The program is geared toward beginners.",
+      "chinese": {
+        "meaning": "調整、為…做準備",
+        "example": "這項課程是為初學者設計的。"
+      }
+    },
+    {
       "word": "Generalize",
       "type": "verb",
       "letter": "G",
@@ -111,6 +201,16 @@
       }
     },
     {
+      "word": "Gentrify",
+      "type": "verb",
+      "meaning": "To renovate and improve a house or district so it conforms to middle-class taste",
+      "example": "The neighborhood has been rapidly gentrified.",
+      "chinese": {
+        "meaning": "使貴族化、使中產化",
+        "example": "這個社區迅速中產化。"
+      }
+    },
+    {
       "word": "Germinate",
       "type": "verb",
       "letter": "G",
@@ -119,6 +219,16 @@
       "chinese": {
         "meaning": "發芽",
         "example": "種子在春天發芽。"
+      }
+    },
+    {
+      "word": "Gesticulate",
+      "type": "verb",
+      "meaning": "To make gestures, especially while speaking",
+      "example": "He gesticulated wildly during the argument.",
+      "chinese": {
+        "meaning": "做手勢（強調說話）",
+        "example": "他在爭吵中激烈地比劃手勢。"
       }
     },
     {
@@ -133,6 +243,36 @@
       }
     },
     {
+      "word": "Ghost",
+      "type": "verb",
+      "meaning": "To suddenly stop all communication with someone",
+      "example": "She felt hurt after he ghosted her.",
+      "chinese": {
+        "meaning": "突然斷聯（音訊全無）",
+        "example": "他突然斷聯讓她感到受傷。"
+      }
+    },
+    {
+      "word": "Giggle",
+      "type": "verb",
+      "meaning": "To laugh lightly in a silly or nervous way",
+      "example": "The children giggled during the movie.",
+      "chinese": {
+        "meaning": "咯咯笑、傻笑",
+        "example": "孩子們在看電影時咯咯笑。"
+      }
+    },
+    {
+      "word": "Gild",
+      "type": "verb",
+      "meaning": "To cover with a thin layer of gold",
+      "example": "The statue was gilded with real gold leaf.",
+      "chinese": {
+        "meaning": "鍍金",
+        "example": "雕像被鍍上了真金。"
+      }
+    },
+    {
       "word": "Give",
       "type": "verb",
       "letter": "G",
@@ -144,6 +284,26 @@
       }
     },
     {
+      "word": "Gladden",
+      "type": "verb",
+      "meaning": "To make someone glad or happy",
+      "example": "Her return gladdened everyone.",
+      "chinese": {
+        "meaning": "使高興、使歡喜",
+        "example": "她的歸來讓大家都很高興。"
+      }
+    },
+    {
+      "word": "Glamorize",
+      "type": "verb",
+      "meaning": "To make something appear more attractive than it really is",
+      "example": "The movie glamorizes violence.",
+      "chinese": {
+        "meaning": "美化、使有魅力",
+        "example": "這部電影美化了暴力。"
+      }
+    },
+    {
       "word": "Glance",
       "type": "verb",
       "letter": "G",
@@ -152,6 +312,36 @@
       "chinese": {
         "meaning": "瞥一眼",
         "example": "他看了一眼手錶。"
+      }
+    },
+    {
+      "word": "Glare",
+      "type": "verb",
+      "meaning": "To stare angrily",
+      "example": "He glared at me after I interrupted.",
+      "chinese": {
+        "meaning": "怒視、瞪視",
+        "example": "我打斷他後，他怒視著我。"
+      }
+    },
+    {
+      "word": "Glaze",
+      "type": "verb",
+      "meaning": "To coat with a glossy finish",
+      "example": "She glazed the pottery with a shiny varnish.",
+      "chinese": {
+        "meaning": "上釉、塗亮光漆",
+        "example": "她在陶器上塗了亮光釉。"
+      }
+    },
+    {
+      "word": "Glean",
+      "type": "verb",
+      "meaning": "To gather information bit by bit",
+      "example": "He gleaned data from various sources.",
+      "chinese": {
+        "meaning": "收集（資訊、零碎資料）",
+        "example": "他從各種來源收集資料。"
       }
     },
     {
@@ -199,6 +389,26 @@
       }
     },
     {
+      "word": "Gloat",
+      "type": "verb",
+      "meaning": "To show smug or malicious satisfaction",
+      "example": "He gloated over his rival’s failure.",
+      "chinese": {
+        "meaning": "幸災樂禍、沾沾自喜",
+        "example": "他對對手的失敗幸災樂禍。"
+      }
+    },
+    {
+      "word": "Globalize",
+      "type": "verb",
+      "meaning": "To make something worldwide in scope or application",
+      "example": "Technology has helped to globalize commerce.",
+      "chinese": {
+        "meaning": "全球化，使全球化",
+        "example": "科技促進了商業的全球化。"
+      }
+    },
+    {
       "word": "Glorify",
       "type": "verb",
       "letter": "G",
@@ -207,6 +417,46 @@
       "chinese": {
         "meaning": "頌揚",
         "example": "這部電影頌揚了這支隊伍的成就。"
+      }
+    },
+    {
+      "word": "Glow",
+      "type": "verb",
+      "meaning": "To shine with a soft, steady light",
+      "example": "The lamp glowed in the dark room.",
+      "chinese": {
+        "meaning": "發光、發熱",
+        "example": "燈在黑暗的房間中發出微光。"
+      }
+    },
+    {
+      "word": "Glue",
+      "type": "verb",
+      "meaning": "To stick or attach things together using glue",
+      "example": "He glued the pieces of the broken vase together.",
+      "chinese": {
+        "meaning": "黏合、用膠黏住",
+        "example": "他把破掉的花瓶黏合起來。"
+      }
+    },
+    {
+      "word": "Gnarl",
+      "type": "verb",
+      "meaning": "To twist into a knotted or distorted form",
+      "example": "The old tree was gnarled by the wind.",
+      "chinese": {
+        "meaning": "使扭曲、使糾結",
+        "example": "那棵老樹被風吹得扭曲。"
+      }
+    },
+    {
+      "word": "Gnaw",
+      "type": "verb",
+      "meaning": "To bite or chew on something persistently",
+      "example": "The dog gnawed on a bone.",
+      "chinese": {
+        "meaning": "咬、啃",
+        "example": "那隻狗啃著一根骨頭。"
       }
     },
     {
@@ -254,6 +504,26 @@
       }
     },
     {
+      "word": "Gossip",
+      "type": "verb",
+      "meaning": "To talk about the personal lives of others, often behind their back",
+      "example": "They gossiped about their coworkers during lunch.",
+      "chinese": {
+        "meaning": "閒聊、說閒話",
+        "example": "他們午餐時談論同事的是非。"
+      }
+    },
+    {
+      "word": "Gouge",
+      "type": "verb",
+      "meaning": "To dig or force out roughly; to overcharge",
+      "example": "He gouged a hole in the wall with a hammer.",
+      "chinese": {
+        "meaning": "挖出；敲竹槓",
+        "example": "他用錘子在牆上挖了一個洞。"
+      }
+    },
+    {
       "word": "Govern",
       "type": "verb",
       "letter": "G",
@@ -276,6 +546,26 @@
       }
     },
     {
+      "word": "Grace",
+      "type": "verb",
+      "meaning": "To add elegance or beauty to something",
+      "example": "She graced the stage with her presence.",
+      "chinese": {
+        "meaning": "為…增添光彩、裝飾",
+        "example": "她的出現為舞台增添了光彩。"
+      }
+    },
+    {
+      "word": "Grade",
+      "type": "verb",
+      "meaning": "To evaluate or assign a score",
+      "example": "The teacher graded the exams over the weekend.",
+      "chinese": {
+        "meaning": "評分、分級",
+        "example": "老師週末批改了考卷。"
+      }
+    },
+    {
       "word": "Graduate",
       "type": "verb",
       "letter": "G",
@@ -295,6 +585,16 @@
       "chinese": {
         "meaning": "塗鴉",
         "example": "昨晚有人在牆上塗鴉。"
+      }
+    },
+    {
+      "word": "Graft",
+      "type": "verb",
+      "meaning": "To transplant living tissue or attach one thing to another",
+      "example": "They grafted a new branch onto the tree.",
+      "chinese": {
+        "meaning": "移植（組織、植物等）",
+        "example": "他們把一根新枝條嫁接到樹上。"
       }
     },
     {
@@ -331,6 +631,16 @@
       }
     },
     {
+      "word": "Grate",
+      "type": "verb",
+      "meaning": "To shred into small pieces; to irritate",
+      "example": "She grated the cheese for the pasta.",
+      "chinese": {
+        "meaning": "摩擦、磨碎；使煩躁",
+        "example": "她把起司磨碎準備做義大利麵。"
+      }
+    },
+    {
       "word": "Gratify",
       "type": "verb",
       "letter": "G",
@@ -342,6 +652,16 @@
       }
     },
     {
+      "word": "Gravitate",
+      "type": "verb",
+      "meaning": "To move toward or be attracted to something",
+      "example": "Many young people gravitate to big cities.",
+      "chinese": {
+        "meaning": "被吸引、傾向於",
+        "example": "許多年輕人傾向於往大城市發展。"
+      }
+    },
+    {
       "word": "Graze",
       "type": "verb",
       "letter": "G",
@@ -350,6 +670,16 @@
       "chinese": {
         "meaning": "吃草；擦過",
         "example": "牛在田裡吃草。"
+      }
+    },
+    {
+      "word": "Grease",
+      "type": "verb",
+      "meaning": "To apply oil or fat to something",
+      "example": "Grease the pan before pouring in the batter.",
+      "chinese": {
+        "meaning": "塗油、上油",
+        "example": "在倒入麵糊之前先在平底鍋上塗油。"
       }
     },
     {
@@ -386,6 +716,16 @@
       }
     },
     {
+      "word": "Grin",
+      "type": "verb",
+      "meaning": "To smile broadly, often showing teeth",
+      "example": "He grinned when he heard the good news.",
+      "chinese": {
+        "meaning": "露齒而笑、咧嘴笑",
+        "example": "他聽到好消息時咧嘴笑了。"
+      }
+    },
+    {
       "word": "Grind",
       "type": "verb",
       "letter": "G",
@@ -405,6 +745,26 @@
       "chinese": {
         "meaning": "緊握",
         "example": "他緊握方向盤。"
+      }
+    },
+    {
+      "word": "Gripe",
+      "type": "verb",
+      "meaning": "To complain about something in a persistent or nagging way",
+      "example": "He always gripes about the traffic.",
+      "chinese": {
+        "meaning": "抱怨、發牢騷",
+        "example": "他總是抱怨交通。"
+      }
+    },
+    {
+      "word": "Groan",
+      "type": "verb",
+      "meaning": "To make a deep, inarticulate sound in response to pain or despair",
+      "example": "She groaned in frustration after hearing the bad news.",
+      "chinese": {
+        "meaning": "呻吟、哀號",
+        "example": "她聽到壞消息後沮喪地呻吟。"
       }
     },
     {
@@ -463,6 +823,36 @@
       }
     },
     {
+      "word": "Growl",
+      "type": "verb",
+      "meaning": "To make a low, guttural sound of anger or warning",
+      "example": "The dog growled at the stranger.",
+      "chinese": {
+        "meaning": "咆哮、低吼",
+        "example": "那隻狗對陌生人低聲咆哮。"
+      }
+    },
+    {
+      "word": "Grub",
+      "type": "verb",
+      "meaning": "To dig or search for something; to scavenge for food",
+      "example": "The pigs were grubbing in the dirt for roots.",
+      "chinese": {
+        "meaning": "挖掘、搜尋（食物）",
+        "example": "豬在泥土中挖掘根部作為食物。"
+      }
+    },
+    {
+      "word": "Grudge",
+      "type": "verb",
+      "meaning": "To be unwilling to give or allow something; to resent",
+      "example": "She grudged him every success he had.",
+      "chinese": {
+        "meaning": "勉強給予、不情願；怨恨",
+        "example": "她對他的每一次成功都心懷怨恨。"
+      }
+    },
+    {
       "word": "Grumble",
       "type": "verb",
       "letter": "G",
@@ -471,6 +861,16 @@
       "chinese": {
         "meaning": "抱怨",
         "example": "他抱怨等待時間太長。"
+      }
+    },
+    {
+      "word": "Grunt",
+      "type": "verb",
+      "meaning": "To make a low, short guttural sound",
+      "example": "He grunted as he lifted the heavy box.",
+      "chinese": {
+        "meaning": "發出哼聲、咕噥",
+        "example": "他抬起那個重箱子時哼了一聲。"
       }
     },
     {
@@ -529,6 +929,16 @@
       }
     },
     {
+      "word": "Gurgle",
+      "type": "verb",
+      "meaning": "To make a hollow bubbling sound like water flowing",
+      "example": "The baby gurgled happily in his crib.",
+      "chinese": {
+        "meaning": "咯咯作聲、流水聲",
+        "example": "嬰兒在搖籃裡咯咯地笑。"
+      }
+    },
+    {
       "word": "Gush",
       "type": "verb",
       "letter": "G",
@@ -537,6 +947,16 @@
       "chinese": {
         "meaning": "湧出",
         "example": "水從破裂的管道中湧出。"
+      }
+    },
+    {
+      "word": "Guzzle",
+      "type": "verb",
+      "meaning": "To drink or eat something greedily or in large quantities",
+      "example": "They guzzled down soda after the long hike.",
+      "chinese": {
+        "meaning": "狂飲、狼吞虎嚥",
+        "example": "長途健行後他們大口喝汽水。"
       }
     },
     {

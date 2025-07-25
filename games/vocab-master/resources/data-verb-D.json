@@ -1,6 +1,160 @@
 {
   "words": [
     {
+      "word": "Dab",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To press lightly with a quick motion",
+      "example": "She dabbed her eyes with a tissue.",
+      "chinese": {
+        "meaning": "輕拍、輕擦",
+        "example": "她用紙巾輕輕地擦眼淚。"
+      }
+    },
+    {
+      "word": "Damage",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To cause harm or injury",
+      "example": "The flood damaged many homes.",
+      "chinese": {
+        "meaning": "損害、破壞",
+        "example": "洪水損壞了許多房屋。"
+      }
+    },
+    {
+      "word": "Damn",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To condemn or criticize severely",
+      "example": "He damned the injustice of the decision.",
+      "chinese": {
+        "meaning": "詛咒、指責",
+        "example": "他詛咒這個不公的決定。"
+      }
+    },
+    {
+      "word": "Dance",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To move rhythmically to music",
+      "example": "They danced all night at the party.",
+      "chinese": {
+        "meaning": "跳舞",
+        "example": "他們在派對上跳了一整晚的舞。"
+      }
+    },
+    {
+      "word": "Dare",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To have the courage to do something",
+      "example": "She dared to speak up.",
+      "chinese": {
+        "meaning": "敢於、挑戰",
+        "example": "她敢於發聲。"
+      }
+    },
+    {
+      "word": "Darken",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make or become darker",
+      "example": "Clouds darkened the sky.",
+      "chinese": {
+        "meaning": "使變暗",
+        "example": "雲層讓天空變暗了。"
+      }
+    },
+    {
+      "word": "Dart",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To move or throw quickly and suddenly",
+      "example": "The cat darted across the road.",
+      "chinese": {
+        "meaning": "猛衝、突然移動",
+        "example": "那隻貓猛地衝過馬路。"
+      }
+    },
+    {
+      "word": "Dash",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To run or move quickly or suddenly",
+      "example": "He dashed to catch the train.",
+      "chinese": {
+        "meaning": "衝、奔跑",
+        "example": "他衝去趕火車。"
+      }
+    },
+    {
+      "word": "Date",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To go out with someone romantically",
+      "example": "They have been dating for two months.",
+      "chinese": {
+        "meaning": "約會",
+        "example": "他們已經約會兩個月了。"
+      }
+    },
+    {
+      "word": "Daunt",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make someone feel intimidated or discouraged",
+      "example": "The task didn't daunt her.",
+      "chinese": {
+        "meaning": "使氣餒、使畏懼",
+        "example": "這個任務沒有讓她氣餒。"
+      }
+    },
+    {
+      "word": "Dawn",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To begin to be understood or become clear",
+      "example": "It dawned on him that he was wrong.",
+      "chinese": {
+        "meaning": "開始明白、領悟",
+        "example": "他開始意識到自己錯了。"
+      }
+    },
+    {
+      "word": "Daze",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To confuse or stun",
+      "example": "The punch dazed him.",
+      "chinese": {
+        "meaning": "使迷亂、使茫然",
+        "example": "那一拳讓他頭暈目眩。"
+      }
+    },
+    {
+      "word": "Dazzle",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To amaze or impress with brilliance",
+      "example": "The fireworks dazzled the crowd.",
+      "chinese": {
+        "meaning": "使眼花繚亂、使驚艷",
+        "example": "煙火讓觀眾眼花繚亂。"
+      }
+    },
+    {
+      "word": "Deactivate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make something inactive or stop it from working",
+      "example": "He deactivated the alarm.",
+      "chinese": {
+        "meaning": "使失效、關閉",
+        "example": "他關掉了警報。"
+      }
+    },
+    {
       "word": "Deal",
       "type": "verb",
       "letter": "D",
@@ -9,6 +163,17 @@
       "chinese": {
         "meaning": "處理、應對",
         "example": "她專業地處理顧客投訴。"
+      }
+    },
+    {
+      "word": "Debase",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To lower in quality, value, or dignity",
+      "example": "The politician's actions debased public trust.",
+      "chinese": {
+        "meaning": "貶低、降低品質",
+        "example": "那位政治家的行為損害了公眾的信任。"
       }
     },
     {
@@ -23,6 +188,127 @@
       }
     },
     {
+      "word": "Debrief",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To question someone about a completed mission or task",
+      "example": "The agent was debriefed after the operation.",
+      "chinese": {
+        "meaning": "任務後詢問",
+        "example": "任務後對特工進行了詢問。"
+      }
+    },
+    {
+      "word": "Debug",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To identify and remove errors from software or systems",
+      "example": "She spent the afternoon debugging the code.",
+      "chinese": {
+        "meaning": "除錯",
+        "example": "她整個下午都在除錯。"
+      }
+    },
+    {
+      "word": "Debunk",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To expose as false or exaggerated",
+      "example": "The scientist debunked the myth.",
+      "chinese": {
+        "meaning": "揭穿、駁斥",
+        "example": "那位科學家揭穿了這個迷思。"
+      }
+    },
+    {
+      "word": "Debut",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To appear publicly for the first time",
+      "example": "The actor debuted in a comedy show.",
+      "chinese": {
+        "meaning": "首次登台、初次亮相",
+        "example": "那位演員首次在喜劇中亮相。"
+      }
+    },
+    {
+      "word": "Decamp",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To leave quickly and secretly",
+      "example": "They decamped before sunrise.",
+      "chinese": {
+        "meaning": "匆忙離開、逃走",
+        "example": "他們在天亮前匆匆離去。"
+      }
+    },
+    {
+      "word": "Decant",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To pour a liquid gently to separate it from sediment",
+      "example": "They decided to decant the wine slowly.",
+      "chinese": {
+        "meaning": "倒出（液體）以去除沉澱物",
+        "example": "他們決定慢慢地把酒倒出。"
+      }
+    },
+    {
+      "word": "Decapitate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To cut off the head of someone or something",
+      "example": "The king was decapitated during the revolution.",
+      "chinese": {
+        "meaning": "斬首",
+        "example": "國王在革命中被斬首。"
+      }
+    },
+    {
+      "word": "Decay",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To rot or decompose through natural processes",
+      "example": "The fruit began to decay after a few days.",
+      "chinese": {
+        "meaning": "腐爛、腐朽",
+        "example": "那水果幾天後開始腐爛。"
+      }
+    },
+    {
+      "word": "Deceive",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To trick or mislead someone",
+      "example": "He deceived everyone with his lies.",
+      "chinese": {
+        "meaning": "欺騙、誤導",
+        "example": "他用謊言欺騙了所有人。"
+      }
+    },
+    {
+      "word": "Decelerate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To reduce speed or slow down",
+      "example": "The car decelerated before the intersection.",
+      "chinese": {
+        "meaning": "減速",
+        "example": "汽車在路口前減速。"
+      }
+    },
+    {
+      "word": "Decentralize",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To distribute power away from a central authority",
+      "example": "The government decided to decentralize control.",
+      "chinese": {
+        "meaning": "分權、分散",
+        "example": "政府決定分散管理權力。"
+      }
+    },
+    {
       "word": "Decide",
       "type": "verb",
       "letter": "D",
@@ -31,6 +317,17 @@
       "chinese": {
         "meaning": "決定",
         "example": "她決定在大學學習生物學。"
+      }
+    },
+    {
+      "word": "Decipher",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To decode or interpret something difficult to understand",
+      "example": "She deciphered the ancient script.",
+      "chinese": {
+        "meaning": "解碼、破解",
+        "example": "她破解了古老的文字。"
       }
     },
     {
@@ -45,6 +342,17 @@
       }
     },
     {
+      "word": "Declassify",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To officially declare information as no longer secret",
+      "example": "The documents were declassified after 30 years.",
+      "chinese": {
+        "meaning": "解密",
+        "example": "這些文件在30年後被解密。"
+      }
+    },
+    {
       "word": "Decline",
       "type": "verb",
       "letter": "D",
@@ -56,6 +364,61 @@
       }
     },
     {
+      "word": "Decommission",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To officially take out of service",
+      "example": "The power plant was decommissioned last year.",
+      "chinese": {
+        "meaning": "退役、停止運作",
+        "example": "那座發電廠去年退役了。"
+      }
+    },
+    {
+      "word": "Decompose",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To break down into simpler parts, usually due to decay",
+      "example": "The leaves decomposed in the soil.",
+      "chinese": {
+        "meaning": "分解、腐爛",
+        "example": "樹葉在土壤中分解了。"
+      }
+    },
+    {
+      "word": "Decompress",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To relieve or reduce pressure",
+      "example": "She needed time to decompress after work.",
+      "chinese": {
+        "meaning": "減壓、放鬆",
+        "example": "她下班後需要時間減壓。"
+      }
+    },
+    {
+      "word": "Deconstruct",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To take apart or analyze in detail",
+      "example": "The essay deconstructs the myth of success.",
+      "chinese": {
+        "meaning": "解構、拆解",
+        "example": "那篇文章解構了成功的迷思。"
+      }
+    },
+    {
+      "word": "Decontaminate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To remove dangerous substances from something",
+      "example": "They decontaminated the area after the spill.",
+      "chinese": {
+        "meaning": "去污、消毒",
+        "example": "事故發生後他們對該區域進行了去污。"
+      }
+    },
+    {
       "word": "Decorate",
       "type": "verb",
       "letter": "D",
@@ -64,6 +427,39 @@
       "chinese": {
         "meaning": "裝飾",
         "example": "他們為節日裝飾了教室。"
+      }
+    },
+    {
+      "word": "Decrease",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make or become smaller or less",
+      "example": "The number of cases has decreased.",
+      "chinese": {
+        "meaning": "減少、降低",
+        "example": "病例數已經減少。"
+      }
+    },
+    {
+      "word": "Decree",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To order something officially",
+      "example": "The court decreed a new regulation.",
+      "chinese": {
+        "meaning": "頒布命令、裁定",
+        "example": "法院頒布了一項新規定。"
+      }
+    },
+    {
+      "word": "Decry",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To publicly criticize or express strong disapproval",
+      "example": "Activists decried the new policy.",
+      "chinese": {
+        "meaning": "譴責、公開反對",
+        "example": "行動者譴責這項新政策。"
       }
     },
     {
@@ -89,6 +485,72 @@
       }
     },
     {
+      "word": "Deduct",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To subtract or take away an amount or part",
+      "example": "The fee was deducted from her salary.",
+      "chinese": {
+        "meaning": "扣除、減去",
+        "example": "這筆費用從她的薪資中扣除了。"
+      }
+    },
+    {
+      "word": "Deem",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To regard or consider in a certain way",
+      "example": "The action was deemed necessary.",
+      "chinese": {
+        "meaning": "認為、視為",
+        "example": "這項行動被認為是必要的。"
+      }
+    },
+    {
+      "word": "Deepen",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make or become deeper",
+      "example": "The river deepened after the rain.",
+      "chinese": {
+        "meaning": "加深、變深",
+        "example": "下雨後河水變深了。"
+      }
+    },
+    {
+      "word": "Deface",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To damage the surface or appearance of something",
+      "example": "The monument was defaced with graffiti.",
+      "chinese": {
+        "meaning": "破壞外觀、塗污",
+        "example": "那座紀念碑被塗鴉破壞了外觀。"
+      }
+    },
+    {
+      "word": "Defame",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To harm someone’s reputation by false statements",
+      "example": "He was sued for defaming a public figure.",
+      "chinese": {
+        "meaning": "誹謗、中傷",
+        "example": "他因誹謗公眾人物而被起訴。"
+      }
+    },
+    {
+      "word": "Defeat",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To win against someone in a competition or conflict",
+      "example": "They defeated the opposing team by three goals.",
+      "chinese": {
+        "meaning": "打敗、戰勝",
+        "example": "他們以三球之差打敗了對手。"
+      }
+    },
+    {
       "word": "Defend",
       "type": "verb",
       "letter": "D",
@@ -97,6 +559,17 @@
       "chinese": {
         "meaning": "辯護、防禦",
         "example": "律師在法庭上為她的客戶辯護。"
+      }
+    },
+    {
+      "word": "Defer",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To postpone or delay something",
+      "example": "They decided to defer the meeting until next week.",
+      "chinese": {
+        "meaning": "推遲、延期",
+        "example": "他們決定將會議延期到下週。"
       }
     },
     {
@@ -111,6 +584,94 @@
       }
     },
     {
+      "word": "Deflate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To release air or gas from something",
+      "example": "She deflated the balloon after the party.",
+      "chinese": {
+        "meaning": "放氣、洩氣",
+        "example": "她在派對後放掉了氣球的氣。"
+      }
+    },
+    {
+      "word": "Deflect",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To cause something to change direction",
+      "example": "The shield deflected the arrow.",
+      "chinese": {
+        "meaning": "偏轉、使轉向",
+        "example": "盾牌使箭矢偏轉。"
+      }
+    },
+    {
+      "word": "Defraud",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To cheat someone to gain money illegally",
+      "example": "He was arrested for defrauding the bank.",
+      "chinese": {
+        "meaning": "詐騙",
+        "example": "他因詐騙銀行而被逮捕。"
+      }
+    },
+    {
+      "word": "Defrost",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To remove frost or ice",
+      "example": "She defrosted the chicken before cooking.",
+      "chinese": {
+        "meaning": "解凍",
+        "example": "她在烹飪前將雞肉解凍。"
+      }
+    },
+    {
+      "word": "Defuse",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make a dangerous situation calmer or safer",
+      "example": "The negotiator managed to defuse the tension.",
+      "chinese": {
+        "meaning": "化解（危機或緊張）",
+        "example": "談判者成功化解了緊張氣氛。"
+      }
+    },
+    {
+      "word": "Defy",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To resist or refuse to obey",
+      "example": "They defied the curfew and went outside.",
+      "chinese": {
+        "meaning": "違抗、反抗",
+        "example": "他們違反宵禁出門。"
+      }
+    },
+    {
+      "word": "Degrade",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To treat someone with disrespect or to lower in quality",
+      "example": "Pollution degrades the environment.",
+      "chinese": {
+        "meaning": "降低、惡化；羞辱",
+        "example": "污染會惡化環境。"
+      }
+    },
+    {
+      "word": "Dehydrate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To lose or remove water",
+      "example": "You will dehydrate quickly in the desert.",
+      "chinese": {
+        "meaning": "使脫水",
+        "example": "在沙漠中你會很快脫水。"
+      }
+    },
+    {
       "word": "Delay",
       "type": "verb",
       "letter": "D",
@@ -119,6 +680,17 @@
       "chinese": {
         "meaning": "延遲",
         "example": "由於天氣惡劣，航班延誤了。"
+      }
+    },
+    {
+      "word": "Delegate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To assign tasks to others",
+      "example": "The manager delegated the work to her assistant.",
+      "chinese": {
+        "meaning": "授權、委派",
+        "example": "經理把工作委派給助手。"
       }
     },
     {
@@ -133,6 +705,39 @@
       }
     },
     {
+      "word": "Deliberate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To think or discuss carefully",
+      "example": "The jury deliberated for hours before reaching a verdict.",
+      "chinese": {
+        "meaning": "深思熟慮、仔細討論",
+        "example": "陪審團花了幾個小時才做出裁決。"
+      }
+    },
+    {
+      "word": "Delight",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To give great pleasure",
+      "example": "The music delighted the audience.",
+      "chinese": {
+        "meaning": "使高興、使愉快",
+        "example": "音樂讓觀眾感到愉快。"
+      }
+    },
+    {
+      "word": "Delineate",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To describe or portray something clearly",
+      "example": "The report delineates the steps we need to take.",
+      "chinese": {
+        "meaning": "描繪、描述",
+        "example": "報告描繪了我們需要採取的步驟。"
+      }
+    },
+    {
       "word": "Deliver",
       "type": "verb",
       "letter": "D",
@@ -141,6 +746,17 @@
       "chinese": {
         "meaning": "遞送",
         "example": "快遞員準時遞送了包裹。"
+      }
+    },
+    {
+      "word": "Delve",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To search or investigate deeply",
+      "example": "He delved into the history of the town.",
+      "chinese": {
+        "meaning": "深入探究",
+        "example": "他深入研究了這個城鎮的歷史。"
       }
     },
     {
@@ -155,6 +771,17 @@
       }
     },
     {
+      "word": "Demolish",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To completely destroy a building or structure",
+      "example": "They demolished the old school to build a new one.",
+      "chinese": {
+        "meaning": "拆除、摧毀",
+        "example": "他們拆除了舊學校來建新學校。"
+      }
+    },
+    {
       "word": "Demonstrate",
       "type": "verb",
       "letter": "D",
@@ -163,6 +790,50 @@
       "chinese": {
         "meaning": "展示、說明",
         "example": "老師示範了如何寫出有力的論點句。"
+      }
+    },
+    {
+      "word": "Demote",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To reduce someone to a lower rank or position",
+      "example": "He was demoted due to poor performance.",
+      "chinese": {
+        "meaning": "降職",
+        "example": "他因表現不佳而被降職。"
+      }
+    },
+    {
+      "word": "Demystify",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To make something easier to understand",
+      "example": "The guide demystifies complex legal terms.",
+      "chinese": {
+        "meaning": "使簡明易懂",
+        "example": "這本指南讓複雜的法律術語變得容易理解。"
+      }
+    },
+    {
+      "word": "Denote",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To indicate or be a sign of something",
+      "example": "Red often denotes danger.",
+      "chinese": {
+        "meaning": "表示、象徵",
+        "example": "紅色通常表示危險。"
+      }
+    },
+    {
+      "word": "Denounce",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To publicly condemn or criticize",
+      "example": "The activist denounced the policy as unjust.",
+      "chinese": {
+        "meaning": "譴責、指責",
+        "example": "該活動人士譴責該政策不公。"
       }
     },
     {
@@ -210,6 +881,121 @@
       }
     },
     {
+      "word": "Deplete",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To use up the supply of something",
+      "example": "Overfishing has depleted the ocean’s fish stocks.",
+      "chinese": {
+        "meaning": "耗盡、減少",
+        "example": "過度捕撈已耗盡海洋魚類資源。"
+      }
+    },
+    {
+      "word": "Deplore",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To strongly disapprove of something",
+      "example": "They deplored the violence in the protest.",
+      "chinese": {
+        "meaning": "譴責、痛惜",
+        "example": "他們譴責抗議中的暴力行為。"
+      }
+    },
+    {
+      "word": "Deploy",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To position or arrange strategically",
+      "example": "The troops were deployed along the border.",
+      "chinese": {
+        "meaning": "部署、展開",
+        "example": "部隊被部署在邊境上。"
+      }
+    },
+    {
+      "word": "Deport",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To force someone to leave a country",
+      "example": "He was deported for violating immigration laws.",
+      "chinese": {
+        "meaning": "驅逐出境",
+        "example": "他因違反移民法被驅逐出境。"
+      }
+    },
+    {
+      "word": "Depose",
+      "type": "verb",
+      "letter": "D",
+      "meaning": "To remove from office or power",
+      "example": "The dictator was deposed by the rebels.",
+      "chinese": {
+        "meaning": "罷免、廢黜",
+        "example": "獨裁者被叛軍罷黜。"
+      }
+    },
+    {
+      "word": "Deposit",
+      "type": "verb",
+      "meaning": "To put money into a bank account or leave something somewhere",
+      "example": "She deposited the check into her savings account.",
+      "chinese": {
+        "meaning": "存款、放置",
+        "example": "她把支票存入了儲蓄帳戶。"
+      }
+    },
+    {
+      "word": "Deprecate",
+      "type": "verb",
+      "meaning": "To express disapproval of something",
+      "example": "He deprecated the use of violence in solving problems.",
+      "chinese": {
+        "meaning": "反對、輕視",
+        "example": "他反對以暴力解決問題。"
+      }
+    },
+    {
+      "word": "Depreciate",
+      "type": "verb",
+      "meaning": "To reduce in value over time",
+      "example": "The car depreciates quickly after purchase.",
+      "chinese": {
+        "meaning": "貶值、折舊",
+        "example": "這輛車買了之後很快就貶值了。"
+      }
+    },
+    {
+      "word": "Depress",
+      "type": "verb",
+      "meaning": "To make someone feel sad or to reduce the level of something",
+      "example": "The news depressed him greatly.",
+      "chinese": {
+        "meaning": "使沮喪、降低",
+        "example": "這個消息讓他非常沮喪。"
+      }
+    },
+    {
+      "word": "Deprive",
+      "type": "verb",
+      "meaning": "To take something away from someone",
+      "example": "They were deprived of their basic rights.",
+      "chinese": {
+        "meaning": "剝奪、使失去",
+        "example": "他們被剝奪了基本權利。"
+      }
+    },
+    {
+      "word": "Derail",
+      "type": "verb",
+      "meaning": "To cause a train or plan to fail or go off course",
+      "example": "The accident derailed the train.",
+      "chinese": {
+        "meaning": "使出軌、使計劃失敗",
+        "example": "事故使火車出軌了。"
+      }
+    },
+    {
       "word": "Derive",
       "type": "verb",
       "letter": "D",
@@ -218,6 +1004,16 @@
       "chinese": {
         "meaning": "源自、獲得",
         "example": "許多英語單詞源自拉丁語。"
+      }
+    },
+    {
+      "word": "Descend",
+      "type": "verb",
+      "meaning": "To move downward",
+      "example": "The airplane began to descend toward the runway.",
+      "chinese": {
+        "meaning": "下降、下來",
+        "example": "飛機開始下降準備降落跑道。"
       }
     },
     {
@@ -232,6 +1028,16 @@
       }
     },
     {
+      "word": "Deserve",
+      "type": "verb",
+      "meaning": "To have earned something because of actions or qualities",
+      "example": "She deserves praise for her hard work.",
+      "chinese": {
+        "meaning": "應得、值得",
+        "example": "她因努力工作而值得稱讚。"
+      }
+    },
+    {
       "word": "Design",
       "type": "verb",
       "letter": "D",
@@ -240,6 +1046,16 @@
       "chinese": {
         "meaning": "設計",
         "example": "他們為公司設計了新標誌。"
+      }
+    },
+    {
+      "word": "Designate",
+      "type": "verb",
+      "meaning": "To officially choose someone or something for a purpose",
+      "example": "He was designated as the team leader.",
+      "chinese": {
+        "meaning": "指派、指定",
+        "example": "他被指定為隊長。"
       }
     },
     {
@@ -276,6 +1092,66 @@
       }
     },
     {
+      "word": "Detach",
+      "type": "verb",
+      "meaning": "To separate something from something else",
+      "example": "Please detach the coupon from the brochure.",
+      "chinese": {
+        "meaning": "分開、拆開",
+        "example": "請將優惠券從小冊子中拆下。"
+      }
+    },
+    {
+      "word": "Detail",
+      "type": "verb",
+      "meaning": "To describe something fully and precisely",
+      "example": "She detailed the plan to the committee.",
+      "chinese": {
+        "meaning": "詳細說明",
+        "example": "她向委員會詳細說明了計劃。"
+      }
+    },
+    {
+      "word": "Detain",
+      "type": "verb",
+      "meaning": "To keep someone in custody or delay them",
+      "example": "The police detained the suspect for questioning.",
+      "chinese": {
+        "meaning": "拘留、扣押",
+        "example": "警方拘留了嫌疑人進行訊問。"
+      }
+    },
+    {
+      "word": "Detect",
+      "type": "verb",
+      "meaning": "To discover or notice something",
+      "example": "Scientists detected a new form of radiation.",
+      "chinese": {
+        "meaning": "察覺、發現",
+        "example": "科學家發現了一種新的輻射形式。"
+      }
+    },
+    {
+      "word": "Deter",
+      "type": "verb",
+      "meaning": "To discourage someone from doing something",
+      "example": "The high cost deterred many people from buying the product.",
+      "chinese": {
+        "meaning": "威懾、阻止",
+        "example": "高昂的價格阻止了很多人購買該產品。"
+      }
+    },
+    {
+      "word": "Deteriorate",
+      "type": "verb",
+      "meaning": "To become worse over time",
+      "example": "The condition of the building deteriorated due to neglect.",
+      "chinese": {
+        "meaning": "惡化、變壞",
+        "example": "由於疏忽，建築物的狀況惡化了。"
+      }
+    },
+    {
       "word": "Determine",
       "type": "verb",
       "letter": "D",
@@ -284,6 +1160,36 @@
       "chinese": {
         "meaning": "決定、確定",
         "example": "這次考試將決定你的最終成績。"
+      }
+    },
+    {
+      "word": "Detest",
+      "type": "verb",
+      "meaning": "To strongly dislike or hate",
+      "example": "He detests dishonesty in any form.",
+      "chinese": {
+        "meaning": "厭惡、痛恨",
+        "example": "他痛恨任何形式的不誠實。"
+      }
+    },
+    {
+      "word": "Detonate",
+      "type": "verb",
+      "meaning": "To explode or cause to explode",
+      "example": "The bomb detonated unexpectedly.",
+      "chinese": {
+        "meaning": "爆炸、引爆",
+        "example": "炸彈意外引爆了。"
+      }
+    },
+    {
+      "word": "Devalue",
+      "type": "verb",
+      "meaning": "To reduce the value of something",
+      "example": "The currency was devalued by the government.",
+      "chinese": {
+        "meaning": "貶值、降低價值",
+        "example": "貨幣被政府貶值了。"
       }
     },
     {
@@ -298,6 +1204,16 @@
       }
     },
     {
+      "word": "Deviate",
+      "type": "verb",
+      "meaning": "To depart from an established course or norm",
+      "example": "The pilot deviated from the flight path.",
+      "chinese": {
+        "meaning": "偏離、背離",
+        "example": "飛行員偏離了飛行路線。"
+      }
+    },
+    {
       "word": "Devise",
       "type": "verb",
       "letter": "D",
@@ -309,6 +1225,26 @@
       }
     },
     {
+      "word": "Devote",
+      "type": "verb",
+      "meaning": "To give time, effort, or attention to something",
+      "example": "She devoted herself to her studies.",
+      "chinese": {
+        "meaning": "奉獻、投入",
+        "example": "她專心投入於學業。"
+      }
+    },
+    {
+      "word": "Devour",
+      "type": "verb",
+      "meaning": "To eat something eagerly and in large amounts",
+      "example": "He devoured the entire pizza in minutes.",
+      "chinese": {
+        "meaning": "吞食、狼吞虎嚥",
+        "example": "他幾分鐘內就狼吞虎嚥地吃完了整個披薩。"
+      }
+    },
+    {
       "word": "Diagnose",
       "type": "verb",
       "letter": "D",
@@ -317,6 +1253,16 @@
       "chinese": {
         "meaning": "診斷",
         "example": "醫生診斷她患有肺炎。"
+      }
+    },
+    {
+      "word": "Dial",
+      "type": "verb",
+      "meaning": "To make a phone call by pressing numbers",
+      "example": "She dialed the emergency number quickly.",
+      "chinese": {
+        "meaning": "撥號",
+        "example": "她迅速撥打了緊急電話號碼。"
       }
     },
     {
@@ -353,6 +1299,16 @@
       }
     },
     {
+      "word": "Differentiate",
+      "type": "verb",
+      "meaning": "To recognize or show the difference between things",
+      "example": "It’s important to differentiate between fact and opinion.",
+      "chinese": {
+        "meaning": "區分、辨別",
+        "example": "區分事實和意見非常重要。"
+      }
+    },
+    {
       "word": "Diffuse",
       "type": "verb",
       "letter": "D",
@@ -372,6 +1328,16 @@
       "chinese": {
         "meaning": "挖掘",
         "example": "他們為新樹挖了一個洞。"
+      }
+    },
+    {
+      "word": "Digest",
+      "type": "verb",
+      "meaning": "To break down food in the stomach or to understand information",
+      "example": "It takes time to digest complex ideas.",
+      "chinese": {
+        "meaning": "消化、理解",
+        "example": "理解複雜的想法需要時間。"
       }
     },
     {
@@ -408,6 +1374,26 @@
       }
     },
     {
+      "word": "Dine",
+      "type": "verb",
+      "meaning": "To eat dinner or a formal meal",
+      "example": "They dined at a fancy restaurant last night.",
+      "chinese": {
+        "meaning": "用餐、吃晚飯",
+        "example": "他們昨晚在一家高級餐廳用餐。"
+      }
+    },
+    {
+      "word": "Dip",
+      "type": "verb",
+      "meaning": "To put something briefly into a liquid",
+      "example": "She dipped the bread into the soup.",
+      "chinese": {
+        "meaning": "浸、蘸",
+        "example": "她把麵包蘸進湯裡。"
+      }
+    },
+    {
       "word": "Direct",
       "type": "verb",
       "letter": "D",
@@ -416,6 +1402,26 @@
       "chinese": {
         "meaning": "指導、指揮",
         "example": "她在學校指導了這齣戲。"
+      }
+    },
+    {
+      "word": "Disable",
+      "type": "verb",
+      "meaning": "To make something unable to work or function",
+      "example": "He disabled the alarm system by mistake.",
+      "chinese": {
+        "meaning": "使失效、使無法工作",
+        "example": "他不小心使警報系統失效了。"
+      }
+    },
+    {
+      "word": "Disabuse",
+      "type": "verb",
+      "meaning": "To free someone from a misconception or false belief",
+      "example": "She disabused him of the notion that the job was easy.",
+      "chinese": {
+        "meaning": "使改變錯誤觀念",
+        "example": "她使他改變了工作簡單的錯誤觀念。"
       }
     },
     {
@@ -430,6 +1436,16 @@
       }
     },
     {
+      "word": "Disallow",
+      "type": "verb",
+      "meaning": "To refuse to permit or accept something",
+      "example": "The referee disallowed the goal due to a foul.",
+      "chinese": {
+        "meaning": "不允許、拒絕接受",
+        "example": "裁判因犯規而判定進球無效。"
+      }
+    },
+    {
       "word": "Disappear",
       "type": "verb",
       "letter": "D",
@@ -438,6 +1454,16 @@
       "chinese": {
         "meaning": "消失",
         "example": "太陽消失在雲層後面。"
+      }
+    },
+    {
+      "word": "Disappoint",
+      "type": "verb",
+      "meaning": "To fail to meet someone’s expectations",
+      "example": "The results disappointed the entire team.",
+      "chinese": {
+        "meaning": "使失望",
+        "example": "結果讓整個團隊失望。"
       }
     },
     {
@@ -463,6 +1489,36 @@
       }
     },
     {
+      "word": "Disassemble",
+      "type": "verb",
+      "meaning": "To take something apart",
+      "example": "He disassembled the computer to fix it.",
+      "chinese": {
+        "meaning": "拆卸、拆開",
+        "example": "他拆開電腦進行修理。"
+      }
+    },
+    {
+      "word": "Disassociate",
+      "type": "verb",
+      "meaning": "To separate oneself or something from another",
+      "example": "She disassociated herself from the controversial statement.",
+      "chinese": {
+        "meaning": "使分離、脫離",
+        "example": "她與有爭議的言論保持距離。"
+      }
+    },
+    {
+      "word": "Disavow",
+      "type": "verb",
+      "meaning": "To deny any responsibility or support for something",
+      "example": "The politician disavowed the scandal.",
+      "chinese": {
+        "meaning": "否認、拒絕承認",
+        "example": "那位政治家否認與醜聞有關。"
+      }
+    },
+    {
       "word": "Disband",
       "type": "verb",
       "letter": "D",
@@ -474,6 +1530,46 @@
       }
     },
     {
+      "word": "Discard",
+      "type": "verb",
+      "meaning": "To throw something away",
+      "example": "She discarded the old papers in the recycling bin.",
+      "chinese": {
+        "meaning": "丟棄、拋棄",
+        "example": "她把舊文件丟進了回收箱。"
+      }
+    },
+    {
+      "word": "Discern",
+      "type": "verb",
+      "meaning": "To perceive or recognize something",
+      "example": "He could barely discern the distant mountains through the fog.",
+      "chinese": {
+        "meaning": "識別、看出",
+        "example": "他幾乎看不清霧中的遠山。"
+      }
+    },
+    {
+      "word": "Discharge",
+      "type": "verb",
+      "meaning": "To release or let go; to perform a duty",
+      "example": "The hospital discharged the patient yesterday.",
+      "chinese": {
+        "meaning": "釋放、履行",
+        "example": "醫院昨天讓患者出院了。"
+      }
+    },
+    {
+      "word": "Disclaim",
+      "type": "verb",
+      "meaning": "To deny or refuse to accept responsibility",
+      "example": "The company disclaimed liability for the accident.",
+      "chinese": {
+        "meaning": "否認、放棄責任",
+        "example": "公司否認對事故負責。"
+      }
+    },
+    {
       "word": "Disclose",
       "type": "verb",
       "letter": "D",
@@ -482,6 +1578,36 @@
       "chinese": {
         "meaning": "透露、公開",
         "example": "公司公開了年度報告。"
+      }
+    },
+    {
+      "word": "Disconnect",
+      "type": "verb",
+      "meaning": "To separate or detach",
+      "example": "He disconnected the phone line.",
+      "chinese": {
+        "meaning": "斷開、分離",
+        "example": "他斷開了電話線。"
+      }
+    },
+    {
+      "word": "Discontinue",
+      "type": "verb",
+      "meaning": "To stop doing or providing something",
+      "example": "The company discontinued the product due to low sales.",
+      "chinese": {
+        "meaning": "停止、中斷",
+        "example": "公司因銷售不佳停止生產該產品。"
+      }
+    },
+    {
+      "word": "Discount",
+      "type": "verb",
+      "meaning": "To reduce the price; to regard something as unimportant",
+      "example": "They discounted the old models to clear inventory.",
+      "chinese": {
+        "meaning": "打折、忽視",
+        "example": "他們對舊款產品打折促銷。"
       }
     },
     {
@@ -540,6 +1666,66 @@
       }
     },
     {
+      "word": "Disdain",
+      "type": "verb",
+      "meaning": "To regard with contempt or scorn",
+      "example": "She disdained their rude behavior.",
+      "chinese": {
+        "meaning": "鄙視、蔑視",
+        "example": "她鄙視他們的粗魯行為。"
+      }
+    },
+    {
+      "word": "Disembark",
+      "type": "verb",
+      "meaning": "To leave a ship, aircraft, or vehicle",
+      "example": "Passengers disembarked the plane safely.",
+      "chinese": {
+        "meaning": "下船、下飛機",
+        "example": "乘客安全地下了飛機。"
+      }
+    },
+    {
+      "word": "Disengage",
+      "type": "verb",
+      "meaning": "To release from attachment or connection",
+      "example": "He disengaged the safety lock.",
+      "chinese": {
+        "meaning": "脫離、鬆開",
+        "example": "他鬆開了安全鎖。"
+      }
+    },
+    {
+      "word": "Disentangle",
+      "type": "verb",
+      "meaning": "To free from a tangled or complicated situation",
+      "example": "She disentangled the knots in the rope.",
+      "chinese": {
+        "meaning": "解開、使脫離困境",
+        "example": "她解開了繩結。"
+      }
+    },
+    {
+      "word": "Disfigure",
+      "type": "verb",
+      "meaning": "To spoil the appearance of something",
+      "example": "The graffiti disfigured the wall.",
+      "chinese": {
+        "meaning": "損壞外觀、毀容",
+        "example": "塗鴉弄髒了牆壁。"
+      }
+    },
+    {
+      "word": "Disgrace",
+      "type": "verb",
+      "meaning": "To bring shame or dishonor",
+      "example": "The scandal disgraced the politician.",
+      "chinese": {
+        "meaning": "使蒙羞、使丟臉",
+        "example": "這起醜聞使該政治家蒙羞。"
+      }
+    },
+    {
       "word": "Disguise",
       "type": "verb",
       "letter": "D",
@@ -548,6 +1734,36 @@
       "chinese": {
         "meaning": "偽裝",
         "example": "他偽裝成一位老人。"
+      }
+    },
+    {
+      "word": "Disgust",
+      "type": "verb",
+      "meaning": "To cause strong dislike or revulsion",
+      "example": "The smell disgusted everyone in the room.",
+      "chinese": {
+        "meaning": "使反感、使厭惡",
+        "example": "那股氣味讓房間裡的人都感到厭惡。"
+      }
+    },
+    {
+      "word": "Dishonor",
+      "type": "verb",
+      "meaning": "To bring shame or loss of respect",
+      "example": "He dishonored his family by his actions.",
+      "chinese": {
+        "meaning": "使丟臉、使失去尊重",
+        "example": "他的行為使家人蒙羞。"
+      }
+    },
+    {
+      "word": "Disinherit",
+      "type": "verb",
+      "meaning": "To exclude from receiving inheritance",
+      "example": "He was disinherited by his father.",
+      "chinese": {
+        "meaning": "剝奪繼承權",
+        "example": "他被父親剝奪了繼承權。"
       }
     },
     {
@@ -584,6 +1800,46 @@
       }
     },
     {
+      "word": "Dislodge",
+      "type": "verb",
+      "meaning": "To force out of a position",
+      "example": "The protesters dislodged the barricades.",
+      "chinese": {
+        "meaning": "逐出、移除",
+        "example": "抗議者拆除了路障。"
+      }
+    },
+    {
+      "word": "Dismantle",
+      "type": "verb",
+      "meaning": "To take something apart systematically",
+      "example": "They dismantled the old machine for parts.",
+      "chinese": {
+        "meaning": "拆解、拆卸",
+        "example": "他們拆解了舊機器以取零件。"
+      }
+    },
+    {
+      "word": "Dismay",
+      "type": "verb",
+      "meaning": "To cause someone to feel concern or distress",
+      "example": "The news dismayed the entire community.",
+      "chinese": {
+        "meaning": "使沮喪、使氣餒",
+        "example": "這個消息讓整個社區感到沮喪。"
+      }
+    },
+    {
+      "word": "Dismember",
+      "type": "verb",
+      "meaning": "To cut off the limbs of a body; to divide into parts",
+      "example": "The detective found evidence that the body had been dismembered.",
+      "chinese": {
+        "meaning": "肢解、分割",
+        "example": "警探發現屍體被肢解的證據。"
+      }
+    },
+    {
       "word": "Dismiss",
       "type": "verb",
       "letter": "D",
@@ -606,6 +1862,66 @@
       }
     },
     {
+      "word": "Disorder",
+      "type": "verb",
+      "meaning": "To disturb the normal order or arrangement",
+      "example": "The protesters tried to disorder the event.",
+      "chinese": {
+        "meaning": "擾亂、弄亂",
+        "example": "抗議者試圖擾亂活動秩序。"
+      }
+    },
+    {
+      "word": "Disorient",
+      "type": "verb",
+      "meaning": "To cause someone to lose their sense of direction",
+      "example": "The thick fog disoriented the hikers.",
+      "chinese": {
+        "meaning": "使迷失方向、使困惑",
+        "example": "濃霧使徒步者迷失方向。"
+      }
+    },
+    {
+      "word": "Disown",
+      "type": "verb",
+      "meaning": "To refuse to acknowledge or maintain any connection with",
+      "example": "He was disowned by his family after the scandal.",
+      "chinese": {
+        "meaning": "否認、與…斷絕關係",
+        "example": "醜聞後他被家人否認。"
+      }
+    },
+    {
+      "word": "Disparage",
+      "type": "verb",
+      "meaning": "To belittle or speak negatively about someone or something",
+      "example": "She disparaged his achievements unfairly.",
+      "chinese": {
+        "meaning": "貶低、輕視",
+        "example": "她不公平地貶低了他的成就。"
+      }
+    },
+    {
+      "word": "Dispel",
+      "type": "verb",
+      "meaning": "To make a doubt, feeling, or belief disappear",
+      "example": "The speech helped dispel fears about the future.",
+      "chinese": {
+        "meaning": "消除、驅散",
+        "example": "演講幫助消除了對未來的恐懼。"
+      }
+    },
+    {
+      "word": "Dispense",
+      "type": "verb",
+      "meaning": "To distribute or provide something",
+      "example": "The machine dispenses snacks and drinks.",
+      "chinese": {
+        "meaning": "分發、供應",
+        "example": "這台機器供應零食和飲料。"
+      }
+    },
+    {
       "word": "Disperse",
       "type": "verb",
       "letter": "D",
@@ -614,6 +1930,16 @@
       "chinese": {
         "meaning": "分散",
         "example": "音樂會結束後人群散開了。"
+      }
+    },
+    {
+      "word": "Displace",
+      "type": "verb",
+      "meaning": "To take the place of something or someone",
+      "example": "New technology has displaced many traditional jobs.",
+      "chinese": {
+        "meaning": "取代、移動",
+        "example": "新技術取代了許多傳統工作。"
       }
     },
     {
@@ -628,6 +1954,16 @@
       }
     },
     {
+      "word": "Displease",
+      "type": "verb",
+      "meaning": "To cause someone to feel annoyed or dissatisfied",
+      "example": "The rude comment displeased the guests.",
+      "chinese": {
+        "meaning": "使不悅、使生氣",
+        "example": "粗魯的話讓客人不悅。"
+      }
+    },
+    {
       "word": "Dispose",
       "type": "verb",
       "letter": "D",
@@ -639,6 +1975,16 @@
       }
     },
     {
+      "word": "Dispossess",
+      "type": "verb",
+      "meaning": "To deprive someone of property or possessions",
+      "example": "Many families were dispossessed during the war.",
+      "chinese": {
+        "meaning": "剝奪…的財產",
+        "example": "許多家庭在戰爭中被剝奪財產。"
+      }
+    },
+    {
       "word": "Disprove",
       "type": "verb",
       "letter": "D",
@@ -647,6 +1993,26 @@
       "chinese": {
         "meaning": "證明...是錯的",
         "example": "科學家證明了舊理論是錯誤的。"
+      }
+    },
+    {
+      "word": "Dispute",
+      "type": "verb",
+      "meaning": "To argue about something; to question the truth or validity",
+      "example": "They disputed the ownership of the land.",
+      "chinese": {
+        "meaning": "爭論、質疑",
+        "example": "他們爭論土地的所有權。"
+      }
+    },
+    {
+      "word": "Disqualify",
+      "type": "verb",
+      "meaning": "To declare someone ineligible for a position or activity",
+      "example": "The player was disqualified for cheating.",
+      "chinese": {
+        "meaning": "取消資格、剝奪參賽資格",
+        "example": "該選手因作弊被取消資格。"
       }
     },
     {
@@ -672,6 +2038,46 @@
       }
     },
     {
+      "word": "Dissect",
+      "type": "verb",
+      "meaning": "To carefully cut apart or analyze something in detail",
+      "example": "Students dissected frogs in biology class.",
+      "chinese": {
+        "meaning": "解剖、詳細分析",
+        "example": "學生們在生物課上解剖青蛙。"
+      }
+    },
+    {
+      "word": "Disseminate",
+      "type": "verb",
+      "meaning": "To spread or disperse widely",
+      "example": "The organization disseminates information about health.",
+      "chinese": {
+        "meaning": "散布、傳播",
+        "example": "該組織散布健康資訊。"
+      }
+    },
+    {
+      "word": "Dissent",
+      "type": "verb",
+      "meaning": "To hold or express opinions different from the majority",
+      "example": "Some members dissented from the official decision.",
+      "chinese": {
+        "meaning": "持異議、不同意",
+        "example": "一些成員對官方決定持異議。"
+      }
+    },
+    {
+      "word": "Dissipate",
+      "type": "verb",
+      "meaning": "To disappear or cause to disappear",
+      "example": "The fog dissipated as the sun rose.",
+      "chinese": {
+        "meaning": "消散、驅散",
+        "example": "霧隨著太陽升起而消散。"
+      }
+    },
+    {
       "word": "Dissolve",
       "type": "verb",
       "letter": "D",
@@ -683,6 +2089,26 @@
       }
     },
     {
+      "word": "Dissuade",
+      "type": "verb",
+      "meaning": "To persuade someone not to do something",
+      "example": "He dissuaded her from quitting her job.",
+      "chinese": {
+        "meaning": "勸阻、阻止",
+        "example": "他勸阻她不要辭職。"
+      }
+    },
+    {
+      "word": "Distance",
+      "type": "verb",
+      "meaning": "To create space or remove oneself from something or someone",
+      "example": "She distanced herself from the controversy.",
+      "chinese": {
+        "meaning": "疏遠、保持距離",
+        "example": "她與爭議保持距離。"
+      }
+    },
+    {
       "word": "Distil",
       "type": "verb",
       "letter": "D",
@@ -691,6 +2117,16 @@
       "chinese": {
         "meaning": "蒸餾",
         "example": "他們通過蒸餾淨化水。"
+      }
+    },
+    {
+      "word": "Distill",
+      "type": "verb",
+      "meaning": "To purify or extract the essential meaning",
+      "example": "They distilled the essence of the story.",
+      "chinese": {
+        "meaning": "提煉、蒸餾",
+        "example": "他們提煉了故事的精髓。"
       }
     },
     {
@@ -724,6 +2160,16 @@
       "chinese": {
         "meaning": "分散注意力",
         "example": "噪音讓她無法專心學習。"
+      }
+    },
+    {
+      "word": "Distress",
+      "type": "verb",
+      "meaning": "To cause someone to feel extreme anxiety or sorrow",
+      "example": "The news distressed the entire family.",
+      "chinese": {
+        "meaning": "使痛苦、使苦惱",
+        "example": "這個消息讓整個家庭感到痛苦。"
       }
     },
     {
@@ -771,6 +2217,16 @@
       }
     },
     {
+      "word": "Diversify",
+      "type": "verb",
+      "meaning": "To vary or expand into different types or activities",
+      "example": "The company diversified its product line.",
+      "chinese": {
+        "meaning": "多樣化、使多元化",
+        "example": "公司多樣化了產品線。"
+      }
+    },
+    {
       "word": "Divert",
       "type": "verb",
       "letter": "D",
@@ -779,6 +2235,16 @@
       "chinese": {
         "meaning": "改道、轉移",
         "example": "由於事故，警察改變了交通路線。"
+      }
+    },
+    {
+      "word": "Divest",
+      "type": "verb",
+      "meaning": "To deprive or rid oneself of something",
+      "example": "They divested their holdings in the company.",
+      "chinese": {
+        "meaning": "剝奪、出售（資產）",
+        "example": "他們出售了公司股份。"
       }
     },
     {
@@ -793,6 +2259,26 @@
       }
     },
     {
+      "word": "Do",
+      "type": "verb",
+      "meaning": "To perform or carry out an action",
+      "example": "She did her homework on time.",
+      "chinese": {
+        "meaning": "做、執行",
+        "example": "她按時完成了作業。"
+      }
+    },
+    {
+      "word": "Dock",
+      "type": "verb",
+      "meaning": "To bring a ship into a dock; to deduct part of something",
+      "example": "The ship docked at the harbor at dawn.",
+      "chinese": {
+        "meaning": "停靠、扣除",
+        "example": "船隻黎明時停靠在港口。"
+      }
+    },
+    {
       "word": "Document",
       "type": "verb",
       "letter": "D",
@@ -801,6 +2287,16 @@
       "chinese": {
         "meaning": "記錄、紀錄",
         "example": "考古學家記錄了這些發現。"
+      }
+    },
+    {
+      "word": "Dodge",
+      "type": "verb",
+      "meaning": "To avoid something by a sudden movement",
+      "example": "He dodged the ball skillfully.",
+      "chinese": {
+        "meaning": "閃避、躲避",
+        "example": "他熟練地躲開了球。"
       }
     },
     {
@@ -856,6 +2352,56 @@
       "chinese": {
         "meaning": "懷疑",
         "example": "我懷疑這個故事是真的。"
+      }
+    },
+    {
+      "word": "Downgrade",
+      "type": "verb",
+      "meaning": "To reduce in rank or quality",
+      "example": "The software was downgraded to an older version.",
+      "chinese": {
+        "meaning": "降級、降低品質",
+        "example": "軟件被降級到舊版本。"
+      }
+    },
+    {
+      "word": "Download",
+      "type": "verb",
+      "meaning": "To transfer data from one system to another",
+      "example": "She downloaded the latest app update.",
+      "chinese": {
+        "meaning": "下載",
+        "example": "她下載了最新的應用程序更新。"
+      }
+    },
+    {
+      "word": "Downplay",
+      "type": "verb",
+      "meaning": "To make something appear less important",
+      "example": "He downplayed the significance of the mistake.",
+      "chinese": {
+        "meaning": "淡化、輕描淡寫",
+        "example": "他淡化了錯誤的重要性。"
+      }
+    },
+    {
+      "word": "Downsize",
+      "type": "verb",
+      "meaning": "To reduce in size or number, especially employees",
+      "example": "The company downsized its workforce last year.",
+      "chinese": {
+        "meaning": "裁減、縮小規模",
+        "example": "公司去年裁減了員工數量。"
+      }
+    },
+    {
+      "word": "Doze",
+      "type": "verb",
+      "meaning": "To sleep lightly or nap briefly",
+      "example": "He dozed off during the meeting.",
+      "chinese": {
+        "meaning": "打瞌睡、打盹",
+        "example": "他在會議中打瞌睡了。"
       }
     },
     {
@@ -1010,6 +2556,16 @@
       "chinese": {
         "meaning": "駕駛",
         "example": "他每天開車上班。"
+      }
+    },
+    {
+      "word": "Drone",
+      "type": "verb",
+      "meaning": "To make a continuous low humming sound; to speak in a monotonous tone",
+      "example": "The machine droned all night long.",
+      "chinese": {
+        "meaning": "嗡嗡作響、單調地說話",
+        "example": "機器整晚嗡嗡作響。"
       }
     },
     {

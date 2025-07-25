@@ -34,6 +34,56 @@
       }
     },
     {
+      "word": "Eavesdrop",
+      "type": "verb",
+      "meaning": "To secretly listen to a conversation",
+      "example": "He was caught eavesdropping on their discussion.",
+      "chinese": {
+        "meaning": "偷聽",
+        "example": "他被抓到偷聽他們的討論。"
+      }
+    },
+    {
+      "word": "Ebb",
+      "type": "verb",
+      "meaning": "To recede or decline, especially tide or feelings",
+      "example": "The tide began to ebb after high noon.",
+      "chinese": {
+        "meaning": "退潮、減退",
+        "example": "正午後潮水開始退去。"
+      }
+    },
+    {
+      "word": "Echo",
+      "type": "verb",
+      "meaning": "To repeat a sound or idea",
+      "example": "His words echoed in the empty hall.",
+      "chinese": {
+        "meaning": "回聲、呼應",
+        "example": "他的話在空蕩的廳堂裡回響。"
+      }
+    },
+    {
+      "word": "Economize",
+      "type": "verb",
+      "meaning": "To reduce expenses or save money",
+      "example": "They needed to economize during the recession.",
+      "chinese": {
+        "meaning": "節約、節省",
+        "example": "經濟蕭條期間，他們需要節約開支。"
+      }
+    },
+    {
+      "word": "Edify",
+      "type": "verb",
+      "meaning": "To instruct or improve morally or intellectually",
+      "example": "The lecture was meant to edify the students.",
+      "chinese": {
+        "meaning": "教化、啟發",
+        "example": "那場講座旨在啟發學生。"
+      }
+    },
+    {
       "word": "Edit",
       "type": "verb",
       "letter": "E",
@@ -67,6 +117,16 @@
       }
     },
     {
+      "word": "Eject",
+      "type": "verb",
+      "meaning": "To force or throw out",
+      "example": "The referee ejected the player for foul play.",
+      "chinese": {
+        "meaning": "驅逐、彈出",
+        "example": "裁判因犯規驅逐了該球員。"
+      }
+    },
+    {
       "word": "Elaborate",
       "type": "verb",
       "letter": "E",
@@ -75,6 +135,36 @@
       "chinese": {
         "meaning": "詳細說明",
         "example": "老師要求學生詳細說明她的答案。"
+      }
+    },
+    {
+      "word": "Elapse",
+      "type": "verb",
+      "meaning": "To pass or slip away (time)",
+      "example": "Several hours elapsed before they returned.",
+      "chinese": {
+        "meaning": "消逝、過去",
+        "example": "幾個小時過去了，他們才回來。"
+      }
+    },
+    {
+      "word": "Elect",
+      "type": "verb",
+      "meaning": "To choose by voting",
+      "example": "The citizens elected a new mayor.",
+      "chinese": {
+        "meaning": "選舉、選擇",
+        "example": "市民選出了新市長。"
+      }
+    },
+    {
+      "word": "Electrify",
+      "type": "verb",
+      "meaning": "To charge with electricity; to thrill or excite",
+      "example": "The news electrified the audience.",
+      "chinese": {
+        "meaning": "使帶電、使激動",
+        "example": "這消息使觀眾激動不已。"
       }
     },
     {
@@ -89,6 +179,16 @@
       }
     },
     {
+      "word": "Elicit",
+      "type": "verb",
+      "meaning": "To draw out or bring forth",
+      "example": "The question elicited a thoughtful response.",
+      "chinese": {
+        "meaning": "引出、誘出",
+        "example": "這個問題引出了深思的回答。"
+      }
+    },
+    {
       "word": "Eliminate",
       "type": "verb",
       "letter": "E",
@@ -97,6 +197,76 @@
       "chinese": {
         "meaning": "消除",
         "example": "新政策旨在消除貧困。"
+      }
+    },
+    {
+      "word": "Elude",
+      "type": "verb",
+      "meaning": "To evade or escape from",
+      "example": "The criminal eluded the police for weeks.",
+      "chinese": {
+        "meaning": "逃避、躲避",
+        "example": "罪犯躲避警方好幾週。"
+      }
+    },
+    {
+      "word": "Emancipate",
+      "type": "verb",
+      "meaning": "To set free from restriction or bondage",
+      "example": "The slaves were emancipated after the war.",
+      "chinese": {
+        "meaning": "解放、使自由",
+        "example": "奴隸在戰後被解放。"
+      }
+    },
+    {
+      "word": "Embank",
+      "type": "verb",
+      "meaning": "To enclose with a bank or wall to prevent flooding",
+      "example": "They embanked the river to protect the town.",
+      "chinese": {
+        "meaning": "築堤防護",
+        "example": "他們築堤防護河流，保護城鎮。"
+      }
+    },
+    {
+      "word": "Embark",
+      "type": "verb",
+      "meaning": "To begin a journey or project",
+      "example": "They embarked on a long voyage.",
+      "chinese": {
+        "meaning": "開始、登船",
+        "example": "他們開始了一次長途航行。"
+      }
+    },
+    {
+      "word": "Embarrass",
+      "type": "verb",
+      "meaning": "To cause someone to feel awkward or ashamed",
+      "example": "He was embarrassed by the mistake.",
+      "chinese": {
+        "meaning": "使尷尬、使難堪",
+        "example": "他因錯誤感到尷尬。"
+      }
+    },
+    {
+      "word": "Embed",
+      "type": "verb",
+      "meaning": "To fix firmly and deeply",
+      "example": "The journalist was embedded with the troops.",
+      "chinese": {
+        "meaning": "嵌入、使深留",
+        "example": "記者隨軍報導。"
+      }
+    },
+    {
+      "word": "Embezzle",
+      "type": "verb",
+      "meaning": "To steal money from a place or organization",
+      "example": "He was arrested for embezzling company funds.",
+      "chinese": {
+        "meaning": "挪用、盜用",
+        "example": "他因挪用公司資金被逮捕。"
       }
     },
     {
@@ -111,6 +281,46 @@
       }
     },
     {
+      "word": "Embrace",
+      "type": "verb",
+      "meaning": "To hold closely in one's arms; to accept willingly",
+      "example": "She embraced her friend warmly.",
+      "chinese": {
+        "meaning": "擁抱、接受",
+        "example": "她熱情地擁抱了朋友。"
+      }
+    },
+    {
+      "word": "Embroider",
+      "type": "verb",
+      "meaning": "To decorate fabric with needlework",
+      "example": "She embroidered a beautiful pattern on the cloth.",
+      "chinese": {
+        "meaning": "刺繡",
+        "example": "她在布料上刺繡了美麗的圖案。"
+      }
+    },
+    {
+      "word": "Embroil",
+      "type": "verb",
+      "meaning": "To involve deeply in a conflict or difficult situation",
+      "example": "He was embroiled in a political scandal.",
+      "chinese": {
+        "meaning": "使捲入、牽連",
+        "example": "他捲入了一場政治醜聞。"
+      }
+    },
+    {
+      "word": "Emerge",
+      "type": "verb",
+      "meaning": "To come out or become visible",
+      "example": "The sun emerged from behind the clouds.",
+      "chinese": {
+        "meaning": "出現、浮現",
+        "example": "太陽從雲後出現。"
+      }
+    },
+    {
       "word": "Emigrate",
       "type": "verb",
       "letter": "E",
@@ -119,6 +329,16 @@
       "chinese": {
         "meaning": "移居",
         "example": "許多家庭在20世紀移居澳大利亞。"
+      }
+    },
+    {
+      "word": "Emit",
+      "type": "verb",
+      "meaning": "To send out or give off",
+      "example": "The factory emits a lot of smoke.",
+      "chinese": {
+        "meaning": "發出、放射",
+        "example": "工廠排放大量煙霧。"
       }
     },
     {
@@ -144,6 +364,46 @@
       }
     },
     {
+      "word": "Employ",
+      "type": "verb",
+      "meaning": "To hire or make use of",
+      "example": "The company employs over 200 workers.",
+      "chinese": {
+        "meaning": "雇用、使用",
+        "example": "公司僱用了兩百多名員工。"
+      }
+    },
+    {
+      "word": "Empower",
+      "type": "verb",
+      "meaning": "To give someone authority or power",
+      "example": "The program empowers women in the community.",
+      "chinese": {
+        "meaning": "授權、使有能力",
+        "example": "該計劃賦予社區女性權力。"
+      }
+    },
+    {
+      "word": "Empty",
+      "type": "verb",
+      "meaning": "To remove all contents",
+      "example": "He emptied the box onto the table.",
+      "chinese": {
+        "meaning": "清空、倒空",
+        "example": "他把箱子裡的東西倒在桌子上。"
+      }
+    },
+    {
+      "word": "Emulate",
+      "type": "verb",
+      "meaning": "To imitate with effort to equal or surpass",
+      "example": "She tried to emulate her mentor's success.",
+      "chinese": {
+        "meaning": "效仿、模仿",
+        "example": "她試圖效仿導師的成功。"
+      }
+    },
+    {
       "word": "Enable",
       "type": "verb",
       "letter": "E",
@@ -152,6 +412,56 @@
       "chinese": {
         "meaning": "使能夠",
         "example": "新技術使溝通更快速。"
+      }
+    },
+    {
+      "word": "Enact",
+      "type": "verb",
+      "meaning": "To make into law; to act out",
+      "example": "The government enacted new regulations.",
+      "chinese": {
+        "meaning": "制定法律、扮演",
+        "example": "政府制定了新法規。"
+      }
+    },
+    {
+      "word": "Enchant",
+      "type": "verb",
+      "meaning": "To delight or charm someone",
+      "example": "The magician enchanted the audience.",
+      "chinese": {
+        "meaning": "使著迷、施魔法",
+        "example": "魔術師使觀眾著迷。"
+      }
+    },
+    {
+      "word": "Encircle",
+      "type": "verb",
+      "meaning": "To surround something",
+      "example": "The castle was encircled by a moat.",
+      "chinese": {
+        "meaning": "環繞、圍繞",
+        "example": "城堡被護城河環繞。"
+      }
+    },
+    {
+      "word": "Enclose",
+      "type": "verb",
+      "meaning": "To surround or close off",
+      "example": "They enclosed the garden with a fence.",
+      "chinese": {
+        "meaning": "圍住、封入",
+        "example": "他們用圍欄圍住花園。"
+      }
+    },
+    {
+      "word": "Encompass",
+      "type": "verb",
+      "meaning": "To include or surround comprehensively",
+      "example": "The course encompasses various topics.",
+      "chinese": {
+        "meaning": "包含、圍繞",
+        "example": "課程涵蓋了多個主題。"
       }
     },
     {
@@ -177,6 +487,96 @@
       }
     },
     {
+      "word": "Encroach",
+      "type": "verb",
+      "meaning": "To intrude on someone's territory or rights",
+      "example": "The company encroached on protected land.",
+      "chinese": {
+        "meaning": "侵犯、侵占",
+        "example": "公司侵占了受保護的土地。"
+      }
+    },
+    {
+      "word": "End",
+      "type": "verb",
+      "meaning": "To bring to a conclusion",
+      "example": "They ended the meeting early.",
+      "chinese": {
+        "meaning": "結束、終止",
+        "example": "他們提前結束了會議。"
+      }
+    },
+    {
+      "word": "Endanger",
+      "type": "verb",
+      "meaning": "To put at risk or in danger",
+      "example": "Pollution endangers wildlife.",
+      "chinese": {
+        "meaning": "危害、使處於危險",
+        "example": "污染危害野生動物。"
+      }
+    },
+    {
+      "word": "Endear",
+      "type": "verb",
+      "meaning": "To cause to be loved or liked",
+      "example": "Her kindness endeared her to everyone.",
+      "chinese": {
+        "meaning": "使受喜愛、使親近",
+        "example": "她的善良使大家喜愛她。"
+      }
+    },
+    {
+      "word": "Endeavor",
+      "type": "verb",
+      "meaning": "To try hard to achieve something",
+      "example": "They endeavored to improve the system.",
+      "chinese": {
+        "meaning": "努力、嘗試",
+        "example": "他們努力改進系統。"
+      }
+    },
+    {
+      "word": "Endorse",
+      "type": "verb",
+      "meaning": "To support or approve",
+      "example": "The celebrity endorsed the product.",
+      "chinese": {
+        "meaning": "背書、支持",
+        "example": "名人代言了該產品。"
+      }
+    },
+    {
+      "word": "Endow",
+      "type": "verb",
+      "meaning": "To provide with a quality or asset",
+      "example": "The university was endowed with a large donation.",
+      "chinese": {
+        "meaning": "賦予、捐贈",
+        "example": "大學獲得了一筆巨額捐款。"
+      }
+    },
+    {
+      "word": "Endure",
+      "type": "verb",
+      "meaning": "To suffer patiently; to last",
+      "example": "She endured the hardships bravely.",
+      "chinese": {
+        "meaning": "忍受、持續",
+        "example": "她勇敢地忍受了艱難。"
+      }
+    },
+    {
+      "word": "Energize",
+      "type": "verb",
+      "meaning": "To give energy or vitality",
+      "example": "The coach energized the team before the match.",
+      "chinese": {
+        "meaning": "使充滿活力、激勵",
+        "example": "教練在比賽前激勵了隊伍。"
+      }
+    },
+    {
       "word": "Enforce",
       "type": "verb",
       "letter": "E",
@@ -199,6 +599,36 @@
       }
     },
     {
+      "word": "Engrave",
+      "type": "verb",
+      "meaning": "To carve or cut into a surface",
+      "example": "His name was engraved on the trophy.",
+      "chinese": {
+        "meaning": "雕刻",
+        "example": "他的名字被刻在獎盃上。"
+      }
+    },
+    {
+      "word": "Engross",
+      "type": "verb",
+      "meaning": "To absorb all the attention or interest",
+      "example": "She was engrossed in the novel.",
+      "chinese": {
+        "meaning": "使全神貫注",
+        "example": "她全神貫注地看小說。"
+      }
+    },
+    {
+      "word": "Engulf",
+      "type": "verb",
+      "meaning": "To surround or cover completely",
+      "example": "The town was engulfed by the flood.",
+      "chinese": {
+        "meaning": "吞沒、包圍",
+        "example": "城鎮被洪水吞沒。"
+      }
+    },
+    {
       "word": "Enhance",
       "type": "verb",
       "letter": "E",
@@ -207,6 +637,46 @@
       "chinese": {
         "meaning": "提升",
         "example": "新功能提升了應用程式的易用性。"
+      }
+    },
+    {
+      "word": "Enjoin",
+      "type": "verb",
+      "meaning": "To instruct or urge to do something",
+      "example": "The law enjoins citizens to pay taxes.",
+      "chinese": {
+        "meaning": "命令、要求",
+        "example": "法律要求公民繳稅。"
+      }
+    },
+    {
+      "word": "Enjoy",
+      "type": "verb",
+      "meaning": "To take pleasure in something",
+      "example": "They enjoyed the concert thoroughly.",
+      "chinese": {
+        "meaning": "享受",
+        "example": "他們非常享受那場音樂會。"
+      }
+    },
+    {
+      "word": "Enlarge",
+      "type": "verb",
+      "meaning": "To make bigger or expand",
+      "example": "They enlarged the photo for better view.",
+      "chinese": {
+        "meaning": "放大、擴大",
+        "example": "他們放大了照片以便看清楚。"
+      }
+    },
+    {
+      "word": "Enlighten",
+      "type": "verb",
+      "meaning": "To give knowledge or insight",
+      "example": "The teacher enlightened the students on the topic.",
+      "chinese": {
+        "meaning": "啟發、開導",
+        "example": "老師啟發了學生對該主題的理解。"
       }
     },
     {
@@ -232,6 +702,36 @@
       }
     },
     {
+      "word": "Enroll",
+      "type": "verb",
+      "meaning": "To officially register or sign up",
+      "example": "She enrolled in the university last year.",
+      "chinese": {
+        "meaning": "註冊、入學",
+        "example": "她去年入學大學。"
+      }
+    },
+    {
+      "word": "Enslave",
+      "type": "verb",
+      "meaning": "To make someone a slave or control completely",
+      "example": "They enslaved many people during the conquest.",
+      "chinese": {
+        "meaning": "奴役、使受控制",
+        "example": "他們在征服期間奴役了許多人。"
+      }
+    },
+    {
+      "word": "Ensue",
+      "type": "verb",
+      "meaning": "To happen as a result",
+      "example": "After the announcement, chaos ensued.",
+      "chinese": {
+        "meaning": "接著發生、隨之而來",
+        "example": "公告後混亂隨之而來。"
+      }
+    },
+    {
       "word": "Ensure",
       "type": "verb",
       "letter": "E",
@@ -251,6 +751,26 @@
       "chinese": {
         "meaning": "需要",
         "example": "該項目需要大量的研究和規劃。"
+      }
+    },
+    {
+      "word": "Entangle",
+      "type": "verb",
+      "meaning": "To twist together or involve in difficulties",
+      "example": "The kite got entangled in the tree branches.",
+      "chinese": {
+        "meaning": "糾纏、使陷入困境",
+        "example": "風箏纏在樹枝裡。"
+      }
+    },
+    {
+      "word": "Enter",
+      "type": "verb",
+      "meaning": "To come or go into a place",
+      "example": "She entered the room quietly.",
+      "chinese": {
+        "meaning": "進入",
+        "example": "她靜靜地進入房間。"
       }
     },
     {
@@ -276,6 +796,146 @@
       }
     },
     {
+      "word": "Entitle",
+      "type": "verb",
+      "meaning": "To give a right or claim to something",
+      "example": "This ticket entitles you to a free drink.",
+      "chinese": {
+        "meaning": "授予權利、命名",
+        "example": "此票授予您免費飲料的權利。"
+      }
+    },
+    {
+      "word": "Entrap",
+      "type": "verb",
+      "meaning": "To catch or trick into a harmful situation",
+      "example": "The animal was entrapped in the cage.",
+      "chinese": {
+        "meaning": "誘捕、陷害",
+        "example": "動物被困在籠子裡。"
+      }
+    },
+    {
+      "word": "Entrust",
+      "type": "verb",
+      "meaning": "To assign responsibility to someone",
+      "example": "She entrusted him with the secret documents.",
+      "chinese": {
+        "meaning": "委託、信任",
+        "example": "她把機密文件交給他保管。"
+      }
+    },
+    {
+      "word": "Enumerate",
+      "type": "verb",
+      "meaning": "To list or count one by one",
+      "example": "He enumerated the reasons for his decision.",
+      "chinese": {
+        "meaning": "列舉、數數",
+        "example": "他列舉了他決定的原因。"
+      }
+    },
+    {
+      "word": "Envelop",
+      "type": "verb",
+      "meaning": "To cover or surround completely",
+      "example": "Fog enveloped the entire city.",
+      "chinese": {
+        "meaning": "包裹、覆蓋",
+        "example": "霧籠罩了整個城市。"
+      }
+    },
+    {
+      "word": "Envision",
+      "type": "verb",
+      "meaning": "To imagine or picture in the mind",
+      "example": "She envisioned a bright future.",
+      "chinese": {
+        "meaning": "想像、展望",
+        "example": "她展望光明的未來。"
+      }
+    },
+    {
+      "word": "Erase",
+      "type": "verb",
+      "meaning": "To remove or wipe out",
+      "example": "He erased the mistake from the paper.",
+      "chinese": {
+        "meaning": "抹去、擦掉",
+        "example": "他擦掉了紙上的錯誤。"
+      }
+    },
+    {
+      "word": "Erect",
+      "type": "verb",
+      "meaning": "To build or construct",
+      "example": "They erected a statue in the park.",
+      "chinese": {
+        "meaning": "建立、豎立",
+        "example": "他們在公園豎立了一座雕像。"
+      }
+    },
+    {
+      "word": "Erode",
+      "type": "verb",
+      "meaning": "To gradually wear away",
+      "example": "The river has eroded the rocks over time.",
+      "chinese": {
+        "meaning": "侵蝕、磨損",
+        "example": "河水隨著時間侵蝕了岩石。"
+      }
+    },
+    {
+      "word": "Err",
+      "type": "verb",
+      "meaning": "To make a mistake",
+      "example": "Everyone can err sometimes.",
+      "chinese": {
+        "meaning": "犯錯",
+        "example": "每個人有時都會犯錯。"
+      }
+    },
+    {
+      "word": "Erupt",
+      "type": "verb",
+      "meaning": "To burst out suddenly",
+      "example": "The volcano erupted violently.",
+      "chinese": {
+        "meaning": "爆發",
+        "example": "火山猛烈爆發。"
+      }
+    },
+    {
+      "word": "Escalate",
+      "type": "verb",
+      "meaning": "To increase or intensify",
+      "example": "The conflict escalated quickly.",
+      "chinese": {
+        "meaning": "升級、加劇",
+        "example": "衝突迅速升級。"
+      }
+    },
+    {
+      "word": "Escape",
+      "type": "verb",
+      "meaning": "To get away from danger or confinement",
+      "example": "The prisoners escaped last night.",
+      "chinese": {
+        "meaning": "逃脫、逃離",
+        "example": "囚犯昨晚逃脫了。"
+      }
+    },
+    {
+      "word": "Escort",
+      "type": "verb",
+      "meaning": "To accompany for protection or guidance",
+      "example": "The guard escorted the VIP to the venue.",
+      "chinese": {
+        "meaning": "護送、陪同",
+        "example": "警衛護送貴賓到會場。"
+      }
+    },
+    {
       "word": "Establish",
       "type": "verb",
       "letter": "E",
@@ -287,6 +947,16 @@
       }
     },
     {
+      "word": "Esteem",
+      "type": "verb",
+      "meaning": "To respect and admire",
+      "example": "She is highly esteemed by her colleagues.",
+      "chinese": {
+        "meaning": "尊敬、重視",
+        "example": "她深受同事們尊敬。"
+      }
+    },
+    {
       "word": "Estimate",
       "type": "verb",
       "letter": "E",
@@ -295,6 +965,36 @@
       "chinese": {
         "meaning": "估計",
         "example": "他們估計該項目費用約為一百萬美元。"
+      }
+    },
+    {
+      "word": "Estrange",
+      "type": "verb",
+      "meaning": "To cause to be no longer close or affectionate",
+      "example": "He became estranged from his family.",
+      "chinese": {
+        "meaning": "使疏遠",
+        "example": "他與家人疏遠了。"
+      }
+    },
+    {
+      "word": "Etch",
+      "type": "verb",
+      "meaning": "To engrave or cut into a surface",
+      "example": "The artist etched his signature on the glass.",
+      "chinese": {
+        "meaning": "蝕刻、刻畫",
+        "example": "藝術家在玻璃上刻下簽名。"
+      }
+    },
+    {
+      "word": "Evacuate",
+      "type": "verb",
+      "meaning": "To remove people from a dangerous place",
+      "example": "Residents were evacuated before the hurricane.",
+      "chinese": {
+        "meaning": "撤離、疏散",
+        "example": "居民在颶風來臨前被疏散。"
       }
     },
     {
@@ -320,6 +1020,36 @@
       }
     },
     {
+      "word": "Evaporate",
+      "type": "verb",
+      "meaning": "To turn from liquid into vapor",
+      "example": "The water evaporated under the sun.",
+      "chinese": {
+        "meaning": "蒸發",
+        "example": "水在陽光下蒸發了。"
+      }
+    },
+    {
+      "word": "Evict",
+      "type": "verb",
+      "meaning": "To legally force someone to leave property",
+      "example": "The landlord evicted the tenants for nonpayment.",
+      "chinese": {
+        "meaning": "驅逐",
+        "example": "房東因未付款驅逐了租戶。"
+      }
+    },
+    {
+      "word": "Evoke",
+      "type": "verb",
+      "meaning": "To bring a feeling or memory to mind",
+      "example": "The music evoked memories of childhood.",
+      "chinese": {
+        "meaning": "喚起、引起",
+        "example": "這音樂喚起了童年的回憶。"
+      }
+    },
+    {
       "word": "Evolve",
       "type": "verb",
       "letter": "E",
@@ -328,6 +1058,26 @@
       "chinese": {
         "meaning": "演變",
         "example": "社會通過文化和技術的變化逐步演變。"
+      }
+    },
+    {
+      "word": "Exaggerate",
+      "type": "verb",
+      "meaning": "To represent something as greater than it is",
+      "example": "He exaggerated the size of the fish he caught.",
+      "chinese": {
+        "meaning": "誇張、誇大",
+        "example": "他誇大了他釣到的魚的大小。"
+      }
+    },
+    {
+      "word": "Exalt",
+      "type": "verb",
+      "meaning": "To praise highly",
+      "example": "The hero was exalted for his bravery.",
+      "chinese": {
+        "meaning": "讚揚、提升",
+        "example": "英雄因勇敢被讚揚。"
       }
     },
     {
@@ -342,6 +1092,16 @@
       }
     },
     {
+      "word": "Excavate",
+      "type": "verb",
+      "meaning": "To dig out from the ground",
+      "example": "Archaeologists excavated ancient ruins.",
+      "chinese": {
+        "meaning": "挖掘",
+        "example": "考古學家挖掘古代遺址。"
+      }
+    },
+    {
       "word": "Exceed",
       "type": "verb",
       "letter": "E",
@@ -350,6 +1110,46 @@
       "chinese": {
         "meaning": "超過",
         "example": "運動員打破了所有先前的紀錄。"
+      }
+    },
+    {
+      "word": "Excel",
+      "type": "verb",
+      "meaning": "To be exceptionally good at something",
+      "example": "She excels in mathematics.",
+      "chinese": {
+        "meaning": "擅長、突出",
+        "example": "她數學很擅長。"
+      }
+    },
+    {
+      "word": "Exchange",
+      "type": "verb",
+      "meaning": "To give one thing and receive another",
+      "example": "They exchanged gifts during the festival.",
+      "chinese": {
+        "meaning": "交換",
+        "example": "他們在節日期間交換禮物。"
+      }
+    },
+    {
+      "word": "Excite",
+      "type": "verb",
+      "meaning": "To cause strong feelings of enthusiasm or eagerness",
+      "example": "The news excited the children.",
+      "chinese": {
+        "meaning": "使興奮、激動",
+        "example": "這消息讓孩子們興奮不已。"
+      }
+    },
+    {
+      "word": "Exclaim",
+      "type": "verb",
+      "meaning": "To cry out suddenly",
+      "example": "She exclaimed in surprise.",
+      "chinese": {
+        "meaning": "驚叫、呼喊",
+        "example": "她驚訝地喊出聲。"
       }
     },
     {
@@ -375,6 +1175,66 @@
       }
     },
     {
+      "word": "Execute",
+      "type": "verb",
+      "meaning": "To carry out or perform",
+      "example": "The plan was executed flawlessly.",
+      "chinese": {
+        "meaning": "執行、實行",
+        "example": "計劃被完美執行。"
+      }
+    },
+    {
+      "word": "Exemplify",
+      "type": "verb",
+      "meaning": "To illustrate or clarify by example",
+      "example": "Her success exemplifies hard work.",
+      "chinese": {
+        "meaning": "作為…的典範",
+        "example": "她的成功是努力工作的典範。"
+      }
+    },
+    {
+      "word": "Exercise",
+      "type": "verb",
+      "meaning": "To engage in physical activity or practice",
+      "example": "He exercises every morning.",
+      "chinese": {
+        "meaning": "運動、行使",
+        "example": "他每天早上運動。"
+      }
+    },
+    {
+      "word": "Exert",
+      "type": "verb",
+      "meaning": "To apply or bring to bear",
+      "example": "She exerted all her strength to lift the box.",
+      "chinese": {
+        "meaning": "運用、施加",
+        "example": "她使出全力抬起箱子。"
+      }
+    },
+    {
+      "word": "Exhale",
+      "type": "verb",
+      "meaning": "To breathe out",
+      "example": "He exhaled deeply after the race.",
+      "chinese": {
+        "meaning": "呼氣、吐氣",
+        "example": "賽跑後他深深呼氣。"
+      }
+    },
+    {
+      "word": "Exhaust",
+      "type": "verb",
+      "meaning": "To tire out completely",
+      "example": "The long hike exhausted the group.",
+      "chinese": {
+        "meaning": "使筋疲力盡",
+        "example": "長途徒步使隊伍疲憊不堪。"
+      }
+    },
+    {
       "word": "Exhibit",
       "type": "verb",
       "letter": "E",
@@ -383,6 +1243,56 @@
       "chinese": {
         "meaning": "展出",
         "example": "博物館展出古代文物。"
+      }
+    },
+    {
+      "word": "Exhilarate",
+      "type": "verb",
+      "meaning": "To make someone feel very happy or energetic",
+      "example": "The roller coaster exhilarated the riders.",
+      "chinese": {
+        "meaning": "使興奮、高興",
+        "example": "過山車讓乘客興奮不已。"
+      }
+    },
+    {
+      "word": "Exhort",
+      "type": "verb",
+      "meaning": "To strongly encourage or urge",
+      "example": "The coach exhorted the team to do their best.",
+      "chinese": {
+        "meaning": "勸告、力勸",
+        "example": "教練勸告隊伍全力以赴。"
+      }
+    },
+    {
+      "word": "Exile",
+      "type": "verb",
+      "meaning": "To force someone to live outside their country",
+      "example": "The king was exiled after losing the war.",
+      "chinese": {
+        "meaning": "流放、放逐",
+        "example": "國王戰敗後被流放。"
+      }
+    },
+    {
+      "word": "Exist",
+      "type": "verb",
+      "meaning": "To have actual being or reality",
+      "example": "Dinosaurs existed millions of years ago.",
+      "chinese": {
+        "meaning": "存在",
+        "example": "恐龍存在於數百萬年前。"
+      }
+    },
+    {
+      "word": "Exit",
+      "type": "verb",
+      "meaning": "To leave a place",
+      "example": "They exited the building safely.",
+      "chinese": {
+        "meaning": "離開",
+        "example": "他們安全地離開了建築物。"
       }
     },
     {
@@ -408,6 +1318,66 @@
       }
     },
     {
+      "word": "Expedite",
+      "type": "verb",
+      "meaning": "To speed up a process",
+      "example": "They expedited the shipping process.",
+      "chinese": {
+        "meaning": "加快、促進",
+        "example": "他們加快了運輸過程。"
+      }
+    },
+    {
+      "word": "Expel",
+      "type": "verb",
+      "meaning": "To force out or eject",
+      "example": "The school expelled the student for cheating.",
+      "chinese": {
+        "meaning": "開除、驅逐",
+        "example": "學校因作弊開除了該學生。"
+      }
+    },
+    {
+      "word": "Expend",
+      "type": "verb",
+      "meaning": "To use up resources or effort",
+      "example": "They expended a lot of money on the project.",
+      "chinese": {
+        "meaning": "花費、消耗",
+        "example": "他們在項目上花費了大量資金。"
+      }
+    },
+    {
+      "word": "Experience",
+      "type": "verb",
+      "meaning": "To encounter or undergo",
+      "example": "She experienced culture shock when moving abroad.",
+      "chinese": {
+        "meaning": "經歷、體驗",
+        "example": "她移居海外時經歷了文化衝擊。"
+      }
+    },
+    {
+      "word": "Experiment",
+      "type": "verb",
+      "meaning": "To try out new ideas or methods",
+      "example": "Scientists experiment to discover new medicines.",
+      "chinese": {
+        "meaning": "實驗、嘗試",
+        "example": "科學家實驗以發現新藥物。"
+      }
+    },
+    {
+      "word": "Expire",
+      "type": "verb",
+      "meaning": "To come to an end or become invalid",
+      "example": "The coupon expired last month.",
+      "chinese": {
+        "meaning": "到期、終止",
+        "example": "優惠券上個月過期了。"
+      }
+    },
+    {
       "word": "Explain",
       "type": "verb",
       "letter": "E",
@@ -416,6 +1386,16 @@
       "chinese": {
         "meaning": "解釋",
         "example": "教授用簡單的語言解釋了這個理論。"
+      }
+    },
+    {
+      "word": "Explode",
+      "type": "verb",
+      "meaning": "To burst violently",
+      "example": "The bomb exploded in the city center.",
+      "chinese": {
+        "meaning": "爆炸",
+        "example": "炸彈在市中心爆炸了。"
       }
     },
     {
@@ -441,6 +1421,26 @@
       }
     },
     {
+      "word": "Export",
+      "type": "verb",
+      "meaning": "To send goods to another country for sale",
+      "example": "The country exports a lot of coffee.",
+      "chinese": {
+        "meaning": "出口",
+        "example": "該國出口大量咖啡。"
+      }
+    },
+    {
+      "word": "Expose",
+      "type": "verb",
+      "meaning": "To reveal or uncover",
+      "example": "The report exposed the corruption scandal.",
+      "chinese": {
+        "meaning": "暴露、揭露",
+        "example": "報告揭露了腐敗醜聞。"
+      }
+    },
+    {
       "word": "Express",
       "type": "verb",
       "letter": "E",
@@ -463,6 +1463,26 @@
       }
     },
     {
+      "word": "Exterminate",
+      "type": "verb",
+      "meaning": "To destroy completely, especially pests or unwanted creatures",
+      "example": "The pest control team exterminated the rats in the building.",
+      "chinese": {
+        "meaning": "消滅、根除",
+        "example": "害蟲防治隊消滅了大樓裡的老鼠。"
+      }
+    },
+    {
+      "word": "Extinguish",
+      "type": "verb",
+      "meaning": "To put out a fire or light; to bring to an end",
+      "example": "Firefighters quickly extinguished the blaze.",
+      "chinese": {
+        "meaning": "熄滅、撲滅",
+        "example": "消防員迅速撲滅了火災。"
+      }
+    },
+    {
       "word": "Extract",
       "type": "verb",
       "letter": "E",
@@ -471,6 +1491,16 @@
       "chinese": {
         "meaning": "提取",
         "example": "報告從數據中提取了關鍵資訊。"
+      }
+    },
+    {
+      "word": "Extricate",
+      "type": "verb",
+      "meaning": "To free or remove from a difficult situation",
+      "example": "Rescuers extricated the trapped hikers from the ravine.",
+      "chinese": {
+        "meaning": "解救、脫困",
+        "example": "救援人員將被困的登山者從山谷中解救出來。"
       }
     }
   ]
