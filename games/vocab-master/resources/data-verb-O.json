@@ -12,6 +12,17 @@
       }
     },
     {
+      "word": "Obfuscate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To deliberately make something unclear or difficult to understand",
+      "example": "The politician obfuscated the issue with vague statements.",
+      "chinese": {
+        "meaning": "使模糊、混淆",
+        "example": "那位政客用含糊的言辭混淆了問題。"
+      }
+    },
+    {
       "word": "Object",
       "type": "verb",
       "letter": "O",
@@ -23,6 +34,17 @@
       }
     },
     {
+      "word": "Obligate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To bind someone legally or morally to do something",
+      "example": "He was obligated to repay the loan by the end of the year.",
+      "chinese": {
+        "meaning": "使有義務",
+        "example": "他有義務在年底前償還貸款。"
+      }
+    },
+    {
       "word": "Oblige",
       "type": "verb",
       "letter": "O",
@@ -31,6 +53,17 @@
       "chinese": {
         "meaning": "迫使；使有義務",
         "example": "法律規定公司必須納稅。"
+      }
+    },
+    {
+      "word": "Obliterate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To destroy completely or remove all traces of something",
+      "example": "The hurricane obliterated the small town.",
+      "chinese": {
+        "meaning": "徹底摧毀",
+        "example": "颶風徹底摧毀了那個小鎮。"
       }
     },
     {
@@ -86,6 +119,28 @@
       "chinese": {
         "meaning": "獲得",
         "example": "進入前你需要獲得許可。"
+      }
+    },
+    {
+      "word": "Obtrude",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To force something or oneself into a situation uninvited",
+      "example": "He obtruded his opinions into every conversation.",
+      "chinese": {
+        "meaning": "強行介入",
+        "example": "他在每個對話中都強行插入自己的意見。"
+      }
+    },
+    {
+      "word": "Obviate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To remove a need or difficulty",
+      "example": "The new treatment obviates the need for surgery.",
+      "chinese": {
+        "meaning": "排除、避免",
+        "example": "新的療法避免了手術的需要。"
       }
     },
     {
@@ -155,6 +210,17 @@
       }
     },
     {
+      "word": "Oil",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To lubricate or apply oil to something",
+      "example": "He oiled the hinges to stop the door from creaking.",
+      "chinese": {
+        "meaning": "上油、潤滑",
+        "example": "他給鉸鏈上了油以防止門嘎吱作響。"
+      }
+    },
+    {
       "word": "Omit",
       "type": "verb",
       "letter": "O",
@@ -163,6 +229,17 @@
       "chinese": {
         "meaning": "省略",
         "example": "你不應該省略任何重要細節。"
+      }
+    },
+    {
+      "word": "Ondulate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To move in a wavelike motion",
+      "example": "The fields ondulated in the wind.",
+      "chinese": {
+        "meaning": "起伏波動",
+        "example": "田野在風中起伏波動。"
       }
     },
     {
@@ -188,6 +265,17 @@
       }
     },
     {
+      "word": "Opine",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To express an opinion",
+      "example": "He opined that the policy would fail.",
+      "chinese": {
+        "meaning": "表達意見",
+        "example": "他認為該政策會失敗。"
+      }
+    },
+    {
       "word": "Oppose",
       "type": "verb",
       "letter": "O",
@@ -199,6 +287,17 @@
       }
     },
     {
+      "word": "Oppress",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To keep someone in hardship through unjust authority",
+      "example": "The regime oppressed its citizens for decades.",
+      "chinese": {
+        "meaning": "壓迫",
+        "example": "這個政權壓迫公民數十年。"
+      }
+    },
+    {
       "word": "Opt",
       "type": "verb",
       "letter": "O",
@@ -207,6 +306,39 @@
       "chinese": {
         "meaning": "選擇",
         "example": "她選擇去國外留學。"
+      }
+    },
+    {
+      "word": "Optimize",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To make something as effective or functional as possible",
+      "example": "We optimized the website for faster loading.",
+      "chinese": {
+        "meaning": "優化",
+        "example": "我們優化了網站以加快加載速度。"
+      }
+    },
+    {
+      "word": "Orbit",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To move around something in a curved path, especially in space",
+      "example": "The satellite orbits the Earth once every 90 minutes.",
+      "chinese": {
+        "meaning": "繞軌道運行",
+        "example": "這顆衛星每 90 分鐘繞地球一圈。"
+      }
+    },
+    {
+      "word": "Ordain",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To officially order or decree; to appoint as a priest",
+      "example": "He was ordained as a minister last year.",
+      "chinese": {
+        "meaning": "授予聖職；正式規定",
+        "example": "他去年被任命為牧師。"
       }
     },
     {
@@ -232,6 +364,17 @@
       }
     },
     {
+      "word": "Orient",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To align or position something; to familiarize oneself with new surroundings",
+      "example": "She oriented the map before starting the hike.",
+      "chinese": {
+        "meaning": "確定方位；適應",
+        "example": "她在開始徒步前先校正了地圖方向。"
+      }
+    },
+    {
       "word": "Originate",
       "type": "verb",
       "letter": "O",
@@ -254,6 +397,28 @@
       }
     },
     {
+      "word": "Ossify",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To turn into bone or become rigid in habits or attitudes",
+      "example": "The institution ossified over the years.",
+      "chinese": {
+        "meaning": "骨化；僵化",
+        "example": "這個機構多年來變得僵化。"
+      }
+    },
+    {
+      "word": "Oust",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To remove or expel someone from a position or place",
+      "example": "The board ousted the CEO after the scandal.",
+      "chinese": {
+        "meaning": "罷免、驅逐",
+        "example": "董事會在醜聞後罷免了 CEO。"
+      }
+    },
+    {
       "word": "Outbid",
       "type": "verb",
       "letter": "O",
@@ -262,6 +427,50 @@
       "chinese": {
         "meaning": "出價高過他人",
         "example": "她出價高過所有人，贏得了這幅畫。"
+      }
+    },
+    {
+      "word": "Outbrave",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To surpass in courage or daring",
+      "example": "She outbraved her peers by volunteering first.",
+      "chinese": {
+        "meaning": "比…更勇敢",
+        "example": "她通過第一個自願報名而比同儕更勇敢。"
+      }
+    },
+    {
+      "word": "Outclass",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To be far superior to someone or something",
+      "example": "Their team outclassed the competition easily.",
+      "chinese": {
+        "meaning": "遠勝於",
+        "example": "他們的隊伍輕鬆地遠勝其他隊伍。"
+      }
+    },
+    {
+      "word": "Outcompete",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To be more successful than a rival or competitor",
+      "example": "The invasive species outcompeted the native plants.",
+      "chinese": {
+        "meaning": "競爭勝過",
+        "example": "這種入侵物種競爭勝過了本地植物。"
+      }
+    },
+    {
+      "word": "Outcry",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To cry out loudly (archaic); more commonly used as a noun today",
+      "example": "She outcried against the injustice.",
+      "chinese": {
+        "meaning": "大聲抗議（古用法）",
+        "example": "她大聲抗議不公。"
       }
     },
     {
@@ -276,6 +485,83 @@
       }
     },
     {
+      "word": "Outface",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To face or confront boldly, often intimidating the opponent",
+      "example": "He outfaced the angry mob without flinching.",
+      "chinese": {
+        "meaning": "鎮住、威懾",
+        "example": "他毫不退縮地鎮住了憤怒的人群。"
+      }
+    },
+    {
+      "word": "Outfit",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To provide with necessary equipment or supplies",
+      "example": "The company outfitted the team with new laptops.",
+      "chinese": {
+        "meaning": "配備、裝備",
+        "example": "公司為團隊配備了新筆記型電腦。"
+      }
+    },
+    {
+      "word": "Outflank",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To move around the side of an enemy; to gain an advantage over someone",
+      "example": "The army outflanked the enemy’s position.",
+      "chinese": {
+        "meaning": "側翼包抄；超越",
+        "example": "軍隊側翼包抄了敵人的陣地。"
+      }
+    },
+    {
+      "word": "Outflow",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To flow out (less common as a verb)",
+      "example": "Water outflowed from the broken pipe.",
+      "chinese": {
+        "meaning": "流出",
+        "example": "水從破裂的水管流出來。"
+      }
+    },
+    {
+      "word": "Outfly",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To fly farther, faster, or better than another",
+      "example": "The hawk easily outflew the smaller birds.",
+      "chinese": {
+        "meaning": "飛得比…遠/快",
+        "example": "老鷹輕鬆飛得比小鳥們更遠更快。"
+      }
+    },
+    {
+      "word": "Outfox",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To outwit or deceive someone",
+      "example": "She outfoxed her competitors by launching the product first.",
+      "chinese": {
+        "meaning": "智勝、騙過",
+        "example": "她率先推出產品，智勝競爭對手。"
+      }
+    },
+    {
+      "word": "Outgo",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To go further or exceed (archaic)",
+      "example": "His ambitions outgo his resources.",
+      "chinese": {
+        "meaning": "超越（古用法）",
+        "example": "他的野心超越了他擁有的資源。"
+      }
+    },
+    {
       "word": "Outgrow",
       "type": "verb",
       "letter": "O",
@@ -284,6 +570,17 @@
       "chinese": {
         "meaning": "長得太大而不適合",
         "example": "孩子們常常很快就穿不下衣服了。"
+      }
+    },
+    {
+      "word": "Outguess",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To anticipate or predict someone’s actions",
+      "example": "The detective tried to outguess the criminal.",
+      "chinese": {
+        "meaning": "預測、料中",
+        "example": "偵探試圖預測罪犯的行動。"
       }
     },
     {
@@ -309,6 +606,17 @@
       }
     },
     {
+      "word": "Outlay",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To spend or expend (rare, mostly noun use)",
+      "example": "The company outlaid a large sum on new machinery.",
+      "chinese": {
+        "meaning": "花費（少用作動詞）",
+        "example": "公司在新機器上花費了大量資金。"
+      }
+    },
+    {
       "word": "Outline",
       "type": "verb",
       "letter": "O",
@@ -317,6 +625,39 @@
       "chinese": {
         "meaning": "概述",
         "example": "請概述你的項目計劃。"
+      }
+    },
+    {
+      "word": "Outlive",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To live longer than someone or something",
+      "example": "She outlived all her siblings.",
+      "chinese": {
+        "meaning": "比…活得久",
+        "example": "她比所有兄弟姊妹活得久。"
+      }
+    },
+    {
+      "word": "Outmaneuver",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To gain an advantage over someone through clever or skillful actions",
+      "example": "The lawyer outmaneuvered the prosecution in court.",
+      "chinese": {
+        "meaning": "巧妙超越、智取",
+        "example": "律師在法庭上巧妙地超越了控方。"
+      }
+    },
+    {
+      "word": "Outmarch",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To march farther or faster than someone else",
+      "example": "The soldiers outmarched their rivals during the drill.",
+      "chinese": {
+        "meaning": "行軍比…快/遠",
+        "example": "士兵們在演習中行軍比對手更快更遠。"
       }
     },
     {
@@ -331,6 +672,17 @@
       }
     },
     {
+      "word": "Outpace",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To go faster or make more progress than someone or something",
+      "example": "Technology outpaces regulation.",
+      "chinese": {
+        "meaning": "超越、領先",
+        "example": "科技的發展快於監管的腳步。"
+      }
+    },
+    {
       "word": "Outperform",
       "type": "verb",
       "letter": "O",
@@ -342,6 +694,39 @@
       }
     },
     {
+      "word": "Outplay",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To perform better than an opponent in a game or competition",
+      "example": "They outplayed their rivals in the championship.",
+      "chinese": {
+        "meaning": "比…打得好",
+        "example": "他們在冠軍賽中表現得比對手更好。"
+      }
+    },
+    {
+      "word": "Outpoint",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To score more points than an opponent",
+      "example": "The boxer outpointed his rival and won the match.",
+      "chinese": {
+        "meaning": "得分超過",
+        "example": "拳擊手得分超過對手贏得了比賽。"
+      }
+    },
+    {
+      "word": "Outpour",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To pour out or release in large quantities (rare)",
+      "example": "Tears outpoured as the ceremony ended.",
+      "chinese": {
+        "meaning": "湧出（少用作動詞）",
+        "example": "儀式結束時淚水湧出。"
+      }
+    },
+    {
       "word": "Output",
       "type": "verb",
       "letter": "O",
@@ -350,6 +735,83 @@
       "chinese": {
         "meaning": "輸出",
         "example": "該程式以 JSON 格式輸出資料。"
+      }
+    },
+    {
+      "word": "Outrage",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To arouse anger or shock in someone",
+      "example": "The unfair decision outraged the public.",
+      "chinese": {
+        "meaning": "激怒、使震驚",
+        "example": "不公平的決定激怒了公眾。"
+      }
+    },
+    {
+      "word": "Outreach",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To reach out farther than; to extend services to people",
+      "example": "The branch outreached to remote villages.",
+      "chinese": {
+        "meaning": "伸出、更遠延伸",
+        "example": "分支機構延伸服務到偏遠村莊。"
+      }
+    },
+    {
+      "word": "Outride",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To ride faster or better than someone else",
+      "example": "She outrides all the other competitors.",
+      "chinese": {
+        "meaning": "騎得比…快/好",
+        "example": "她騎得比所有其他競爭者都快。"
+      }
+    },
+    {
+      "word": "Outrival",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To surpass or excel beyond a rival",
+      "example": "The new product outrivals all previous models.",
+      "chinese": {
+        "meaning": "超越對手",
+        "example": "新產品超越了所有舊款。"
+      }
+    },
+    {
+      "word": "Outrun",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To run faster or farther than someone or something",
+      "example": "He outran the security guards.",
+      "chinese": {
+        "meaning": "跑得比…快/遠",
+        "example": "他跑得比保全人員快。"
+      }
+    },
+    {
+      "word": "Outsail",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To sail faster or better than another vessel",
+      "example": "Their yacht outsails all competitors in the regatta.",
+      "chinese": {
+        "meaning": "比…航行得更快",
+        "example": "他們的遊艇在帆船賽中航行得比所有對手更快。"
+      }
+    },
+    {
+      "word": "Outscore",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To achieve a higher score than an opponent",
+      "example": "Our team outscored the visitors by ten points.",
+      "chinese": {
+        "meaning": "比…得分高",
+        "example": "我們的隊伍比客隊多得了十分。"
       }
     },
     {
@@ -386,6 +848,28 @@
       }
     },
     {
+      "word": "Outsource",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To obtain goods or services from an external supplier",
+      "example": "The company decided to outsource its IT department.",
+      "chinese": {
+        "meaning": "外包",
+        "example": "公司決定外包其資訊科技部門。"
+      }
+    },
+    {
+      "word": "Outspeak",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To speak more frankly or better than others (rare)",
+      "example": "She outspeaks everyone when it comes to honesty.",
+      "chinese": {
+        "meaning": "直言或比他人更能言（少用）",
+        "example": "在誠實這件事上，她比任何人都敢說真話。"
+      }
+    },
+    {
       "word": "Outspend",
       "type": "verb",
       "letter": "O",
@@ -394,6 +878,116 @@
       "chinese": {
         "meaning": "花費超過",
         "example": "他們在廣告上的支出超過了競爭對手。"
+      }
+    },
+    {
+      "word": "Outspread",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To spread out widely",
+      "example": "The eagle outspread its wings before landing.",
+      "chinese": {
+        "meaning": "展開、攤開",
+        "example": "老鷹降落前展開了雙翅。"
+      }
+    },
+    {
+      "word": "Outstand",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To stand out or remain outstanding (rare)",
+      "example": "His talent outstands among his peers.",
+      "chinese": {
+        "meaning": "突出、卓越（少用）",
+        "example": "他的才能在同儕中很突出。"
+      }
+    },
+    {
+      "word": "Outstretch",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To stretch out fully",
+      "example": "She outstretched her arms to welcome him.",
+      "chinese": {
+        "meaning": "伸展、張開",
+        "example": "她張開雙臂迎接他。"
+      }
+    },
+    {
+      "word": "Outsuffer",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To endure more suffering than someone else (rare)",
+      "example": "They outsuffered their rivals during the harsh winter.",
+      "chinese": {
+        "meaning": "比…更痛苦地承受（少用）",
+        "example": "在嚴冬中，他們比對手承受了更多的痛苦。"
+      }
+    },
+    {
+      "word": "Outtake",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To remove or take out (very rare as a verb)",
+      "example": "Editors outtook the irrelevant scenes.",
+      "chinese": {
+        "meaning": "刪除（極少用作動詞）",
+        "example": "編輯刪除了無關的場景。"
+      }
+    },
+    {
+      "word": "Outthink",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To think more cleverly or quickly than someone else",
+      "example": "She managed to outthink the competition.",
+      "chinese": {
+        "meaning": "比…想得更快/更聰明",
+        "example": "她成功比競爭對手更快地想出對策。"
+      }
+    },
+    {
+      "word": "Outvote",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To defeat someone by receiving more votes",
+      "example": "The bill was outvoted in the parliament.",
+      "chinese": {
+        "meaning": "投票數超過、否決",
+        "example": "該法案在國會被否決。"
+      }
+    },
+    {
+      "word": "Outwait",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To wait longer than someone else",
+      "example": "He outwaited his opponents in the negotiation.",
+      "chinese": {
+        "meaning": "比…等得更久",
+        "example": "他在談判中比對手更能耐心等待。"
+      }
+    },
+    {
+      "word": "Outwalk",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To walk farther or faster than someone",
+      "example": "She outwalked the rest of the hikers.",
+      "chinese": {
+        "meaning": "走得比…快/遠",
+        "example": "她走得比其他健行者更快。"
+      }
+    },
+    {
+      "word": "Outwear",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To last longer than; to exhaust",
+      "example": "The old shoes outwore his patience.",
+      "chinese": {
+        "meaning": "比…持久；耗盡",
+        "example": "舊鞋子耗盡了他的耐心。"
       }
     },
     {
@@ -408,6 +1002,105 @@
       }
     },
     {
+      "word": "Outwit",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To defeat someone by being more clever",
+      "example": "He outwitted the scammer with a clever plan.",
+      "chinese": {
+        "meaning": "智勝",
+        "example": "他用一個巧妙的計謀智勝了騙子。"
+      }
+    },
+    {
+      "word": "Outwork",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To work harder than someone else",
+      "example": "They outworked their rivals and won the contract.",
+      "chinese": {
+        "meaning": "比…工作更努力",
+        "example": "他們比對手更努力工作，贏得了合約。"
+      }
+    },
+    {
+      "word": "Overachieve",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To perform better than expected",
+      "example": "Students are encouraged to overachieve academically.",
+      "chinese": {
+        "meaning": "超額完成、表現超出預期",
+        "example": "鼓勵學生在學業上表現超出預期。"
+      }
+    },
+    {
+      "word": "Overact",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To exaggerate in acting or behavior",
+      "example": "He tends to overact in emotional scenes.",
+      "chinese": {
+        "meaning": "表演或反應過度",
+        "example": "他在情感戲中往往演得太誇張。"
+      }
+    },
+    {
+      "word": "Overawe",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To impress or intimidate someone greatly",
+      "example": "The dictator overawed his people into silence.",
+      "chinese": {
+        "meaning": "震懾、威嚇",
+        "example": "獨裁者震懾人民使其噤聲。"
+      }
+    },
+    {
+      "word": "Overbalance",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To lose balance and fall",
+      "example": "He overbalanced and fell off the ladder.",
+      "chinese": {
+        "meaning": "失去平衡而倒下",
+        "example": "他失去平衡從梯子上摔了下來。"
+      }
+    },
+    {
+      "word": "Overbear",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To dominate or overpower",
+      "example": "She was overborne by his strong personality.",
+      "chinese": {
+        "meaning": "壓倒、支配",
+        "example": "她被他強勢的性格壓制住了。"
+      }
+    },
+    {
+      "word": "Overbid",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To offer more money than necessary or more than someone else in a bid",
+      "example": "He overbid for the antique and regretted it later.",
+      "chinese": {
+        "meaning": "出價過高",
+        "example": "他為那件古董出價過高，後來後悔了。"
+      }
+    },
+    {
+      "word": "Overcharge",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To charge too much money for something",
+      "example": "The taxi driver overcharged us for the short trip.",
+      "chinese": {
+        "meaning": "收費過高",
+        "example": "計程車司機對我們這段短途收費過高。"
+      }
+    },
+    {
       "word": "Overcome",
       "type": "verb",
       "letter": "O",
@@ -416,6 +1109,50 @@
       "chinese": {
         "meaning": "克服",
         "example": "她克服了對公開演講的恐懼。"
+      }
+    },
+    {
+      "word": "Overcommit",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To commit to more responsibilities than can be managed",
+      "example": "She tends to overcommit and ends up stressed.",
+      "chinese": {
+        "meaning": "承諾過多",
+        "example": "她總是承諾太多，最後壓力很大。"
+      }
+    },
+    {
+      "word": "Overcompensate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To make up for a deficiency by going beyond what is necessary",
+      "example": "He overcompensated for his mistake by working extra hours.",
+      "chinese": {
+        "meaning": "過度補償",
+        "example": "他為了彌補錯誤而加班過度工作。"
+      }
+    },
+    {
+      "word": "Overcook",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To cook food for too long",
+      "example": "She overcooked the vegetables until they were mushy.",
+      "chinese": {
+        "meaning": "煮過頭",
+        "example": "她把蔬菜煮得太久，變得爛爛的。"
+      }
+    },
+    {
+      "word": "Overcrowd",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To fill a space with too many people or things",
+      "example": "The stadium was overcrowded during the concert.",
+      "chinese": {
+        "meaning": "過度擁擠",
+        "example": "演唱會期間體育館過度擁擠。"
       }
     },
     {
@@ -430,6 +1167,17 @@
       }
     },
     {
+      "word": "Overdraft",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To withdraw more money from a bank account than is available (rarely used as a verb)",
+      "example": "He accidentally overdrafted his account.",
+      "chinese": {
+        "meaning": "透支（少用作動詞）",
+        "example": "他不小心透支了賬戶。"
+      }
+    },
+    {
       "word": "Overdraw",
       "type": "verb",
       "letter": "O",
@@ -441,6 +1189,28 @@
       }
     },
     {
+      "word": "Overdress",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To dress too formally or elaborately for an occasion",
+      "example": "He overdressed for the casual party.",
+      "chinese": {
+        "meaning": "穿得過於正式或誇張",
+        "example": "他為這個休閒聚會穿得太正式了。"
+      }
+    },
+    {
+      "word": "Overdrive",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To push something to work excessively hard or fast",
+      "example": "The team overdrived the project to meet the deadline.",
+      "chinese": {
+        "meaning": "過度驅動、過度努力",
+        "example": "團隊為了趕上期限過度努力完成專案。"
+      }
+    },
+    {
       "word": "Overeat",
       "type": "verb",
       "letter": "O",
@@ -449,6 +1219,17 @@
       "chinese": {
         "meaning": "吃太多",
         "example": "他在自助餐時常常吃太多。"
+      }
+    },
+    {
+      "word": "Overemphasize",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To place too much importance on something",
+      "example": "The teacher overemphasized grammar in her lessons.",
+      "chinese": {
+        "meaning": "過度強調",
+        "example": "老師在課程中過度強調文法。"
       }
     },
     {
@@ -474,6 +1255,17 @@
       }
     },
     {
+      "word": "Overflow",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To spill or run over the top",
+      "example": "The river overflowed after the heavy rain.",
+      "chinese": {
+        "meaning": "溢出、氾濫",
+        "example": "暴雨後河流氾濫了。"
+      }
+    },
+    {
       "word": "Overfly",
       "type": "verb",
       "letter": "O",
@@ -482,6 +1274,39 @@
       "chinese": {
         "meaning": "飛越",
         "example": "飛機飛越了禁飛區。"
+      }
+    },
+    {
+      "word": "Overgeneralize",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To make a conclusion or statement that is too broad",
+      "example": "Don't overgeneralize based on one experience.",
+      "chinese": {
+        "meaning": "過度概括",
+        "example": "不要根據一次經歷就過度概括。"
+      }
+    },
+    {
+      "word": "Overgraze",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To allow animals to graze land excessively, damaging it",
+      "example": "The field was overgrazed and became barren.",
+      "chinese": {
+        "meaning": "過度放牧",
+        "example": "牧場因為過度放牧變得貧瘠。"
+      }
+    },
+    {
+      "word": "Overgrow",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To grow too large or beyond normal limits",
+      "example": "The weeds overgrew the garden in a month.",
+      "chinese": {
+        "meaning": "長得過大或蔓延",
+        "example": "雜草一個月內長滿了整個花園。"
       }
     },
     {
@@ -518,6 +1343,39 @@
       }
     },
     {
+      "word": "Overheat",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To become too hot or cause to become too hot",
+      "example": "The car engine overheated during the long drive.",
+      "chinese": {
+        "meaning": "過熱",
+        "example": "長途行駛時汽車引擎過熱了。"
+      }
+    },
+    {
+      "word": "Overindulge",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To allow oneself or someone else to have too much of something enjoyable",
+      "example": "He overindulged in desserts during the holiday.",
+      "chinese": {
+        "meaning": "過度放縱",
+        "example": "假期期間他吃了太多甜點。"
+      }
+    },
+    {
+      "word": "Overjoy",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To fill with great joy",
+      "example": "She was overjoyed by the news of her promotion.",
+      "chinese": {
+        "meaning": "使欣喜若狂",
+        "example": "她因升職的消息而欣喜若狂。"
+      }
+    },
+    {
       "word": "Overlay",
       "type": "verb",
       "letter": "O",
@@ -526,6 +1384,17 @@
       "chinese": {
         "meaning": "覆蓋",
         "example": "地圖上覆蓋了數據點。"
+      }
+    },
+    {
+      "word": "Overleap",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To jump over or skip something (rare)",
+      "example": "He overleapt the small fence with ease.",
+      "chinese": {
+        "meaning": "跳過（少用）",
+        "example": "他輕鬆跳過那道小籬笆。"
       }
     },
     {
@@ -562,6 +1431,28 @@
       }
     },
     {
+      "word": "Overmaster",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To overpower or overcome completely",
+      "example": "Fear overmastered him before the speech.",
+      "chinese": {
+        "meaning": "完全壓倒或克服",
+        "example": "演講前恐懼完全支配了他。"
+      }
+    },
+    {
+      "word": "Overpack",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To pack more than is necessary or advisable",
+      "example": "She overpacked for the weekend trip.",
+      "chinese": {
+        "meaning": "打包過多",
+        "example": "她為周末旅行打包過多物品。"
+      }
+    },
+    {
       "word": "Overpay",
       "type": "verb",
       "letter": "O",
@@ -570,6 +1461,94 @@
       "chinese": {
         "meaning": "多付",
         "example": "他們為這個房產多付了錢。"
+      }
+    },
+    {
+      "word": "Overplay",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To exaggerate or overact a situation",
+      "example": "He overplayed his role in the play.",
+      "chinese": {
+        "meaning": "誇大、表演過火",
+        "example": "他在戲劇中的角色演得過火了。"
+      }
+    },
+    {
+      "word": "Overpower",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To defeat or overcome by superior force",
+      "example": "The police overpowered the suspect quickly.",
+      "chinese": {
+        "meaning": "壓制、制服",
+        "example": "警方迅速制服了嫌疑人。"
+      }
+    },
+    {
+      "word": "Overpraise",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To give too much praise to someone or something",
+      "example": "Don't overpraise the child; it can spoil them.",
+      "chinese": {
+        "meaning": "過度讚美",
+        "example": "不要過度讚美孩子，這會把他們寵壞。"
+      }
+    },
+    {
+      "word": "Overprint",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To print additional text or images over something already printed",
+      "example": "The publisher overprinted the books with a new logo.",
+      "chinese": {
+        "meaning": "重印、加印",
+        "example": "出版商在書籍上加印了新標誌。"
+      }
+    },
+    {
+      "word": "Overproduce",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To produce more of something than is needed or can be sold",
+      "example": "The company overproduced toys that did not sell well.",
+      "chinese": {
+        "meaning": "生產過剩",
+        "example": "公司生產了過多賣不出去的玩具。"
+      }
+    },
+    {
+      "word": "Overprotect",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To protect someone too much, preventing independence",
+      "example": "Parents should not overprotect their children.",
+      "chinese": {
+        "meaning": "過度保護",
+        "example": "父母不應該過度保護孩子。"
+      }
+    },
+    {
+      "word": "Overrate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To give too high an opinion of something or someone",
+      "example": "The movie was overrated by the critics.",
+      "chinese": {
+        "meaning": "高估",
+        "example": "這部電影被評論家高估了。"
+      }
+    },
+    {
+      "word": "Overreach",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To try to do something beyond one's ability or resources",
+      "example": "The company overreached by expanding too quickly.",
+      "chinese": {
+        "meaning": "過度擴張、做得過火",
+        "example": "公司因擴張過快而超出能力範圍。"
       }
     },
     {
@@ -661,6 +1640,17 @@
       }
     },
     {
+      "word": "Oversimplify",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To describe something in a way that makes it seem simpler than it really is",
+      "example": "The article oversimplifies the complex issue.",
+      "chinese": {
+        "meaning": "過度簡化",
+        "example": "這篇文章過度簡化了這個複雜的問題。"
+      }
+    },
+    {
       "word": "Oversleep",
       "type": "verb",
       "letter": "O",
@@ -669,6 +1659,17 @@
       "chinese": {
         "meaning": "睡過頭",
         "example": "我睡過頭錯過了火車。"
+      }
+    },
+    {
+      "word": "Overspecialize",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To focus too narrowly on a specific field or skill",
+      "example": "Doctors who overspecialize may miss general health issues.",
+      "chinese": {
+        "meaning": "過度專門化",
+        "example": "過度專門化的醫生可能會忽略一般的健康問題。"
       }
     },
     {
@@ -694,6 +1695,61 @@
       }
     },
     {
+      "word": "Overstay",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To stay longer than allowed or wanted",
+      "example": "He overstayed his visa and was fined.",
+      "chinese": {
+        "meaning": "逾期停留",
+        "example": "他簽證逾期停留而被罰款。"
+      }
+    },
+    {
+      "word": "Overstep",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To go beyond the limits of acceptable behavior or authority",
+      "example": "She overstepped her role by making that decision.",
+      "chinese": {
+        "meaning": "越權、逾越",
+        "example": "她通過那個決定越權了。"
+      }
+    },
+    {
+      "word": "Overstimulate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To provide too much stimulation, leading to negative effects",
+      "example": "The baby was overstimulated by the noisy environment.",
+      "chinese": {
+        "meaning": "過度刺激",
+        "example": "嬰兒因吵雜的環境而受到過度刺激。"
+      }
+    },
+    {
+      "word": "Overstock",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To stock more goods than necessary or can be sold",
+      "example": "The store overstocked on winter coats.",
+      "chinese": {
+        "meaning": "存貨過多",
+        "example": "商店冬季大衣存貨過多。"
+      }
+    },
+    {
+      "word": "Overstretch",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To strain or extend something too far",
+      "example": "The company overstretched its resources with too many projects.",
+      "chinese": {
+        "meaning": "過度擴張、拉伸過度",
+        "example": "公司因專案過多而過度消耗資源。"
+      }
+    },
+    {
       "word": "Overtake",
       "type": "verb",
       "letter": "O",
@@ -702,6 +1758,17 @@
       "chinese": {
         "meaning": "超越",
         "example": "汽車很快超過了卡車。"
+      }
+    },
+    {
+      "word": "Overtax",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To burden someone or something with too many demands",
+      "example": "Don't overtax your employees with extra work.",
+      "chinese": {
+        "meaning": "過度負擔、課稅過重",
+        "example": "不要用額外工作過度壓榨員工。"
       }
     },
     {
@@ -727,6 +1794,28 @@
       }
     },
     {
+      "word": "Overtop",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To rise above the top of something",
+      "example": "The waves overtopped the sea wall during the storm.",
+      "chinese": {
+        "meaning": "超越頂部、淹過",
+        "example": "暴風雨中海浪淹過了海堤。"
+      }
+    },
+    {
+      "word": "Overtrain",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To train too much, causing harm or fatigue",
+      "example": "Athletes risk injury if they overtrain.",
+      "chinese": {
+        "meaning": "過度訓練",
+        "example": "運動員若過度訓練會有受傷的風險。"
+      }
+    },
+    {
       "word": "Overturn",
       "type": "verb",
       "letter": "O",
@@ -738,6 +1827,39 @@
       }
     },
     {
+      "word": "Overtwist",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To twist something too much",
+      "example": "He overtwisted the rope and it snapped.",
+      "chinese": {
+        "meaning": "扭過頭",
+        "example": "他把繩子扭得太過，結果斷了。"
+      }
+    },
+    {
+      "word": "Overuse",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To use something too much",
+      "example": "Overusing antibiotics can lead to resistance.",
+      "chinese": {
+        "meaning": "過度使用",
+        "example": "過度使用抗生素會導致抗藥性。"
+      }
+    },
+    {
+      "word": "Overvalue",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To assign too much value or importance to something",
+      "example": "They overvalued the company's assets.",
+      "chinese": {
+        "meaning": "高估價值",
+        "example": "他們高估了公司的資產。"
+      }
+    },
+    {
       "word": "Overwhelm",
       "type": "verb",
       "letter": "O",
@@ -746,6 +1868,28 @@
       "chinese": {
         "meaning": "壓倒；使不知所措",
         "example": "她被情緒壓倒了。"
+      }
+    },
+    {
+      "word": "Overwinter",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To spend the winter in a particular place",
+      "example": "The birds overwinter in warmer climates.",
+      "chinese": {
+        "meaning": "過冬",
+        "example": "這些鳥在較溫暖的氣候中過冬。"
+      }
+    },
+    {
+      "word": "Overwork",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To work too much or make someone work too much",
+      "example": "She was overworked and became ill.",
+      "chinese": {
+        "meaning": "工作過度",
+        "example": "她工作過度而生病了。"
       }
     },
     {
@@ -779,6 +1923,28 @@
       "chinese": {
         "meaning": "擁有",
         "example": "她擁有一家小企業。"
+      }
+    },
+    {
+      "word": "Oxidize",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To combine with oxygen, causing rust or change in appearance",
+      "example": "The metal oxidized after being exposed to air.",
+      "chinese": {
+        "meaning": "氧化",
+        "example": "金屬暴露在空氣後被氧化了。"
+      }
+    },
+    {
+      "word": "Oxygenate",
+      "type": "verb",
+      "letter": "O",
+      "meaning": "To add oxygen to something",
+      "example": "The tank oxygenates the water for the fish.",
+      "chinese": {
+        "meaning": "充氧",
+        "example": "水箱為魚類向水中充氧。"
       }
     }
   ]
