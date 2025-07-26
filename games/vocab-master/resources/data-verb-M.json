@@ -1,6 +1,56 @@
 {
   "words": [
     {
+      "word": "Macadamize",
+      "type": "verb",
+      "meaning": "To pave a road with small broken stones",
+      "example": "The crew macadamized the rural road.",
+      "chinese": {
+        "meaning": "用碎石鋪路",
+        "example": "施工隊用碎石鋪設鄉村道路。"
+      }
+    },
+    {
+      "word": "Macerate",
+      "type": "verb",
+      "meaning": "To soften or break into pieces using liquid",
+      "example": "The fruit was macerated in wine.",
+      "chinese": {
+        "meaning": "浸泡使變軟",
+        "example": "水果被浸泡在酒中使其變軟。"
+      }
+    },
+    {
+      "word": "Machine",
+      "type": "verb",
+      "meaning": "To shape or process by machine",
+      "example": "The parts were machined to precise specifications.",
+      "chinese": {
+        "meaning": "用機器加工",
+        "example": "這些零件是依照精確規格機械加工的。"
+      }
+    },
+    {
+      "word": "Madden",
+      "type": "verb",
+      "meaning": "To make someone very angry or insane",
+      "example": "The delay maddened the passengers.",
+      "chinese": {
+        "meaning": "使發狂；激怒",
+        "example": "延誤讓乘客們非常憤怒。"
+      }
+    },
+    {
+      "word": "Magnetize",
+      "type": "verb",
+      "meaning": "To make magnetic or attract strongly",
+      "example": "The bar was magnetized with a strong field.",
+      "chinese": {
+        "meaning": "磁化；吸引",
+        "example": "這根鐵棒被強磁場磁化了。"
+      }
+    },
+    {
       "word": "Magnify",
       "type": "verb",
       "letter": "M",
@@ -9,6 +59,16 @@
       "chinese": {
         "meaning": "放大",
         "example": "顯微鏡可以放大微小物體。"
+      }
+    },
+    {
+      "word": "Mail",
+      "type": "verb",
+      "meaning": "To send something by post",
+      "example": "She mailed the application yesterday.",
+      "chinese": {
+        "meaning": "郵寄",
+        "example": "她昨天把申請表寄出。"
       }
     },
     {
@@ -34,6 +94,16 @@
       }
     },
     {
+      "word": "Malfunction",
+      "type": "verb",
+      "meaning": "To fail to work properly",
+      "example": "The device malfunctioned during the test.",
+      "chinese": {
+        "meaning": "故障；失靈",
+        "example": "該設備在測試中發生故障。"
+      }
+    },
+    {
       "word": "Manage",
       "type": "verb",
       "letter": "M",
@@ -45,6 +115,36 @@
       }
     },
     {
+      "word": "Manhandle",
+      "type": "verb",
+      "meaning": "To move something by force or to treat roughly",
+      "example": "They manhandled the heavy box into the truck.",
+      "chinese": {
+        "meaning": "用力搬動；粗暴對待",
+        "example": "他們費力地將重箱搬上卡車。"
+      }
+    },
+    {
+      "word": "Manicure",
+      "type": "verb",
+      "meaning": "To care for and trim the nails",
+      "example": "She manicured her nails every week.",
+      "chinese": {
+        "meaning": "修指甲",
+        "example": "她每週都修指甲。"
+      }
+    },
+    {
+      "word": "Manifest",
+      "type": "verb",
+      "meaning": "To display or show clearly",
+      "example": "He manifested signs of great stress.",
+      "chinese": {
+        "meaning": "顯示；表現",
+        "example": "他表現出極大的壓力。"
+      }
+    },
+    {
       "word": "Manipulate",
       "type": "verb",
       "letter": "M",
@@ -53,6 +153,16 @@
       "chinese": {
         "meaning": "操縱",
         "example": "媒體可以操縱公眾輿論。"
+      }
+    },
+    {
+      "word": "Manoeuvre",
+      "type": "verb",
+      "meaning": "To move or guide skillfully",
+      "example": "He manoeuvred the car into a tight spot.",
+      "chinese": {
+        "meaning": "巧妙地移動或引導",
+        "example": "他熟練地將車停入狹窄的車位。"
       }
     },
     {
@@ -89,6 +199,26 @@
       }
     },
     {
+      "word": "Market",
+      "type": "verb",
+      "meaning": "To advertise or promote a product",
+      "example": "They marketed the new phone aggressively.",
+      "chinese": {
+        "meaning": "行銷；推廣",
+        "example": "他們積極推銷新手機。"
+      }
+    },
+    {
+      "word": "Maroon",
+      "type": "verb",
+      "meaning": "To leave someone in a place they cannot escape from",
+      "example": "The sailors were marooned on the island.",
+      "chinese": {
+        "meaning": "困住；使孤立無援",
+        "example": "那些水手被困在島上。"
+      }
+    },
+    {
       "word": "Marry",
       "type": "verb",
       "letter": "M",
@@ -100,6 +230,86 @@
       }
     },
     {
+      "word": "Marshal",
+      "type": "verb",
+      "meaning": "To arrange or assemble in order",
+      "example": "He marshaled his thoughts before speaking.",
+      "chinese": {
+        "meaning": "整理；部署",
+        "example": "他在發言前整理自己的思路。"
+      }
+    },
+    {
+      "word": "Marvel",
+      "type": "verb",
+      "meaning": "To be amazed or in awe of something",
+      "example": "She marveled at the beautiful sunset.",
+      "chinese": {
+        "meaning": "驚嘆；讚嘆",
+        "example": "她驚嘆於美麗的日落。"
+      }
+    },
+    {
+      "word": "Mash",
+      "type": "verb",
+      "meaning": "To crush into a soft mass",
+      "example": "He mashed the potatoes for dinner.",
+      "chinese": {
+        "meaning": "搗碎",
+        "example": "他把馬鈴薯搗成泥做晚餐。"
+      }
+    },
+    {
+      "word": "Mask",
+      "type": "verb",
+      "meaning": "To conceal or cover something",
+      "example": "She masked her fear with a smile.",
+      "chinese": {
+        "meaning": "掩飾；遮掩",
+        "example": "她用微笑掩飾了自己的恐懼。"
+      }
+    },
+    {
+      "word": "Mass",
+      "type": "verb",
+      "meaning": "To gather or assemble in large numbers",
+      "example": "Troops massed at the border.",
+      "chinese": {
+        "meaning": "聚集",
+        "example": "部隊在邊境集結。"
+      }
+    },
+    {
+      "word": "Massacre",
+      "type": "verb",
+      "meaning": "To kill many people violently and cruelly",
+      "example": "The army massacred the villagers.",
+      "chinese": {
+        "meaning": "大屠殺",
+        "example": "軍隊屠殺了村民。"
+      }
+    },
+    {
+      "word": "Master",
+      "type": "verb",
+      "meaning": "To gain complete control or understanding of something",
+      "example": "She mastered the piano at an early age.",
+      "chinese": {
+        "meaning": "精通；掌握",
+        "example": "她很小就精通鋼琴。"
+      }
+    },
+    {
+      "word": "Masticate",
+      "type": "verb",
+      "meaning": "To chew food",
+      "example": "He masticated his steak slowly.",
+      "chinese": {
+        "meaning": "咀嚼",
+        "example": "他慢慢地咀嚼牛排。"
+      }
+    },
+    {
       "word": "Match",
       "type": "verb",
       "letter": "M",
@@ -108,6 +318,16 @@
       "chinese": {
         "meaning": "匹配",
         "example": "窗簾和沙發非常匹配。"
+      }
+    },
+    {
+      "word": "Mate",
+      "type": "verb",
+      "meaning": "To pair animals for breeding",
+      "example": "The zookeeper mated the pandas for reproduction.",
+      "chinese": {
+        "meaning": "交配",
+        "example": "動物園管理員安排熊貓交配。"
       }
     },
     {
@@ -144,6 +364,16 @@
       }
     },
     {
+      "word": "Maul",
+      "type": "verb",
+      "meaning": "To injure badly by beating or scratching",
+      "example": "The bear mauled the camper.",
+      "chinese": {
+        "meaning": "撕裂；傷害",
+        "example": "那隻熊襲擊並重傷了露營者。"
+      }
+    },
+    {
       "word": "Maximize",
       "type": "verb",
       "letter": "M",
@@ -166,6 +396,16 @@
       }
     },
     {
+      "word": "Meander",
+      "type": "verb",
+      "meaning": "To move aimlessly or with little purpose",
+      "example": "The river meanders through the valley.",
+      "chinese": {
+        "meaning": "蜿蜒；閒逛",
+        "example": "河流蜿蜒流經山谷。"
+      }
+    },
+    {
       "word": "Measure",
       "type": "verb",
       "letter": "M",
@@ -174,6 +414,26 @@
       "chinese": {
         "meaning": "測量",
         "example": "他們用溫度計測量了溫度。"
+      }
+    },
+    {
+      "word": "Medal",
+      "type": "verb",
+      "meaning": "To win or be awarded a medal",
+      "example": "She medaled in three events.",
+      "chinese": {
+        "meaning": "獲得獎牌",
+        "example": "她在三個項目中獲得了獎牌。"
+      }
+    },
+    {
+      "word": "Meddle",
+      "type": "verb",
+      "meaning": "To interfere in someone else's affairs",
+      "example": "Don’t meddle in their argument.",
+      "chinese": {
+        "meaning": "干涉",
+        "example": "不要干涉他們的爭吵。"
       }
     },
     {
@@ -188,6 +448,16 @@
       }
     },
     {
+      "word": "Medicalize",
+      "type": "verb",
+      "meaning": "To treat or regard as a medical problem",
+      "example": "Society tends to medicalize normal aging.",
+      "chinese": {
+        "meaning": "醫療化",
+        "example": "社會傾向於把正常老化視為醫療問題。"
+      }
+    },
+    {
       "word": "Medicate",
       "type": "verb",
       "letter": "M",
@@ -196,6 +466,16 @@
       "chinese": {
         "meaning": "用藥治療",
         "example": "醫生給病人用藥止痛。"
+      }
+    },
+    {
+      "word": "Meditate",
+      "type": "verb",
+      "meaning": "To focus or reflect deeply",
+      "example": "He meditates every morning for clarity.",
+      "chinese": {
+        "meaning": "冥想",
+        "example": "他每天早上冥想以清晰思緒。"
       }
     },
     {
@@ -210,6 +490,16 @@
       }
     },
     {
+      "word": "Mellow",
+      "type": "verb",
+      "meaning": "To become softer or gentler",
+      "example": "His attitude mellowed with age.",
+      "chinese": {
+        "meaning": "變溫和",
+        "example": "隨著年齡增長，他的態度變得溫和。"
+      }
+    },
+    {
       "word": "Melt",
       "type": "verb",
       "letter": "M",
@@ -218,6 +508,36 @@
       "chinese": {
         "meaning": "融化",
         "example": "雪在太陽下融化了。"
+      }
+    },
+    {
+      "word": "Memorize",
+      "type": "verb",
+      "meaning": "To learn by heart",
+      "example": "She memorized the poem for class.",
+      "chinese": {
+        "meaning": "記住",
+        "example": "她背誦了那首詩以便上課用。"
+      }
+    },
+    {
+      "word": "Menace",
+      "type": "verb",
+      "meaning": "To threaten",
+      "example": "Dark clouds menaced the coast.",
+      "chinese": {
+        "meaning": "威脅",
+        "example": "烏雲對海岸構成威脅。"
+      }
+    },
+    {
+      "word": "Mend",
+      "type": "verb",
+      "meaning": "To repair something broken",
+      "example": "He mended the torn shirt.",
+      "chinese": {
+        "meaning": "修補",
+        "example": "他修補了那件破掉的襯衫。"
       }
     },
     {
@@ -232,6 +552,36 @@
       }
     },
     {
+      "word": "Mentor",
+      "type": "verb",
+      "meaning": "To guide or coach someone",
+      "example": "She mentored new employees at work.",
+      "chinese": {
+        "meaning": "指導",
+        "example": "她在工作上指導新員工。"
+      }
+    },
+    {
+      "word": "Meow",
+      "type": "verb",
+      "meaning": "To make the sound of a cat",
+      "example": "The kitten meowed for food.",
+      "chinese": {
+        "meaning": "喵喵叫",
+        "example": "小貓為了要吃的喵喵叫。"
+      }
+    },
+    {
+      "word": "Merchandise",
+      "type": "verb",
+      "meaning": "To promote the sale of goods",
+      "example": "The company merchandised its brand aggressively.",
+      "chinese": {
+        "meaning": "行銷商品",
+        "example": "公司積極推銷其品牌商品。"
+      }
+    },
+    {
       "word": "Merge",
       "type": "verb",
       "letter": "M",
@@ -240,6 +590,89 @@
       "chinese": {
         "meaning": "合併",
         "example": "兩家公司合併成一家。"
+      }
+    },
+    {
+      "word": "Merit",
+      "type": "verb",
+      "meaning": "To deserve or earn",
+      "example": "This idea merits more attention.",
+      "chinese": {
+        "meaning": "值得",
+        "example": "這個想法值得更多關注。"
+      }
+    },
+    {
+      "word": "Mesh",
+      "type": "verb",
+      "meaning": "To fit or work well together",
+      "example": "The gears meshed smoothly.",
+      "chinese": {
+        "meaning": "齒合；融合",
+        "example": "齒輪順利地齒合運轉。"
+      }
+    },
+    {
+      "word": "Mesmerize",
+      "type": "verb",
+      "meaning": "To hold someone's attention completely",
+      "example": "The magician mesmerized the audience.",
+      "chinese": {
+        "meaning": "迷住",
+        "example": "魔術師迷住了觀眾。"
+      }
+    },
+    {
+      "word": "Metabolize",
+      "type": "verb",
+      "meaning": "To process food into energy in the body",
+      "example": "Humans metabolize sugar differently.",
+      "chinese": {
+        "meaning": "新陳代謝",
+        "example": "人體對糖的代謝方式各異。"
+      }
+    },
+    {
+      "word": "Meter",
+      "type": "verb",
+      "meaning": "To measure in units",
+      "example": "The device meters electricity usage.",
+      "chinese": {
+        "meaning": "計量",
+        "example": "該裝置計量用電量。"
+      }
+    },
+    {
+      "word": "Methodize",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To arrange or organize systematically",
+      "example": "She methodized her notes before the exam.",
+      "chinese": {
+        "meaning": "系統化、組織化",
+        "example": "她在考試前把筆記系統化整理。"
+      }
+    },
+    {
+      "word": "Microfilm",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To record documents on microfilm",
+      "example": "The library microfilmed the old newspapers.",
+      "chinese": {
+        "meaning": "用微縮膠卷保存",
+        "example": "圖書館把舊報紙用微縮膠卷保存。"
+      }
+    },
+    {
+      "word": "Micromanage",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To control every small detail of someone's work",
+      "example": "He tends to micromanage his team, which lowers morale.",
+      "chinese": {
+        "meaning": "事無鉅細地管理",
+        "example": "他喜歡事無鉅細地管理團隊，這降低了士氣。"
       }
     },
     {
@@ -254,6 +687,17 @@
       }
     },
     {
+      "word": "Militarize",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To equip or organize for military purposes",
+      "example": "The region was militarized after the conflict began.",
+      "chinese": {
+        "meaning": "軍事化",
+        "example": "衝突開始後該地區被軍事化。"
+      }
+    },
+    {
       "word": "Militate",
       "type": "verb",
       "letter": "M",
@@ -262,6 +706,72 @@
       "chinese": {
         "meaning": "產生不利影響",
         "example": "他缺乏經驗對他找工作產生了不利影響。"
+      }
+    },
+    {
+      "word": "Milk",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To extract milk from an animal; to exploit for profit",
+      "example": "They milk the cows twice a day.",
+      "chinese": {
+        "meaning": "擠奶；利用",
+        "example": "他們每天擠奶兩次。"
+      }
+    },
+    {
+      "word": "Mill",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To grind or process in a mill",
+      "example": "They mill the wheat into flour.",
+      "chinese": {
+        "meaning": "碾磨",
+        "example": "他們把小麥磨成麵粉。"
+      }
+    },
+    {
+      "word": "Mimic",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To imitate someone or something",
+      "example": "The child mimicked his teacher's gestures.",
+      "chinese": {
+        "meaning": "模仿",
+        "example": "孩子模仿老師的動作。"
+      }
+    },
+    {
+      "word": "Mince",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To cut food into very small pieces",
+      "example": "Mince the garlic before adding it to the dish.",
+      "chinese": {
+        "meaning": "切碎",
+        "example": "先把蒜切碎再加入菜餚中。"
+      }
+    },
+    {
+      "word": "Mind",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To care about or pay attention to something",
+      "example": "Mind your own business.",
+      "chinese": {
+        "meaning": "注意；在意",
+        "example": "管好你自己的事。"
+      }
+    },
+    {
+      "word": "Mine",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To extract minerals from the earth",
+      "example": "They mined gold in the mountains.",
+      "chinese": {
+        "meaning": "開採",
+        "example": "他們在山裡開採黃金。"
       }
     },
     {
@@ -287,6 +797,28 @@
       }
     },
     {
+      "word": "Minister",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To attend to the needs of someone",
+      "example": "She ministered to the sick during the epidemic.",
+      "chinese": {
+        "meaning": "照顧、服務",
+        "example": "她在疫情期間照顧病人。"
+      }
+    },
+    {
+      "word": "Mint",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To make coins",
+      "example": "The government mints new coins each year.",
+      "chinese": {
+        "meaning": "鑄造硬幣",
+        "example": "政府每年鑄造新硬幣。"
+      }
+    },
+    {
       "word": "Mirror",
       "type": "verb",
       "letter": "M",
@@ -295,6 +827,17 @@
       "chinese": {
         "meaning": "反映",
         "example": "她的行為反映了她的信念。"
+      }
+    },
+    {
+      "word": "Misapply",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To use something incorrectly",
+      "example": "The rule was misapplied in this case.",
+      "chinese": {
+        "meaning": "誤用",
+        "example": "這個案例中規則被誤用了。"
       }
     },
     {
@@ -309,6 +852,28 @@
       }
     },
     {
+      "word": "Miscalculate",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To calculate incorrectly",
+      "example": "He miscalculated the total cost of the project.",
+      "chinese": {
+        "meaning": "計算錯誤",
+        "example": "他算錯了這個項目的總成本。"
+      }
+    },
+    {
+      "word": "Miscarry",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To fail to achieve the intended outcome; to have a pregnancy end prematurely",
+      "example": "Their plan miscarried due to poor timing.",
+      "chinese": {
+        "meaning": "失敗；流產",
+        "example": "他們的計劃因時機不當而失敗。"
+      }
+    },
+    {
       "word": "Miscast",
       "type": "verb",
       "letter": "M",
@@ -317,6 +882,127 @@
       "chinese": {
         "meaning": "角色選錯",
         "example": "導演選錯了主角。"
+      }
+    },
+    {
+      "word": "Misconceive",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To misunderstand something",
+      "example": "She misconceived his intentions.",
+      "chinese": {
+        "meaning": "誤解",
+        "example": "她誤解了他的意圖。"
+      }
+    },
+    {
+      "word": "Misconduct",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To behave improperly",
+      "example": "The officer was accused of misconducting himself during duty.",
+      "chinese": {
+        "meaning": "行為不當",
+        "example": "這名官員被指控在執勤時行為不當。"
+      }
+    },
+    {
+      "word": "Misconstrue",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To interpret incorrectly",
+      "example": "His words were misconstrued by the press.",
+      "chinese": {
+        "meaning": "誤解、曲解",
+        "example": "他的話被媒體曲解了。"
+      }
+    },
+    {
+      "word": "Misdirect",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To send in the wrong direction",
+      "example": "The shipment was misdirected to another city.",
+      "chinese": {
+        "meaning": "誤導、誤送",
+        "example": "貨物被誤送到另一個城市。"
+      }
+    },
+    {
+      "word": "Misdo",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To do something wrongly",
+      "example": "He misdid the calculations on the form.",
+      "chinese": {
+        "meaning": "做錯",
+        "example": "他在表格上計算錯了。"
+      }
+    },
+    {
+      "word": "Misemploy",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To use something for the wrong purpose",
+      "example": "The funds were misemployed for personal expenses.",
+      "chinese": {
+        "meaning": "誤用",
+        "example": "資金被誤用於個人開支。"
+      }
+    },
+    {
+      "word": "Misfire",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To fail to discharge properly; to fail to achieve the intended result",
+      "example": "The gun misfired during the test.",
+      "chinese": {
+        "meaning": "哑火；失敗",
+        "example": "槍在測試時哑火了。"
+      }
+    },
+    {
+      "word": "Misfit",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To not fit properly",
+      "example": "The parts misfit and had to be replaced.",
+      "chinese": {
+        "meaning": "不合適",
+        "example": "這些零件不合適，需要更換。"
+      }
+    },
+    {
+      "word": "Misgovern",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To govern badly or ineffectively",
+      "example": "The country was misgoverned for decades.",
+      "chinese": {
+        "meaning": "治理不善",
+        "example": "這個國家被治理不善數十年。"
+      }
+    },
+    {
+      "word": "Misguide",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To lead or guide in the wrong direction",
+      "example": "They were misguided by false information.",
+      "chinese": {
+        "meaning": "誤導",
+        "example": "他們被錯誤的信息誤導了。"
+      }
+    },
+    {
+      "word": "Mishandle",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To deal with something poorly or improperly",
+      "example": "The police mishandled the investigation.",
+      "chinese": {
+        "meaning": "處理不當",
+        "example": "警方對調查處理不當。"
       }
     },
     {
@@ -339,6 +1025,17 @@
       "chinese": {
         "meaning": "打偏",
         "example": "他打偏了高爾夫球。"
+      }
+    },
+    {
+      "word": "Misinform",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To give incorrect information",
+      "example": "He was misinformed about the schedule.",
+      "chinese": {
+        "meaning": "提供錯誤信息",
+        "example": "他被告知了錯誤的時間表。"
       }
     },
     {
@@ -386,6 +1083,39 @@
       }
     },
     {
+      "word": "Mismanage",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To handle or control something badly",
+      "example": "The company mismanaged its resources.",
+      "chinese": {
+        "meaning": "管理不當",
+        "example": "公司資源管理不當。"
+      }
+    },
+    {
+      "word": "Mismatch",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To pair things that do not fit together",
+      "example": "The shoes were mismatched after being washed.",
+      "chinese": {
+        "meaning": "配錯、不匹配",
+        "example": "鞋子洗完後配錯了。"
+      }
+    },
+    {
+      "word": "Misname",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To call someone or something by the wrong name",
+      "example": "He was misnamed in the report.",
+      "chinese": {
+        "meaning": "叫錯名字",
+        "example": "報告中他的名字被寫錯了。"
+      }
+    },
+    {
       "word": "Misplace",
       "type": "verb",
       "letter": "M",
@@ -397,6 +1127,39 @@
       }
     },
     {
+      "word": "Misplay",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To make a mistake in playing a game or sport",
+      "example": "She misplayed the ball at a crucial moment.",
+      "chinese": {
+        "meaning": "失誤",
+        "example": "她在關鍵時刻失誤了。"
+      }
+    },
+    {
+      "word": "Misprint",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To print incorrectly",
+      "example": "The book was misprinted and recalled.",
+      "chinese": {
+        "meaning": "印錯",
+        "example": "這本書印錯了並被召回。"
+      }
+    },
+    {
+      "word": "Misquote",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To quote incorrectly",
+      "example": "The journalist misquoted the politician's speech.",
+      "chinese": {
+        "meaning": "錯誤引用",
+        "example": "記者錯誤引用了這位政客的講話。"
+      }
+    },
+    {
       "word": "Misread",
       "type": "verb",
       "letter": "M",
@@ -405,6 +1168,17 @@
       "chinese": {
         "meaning": "誤讀",
         "example": "他誤讀了說明。"
+      }
+    },
+    {
+      "word": "Misrepresent",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To present something falsely",
+      "example": "The advertisement misrepresented the product's benefits.",
+      "chinese": {
+        "meaning": "歪曲、誤導",
+        "example": "廣告誤導了產品的好處。"
       }
     },
     {
@@ -452,6 +1226,28 @@
       }
     },
     {
+      "word": "Misstate",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To state something incorrectly",
+      "example": "He misstated the facts during the interview.",
+      "chinese": {
+        "meaning": "陳述錯誤",
+        "example": "他在採訪中陳述錯誤了事實。"
+      }
+    },
+    {
+      "word": "Misstep",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To make a mistake in action or judgment",
+      "example": "He misstepped by not consulting his team.",
+      "chinese": {
+        "meaning": "失誤",
+        "example": "他沒有與團隊商量是一次失誤。"
+      }
+    },
+    {
       "word": "Mistake",
       "type": "verb",
       "letter": "M",
@@ -460,6 +1256,28 @@
       "chinese": {
         "meaning": "弄錯、誤解",
         "example": "我把他認錯成他兄弟了。"
+      }
+    },
+    {
+      "word": "Mistime",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To choose the wrong timing",
+      "example": "She mistimed her jump and fell.",
+      "chinese": {
+        "meaning": "選錯時間",
+        "example": "她跳錯了時間點摔倒了。"
+      }
+    },
+    {
+      "word": "Mistreat",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To treat someone or something badly",
+      "example": "The animals were mistreated by their owners.",
+      "chinese": {
+        "meaning": "虐待",
+        "example": "這些動物被主人虐待。"
       }
     },
     {
@@ -496,6 +1314,50 @@
       }
     },
     {
+      "word": "Mitigate",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To make something less severe or harmful",
+      "example": "New policies were introduced to mitigate the economic impact.",
+      "chinese": {
+        "meaning": "緩和、減輕",
+        "example": "新的政策被引入以緩和經濟影響。"
+      }
+    },
+    {
+      "word": "Mix",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To combine different substances together",
+      "example": "She mixed the flour and sugar in a bowl.",
+      "chinese": {
+        "meaning": "混合",
+        "example": "她在碗裡把麵粉和糖混合在一起。"
+      }
+    },
+    {
+      "word": "Moan",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To make a low sound expressing pain or unhappiness",
+      "example": "He moaned in pain after falling.",
+      "chinese": {
+        "meaning": "呻吟",
+        "example": "他摔倒後痛苦地呻吟。"
+      }
+    },
+    {
+      "word": "Mob",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To crowd around someone in an excited or aggressive way",
+      "example": "Fans mobbed the singer as she left the venue.",
+      "chinese": {
+        "meaning": "圍攻、包圍",
+        "example": "歌迷在歌手離開場地時將她圍住。"
+      }
+    },
+    {
       "word": "Mobilize",
       "type": "verb",
       "letter": "M",
@@ -504,6 +1366,50 @@
       "chinese": {
         "meaning": "動員",
         "example": "社區動員起來支持受害者。"
+      }
+    },
+    {
+      "word": "Mock",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To laugh at or make fun of someone in a cruel way",
+      "example": "They mocked his accent.",
+      "chinese": {
+        "meaning": "嘲笑",
+        "example": "他們嘲笑他的口音。"
+      }
+    },
+    {
+      "word": "Model",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To pose for an artist or photographer; to create a representation",
+      "example": "She modeled for a fashion magazine.",
+      "chinese": {
+        "meaning": "做模特；建模",
+        "example": "她為一本時尚雜誌做模特。"
+      }
+    },
+    {
+      "word": "Moderate",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To make something less extreme; to preside over a discussion or debate",
+      "example": "He moderated the panel discussion.",
+      "chinese": {
+        "meaning": "緩和；主持",
+        "example": "他主持了這場座談會。"
+      }
+    },
+    {
+      "word": "Modernize",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To update something to make it more modern",
+      "example": "The company modernized its facilities.",
+      "chinese": {
+        "meaning": "現代化",
+        "example": "公司使其設施現代化。"
       }
     },
     {
@@ -518,6 +1424,50 @@
       }
     },
     {
+      "word": "Modulate",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To adjust the pitch, tone, or volume of a voice or instrument; to regulate",
+      "example": "She modulated her voice to calm the children.",
+      "chinese": {
+        "meaning": "調整、調節",
+        "example": "她調整音調來安撫孩子們。"
+      }
+    },
+    {
+      "word": "Moisten",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To make something slightly wet",
+      "example": "He moistened the cloth before wiping the table.",
+      "chinese": {
+        "meaning": "弄濕",
+        "example": "他先把布弄濕再擦桌子。"
+      }
+    },
+    {
+      "word": "Mold",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To shape a soft substance into a particular form",
+      "example": "She molded the clay into a vase.",
+      "chinese": {
+        "meaning": "塑造、成型",
+        "example": "她把陶土塑造成花瓶。"
+      }
+    },
+    {
+      "word": "Molest",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To harm or annoy someone, especially in a sexual way",
+      "example": "He was arrested for molesting a minor.",
+      "chinese": {
+        "meaning": "騷擾、性侵",
+        "example": "他因猥褻未成年人而被捕。"
+      }
+    },
+    {
       "word": "Monitor",
       "type": "verb",
       "letter": "M",
@@ -529,6 +1479,94 @@
       }
     },
     {
+      "word": "Monopolize",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To take complete control or possession of something",
+      "example": "They monopolized the conversation.",
+      "chinese": {
+        "meaning": "壟斷、獨佔",
+        "example": "他們壟斷了這場談話。"
+      }
+    },
+    {
+      "word": "Mop",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To clean a floor with a mop",
+      "example": "She mopped the kitchen floor.",
+      "chinese": {
+        "meaning": "拖地",
+        "example": "她拖了廚房的地板。"
+      }
+    },
+    {
+      "word": "Moralize",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To comment on issues of right and wrong, often with a self-righteous tone",
+      "example": "He tends to moralize about people's choices.",
+      "chinese": {
+        "meaning": "說教、講道德",
+        "example": "他傾向於對別人的選擇說教。"
+      }
+    },
+    {
+      "word": "Morph",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To change smoothly from one image or state to another",
+      "example": "The caterpillar morphed into a butterfly.",
+      "chinese": {
+        "meaning": "轉變",
+        "example": "毛毛蟲變成了蝴蝶。"
+      }
+    },
+    {
+      "word": "Mortgage",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To use property as security for a loan",
+      "example": "He mortgaged his house to start a business.",
+      "chinese": {
+        "meaning": "抵押",
+        "example": "他抵押了房子來創業。"
+      }
+    },
+    {
+      "word": "Mortify",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To cause someone to feel very embarrassed or ashamed",
+      "example": "She was mortified by her mistake.",
+      "chinese": {
+        "meaning": "使羞愧",
+        "example": "她因自己的錯誤而感到羞愧。"
+      }
+    },
+    {
+      "word": "Mother",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To care for someone as a mother would",
+      "example": "She mothered the orphaned children.",
+      "chinese": {
+        "meaning": "照顧、母愛般對待",
+        "example": "她照顧那些孤兒。"
+      }
+    },
+    {
+      "word": "Motion",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To make a gesture to direct or signal someone",
+      "example": "He motioned for her to sit down.",
+      "chinese": {
+        "meaning": "示意",
+        "example": "他示意她坐下。"
+      }
+    },
+    {
       "word": "Motivate",
       "type": "verb",
       "letter": "M",
@@ -537,6 +1575,17 @@
       "chinese": {
         "meaning": "激勵",
         "example": "教練激勵球隊贏得比賽。"
+      }
+    },
+    {
+      "word": "Motor",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To travel or move by motor vehicle",
+      "example": "We motored along the coast during the holiday.",
+      "chinese": {
+        "meaning": "駕車行駛",
+        "example": "假期我們沿著海岸開車旅行。"
       }
     },
     {
@@ -562,6 +1611,17 @@
       }
     },
     {
+      "word": "Move",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To change position or go from one place to another",
+      "example": "She moved to a new apartment last month.",
+      "chinese": {
+        "meaning": "移動、搬遷",
+        "example": "她上個月搬到了一個新公寓。"
+      }
+    },
+    {
       "word": "Mow",
       "type": "verb",
       "letter": "M",
@@ -570,6 +1630,83 @@
       "chinese": {
         "meaning": "割草、收割",
         "example": "他上週末割了草坪。"
+      }
+    },
+    {
+      "word": "Muck",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To remove dirt or waste; to mess up",
+      "example": "He mucked out the stables early in the morning.",
+      "chinese": {
+        "meaning": "清理污物；弄亂",
+        "example": "他一大早清理了馬廄。"
+      }
+    },
+    {
+      "word": "Mud",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To cover something with mud",
+      "example": "The kids muddied their shoes in the rain.",
+      "chinese": {
+        "meaning": "弄髒（泥巴）",
+        "example": "孩子們在雨中把鞋子弄得滿是泥巴。"
+      }
+    },
+    {
+      "word": "Muddle",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To confuse or mix things up",
+      "example": "He muddled the instructions and made a mistake.",
+      "chinese": {
+        "meaning": "混亂、弄糟",
+        "example": "他把指示搞混，犯了錯。"
+      }
+    },
+    {
+      "word": "Muffle",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To deaden the sound of something; to wrap up warmly",
+      "example": "She muffled her voice with a scarf.",
+      "chinese": {
+        "meaning": "壓低聲音；包裹",
+        "example": "她用圍巾壓低了聲音。"
+      }
+    },
+    {
+      "word": "Mug",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To attack someone in order to rob them",
+      "example": "He was mugged while walking home.",
+      "chinese": {
+        "meaning": "搶劫",
+        "example": "他在回家途中被搶劫。"
+      }
+    },
+    {
+      "word": "Mulch",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To cover soil with mulch to improve fertility and retain moisture",
+      "example": "They mulched the garden beds in spring.",
+      "chinese": {
+        "meaning": "覆蓋護根物",
+        "example": "他們在春天為花圃覆蓋了護根物。"
+      }
+    },
+    {
+      "word": "Mull",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To think about something deeply and at length",
+      "example": "She mulled over the job offer for days.",
+      "chinese": {
+        "meaning": "仔細考慮",
+        "example": "她考慮了這個工作邀請好幾天。"
       }
     },
     {
@@ -584,6 +1721,50 @@
       }
     },
     {
+      "word": "Mumble",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To speak in a low and unclear way",
+      "example": "He mumbled an apology.",
+      "chinese": {
+        "meaning": "喃喃自語",
+        "example": "他喃喃地道了歉。"
+      }
+    },
+    {
+      "word": "Mummify",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To preserve a body as a mummy",
+      "example": "Ancient Egyptians mummified their pharaohs.",
+      "chinese": {
+        "meaning": "使成木乃伊",
+        "example": "古埃及人將法老製成木乃伊。"
+      }
+    },
+    {
+      "word": "Munch",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To eat something steadily and often noisily",
+      "example": "She munched on some chips while watching TV.",
+      "chinese": {
+        "meaning": "咀嚼",
+        "example": "她看電視時嚼著薯片。"
+      }
+    },
+    {
+      "word": "Murder",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To kill someone unlawfully and intentionally",
+      "example": "He was found guilty of murdering his neighbor.",
+      "chinese": {
+        "meaning": "謀殺",
+        "example": "他被判謀殺鄰居罪名成立。"
+      }
+    },
+    {
       "word": "Murmur",
       "type": "verb",
       "letter": "M",
@@ -592,6 +1773,94 @@
       "chinese": {
         "meaning": "低語",
         "example": "她離開前低語了幾句話。"
+      }
+    },
+    {
+      "word": "Muse",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To think about something deeply and reflectively",
+      "example": "She mused about the meaning of life.",
+      "chinese": {
+        "meaning": "沉思",
+        "example": "她沉思著人生的意義。"
+      }
+    },
+    {
+      "word": "Muster",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To gather together or summon up something such as courage or resources",
+      "example": "He mustered all his strength to finish the race.",
+      "chinese": {
+        "meaning": "召集、鼓起",
+        "example": "他鼓起了所有的力量完成比賽。"
+      }
+    },
+    {
+      "word": "Mutate",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To change or cause to change in form or nature",
+      "example": "The virus mutated into a more dangerous strain.",
+      "chinese": {
+        "meaning": "突變",
+        "example": "這種病毒變異成了更危險的毒株。"
+      }
+    },
+    {
+      "word": "Mute",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To silence or soften the sound of something",
+      "example": "She muted the TV during the commercials.",
+      "chinese": {
+        "meaning": "靜音",
+        "example": "她在廣告時段把電視靜音了。"
+      }
+    },
+    {
+      "word": "Mutilate",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To severely damage or disfigure something or someone",
+      "example": "The rebels mutilated the statue of the dictator.",
+      "chinese": {
+        "meaning": "殘害、毀損",
+        "example": "叛軍毀損了獨裁者的雕像。"
+      }
+    },
+    {
+      "word": "Mutiny",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To rebel against authority, especially sailors or soldiers against officers",
+      "example": "The crew mutinied and took control of the ship.",
+      "chinese": {
+        "meaning": "叛變",
+        "example": "船員們叛變並控制了船隻。"
+      }
+    },
+    {
+      "word": "Mutter",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To speak in a low or barely audible voice, often in discontent",
+      "example": "He muttered something under his breath.",
+      "chinese": {
+        "meaning": "低聲嘀咕",
+        "example": "他低聲嘀咕了些什麼。"
+      }
+    },
+    {
+      "word": "Mystify",
+      "type": "verb",
+      "letter": "M",
+      "meaning": "To confuse or puzzle someone",
+      "example": "The magician's tricks mystified the audience.",
+      "chinese": {
+        "meaning": "使困惑",
+        "example": "魔術師的戲法讓觀眾感到困惑。"
       }
     }
   ]
