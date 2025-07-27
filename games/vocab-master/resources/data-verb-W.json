@@ -1,6 +1,28 @@
 {
   "words": [
     {
+      "word": "Wade",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To walk through water or another substance that impedes movement",
+      "example": "They waded across the shallow river.",
+      "chinese": {
+        "meaning": "涉水",
+        "example": "他們涉過淺河。"
+      }
+    },
+    {
+      "word": "Wag",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To move or cause to move rapidly back and forth",
+      "example": "The dog wagged its tail happily.",
+      "chinese": {
+        "meaning": "搖擺",
+        "example": "狗快樂地搖著尾巴。"
+      }
+    },
+    {
       "word": "Wage",
       "type": "verb",
       "letter": "W",
@@ -9,6 +31,28 @@
       "chinese": {
         "meaning": "發動",
         "example": "他們發起了爭取平等權利的運動。"
+      }
+    },
+    {
+      "word": "Wager",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To risk money or something of value on an uncertain event",
+      "example": "He wagered $50 on the outcome of the game.",
+      "chinese": {
+        "meaning": "打賭",
+        "example": "他賭了50美元在比賽結果上。"
+      }
+    },
+    {
+      "word": "Waggle",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To move with short, quick movements from side to side or up and down",
+      "example": "The golfer waggled the club before swinging.",
+      "chinese": {
+        "meaning": "搖晃",
+        "example": "高爾夫球手在揮桿前搖晃了一下球桿。"
       }
     },
     {
@@ -56,6 +100,39 @@
       }
     },
     {
+      "word": "Wallop",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To hit hard or defeat soundly",
+      "example": "She walloped the punching bag with all her strength.",
+      "chinese": {
+        "meaning": "猛打",
+        "example": "她用盡全力猛打沙袋。"
+      }
+    },
+    {
+      "word": "Wallow",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To roll about in mud or water; to indulge oneself excessively",
+      "example": "The pigs wallowed in the mud.",
+      "chinese": {
+        "meaning": "打滾、沉溺",
+        "example": "豬在泥裡打滾。"
+      }
+    },
+    {
+      "word": "Waltz",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To dance a waltz or move casually",
+      "example": "They waltzed around the dance floor.",
+      "chinese": {
+        "meaning": "跳華爾滋",
+        "example": "他們在舞池裡跳著華爾滋。"
+      }
+    },
+    {
       "word": "Wander",
       "type": "verb",
       "letter": "W",
@@ -78,6 +155,39 @@
       }
     },
     {
+      "word": "War",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To engage in conflict or battle",
+      "example": "The two nations have warred for decades.",
+      "chinese": {
+        "meaning": "作戰",
+        "example": "兩個國家交戰了數十年。"
+      }
+    },
+    {
+      "word": "Ward",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To guard or protect against something",
+      "example": "She carried an umbrella to ward off the sun.",
+      "chinese": {
+        "meaning": "防護",
+        "example": "她帶著傘來防曬。"
+      }
+    },
+    {
+      "word": "Warm",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To make or become warm",
+      "example": "He warmed his hands by the fire.",
+      "chinese": {
+        "meaning": "使溫暖",
+        "example": "他在火旁暖手。"
+      }
+    },
+    {
       "word": "Warn",
       "type": "verb",
       "letter": "W",
@@ -86,6 +196,28 @@
       "chinese": {
         "meaning": "警告",
         "example": "他們警告學生注意惡劣天氣。"
+      }
+    },
+    {
+      "word": "Warp",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To bend or twist out of shape",
+      "example": "The heat warped the wooden door.",
+      "chinese": {
+        "meaning": "變形",
+        "example": "熱使木門變形。"
+      }
+    },
+    {
+      "word": "Warrant",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To justify or give reason for something",
+      "example": "His actions do not warrant such a severe punishment.",
+      "chinese": {
+        "meaning": "保證、證明合理",
+        "example": "他的行為不值得這麼嚴厲的懲罰。"
       }
     },
     {
@@ -100,6 +232,17 @@
       }
     },
     {
+      "word": "Waste",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To use carelessly or without purpose",
+      "example": "Don't waste water by leaving the tap running.",
+      "chinese": {
+        "meaning": "浪費",
+        "example": "不要開著水龍頭浪費水。"
+      }
+    },
+    {
       "word": "Watch",
       "type": "verb",
       "letter": "W",
@@ -111,6 +254,17 @@
       }
     },
     {
+      "word": "Water",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To pour water on plants or land",
+      "example": "She watered the garden every morning.",
+      "chinese": {
+        "meaning": "澆水",
+        "example": "她每天早上給花園澆水。"
+      }
+    },
+    {
       "word": "Wave",
       "type": "verb",
       "letter": "W",
@@ -119,6 +273,28 @@
       "chinese": {
         "meaning": "揮手",
         "example": "她向同學們揮手道別。"
+      }
+    },
+    {
+      "word": "Waver",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To be uncertain or fluctuate",
+      "example": "He wavered between two choices.",
+      "chinese": {
+        "meaning": "動搖",
+        "example": "他在兩個選擇之間猶豫不決。"
+      }
+    },
+    {
+      "word": "Wax",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To apply wax to a surface; to increase gradually",
+      "example": "She waxed the car until it shone.",
+      "chinese": {
+        "meaning": "打蠟、增長",
+        "example": "她給車打蠟直到發亮。"
       }
     },
     {
@@ -155,6 +331,17 @@
       }
     },
     {
+      "word": "Weaponize",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To adapt something for use as a weapon",
+      "example": "They weaponized the virus in the lab.",
+      "chinese": {
+        "meaning": "武器化",
+        "example": "他們在實驗室裡把病毒武器化。"
+      }
+    },
+    {
       "word": "Wear",
       "type": "verb",
       "letter": "W",
@@ -163,6 +350,17 @@
       "chinese": {
         "meaning": "穿著",
         "example": "他外出時總是戴著帽子。"
+      }
+    },
+    {
+      "word": "Weary",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To make someone tired or exhausted",
+      "example": "The long journey wearied the travelers.",
+      "chinese": {
+        "meaning": "使疲倦",
+        "example": "漫長的旅程使旅行者筋疲力盡。"
       }
     },
     {
@@ -188,6 +386,28 @@
       }
     },
     {
+      "word": "Wedge",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To force into a narrow space",
+      "example": "He wedged the door open with a stick.",
+      "chinese": {
+        "meaning": "楔住、卡住",
+        "example": "他用棍子把門卡住。"
+      }
+    },
+    {
+      "word": "Weed",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To remove unwanted plants from a garden",
+      "example": "They weeded the flower beds every week.",
+      "chinese": {
+        "meaning": "除草",
+        "example": "他們每週給花壇除草。"
+      }
+    },
+    {
       "word": "Weep",
       "type": "verb",
       "letter": "W",
@@ -196,6 +416,17 @@
       "chinese": {
         "meaning": "哭泣",
         "example": "她聽到悲傷的消息後哭了。"
+      }
+    },
+    {
+      "word": "Weigh",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To measure weight or consider carefully",
+      "example": "She weighed the package before mailing it.",
+      "chinese": {
+        "meaning": "稱重、衡量",
+        "example": "她在寄出包裹前先稱了重。"
       }
     },
     {
@@ -221,6 +452,17 @@
       }
     },
     {
+      "word": "Wend",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To go or travel in a specified direction",
+      "example": "We wended our way through the forest.",
+      "chinese": {
+        "meaning": "前行",
+        "example": "我們穿過森林前行。"
+      }
+    },
+    {
       "word": "Wet",
       "type": "verb",
       "letter": "W",
@@ -229,6 +471,83 @@
       "chinese": {
         "meaning": "弄濕",
         "example": "雨水把地面弄濕了。"
+      }
+    },
+    {
+      "word": "Whack",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To hit something or someone with force",
+      "example": "He whacked the ball with the bat.",
+      "chinese": {
+        "meaning": "重擊",
+        "example": "他用球棒重擊了球。"
+      }
+    },
+    {
+      "word": "Whale",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To strike or attack vigorously",
+      "example": "The boxer whaled on his opponent.",
+      "chinese": {
+        "meaning": "猛攻",
+        "example": "拳擊手猛烈攻擊對手。"
+      }
+    },
+    {
+      "word": "Whap",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To strike sharply or suddenly",
+      "example": "She whapped the mosquito with a newspaper.",
+      "chinese": {
+        "meaning": "猛擊",
+        "example": "她用報紙猛打蚊子。"
+      }
+    },
+    {
+      "word": "Wheel",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To turn or cause to turn on an axis or pivot",
+      "example": "He wheeled the cart down the street.",
+      "chinese": {
+        "meaning": "轉動",
+        "example": "他推著手推車沿街走。"
+      }
+    },
+    {
+      "word": "Wheeze",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To breathe with difficulty, making a whistling sound",
+      "example": "The old man wheezed after climbing the stairs.",
+      "chinese": {
+        "meaning": "喘息，發出哮喘聲",
+        "example": "老人爬樓梯後喘息不止。"
+      }
+    },
+    {
+      "word": "Whelm",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To engulf or submerge completely",
+      "example": "The boat was whelmed by the huge waves.",
+      "chinese": {
+        "meaning": "淹沒",
+        "example": "船被巨浪淹沒。"
+      }
+    },
+    {
+      "word": "Whelp",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To give birth to puppies or young animals",
+      "example": "The dog whelped six puppies last night.",
+      "chinese": {
+        "meaning": "生幼犬",
+        "example": "狗昨晚生了六隻小狗。"
       }
     },
     {
@@ -243,6 +562,28 @@
       }
     },
     {
+      "word": "Whimper",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To make a series of low, feeble sounds expressing fear or pain",
+      "example": "The injured puppy whimpered softly.",
+      "chinese": {
+        "meaning": "嗚咽",
+        "example": "受傷的小狗輕輕嗚咽。"
+      }
+    },
+    {
+      "word": "Whine",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To complain in a high-pitched, peevish way",
+      "example": "The child whined about having to do homework.",
+      "chinese": {
+        "meaning": "抱怨，哀鳴",
+        "example": "孩子抱怨要做功課。"
+      }
+    },
+    {
       "word": "Whip",
       "type": "verb",
       "letter": "W",
@@ -251,6 +592,28 @@
       "chinese": {
         "meaning": "攪打",
         "example": "他把奶油攪打至硬性發泡。"
+      }
+    },
+    {
+      "word": "Whirl",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To spin or rotate rapidly",
+      "example": "The leaves whirled in the autumn wind.",
+      "chinese": {
+        "meaning": "旋轉",
+        "example": "葉子在秋風中旋轉。"
+      }
+    },
+    {
+      "word": "Whisk",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To move something quickly and lightly",
+      "example": "She whisked the eggs to make an omelet.",
+      "chinese": {
+        "meaning": "迅速攪拌",
+        "example": "她迅速攪拌雞蛋做煎蛋卷。"
       }
     },
     {
@@ -276,6 +639,50 @@
       }
     },
     {
+      "word": "Whiten",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To make or become white or whiter",
+      "example": "The snow whitened the entire landscape.",
+      "chinese": {
+        "meaning": "變白",
+        "example": "雪使整個景色變白。"
+      }
+    },
+    {
+      "word": "Whitewash",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To paint with whitewash; to gloss over faults",
+      "example": "They whitewashed the old fence last weekend.",
+      "chinese": {
+        "meaning": "刷白，掩蓋缺點",
+        "example": "他們上週末給舊圍欄刷了白漆。"
+      }
+    },
+    {
+      "word": "Whittle",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To carve or shape by cutting small slices",
+      "example": "He whittled a piece of wood into a small figurine.",
+      "chinese": {
+        "meaning": "削，刻",
+        "example": "他將一塊木頭削成小雕像。"
+      }
+    },
+    {
+      "word": "Whoop",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To give a loud cry of excitement or joy",
+      "example": "The crowd whooped with excitement after the win.",
+      "chinese": {
+        "meaning": "歡呼，叫喊",
+        "example": "勝利後觀眾歡呼雀躍。"
+      }
+    },
+    {
       "word": "Widen",
       "type": "verb",
       "letter": "W",
@@ -284,6 +691,39 @@
       "chinese": {
         "meaning": "擴寬",
         "example": "他們擴寬了道路以減少交通。"
+      }
+    },
+    {
+      "word": "Wield",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To hold and use a weapon or tool",
+      "example": "The knight wielded his sword skillfully.",
+      "chinese": {
+        "meaning": "揮舞，使用",
+        "example": "騎士熟練地揮舞著他的劍。"
+      }
+    },
+    {
+      "word": "Wiggle",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To move with small movements from side to side or up and down",
+      "example": "The puppy wiggled its tail happily.",
+      "chinese": {
+        "meaning": "扭動",
+        "example": "小狗快樂地搖著尾巴。"
+      }
+    },
+    {
+      "word": "Wilt",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To become limp or drooping, especially due to heat or lack of water",
+      "example": "The flowers wilted under the hot sun.",
+      "chinese": {
+        "meaning": "枯萎",
+        "example": "花朵在烈日下枯萎了。"
       }
     },
     {
@@ -317,6 +757,50 @@
       "chinese": {
         "meaning": "纏繞",
         "example": "他把繩子纏繞在線軸上。"
+      }
+    },
+    {
+      "word": "Winnow",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To separate grain from chaff by blowing air",
+      "example": "Farmers winnowed the wheat after harvest.",
+      "chinese": {
+        "meaning": "揚谷，篩選",
+        "example": "農民在收穫後揚谷小麥。"
+      }
+    },
+    {
+      "word": "Wipe",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To clean or dry by rubbing",
+      "example": "She wiped the table clean after dinner.",
+      "chinese": {
+        "meaning": "擦拭",
+        "example": "她晚餐後擦乾淨了桌子。"
+      }
+    },
+    {
+      "word": "Wire",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To send money electronically; to install wires",
+      "example": "He wired the payment to the supplier.",
+      "chinese": {
+        "meaning": "匯款，裝線",
+        "example": "他匯款給供應商。"
+      }
+    },
+    {
+      "word": "Wish",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To desire or hope for something",
+      "example": "She wished for good luck before the exam.",
+      "chinese": {
+        "meaning": "希望",
+        "example": "考試前她祈求好運。"
       }
     },
     {
@@ -375,6 +859,28 @@
       }
     },
     {
+      "word": "Witter",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To talk or chatter foolishly or at tedious length",
+      "example": "He wittered on about the weather all afternoon.",
+      "chinese": {
+        "meaning": "嘮叨",
+        "example": "他整個下午嘮叨天氣。"
+      }
+    },
+    {
+      "word": "Wobble",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To move unsteadily from side to side",
+      "example": "The table wobbled on its uneven legs.",
+      "chinese": {
+        "meaning": "搖晃",
+        "example": "桌子在不平的腿上搖晃。"
+      }
+    },
+    {
       "word": "Wonder",
       "type": "verb",
       "letter": "W",
@@ -383,6 +889,17 @@
       "chinese": {
         "meaning": "想知道",
         "example": "我想知道明天會不會下雨。"
+      }
+    },
+    {
+      "word": "Woo",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To try to gain the love or favor of someone",
+      "example": "He wooed her with flowers and compliments.",
+      "chinese": {
+        "meaning": "追求",
+        "example": "他用鮮花和讚美追求她。"
       }
     },
     {
@@ -408,6 +925,28 @@
       }
     },
     {
+      "word": "Worship",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To show reverence and adoration",
+      "example": "They worship their ancestors every year.",
+      "chinese": {
+        "meaning": "崇拜",
+        "example": "他們每年祭拜祖先。"
+      }
+    },
+    {
+      "word": "Wound",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To injure or hurt physically or emotionally",
+      "example": "He was wounded in the battle.",
+      "chinese": {
+        "meaning": "傷害",
+        "example": "他在戰鬥中受傷。"
+      }
+    },
+    {
       "word": "Wrangle",
       "type": "verb",
       "letter": "W",
@@ -430,6 +969,28 @@
       }
     },
     {
+      "word": "Wreak",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To cause or inflict (usually damage or revenge)",
+      "example": "The storm wreaked havoc on the town.",
+      "chinese": {
+        "meaning": "造成，施加",
+        "example": "暴風雨給城鎮造成了破壞。"
+      }
+    },
+    {
+      "word": "Wreathe",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To surround or encircle with something, often smoke or flowers",
+      "example": "Smoke wreathed the old chimney.",
+      "chinese": {
+        "meaning": "環繞",
+        "example": "煙霧環繞著舊煙囪。"
+      }
+    },
+    {
       "word": "Wreck",
       "type": "verb",
       "letter": "W",
@@ -438,6 +999,17 @@
       "chinese": {
         "meaning": "毀壞",
         "example": "汽車在事故中被毀壞。"
+      }
+    },
+    {
+      "word": "Wrench",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To twist suddenly and forcibly",
+      "example": "He wrenched his ankle while running.",
+      "chinese": {
+        "meaning": "扭傷",
+        "example": "他跑步時扭傷了腳踝。"
       }
     },
     {
@@ -504,6 +1076,28 @@
       "chinese": {
         "meaning": "寫",
         "example": "他給朋友寫信。"
+      }
+    },
+    {
+      "word": "Writhe",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To twist or squirm in pain or discomfort",
+      "example": "The injured man writhed on the ground.",
+      "chinese": {
+        "meaning": "扭動，翻滾",
+        "example": "受傷的人在地上扭動。"
+      }
+    },
+    {
+      "word": "Wrongfoot",
+      "type": "verb",
+      "letter": "W",
+      "meaning": "To put at a disadvantage by surprise or confusion",
+      "example": "The unexpected question wrongfooted the candidate.",
+      "chinese": {
+        "meaning": "使措手不及",
+        "example": "意想不到的問題讓候選人措手不及。"
       }
     }
   ]

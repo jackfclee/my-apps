@@ -1,6 +1,39 @@
 {
   "words": [
     {
+      "word": "Tab",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To keep a record or count of something",
+      "example": "She tabbed the expenses carefully.",
+      "chinese": {
+        "meaning": "記錄，計算",
+        "example": "她仔細記錄了開支。"
+      }
+    },
+    {
+      "word": "Tabulate",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To arrange data in a table or systematic form",
+      "example": "The results were tabulated for easy comparison.",
+      "chinese": {
+        "meaning": "製成表格，整理",
+        "example": "結果被製成表格以便比較。"
+      }
+    },
+    {
+      "word": "Tack",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To fasten or attach with small nails or pins",
+      "example": "He tacked the notice to the bulletin board.",
+      "chinese": {
+        "meaning": "釘住，固定",
+        "example": "他把通知釘在公告板上。"
+      }
+    },
+    {
       "word": "Tackle",
       "type": "verb",
       "letter": "T",
@@ -9,6 +42,39 @@
       "chinese": {
         "meaning": "處理；對付",
         "example": "政府正在應對氣候變化問題。"
+      }
+    },
+    {
+      "word": "Tag",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To attach a label or identifier",
+      "example": "They tagged all the luggage before the flight.",
+      "chinese": {
+        "meaning": "標記，附上標籤",
+        "example": "他們在飛行前標記了所有行李。"
+      }
+    },
+    {
+      "word": "Tail",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To follow someone closely and secretly",
+      "example": "The detective tailed the suspect all day.",
+      "chinese": {
+        "meaning": "跟蹤",
+        "example": "偵探整天跟蹤嫌疑人。"
+      }
+    },
+    {
+      "word": "Tailor",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make or adapt something for a particular purpose or person",
+      "example": "The program was tailored to meet the students' needs.",
+      "chinese": {
+        "meaning": "定制，調整",
+        "example": "該方案為滿足學生需求而定制。"
       }
     },
     {
@@ -45,6 +111,50 @@
       }
     },
     {
+      "word": "Tally",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To count or record a total",
+      "example": "She tallied the votes after the election.",
+      "chinese": {
+        "meaning": "計算，統計",
+        "example": "她在選舉後統計了票數。"
+      }
+    },
+    {
+      "word": "Tamper",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To interfere improperly or unlawfully with something",
+      "example": "Someone tampered with the evidence.",
+      "chinese": {
+        "meaning": "擅自干涉，篡改",
+        "example": "有人篡改了證據。"
+      }
+    },
+    {
+      "word": "Tan",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make leather by treating animal skins with tannin",
+      "example": "The factory tans hides to produce leather goods.",
+      "chinese": {
+        "meaning": "鞣製（皮革）",
+        "example": "工廠將獸皮鞣製成皮革製品。"
+      }
+    },
+    {
+      "word": "Tangle",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To become twisted or entwined in a confusing mass",
+      "example": "The wires were tangled behind the desk.",
+      "chinese": {
+        "meaning": "纏結，糾纏",
+        "example": "電線在桌子後面纏在一起。"
+      }
+    },
+    {
       "word": "Tap",
       "type": "verb",
       "letter": "T",
@@ -78,6 +188,61 @@
       }
     },
     {
+      "word": "Tarry",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To delay or be slow in going",
+      "example": "They tarried at the cafe before heading home.",
+      "chinese": {
+        "meaning": "逗留，耽擱",
+        "example": "他們在咖啡館逗留後才回家。"
+      }
+    },
+    {
+      "word": "Taste",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To sample or try the flavor of something",
+      "example": "She tasted the soup and added some salt.",
+      "chinese": {
+        "meaning": "品嚐",
+        "example": "她嘗了嘗湯，然後加了點鹽。"
+      }
+    },
+    {
+      "word": "Tattoo",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To mark the skin with ink using needles",
+      "example": "He got a dragon tattoo on his arm.",
+      "chinese": {
+        "meaning": "刺青",
+        "example": "他在手臂上紋了一條龍。"
+      }
+    },
+    {
+      "word": "Taunt",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To provoke or challenge someone with insulting remarks",
+      "example": "They taunted him for his mistake.",
+      "chinese": {
+        "meaning": "嘲弄，挑釁",
+        "example": "他們嘲笑他的錯誤。"
+      }
+    },
+    {
+      "word": "Tauten",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make something tight or taut",
+      "example": "She tautened the ropes to secure the tent.",
+      "chinese": {
+        "meaning": "拉緊",
+        "example": "她拉緊繩子固定帳篷。"
+      }
+    },
+    {
       "word": "Teach",
       "type": "verb",
       "letter": "T",
@@ -86,6 +251,17 @@
       "chinese": {
         "meaning": "教導",
         "example": "她在學校教英文。"
+      }
+    },
+    {
+      "word": "Team",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To work together as a team",
+      "example": "The players teamed up to win the championship.",
+      "chinese": {
+        "meaning": "合作，組隊",
+        "example": "球員們組隊贏得了冠軍。"
       }
     },
     {
@@ -111,6 +287,28 @@
       }
     },
     {
+      "word": "Teem",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To be full of or swarming with",
+      "example": "The river teemed with fish.",
+      "chinese": {
+        "meaning": "充滿，湧現",
+        "example": "河裡充滿了魚。"
+      }
+    },
+    {
+      "word": "Teeter",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To move unsteadily or sway back and forth",
+      "example": "She teetered on her high heels.",
+      "chinese": {
+        "meaning": "搖搖欲墜，踉蹌",
+        "example": "她穿著高跟鞋踉蹌。"
+      }
+    },
+    {
       "word": "Telecast",
       "type": "verb",
       "letter": "T",
@@ -119,6 +317,50 @@
       "chinese": {
         "meaning": "電視轉播",
         "example": "典禮進行了電視直播。"
+      }
+    },
+    {
+      "word": "Telegraph",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To send a message by telegraph or signal",
+      "example": "They telegraphed the news across the country.",
+      "chinese": {
+        "meaning": "發電報，發信號",
+        "example": "他們用電報將消息傳遍全國。"
+      }
+    },
+    {
+      "word": "Telephone",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To call or communicate by telephone",
+      "example": "She telephoned her friend to invite her over.",
+      "chinese": {
+        "meaning": "打電話",
+        "example": "她打電話邀請朋友過來。"
+      }
+    },
+    {
+      "word": "Teleport",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To transport instantly from one place to another (in science fiction)",
+      "example": "The character teleported across the room in the game.",
+      "chinese": {
+        "meaning": "瞬間移動（科幻用語）",
+        "example": "角色在遊戲中瞬間移動到房間另一側。"
+      }
+    },
+    {
+      "word": "Televise",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To broadcast on television",
+      "example": "The event was televised live.",
+      "chinese": {
+        "meaning": "電視播送",
+        "example": "活動進行了直播。"
       }
     },
     {
@@ -144,6 +386,17 @@
       }
     },
     {
+      "word": "Tempt",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To entice or try to persuade someone to do something",
+      "example": "The sweet dessert tempted him to eat more.",
+      "chinese": {
+        "meaning": "誘惑，引誘",
+        "example": "甜點誘惑他多吃幾口。"
+      }
+    },
+    {
       "word": "Tend",
       "type": "verb",
       "letter": "T",
@@ -155,6 +408,17 @@
       }
     },
     {
+      "word": "Tender",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To offer or present formally",
+      "example": "She tendered her resignation yesterday.",
+      "chinese": {
+        "meaning": "提出，呈交",
+        "example": "她昨天提交了辭職信。"
+      }
+    },
+    {
       "word": "Terminate",
       "type": "verb",
       "letter": "T",
@@ -163,6 +427,28 @@
       "chinese": {
         "meaning": "終止",
         "example": "合同提前終止了。"
+      }
+    },
+    {
+      "word": "Terraform",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To modify a planet's environment to make it habitable",
+      "example": "Scientists speculate about terraforming Mars in the future.",
+      "chinese": {
+        "meaning": "使星球適合居住",
+        "example": "科學家推測未來可能對火星進行地球化改造。"
+      }
+    },
+    {
+      "word": "Terrorize",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To create fear or terror in someone",
+      "example": "The criminals terrorized the neighborhood.",
+      "chinese": {
+        "meaning": "恐嚇，使害怕",
+        "example": "罪犯恐嚇了整個社區。"
       }
     },
     {
@@ -188,6 +474,83 @@
       }
     },
     {
+      "word": "Tetanize",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To cause tetanus or induce a sustained muscular contraction",
+      "example": "The toxin tetanizes the muscles causing spasms.",
+      "chinese": {
+        "meaning": "使肌肉強直，引起破傷風",
+        "example": "毒素使肌肉強直，引起痙攣。"
+      }
+    },
+    {
+      "word": "Tether",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To tie or fasten with a rope or chain",
+      "example": "They tethered the horse to the post.",
+      "chinese": {
+        "meaning": "繫住，用繩子或鏈條拴住",
+        "example": "他們把馬繫在柱子上。"
+      }
+    },
+    {
+      "word": "Thank",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To express gratitude to someone",
+      "example": "I thanked her for the wonderful gift.",
+      "chinese": {
+        "meaning": "感謝",
+        "example": "我感謝她送的美好禮物。"
+      }
+    },
+    {
+      "word": "Thaw",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To melt or cause to melt from a frozen state",
+      "example": "The ice began to thaw in the sunlight.",
+      "chinese": {
+        "meaning": "融化",
+        "example": "冰在陽光下開始融化。"
+      }
+    },
+    {
+      "word": "Theorize",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To form a theory or set of ideas",
+      "example": "Scientists theorize about the origins of the universe.",
+      "chinese": {
+        "meaning": "理論化，提出理論",
+        "example": "科學家們提出宇宙起源的理論。"
+      }
+    },
+    {
+      "word": "Thicken",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make or become thicker",
+      "example": "Add flour to thicken the sauce.",
+      "chinese": {
+        "meaning": "使變厚",
+        "example": "加入麵粉使醬汁變稠。"
+      }
+    },
+    {
+      "word": "Thin",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make or become thinner",
+      "example": "The paint was thinned with water.",
+      "chinese": {
+        "meaning": "變薄，稀釋",
+        "example": "油漆被水稀釋了。"
+      }
+    },
+    {
       "word": "Think",
       "type": "verb",
       "letter": "T",
@@ -199,6 +562,39 @@
       }
     },
     {
+      "word": "Thrash",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To beat repeatedly or move violently",
+      "example": "The fish thrashed in the net.",
+      "chinese": {
+        "meaning": "猛擊，掙扎",
+        "example": "魚在網中掙扎。"
+      }
+    },
+    {
+      "word": "Threaten",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To express intent to cause harm or danger",
+      "example": "He threatened to call the police.",
+      "chinese": {
+        "meaning": "威脅",
+        "example": "他威脅要報警。"
+      }
+    },
+    {
+      "word": "Thrill",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To cause excitement or pleasure",
+      "example": "The roller coaster thrilled the riders.",
+      "chinese": {
+        "meaning": "使激動，使興奮",
+        "example": "雲霄飛車讓乘客興奮不已。"
+      }
+    },
+    {
       "word": "Thrive",
       "type": "verb",
       "letter": "T",
@@ -207,6 +603,28 @@
       "chinese": {
         "meaning": "繁榮",
         "example": "公司在新領導下繁榮發展。"
+      }
+    },
+    {
+      "word": "Throb",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To beat or pulse with a strong rhythm",
+      "example": "Her head throbbed after the injury.",
+      "chinese": {
+        "meaning": "跳動，搏動",
+        "example": "受傷後她的頭劇烈跳痛。"
+      }
+    },
+    {
+      "word": "Throttle",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To control or restrict the flow or power",
+      "example": "He throttled the engine to slow down.",
+      "chinese": {
+        "meaning": "節流，限制",
+        "example": "他節流引擎以減速。"
       }
     },
     {
@@ -232,6 +650,83 @@
       }
     },
     {
+      "word": "Thump",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To hit heavily or make a dull sound",
+      "example": "He thumped his fist on the table.",
+      "chinese": {
+        "meaning": "重擊，砰砰聲",
+        "example": "他重重地敲了敲桌子。"
+      }
+    },
+    {
+      "word": "Thunder",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make a loud booming noise",
+      "example": "The storm thundered through the night.",
+      "chinese": {
+        "meaning": "轟鳴，雷鳴",
+        "example": "暴風雨整夜轟鳴。"
+      }
+    },
+    {
+      "word": "Thwart",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To prevent someone from accomplishing something",
+      "example": "They thwarted the plans for the new building.",
+      "chinese": {
+        "meaning": "阻撓，挫敗",
+        "example": "他們阻止了新建築的計劃。"
+      }
+    },
+    {
+      "word": "Tick",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To mark with a tick or check mark",
+      "example": "Please tick the correct answer.",
+      "chinese": {
+        "meaning": "標記勾號",
+        "example": "請在正確答案旁打勾。"
+      }
+    },
+    {
+      "word": "Tickle",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To touch lightly to cause laughter or discomfort",
+      "example": "The child giggled when his feet were tickled.",
+      "chinese": {
+        "meaning": "搔癢",
+        "example": "他的腳被搔癢時笑了起來。"
+      }
+    },
+    {
+      "word": "Tidy",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To clean up or arrange neatly",
+      "example": "She tidied the room before guests arrived.",
+      "chinese": {
+        "meaning": "整理，收拾",
+        "example": "她在客人來之前整理了房間。"
+      }
+    },
+    {
+      "word": "Tie",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To fasten or secure with a string or rope",
+      "example": "He tied his shoelaces tightly.",
+      "chinese": {
+        "meaning": "綁，系",
+        "example": "他把鞋帶綁緊了。"
+      }
+    },
+    {
       "word": "Tighten",
       "type": "verb",
       "letter": "T",
@@ -254,6 +749,127 @@
       }
     },
     {
+      "word": "Tinker",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To attempt to repair or improve something in a casual way",
+      "example": "He tinkered with the engine until it worked.",
+      "chinese": {
+        "meaning": "修補，擺弄",
+        "example": "他擺弄引擎直到它運作正常。"
+      }
+    },
+    {
+      "word": "Tinkle",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make a light, clear ringing sound",
+      "example": "The wind chimes tinkled in the breeze.",
+      "chinese": {
+        "meaning": "發出清脆的叮噹聲",
+        "example": "風鈴在微風中叮噹作響。"
+      }
+    },
+    {
+      "word": "Tint",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To add a small amount of color to something",
+      "example": "She tinted the glass with a soft blue hue.",
+      "chinese": {
+        "meaning": "給…著色，染色",
+        "example": "她給玻璃染上了淡藍色。"
+      }
+    },
+    {
+      "word": "Tip",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To tilt or overturn something slightly",
+      "example": "He tipped the bottle to pour out the liquid.",
+      "chinese": {
+        "meaning": "傾斜，傾倒",
+        "example": "他把瓶子傾斜倒出液體。"
+      }
+    },
+    {
+      "word": "Tipple",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To drink alcohol, especially habitually or excessively",
+      "example": "He was known to tipple late into the night.",
+      "chinese": {
+        "meaning": "小酌，喝酒",
+        "example": "他以深夜飲酒聞名。"
+      }
+    },
+    {
+      "word": "Tire",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To become weary or fatigued",
+      "example": "She tired quickly after running the marathon.",
+      "chinese": {
+        "meaning": "疲倦，感到累",
+        "example": "跑完馬拉松後她很快感到疲倦。"
+      }
+    },
+    {
+      "word": "Titillate",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To excite or stimulate pleasurably",
+      "example": "The comedian's jokes titillated the audience.",
+      "chinese": {
+        "meaning": "逗樂，激起興趣",
+        "example": "喜劇演員的笑話逗樂了觀眾。"
+      }
+    },
+    {
+      "word": "Toast",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To raise a glass and drink in honor of someone or something",
+      "example": "They toasted the couple at the wedding.",
+      "chinese": {
+        "meaning": "敬酒，祝酒",
+        "example": "他們在婚禮上為新人敬酒。"
+      }
+    },
+    {
+      "word": "Toddle",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To walk with short, unsteady steps, like a toddler",
+      "example": "The baby toddled across the room.",
+      "chinese": {
+        "meaning": "蹣跚學步",
+        "example": "嬰兒蹣跚地走過房間。"
+      }
+    },
+    {
+      "word": "Toe",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To touch or push something with the toe",
+      "example": "He toed the ball gently across the field.",
+      "chinese": {
+        "meaning": "用腳尖觸碰或推動",
+        "example": "他用腳尖輕輕地推球穿過球場。"
+      }
+    },
+    {
+      "word": "Toil",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To work hard and continuously",
+      "example": "They toiled all day in the fields.",
+      "chinese": {
+        "meaning": "辛勤工作，勞累",
+        "example": "他們整天在田裡辛勤勞作。"
+      }
+    },
+    {
       "word": "Tolerate",
       "type": "verb",
       "letter": "T",
@@ -265,6 +881,72 @@
       }
     },
     {
+      "word": "Toll",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To ring slowly and repeatedly, especially a bell",
+      "example": "The church bell tolled for the funeral.",
+      "chinese": {
+        "meaning": "緩慢而連續地敲鐘",
+        "example": "教堂的鐘為葬禮敲響。"
+      }
+    },
+    {
+      "word": "Toot",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make a short, sharp sound, especially with a horn or whistle",
+      "example": "The car tooted its horn at the pedestrian.",
+      "chinese": {
+        "meaning": "吹號，鳴笛",
+        "example": "汽車對行人鳴喇叭。"
+      }
+    },
+    {
+      "word": "Topple",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To fall over or cause to fall",
+      "example": "The strong wind toppled the tree.",
+      "chinese": {
+        "meaning": "倒塌，推翻",
+        "example": "強風把樹吹倒了。"
+      }
+    },
+    {
+      "word": "Torch",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To set fire to something deliberately",
+      "example": "The vandals torched several cars.",
+      "chinese": {
+        "meaning": "縱火，點燃",
+        "example": "破壞者縱火燒了幾輛車。"
+      }
+    },
+    {
+      "word": "Torment",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To cause severe mental or physical suffering",
+      "example": "The memories tormented him for years.",
+      "chinese": {
+        "meaning": "折磨，使痛苦",
+        "example": "那些回憶折磨了他多年。"
+      }
+    },
+    {
+      "word": "Torpedo",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To attack or destroy with a torpedo or undermine",
+      "example": "The enemy submarine torpedoed the ship.",
+      "chinese": {
+        "meaning": "用魚雷攻擊，破壞",
+        "example": "敵方潛艇用魚雷攻擊了那艘船。"
+      }
+    },
+    {
       "word": "Toss",
       "type": "verb",
       "letter": "T",
@@ -273,6 +955,94 @@
       "chinese": {
         "meaning": "拋",
         "example": "她把鑰匙拋在桌上。"
+      }
+    },
+    {
+      "word": "Total",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To add up or sum",
+      "example": "The expenses totaled over $1,000.",
+      "chinese": {
+        "meaning": "合計，總數達到",
+        "example": "花費總計超過一千美元。"
+      }
+    },
+    {
+      "word": "Totter",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To move unsteadily or wobble",
+      "example": "The child tottered across the room.",
+      "chinese": {
+        "meaning": "搖搖晃晃地走",
+        "example": "孩子搖搖晃晃地走過房間。"
+      }
+    },
+    {
+      "word": "Touch",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make physical contact with something",
+      "example": "She touched the painting gently.",
+      "chinese": {
+        "meaning": "觸摸",
+        "example": "她輕輕地觸摸畫作。"
+      }
+    },
+    {
+      "word": "Tour",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To travel around a place for sightseeing or business",
+      "example": "They toured Europe last summer.",
+      "chinese": {
+        "meaning": "旅行，遊覽",
+        "example": "他們去年夏天遊覽了歐洲。"
+      }
+    },
+    {
+      "word": "Tousle",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make something messy or untidy",
+      "example": "The wind tousled her hair.",
+      "chinese": {
+        "meaning": "弄亂，弄亂頭髮",
+        "example": "風把她的頭髮吹亂了。"
+      }
+    },
+    {
+      "word": "Tow",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To pull a vehicle or boat with a rope or chain",
+      "example": "The truck towed the broken-down car.",
+      "chinese": {
+        "meaning": "拖拉",
+        "example": "卡車拖著故障的汽車。"
+      }
+    },
+    {
+      "word": "Towel",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To dry something with a towel",
+      "example": "She toweled off after swimming.",
+      "chinese": {
+        "meaning": "用毛巾擦乾",
+        "example": "她游泳後用毛巾擦乾。"
+      }
+    },
+    {
+      "word": "Toy",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To play with something lightly or without seriousness",
+      "example": "He toyed with the idea of moving abroad.",
+      "chinese": {
+        "meaning": "玩弄，玩耍",
+        "example": "他玩弄著移居海外的想法。"
       }
     },
     {
@@ -309,6 +1079,39 @@
       }
     },
     {
+      "word": "Traditionalize",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make something traditional or conform to tradition",
+      "example": "They traditionalized the festival to preserve culture.",
+      "chinese": {
+        "meaning": "使…傳統化",
+        "example": "他們使節日傳統化以保護文化。"
+      }
+    },
+    {
+      "word": "Traffic",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To deal or trade in something illegal or regulated",
+      "example": "They were caught trafficking illegal goods.",
+      "chinese": {
+        "meaning": "非法交易",
+        "example": "他們被抓到非法交易貨物。"
+      }
+    },
+    {
+      "word": "Trail",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To follow behind or track someone or something",
+      "example": "The detective trailed the suspect for hours.",
+      "chinese": {
+        "meaning": "追蹤，跟隨",
+        "example": "偵探跟蹤嫌疑人數小時。"
+      }
+    },
+    {
       "word": "Train",
       "type": "verb",
       "letter": "T",
@@ -317,6 +1120,94 @@
       "chinese": {
         "meaning": "訓練",
         "example": "他訓練運動員參加比賽。"
+      }
+    },
+    {
+      "word": "Traipse",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To walk or move wearily or reluctantly",
+      "example": "They traipsed around the city all day.",
+      "chinese": {
+        "meaning": "漫步，疲憊地走",
+        "example": "他們整天在城市裡漫步。"
+      }
+    },
+    {
+      "word": "Trammel",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To restrict or impede the movement of",
+      "example": "The regulations trammelled their business growth.",
+      "chinese": {
+        "meaning": "限制，妨礙",
+        "example": "規定限制了他們的業務增長。"
+      }
+    },
+    {
+      "word": "Tramp",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To walk heavily or noisily",
+      "example": "He tramped through the forest all afternoon.",
+      "chinese": {
+        "meaning": "沉重地走",
+        "example": "他整個下午都在森林裡沉重地走著。"
+      }
+    },
+    {
+      "word": "Trample",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To step heavily on something, crushing it",
+      "example": "The crowd trampled the flowers in the garden.",
+      "chinese": {
+        "meaning": "踩踏，踐踏",
+        "example": "人群踩踏了花園裡的花。"
+      }
+    },
+    {
+      "word": "Tranquilize",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To calm or sedate someone or something",
+      "example": "The vet tranquilized the wild animal before treatment.",
+      "chinese": {
+        "meaning": "使鎮靜，給…鎮靜劑",
+        "example": "獸醫在治療前給野生動物注射了鎮靜劑。"
+      }
+    },
+    {
+      "word": "Transact",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To conduct or carry out business or negotiation",
+      "example": "They transacted a large deal last week.",
+      "chinese": {
+        "meaning": "辦理，交易",
+        "example": "他們上週完成了一筆大交易。"
+      }
+    },
+    {
+      "word": "Transcend",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To go beyond or rise above limits",
+      "example": "Her achievements transcend expectations.",
+      "chinese": {
+        "meaning": "超越，勝過",
+        "example": "她的成就超越了期望。"
+      }
+    },
+    {
+      "word": "Transcribe",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To write down or record spoken words",
+      "example": "The assistant transcribed the meeting notes.",
+      "chinese": {
+        "meaning": "抄寫，錄製",
+        "example": "助理抄寫了會議記錄。"
       }
     },
     {
@@ -331,6 +1222,28 @@
       }
     },
     {
+      "word": "Transfigure",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To transform in appearance or form",
+      "example": "The artist transfigured the landscape in his painting.",
+      "chinese": {
+        "meaning": "改變外觀，變形",
+        "example": "藝術家在畫中改變了風景的形象。"
+      }
+    },
+    {
+      "word": "Transfix",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To cause someone to become motionless with amazement or horror",
+      "example": "The magician's trick transfixed the audience.",
+      "chinese": {
+        "meaning": "使驚呆，使動彈不得",
+        "example": "魔術師的戲法使觀眾驚呆了。"
+      }
+    },
+    {
       "word": "Transform",
       "type": "verb",
       "letter": "T",
@@ -339,6 +1252,61 @@
       "chinese": {
         "meaning": "轉變",
         "example": "科技改變了教育。"
+      }
+    },
+    {
+      "word": "Transfuse",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To transfer blood or another fluid into a vein",
+      "example": "The doctor transfused blood to the patient.",
+      "chinese": {
+        "meaning": "輸血，輸液",
+        "example": "醫生為病人輸血。"
+      }
+    },
+    {
+      "word": "Transgress",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To violate a law or moral code",
+      "example": "He transgressed the school's rules.",
+      "chinese": {
+        "meaning": "違反，越界",
+        "example": "他違反了學校規則。"
+      }
+    },
+    {
+      "word": "Tranship",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To transfer goods from one ship or vehicle to another",
+      "example": "The cargo was transhipped at the port.",
+      "chinese": {
+        "meaning": "轉運，換裝貨物",
+        "example": "貨物在港口被轉運。"
+      }
+    },
+    {
+      "word": "Transit",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To pass across or through a place",
+      "example": "Goods transit the country before export.",
+      "chinese": {
+        "meaning": "通過，運輸",
+        "example": "貨物在出口前通過該國。"
+      }
+    },
+    {
+      "word": "Transition",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To change from one state or condition to another",
+      "example": "She transitioned from teaching to management.",
+      "chinese": {
+        "meaning": "過渡，轉變",
+        "example": "她從教學轉向管理工作。"
       }
     },
     {
@@ -353,6 +1321,28 @@
       }
     },
     {
+      "word": "Transliterate",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To convert letters from one alphabet to another",
+      "example": "The text was transliterated from Cyrillic to Latin script.",
+      "chinese": {
+        "meaning": "音譯，轉寫",
+        "example": "文本從西里爾字母轉寫成拉丁字母。"
+      }
+    },
+    {
+      "word": "Translocate",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To move something to a different place",
+      "example": "The gene was translocated to another chromosome.",
+      "chinese": {
+        "meaning": "轉移，易位",
+        "example": "基因被轉移到另一條染色體上。"
+      }
+    },
+    {
       "word": "Transmit",
       "type": "verb",
       "letter": "T",
@@ -361,6 +1351,17 @@
       "chinese": {
         "meaning": "傳播",
         "example": "病毒通過接觸傳播。"
+      }
+    },
+    {
+      "word": "Transmute",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To change in form or nature",
+      "example": "Alchemists tried to transmute lead into gold.",
+      "chinese": {
+        "meaning": "變化，變質",
+        "example": "煉金術士試圖將鉛變成金。"
       }
     },
     {
@@ -386,6 +1387,28 @@
       }
     },
     {
+      "word": "Transpose",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To change the position of two things",
+      "example": "He transposed the notes in the music score.",
+      "chinese": {
+        "meaning": "調換位置",
+        "example": "他調換了樂譜中的音符位置。"
+      }
+    },
+    {
+      "word": "Transship",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To transfer goods from one ship to another",
+      "example": "The containers were transshipped at the harbor.",
+      "chinese": {
+        "meaning": "轉船，轉運",
+        "example": "貨櫃在港口轉船。"
+      }
+    },
+    {
       "word": "Trap",
       "type": "verb",
       "letter": "T",
@@ -405,6 +1428,28 @@
       "chinese": {
         "meaning": "旅行",
         "example": "他們遊歷了歐洲各地。"
+      }
+    },
+    {
+      "word": "Traverse",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To travel across or through",
+      "example": "They traversed the mountain range.",
+      "chinese": {
+        "meaning": "穿越，橫越",
+        "example": "他們穿越了那座山脈。"
+      }
+    },
+    {
+      "word": "Trawl",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To fish with a trawl net or search thoroughly",
+      "example": "They trawled the ocean for fish.",
+      "chinese": {
+        "meaning": "拖網捕魚，搜尋",
+        "example": "他們用拖網捕魚。"
       }
     },
     {
@@ -452,6 +1497,50 @@
       }
     },
     {
+      "word": "Trespass",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To enter someone's land without permission",
+      "example": "He trespassed on private property.",
+      "chinese": {
+        "meaning": "非法侵入，擅自進入",
+        "example": "他非法侵入私人土地。"
+      }
+    },
+    {
+      "word": "Trick",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To deceive or cheat someone",
+      "example": "She tricked him into giving her money.",
+      "chinese": {
+        "meaning": "欺騙，哄騙",
+        "example": "她騙他給她錢。"
+      }
+    },
+    {
+      "word": "Trickle",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To flow slowly in a thin stream",
+      "example": "Water trickled down the rocks after the rain.",
+      "chinese": {
+        "meaning": "慢慢流動",
+        "example": "雨後水從岩石上慢慢流下來。"
+      }
+    },
+    {
+      "word": "Trifle",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To treat something without seriousness or respect",
+      "example": "Don't trifle with people's feelings.",
+      "chinese": {
+        "meaning": "輕視，玩弄",
+        "example": "不要輕視別人的感情。"
+      }
+    },
+    {
       "word": "Trigger",
       "type": "verb",
       "letter": "T",
@@ -474,6 +1563,17 @@
       }
     },
     {
+      "word": "Trip",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To stumble or catch one's foot and almost fall",
+      "example": "She tripped over the curb and almost fell.",
+      "chinese": {
+        "meaning": "絆倒，失足",
+        "example": "她絆到路緣差點摔倒。"
+      }
+    },
+    {
       "word": "Triple",
       "type": "verb",
       "letter": "T",
@@ -485,6 +1585,39 @@
       }
     },
     {
+      "word": "Triumph",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To achieve a great victory or success",
+      "example": "They triumphed over their rivals in the competition.",
+      "chinese": {
+        "meaning": "取得勝利",
+        "example": "他們在比賽中戰勝了對手。"
+      }
+    },
+    {
+      "word": "Trivialize",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make something seem less important or serious",
+      "example": "Don't trivialize the problem; it's serious.",
+      "chinese": {
+        "meaning": "使…顯得微不足道",
+        "example": "不要輕視這個問題，這很嚴重。"
+      }
+    },
+    {
+      "word": "Trot",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To move at a pace faster than walking, but slower than running",
+      "example": "The horse trotted across the field.",
+      "chinese": {
+        "meaning": "小跑，快步跑",
+        "example": "馬兒在田野上小跑。"
+      }
+    },
+    {
       "word": "Trouble",
       "type": "verb",
       "letter": "T",
@@ -493,6 +1626,50 @@
       "chinese": {
         "meaning": "困擾",
         "example": "噪音困擾了居民。"
+      }
+    },
+    {
+      "word": "Trudge",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To walk slowly and with heavy steps, usually due to tiredness",
+      "example": "They trudged through the snow all day.",
+      "chinese": {
+        "meaning": "吃力地走",
+        "example": "他們整天在雪中吃力地走著。"
+      }
+    },
+    {
+      "word": "Trump",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To surpass or outdo someone",
+      "example": "Her performance trumped all others.",
+      "chinese": {
+        "meaning": "勝過，超越",
+        "example": "她的表現勝過所有人。"
+      }
+    },
+    {
+      "word": "Trumpet",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To proclaim loudly or publicly",
+      "example": "They trumpeted their success to the world.",
+      "chinese": {
+        "meaning": "大聲宣告",
+        "example": "他們向全世界宣告他們的成功。"
+      }
+    },
+    {
+      "word": "Truncate",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To shorten by cutting off the top or end",
+      "example": "The article was truncated to fit the space.",
+      "chinese": {
+        "meaning": "截短，縮短",
+        "example": "文章被截短以適合篇幅。"
       }
     },
     {
@@ -518,6 +1695,61 @@
       }
     },
     {
+      "word": "Tuck",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To push or fold something into a small space",
+      "example": "She tucked the blanket around the child.",
+      "chinese": {
+        "meaning": "塞進，折疊",
+        "example": "她把毯子摺起來包住孩子。"
+      }
+    },
+    {
+      "word": "Tug",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To pull something hard or suddenly",
+      "example": "He tugged the rope with all his strength.",
+      "chinese": {
+        "meaning": "用力拉，拖",
+        "example": "他用盡全力拉繩子。"
+      }
+    },
+    {
+      "word": "Tumble",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To fall suddenly and clumsily",
+      "example": "He tumbled down the stairs.",
+      "chinese": {
+        "meaning": "跌倒，翻滾",
+        "example": "他從樓梯上跌倒了。"
+      }
+    },
+    {
+      "word": "Tune",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To adjust a musical instrument to the correct pitch",
+      "example": "She tuned her guitar before the concert.",
+      "chinese": {
+        "meaning": "調音",
+        "example": "她在音樂會前調整吉他的音準。"
+      }
+    },
+    {
+      "word": "Tunnel",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make a tunnel through or under something",
+      "example": "They tunneled through the mountain to build the railway.",
+      "chinese": {
+        "meaning": "挖隧道",
+        "example": "他們穿過山挖隧道建鐵路。"
+      }
+    },
+    {
       "word": "Turn",
       "type": "verb",
       "letter": "T",
@@ -540,6 +1772,61 @@
       }
     },
     {
+      "word": "Twiddle",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To twist or play with something idly",
+      "example": "He twiddled the pen while thinking.",
+      "chinese": {
+        "meaning": "玩弄，轉動",
+        "example": "他邊思考邊玩弄筆。"
+      }
+    },
+    {
+      "word": "Twine",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To twist or wind together",
+      "example": "The vines twined around the tree.",
+      "chinese": {
+        "meaning": "纏繞，盤繞",
+        "example": "藤蔓纏繞在樹上。"
+      }
+    },
+    {
+      "word": "Twinge",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To experience a sudden sharp pain",
+      "example": "He twinged his back while lifting.",
+      "chinese": {
+        "meaning": "感到一陣劇痛",
+        "example": "他提重物時感到背部一陣劇痛。"
+      }
+    },
+    {
+      "word": "Twinkle",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To shine with a flickering light",
+      "example": "Stars twinkled in the night sky.",
+      "chinese": {
+        "meaning": "閃爍",
+        "example": "星星在夜空中閃爍。"
+      }
+    },
+    {
+      "word": "Twirl",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To spin quickly around",
+      "example": "She twirled on the dance floor.",
+      "chinese": {
+        "meaning": "旋轉，轉動",
+        "example": "她在舞池中旋轉。"
+      }
+    },
+    {
       "word": "Twist",
       "type": "verb",
       "letter": "T",
@@ -548,6 +1835,28 @@
       "chinese": {
         "meaning": "扭轉",
         "example": "他擰開了瓶蓋。"
+      }
+    },
+    {
+      "word": "Twitch",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make a sudden small movement",
+      "example": "His eye twitched nervously.",
+      "chinese": {
+        "meaning": "抽搐，抽動",
+        "example": "他的眼睛緊張地抽動。"
+      }
+    },
+    {
+      "word": "Twitter",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To make a series of light, high-pitched sounds",
+      "example": "Birds twittered in the early morning.",
+      "chinese": {
+        "meaning": "唧唧喳喳地叫",
+        "example": "鳥兒在清晨唧唧喳喳地叫。"
       }
     },
     {
@@ -581,6 +1890,28 @@
       "chinese": {
         "meaning": "排版",
         "example": "稿件已經排版並印刷。"
+      }
+    },
+    {
+      "word": "Typewrite",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To write using a typewriter",
+      "example": "She typewrote the report for the office.",
+      "chinese": {
+        "meaning": "用打字機打字",
+        "example": "她用打字機打報告。"
+      }
+    },
+    {
+      "word": "Typify",
+      "type": "verb",
+      "letter": "T",
+      "meaning": "To be a typical example of something",
+      "example": "His actions typify a true leader.",
+      "chinese": {
+        "meaning": "代表，象徵",
+        "example": "他的行為代表了一個真正的領袖。"
       }
     }
   ]

@@ -1,6 +1,94 @@
 {
   "words": [
     {
+      "word": "Race",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To compete in speed or to move quickly",
+      "example": "The cars raced around the track.",
+      "chinese": {
+        "meaning": "賽跑，疾走",
+        "example": "汽車在賽道上疾駛。"
+      }
+    },
+    {
+      "word": "Rack",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To cause extreme pain or stress",
+      "example": "He was racked with guilt after the incident.",
+      "chinese": {
+        "meaning": "折磨，使痛苦",
+        "example": "事件發生後，他深受罪惡感折磨。"
+      }
+    },
+    {
+      "word": "Radiate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To emit energy or spread outward from a center",
+      "example": "The sun radiates light and heat.",
+      "chinese": {
+        "meaning": "輻射，散發",
+        "example": "太陽散發光和熱。"
+      }
+    },
+    {
+      "word": "Raffle",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To sell tickets for a prize draw",
+      "example": "They raffled off a car at the charity event.",
+      "chinese": {
+        "meaning": "抽獎售票",
+        "example": "他們在慈善活動上抽獎送出一輛汽車。"
+      }
+    },
+    {
+      "word": "Rage",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To show or feel intense anger; to happen with great force",
+      "example": "The storm raged all night.",
+      "chinese": {
+        "meaning": "憤怒，肆虐",
+        "example": "暴風雨肆虐了一整夜。"
+      }
+    },
+    {
+      "word": "Raid",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make a sudden attack on a place",
+      "example": "The police raided the warehouse.",
+      "chinese": {
+        "meaning": "突襲，搜查",
+        "example": "警方突襲了倉庫。"
+      }
+    },
+    {
+      "word": "Rail",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To complain angrily about something",
+      "example": "He railed against the unfair decision.",
+      "chinese": {
+        "meaning": "憤怒抱怨",
+        "example": "他憤怒地抱怨這個不公平的決定。"
+      }
+    },
+    {
+      "word": "Rain",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To fall as rain; to pour down heavily",
+      "example": "It rained all afternoon.",
+      "chinese": {
+        "meaning": "下雨",
+        "example": "下午下一整天雨。"
+      }
+    },
+    {
       "word": "Raise",
       "type": "verb",
       "letter": "R",
@@ -12,6 +100,105 @@
       }
     },
     {
+      "word": "Rake",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To gather leaves or debris using a rake",
+      "example": "She raked the leaves in the garden.",
+      "chinese": {
+        "meaning": "耙（落葉等）",
+        "example": "她在花園裡耙落葉。"
+      }
+    },
+    {
+      "word": "Rally",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To come together for a common purpose; to recover",
+      "example": "The troops rallied to defend the city.",
+      "chinese": {
+        "meaning": "集合，恢復",
+        "example": "部隊集結起來保衛城市。"
+      }
+    },
+    {
+      "word": "Ram",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To strike something with great force",
+      "example": "The car rammed into the barrier.",
+      "chinese": {
+        "meaning": "猛撞",
+        "example": "汽車猛撞護欄。"
+      }
+    },
+    {
+      "word": "Ramble",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To walk for pleasure without a set route; to talk aimlessly",
+      "example": "He rambled on about his trip.",
+      "chinese": {
+        "meaning": "閒逛，漫談",
+        "example": "他不停地聊著他的旅行經歷。"
+      }
+    },
+    {
+      "word": "Ramify",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To spread or branch out",
+      "example": "The problem ramified into several areas.",
+      "chinese": {
+        "meaning": "分支，擴展",
+        "example": "問題擴展到幾個領域。"
+      }
+    },
+    {
+      "word": "Ramp",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To increase or rise quickly; to behave violently",
+      "example": "Production ramped up after the new order.",
+      "chinese": {
+        "meaning": "迅速增加",
+        "example": "新訂單到來後產量迅速增加。"
+      }
+    },
+    {
+      "word": "Rampage",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To rush around violently and uncontrollably",
+      "example": "The bull rampaged through the village.",
+      "chinese": {
+        "meaning": "橫衝直撞",
+        "example": "公牛在村莊裡橫衝直撞。"
+      }
+    },
+    {
+      "word": "Randomize",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To arrange or choose things in a random order",
+      "example": "The software randomizes the order of the questions.",
+      "chinese": {
+        "meaning": "隨機排列",
+        "example": "軟件隨機排列問題的順序。"
+      }
+    },
+    {
+      "word": "Range",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To vary between limits; to roam freely",
+      "example": "Her interests range from art to science.",
+      "chinese": {
+        "meaning": "範圍，遊走",
+        "example": "她的興趣範圍從藝術到科學。"
+      }
+    },
+    {
       "word": "Rank",
       "type": "verb",
       "letter": "R",
@@ -20,6 +207,182 @@
       "chinese": {
         "meaning": "排名",
         "example": "他在比賽中排名第三。"
+      }
+    },
+    {
+      "word": "Ransack",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To search a place thoroughly and steal things",
+      "example": "Burglars ransacked the house.",
+      "chinese": {
+        "meaning": "洗劫",
+        "example": "盜賊洗劫了這所房子。"
+      }
+    },
+    {
+      "word": "Ransom",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To release someone in exchange for payment",
+      "example": "They ransomed the hostages after negotiations.",
+      "chinese": {
+        "meaning": "贖回",
+        "example": "談判後他們贖回了人質。"
+      }
+    },
+    {
+      "word": "Rap",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To knock quickly or sharply",
+      "example": "He rapped on the door.",
+      "chinese": {
+        "meaning": "敲擊",
+        "example": "他敲了敲門。"
+      }
+    },
+    {
+      "word": "Rarefy",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make less dense or more refined",
+      "example": "The air rarefies as you climb higher.",
+      "chinese": {
+        "meaning": "使稀薄，使精緻",
+        "example": "隨著你攀得越高，空氣變得越稀薄。"
+      }
+    },
+    {
+      "word": "Rasp",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To scrape or file something roughly; to speak in a harsh voice",
+      "example": "He rasped the metal surface with sandpaper.",
+      "chinese": {
+        "meaning": "刮，沙啞地說",
+        "example": "他用砂紙刮金屬表面。"
+      }
+    },
+    {
+      "word": "Rat",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To betray someone",
+      "example": "He ratted on his friends to avoid jail.",
+      "chinese": {
+        "meaning": "出賣，告密",
+        "example": "他為了避免入獄而出賣了朋友。"
+      }
+    },
+    {
+      "word": "Rate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To assign a value, score, or rank to something",
+      "example": "They rated the film very highly.",
+      "chinese": {
+        "meaning": "評價，打分",
+        "example": "他們對這部電影評價很高。"
+      }
+    },
+    {
+      "word": "Ratify",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To formally approve a decision or treaty",
+      "example": "The treaty was ratified by the parliament.",
+      "chinese": {
+        "meaning": "批准，認可",
+        "example": "條約被議會批准。"
+      }
+    },
+    {
+      "word": "Ration",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To distribute in limited amounts",
+      "example": "The government rationed food during the crisis.",
+      "chinese": {
+        "meaning": "定量分配",
+        "example": "政府在危機期間定量分配糧食。"
+      }
+    },
+    {
+      "word": "Rattle",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make a rapid series of short sharp sounds; to unnerve",
+      "example": "The windows rattled in the storm.",
+      "chinese": {
+        "meaning": "嘎嘎作響，使不安",
+        "example": "暴風雨中窗戶嘎嘎作響。"
+      }
+    },
+    {
+      "word": "Ravage",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To cause severe damage or destruction",
+      "example": "The wildfire ravaged the forest.",
+      "chinese": {
+        "meaning": "肆虐，毀滅",
+        "example": "野火肆虐森林。"
+      }
+    },
+    {
+      "word": "Rave",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To talk wildly or enthusiastically",
+      "example": "She raved about the new restaurant.",
+      "chinese": {
+        "meaning": "熱情談論，胡言亂語",
+        "example": "她熱情地談論這家新餐廳。"
+      }
+    },
+    {
+      "word": "Ravel",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To untangle or complicate a situation",
+      "example": "He tried to ravel the knot but failed.",
+      "chinese": {
+        "meaning": "解開，使混亂",
+        "example": "他試圖解開繩結但失敗了。"
+      }
+    },
+    {
+      "word": "Ravish",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To fill with intense delight; to carry away by force",
+      "example": "The view of the mountains ravished the tourists.",
+      "chinese": {
+        "meaning": "使陶醉，強行帶走",
+        "example": "山景讓遊客陶醉。"
+      }
+    },
+    {
+      "word": "Raze",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To completely destroy a building or structure",
+      "example": "The old house was razed to make space for a park.",
+      "chinese": {
+        "meaning": "夷為平地",
+        "example": "舊房子被夷為平地以建公園。"
+      }
+    },
+    {
+      "word": "Reach",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To arrive at or extend to",
+      "example": "She reached the top of the mountain.",
+      "chinese": {
+        "meaning": "到達，伸手觸及",
+        "example": "她到達了山頂。"
       }
     },
     {
@@ -45,6 +408,39 @@
       }
     },
     {
+      "word": "Readjust",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To adjust again or differently",
+      "example": "He readjusted the straps on his backpack.",
+      "chinese": {
+        "meaning": "重新調整",
+        "example": "他重新調整了背包的帶子。"
+      }
+    },
+    {
+      "word": "Reaffirm",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To assert something again firmly",
+      "example": "The president reaffirmed his commitment to peace.",
+      "chinese": {
+        "meaning": "重申",
+        "example": "總統重申了他對和平的承諾。"
+      }
+    },
+    {
+      "word": "Realign",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To change or restore to a different position",
+      "example": "The company realigned its marketing strategy.",
+      "chinese": {
+        "meaning": "重新調整",
+        "example": "公司重新調整了行銷策略。"
+      }
+    },
+    {
       "word": "Realize",
       "type": "verb",
       "letter": "R",
@@ -53,6 +449,72 @@
       "chinese": {
         "meaning": "意識到",
         "example": "他太遲才意識到自己的錯誤。"
+      }
+    },
+    {
+      "word": "Reanimate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To bring back to life or to re-energize",
+      "example": "The festival reanimated the small town.",
+      "chinese": {
+        "meaning": "使復活，使重振",
+        "example": "節日使這個小鎮重振生機。"
+      }
+    },
+    {
+      "word": "Reap",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To harvest or gain as a result",
+      "example": "They reaped a good harvest this year.",
+      "chinese": {
+        "meaning": "收穫",
+        "example": "他們今年收穫頗豐。"
+      }
+    },
+    {
+      "word": "Reappear",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To appear again",
+      "example": "The sun reappeared after the storm.",
+      "chinese": {
+        "meaning": "重新出現",
+        "example": "暴風雨後太陽重新出現。"
+      }
+    },
+    {
+      "word": "Rear",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To raise or bring up; to rise on hind legs",
+      "example": "They rear horses on their farm.",
+      "chinese": {
+        "meaning": "養育，抬起",
+        "example": "他們在農場上養馬。"
+      }
+    },
+    {
+      "word": "Rearm",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To equip with new or additional weapons",
+      "example": "The country rearmed its military forces.",
+      "chinese": {
+        "meaning": "重新武裝",
+        "example": "該國重新武裝了其軍隊。"
+      }
+    },
+    {
+      "word": "Rearrange",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To change the order or position of something",
+      "example": "She rearranged the furniture in her room.",
+      "chinese": {
+        "meaning": "重新安排",
+        "example": "她重新擺放了房間的家具。"
       }
     },
     {
@@ -67,6 +529,94 @@
       }
     },
     {
+      "word": "Reassert",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To state or express again firmly",
+      "example": "He reasserted his authority over the team.",
+      "chinese": {
+        "meaning": "再次堅定表達",
+        "example": "他再次堅定地表達了對團隊的權威。"
+      }
+    },
+    {
+      "word": "Reassess",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To evaluate again or differently",
+      "example": "The company reassessed its priorities.",
+      "chinese": {
+        "meaning": "重新評估",
+        "example": "公司重新評估了優先事項。"
+      }
+    },
+    {
+      "word": "Reassure",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To restore confidence or remove doubts",
+      "example": "She reassured her friend that everything would be fine.",
+      "chinese": {
+        "meaning": "安慰，使安心",
+        "example": "她安慰朋友一切都會好起來的。"
+      }
+    },
+    {
+      "word": "Reave",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To carry off by force or rob",
+      "example": "The invaders reaved villages for supplies.",
+      "chinese": {
+        "meaning": "掠奪",
+        "example": "入侵者掠奪了村莊的物資。"
+      }
+    },
+    {
+      "word": "Rebind",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To bind again, especially a book",
+      "example": "He had the old book rebound.",
+      "chinese": {
+        "meaning": "重新裝訂",
+        "example": "他把這本舊書重新裝訂。"
+      }
+    },
+    {
+      "word": "Rebirth",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To be born again or renewed",
+      "example": "The project was rebirthed with new funding.",
+      "chinese": {
+        "meaning": "重生，重啟",
+        "example": "該項目在新資金的支持下重啟。"
+      }
+    },
+    {
+      "word": "Rebound",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To spring back after impact; to recover",
+      "example": "The ball rebounded off the wall.",
+      "chinese": {
+        "meaning": "彈回，恢復",
+        "example": "球從牆上彈回。"
+      }
+    },
+    {
+      "word": "Rebuff",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To reject or refuse abruptly",
+      "example": "She rebuffed his offer of help.",
+      "chinese": {
+        "meaning": "斷然拒絕",
+        "example": "她斷然拒絕了他的幫助。"
+      }
+    },
+    {
       "word": "Rebuild",
       "type": "verb",
       "letter": "R",
@@ -75,6 +625,17 @@
       "chinese": {
         "meaning": "重建",
         "example": "洪水過後他們重建了這個城鎮。"
+      }
+    },
+    {
+      "word": "Rebuke",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To express sharp disapproval or criticism",
+      "example": "The teacher rebuked the student for being late.",
+      "chinese": {
+        "meaning": "斥責，指責",
+        "example": "老師斥責學生遲到。"
       }
     },
     {
@@ -89,6 +650,39 @@
       }
     },
     {
+      "word": "Recant",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To withdraw a statement or belief formally",
+      "example": "He recanted his previous testimony.",
+      "chinese": {
+        "meaning": "撤回，放棄（聲明或信仰）",
+        "example": "他撤回了之前的證詞。"
+      }
+    },
+    {
+      "word": "Recapitulate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To summarize the main points",
+      "example": "She recapitulated the key arguments at the end of the meeting.",
+      "chinese": {
+        "meaning": "概括，重述要點",
+        "example": "她在會議結束時概括了主要觀點。"
+      }
+    },
+    {
+      "word": "Recapture",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To regain possession or control",
+      "example": "The army recaptured the lost territory.",
+      "chinese": {
+        "meaning": "奪回，重新捕獲",
+        "example": "軍隊奪回了失去的領土。"
+      }
+    },
+    {
       "word": "Recast",
       "type": "verb",
       "letter": "R",
@@ -97,6 +691,17 @@
       "chinese": {
         "meaning": "重塑；重新分配角色",
         "example": "導演在演員離開後重新分配了角色。"
+      }
+    },
+    {
+      "word": "Recede",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To move back or withdraw",
+      "example": "The floodwaters receded after the storm.",
+      "chinese": {
+        "meaning": "退去，後退",
+        "example": "暴風雨後洪水退去。"
       }
     },
     {
@@ -111,6 +716,72 @@
       }
     },
     {
+      "word": "Recharge",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To restore energy or power",
+      "example": "He recharged his phone overnight.",
+      "chinese": {
+        "meaning": "充電，恢復精力",
+        "example": "他給手機充了一夜電。"
+      }
+    },
+    {
+      "word": "Reciprocate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To respond to an action with a similar one",
+      "example": "She reciprocated his kindness with a gift.",
+      "chinese": {
+        "meaning": "回報，回應",
+        "example": "她以禮物回報了他的好意。"
+      }
+    },
+    {
+      "word": "Recite",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To repeat aloud from memory",
+      "example": "The students recited the poem in unison.",
+      "chinese": {
+        "meaning": "背誦，朗誦",
+        "example": "學生們齊聲背誦詩歌。"
+      }
+    },
+    {
+      "word": "Reckon",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To consider or regard; to calculate",
+      "example": "I reckon we should leave early.",
+      "chinese": {
+        "meaning": "認為，計算",
+        "example": "我認為我們應該早點離開。"
+      }
+    },
+    {
+      "word": "Reclaim",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To recover or regain possession of",
+      "example": "They reclaimed their land after the dispute.",
+      "chinese": {
+        "meaning": "收回，開墾",
+        "example": "糾紛後他們收回了土地。"
+      }
+    },
+    {
+      "word": "Recline",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To lean or lie back in a relaxed position",
+      "example": "She reclined on the sofa and read a book.",
+      "chinese": {
+        "meaning": "斜倚，靠",
+        "example": "她斜倚在沙發上看書。"
+      }
+    },
+    {
       "word": "Recognize",
       "type": "verb",
       "letter": "R",
@@ -119,6 +790,17 @@
       "chinese": {
         "meaning": "認出",
         "example": "他立刻認出了她的聲音。"
+      }
+    },
+    {
+      "word": "Recollect",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To remember something",
+      "example": "I don't recollect meeting her before.",
+      "chinese": {
+        "meaning": "回憶，想起",
+        "example": "我不記得之前見過她。"
       }
     },
     {
@@ -133,6 +815,182 @@
       }
     },
     {
+      "word": "Recompense",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To compensate or reward for loss or effort",
+      "example": "He was recompensed for his hard work.",
+      "chinese": {
+        "meaning": "補償，報酬",
+        "example": "他因辛勤工作而獲得補償。"
+      }
+    },
+    {
+      "word": "Reconcile",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To restore friendly relations; to settle differences",
+      "example": "They reconciled after years of conflict.",
+      "chinese": {
+        "meaning": "和解，調和",
+        "example": "多年衝突後他們和解了。"
+      }
+    },
+    {
+      "word": "Recondition",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To restore to good condition",
+      "example": "The car was reconditioned and sold again.",
+      "chinese": {
+        "meaning": "修理，翻新",
+        "example": "這輛車被翻新後再次出售。"
+      }
+    },
+    {
+      "word": "Reconfigure",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To change the arrangement or structure",
+      "example": "The network was reconfigured for better performance.",
+      "chinese": {
+        "meaning": "重新配置",
+        "example": "網絡被重新配置以獲得更好的性能。"
+      }
+    },
+    {
+      "word": "Reconnect",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To connect again",
+      "example": "They reconnected after many years apart.",
+      "chinese": {
+        "meaning": "重新連接，重建聯繫",
+        "example": "他們多年後重新聯繫上了。"
+      }
+    },
+    {
+      "word": "Reconsider",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To think about a decision again",
+      "example": "She reconsidered her choice to move abroad.",
+      "chinese": {
+        "meaning": "重新考慮",
+        "example": "她重新考慮出國的決定。"
+      }
+    },
+    {
+      "word": "Reconstitute",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To restore to its original state by adding water; to reorganize",
+      "example": "The committee was reconstituted after the election.",
+      "chinese": {
+        "meaning": "重組，復原",
+        "example": "選舉後委員會被重組。"
+      }
+    },
+    {
+      "word": "Reconstruct",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To rebuild or put together again",
+      "example": "They reconstructed the old bridge.",
+      "chinese": {
+        "meaning": "重建",
+        "example": "他們重建了舊橋。"
+      }
+    },
+    {
+      "word": "Record",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To capture audio, video, or data for future reference",
+      "example": "She recorded the lecture for later study.",
+      "chinese": {
+        "meaning": "記錄，錄製",
+        "example": "她錄下講座以便之後學習。"
+      }
+    },
+    {
+      "word": "Recount",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To narrate or describe in detail",
+      "example": "He recounted his experiences in the army.",
+      "chinese": {
+        "meaning": "敘述，講述",
+        "example": "他敘述了自己在軍隊的經歷。"
+      }
+    },
+    {
+      "word": "Recoup",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To regain something lost or expended",
+      "example": "The company recouped its losses after the successful launch.",
+      "chinese": {
+        "meaning": "彌補，收回",
+        "example": "公司在成功推出產品後收回了損失。"
+      }
+    },
+    {
+      "word": "Recover",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To regain health, possession, or normal state",
+      "example": "She recovered quickly from the illness.",
+      "chinese": {
+        "meaning": "恢復，痊癒",
+        "example": "她很快從疾病中康復。"
+      }
+    },
+    {
+      "word": "Recreate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To create again; to provide recreation for oneself",
+      "example": "They recreated the ancient scene in the film.",
+      "chinese": {
+        "meaning": "重建，娛樂",
+        "example": "他們在電影中重現了古代場景。"
+      }
+    },
+    {
+      "word": "Recruit",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To enlist someone into an organization or group",
+      "example": "The company is recruiting new staff.",
+      "chinese": {
+        "meaning": "招聘，徵募",
+        "example": "公司正在招聘新員工。"
+      }
+    },
+    {
+      "word": "Rectify",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To correct something that is wrong",
+      "example": "They rectified the error in the document.",
+      "chinese": {
+        "meaning": "糾正，矯正",
+        "example": "他們糾正了文件中的錯誤。"
+      }
+    },
+    {
+      "word": "Recur",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To happen repeatedly",
+      "example": "The pain recurred after the treatment ended.",
+      "chinese": {
+        "meaning": "再次發生",
+        "example": "治療結束後疼痛再次出現。"
+      }
+    },
+    {
       "word": "Recuse",
       "type": "verb",
       "letter": "R",
@@ -141,6 +999,50 @@
       "chinese": {
         "meaning": "迴避（因利益衝突）",
         "example": "法官因利益衝突而迴避此案。"
+      }
+    },
+    {
+      "word": "Recycle",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To process used materials so they can be reused",
+      "example": "We recycle plastic and paper at home.",
+      "chinese": {
+        "meaning": "回收再利用",
+        "example": "我們在家回收塑料和紙張。"
+      }
+    },
+    {
+      "word": "Redact",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To edit text for publication",
+      "example": "Sensitive information was redacted from the report.",
+      "chinese": {
+        "meaning": "編輯，刪改",
+        "example": "報告中的敏感信息被刪改。"
+      }
+    },
+    {
+      "word": "Redeem",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make amends or regain possession",
+      "example": "He redeemed his reputation by working hard.",
+      "chinese": {
+        "meaning": "挽回，贖回",
+        "example": "他通過努力工作挽回了名譽。"
+      }
+    },
+    {
+      "word": "Redirect",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To change the direction or focus",
+      "example": "The funds were redirected to education projects.",
+      "chinese": {
+        "meaning": "改變方向，轉向",
+        "example": "資金被轉向教育項目。"
       }
     },
     {
@@ -155,6 +1057,17 @@
       }
     },
     {
+      "word": "Redouble",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To greatly increase effort or intensity",
+      "example": "We must redouble our efforts to meet the deadline.",
+      "chinese": {
+        "meaning": "加倍努力",
+        "example": "我們必須加倍努力以趕上最後期限。"
+      }
+    },
+    {
       "word": "Redraw",
       "type": "verb",
       "letter": "R",
@@ -163,6 +1076,171 @@
       "chinese": {
         "meaning": "重新繪製",
         "example": "由於出錯，畫家不得不重新繪圖。"
+      }
+    },
+    {
+      "word": "Redress",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To set right or remedy a wrong",
+      "example": "They sought to redress the unfair situation.",
+      "chinese": {
+        "meaning": "糾正，補救",
+        "example": "他們試圖糾正不公平的情況。"
+      }
+    },
+    {
+      "word": "Reduce",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make smaller or less in amount",
+      "example": "We need to reduce our expenses this month.",
+      "chinese": {
+        "meaning": "減少，降低",
+        "example": "我們需要減少本月的開支。"
+      }
+    },
+    {
+      "word": "Reeducate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To educate again, especially for correction",
+      "example": "The program aims to reeducate former offenders.",
+      "chinese": {
+        "meaning": "再教育",
+        "example": "該計劃旨在對前罪犯進行再教育。"
+      }
+    },
+    {
+      "word": "Reelect",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To elect someone again",
+      "example": "She was reelected for another term as mayor.",
+      "chinese": {
+        "meaning": "再選，連任",
+        "example": "她再次當選市長。"
+      }
+    },
+    {
+      "word": "Reenact",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To perform again; to pass a law again",
+      "example": "They reenacted the historic battle for the audience.",
+      "chinese": {
+        "meaning": "重演，再制定",
+        "example": "他們為觀眾重演了歷史戰役。"
+      }
+    },
+    {
+      "word": "Reenforce",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To strengthen or support again",
+      "example": "The soldiers reenforced the fort’s defenses.",
+      "chinese": {
+        "meaning": "加強，強化",
+        "example": "士兵們加強了堡壘的防禦。"
+      }
+    },
+    {
+      "word": "Reengage",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To participate or become involved again",
+      "example": "The company reengaged with its former partners.",
+      "chinese": {
+        "meaning": "重新參與，恢復接觸",
+        "example": "公司重新與前合作夥伴接觸。"
+      }
+    },
+    {
+      "word": "Reenter",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To go back into a place or situation",
+      "example": "The astronaut reentered the spacecraft safely.",
+      "chinese": {
+        "meaning": "重新進入",
+        "example": "太空人安全地重新進入飛船。"
+      }
+    },
+    {
+      "word": "Reestablish",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To set up again after being disrupted",
+      "example": "They reestablished diplomatic relations.",
+      "chinese": {
+        "meaning": "重建，恢復",
+        "example": "他們恢復了外交關係。"
+      }
+    },
+    {
+      "word": "Reexamine",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To examine again carefully",
+      "example": "We must reexamine the data for accuracy.",
+      "chinese": {
+        "meaning": "重新檢查",
+        "example": "我們必須重新檢查數據以確保準確性。"
+      }
+    },
+    {
+      "word": "Refer",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To direct someone to another source or authority",
+      "example": "The doctor referred her to a specialist.",
+      "chinese": {
+        "meaning": "轉介，提及",
+        "example": "醫生把她轉介給專科醫生。"
+      }
+    },
+    {
+      "word": "Referee",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To act as a referee; to judge or mediate a dispute",
+      "example": "He was asked to referee the match.",
+      "chinese": {
+        "meaning": "擔任裁判，仲裁",
+        "example": "他被要求擔任比賽的裁判。"
+      }
+    },
+    {
+      "word": "Reference",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To mention or refer to something",
+      "example": "Please reference the attached documents.",
+      "chinese": {
+        "meaning": "提及，引用",
+        "example": "請參考附加的文件。"
+      }
+    },
+    {
+      "word": "Refill",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To fill something again",
+      "example": "Can you refill my water bottle?",
+      "chinese": {
+        "meaning": "重新裝滿",
+        "example": "你能幫我把水瓶重新裝滿嗎？"
+      }
+    },
+    {
+      "word": "Refine",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To improve or purify something",
+      "example": "The company refined its production process.",
+      "chinese": {
+        "meaning": "改進，精煉",
+        "example": "公司改進了生產過程。"
       }
     },
     {
@@ -177,6 +1255,105 @@
       }
     },
     {
+      "word": "Refloat",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make a ship or boat float again",
+      "example": "The engineers worked to refloat the grounded vessel.",
+      "chinese": {
+        "meaning": "重新浮起",
+        "example": "工程師努力使擱淺的船隻重新浮起。"
+      }
+    },
+    {
+      "word": "Reforest",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To plant trees in an area that was once forested",
+      "example": "The group is working to reforest the barren land.",
+      "chinese": {
+        "meaning": "重新造林",
+        "example": "這個團體正在努力在貧瘠的土地上重新造林。"
+      }
+    },
+    {
+      "word": "Reform",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To improve by making changes or corrections",
+      "example": "The government promised to reform the tax system.",
+      "chinese": {
+        "meaning": "改革，改良",
+        "example": "政府承諾改革稅收制度。"
+      }
+    },
+    {
+      "word": "Refract",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To bend light or sound waves when passing through different mediums",
+      "example": "The glass refracted the sunlight into a rainbow.",
+      "chinese": {
+        "meaning": "折射",
+        "example": "玻璃將陽光折射成彩虹。"
+      }
+    },
+    {
+      "word": "Refrain",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To hold oneself back from doing something",
+      "example": "Please refrain from smoking in this area.",
+      "chinese": {
+        "meaning": "避免，忍住",
+        "example": "請避免在這個區域吸煙。"
+      }
+    },
+    {
+      "word": "Refresh",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To restore strength or energy; to update something",
+      "example": "A cool shower refreshed him after the long run.",
+      "chinese": {
+        "meaning": "使恢復活力，更新",
+        "example": "長跑後涼爽的淋浴讓他恢復了活力。"
+      }
+    },
+    {
+      "word": "Refrigerate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To keep something cool or cold for preservation",
+      "example": "Please refrigerate the milk after opening.",
+      "chinese": {
+        "meaning": "冷藏",
+        "example": "牛奶開封後請放入冰箱冷藏。"
+      }
+    },
+    {
+      "word": "Refund",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To return money to someone",
+      "example": "The store refunded me for the defective product.",
+      "chinese": {
+        "meaning": "退款",
+        "example": "商店退還了我有缺陷產品的錢。"
+      }
+    },
+    {
+      "word": "Refurbish",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To renovate or redecorate something",
+      "example": "They refurbished the old building into a modern office.",
+      "chinese": {
+        "meaning": "翻新，整修",
+        "example": "他們把舊建築翻新成了現代化辦公室。"
+      }
+    },
+    {
       "word": "Refuse",
       "type": "verb",
       "letter": "R",
@@ -185,6 +1362,83 @@
       "chinese": {
         "meaning": "拒絕",
         "example": "他拒絕回答這個問題。"
+      }
+    },
+    {
+      "word": "Refute",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To prove something false or incorrect",
+      "example": "She refuted the accusations against her.",
+      "chinese": {
+        "meaning": "反駁，駁斥",
+        "example": "她駁斥了對她的指控。"
+      }
+    },
+    {
+      "word": "Regain",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To get something back",
+      "example": "He regained control of the situation.",
+      "chinese": {
+        "meaning": "重新獲得",
+        "example": "他重新掌控了局勢。"
+      }
+    },
+    {
+      "word": "Regale",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To entertain or amuse someone with stories or food and drink",
+      "example": "He regaled us with tales of his travels.",
+      "chinese": {
+        "meaning": "款待，使開心",
+        "example": "他用旅行故事款待我們。"
+      }
+    },
+    {
+      "word": "Regard",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To consider or think about something in a particular way",
+      "example": "She is highly regarded in the scientific community.",
+      "chinese": {
+        "meaning": "看待，尊重",
+        "example": "她在科學界備受尊敬。"
+      }
+    },
+    {
+      "word": "Regenerate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To regrow or bring back to life",
+      "example": "Some animals can regenerate lost limbs.",
+      "chinese": {
+        "meaning": "再生，重建",
+        "example": "一些動物可以再生失去的肢體。"
+      }
+    },
+    {
+      "word": "Register",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To sign up formally or record information",
+      "example": "You must register before the conference starts.",
+      "chinese": {
+        "meaning": "登記，註冊",
+        "example": "會議開始前你必須登記。"
+      }
+    },
+    {
+      "word": "Regress",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To return to a former state, often worse",
+      "example": "Without proper treatment, the patient may regress.",
+      "chinese": {
+        "meaning": "退化，倒退",
+        "example": "沒有適當治療，病人可能會倒退。"
       }
     },
     {
@@ -199,6 +1453,28 @@
       }
     },
     {
+      "word": "Regularize",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make something regular or consistent",
+      "example": "The government seeks to regularize the immigration process.",
+      "chinese": {
+        "meaning": "使規範化",
+        "example": "政府希望使移民過程規範化。"
+      }
+    },
+    {
+      "word": "Regulate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To control or maintain by rules",
+      "example": "Laws regulate the sale of alcohol.",
+      "chinese": {
+        "meaning": "規範，控制",
+        "example": "法律規範酒類銷售。"
+      }
+    },
+    {
       "word": "Rehear",
       "type": "verb",
       "letter": "R",
@@ -207,6 +1483,50 @@
       "chinese": {
         "meaning": "重審",
         "example": "法院同意重新審理此案。"
+      }
+    },
+    {
+      "word": "Rehearse",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To practice for a performance or event",
+      "example": "The actors rehearsed the play before opening night.",
+      "chinese": {
+        "meaning": "排練，演練",
+        "example": "演員們在首演前排練了這部戲。"
+      }
+    },
+    {
+      "word": "Reimburse",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To pay back money to someone",
+      "example": "The company reimbursed her travel expenses.",
+      "chinese": {
+        "meaning": "報銷，償還",
+        "example": "公司報銷了她的差旅費。"
+      }
+    },
+    {
+      "word": "Rein",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To control or guide, often with reins",
+      "example": "He reined in the horse before the fence.",
+      "chinese": {
+        "meaning": "勒住，控制",
+        "example": "他在柵欄前勒住了馬。"
+      }
+    },
+    {
+      "word": "Reincarnate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To be reborn in another body or form",
+      "example": "Some religions believe the soul can reincarnate.",
+      "chinese": {
+        "meaning": "轉世，輪回",
+        "example": "一些宗教相信靈魂可以轉世。"
       }
     },
     {
@@ -221,6 +1541,138 @@
       }
     },
     {
+      "word": "Reinsert",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To put something back into its original place",
+      "example": "Please reinsert the card into the machine.",
+      "chinese": {
+        "meaning": "重新插入",
+        "example": "請將卡片重新插入機器中。"
+      }
+    },
+    {
+      "word": "Reinstate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To restore someone or something to a former position or condition",
+      "example": "He was reinstated after the investigation cleared him.",
+      "chinese": {
+        "meaning": "恢復原職",
+        "example": "調查證明他清白後，他被恢復原職。"
+      }
+    },
+    {
+      "word": "Reintegrate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To bring someone or something back into a group or system",
+      "example": "The program aims to reintegrate former prisoners into society.",
+      "chinese": {
+        "meaning": "重新融入",
+        "example": "該計劃旨在讓前囚犯重新融入社會。"
+      }
+    },
+    {
+      "word": "Reinterpret",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To interpret something in a new or different way",
+      "example": "The director reinterpreted the classic play for modern audiences.",
+      "chinese": {
+        "meaning": "重新詮釋",
+        "example": "導演為現代觀眾重新詮釋了這部經典戲劇。"
+      }
+    },
+    {
+      "word": "Reintroduce",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To bring something back into use or existence",
+      "example": "The park reintroduced wolves to restore ecological balance.",
+      "chinese": {
+        "meaning": "重新引入",
+        "example": "公園重新引入狼群以恢復生態平衡。"
+      }
+    },
+    {
+      "word": "Reinvest",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To put profits or money back into a business or project",
+      "example": "They decided to reinvest their earnings into the company.",
+      "chinese": {
+        "meaning": "重新投資",
+        "example": "他們決定將收益重新投資於公司。"
+      }
+    },
+    {
+      "word": "Reiterate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To repeat something for emphasis or clarity",
+      "example": "The teacher reiterated the instructions for the exam.",
+      "chinese": {
+        "meaning": "重申",
+        "example": "老師重申了考試的指示。"
+      }
+    },
+    {
+      "word": "Reject",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To refuse to accept, consider, or believe something",
+      "example": "She rejected the job offer due to the low salary.",
+      "chinese": {
+        "meaning": "拒絕",
+        "example": "她因薪資過低而拒絕了這份工作。"
+      }
+    },
+    {
+      "word": "Rejoice",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To feel or show great joy or delight",
+      "example": "They rejoiced at the good news.",
+      "chinese": {
+        "meaning": "欣喜，歡欣",
+        "example": "他們對這個好消息感到非常高興。"
+      }
+    },
+    {
+      "word": "Rejoin",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To join again after being separated",
+      "example": "He rejoined the team after a brief absence.",
+      "chinese": {
+        "meaning": "重新加入",
+        "example": "他短暫離開後又重新加入了團隊。"
+      }
+    },
+    {
+      "word": "Rejuvenate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make someone or something look or feel younger, fresher, or more lively",
+      "example": "The holiday helped rejuvenate her spirit.",
+      "chinese": {
+        "meaning": "使恢復活力",
+        "example": "假期幫助她恢復了精神。"
+      }
+    },
+    {
+      "word": "Relapse",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To return to a worse state after improvement",
+      "example": "The patient relapsed after stopping the medication.",
+      "chinese": {
+        "meaning": "復發，倒退",
+        "example": "病人在停藥後復發了。"
+      }
+    },
+    {
       "word": "Relate",
       "type": "verb",
       "letter": "R",
@@ -232,6 +1684,17 @@
       }
     },
     {
+      "word": "Relax",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To rest or become less tense",
+      "example": "She relaxed by listening to music.",
+      "chinese": {
+        "meaning": "放鬆",
+        "example": "她通過聽音樂來放鬆自己。"
+      }
+    },
+    {
       "word": "Release",
       "type": "verb",
       "letter": "R",
@@ -240,6 +1703,83 @@
       "chinese": {
         "meaning": "釋放；發表",
         "example": "公司上月發布了一款新產品。"
+      }
+    },
+    {
+      "word": "Relegate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To assign to a lower position or less important role",
+      "example": "He was relegated to a minor role in the project.",
+      "chinese": {
+        "meaning": "降級，降職",
+        "example": "他被降級為項目中的次要角色。"
+      }
+    },
+    {
+      "word": "Relent",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To become less severe, harsh, or strict",
+      "example": "The storm finally relented after three days.",
+      "chinese": {
+        "meaning": "緩和，變溫和",
+        "example": "暴風雨終於在三天後緩和下來。"
+      }
+    },
+    {
+      "word": "Relieve",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To reduce or remove pain, stress, or difficulty",
+      "example": "The medicine relieved his headache.",
+      "chinese": {
+        "meaning": "減輕，緩解",
+        "example": "藥物減輕了他的頭痛。"
+      }
+    },
+    {
+      "word": "Relinquish",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To give up or let go of something",
+      "example": "She relinquished control of the company to her son.",
+      "chinese": {
+        "meaning": "放棄，交出",
+        "example": "她把公司的控制權交給了兒子。"
+      }
+    },
+    {
+      "word": "Relish",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To enjoy or take pleasure in something",
+      "example": "He relished the opportunity to travel abroad.",
+      "chinese": {
+        "meaning": "享受，喜愛",
+        "example": "他很享受出國旅行的機會。"
+      }
+    },
+    {
+      "word": "Relive",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To experience something again in memory",
+      "example": "She relived her childhood through old photos.",
+      "chinese": {
+        "meaning": "重溫，再經歷",
+        "example": "她通過舊照片重溫了童年。"
+      }
+    },
+    {
+      "word": "Relocate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To move to a new place",
+      "example": "The company relocated its headquarters to New York.",
+      "chinese": {
+        "meaning": "搬遷",
+        "example": "公司將總部搬遷到紐約。"
       }
     },
     {
@@ -273,6 +1813,116 @@
       "chinese": {
         "meaning": "重拍；重做",
         "example": "這部電影由新演員重新拍攝。"
+      }
+    },
+    {
+      "word": "Remand",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To send a prisoner back into custody or a case back to a lower court",
+      "example": "The suspect was remanded in custody until trial.",
+      "chinese": {
+        "meaning": "還押，發回",
+        "example": "嫌犯被還押直到審判。"
+      }
+    },
+    {
+      "word": "Remark",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To say or comment on something",
+      "example": "She remarked that the weather was unusually warm.",
+      "chinese": {
+        "meaning": "評論，說",
+        "example": "她評論說天氣異常溫暖。"
+      }
+    },
+    {
+      "word": "Remaster",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To produce a new master version of a recording, usually improving its quality",
+      "example": "The studio remastered the old album with better sound quality.",
+      "chinese": {
+        "meaning": "重新製作母帶",
+        "example": "錄音室以更好的音質重新製作了舊專輯的母帶。"
+      }
+    },
+    {
+      "word": "Remediate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To fix or correct a problem or defect",
+      "example": "The company is working to remediate the environmental damage.",
+      "chinese": {
+        "meaning": "糾正，補救",
+        "example": "公司正在努力修復環境損害。"
+      }
+    },
+    {
+      "word": "Remedy",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To fix or correct a problem or difficulty",
+      "example": "The government plans to remedy the housing shortage.",
+      "chinese": {
+        "meaning": "補救，糾正",
+        "example": "政府計劃補救住房短缺問題。"
+      }
+    },
+    {
+      "word": "Remember",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To recall something from memory",
+      "example": "I remember meeting her at the conference.",
+      "chinese": {
+        "meaning": "記得，回憶",
+        "example": "我記得在會議上見過她。"
+      }
+    },
+    {
+      "word": "Remind",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To cause someone to remember something",
+      "example": "Please remind me to call my mother later.",
+      "chinese": {
+        "meaning": "提醒",
+        "example": "請提醒我稍後打電話給媽媽。"
+      }
+    },
+    {
+      "word": "Remit",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To send money as payment or to cancel a punishment",
+      "example": "She remitted the payment for her tuition fees.",
+      "chinese": {
+        "meaning": "匯款，免除",
+        "example": "她匯款支付學費。"
+      }
+    },
+    {
+      "word": "Remodel",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To change the structure or style of something, usually a building",
+      "example": "They decided to remodel their kitchen.",
+      "chinese": {
+        "meaning": "改建，翻修",
+        "example": "他們決定翻修廚房。"
+      }
+    },
+    {
+      "word": "Remonstrate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To argue or plead in protest or objection",
+      "example": "The employees remonstrated with their boss about the new policy.",
+      "chinese": {
+        "meaning": "抗議，提出異議",
+        "example": "員工向老闆抗議新政策。"
       }
     },
     {
@@ -320,6 +1970,50 @@
       }
     },
     {
+      "word": "Renounce",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To formally give up a claim, belief, or practice",
+      "example": "He renounced his citizenship to move abroad.",
+      "chinese": {
+        "meaning": "放棄，聲明放棄",
+        "example": "他放棄國籍以移居國外。"
+      }
+    },
+    {
+      "word": "Renovate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To repair and improve a building or object to good condition",
+      "example": "They renovated the old library into a modern space.",
+      "chinese": {
+        "meaning": "翻新，整修",
+        "example": "他們將舊圖書館翻新成現代化空間。"
+      }
+    },
+    {
+      "word": "Rent",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To pay or receive payment for the temporary use of something",
+      "example": "We rented a house for the holidays.",
+      "chinese": {
+        "meaning": "租用，出租",
+        "example": "我們租了一棟房子度假。"
+      }
+    },
+    {
+      "word": "Reopen",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To open again after being closed",
+      "example": "The restaurant will reopen after renovations.",
+      "chinese": {
+        "meaning": "重新開放",
+        "example": "餐廳在翻修後將重新開放。"
+      }
+    },
+    {
       "word": "Reorganize",
       "type": "verb",
       "letter": "R",
@@ -328,6 +2022,50 @@
       "chinese": {
         "meaning": "重新組織",
         "example": "學校決定重新安排課表。"
+      }
+    },
+    {
+      "word": "Repair",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To fix something that is broken or damaged",
+      "example": "The mechanic repaired the car engine.",
+      "chinese": {
+        "meaning": "修理",
+        "example": "修車工人修理了汽車引擎。"
+      }
+    },
+    {
+      "word": "Repatriate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To return someone to their own country",
+      "example": "The government repatriated the stranded citizens.",
+      "chinese": {
+        "meaning": "遣返，送回國",
+        "example": "政府遣返了被困的公民。"
+      }
+    },
+    {
+      "word": "Repay",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To pay back money or return a favor",
+      "example": "She repaid the loan in full.",
+      "chinese": {
+        "meaning": "償還，報答",
+        "example": "她全額償還了貸款。"
+      }
+    },
+    {
+      "word": "Repeal",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To officially cancel a law or regulation",
+      "example": "The government repealed the outdated law.",
+      "chinese": {
+        "meaning": "廢除，撤銷",
+        "example": "政府廢除了過時的法律。"
       }
     },
     {
@@ -342,6 +2080,50 @@
       }
     },
     {
+      "word": "Repel",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To drive back or keep away something unwanted",
+      "example": "The army repelled the invaders.",
+      "chinese": {
+        "meaning": "擊退，排斥",
+        "example": "軍隊擊退了入侵者。"
+      }
+    },
+    {
+      "word": "Repent",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To feel sorry for past actions and desire to change",
+      "example": "He repented of his mistakes.",
+      "chinese": {
+        "meaning": "懺悔，後悔",
+        "example": "他為自己的錯誤感到懺悔。"
+      }
+    },
+    {
+      "word": "Repercuss",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To cause an effect or consequence (less common usage)",
+      "example": "The decision will repercuss throughout the industry.",
+      "chinese": {
+        "meaning": "產生反響（較少用）",
+        "example": "這項決定將在整個行業引起反響。"
+      }
+    },
+    {
+      "word": "Rephrase",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To say something in a different way to clarify or improve it",
+      "example": "Could you rephrase your question?",
+      "chinese": {
+        "meaning": "重新表達",
+        "example": "你能重新表達一下你的問題嗎？"
+      }
+    },
+    {
       "word": "Replace",
       "type": "verb",
       "letter": "R",
@@ -350,6 +2132,50 @@
       "chinese": {
         "meaning": "替換",
         "example": "老師用新課本替換了舊課本。"
+      }
+    },
+    {
+      "word": "Replant",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To plant again, often after removal or damage",
+      "example": "They replanted trees after the fire.",
+      "chinese": {
+        "meaning": "重新種植",
+        "example": "火災後他們重新種植了樹木。"
+      }
+    },
+    {
+      "word": "Replay",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To play something again, such as a recording or event",
+      "example": "He replayed the game highlights.",
+      "chinese": {
+        "meaning": "重播，再玩",
+        "example": "他重播了比賽集錦。"
+      }
+    },
+    {
+      "word": "Replenish",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To fill up again or restore a supply",
+      "example": "Please replenish the water in the tank.",
+      "chinese": {
+        "meaning": "補充，重新裝滿",
+        "example": "請補充水箱中的水。"
+      }
+    },
+    {
+      "word": "Replicate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make an exact copy or repeat an experiment",
+      "example": "Scientists tried to replicate the experiment's results.",
+      "chinese": {
+        "meaning": "複製，重複",
+        "example": "科學家試圖重複實驗結果。"
       }
     },
     {
@@ -364,6 +2190,28 @@
       }
     },
     {
+      "word": "Repose",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To rest or be in a state of calm",
+      "example": "She reposed peacefully on the couch.",
+      "chinese": {
+        "meaning": "休息，安睡",
+        "example": "她安靜地躺在沙發上休息。"
+      }
+    },
+    {
+      "word": "Repossess",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To take back property because payments have not been made",
+      "example": "The bank repossessed the car after missed payments.",
+      "chinese": {
+        "meaning": "收回，收回贈予物",
+        "example": "銀行因未付款而收回了汽車。"
+      }
+    },
+    {
       "word": "Represent",
       "type": "verb",
       "letter": "R",
@@ -375,6 +2223,61 @@
       }
     },
     {
+      "word": "Repress",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To hold back or suppress emotions, actions, or movements",
+      "example": "He repressed his anger during the meeting.",
+      "chinese": {
+        "meaning": "壓抑，鎮壓",
+        "example": "他在會議中壓抑了自己的憤怒。"
+      }
+    },
+    {
+      "word": "Reprimand",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To formally express disapproval or criticism",
+      "example": "The teacher reprimanded the student for being late.",
+      "chinese": {
+        "meaning": "譴責，訓斥",
+        "example": "老師因學生遲到而訓斥了他。"
+      }
+    },
+    {
+      "word": "Reprint",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To print something again, especially a book or article",
+      "example": "The publisher decided to reprint the popular novel.",
+      "chinese": {
+        "meaning": "再版，重印",
+        "example": "出版社決定重印這本受歡迎的小說。"
+      }
+    },
+    {
+      "word": "Reprise",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To repeat or perform again, often in music or drama",
+      "example": "She reprised her role in the sequel.",
+      "chinese": {
+        "meaning": "重演，重複",
+        "example": "她在續集中重演了自己的角色。"
+      }
+    },
+    {
+      "word": "Reproach",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To express disappointment or blame",
+      "example": "He reproached his friend for not helping.",
+      "chinese": {
+        "meaning": "責備，指責",
+        "example": "他責備朋友沒有幫忙。"
+      }
+    },
+    {
       "word": "Reproduce",
       "type": "verb",
       "letter": "R",
@@ -383,6 +2286,39 @@
       "chinese": {
         "meaning": "複製",
         "example": "複製有版權的資料是違法的。"
+      }
+    },
+    {
+      "word": "Reprove",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To gently criticize or correct someone",
+      "example": "The manager reproved the employee for the mistake.",
+      "chinese": {
+        "meaning": "責備，糾正",
+        "example": "經理因錯誤責備了員工。"
+      }
+    },
+    {
+      "word": "Repudiate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To reject or refuse to accept something",
+      "example": "He repudiated the accusations against him.",
+      "chinese": {
+        "meaning": "拒絕，否認",
+        "example": "他否認了針對他的指控。"
+      }
+    },
+    {
+      "word": "Repulse",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To drive back an attack or to disgust someone",
+      "example": "The army repulsed the enemy's assault.",
+      "chinese": {
+        "meaning": "擊退，使厭惡",
+        "example": "軍隊擊退了敵人的進攻。"
       }
     },
     {
@@ -408,6 +2344,17 @@
       }
     },
     {
+      "word": "Requisition",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To formally request or demand something",
+      "example": "The department requisitioned new equipment.",
+      "chinese": {
+        "meaning": "正式申請，徵用",
+        "example": "部門申請了新設備。"
+      }
+    },
+    {
       "word": "Rerun",
       "type": "verb",
       "letter": "R",
@@ -419,6 +2366,28 @@
       }
     },
     {
+      "word": "Reschedule",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To change the time or date of an event",
+      "example": "We need to reschedule the meeting for next week.",
+      "chinese": {
+        "meaning": "重新安排時間",
+        "example": "我們需要將會議改期到下週。"
+      }
+    },
+    {
+      "word": "Rescind",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To cancel or revoke a law, order, or agreement",
+      "example": "The company rescinded the job offer.",
+      "chinese": {
+        "meaning": "廢除，撤回",
+        "example": "公司撤回了錄用通知。"
+      }
+    },
+    {
       "word": "Rescue",
       "type": "verb",
       "letter": "R",
@@ -427,6 +2396,17 @@
       "chinese": {
         "meaning": "救援、拯救",
         "example": "消防員從燃燒的建築中救出了那個家庭。"
+      }
+    },
+    {
+      "word": "Reseal",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To seal something again after opening",
+      "example": "She resealed the envelope after reading the letter.",
+      "chinese": {
+        "meaning": "重新封上",
+        "example": "她讀完信後重新封上了信封。"
       }
     },
     {
@@ -463,6 +2443,61 @@
       }
     },
     {
+      "word": "Resent",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To feel bitterness or anger about something",
+      "example": "She resented being left out of the group.",
+      "chinese": {
+        "meaning": "憤恨，怨恨",
+        "example": "她怨恨被排除在團隊之外。"
+      }
+    },
+    {
+      "word": "Reserve",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To book or arrange something in advance",
+      "example": "We reserved a table for dinner.",
+      "chinese": {
+        "meaning": "預訂，保留",
+        "example": "我們預訂了晚餐的餐桌。"
+      }
+    },
+    {
+      "word": "Reset",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To set again or restore to the original position",
+      "example": "Please reset the router if the internet stops working.",
+      "chinese": {
+        "meaning": "重設",
+        "example": "如果網絡斷了，請重設路由器。"
+      }
+    },
+    {
+      "word": "Reside",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To live in a particular place",
+      "example": "He resides in New York City.",
+      "chinese": {
+        "meaning": "居住",
+        "example": "他住在紐約市。"
+      }
+    },
+    {
+      "word": "Resign",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To leave a job or position voluntarily",
+      "example": "She decided to resign from her job.",
+      "chinese": {
+        "meaning": "辭職",
+        "example": "她決定辭去工作。"
+      }
+    },
+    {
       "word": "Resist",
       "type": "verb",
       "letter": "R",
@@ -496,6 +2531,39 @@
       }
     },
     {
+      "word": "Resound",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To fill a place with sound; to echo",
+      "example": "The hall resounded with applause.",
+      "chinese": {
+        "meaning": "迴響，充滿聲音",
+        "example": "大廳迴盪著掌聲。"
+      }
+    },
+    {
+      "word": "Respect",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To admire or show consideration for someone or something",
+      "example": "We must respect other people's opinions.",
+      "chinese": {
+        "meaning": "尊重",
+        "example": "我們必須尊重他人的意見。"
+      }
+    },
+    {
+      "word": "Respire",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To breathe (often used in a scientific context)",
+      "example": "Plants respire at night.",
+      "chinese": {
+        "meaning": "呼吸（科學用語）",
+        "example": "植物在夜間呼吸。"
+      }
+    },
+    {
       "word": "Respond",
       "type": "verb",
       "letter": "R",
@@ -507,6 +2575,39 @@
       }
     },
     {
+      "word": "Rest",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To relax or stop working to regain energy",
+      "example": "You should rest after a long day.",
+      "chinese": {
+        "meaning": "休息",
+        "example": "忙碌一天後你應該休息。"
+      }
+    },
+    {
+      "word": "Restart",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To start something again after stopping",
+      "example": "Restart the computer after the update.",
+      "chinese": {
+        "meaning": "重新啟動",
+        "example": "更新後請重啟電腦。"
+      }
+    },
+    {
+      "word": "Restate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To express something again in a different way",
+      "example": "She restated her argument to make it clearer.",
+      "chinese": {
+        "meaning": "重新表述",
+        "example": "她重新表述了自己的觀點以使之更清晰。"
+      }
+    },
+    {
       "word": "Restore",
       "type": "verb",
       "letter": "R",
@@ -515,6 +2616,17 @@
       "chinese": {
         "meaning": "修復",
         "example": "博物館修復了這件古物。"
+      }
+    },
+    {
+      "word": "Restrain",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To hold back or control someone or something",
+      "example": "The police restrained the suspect.",
+      "chinese": {
+        "meaning": "制止，限制",
+        "example": "警方制止了嫌疑人。"
       }
     },
     {
@@ -540,6 +2652,17 @@
       }
     },
     {
+      "word": "Restructure",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To change the structure or organization of something",
+      "example": "The company restructured its operations to cut costs.",
+      "chinese": {
+        "meaning": "重組，改組",
+        "example": "公司重組運營以降低成本。"
+      }
+    },
+    {
       "word": "Result",
       "type": "verb",
       "letter": "R",
@@ -548,6 +2671,50 @@
       "chinese": {
         "meaning": "導致",
         "example": "規劃不周可能導致失敗。"
+      }
+    },
+    {
+      "word": "Resume",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To start doing something again after a pause",
+      "example": "He resumed work after the holiday.",
+      "chinese": {
+        "meaning": "繼續，恢復",
+        "example": "假期結束後他恢復了工作。"
+      }
+    },
+    {
+      "word": "Resurface",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To appear again or to put a new surface on something",
+      "example": "Old memories resurfaced during the meeting.",
+      "chinese": {
+        "meaning": "重新出現，重鋪表面",
+        "example": "會議期間舊回憶重新浮現。"
+      }
+    },
+    {
+      "word": "Resurrect",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To bring something back into use or existence",
+      "example": "The director resurrected a long-forgotten project.",
+      "chinese": {
+        "meaning": "復活，恢復",
+        "example": "導演復活了一個被遺忘的項目。"
+      }
+    },
+    {
+      "word": "Retail",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To sell goods to the public in small quantities",
+      "example": "The store retails luxury clothing.",
+      "chinese": {
+        "meaning": "零售",
+        "example": "這家商店零售高檔服裝。"
       }
     },
     {
@@ -570,6 +2737,28 @@
       "chinese": {
         "meaning": "重修；重拍；重考",
         "example": "她決定下學期重修這門課。"
+      }
+    },
+    {
+      "word": "Retaliate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To respond to an injury or wrongdoing with a similar action",
+      "example": "The army retaliated after the attack.",
+      "chinese": {
+        "meaning": "報復",
+        "example": "軍隊在遭襲後進行了報復。"
+      }
+    },
+    {
+      "word": "Retard",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To slow down the progress or development of something",
+      "example": "The new law retards economic growth.",
+      "chinese": {
+        "meaning": "阻礙，減緩",
+        "example": "新法律減緩了經濟增長。"
       }
     },
     {
@@ -606,6 +2795,50 @@
       }
     },
     {
+      "word": "Retort",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To reply quickly and sharply",
+      "example": "She retorted angrily to the accusation.",
+      "chinese": {
+        "meaning": "反駁",
+        "example": "她憤怒地反駁了指控。"
+      }
+    },
+    {
+      "word": "Retouch",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To improve or modify a picture or photograph",
+      "example": "The photographer retouched the image before publishing it.",
+      "chinese": {
+        "meaning": "修飾，潤色",
+        "example": "攝影師在發佈前修飾了圖片。"
+      }
+    },
+    {
+      "word": "Retrace",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To go back over a path or steps",
+      "example": "He retraced his steps to find the lost keys.",
+      "chinese": {
+        "meaning": "回溯，折回",
+        "example": "他折回去找丟失的鑰匙。"
+      }
+    },
+    {
+      "word": "Retract",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To withdraw a statement or move something back",
+      "example": "The journalist retracted the incorrect report.",
+      "chinese": {
+        "meaning": "收回，撤回",
+        "example": "記者撤回了不正確的報導。"
+      }
+    },
+    {
       "word": "Retread",
       "type": "verb",
       "letter": "R",
@@ -614,6 +2847,17 @@
       "chinese": {
         "meaning": "翻新（輪胎）",
         "example": "他們翻新輪胎以節省成本。"
+      }
+    },
+    {
+      "word": "Retreat",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To withdraw or move back from a position",
+      "example": "The army retreated after the defeat.",
+      "chinese": {
+        "meaning": "撤退",
+        "example": "軍隊在失敗後撤退了。"
       }
     },
     {
@@ -628,6 +2872,94 @@
       }
     },
     {
+      "word": "Retrofit",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To add new technology or features to older systems",
+      "example": "The company retrofitted the building with solar panels.",
+      "chinese": {
+        "meaning": "改裝，升級",
+        "example": "公司為大樓安裝了太陽能板。"
+      }
+    },
+    {
+      "word": "Return",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To go back to a place or give something back",
+      "example": "He returned the book to the library.",
+      "chinese": {
+        "meaning": "返回，歸還",
+        "example": "他把書歸還給圖書館。"
+      }
+    },
+    {
+      "word": "Reunite",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To bring people or things together again",
+      "example": "The event reunited old friends.",
+      "chinese": {
+        "meaning": "重聚",
+        "example": "這個活動讓老朋友重聚了。"
+      }
+    },
+    {
+      "word": "Reupholster",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To replace the covering or padding of furniture",
+      "example": "They reupholstered the old sofa.",
+      "chinese": {
+        "meaning": "重新裝潢（家具）",
+        "example": "他們重新裝潢了舊沙發。"
+      }
+    },
+    {
+      "word": "Reuse",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To use something again",
+      "example": "We reused the bottles for storage.",
+      "chinese": {
+        "meaning": "重複使用",
+        "example": "我們重複使用瓶子來儲物。"
+      }
+    },
+    {
+      "word": "Revalidate",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To confirm something's validity again",
+      "example": "The documents must be revalidated every year.",
+      "chinese": {
+        "meaning": "重新驗證",
+        "example": "文件必須每年重新驗證。"
+      }
+    },
+    {
+      "word": "Revalue",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To reassess the value of something",
+      "example": "The company revalued its assets.",
+      "chinese": {
+        "meaning": "重新估價",
+        "example": "公司重新估價了資產。"
+      }
+    },
+    {
+      "word": "Revamp",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To improve or renovate something",
+      "example": "The website was completely revamped.",
+      "chinese": {
+        "meaning": "改造，翻新",
+        "example": "網站被完全翻新了。"
+      }
+    },
+    {
       "word": "Reveal",
       "type": "verb",
       "letter": "R",
@@ -636,6 +2968,28 @@
       "chinese": {
         "meaning": "揭示",
         "example": "數據揭示了一個意想不到的趨勢。"
+      }
+    },
+    {
+      "word": "Revel",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To take great pleasure in something",
+      "example": "She reveled in her success.",
+      "chinese": {
+        "meaning": "陶醉，沉迷",
+        "example": "她沉醉於自己的成功中。"
+      }
+    },
+    {
+      "word": "Revenge",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To inflict harm in return for an injury or wrongdoing",
+      "example": "He vowed to revenge his brother's death.",
+      "chinese": {
+        "meaning": "報仇",
+        "example": "他發誓要為兄弟的死報仇。"
       }
     },
     {
@@ -650,6 +3004,17 @@
       }
     },
     {
+      "word": "Revert",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To return to a previous state or condition",
+      "example": "The system reverted to its original settings.",
+      "chinese": {
+        "meaning": "恢復，回到",
+        "example": "系統恢復了原始設置。"
+      }
+    },
+    {
       "word": "Review",
       "type": "verb",
       "letter": "R",
@@ -661,6 +3026,17 @@
       }
     },
     {
+      "word": "Revile",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To criticize or insult someone harshly",
+      "example": "He was reviled for his unpopular decisions.",
+      "chinese": {
+        "meaning": "辱罵，嚴厲批評",
+        "example": "他因不受歡迎的決定而被辱罵。"
+      }
+    },
+    {
       "word": "Revise",
       "type": "verb",
       "letter": "R",
@@ -669,6 +3045,61 @@
       "chinese": {
         "meaning": "修改；複習",
         "example": "你應該在提交前修改你的文章。"
+      }
+    },
+    {
+      "word": "Revitalize",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To give new life or energy to something",
+      "example": "The project revitalized the local economy.",
+      "chinese": {
+        "meaning": "振興，復興",
+        "example": "這個項目振興了當地經濟。"
+      }
+    },
+    {
+      "word": "Revive",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To bring back to life or consciousness",
+      "example": "The doctors revived the patient after the accident.",
+      "chinese": {
+        "meaning": "復甦，復活",
+        "example": "醫生在事故後讓病人復甦。"
+      }
+    },
+    {
+      "word": "Revoke",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To officially cancel something",
+      "example": "The government revoked his license.",
+      "chinese": {
+        "meaning": "撤銷，取消",
+        "example": "政府撤銷了他的執照。"
+      }
+    },
+    {
+      "word": "Revolt",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To rise up against authority or cause disgust",
+      "example": "The citizens revolted against the regime.",
+      "chinese": {
+        "meaning": "反抗，反感",
+        "example": "市民反抗政權。"
+      }
+    },
+    {
+      "word": "Revolutionize",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To completely change something",
+      "example": "The smartphone revolutionized communication.",
+      "chinese": {
+        "meaning": "徹底改變",
+        "example": "智能手機徹底改變了通訊方式。"
       }
     },
     {
@@ -705,6 +3136,28 @@
       }
     },
     {
+      "word": "Rewire",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To replace the electrical wiring in something",
+      "example": "They rewired the old house.",
+      "chinese": {
+        "meaning": "重新佈線",
+        "example": "他們為舊房子重新佈線。"
+      }
+    },
+    {
+      "word": "Rework",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To revise or redo something to improve it",
+      "example": "The team reworked the entire proposal.",
+      "chinese": {
+        "meaning": "重做，修改",
+        "example": "團隊重做了整個提案。"
+      }
+    },
+    {
       "word": "Rewrite",
       "type": "verb",
       "letter": "R",
@@ -713,6 +3166,28 @@
       "chinese": {
         "meaning": "重寫",
         "example": "你應該為了清晰度重寫這篇文章。"
+      }
+    },
+    {
+      "word": "Rhyme",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To have or end with a sound that corresponds to another",
+      "example": "The poet rhymed 'love' with 'dove'.",
+      "chinese": {
+        "meaning": "押韻",
+        "example": "詩人用love和dove押韻。"
+      }
+    },
+    {
+      "word": "Rib",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To tease or joke with someone in a friendly way",
+      "example": "He ribbed his friend about the missed shot.",
+      "chinese": {
+        "meaning": "開玩笑，打趣",
+        "example": "他取笑朋友沒射中。"
       }
     },
     {
@@ -738,6 +3213,50 @@
       }
     },
     {
+      "word": "Ridicule",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To mock or make fun of someone",
+      "example": "The idea was ridiculed by the critics.",
+      "chinese": {
+        "meaning": "嘲笑",
+        "example": "這個想法被評論家嘲笑。"
+      }
+    },
+    {
+      "word": "Rifle",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To search through something in a hurried or careless way",
+      "example": "The thief rifled through the drawers.",
+      "chinese": {
+        "meaning": "翻找，搜查",
+        "example": "小偷翻找了抽屜。"
+      }
+    },
+    {
+      "word": "Rig",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To set up equipment or to manipulate something unfairly",
+      "example": "They rigged the boat before sailing.",
+      "chinese": {
+        "meaning": "安裝，操縱",
+        "example": "他們出航前安裝好了船隻。"
+      }
+    },
+    {
+      "word": "Rile",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make someone angry or annoyed",
+      "example": "His rude comments riled everyone.",
+      "chinese": {
+        "meaning": "激怒",
+        "example": "他粗魯的評論激怒了大家。"
+      }
+    },
+    {
       "word": "Ring",
       "type": "verb",
       "letter": "R",
@@ -746,6 +3265,50 @@
       "chinese": {
         "meaning": "響；打電話",
         "example": "講課時電話響了。"
+      }
+    },
+    {
+      "word": "Rinse",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To clean quickly with water",
+      "example": "She rinsed the dishes before washing them.",
+      "chinese": {
+        "meaning": "沖洗",
+        "example": "她在洗碗前先沖了一下碗。"
+      }
+    },
+    {
+      "word": "Riot",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To take part in a violent public disturbance",
+      "example": "The crowd began to riot after the announcement.",
+      "chinese": {
+        "meaning": "暴動",
+        "example": "群眾在公告後開始暴動。"
+      }
+    },
+    {
+      "word": "Rip",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To tear something quickly or violently",
+      "example": "He accidentally ripped his shirt.",
+      "chinese": {
+        "meaning": "撕裂",
+        "example": "他不小心撕裂了襯衫。"
+      }
+    },
+    {
+      "word": "Ripple",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To form or cause small waves or movements",
+      "example": "A breeze rippled the surface of the lake.",
+      "chinese": {
+        "meaning": "起漣漪",
+        "example": "微風掀起湖面上的漣漪。"
       }
     },
     {
@@ -760,6 +3323,149 @@
       }
     },
     {
+      "word": "Risk",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To take a chance of something bad happening",
+      "example": "He risked his life to save the child.",
+      "chinese": {
+        "meaning": "冒險",
+        "example": "他冒著生命危險救了孩子。"
+      }
+    },
+    {
+      "word": "Rival",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To compete with or match in quality or strength",
+      "example": "This restaurant rivals the best in town.",
+      "chinese": {
+        "meaning": "競爭，比得上",
+        "example": "這家餐廳可與鎮上最好的餐廳媲美。"
+      }
+    },
+    {
+      "word": "Rivet",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To hold attention firmly or to fasten with rivets",
+      "example": "The movie riveted the audience from start to finish.",
+      "chinese": {
+        "meaning": "吸引住，固定",
+        "example": "電影從頭到尾吸引住觀眾的注意力。"
+      }
+    },
+    {
+      "word": "Roam",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To move about aimlessly or freely",
+      "example": "They roamed through the countryside all day.",
+      "chinese": {
+        "meaning": "漫遊",
+        "example": "他們整天在鄉間漫遊。"
+      }
+    },
+    {
+      "word": "Roar",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make a loud, deep sound",
+      "example": "The lion roared loudly.",
+      "chinese": {
+        "meaning": "咆哮",
+        "example": "獅子大聲咆哮。"
+      }
+    },
+    {
+      "word": "Roast",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To cook food with dry heat, usually in an oven",
+      "example": "She roasted the chicken until golden brown.",
+      "chinese": {
+        "meaning": "烤",
+        "example": "她把雞烤成了金黃色。"
+      }
+    },
+    {
+      "word": "Rob",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To steal from someone or somewhere, often by force",
+      "example": "The bank was robbed last night.",
+      "chinese": {
+        "meaning": "搶劫",
+        "example": "昨晚銀行被搶劫了。"
+      }
+    },
+    {
+      "word": "Rock",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To move gently back and forth",
+      "example": "She rocked the baby to sleep.",
+      "chinese": {
+        "meaning": "搖動",
+        "example": "她搖晃著哄寶寶入睡。"
+      }
+    },
+    {
+      "word": "Roll",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To move by turning over and over",
+      "example": "The ball rolled down the hill.",
+      "chinese": {
+        "meaning": "滾動",
+        "example": "球滾下了山坡。"
+      }
+    },
+    {
+      "word": "Romp",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To play or move around energetically",
+      "example": "The puppies romped in the yard.",
+      "chinese": {
+        "meaning": "嬉鬧",
+        "example": "小狗們在院子裡嬉鬧。"
+      }
+    },
+    {
+      "word": "Roost",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To rest or sleep on a perch (usually for birds)",
+      "example": "The hens roosted in the barn at night.",
+      "chinese": {
+        "meaning": "棲息",
+        "example": "母雞晚上棲息在穀倉裡。"
+      }
+    },
+    {
+      "word": "Root",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To grow roots or establish firmly",
+      "example": "The tree rooted deeply in the soil.",
+      "chinese": {
+        "meaning": "生根，扎根",
+        "example": "樹在土壤中深深扎根。"
+      }
+    },
+    {
+      "word": "Rope",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To tie or catch with a rope",
+      "example": "The cowboy roped the calf.",
+      "chinese": {
+        "meaning": "用繩索捆綁或套住",
+        "example": "牛仔用繩索套住小牛。"
+      }
+    },
+    {
       "word": "Rotate",
       "type": "verb",
       "letter": "R",
@@ -768,6 +3474,83 @@
       "chinese": {
         "meaning": "旋轉、輪轉",
         "example": "地球每24小時自轉一圈。"
+      }
+    },
+    {
+      "word": "Rouse",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To wake up or excite into action",
+      "example": "The speech roused the crowd.",
+      "chinese": {
+        "meaning": "喚醒，激起",
+        "example": "演講激起了人群的熱情。"
+      }
+    },
+    {
+      "word": "Rout",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To defeat completely and cause to retreat",
+      "example": "The army routed the enemy forces.",
+      "chinese": {
+        "meaning": "徹底擊敗",
+        "example": "軍隊徹底擊敗了敵軍。"
+      }
+    },
+    {
+      "word": "Route",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To send or direct along a specific path",
+      "example": "The call was routed to the correct department.",
+      "chinese": {
+        "meaning": "安排路線，傳送",
+        "example": "電話被轉接到正確的部門。"
+      }
+    },
+    {
+      "word": "Rove",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To wander without a fixed destination",
+      "example": "They roved the countryside all summer.",
+      "chinese": {
+        "meaning": "漫遊，漂泊",
+        "example": "他們整個夏天都在鄉下漫遊。"
+      }
+    },
+    {
+      "word": "Row",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To propel a boat forward using oars",
+      "example": "They rowed across the lake.",
+      "chinese": {
+        "meaning": "划船",
+        "example": "他們划船穿過湖面。"
+      }
+    },
+    {
+      "word": "Rub",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To apply pressure and friction on a surface",
+      "example": "He rubbed his eyes sleepily.",
+      "chinese": {
+        "meaning": "摩擦，揉",
+        "example": "他困倦地揉著眼睛。"
+      }
+    },
+    {
+      "word": "Ruffle",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To disturb the smoothness of something or annoy someone",
+      "example": "The wind ruffled her hair.",
+      "chinese": {
+        "meaning": "弄亂，惹怒",
+        "example": "風弄亂了她的頭髮。"
       }
     },
     {
@@ -793,6 +3576,17 @@
       }
     },
     {
+      "word": "Rummage",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To search through something untidily",
+      "example": "She rummaged through the drawer for her keys.",
+      "chinese": {
+        "meaning": "翻找",
+        "example": "她在抽屜裡翻找鑰匙。"
+      }
+    },
+    {
       "word": "Run",
       "type": "verb",
       "letter": "R",
@@ -812,6 +3606,17 @@
       "chinese": {
         "meaning": "匆忙",
         "example": "考試時不要匆忙作答。"
+      }
+    },
+    {
+      "word": "Rustle",
+      "type": "verb",
+      "letter": "R",
+      "meaning": "To make a soft, crackling sound or steal cattle",
+      "example": "The leaves rustled in the wind.",
+      "chinese": {
+        "meaning": "沙沙作響，偷牛",
+        "example": "樹葉在風中沙沙作響。"
       }
     }
   ]

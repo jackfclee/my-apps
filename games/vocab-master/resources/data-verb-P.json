@@ -1,6 +1,17 @@
 {
   "words": [
     {
+      "word": "Pace",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To walk at a steady and consistent speed, often back and forth",
+      "example": "He paced the room nervously.",
+      "chinese": {
+        "meaning": "踱步，徘徊",
+        "example": "他緊張地在房間裡踱步。"
+      }
+    },
+    {
       "word": "Pacify",
       "type": "verb",
       "letter": "P",
@@ -23,6 +34,39 @@
       }
     },
     {
+      "word": "Pad",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To walk softly or quietly",
+      "example": "The cat padded silently across the carpet.",
+      "chinese": {
+        "meaning": "輕步走",
+        "example": "貓靜靜地在地毯上走過。"
+      }
+    },
+    {
+      "word": "Paddle",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To propel a boat or move through water using a paddle",
+      "example": "They paddled across the lake in a canoe.",
+      "chinese": {
+        "meaning": "划槳",
+        "example": "他們用獨木舟划過湖面。"
+      }
+    },
+    {
+      "word": "Page",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To summon someone over a public address system",
+      "example": "They paged the doctor to come to the emergency room.",
+      "chinese": {
+        "meaning": "呼叫",
+        "example": "他們在廣播中呼叫醫生到急診室。"
+      }
+    },
+    {
       "word": "Paint",
       "type": "verb",
       "letter": "P",
@@ -31,6 +75,248 @@
       "chinese": {
         "meaning": "粉刷",
         "example": "他粉刷了房間的牆壁。"
+      }
+    },
+    {
+      "word": "Pair",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To join or match two things together",
+      "example": "Please pair the socks before folding them.",
+      "chinese": {
+        "meaning": "配對",
+        "example": "請把襪子配對後再折疊。"
+      }
+    },
+    {
+      "word": "Palatalize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To pronounce a sound with the tongue near the palate",
+      "example": "The 'n' sound is palatalized in some languages.",
+      "chinese": {
+        "meaning": "顎化（發音）",
+        "example": "在某些語言中，n音會被顎化。"
+      }
+    },
+    {
+      "word": "Pall",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To become boring or less interesting",
+      "example": "The game palled after several hours.",
+      "chinese": {
+        "meaning": "變得乏味",
+        "example": "玩了幾個小時後遊戲變得乏味。"
+      }
+    },
+    {
+      "word": "Palletize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To place goods or materials on pallets for transport or storage",
+      "example": "The workers palletized the boxes for shipping.",
+      "chinese": {
+        "meaning": "用托盤裝運",
+        "example": "工人們把箱子放在托盤上準備運輸。"
+      }
+    },
+    {
+      "word": "Palpate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To examine a part of the body by touch, especially for medical reasons",
+      "example": "The doctor palpated his abdomen for signs of pain.",
+      "chinese": {
+        "meaning": "觸診",
+        "example": "醫生觸診他的腹部檢查是否有疼痛。"
+      }
+    },
+    {
+      "word": "Pamper",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To treat with great care and comfort",
+      "example": "She pampered herself with a spa day.",
+      "chinese": {
+        "meaning": "寵愛，呵護",
+        "example": "她用一整天的水療來寵愛自己。"
+      }
+    },
+    {
+      "word": "Pan",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To criticize severely",
+      "example": "The film was panned by critics.",
+      "chinese": {
+        "meaning": "嚴厲批評",
+        "example": "這部電影被評論家嚴厲批評。"
+      }
+    },
+    {
+      "word": "Panel",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To cover or furnish with panels",
+      "example": "They paneled the walls with oak wood.",
+      "chinese": {
+        "meaning": "鑲板",
+        "example": "他們用橡木板裝飾牆面。"
+      }
+    },
+    {
+      "word": "Panic",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To feel or cause sudden uncontrollable fear or anxiety",
+      "example": "She panicked when she lost her passport.",
+      "chinese": {
+        "meaning": "驚慌",
+        "example": "當她丟了護照時非常驚慌。"
+      }
+    },
+    {
+      "word": "Pant",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To breathe quickly and heavily, especially after exertion",
+      "example": "He panted after running up the stairs.",
+      "chinese": {
+        "meaning": "喘息",
+        "example": "他跑上樓後氣喘吁吁。"
+      }
+    },
+    {
+      "word": "Parachute",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To jump from an aircraft and descend by parachute",
+      "example": "They parachuted into the forest.",
+      "chinese": {
+        "meaning": "跳傘",
+        "example": "他們跳傘降落到森林中。"
+      }
+    },
+    {
+      "word": "Parade",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To march in a formal procession",
+      "example": "The soldiers paraded through the city square.",
+      "chinese": {
+        "meaning": "遊行",
+        "example": "士兵們在城市廣場上遊行。"
+      }
+    },
+    {
+      "word": "Paralyze",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To cause a person or part of the body to become unable to move",
+      "example": "The stroke paralyzed his right arm.",
+      "chinese": {
+        "meaning": "使癱瘓",
+        "example": "中風使他的右臂癱瘓。"
+      }
+    },
+    {
+      "word": "Paraphrase",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To express something in different words",
+      "example": "She paraphrased the teacher’s explanation.",
+      "chinese": {
+        "meaning": "改述",
+        "example": "她用不同的話改述了老師的解釋。"
+      }
+    },
+    {
+      "word": "Parboil",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To partially cook food by boiling",
+      "example": "Parboil the potatoes before roasting them.",
+      "chinese": {
+        "meaning": "預煮，半煮",
+        "example": "先把馬鈴薯預煮再烤。"
+      }
+    },
+    {
+      "word": "Parcel",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To divide into portions or distribute",
+      "example": "The land was parceled out among the farmers.",
+      "chinese": {
+        "meaning": "分配，分割",
+        "example": "土地被分配給農民們。"
+      }
+    },
+    {
+      "word": "Parch",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To dry out with heat",
+      "example": "The sun parched the fields.",
+      "chinese": {
+        "meaning": "烘乾，曬乾",
+        "example": "太陽把田地曬得乾裂。"
+      }
+    },
+    {
+      "word": "Pardon",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To forgive or excuse someone’s fault or offense",
+      "example": "He was pardoned for his crime by the president.",
+      "chinese": {
+        "meaning": "赦免，寬恕",
+        "example": "總統赦免了他的罪行。"
+      }
+    },
+    {
+      "word": "Pare",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To trim by cutting away outer edges or layers",
+      "example": "She pared the apple before slicing it.",
+      "chinese": {
+        "meaning": "削皮，修剪",
+        "example": "她削了蘋果皮再切片。"
+      }
+    },
+    {
+      "word": "Park",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To bring a vehicle to a halt and leave it temporarily",
+      "example": "He parked the car near the entrance.",
+      "chinese": {
+        "meaning": "停車",
+        "example": "他把車停在入口附近。"
+      }
+    },
+    {
+      "word": "Parry",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To ward off a blow or attack",
+      "example": "He parried the opponent's sword thrust.",
+      "chinese": {
+        "meaning": "擋開，迴避",
+        "example": "他擋開了對手的劍擊。"
+      }
+    },
+    {
+      "word": "Part",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To separate or leave one another",
+      "example": "They parted ways after the meeting.",
+      "chinese": {
+        "meaning": "分離，分手",
+        "example": "會議後他們分道揚鑣。"
       }
     },
     {
@@ -56,6 +342,39 @@
       }
     },
     {
+      "word": "Particularize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To specify or detail something individually",
+      "example": "The report particularized every incident.",
+      "chinese": {
+        "meaning": "詳細說明",
+        "example": "報告詳細說明了每一個事件。"
+      }
+    },
+    {
+      "word": "Partition",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To divide into parts or sections",
+      "example": "The room was partitioned with a sliding door.",
+      "chinese": {
+        "meaning": "分隔，分割",
+        "example": "房間用拉門分隔開來。"
+      }
+    },
+    {
+      "word": "Partner",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To associate or join with someone as a partner",
+      "example": "They partnered with another company to launch the product.",
+      "chinese": {
+        "meaning": "合作，結伴",
+        "example": "他們與另一家公司合作推出產品。"
+      }
+    },
+    {
       "word": "Pass",
       "type": "verb",
       "letter": "P",
@@ -64,6 +383,72 @@
       "chinese": {
         "meaning": "通過",
         "example": "我們回家路上經過圖書館。"
+      }
+    },
+    {
+      "word": "Paste",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To stick or glue something onto a surface",
+      "example": "He pasted the poster on the wall.",
+      "chinese": {
+        "meaning": "貼上",
+        "example": "他把海報貼在牆上。"
+      }
+    },
+    {
+      "word": "Pasture",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To graze animals on grassland",
+      "example": "They pastured the cows on the hillside.",
+      "chinese": {
+        "meaning": "放牧",
+        "example": "他們把牛放牧在山坡上。"
+      }
+    },
+    {
+      "word": "Pat",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To touch someone or something lightly with the palm",
+      "example": "She patted the dog on the head.",
+      "chinese": {
+        "meaning": "輕拍",
+        "example": "她輕拍了狗的頭。"
+      }
+    },
+    {
+      "word": "Patch",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To repair a hole or worn area in something",
+      "example": "He patched the hole in the roof.",
+      "chinese": {
+        "meaning": "修補",
+        "example": "他修補了屋頂的破洞。"
+      }
+    },
+    {
+      "word": "Patent",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To obtain legal rights for an invention",
+      "example": "They patented their new device.",
+      "chinese": {
+        "meaning": "申請專利",
+        "example": "他們為新裝置申請了專利。"
+      }
+    },
+    {
+      "word": "Pathologize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To treat or regard something as psychologically abnormal",
+      "example": "She pathologized normal behavior.",
+      "chinese": {
+        "meaning": "病理化",
+        "example": "她把正常行為病理化了。"
       }
     },
     {
@@ -78,6 +463,28 @@
       }
     },
     {
+      "word": "Patronize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To treat with apparent kindness while showing a feeling of superiority",
+      "example": "He felt patronized by her tone.",
+      "chinese": {
+        "meaning": "屈尊施惠，擺出高人一等的態度",
+        "example": "他覺得她的語氣是在屈尊施惠。"
+      }
+    },
+    {
+      "word": "Patter",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make a rapid series of light sounds",
+      "example": "Rain pattered on the roof.",
+      "chinese": {
+        "meaning": "噼啪作響",
+        "example": "雨水噼啪地打在屋頂上。"
+      }
+    },
+    {
       "word": "Pause",
       "type": "verb",
       "letter": "P",
@@ -86,6 +493,39 @@
       "chinese": {
         "meaning": "暫停",
         "example": "她暫停了影片以做筆記。"
+      }
+    },
+    {
+      "word": "Pave",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To cover a surface with a hard material",
+      "example": "They paved the street with asphalt.",
+      "chinese": {
+        "meaning": "鋪設",
+        "example": "他們用瀝青鋪設街道。"
+      }
+    },
+    {
+      "word": "Paw",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To touch or scrape something with a paw or hand clumsily",
+      "example": "The dog pawed at the door.",
+      "chinese": {
+        "meaning": "用爪子扒",
+        "example": "狗用爪子扒門。"
+      }
+    },
+    {
+      "word": "Pawn",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To pledge goods as security for a loan",
+      "example": "He pawned his watch for cash.",
+      "chinese": {
+        "meaning": "典當",
+        "example": "他把手錶典當換現金。"
       }
     },
     {
@@ -100,6 +540,72 @@
       }
     },
     {
+      "word": "Peal",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To ring loudly (as a bell)",
+      "example": "The bells pealed at noon.",
+      "chinese": {
+        "meaning": "大聲鳴響",
+        "example": "鐘聲在中午大響。"
+      }
+    },
+    {
+      "word": "Peck",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To strike or bite something with a beak or small blow",
+      "example": "The bird pecked at the seeds.",
+      "chinese": {
+        "meaning": "啄",
+        "example": "小鳥啄食種子。"
+      }
+    },
+    {
+      "word": "Pedal",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To use the pedals of a bicycle or machine",
+      "example": "She pedaled faster to climb the hill.",
+      "chinese": {
+        "meaning": "踩踏板",
+        "example": "她加快踩踏板爬上山坡。"
+      }
+    },
+    {
+      "word": "Pee",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To urinate",
+      "example": "The child needed to pee urgently.",
+      "chinese": {
+        "meaning": "小便",
+        "example": "孩子急著要小便。"
+      }
+    },
+    {
+      "word": "Peel",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To remove the outer covering of something",
+      "example": "He peeled the banana before eating it.",
+      "chinese": {
+        "meaning": "剝皮，削皮",
+        "example": "他剝了香蕉皮才吃。"
+      }
+    },
+    {
+      "word": "Peep",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To look quickly or secretly",
+      "example": "She peeped through the keyhole.",
+      "chinese": {
+        "meaning": "偷看",
+        "example": "她透過鑰匙孔偷看。"
+      }
+    },
+    {
       "word": "Peer",
       "type": "verb",
       "letter": "P",
@@ -108,6 +614,72 @@
       "chinese": {
         "meaning": "凝視",
         "example": "他透過窗戶凝視。"
+      }
+    },
+    {
+      "word": "Peg",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To fasten or fix with pegs",
+      "example": "She pegged the laundry to the line.",
+      "chinese": {
+        "meaning": "用夾子夾",
+        "example": "她把衣服用夾子夾在曬衣繩上。"
+      }
+    },
+    {
+      "word": "Pelt",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To attack by throwing things",
+      "example": "They pelted the car with stones.",
+      "chinese": {
+        "meaning": "投擲",
+        "example": "他們向車子投擲石頭。"
+      }
+    },
+    {
+      "word": "Penalize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To subject someone to a penalty for wrongdoing",
+      "example": "The referee penalized the player for a foul.",
+      "chinese": {
+        "meaning": "處罰",
+        "example": "裁判因犯規處罰了該球員。"
+      }
+    },
+    {
+      "word": "Pend",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To be pending or await a decision",
+      "example": "The case pended for months.",
+      "chinese": {
+        "meaning": "懸而未決",
+        "example": "案件懸而未決好幾個月。"
+      }
+    },
+    {
+      "word": "Penetrate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To pass or force a way into or through something",
+      "example": "The bullet penetrated the wall.",
+      "chinese": {
+        "meaning": "穿透",
+        "example": "子彈穿透了牆壁。"
+      }
+    },
+    {
+      "word": "Pepper",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To sprinkle or cover with small particles",
+      "example": "She peppered the salad with black pepper.",
+      "chinese": {
+        "meaning": "撒胡椒或細小東西",
+        "example": "她在沙拉上撒了黑胡椒。"
       }
     },
     {
@@ -144,6 +716,39 @@
       }
     },
     {
+      "word": "Perk",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To become more cheerful or lively",
+      "example": "She perked up after hearing the good news.",
+      "chinese": {
+        "meaning": "振作，變得精神",
+        "example": "聽到好消息後她精神起來了。"
+      }
+    },
+    {
+      "word": "Perm",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To curl or wave hair using chemicals",
+      "example": "She permed her hair last week.",
+      "chinese": {
+        "meaning": "燙髮",
+        "example": "她上週燙了頭髮。"
+      }
+    },
+    {
+      "word": "Permanize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make something permanent",
+      "example": "The treatment permanized the color.",
+      "chinese": {
+        "meaning": "使永久",
+        "example": "該處理使顏色永久保持。"
+      }
+    },
+    {
       "word": "Permit",
       "type": "verb",
       "letter": "P",
@@ -152,6 +757,61 @@
       "chinese": {
         "meaning": "允許",
         "example": "學校允許學生早退。"
+      }
+    },
+    {
+      "word": "Perpetrate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To carry out or commit a harmful or illegal act",
+      "example": "They perpetrated a major fraud.",
+      "chinese": {
+        "meaning": "犯（罪），做（壞事）",
+        "example": "他們犯下了一起重大詐騙案。"
+      }
+    },
+    {
+      "word": "Perpetuate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make something continue indefinitely",
+      "example": "The policy perpetuated inequality.",
+      "chinese": {
+        "meaning": "使持續",
+        "example": "該政策使不平等持續存在。"
+      }
+    },
+    {
+      "word": "Perplex",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To confuse or puzzle someone",
+      "example": "The question perplexed the students.",
+      "chinese": {
+        "meaning": "使困惑",
+        "example": "這個問題讓學生困惑。"
+      }
+    },
+    {
+      "word": "Persecute",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To subject someone to hostility and ill-treatment",
+      "example": "They persecuted him for his beliefs.",
+      "chinese": {
+        "meaning": "迫害",
+        "example": "他因信仰被迫害。"
+      }
+    },
+    {
+      "word": "Persevere",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To persist in an action despite difficulties",
+      "example": "She persevered with her studies.",
+      "chinese": {
+        "meaning": "堅持不懈",
+        "example": "她堅持不懈地學習。"
       }
     },
     {
@@ -166,6 +826,39 @@
       }
     },
     {
+      "word": "Personalize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make something suitable for a particular person",
+      "example": "You can personalize the gift with your name.",
+      "chinese": {
+        "meaning": "個性化",
+        "example": "你可以將禮物個性化加上你的名字。"
+      }
+    },
+    {
+      "word": "Personify",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To represent an abstract quality in human form",
+      "example": "She personifies kindness.",
+      "chinese": {
+        "meaning": "具象化，擬人化",
+        "example": "她體現了善良。"
+      }
+    },
+    {
+      "word": "Perspire",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To excrete sweat through the pores of the skin",
+      "example": "He began to perspire after the workout.",
+      "chinese": {
+        "meaning": "出汗",
+        "example": "他運動後開始出汗。"
+      }
+    },
+    {
       "word": "Persuade",
       "type": "verb",
       "letter": "P",
@@ -174,6 +867,83 @@
       "chinese": {
         "meaning": "說服",
         "example": "他說服朋友加入俱樂部。"
+      }
+    },
+    {
+      "word": "Perturb",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To disturb or worry someone",
+      "example": "Her sudden departure perturbed him.",
+      "chinese": {
+        "meaning": "使不安",
+        "example": "她的突然離開讓他不安。"
+      }
+    },
+    {
+      "word": "Pervade",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To spread through and be perceived in every part",
+      "example": "A sense of excitement pervaded the crowd.",
+      "chinese": {
+        "meaning": "瀰漫",
+        "example": "興奮的氣氛瀰漫在人群中。"
+      }
+    },
+    {
+      "word": "Pervert",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To distort or corrupt the original meaning or state of something",
+      "example": "They perverted the truth for their own gain.",
+      "chinese": {
+        "meaning": "歪曲，曲解",
+        "example": "他們為了利益歪曲事實。"
+      }
+    },
+    {
+      "word": "Pet",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To stroke or caress an animal or person",
+      "example": "She likes to pet her cat while reading.",
+      "chinese": {
+        "meaning": "撫摸",
+        "example": "她喜歡一邊看書一邊撫摸貓咪。"
+      }
+    },
+    {
+      "word": "Petition",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make a formal request to an authority",
+      "example": "They petitioned the government for better healthcare.",
+      "chinese": {
+        "meaning": "請願，正式請求",
+        "example": "他們向政府請願以改善醫療。"
+      }
+    },
+    {
+      "word": "Photograph",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To take a photograph of something or someone",
+      "example": "He photographed the sunset.",
+      "chinese": {
+        "meaning": "拍照",
+        "example": "他拍攝了日落。"
+      }
+    },
+    {
+      "word": "Phrase",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To express in particular words",
+      "example": "She carefully phrased her answer.",
+      "chinese": {
+        "meaning": "措辭",
+        "example": "她仔細地措辭回答問題。"
       }
     },
     {
@@ -188,6 +958,171 @@
       }
     },
     {
+      "word": "Pilfer",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To steal things of little value",
+      "example": "He was caught pilfering from the store.",
+      "chinese": {
+        "meaning": "小偷小摸",
+        "example": "他在商店行竊時被抓住。"
+      }
+    },
+    {
+      "word": "Pillage",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To rob using violence, especially in wartime",
+      "example": "The village was pillaged by the invaders.",
+      "chinese": {
+        "meaning": "劫掠",
+        "example": "村莊被入侵者劫掠了。"
+      }
+    },
+    {
+      "word": "Pilot",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To operate and control the course of an aircraft or ship",
+      "example": "He piloted the boat through the storm.",
+      "chinese": {
+        "meaning": "駕駛（飛機、船等）",
+        "example": "他駕駛著船穿越風暴。"
+      }
+    },
+    {
+      "word": "Pinch",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To squeeze tightly between the fingers",
+      "example": "She pinched his arm playfully.",
+      "chinese": {
+        "meaning": "捏",
+        "example": "她開玩笑地捏了他的手臂。"
+      }
+    },
+    {
+      "word": "Pine",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To long for something intensely and persistently",
+      "example": "She pined for her hometown.",
+      "chinese": {
+        "meaning": "渴望，思念",
+        "example": "她思念家鄉。"
+      }
+    },
+    {
+      "word": "Pinpoint",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To locate or identify precisely",
+      "example": "The police pinpointed the suspect's location.",
+      "chinese": {
+        "meaning": "精確定位",
+        "example": "警方精確定位了嫌疑人的位置。"
+      }
+    },
+    {
+      "word": "Pioneer",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To be the first to develop or use something",
+      "example": "They pioneered a new technology.",
+      "chinese": {
+        "meaning": "開創",
+        "example": "他們開創了一項新技術。"
+      }
+    },
+    {
+      "word": "Pipe",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To transport liquids or gases through a pipe",
+      "example": "Water is piped into the building.",
+      "chinese": {
+        "meaning": "輸送（液體或氣體）",
+        "example": "水被輸送進建築物內。"
+      }
+    },
+    {
+      "word": "Pirate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To use or reproduce someone else's work illegally",
+      "example": "They pirated the software.",
+      "chinese": {
+        "meaning": "盜版",
+        "example": "他們盜版了這個軟件。"
+      }
+    },
+    {
+      "word": "Piss",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To urinate (informal and often rude)",
+      "example": "He went to piss behind the bushes.",
+      "chinese": {
+        "meaning": "小便（粗俗）",
+        "example": "他跑到樹叢後小便。"
+      }
+    },
+    {
+      "word": "Pitch",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To throw or hurl forcefully",
+      "example": "He pitched the ball to the batter.",
+      "chinese": {
+        "meaning": "投擲",
+        "example": "他把球投給了打者。"
+      }
+    },
+    {
+      "word": "Pity",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To feel sorrow for someone's misfortune",
+      "example": "She pitied the homeless man.",
+      "chinese": {
+        "meaning": "同情",
+        "example": "她同情那個無家可歸的人。"
+      }
+    },
+    {
+      "word": "Pivot",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To turn or rotate on a central point",
+      "example": "The machine pivots to face the operator.",
+      "chinese": {
+        "meaning": "旋轉",
+        "example": "機器旋轉朝向操作員。"
+      }
+    },
+    {
+      "word": "Place",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To put something in a particular position",
+      "example": "She placed the vase on the table.",
+      "chinese": {
+        "meaning": "放置",
+        "example": "她把花瓶放在桌子上。"
+      }
+    },
+    {
+      "word": "Plague",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To cause continual trouble or distress",
+      "example": "He was plagued by doubts.",
+      "chinese": {
+        "meaning": "困擾，折磨",
+        "example": "他被疑慮困擾著。"
+      }
+    },
+    {
       "word": "Plan",
       "type": "verb",
       "letter": "P",
@@ -196,6 +1131,83 @@
       "chinese": {
         "meaning": "計劃",
         "example": "他們仔細計劃了假期。"
+      }
+    },
+    {
+      "word": "Plane",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To smooth a surface with a plane tool",
+      "example": "He planed the wood until it was smooth.",
+      "chinese": {
+        "meaning": "刨平",
+        "example": "他把木頭刨平了。"
+      }
+    },
+    {
+      "word": "Plank",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To lay down planks or board firmly",
+      "example": "They planked the floor.",
+      "chinese": {
+        "meaning": "鋪木板",
+        "example": "他們在地板上鋪了木板。"
+      }
+    },
+    {
+      "word": "Plant",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To place seeds or plants in the ground to grow",
+      "example": "She planted flowers in the garden.",
+      "chinese": {
+        "meaning": "種植",
+        "example": "她在花園裡種了花。"
+      }
+    },
+    {
+      "word": "Plaster",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To cover a surface with plaster",
+      "example": "They plastered the walls of the house.",
+      "chinese": {
+        "meaning": "塗抹灰泥",
+        "example": "他們給房子的牆壁抹了灰泥。"
+      }
+    },
+    {
+      "word": "Plasticize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make something flexible or moldable like plastic",
+      "example": "The material was plasticized to shape easily.",
+      "chinese": {
+        "meaning": "使塑化",
+        "example": "這種材料被塑化以便於成型。"
+      }
+    },
+    {
+      "word": "Plate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To coat a surface with a thin layer of metal or another material",
+      "example": "The jeweler plated the ring with gold.",
+      "chinese": {
+        "meaning": "電鍍，覆蓋",
+        "example": "珠寶商為戒指鍍上了金。"
+      }
+    },
+    {
+      "word": "Platonize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To explain or interpret something according to Platonic philosophy",
+      "example": "He platonized the concept of love.",
+      "chinese": {
+        "meaning": "柏拉圖式解釋",
+        "example": "他用柏拉圖哲學解釋了愛的概念。"
       }
     },
     {
@@ -221,6 +1233,127 @@
       }
     },
     {
+      "word": "Please",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make someone happy or satisfied",
+      "example": "She always tries to please her guests.",
+      "chinese": {
+        "meaning": "使高興，使滿意",
+        "example": "她總是努力讓客人高興。"
+      }
+    },
+    {
+      "word": "Pleat",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To fold fabric into pleats",
+      "example": "They pleated the skirt neatly.",
+      "chinese": {
+        "meaning": "打褶",
+        "example": "他們整齊地為裙子打了褶。"
+      }
+    },
+    {
+      "word": "Pledge",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To promise solemnly or formally",
+      "example": "He pledged to support the charity.",
+      "chinese": {
+        "meaning": "承諾，保證",
+        "example": "他承諾支持這個慈善機構。"
+      }
+    },
+    {
+      "word": "Plight",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To pledge or promise (archaic); also to put in a difficult condition",
+      "example": "He plighted his word to be loyal.",
+      "chinese": {
+        "meaning": "承諾，發誓（舊）",
+        "example": "他發誓要忠誠。"
+      }
+    },
+    {
+      "word": "Plod",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To walk or work slowly and with heavy steps",
+      "example": "She plodded through the mud.",
+      "chinese": {
+        "meaning": "艱難行走",
+        "example": "她艱難地走過泥地。"
+      }
+    },
+    {
+      "word": "Plot",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To plan secretly; to mark points on a chart",
+      "example": "They plotted to overthrow the government.",
+      "chinese": {
+        "meaning": "密謀，計畫",
+        "example": "他們密謀推翻政府。"
+      }
+    },
+    {
+      "word": "Plough",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To turn over soil in preparation for planting",
+      "example": "The farmer ploughed the field.",
+      "chinese": {
+        "meaning": "犁地",
+        "example": "農夫犁了地。"
+      }
+    },
+    {
+      "word": "Pluck",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To pull something quickly and forcibly",
+      "example": "She plucked a flower from the garden.",
+      "chinese": {
+        "meaning": "拔，摘",
+        "example": "她從花園裡摘了一朵花。"
+      }
+    },
+    {
+      "word": "Plug",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To block or fill a hole; to connect an electrical device",
+      "example": "He plugged the leak with a cloth.",
+      "chinese": {
+        "meaning": "堵塞；插入插頭",
+        "example": "他用布堵住了漏水的地方。"
+      }
+    },
+    {
+      "word": "Plummet",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To fall straight down rapidly",
+      "example": "The stock prices plummeted overnight.",
+      "chinese": {
+        "meaning": "暴跌，快速下落",
+        "example": "股票價格一夜之間暴跌。"
+      }
+    },
+    {
+      "word": "Plunder",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To steal goods, typically during a war or disaster",
+      "example": "The city was plundered by the invaders.",
+      "chinese": {
+        "meaning": "掠奪",
+        "example": "這座城市被入侵者掠奪了。"
+      }
+    },
+    {
       "word": "Plunge",
       "type": "verb",
       "letter": "P",
@@ -232,6 +1365,28 @@
       }
     },
     {
+      "word": "Pluralize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make a word plural",
+      "example": "The teacher explained how to pluralize nouns.",
+      "chinese": {
+        "meaning": "變為複數",
+        "example": "老師解釋了如何把名詞變為複數。"
+      }
+    },
+    {
+      "word": "Poach",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To cook gently in liquid; to illegally hunt or take something",
+      "example": "They were caught poaching deer.",
+      "chinese": {
+        "meaning": "盜獵；水煮",
+        "example": "他們因盜獵鹿被抓住。"
+      }
+    },
+    {
       "word": "Point",
       "type": "verb",
       "letter": "P",
@@ -240,6 +1395,105 @@
       "chinese": {
         "meaning": "指向",
         "example": "她指著地圖顯示路線。"
+      }
+    },
+    {
+      "word": "Poison",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To administer a harmful substance",
+      "example": "He poisoned the drink.",
+      "chinese": {
+        "meaning": "下毒",
+        "example": "他在飲料裡下了毒。"
+      }
+    },
+    {
+      "word": "Poke",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To push or prod with a finger or object",
+      "example": "She poked him in the arm.",
+      "chinese": {
+        "meaning": "戳",
+        "example": "她戳了他的手臂。"
+      }
+    },
+    {
+      "word": "Polarize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To cause division into two opposing groups",
+      "example": "The issue polarized the community.",
+      "chinese": {
+        "meaning": "使兩極化",
+        "example": "這個問題使社區出現了分化。"
+      }
+    },
+    {
+      "word": "Police",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To maintain order or enforce rules",
+      "example": "The area is heavily policed.",
+      "chinese": {
+        "meaning": "維持秩序，管理",
+        "example": "該地區受到嚴密的管理。"
+      }
+    },
+    {
+      "word": "Polish",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make a surface smooth and shiny",
+      "example": "She polished the silverware.",
+      "chinese": {
+        "meaning": "擦亮，打磨",
+        "example": "她擦亮了銀器。"
+      }
+    },
+    {
+      "word": "Politic",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To engage in political activity",
+      "example": "They spent the evening politicking at the event.",
+      "chinese": {
+        "meaning": "從事政治活動",
+        "example": "他們在活動中忙於政治遊說。"
+      }
+    },
+    {
+      "word": "Politicalize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make something political in nature",
+      "example": "They politicalized the debate unnecessarily.",
+      "chinese": {
+        "meaning": "使政治化",
+        "example": "他們不必要地將辯論政治化。"
+      }
+    },
+    {
+      "word": "Poll",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To collect votes or opinions",
+      "example": "They polled the citizens about the new law.",
+      "chinese": {
+        "meaning": "進行民意調查",
+        "example": "他們就新法案對市民進行了民調。"
+      }
+    },
+    {
+      "word": "Pollinate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To transfer pollen to a flower to fertilize it",
+      "example": "Bees pollinate the plants.",
+      "chinese": {
+        "meaning": "授粉",
+        "example": "蜜蜂為植物授粉。"
       }
     },
     {
@@ -265,6 +1519,160 @@
       }
     },
     {
+      "word": "Pontificate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To express opinions pompously and dogmatically",
+      "example": "He pontificated about morality.",
+      "chinese": {
+        "meaning": "武斷地說教",
+        "example": "他對道德大發議論。"
+      }
+    },
+    {
+      "word": "Pool",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To combine resources for a common purpose",
+      "example": "They pooled their money to buy a car.",
+      "chinese": {
+        "meaning": "集中，共用",
+        "example": "他們集中資金買了一輛車。"
+      }
+    },
+    {
+      "word": "Pop",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To burst or make a sudden sound",
+      "example": "The balloon popped loudly.",
+      "chinese": {
+        "meaning": "爆裂，發出砰的聲音",
+        "example": "氣球發出砰的一聲爆裂了。"
+      }
+    },
+    {
+      "word": "Popularize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make something widely known or accepted",
+      "example": "The program popularized science among children.",
+      "chinese": {
+        "meaning": "普及，推廣",
+        "example": "這個節目向孩子們普及了科學。"
+      }
+    },
+    {
+      "word": "Populate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To inhabit or fill an area with people or things",
+      "example": "Immigrants populated the city rapidly.",
+      "chinese": {
+        "meaning": "居住於，充滿",
+        "example": "移民迅速地使這座城市人口增多。"
+      }
+    },
+    {
+      "word": "Pore",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To read or study attentively",
+      "example": "He pored over the old documents.",
+      "chinese": {
+        "meaning": "專心閱讀，鑽研",
+        "example": "他專心鑽研那些舊文件。"
+      }
+    },
+    {
+      "word": "Portend",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To be a sign or warning of something",
+      "example": "Dark clouds portend a storm.",
+      "chinese": {
+        "meaning": "預示",
+        "example": "烏雲預示著暴風雨的來臨。"
+      }
+    },
+    {
+      "word": "Portray",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To depict or describe someone or something in a particular way",
+      "example": "The film portrays the life of a famous artist.",
+      "chinese": {
+        "meaning": "描繪，刻畫",
+        "example": "這部電影描繪了一位著名藝術家的生活。"
+      }
+    },
+    {
+      "word": "Pose",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To assume a particular stance or attitude; to present a question or problem",
+      "example": "She posed for the photograph.",
+      "chinese": {
+        "meaning": "擺姿勢；提出問題",
+        "example": "她為照片擺了姿勢。"
+      }
+    },
+    {
+      "word": "Posit",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To assume or suggest something as a fact or basis for reasoning",
+      "example": "The scientist posited a new theory.",
+      "chinese": {
+        "meaning": "假設，提出",
+        "example": "科學家提出了一個新理論。"
+      }
+    },
+    {
+      "word": "Position",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To place or arrange something in a particular place or way",
+      "example": "He positioned the camera carefully.",
+      "chinese": {
+        "meaning": "放置，定位",
+        "example": "他小心地擺放了相機。"
+      }
+    },
+    {
+      "word": "Possess",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To have or own something",
+      "example": "She possesses great musical talent.",
+      "chinese": {
+        "meaning": "擁有",
+        "example": "她擁有很高的音樂天賦。"
+      }
+    },
+    {
+      "word": "Post",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To send something by mail; to display or publish",
+      "example": "He posted the letter yesterday.",
+      "chinese": {
+        "meaning": "郵寄；張貼",
+        "example": "他昨天寄出了那封信。"
+      }
+    },
+    {
+      "word": "Postdate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To assign a date later than the actual date",
+      "example": "He postdated the check for next week.",
+      "chinese": {
+        "meaning": "填遲日期",
+        "example": "他將支票的日期填為下週。"
+      }
+    },
+    {
       "word": "Postpone",
       "type": "verb",
       "letter": "P",
@@ -273,6 +1681,72 @@
       "chinese": {
         "meaning": "延期",
         "example": "會議因下雨而延期。"
+      }
+    },
+    {
+      "word": "Postulate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To suggest or assume the existence of something as a basis for reasoning",
+      "example": "The philosopher postulated that knowledge is power.",
+      "chinese": {
+        "meaning": "假設，提出",
+        "example": "哲學家假設知識就是力量。"
+      }
+    },
+    {
+      "word": "Pound",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To hit something repeatedly and forcefully",
+      "example": "He pounded the door with his fists.",
+      "chinese": {
+        "meaning": "猛擊",
+        "example": "他用拳頭猛擊門。"
+      }
+    },
+    {
+      "word": "Pour",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To cause a liquid to flow from a container",
+      "example": "She poured the tea into the cups.",
+      "chinese": {
+        "meaning": "倒，傾注",
+        "example": "她把茶倒進杯子裡。"
+      }
+    },
+    {
+      "word": "Pout",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To push out the lips in annoyance or sulkiness",
+      "example": "The child pouted after being scolded.",
+      "chinese": {
+        "meaning": "撅嘴，生悶氣",
+        "example": "孩子被責備後撅起了嘴。"
+      }
+    },
+    {
+      "word": "Powder",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To apply powder to a surface, especially the skin",
+      "example": "She powdered her nose.",
+      "chinese": {
+        "meaning": "撲粉",
+        "example": "她給鼻子撲了粉。"
+      }
+    },
+    {
+      "word": "Power",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To supply with energy or force",
+      "example": "Solar panels power the entire building.",
+      "chinese": {
+        "meaning": "提供動力",
+        "example": "太陽能板為整棟建築供電。"
       }
     },
     {
@@ -287,6 +1761,105 @@
       }
     },
     {
+      "word": "Praise",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To express approval or admiration",
+      "example": "They praised her for her hard work.",
+      "chinese": {
+        "meaning": "讚美，表揚",
+        "example": "他們讚美她的辛勤工作。"
+      }
+    },
+    {
+      "word": "Prance",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To move with high, springy steps; to act proudly",
+      "example": "The horse pranced around the field.",
+      "chinese": {
+        "meaning": "騰躍，得意地行走",
+        "example": "那匹馬在田間騰躍。"
+      }
+    },
+    {
+      "word": "Prank",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To play a mischievous trick",
+      "example": "They pranked their friend on his birthday.",
+      "chinese": {
+        "meaning": "惡作劇",
+        "example": "他們在朋友生日那天捉弄了他。"
+      }
+    },
+    {
+      "word": "Prate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To talk foolishly or at tedious length",
+      "example": "He prated on about his achievements.",
+      "chinese": {
+        "meaning": "喋喋不休",
+        "example": "他喋喋不休地講述自己的成就。"
+      }
+    },
+    {
+      "word": "Pray",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To speak to a deity, especially to ask for help",
+      "example": "They prayed for good weather.",
+      "chinese": {
+        "meaning": "祈禱",
+        "example": "他們祈禱天氣良好。"
+      }
+    },
+    {
+      "word": "Preach",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To deliver a sermon or moral advice",
+      "example": "The pastor preached to the congregation.",
+      "chinese": {
+        "meaning": "講道，宣揚",
+        "example": "牧師向會眾講道。"
+      }
+    },
+    {
+      "word": "Prearrange",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To arrange something in advance",
+      "example": "They prearranged the seating for the event.",
+      "chinese": {
+        "meaning": "事先安排",
+        "example": "他們事先安排了活動的座位。"
+      }
+    },
+    {
+      "word": "Precede",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To come before something in time or order",
+      "example": "A brief introduction preceded the lecture.",
+      "chinese": {
+        "meaning": "在…之前",
+        "example": "演講之前有簡短的介紹。"
+      }
+    },
+    {
+      "word": "Precipitate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To cause something to happen suddenly",
+      "example": "The announcement precipitated a crisis.",
+      "chinese": {
+        "meaning": "促成，導致",
+        "example": "這個宣佈引發了一場危機。"
+      }
+    },
+    {
       "word": "Preclude",
       "type": "verb",
       "letter": "P",
@@ -295,6 +1868,17 @@
       "chinese": {
         "meaning": "排除、阻止",
         "example": "他的傷勢使他無法從事運動員生涯。"
+      }
+    },
+    {
+      "word": "Predate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To occur or exist before a particular date or event",
+      "example": "These artifacts predate the Roman Empire.",
+      "chinese": {
+        "meaning": "早於，先於",
+        "example": "這些文物早於羅馬帝國。"
       }
     },
     {
@@ -309,6 +1893,50 @@
       }
     },
     {
+      "word": "Predispose",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make someone more likely to experience something",
+      "example": "Genetics can predispose people to certain diseases.",
+      "chinese": {
+        "meaning": "使易於，使傾向於",
+        "example": "基因可能使人更容易患某些疾病。"
+      }
+    },
+    {
+      "word": "Predominate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To be the strongest or main element",
+      "example": "Large companies predominate in the industry.",
+      "chinese": {
+        "meaning": "佔主導地位",
+        "example": "大公司在這個行業中佔主導地位。"
+      }
+    },
+    {
+      "word": "Preexist",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To exist before something else",
+      "example": "This tradition preexisted the founding of the country.",
+      "chinese": {
+        "meaning": "先於存在",
+        "example": "這個傳統早於國家的建立而存在。"
+      }
+    },
+    {
+      "word": "Preface",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To introduce or begin something with a preface or remark",
+      "example": "She prefaced her talk with a joke.",
+      "chinese": {
+        "meaning": "作為開場白",
+        "example": "她用一個笑話作為開場白。"
+      }
+    },
+    {
       "word": "Prefer",
       "type": "verb",
       "letter": "P",
@@ -320,6 +1948,28 @@
       }
     },
     {
+      "word": "Prefigure",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To foreshadow or predict something",
+      "example": "The story prefigures future events.",
+      "chinese": {
+        "meaning": "預示",
+        "example": "這個故事預示了未來的事件。"
+      }
+    },
+    {
+      "word": "Prefix",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To add a prefix to a word",
+      "example": "They prefixed 'un-' to change the meaning.",
+      "chinese": {
+        "meaning": "加前綴",
+        "example": "他們加上 'un-' 改變了詞的意思。"
+      }
+    },
+    {
       "word": "Prepare",
       "type": "verb",
       "letter": "P",
@@ -328,6 +1978,28 @@
       "chinese": {
         "meaning": "準備",
         "example": "她為會議準備了一個報告。"
+      }
+    },
+    {
+      "word": "Prepay",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To pay for something in advance",
+      "example": "They prepaid for the hotel room.",
+      "chinese": {
+        "meaning": "預付",
+        "example": "他們預付了旅館房費。"
+      }
+    },
+    {
+      "word": "Presage",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To be a sign or warning of something that will happen",
+      "example": "Dark clouds presage a storm.",
+      "chinese": {
+        "meaning": "預示",
+        "example": "烏雲預示著暴風雨。"
       }
     },
     {
@@ -375,6 +2047,72 @@
       }
     },
     {
+      "word": "Preside",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To be in charge of a meeting, event, or organization",
+      "example": "She will preside over the conference.",
+      "chinese": {
+        "meaning": "主持，掌管",
+        "example": "她將主持這次會議。"
+      }
+    },
+    {
+      "word": "Press",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To push something firmly; to urge or demand",
+      "example": "He pressed the button to start the machine.",
+      "chinese": {
+        "meaning": "按，壓；催促",
+        "example": "他按下按鈕啟動機器。"
+      }
+    },
+    {
+      "word": "Pressure",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To try to make someone do something by using influence or threats",
+      "example": "The group pressured the government to change the law.",
+      "chinese": {
+        "meaning": "施壓",
+        "example": "這個團體向政府施壓以改變法律。"
+      }
+    },
+    {
+      "word": "Pressurize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To apply pressure; to attempt to persuade someone forcefully",
+      "example": "They pressurized him into signing the contract.",
+      "chinese": {
+        "meaning": "加壓；施加壓力",
+        "example": "他們施壓迫使他簽合同。"
+      }
+    },
+    {
+      "word": "Presume",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To suppose something is true without proof",
+      "example": "I presume he will arrive on time.",
+      "chinese": {
+        "meaning": "假定，推測",
+        "example": "我推測他會準時到達。"
+      }
+    },
+    {
+      "word": "Presuppose",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To assume something is true before there is evidence",
+      "example": "The plan presupposes that all members will attend.",
+      "chinese": {
+        "meaning": "預設，假定",
+        "example": "這個計劃預設所有成員都會參加。"
+      }
+    },
+    {
       "word": "Pretend",
       "type": "verb",
       "letter": "P",
@@ -383,6 +2121,28 @@
       "chinese": {
         "meaning": "假裝",
         "example": "孩子們假裝成為海盜。"
+      }
+    },
+    {
+      "word": "Prevail",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To win or be successful; to exist widely",
+      "example": "Justice will prevail in the end.",
+      "chinese": {
+        "meaning": "戰勝；盛行",
+        "example": "正義最終會戰勝。"
+      }
+    },
+    {
+      "word": "Prevaricate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To avoid telling the truth by being vague or misleading",
+      "example": "He seemed to prevaricate when asked about the incident.",
+      "chinese": {
+        "meaning": "支吾其詞",
+        "example": "當被問及事件時，他似乎支吾其詞。"
       }
     },
     {
@@ -397,6 +2157,72 @@
       }
     },
     {
+      "word": "Preview",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To see or show something before it is made available to the public",
+      "example": "We previewed the film before its release.",
+      "chinese": {
+        "meaning": "預覽，試映",
+        "example": "我們在影片上映前試映了它。"
+      }
+    },
+    {
+      "word": "Prey",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To hunt or take advantage of someone or something",
+      "example": "Lions prey on smaller animals.",
+      "chinese": {
+        "meaning": "捕食，利用弱者",
+        "example": "獅子捕食較小的動物。"
+      }
+    },
+    {
+      "word": "Prick",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To pierce or puncture slightly",
+      "example": "She pricked her finger with a needle.",
+      "chinese": {
+        "meaning": "刺，扎",
+        "example": "她被針刺到了手指。"
+      }
+    },
+    {
+      "word": "Prickle",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To feel a tingling or stinging sensation",
+      "example": "Her skin prickled with fear.",
+      "chinese": {
+        "meaning": "刺痛，感覺刺刺的",
+        "example": "她因恐懼而覺得皮膚刺刺的。"
+      }
+    },
+    {
+      "word": "Prime",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To prepare someone or something for a task or situation",
+      "example": "He was primed for the big interview.",
+      "chinese": {
+        "meaning": "準備",
+        "example": "他為重要的面試做好了準備。"
+      }
+    },
+    {
+      "word": "Primp",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To spend time making small adjustments to one's appearance",
+      "example": "She primped in front of the mirror.",
+      "chinese": {
+        "meaning": "細心打扮",
+        "example": "她在鏡子前細心打扮。"
+      }
+    },
+    {
       "word": "Print",
       "type": "verb",
       "letter": "P",
@@ -405,6 +2231,39 @@
       "chinese": {
         "meaning": "列印",
         "example": "她為會議列印了文件。"
+      }
+    },
+    {
+      "word": "Prioritize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To arrange tasks in order of importance",
+      "example": "You must prioritize your assignments.",
+      "chinese": {
+        "meaning": "優先處理",
+        "example": "你必須優先處理你的作業。"
+      }
+    },
+    {
+      "word": "Prize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To value something highly",
+      "example": "She prized her independence.",
+      "chinese": {
+        "meaning": "重視，珍視",
+        "example": "她很珍視她的獨立。"
+      }
+    },
+    {
+      "word": "Probe",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To investigate or explore something thoroughly",
+      "example": "The detective probed into the case.",
+      "chinese": {
+        "meaning": "調查，探查",
+        "example": "偵探深入調查了案件。"
       }
     },
     {
@@ -419,6 +2278,50 @@
       }
     },
     {
+      "word": "Proclaim",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To announce something publicly and officially",
+      "example": "The president proclaimed a national holiday.",
+      "chinese": {
+        "meaning": "宣告，宣布",
+        "example": "總統宣布了一個國定假日。"
+      }
+    },
+    {
+      "word": "Procreate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To produce offspring; to reproduce",
+      "example": "Many animals procreate in the spring.",
+      "chinese": {
+        "meaning": "繁殖",
+        "example": "許多動物在春天繁殖。"
+      }
+    },
+    {
+      "word": "Procure",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To obtain something with effort",
+      "example": "They managed to procure enough supplies.",
+      "chinese": {
+        "meaning": "獲得，取得",
+        "example": "他們設法獲得了足夠的物資。"
+      }
+    },
+    {
+      "word": "Prod",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To poke someone or something; to urge someone to act",
+      "example": "She prodded him to finish the report.",
+      "chinese": {
+        "meaning": "戳；督促",
+        "example": "她督促他完成報告。"
+      }
+    },
+    {
       "word": "Produce",
       "type": "verb",
       "letter": "P",
@@ -430,6 +2333,61 @@
       }
     },
     {
+      "word": "Profess",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To claim or declare openly",
+      "example": "He professed his love for her.",
+      "chinese": {
+        "meaning": "公開宣稱",
+        "example": "他公開宣稱他愛她。"
+      }
+    },
+    {
+      "word": "Proffer",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To offer something to someone",
+      "example": "She proffered her hand in greeting.",
+      "chinese": {
+        "meaning": "提供，遞出",
+        "example": "她伸出手打招呼。"
+      }
+    },
+    {
+      "word": "Profile",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To describe or present the main features of something",
+      "example": "The magazine profiled the new CEO.",
+      "chinese": {
+        "meaning": "介紹，描述",
+        "example": "雜誌介紹了新任執行長。"
+      }
+    },
+    {
+      "word": "Profit",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To gain an advantage or benefit",
+      "example": "We profited from the new business strategy.",
+      "chinese": {
+        "meaning": "獲益",
+        "example": "我們從新的商業策略中獲益。"
+      }
+    },
+    {
+      "word": "Program",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To write code for a computer; to set instructions",
+      "example": "He programmed the computer to run the task.",
+      "chinese": {
+        "meaning": "編程，設定",
+        "example": "他為電腦編程以執行任務。"
+      }
+    },
+    {
       "word": "Progress",
       "type": "verb",
       "letter": "P",
@@ -438,6 +2396,61 @@
       "chinese": {
         "meaning": "進展",
         "example": "該項目進展順利。"
+      }
+    },
+    {
+      "word": "Prohibit",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To formally forbid something",
+      "example": "The law prohibits smoking in restaurants.",
+      "chinese": {
+        "meaning": "禁止",
+        "example": "法律禁止在餐廳內吸煙。"
+      }
+    },
+    {
+      "word": "Project",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To plan or estimate; to extend outward",
+      "example": "They projected sales for next year.",
+      "chinese": {
+        "meaning": "預測，計劃；伸出",
+        "example": "他們預測了明年的銷售。"
+      }
+    },
+    {
+      "word": "Proliferate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To increase rapidly in numbers",
+      "example": "The use of smartphones has proliferated.",
+      "chinese": {
+        "meaning": "激增，迅速擴散",
+        "example": "智慧型手機的使用迅速增加。"
+      }
+    },
+    {
+      "word": "Prolong",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To extend the duration of something",
+      "example": "They tried to prolong his life with treatment.",
+      "chinese": {
+        "meaning": "延長",
+        "example": "他們試圖用治療延長他的生命。"
+      }
+    },
+    {
+      "word": "Promenade",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To walk for pleasure or display",
+      "example": "Couples promenaded along the beach.",
+      "chinese": {
+        "meaning": "散步，遊行",
+        "example": "情侶們沿著海灘散步。"
       }
     },
     {
@@ -463,6 +2476,28 @@
       }
     },
     {
+      "word": "Prompt",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To cause someone to act or do something",
+      "example": "The unexpected question prompted her to think quickly.",
+      "chinese": {
+        "meaning": "促使，激勵",
+        "example": "那個出乎意料的問題促使她快速思考。"
+      }
+    },
+    {
+      "word": "Promulgate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make a law or decree officially known",
+      "example": "The government promulgated a new tax law.",
+      "chinese": {
+        "meaning": "頒布，宣佈",
+        "example": "政府頒布了一項新的稅法。"
+      }
+    },
+    {
       "word": "Proofread",
       "type": "verb",
       "letter": "P",
@@ -471,6 +2506,39 @@
       "chinese": {
         "meaning": "校對",
         "example": "他在提交前校對了文章。"
+      }
+    },
+    {
+      "word": "Prop",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To support something physically or figuratively",
+      "example": "He propped the ladder against the wall.",
+      "chinese": {
+        "meaning": "支撐，支持",
+        "example": "他把梯子靠在牆上支撐著。"
+      }
+    },
+    {
+      "word": "Propagate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To spread ideas or reproduce plants or organisms",
+      "example": "The organization propagates its values through social media.",
+      "chinese": {
+        "meaning": "傳播，繁殖",
+        "example": "該組織透過社交媒體傳播其價值觀。"
+      }
+    },
+    {
+      "word": "Propel",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To push or drive something forward",
+      "example": "The engine propels the car at high speeds.",
+      "chinese": {
+        "meaning": "推動，推進",
+        "example": "引擎以高速推動汽車。"
       }
     },
     {
@@ -485,6 +2553,94 @@
       }
     },
     {
+      "word": "Propound",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To put forward an idea or theory for consideration",
+      "example": "He propounded a new hypothesis on climate change.",
+      "chinese": {
+        "meaning": "提出（理論或看法）",
+        "example": "他提出了一個關於氣候變化的新假設。"
+      }
+    },
+    {
+      "word": "Prorogue",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To discontinue a session of parliament without dissolving it",
+      "example": "The prime minister decided to prorogue parliament.",
+      "chinese": {
+        "meaning": "休會，延期",
+        "example": "首相決定讓議會休會。"
+      }
+    },
+    {
+      "word": "Proscribe",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To forbid or ban something officially",
+      "example": "The organization was proscribed by the government.",
+      "chinese": {
+        "meaning": "禁止",
+        "example": "該組織被政府禁止。"
+      }
+    },
+    {
+      "word": "Prosecute",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To take legal action against someone for a crime",
+      "example": "The company was prosecuted for pollution.",
+      "chinese": {
+        "meaning": "起訴，檢控",
+        "example": "該公司因污染被起訴。"
+      }
+    },
+    {
+      "word": "Prospect",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To search for mineral deposits",
+      "example": "They prospected for gold in the mountains.",
+      "chinese": {
+        "meaning": "勘探",
+        "example": "他們在山裡勘探黃金。"
+      }
+    },
+    {
+      "word": "Prosper",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To succeed or thrive, especially financially",
+      "example": "The business prospered under new management.",
+      "chinese": {
+        "meaning": "繁榮，成功",
+        "example": "該公司在新管理下繁榮發展。"
+      }
+    },
+    {
+      "word": "Prostitute",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To misuse one's talents for unworthy purposes",
+      "example": "He prostituted his art for money.",
+      "chinese": {
+        "meaning": "濫用才能",
+        "example": "他為了金錢濫用自己的藝術才能。"
+      }
+    },
+    {
+      "word": "Prostrate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To lay oneself flat on the ground; to weaken completely",
+      "example": "She was prostrated by grief.",
+      "chinese": {
+        "meaning": "俯伏，壓垮",
+        "example": "她因悲傷而倒下。"
+      }
+    },
+    {
       "word": "Protect",
       "type": "verb",
       "letter": "P",
@@ -493,6 +2649,28 @@
       "chinese": {
         "meaning": "保護",
         "example": "法律保護瀕危物種。"
+      }
+    },
+    {
+      "word": "Protest",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To express strong opposition or disapproval",
+      "example": "Citizens protested against the new law.",
+      "chinese": {
+        "meaning": "抗議",
+        "example": "市民抗議新法律。"
+      }
+    },
+    {
+      "word": "Protrude",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To stick out from a surface",
+      "example": "A branch protruded through the fence.",
+      "chinese": {
+        "meaning": "突出",
+        "example": "一根樹枝從圍欄中伸出來。"
       }
     },
     {
@@ -518,6 +2696,39 @@
       }
     },
     {
+      "word": "Provoke",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To cause a reaction, especially anger",
+      "example": "His comments provoked an angry response.",
+      "chinese": {
+        "meaning": "激怒，挑釁",
+        "example": "他的評論引起了憤怒的回應。"
+      }
+    },
+    {
+      "word": "Prowl",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To move quietly and secretly in search of prey or something to steal",
+      "example": "The cat prowled through the garden.",
+      "chinese": {
+        "meaning": "潛行，覓食",
+        "example": "那隻貓在花園裡悄悄潛行。"
+      }
+    },
+    {
+      "word": "Publicize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make information widely known",
+      "example": "The charity publicized the event through social media.",
+      "chinese": {
+        "meaning": "宣傳，公佈",
+        "example": "慈善機構透過社交媒體宣傳這次活動。"
+      }
+    },
+    {
       "word": "Publish",
       "type": "verb",
       "letter": "P",
@@ -526,6 +2737,28 @@
       "chinese": {
         "meaning": "出版",
         "example": "作者出版了一本新小說。"
+      }
+    },
+    {
+      "word": "Pucker",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To gather into wrinkles or small folds",
+      "example": "She puckered her lips before kissing.",
+      "chinese": {
+        "meaning": "皺起，收攏",
+        "example": "她在親吻前噘起嘴唇。"
+      }
+    },
+    {
+      "word": "Puff",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To blow air or smoke out of the mouth",
+      "example": "He puffed on his cigar.",
+      "chinese": {
+        "meaning": "吹氣，抽煙",
+        "example": "他吸著雪茄吐出煙霧。"
       }
     },
     {
@@ -540,6 +2773,61 @@
       }
     },
     {
+      "word": "Pulverize",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To crush something into a fine powder or dust",
+      "example": "The machine pulverized the rocks into dust.",
+      "chinese": {
+        "meaning": "粉碎，壓碎",
+        "example": "機器將石頭粉碎成塵土。"
+      }
+    },
+    {
+      "word": "Pump",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To force liquid or gas to move using a pump",
+      "example": "They pumped water from the well.",
+      "chinese": {
+        "meaning": "抽水，打氣",
+        "example": "他們從井裡抽水。"
+      }
+    },
+    {
+      "word": "Punch",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To hit something with a closed fist",
+      "example": "He punched the bag repeatedly.",
+      "chinese": {
+        "meaning": "用拳打",
+        "example": "他反覆擊打沙袋。"
+      }
+    },
+    {
+      "word": "Punctuate",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To mark text with punctuation; to interrupt at intervals",
+      "example": "His speech was punctuated with applause.",
+      "chinese": {
+        "meaning": "加標點，打斷",
+        "example": "他的演講不時響起掌聲。"
+      }
+    },
+    {
+      "word": "Puncture",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To make a hole in something",
+      "example": "He punctured the tire with a nail.",
+      "chinese": {
+        "meaning": "刺穿，戳破",
+        "example": "他用釘子刺破了輪胎。"
+      }
+    },
+    {
       "word": "Punish",
       "type": "verb",
       "letter": "P",
@@ -551,6 +2839,17 @@
       }
     },
     {
+      "word": "Punt",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To kick a ball after dropping it; to travel in a flat-bottomed boat",
+      "example": "He punted the football down the field.",
+      "chinese": {
+        "meaning": "踢（球），撐篙",
+        "example": "他將橄欖球踢向場地另一端。"
+      }
+    },
+    {
       "word": "Purchase",
       "type": "verb",
       "letter": "P",
@@ -559,6 +2858,50 @@
       "chinese": {
         "meaning": "購買",
         "example": "他們為實驗室購買了新設備。"
+      }
+    },
+    {
+      "word": "Purge",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To remove undesirable people or things from an organization or place",
+      "example": "The new leader purged corrupt officials.",
+      "chinese": {
+        "meaning": "清除，肅清",
+        "example": "新領導人清除了貪污官員。"
+      }
+    },
+    {
+      "word": "Purify",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To remove impurities from something",
+      "example": "The filter purifies the water.",
+      "chinese": {
+        "meaning": "淨化",
+        "example": "過濾器淨化水質。"
+      }
+    },
+    {
+      "word": "Purloin",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To steal something",
+      "example": "He purloined a rare manuscript from the library.",
+      "chinese": {
+        "meaning": "偷竊",
+        "example": "他從圖書館偷走了一份珍貴的手稿。"
+      }
+    },
+    {
+      "word": "Purport",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To claim to be or do something, often falsely",
+      "example": "The letter purports to be from the president.",
+      "chinese": {
+        "meaning": "聲稱，標榜",
+        "example": "這封信聲稱來自總統。"
       }
     },
     {
@@ -592,6 +2935,28 @@
       "chinese": {
         "meaning": "放置",
         "example": "她把書放在架子上。"
+      }
+    },
+    {
+      "word": "Putrefy",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To decay and produce a foul smell",
+      "example": "The meat began to putrefy in the heat.",
+      "chinese": {
+        "meaning": "腐爛",
+        "example": "肉在高溫下開始腐爛。"
+      }
+    },
+    {
+      "word": "Puzzle",
+      "type": "verb",
+      "letter": "P",
+      "meaning": "To confuse or perplex someone",
+      "example": "Her strange behavior puzzled everyone.",
+      "chinese": {
+        "meaning": "使困惑",
+        "example": "她奇怪的行為使大家感到困惑。"
       }
     }
   ]

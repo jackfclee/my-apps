@@ -1,6 +1,17 @@
 {
   "words": [
     {
+      "word": "Umpire",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To act as a referee in a game or dispute",
+      "example": "He umpired the baseball game fairly.",
+      "chinese": {
+        "meaning": "擔任裁判",
+        "example": "他公平地擔任了棒球比賽的裁判。"
+      }
+    },
+    {
       "word": "Unbalance",
       "type": "verb",
       "letter": "U",
@@ -9,6 +20,17 @@
       "chinese": {
         "meaning": "使失去平衡",
         "example": "突然的動作可能會使結構失去平衡。"
+      }
+    },
+    {
+      "word": "Unbar",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove a bar or obstruction from something",
+      "example": "She unbarred the door and stepped outside.",
+      "chinese": {
+        "meaning": "打開（門閂）",
+        "example": "她打開了門閂走了出去。"
       }
     },
     {
@@ -23,6 +45,17 @@
       }
     },
     {
+      "word": "Unbind",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To release from a binding or tie",
+      "example": "The nurse unbound the bandage from his arm.",
+      "chinese": {
+        "meaning": "解開、鬆綁",
+        "example": "護士解開了他手臂上的繃帶。"
+      }
+    },
+    {
       "word": "Unblock",
       "type": "verb",
       "letter": "U",
@@ -34,6 +67,193 @@
       }
     },
     {
+      "word": "Unbolt",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove or loosen a bolt",
+      "example": "He unbolted the gate and entered the garden.",
+      "chinese": {
+        "meaning": "拔開螺栓、開鎖",
+        "example": "他拔開門閂進入了花園。"
+      }
+    },
+    {
+      "word": "Unbosom",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To disclose one's thoughts or secrets",
+      "example": "She unbosomed herself to her best friend.",
+      "chinese": {
+        "meaning": "傾訴",
+        "example": "她向最好的朋友傾訴了心事。"
+      }
+    },
+    {
+      "word": "Unbox",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove from a box or packaging",
+      "example": "He unboxed his new smartphone immediately.",
+      "chinese": {
+        "meaning": "開箱",
+        "example": "他立刻開箱了新買的手機。"
+      }
+    },
+    {
+      "word": "Unbraid",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To undo a braid or plait",
+      "example": "She unbraided her hair before going to bed.",
+      "chinese": {
+        "meaning": "解開辮子",
+        "example": "她睡覺前解開了辮子。"
+      }
+    },
+    {
+      "word": "Unbridle",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove the bridle from a horse or to release control",
+      "example": "They unbridled the horse after the ride.",
+      "chinese": {
+        "meaning": "鬆開馬韁、放縱",
+        "example": "他們騎完後鬆開了馬的韁繩。"
+      }
+    },
+    {
+      "word": "Unburden",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To relieve someone of a load or worry",
+      "example": "He unburdened his worries by talking to a friend.",
+      "chinese": {
+        "meaning": "減輕負擔、傾訴",
+        "example": "他向朋友傾訴以減輕心中的煩惱。"
+      }
+    },
+    {
+      "word": "Unbutton",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To open the buttons of clothing",
+      "example": "She unbuttoned her coat when she got home.",
+      "chinese": {
+        "meaning": "解開鈕扣",
+        "example": "她回家後解開了外套的鈕扣。"
+      }
+    },
+    {
+      "word": "Uncap",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove the cap or lid from something",
+      "example": "He uncapped the pen and began writing.",
+      "chinese": {
+        "meaning": "打開（瓶蓋、筆蓋）",
+        "example": "他打開筆蓋開始寫字。"
+      }
+    },
+    {
+      "word": "Unchain",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove a chain or release from restrictions",
+      "example": "The farmer unchained the dog.",
+      "chinese": {
+        "meaning": "解開鎖鏈",
+        "example": "農夫解開了狗的鎖鏈。"
+      }
+    },
+    {
+      "word": "Uncharge",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove an electrical or metaphorical charge",
+      "example": "They uncharged the battery for safety reasons.",
+      "chinese": {
+        "meaning": "放電、解除指控（少見）",
+        "example": "他們為了安全將電池放電。"
+      }
+    },
+    {
+      "word": "Unclasp",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To open the clasp or fastening of something",
+      "example": "She unclasped her necklace.",
+      "chinese": {
+        "meaning": "解開扣環",
+        "example": "她解開了項鍊的扣環。"
+      }
+    },
+    {
+      "word": "Unclench",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To release something held tightly",
+      "example": "He finally unclenched his fists.",
+      "chinese": {
+        "meaning": "鬆開緊握的手",
+        "example": "他終於鬆開了緊握的拳頭。"
+      }
+    },
+    {
+      "word": "Unclip",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove from a clip or clasp",
+      "example": "She unclipped the papers from the folder.",
+      "chinese": {
+        "meaning": "取下夾子",
+        "example": "她把文件從夾子裡取出來。"
+      }
+    },
+    {
+      "word": "Uncloak",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove a cloak or to reveal something hidden",
+      "example": "The magician uncloaked his final trick.",
+      "chinese": {
+        "meaning": "脫下斗篷、揭露",
+        "example": "魔術師揭示了最後的戲法。"
+      }
+    },
+    {
+      "word": "Unclog",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To clear an obstruction from something",
+      "example": "He unclogged the sink using a plunger.",
+      "chinese": {
+        "meaning": "疏通",
+        "example": "他用吸盤疏通了水槽。"
+      }
+    },
+    {
+      "word": "Unclose",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To open or reveal",
+      "example": "She unclosed the ancient manuscript.",
+      "chinese": {
+        "meaning": "打開、揭開（古用法）",
+        "example": "她打開了古老的手稿。"
+      }
+    },
+    {
+      "word": "Uncoil",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To unwind from a coiled position",
+      "example": "The snake uncoiled and slithered away.",
+      "chinese": {
+        "meaning": "展開、解開纏繞",
+        "example": "蛇伸展開身子滑走了。"
+      }
+    },
+    {
       "word": "Uncover",
       "type": "verb",
       "letter": "U",
@@ -42,6 +262,28 @@
       "chinese": {
         "meaning": "揭示",
         "example": "調查揭示了重要的證據。"
+      }
+    },
+    {
+      "word": "Uncross",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To move so that arms, legs, or objects are no longer crossed",
+      "example": "She uncrossed her legs and stood up.",
+      "chinese": {
+        "meaning": "放開交叉",
+        "example": "她放開交叉的雙腿站了起來。"
+      }
+    },
+    {
+      "word": "Uncurl",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To straighten out from a curled position",
+      "example": "The cat slowly uncurled from its nap.",
+      "chinese": {
+        "meaning": "伸展、放鬆",
+        "example": "貓咪慢慢地從蜷縮狀態伸展出來。"
       }
     },
     {
@@ -67,6 +309,17 @@
       }
     },
     {
+      "word": "Underdevelop",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To fail to develop fully",
+      "example": "The country was underdeveloped due to lack of investment.",
+      "chinese": {
+        "meaning": "未充分發展",
+        "example": "由於缺乏投資，這個國家未能充分發展。"
+      }
+    },
+    {
       "word": "Underestimate",
       "type": "verb",
       "letter": "U",
@@ -75,6 +328,17 @@
       "chinese": {
         "meaning": "低估",
         "example": "不要低估考試的難度。"
+      }
+    },
+    {
+      "word": "Underexpose",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To expose insufficiently to light (especially in photography)",
+      "example": "He underexposed the photo, making it too dark.",
+      "chinese": {
+        "meaning": "曝光不足",
+        "example": "他拍攝的照片曝光不足，顯得過暗。"
       }
     },
     {
@@ -133,6 +397,39 @@
       }
     },
     {
+      "word": "Underrate",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To underestimate the value or ability of something or someone",
+      "example": "Don't underrate her skills; she's very capable.",
+      "chinese": {
+        "meaning": "低估",
+        "example": "不要低估她的能力；她非常有才華。"
+      }
+    },
+    {
+      "word": "Underscore",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To emphasize or highlight",
+      "example": "The findings underscore the importance of education.",
+      "chinese": {
+        "meaning": "強調",
+        "example": "這些發現強調了教育的重要性。"
+      }
+    },
+    {
+      "word": "Underseal",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To apply a protective coating (usually to the underside of a vehicle)",
+      "example": "They undersealed the car to prevent rust.",
+      "chinese": {
+        "meaning": "底部塗防護層",
+        "example": "他們給汽車底部塗上防護層以防生鏽。"
+      }
+    },
+    {
       "word": "Undersell",
       "type": "verb",
       "letter": "U",
@@ -155,6 +452,28 @@
       }
     },
     {
+      "word": "Understate",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To express something with less force or importance than it deserves",
+      "example": "He understated the severity of the problem.",
+      "chinese": {
+        "meaning": "輕描淡寫",
+        "example": "他對問題的嚴重性輕描淡寫。"
+      }
+    },
+    {
+      "word": "Understudy",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To learn another actor's part in a play to be ready to replace them",
+      "example": "She is understudying the lead role in the play.",
+      "chinese": {
+        "meaning": "擔任替補（演員）",
+        "example": "她正在擔任這部劇主角的替補演員。"
+      }
+    },
+    {
       "word": "Undertake",
       "type": "verb",
       "letter": "U",
@@ -174,6 +493,28 @@
       "chinese": {
         "meaning": "帶有…的意味",
         "example": "他話中帶有警告的意味。"
+      }
+    },
+    {
+      "word": "Undervalue",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To assign too low a value or importance to something",
+      "example": "We must not undervalue the contributions of volunteers.",
+      "chinese": {
+        "meaning": "低估價值",
+        "example": "我們不能低估志願者的貢獻。"
+      }
+    },
+    {
+      "word": "Underwhelm",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To fail to impress or excite",
+      "example": "The movie underwhelmed the critics.",
+      "chinese": {
+        "meaning": "未能給人深刻印象",
+        "example": "這部電影未能給評論家留下深刻印象。"
       }
     },
     {
@@ -210,6 +551,39 @@
       }
     },
     {
+      "word": "Undulate",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To move with a smooth, wavelike motion",
+      "example": "The fields undulated in the wind.",
+      "chinese": {
+        "meaning": "起伏、波動",
+        "example": "田野隨風起伏。"
+      }
+    },
+    {
+      "word": "Unearth",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To discover something hidden or forgotten",
+      "example": "They unearthed ancient artifacts at the site.",
+      "chinese": {
+        "meaning": "發掘",
+        "example": "他們在該地點發掘了古代文物。"
+      }
+    },
+    {
+      "word": "Unembarrass",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To free someone from embarrassment or difficulties",
+      "example": "He was unembarrassed by the tough questions.",
+      "chinese": {
+        "meaning": "使不困窘",
+        "example": "他面對尖銳的問題也毫不困窘。"
+      }
+    },
+    {
       "word": "Unfasten",
       "type": "verb",
       "letter": "U",
@@ -218,6 +592,28 @@
       "chinese": {
         "meaning": "解開",
         "example": "請解開安全帶。"
+      }
+    },
+    {
+      "word": "Unfetter",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To release from restraints or restrictions",
+      "example": "The reforms unfettered the economy.",
+      "chinese": {
+        "meaning": "解放、解除束縛",
+        "example": "改革解放了經濟。"
+      }
+    },
+    {
+      "word": "Unfill",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove what was filling something",
+      "example": "He unfilled the container to reuse it.",
+      "chinese": {
+        "meaning": "清空、倒出",
+        "example": "他清空容器以便重新使用。"
       }
     },
     {
@@ -243,6 +639,138 @@
       }
     },
     {
+      "word": "Unfrock",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove a priest from his office",
+      "example": "The bishop was unfrocked for misconduct.",
+      "chinese": {
+        "meaning": "解除神職",
+        "example": "這位主教因行為不端被解除神職。"
+      }
+    },
+    {
+      "word": "Unfurl",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To spread out or open something that was rolled or folded",
+      "example": "They unfurled the flag at the ceremony.",
+      "chinese": {
+        "meaning": "展開（旗幟等）",
+        "example": "他們在儀式上展開了旗幟。"
+      }
+    },
+    {
+      "word": "Ungird",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove a belt or strap; to loosen",
+      "example": "He ungirded his sword after the battle.",
+      "chinese": {
+        "meaning": "解開束帶",
+        "example": "戰鬥結束後，他解開了劍帶。"
+      }
+    },
+    {
+      "word": "Unglue",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To detach something that was glued",
+      "example": "He unglued the labels from the bottles.",
+      "chinese": {
+        "meaning": "撕掉膠合物",
+        "example": "他撕掉了瓶子上的標籤。"
+      }
+    },
+    {
+      "word": "Ungovern",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To free from control or restraint",
+      "example": "His emotions were ungoverned during the argument.",
+      "chinese": {
+        "meaning": "失去控制",
+        "example": "爭論中他的情緒失控了。"
+      }
+    },
+    {
+      "word": "Unhand",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To release from one's grasp",
+      "example": "The guard was ordered to unhand the prisoner.",
+      "chinese": {
+        "meaning": "放開、鬆手",
+        "example": "警衛被命令放開囚犯。"
+      }
+    },
+    {
+      "word": "Unharness",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove a harness from an animal or equipment",
+      "example": "They unharnessed the horses after the ride.",
+      "chinese": {
+        "meaning": "卸下馬具",
+        "example": "他們騎行結束後卸下了馬具。"
+      }
+    },
+    {
+      "word": "Unhinge",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove from its hinges or to mentally disturb someone",
+      "example": "The tragedy seemed to unhinge him completely.",
+      "chinese": {
+        "meaning": "使失去理智、拆下鉸鏈",
+        "example": "這場悲劇似乎使他完全失去理智。"
+      }
+    },
+    {
+      "word": "Unhitch",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To detach from a harness or connection",
+      "example": "He unhitched the trailer from the car.",
+      "chinese": {
+        "meaning": "解開（拖車或連接物）",
+        "example": "他把拖車從汽車上解開。"
+      }
+    },
+    {
+      "word": "Unhood",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove a hood or cover",
+      "example": "They unhooded the hawk before the hunt.",
+      "chinese": {
+        "meaning": "摘下兜帽或罩子",
+        "example": "打獵前他們摘下了鷹的頭罩。"
+      }
+    },
+    {
+      "word": "Unhook",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To detach something that is fastened by a hook",
+      "example": "She unhooked the necklace and placed it in the box.",
+      "chinese": {
+        "meaning": "解開掛鉤",
+        "example": "她解開項鍊並把它放進盒子裡。"
+      }
+    },
+    {
+      "word": "Unhorse",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To knock or cause someone to fall off a horse",
+      "example": "The knight was unhorsed during the tournament.",
+      "chinese": {
+        "meaning": "把某人從馬上打落",
+        "example": "比武中這名騎士被打落馬下。"
+      }
+    },
+    {
       "word": "Unify",
       "type": "verb",
       "letter": "U",
@@ -251,6 +779,17 @@
       "chinese": {
         "meaning": "統一",
         "example": "改革旨在統一全國標準。"
+      }
+    },
+    {
+      "word": "Unionize",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To organize workers into a labor union",
+      "example": "The employees voted to unionize the company.",
+      "chinese": {
+        "meaning": "使工會化",
+        "example": "員工投票決定成立工會。"
       }
     },
     {
@@ -265,6 +804,72 @@
       }
     },
     {
+      "word": "Unjoint",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To separate at the joints",
+      "example": "The butcher unjointed the carcass.",
+      "chinese": {
+        "meaning": "拆開關節、分割",
+        "example": "屠夫把屍體分割開來。"
+      }
+    },
+    {
+      "word": "Unkennel",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To drive from a hiding place; to open a kennel",
+      "example": "The hounds unkenneled the fox.",
+      "chinese": {
+        "meaning": "趕出藏身處",
+        "example": "獵犬把狐狸從藏身處趕了出來。"
+      }
+    },
+    {
+      "word": "Unknit",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To undo knitting or to relax something tightly bound",
+      "example": "She unknitted the scarf to reuse the yarn.",
+      "chinese": {
+        "meaning": "拆開針織品",
+        "example": "她把圍巾拆開以便重新使用毛線。"
+      }
+    },
+    {
+      "word": "Unlace",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To loosen or remove laces from clothing or shoes",
+      "example": "He unlaced his boots after a long day.",
+      "chinese": {
+        "meaning": "解開鞋帶或束帶",
+        "example": "忙碌了一天後他解開了靴子的鞋帶。"
+      }
+    },
+    {
+      "word": "Unlash",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To release something tied or fastened",
+      "example": "They unlashed the cargo before unloading.",
+      "chinese": {
+        "meaning": "鬆開綁繩",
+        "example": "卸貨前他們鬆開了貨物的綁繩。"
+      }
+    },
+    {
+      "word": "Unlearn",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To discard previously acquired knowledge or habits",
+      "example": "We had to unlearn old habits to adapt to the new system.",
+      "chinese": {
+        "meaning": "忘卻、摒棄",
+        "example": "我們必須摒棄舊習慣以適應新系統。"
+      }
+    },
+    {
       "word": "Unleash",
       "type": "verb",
       "letter": "U",
@@ -273,6 +878,17 @@
       "chinese": {
         "meaning": "釋放",
         "example": "這場演講引發了一波抗議。"
+      }
+    },
+    {
+      "word": "Unload",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove cargo or contents from a container or vehicle",
+      "example": "They unloaded the truck quickly.",
+      "chinese": {
+        "meaning": "卸貨",
+        "example": "他們很快卸下了卡車上的貨物。"
       }
     },
     {
@@ -287,6 +903,28 @@
       }
     },
     {
+      "word": "Unloose",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To release or untie",
+      "example": "He unloosed the rope holding the gate.",
+      "chinese": {
+        "meaning": "鬆開、解開",
+        "example": "他鬆開了固定大門的繩索。"
+      }
+    },
+    {
+      "word": "Unmake",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To undo or destroy the making of something",
+      "example": "One mistake could unmake all their efforts.",
+      "chinese": {
+        "meaning": "毀掉、破壞",
+        "example": "一個錯誤可能會毀掉他們所有的努力。"
+      }
+    },
+    {
       "word": "Unmask",
       "type": "verb",
       "letter": "U",
@@ -298,6 +936,28 @@
       }
     },
     {
+      "word": "Unmoor",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To release a boat from its moorings",
+      "example": "They unmoored the ship at dawn.",
+      "chinese": {
+        "meaning": "解開繫船繩索",
+        "example": "他們在黎明時解開了船的繫繩。"
+      }
+    },
+    {
+      "word": "Unmuzzle",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove a muzzle from an animal",
+      "example": "He unmuzzled the dog after training.",
+      "chinese": {
+        "meaning": "摘下口套",
+        "example": "訓練結束後他摘下了狗的口套。"
+      }
+    },
+    {
       "word": "Unpack",
       "type": "verb",
       "letter": "U",
@@ -306,6 +966,39 @@
       "chinese": {
         "meaning": "拆包；解釋",
         "example": "她到達後拆開了行李箱。"
+      }
+    },
+    {
+      "word": "Unpeg",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove a peg or fixing",
+      "example": "She unpegged the clothes from the line.",
+      "chinese": {
+        "meaning": "取下夾子",
+        "example": "她把晾衣繩上的衣服夾子取了下來。"
+      }
+    },
+    {
+      "word": "Unpick",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To undo stitching in sewing",
+      "example": "She unpicked the seam carefully.",
+      "chinese": {
+        "meaning": "拆線",
+        "example": "她小心地拆開了接縫。"
+      }
+    },
+    {
+      "word": "Unpin",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove a pin from something",
+      "example": "She unpinned the note from the bulletin board.",
+      "chinese": {
+        "meaning": "拔掉別針",
+        "example": "她把公告欄上的紙條別針取下來。"
       }
     },
     {
@@ -331,6 +1024,72 @@
       }
     },
     {
+      "word": "Unreel",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To unwind from a reel",
+      "example": "He unreels the fishing line slowly.",
+      "chinese": {
+        "meaning": "從捲軸上放出",
+        "example": "他慢慢地放出魚線。"
+      }
+    },
+    {
+      "word": "Unroll",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To open or spread out from a rolled position",
+      "example": "They unrolled the carpet in the living room.",
+      "chinese": {
+        "meaning": "展開",
+        "example": "他們在客廳展開地毯。"
+      }
+    },
+    {
+      "word": "Unsaddle",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove the saddle from a horse",
+      "example": "He unsaddled the horse after the ride.",
+      "chinese": {
+        "meaning": "卸下馬鞍",
+        "example": "騎行結束後他卸下了馬鞍。"
+      }
+    },
+    {
+      "word": "Unscrew",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To loosen or remove by turning",
+      "example": "She unscrewed the lid of the jar.",
+      "chinese": {
+        "meaning": "旋開",
+        "example": "她把瓶子的蓋子旋開。"
+      }
+    },
+    {
+      "word": "Unseal",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To break the seal of something",
+      "example": "The detective unsealed the evidence bag.",
+      "chinese": {
+        "meaning": "打開封印",
+        "example": "偵探打開了證物袋的封印。"
+      }
+    },
+    {
+      "word": "Unseat",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove someone from a seat or position",
+      "example": "The rider was unseated by the horse's sudden move.",
+      "chinese": {
+        "meaning": "使落馬、罷免",
+        "example": "騎手被馬的突然動作摔下來。"
+      }
+    },
+    {
       "word": "Unsettle",
       "type": "verb",
       "letter": "U",
@@ -342,6 +1101,83 @@
       }
     },
     {
+      "word": "Unshackle",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To release from shackles or restraints",
+      "example": "The prisoner was unshackled before the trial.",
+      "chinese": {
+        "meaning": "解開鎖鏈",
+        "example": "囚犯在審判前被解開了鎖鏈。"
+      }
+    },
+    {
+      "word": "Unsheathe",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To draw a sword or knife from its sheath",
+      "example": "He unsheathed his sword and prepared for battle.",
+      "chinese": {
+        "meaning": "拔出（刀劍）",
+        "example": "他拔出寶劍準備戰鬥。"
+      }
+    },
+    {
+      "word": "Unship",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove from a ship or vehicle",
+      "example": "The crew unshipped the cargo quickly.",
+      "chinese": {
+        "meaning": "卸貨",
+        "example": "船員迅速卸下了貨物。"
+      }
+    },
+    {
+      "word": "Unshoe",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove the shoes or horseshoes",
+      "example": "They unshod the horse for medical treatment.",
+      "chinese": {
+        "meaning": "脫下鞋或馬蹄鐵",
+        "example": "他們為了治療把馬的馬蹄鐵拆掉。"
+      }
+    },
+    {
+      "word": "Unstick",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To cause something to become unstuck",
+      "example": "She managed to unstick the pages that were glued together.",
+      "chinese": {
+        "meaning": "使脫落、分開",
+        "example": "她設法把黏在一起的頁面分開。"
+      }
+    },
+    {
+      "word": "Unstop",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To unblock or remove a stopper",
+      "example": "He unstopped the clogged drain.",
+      "chinese": {
+        "meaning": "疏通、打開",
+        "example": "他疏通了堵塞的排水口。"
+      }
+    },
+    {
+      "word": "Unstring",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove strings or to unsettle emotionally",
+      "example": "The news unstrung him completely.",
+      "chinese": {
+        "meaning": "拆下弦、使心神不安",
+        "example": "這個消息使他完全失去了鎮定。"
+      }
+    },
+    {
       "word": "Unsubscribe",
       "type": "verb",
       "letter": "U",
@@ -350,6 +1186,94 @@
       "chinese": {
         "meaning": "取消訂閱",
         "example": "您可以隨時取消訂閱電子報。"
+      }
+    },
+    {
+      "word": "Unswaddle",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To unwrap or release from swaddling clothes",
+      "example": "She unswaddled the baby gently.",
+      "chinese": {
+        "meaning": "解開襁褓",
+        "example": "她輕輕地解開了嬰兒的襁褓。"
+      }
+    },
+    {
+      "word": "Untangle",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To free something from knots or complications",
+      "example": "He untangled the cords before packing them.",
+      "chinese": {
+        "meaning": "解開纏繞",
+        "example": "他在打包前解開了纏在一起的電線。"
+      }
+    },
+    {
+      "word": "Unteach",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To cause someone to forget or abandon learned behavior",
+      "example": "The program aims to unteach harmful stereotypes.",
+      "chinese": {
+        "meaning": "使忘卻、摒棄（錯誤觀念）",
+        "example": "該計劃旨在讓人們摒棄有害的刻板印象。"
+      }
+    },
+    {
+      "word": "Unthink",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To deliberately disregard or forget",
+      "example": "She tried to unthink the painful memory.",
+      "chinese": {
+        "meaning": "刻意忘記",
+        "example": "她試著忘記那段痛苦的記憶。"
+      }
+    },
+    {
+      "word": "Untie",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To undo a knot or fastening",
+      "example": "He untied the ropes around the box.",
+      "chinese": {
+        "meaning": "解開（繩結）",
+        "example": "他解開了箱子周圍的繩子。"
+      }
+    },
+    {
+      "word": "Untrim",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove decorations or trimmings",
+      "example": "They untrimmed the Christmas tree after the holiday.",
+      "chinese": {
+        "meaning": "拆下裝飾",
+        "example": "假期結束後他們拆掉了聖誕樹上的裝飾。"
+      }
+    },
+    {
+      "word": "Untruss",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To release from a tied or bound state",
+      "example": "The rescue team untrussed the captive.",
+      "chinese": {
+        "meaning": "鬆綁",
+        "example": "救援隊鬆開了被綁者的繩子。"
+      }
+    },
+    {
+      "word": "Untwist",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To undo twisted parts",
+      "example": "She untwisted the wires before reconnecting them.",
+      "chinese": {
+        "meaning": "解開扭結",
+        "example": "她在重新連接前先解開了電線。"
       }
     },
     {
@@ -375,6 +1299,17 @@
       }
     },
     {
+      "word": "Unwrap",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To remove wrapping from something",
+      "example": "The child unwrapped the gift excitedly.",
+      "chinese": {
+        "meaning": "打開包裝",
+        "example": "孩子興奮地拆開禮物包裝。"
+      }
+    },
+    {
       "word": "Unzip",
       "type": "verb",
       "letter": "U",
@@ -383,6 +1318,28 @@
       "chinese": {
         "meaning": "拉開拉鍊",
         "example": "他拉開了夾克的拉鍊。"
+      }
+    },
+    {
+      "word": "Upbraid",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To scold or criticize severely",
+      "example": "The teacher upbraided the students for being late.",
+      "chinese": {
+        "meaning": "嚴厲斥責",
+        "example": "老師嚴厲斥責了遲到的學生。"
+      }
+    },
+    {
+      "word": "Upcycle",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To reuse materials to create a product of higher value",
+      "example": "They upcycled old wood into stylish furniture.",
+      "chinese": {
+        "meaning": "升級回收",
+        "example": "他們把舊木頭升級回收成時尚的家具。"
       }
     },
     {
@@ -427,6 +1384,17 @@
       "chinese": {
         "meaning": "維護；支持",
         "example": "法官必須維護正義。"
+      }
+    },
+    {
+      "word": "Upholster",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To cover furniture with fabric or padding",
+      "example": "She upholstered the old chair with new leather.",
+      "chinese": {
+        "meaning": "裝潢、鋪設軟墊",
+        "example": "她用新皮革給舊椅子裝了軟墊。"
       }
     },
     {
@@ -540,6 +1508,17 @@
       }
     },
     {
+      "word": "Urinate",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To discharge urine from the body",
+      "example": "The doctor asked if he could urinate normally.",
+      "chinese": {
+        "meaning": "小便",
+        "example": "醫生問他是否能正常小便。"
+      }
+    },
+    {
       "word": "Use",
       "type": "verb",
       "letter": "U",
@@ -562,6 +1541,17 @@
       }
     },
     {
+      "word": "Usurp",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To take someone's power or position by force",
+      "example": "He usurped the throne after the king's death.",
+      "chinese": {
+        "meaning": "篡奪",
+        "example": "國王去世後他篡奪了王位。"
+      }
+    },
+    {
       "word": "Utilise",
       "type": "verb",
       "letter": "U",
@@ -570,6 +1560,17 @@
       "chinese": {
         "meaning": "利用",
         "example": "該報告利用了多個來源的數據。"
+      }
+    },
+    {
+      "word": "Utilize",
+      "type": "verb",
+      "letter": "U",
+      "meaning": "To make practical use of something",
+      "example": "We must utilize all available resources.",
+      "chinese": {
+        "meaning": "利用",
+        "example": "我們必須利用所有可用資源。"
       }
     },
     {
