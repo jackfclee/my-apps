@@ -49,6 +49,7 @@ grep -Fxv -f <(jq -r '.words[].word' data-verb-G.json) wordlist-G.txt > wordlist
 
 ```bash
 for letter in {A..Z}; do grep -Fxv -f <(jq -r '.words[].word' "data-verb-${letter}.json") "wordlist-${letter}.txt" > "wordlist-${letter}-filtered.txt"; done
+for letter in {A..Z}; do grep -Fxv -f <(jq -r '.words[].word' "data-adjective-${letter}.json") "wordlist-${letter}.txt" > "wordlist-${letter}-filtered.txt"; done
 ```
 
 ### Sort and Deduplicate the Array in JSON

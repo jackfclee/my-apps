@@ -12,6 +12,17 @@
       }
     },
     {
+      "word": "Yankee",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Pertaining to or characteristic of the United States or its inhabitants, especially those of New England. Often used by non-Americans to refer to any American.",
+      "example": "He had a distinctly Yankee accent.",
+      "chinese": {
+        "meaning": "美國的；新英格蘭的",
+        "example": "他有著明顯的美國口音。"
+      }
+    },
+    {
       "word": "Yare",
       "type": "adjective",
       "letter": "Y",
@@ -507,6 +518,17 @@
       }
     },
     {
+      "word": "Yogic",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Relating to or characteristic of Yoga or a yogi (a practitioner of Yoga).",
+      "example": "She maintained a calm demeanor through her yogic breathing exercises.",
+      "chinese": {
+        "meaning": "瑜伽的；瑜伽行者的",
+        "example": "她通過瑜伽呼吸練習保持鎮定。"
+      }
+    },
+    {
       "word": "Yokeless",
       "type": "adjective",
       "letter": "Y",
@@ -548,6 +570,28 @@
       "chinese": {
         "meaning": "年輕的，年幼的",
         "example": "年輕的學生渴望學習。"
+      }
+    },
+    {
+      "word": "Younger",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Of more tender age; less old than another.",
+      "example": "My younger brother is starting high school this year.",
+      "chinese": {
+        "meaning": "較年輕的",
+        "example": "我的弟弟今年開始上高中。"
+      }
+    },
+    {
+      "word": "Youngest",
+      "type": "adjective",
+      "letter": "Y",
+      "meaning": "Of the least age.",
+      "example": "She is the youngest member of the team.",
+      "chinese": {
+        "meaning": "最年輕的",
+        "example": "她是團隊中最年輕的成員。"
       }
     },
     {

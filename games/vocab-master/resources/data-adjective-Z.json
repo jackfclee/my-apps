@@ -155,6 +155,28 @@
       }
     },
     {
+      "word": "Zingy",
+      "type": "adjective",
+      "letter": "Z",
+      "meaning": "Having a pleasantly sharp, tangy, or piquant flavor or quality; lively and exciting.",
+      "example": "The lemonade had a wonderfully zingy taste.",
+      "chinese": {
+        "meaning": "有刺激性的；活潑的",
+        "example": "這檸檬水有著極佳的刺激性味道。"
+      }
+    },
+    {
+      "word": "Zionist",
+      "type": "adjective",
+      "letter": "Z",
+      "meaning": "Relating to or supporting Zionism, a movement for the re-establishment and development and protection of a Jewish nation in what is now Israel.",
+      "example": "She discussed the historical context of Zionist aspirations.",
+      "chinese": {
+        "meaning": "猶太復國主義的",
+        "example": "她討論了猶太復國主義願望的歷史背景。"
+      }
+    },
+    {
       "word": "Zippy",
       "type": "adjective",
       "letter": "Z",
@@ -163,6 +185,17 @@
       "chinese": {
         "meaning": "活潑的；輕快的",
         "example": "她穿著輕快的服裝參加派對。"
+      }
+    },
+    {
+      "word": "Zodiacal",
+      "type": "adjective",
+      "letter": "Z",
+      "meaning": "Of or relating to the zodiac.",
+      "example": "Ancient cultures often studied zodiacal constellations for astrological purposes.",
+      "chinese": {
+        "meaning": "十二宮的；黃道帶的",
+        "example": "古代文化常研究黃道帶星座以作占星之用。"
       }
     },
     {
