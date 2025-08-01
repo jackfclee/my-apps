@@ -623,6 +623,116 @@
       }
     },
     {
+      "word": "Scottish",
+      "type": "adjective",
+      "meaning": "Relating to Scotland or its people",
+      "example": "She loves Scottish traditions.",
+      "chinese": {
+        "meaning": "蘇格蘭的",
+        "example": "她喜歡蘇格蘭的傳統。"
+      }
+    },
+    {
+      "word": "Scrappy",
+      "type": "adjective",
+      "meaning": "Determined, argumentative, or untidy",
+      "example": "He is a scrappy young fighter.",
+      "chinese": {
+        "meaning": "好鬥的；凌亂的",
+        "example": "他是一個好鬥的年輕拳手。"
+      }
+    },
+    {
+      "word": "Scrawny",
+      "type": "adjective",
+      "meaning": "Unattractively thin and bony",
+      "example": "The scrawny cat was searching for food.",
+      "chinese": {
+        "meaning": "瘦骨嶙峋的",
+        "example": "那隻瘦骨嶙峋的貓在找食物。"
+      }
+    },
+    {
+      "word": "Screaming",
+      "type": "adjective",
+      "meaning": "Making a loud high-pitched sound",
+      "example": "The screaming crowd filled the stadium.",
+      "chinese": {
+        "meaning": "尖叫的",
+        "example": "尖叫的人群擠滿了體育場。"
+      }
+    },
+    {
+      "word": "Scripted",
+      "type": "adjective",
+      "meaning": "Written or prearranged",
+      "example": "The show felt overly scripted.",
+      "chinese": {
+        "meaning": "事先編好的",
+        "example": "這個節目顯得過於事先編排。"
+      }
+    },
+    {
+      "word": "Sculpted",
+      "type": "adjective",
+      "meaning": "Shaped or molded with precision",
+      "example": "He has a sculpted physique.",
+      "chinese": {
+        "meaning": "雕刻般的；精心塑造的",
+        "example": "他有著雕刻般的身材。"
+      }
+    },
+    {
+      "word": "Sculptural",
+      "type": "adjective",
+      "meaning": "Relating to or resembling sculpture",
+      "example": "The building has sculptural details.",
+      "chinese": {
+        "meaning": "雕塑的",
+        "example": "這座建築有雕塑般的細節。"
+      }
+    },
+    {
+      "word": "Sealed",
+      "type": "adjective",
+      "meaning": "Closed tightly or securely",
+      "example": "The letter was sealed with wax.",
+      "chinese": {
+        "meaning": "密封的",
+        "example": "信件被蠟封住了。"
+      }
+    },
+    {
+      "word": "Seamless",
+      "type": "adjective",
+      "meaning": "Smooth and without interruptions or gaps",
+      "example": "They achieved a seamless integration of services.",
+      "chinese": {
+        "meaning": "無縫的",
+        "example": "他們實現了服務的無縫整合。"
+      }
+    },
+    {
+      "word": "Seasonal",
+      "type": "adjective",
+      "meaning": "Occurring at a particular season",
+      "example": "Seasonal fruits are fresh and tasty.",
+      "chinese": {
+        "meaning": "季節性的",
+        "example": "當季的水果新鮮又美味。"
+      }
+    },
+    {
+      "word": "Secluded",
+      "type": "adjective",
+      "meaning": "Not seen or visited by many people",
+      "example": "They stayed at a secluded beach.",
+      "chinese": {
+        "meaning": "僻靜的",
+        "example": "他們住在一個僻靜的海灘。"
+      }
+    },
+    {
       "word": "Seclusive",
       "type": "adjective",
       "letter": "S",
@@ -634,6 +744,336 @@
       }
     },
     {
+      "word": "Second",
+      "type": "adjective",
+      "meaning": "Coming after the first in order",
+      "example": "She finished in second place.",
+      "chinese": {
+        "meaning": "第二的",
+        "example": "她獲得了第二名。"
+      }
+    },
+    {
+      "word": "Second-hand",
+      "type": "adjective",
+      "meaning": "Owned or used by someone else before",
+      "example": "She bought a second-hand car.",
+      "chinese": {
+        "meaning": "二手的",
+        "example": "她買了一輛二手車。"
+      }
+    },
+    {
+      "word": "Secondary",
+      "type": "adjective",
+      "meaning": "Less important than primary; coming after",
+      "example": "He played a secondary role in the movie.",
+      "chinese": {
+        "meaning": "次要的；中等教育的",
+        "example": "他在電影中扮演了次要角色。"
+      }
+    },
+    {
+      "word": "Secret",
+      "type": "adjective",
+      "meaning": "Not known or seen by others",
+      "example": "They met in a secret location.",
+      "chinese": {
+        "meaning": "秘密的",
+        "example": "他們在一個秘密的地點會面。"
+      }
+    },
+    {
+      "word": "Secretarial",
+      "type": "adjective",
+      "meaning": "Relating to a secretary",
+      "example": "She performed secretarial duties.",
+      "chinese": {
+        "meaning": "秘書的",
+        "example": "她履行了秘書的職責。"
+      }
+    },
+    {
+      "word": "Secretive",
+      "type": "adjective",
+      "meaning": "Inclined to conceal feelings or information",
+      "example": "He was secretive about his plans.",
+      "chinese": {
+        "meaning": "守口如瓶的",
+        "example": "他對自己的計劃守口如瓶。"
+      }
+    },
+    {
+      "word": "Sectional",
+      "type": "adjective",
+      "meaning": "Divided into sections or parts",
+      "example": "The sofa was sectional for easy transport.",
+      "chinese": {
+        "meaning": "分段的",
+        "example": "沙發是分段式的，方便搬運。"
+      }
+    },
+    {
+      "word": "Secular",
+      "type": "adjective",
+      "meaning": "Not connected with religion",
+      "example": "He prefers secular music over sacred hymns.",
+      "chinese": {
+        "meaning": "世俗的；非宗教的",
+        "example": "他更喜歡世俗音樂而不是聖歌。"
+      }
+    },
+    {
+      "word": "Secure",
+      "type": "adjective",
+      "meaning": "Safe and protected",
+      "example": "The house was secure from intruders.",
+      "chinese": {
+        "meaning": "安全的",
+        "example": "這房子防範入侵者很安全。"
+      }
+    },
+    {
+      "word": "Sedate",
+      "type": "adjective",
+      "meaning": "Calm, dignified, and unhurried",
+      "example": "The sedate atmosphere helped her relax.",
+      "chinese": {
+        "meaning": "安靜的；沉著的",
+        "example": "平靜的氛圍讓她放鬆下來。"
+      }
+    },
+    {
+      "word": "Sedated",
+      "type": "adjective",
+      "meaning": "Made calm with sedatives",
+      "example": "The patient was sedated before surgery.",
+      "chinese": {
+        "meaning": "被鎮靜的",
+        "example": "病人在手術前被鎮靜了。"
+      }
+    },
+    {
+      "word": "Sedentary",
+      "type": "adjective",
+      "meaning": "Involving little physical activity",
+      "example": "Office work is often sedentary.",
+      "chinese": {
+        "meaning": "久坐的",
+        "example": "辦公室工作通常是久坐的。"
+      }
+    },
+    {
+      "word": "Seditious",
+      "type": "adjective",
+      "meaning": "Inciting rebellion against authority",
+      "example": "He was arrested for seditious activities.",
+      "chinese": {
+        "meaning": "煽動性的",
+        "example": "他因煽動活動被捕。"
+      }
+    },
+    {
+      "word": "Seductive",
+      "type": "adjective",
+      "meaning": "Tempting and attractive",
+      "example": "The offer was seductive but risky.",
+      "chinese": {
+        "meaning": "誘惑的",
+        "example": "這個提議很有誘惑力但有風險。"
+      }
+    },
+    {
+      "word": "Segmented",
+      "type": "adjective",
+      "meaning": "Divided into separate parts",
+      "example": "The market was segmented by age group.",
+      "chinese": {
+        "meaning": "分段的",
+        "example": "市場按年齡組劃分。"
+      }
+    },
+    {
+      "word": "Segregated",
+      "type": "adjective",
+      "meaning": "Separated or isolated from others",
+      "example": "The schools were segregated by law.",
+      "chinese": {
+        "meaning": "隔離的；分開的",
+        "example": "學校依法被隔離。"
+      }
+    },
+    {
+      "word": "Select",
+      "type": "adjective",
+      "meaning": "Carefully chosen as the best",
+      "example": "They live in a select neighborhood.",
+      "chinese": {
+        "meaning": "精選的",
+        "example": "他們住在一個高檔的社區。"
+      }
+    },
+    {
+      "word": "Selected",
+      "type": "adjective",
+      "meaning": "Chosen from a group",
+      "example": "He was selected for the team.",
+      "chinese": {
+        "meaning": "被選中的",
+        "example": "他被選入了隊伍。"
+      }
+    },
+    {
+      "word": "Selective",
+      "type": "adjective",
+      "meaning": "Carefully choosing from options",
+      "example": "She is very selective about her friends.",
+      "chinese": {
+        "meaning": "有選擇性的",
+        "example": "她對朋友非常挑剔。"
+      }
+    },
+    {
+      "word": "Self-addressed",
+      "type": "adjective",
+      "meaning": "Addressed to oneself",
+      "example": "Please enclose a self-addressed envelope.",
+      "chinese": {
+        "meaning": "寫有自己地址的",
+        "example": "請附上一個寫有自己地址的信封。"
+      }
+    },
+    {
+      "word": "Self-appointed",
+      "type": "adjective",
+      "meaning": "Assuming a position without authority",
+      "example": "He acted as a self-appointed spokesman.",
+      "chinese": {
+        "meaning": "自封的",
+        "example": "他充當了自封的發言人。"
+      }
+    },
+    {
+      "word": "Self-aware",
+      "type": "adjective",
+      "meaning": "Having conscious knowledge of one's character",
+      "example": "She is self-aware and knows her strengths.",
+      "chinese": {
+        "meaning": "有自知之明的",
+        "example": "她有自知之明並知道自己的優勢。"
+      }
+    },
+    {
+      "word": "Self-centered",
+      "type": "adjective",
+      "meaning": "Preoccupied with oneself",
+      "example": "He is too self-centered to care for others.",
+      "chinese": {
+        "meaning": "自私自利的",
+        "example": "他太以自我為中心而不關心別人。"
+      }
+    },
+    {
+      "word": "Self-confident",
+      "type": "adjective",
+      "meaning": "Having confidence in oneself",
+      "example": "She is a self-confident leader.",
+      "chinese": {
+        "meaning": "自信的",
+        "example": "她是一位自信的領袖。"
+      }
+    },
+    {
+      "word": "Self-conscious",
+      "type": "adjective",
+      "meaning": "Uncomfortably aware of oneself",
+      "example": "He felt self-conscious about his accent.",
+      "chinese": {
+        "meaning": "局促不安的",
+        "example": "他對自己的口音感到局促不安。"
+      }
+    },
+    {
+      "word": "Self-contained",
+      "type": "adjective",
+      "meaning": "Independent and complete",
+      "example": "The flat is self-contained with its own kitchen.",
+      "chinese": {
+        "meaning": "自給自足的",
+        "example": "這間公寓自給自足，有自己的廚房。"
+      }
+    },
+    {
+      "word": "Self-deprecating",
+      "type": "adjective",
+      "meaning": "Modest about or critical of oneself",
+      "example": "He made a self-deprecating joke.",
+      "chinese": {
+        "meaning": "自嘲的",
+        "example": "他開了一個自嘲的玩笑。"
+      }
+    },
+    {
+      "word": "Self-destructive",
+      "type": "adjective",
+      "meaning": "Harmful or damaging to oneself",
+      "example": "His self-destructive habits worried his friends.",
+      "chinese": {
+        "meaning": "自我毀滅的",
+        "example": "他的自我毀滅習慣讓朋友們擔心。"
+      }
+    },
+    {
+      "word": "Self-effacing",
+      "type": "adjective",
+      "meaning": "Not drawing attention to oneself",
+      "example": "She was shy and self-effacing.",
+      "chinese": {
+        "meaning": "謙遜的",
+        "example": "她既害羞又謙遜。"
+      }
+    },
+    {
+      "word": "Self-evident",
+      "type": "adjective",
+      "meaning": "Clear or obvious without needing proof or explanation",
+      "example": "The truth was self-evident.",
+      "chinese": {
+        "meaning": "不證自明的",
+        "example": "這個真理是不證自明的。"
+      }
+    },
+    {
+      "word": "Self-explanatory",
+      "type": "adjective",
+      "meaning": "Easily understood without further explanation",
+      "example": "The instructions are self-explanatory.",
+      "chinese": {
+        "meaning": "不言自明的",
+        "example": "這些說明是不言自明的。"
+      }
+    },
+    {
+      "word": "Self-indulgent",
+      "type": "adjective",
+      "meaning": "Allowing oneself to enjoy pleasures without control",
+      "example": "He lived a self-indulgent lifestyle.",
+      "chinese": {
+        "meaning": "放縱的",
+        "example": "他過著放縱的生活。"
+      }
+    },
+    {
+      "word": "Self-reliant",
+      "type": "adjective",
+      "meaning": "Able to do things independently without help",
+      "example": "She is very self-reliant.",
+      "chinese": {
+        "meaning": "自力更生的",
+        "example": "她非常自力更生。"
+      }
+    },
+    {
       "word": "Selfish",
       "type": "adjective",
       "letter": "S",
@@ -642,6 +1082,26 @@
       "chinese": {
         "meaning": "自私的",
         "example": "他把所有功勞都歸自己，這很自私。"
+      }
+    },
+    {
+      "word": "Sensational",
+      "type": "adjective",
+      "meaning": "Causing great excitement or interest",
+      "example": "The movie was a sensational hit.",
+      "chinese": {
+        "meaning": "轟動的",
+        "example": "這部電影引起了轟動。"
+      }
+    },
+    {
+      "word": "Senseless",
+      "type": "adjective",
+      "meaning": "Without meaning, purpose, or reason",
+      "example": "The attack was senseless and brutal.",
+      "chinese": {
+        "meaning": "無意義的",
+        "example": "這次襲擊是無意義且殘忍的。"
       }
     },
     {
@@ -667,6 +1127,76 @@
       }
     },
     {
+      "word": "Sensory",
+      "type": "adjective",
+      "meaning": "Relating to the senses",
+      "example": "The room offered a rich sensory experience.",
+      "chinese": {
+        "meaning": "感官的",
+        "example": "這個房間提供了豐富的感官體驗。"
+      }
+    },
+    {
+      "word": "Sensual",
+      "type": "adjective",
+      "meaning": "Arousing physical pleasure",
+      "example": "The music had a sensual rhythm.",
+      "chinese": {
+        "meaning": "感官享受的",
+        "example": "這音樂有一種感官享受的節奏。"
+      }
+    },
+    {
+      "word": "Sentient",
+      "type": "adjective",
+      "meaning": "Able to perceive or feel things",
+      "example": "Humans are sentient beings.",
+      "chinese": {
+        "meaning": "有感覺的",
+        "example": "人類是有感覺的生物。"
+      }
+    },
+    {
+      "word": "Sentimental",
+      "type": "adjective",
+      "meaning": "Showing or influenced by emotions rather than reason",
+      "example": "She kept the letter for sentimental reasons.",
+      "chinese": {
+        "meaning": "感情用事的",
+        "example": "她因為感情上的原因保留了那封信。"
+      }
+    },
+    {
+      "word": "Separate",
+      "type": "adjective",
+      "meaning": "Forming or viewed as a unit apart or by itself",
+      "example": "They slept in separate rooms.",
+      "chinese": {
+        "meaning": "分開的",
+        "example": "他們睡在不同的房間裡。"
+      }
+    },
+    {
+      "word": "Separated",
+      "type": "adjective",
+      "meaning": "Divided or moved apart",
+      "example": "They have been separated for a year.",
+      "chinese": {
+        "meaning": "分離的",
+        "example": "他們已經分居一年了。"
+      }
+    },
+    {
+      "word": "Septic",
+      "type": "adjective",
+      "meaning": "Infected with bacteria",
+      "example": "The wound became septic.",
+      "chinese": {
+        "meaning": "感染的",
+        "example": "傷口感染了細菌。"
+      }
+    },
+    {
       "word": "Serene",
       "type": "adjective",
       "letter": "S",
@@ -675,6 +1205,16 @@
       "chinese": {
         "meaning": "寧靜的；安詳的",
         "example": "湖面在夕陽下顯得非常寧靜。"
+      }
+    },
+    {
+      "word": "Serial",
+      "type": "adjective",
+      "meaning": "Consisting of, forming part of, or taking place in a series",
+      "example": "He was a serial offender.",
+      "chinese": {
+        "meaning": "連續的",
+        "example": "他是一名連續犯罪者。"
       }
     },
     {
@@ -689,6 +1229,126 @@
       }
     },
     {
+      "word": "Serpentine",
+      "type": "adjective",
+      "meaning": "Winding and twisting like a snake",
+      "example": "The serpentine road led up the mountain.",
+      "chinese": {
+        "meaning": "蜿蜒的",
+        "example": "那條蜿蜒的道路通向山頂。"
+      }
+    },
+    {
+      "word": "Serviceable",
+      "type": "adjective",
+      "meaning": "Fit for use; usable",
+      "example": "The tools were old but still serviceable.",
+      "chinese": {
+        "meaning": "可用的",
+        "example": "這些工具很舊但還能用。"
+      }
+    },
+    {
+      "word": "Set",
+      "type": "adjective",
+      "meaning": "Fixed or arranged in advance",
+      "example": "We have a set schedule.",
+      "chinese": {
+        "meaning": "固定的",
+        "example": "我們有一個固定的時間表。"
+      }
+    },
+    {
+      "word": "Seven",
+      "type": "adjective",
+      "meaning": "Equivalent to the number 7",
+      "example": "She bought seven apples.",
+      "chinese": {
+        "meaning": "七的",
+        "example": "她買了七個蘋果。"
+      }
+    },
+    {
+      "word": "Seventeenth",
+      "type": "adjective",
+      "meaning": "Coming after the sixteenth in order",
+      "example": "Today is the seventeenth of June.",
+      "chinese": {
+        "meaning": "第十七的",
+        "example": "今天是六月十七號。"
+      }
+    },
+    {
+      "word": "Seventh",
+      "type": "adjective",
+      "meaning": "Coming after the sixth in order",
+      "example": "He came in seventh place.",
+      "chinese": {
+        "meaning": "第七的",
+        "example": "他獲得第七名。"
+      }
+    },
+    {
+      "word": "Seventy",
+      "type": "adjective",
+      "meaning": "Equivalent to the number 70",
+      "example": "She celebrated her seventy birthday.",
+      "chinese": {
+        "meaning": "七十的",
+        "example": "她慶祝了七十歲生日。"
+      }
+    },
+    {
+      "word": "Severe",
+      "type": "adjective",
+      "meaning": "Very great; intense",
+      "example": "The storm was severe.",
+      "chinese": {
+        "meaning": "嚴重的",
+        "example": "這場暴風雨非常嚴重。"
+      }
+    },
+    {
+      "word": "Sewn",
+      "type": "adjective",
+      "meaning": "Joined or fastened with stitches",
+      "example": "The patches were sewn on the jeans.",
+      "chinese": {
+        "meaning": "縫製的",
+        "example": "補丁被縫在牛仔褲上。"
+      }
+    },
+    {
+      "word": "Sexist",
+      "type": "adjective",
+      "meaning": "Prejudiced based on gender",
+      "example": "His comment was clearly sexist.",
+      "chinese": {
+        "meaning": "性別歧視的",
+        "example": "他的評論明顯有性別歧視。"
+      }
+    },
+    {
+      "word": "Sexual",
+      "type": "adjective",
+      "meaning": "Relating to the male or female sex",
+      "example": "The movie had sexual themes.",
+      "chinese": {
+        "meaning": "性的",
+        "example": "這部電影有性相關的主題。"
+      }
+    },
+    {
+      "word": "Sexy",
+      "type": "adjective",
+      "meaning": "Sexually attractive or exciting",
+      "example": "She wore a sexy dress.",
+      "chinese": {
+        "meaning": "性感的",
+        "example": "她穿了一件性感的裙子。"
+      }
+    },
+    {
       "word": "Shabby",
       "type": "adjective",
       "letter": "S",
@@ -697,6 +1357,66 @@
       "chinese": {
         "meaning": "破舊的；寒酸的",
         "example": "他穿著一件破舊的大衣。"
+      }
+    },
+    {
+      "word": "Shaded",
+      "type": "adjective",
+      "meaning": "Protected from direct sunlight",
+      "example": "We sat in a shaded area of the park.",
+      "chinese": {
+        "meaning": "有陰影的",
+        "example": "我們坐在公園裡有陰影的地方。"
+      }
+    },
+    {
+      "word": "Shadowy",
+      "type": "adjective",
+      "meaning": "Dark or full of shadows",
+      "example": "A shadowy figure appeared in the alley.",
+      "chinese": {
+        "meaning": "陰暗的",
+        "example": "一個陰暗的身影出現在小巷裡。"
+      }
+    },
+    {
+      "word": "Shady",
+      "type": "adjective",
+      "meaning": "Providing shade; suspicious",
+      "example": "We sat under a shady tree.",
+      "chinese": {
+        "meaning": "有樹蔭的；可疑的",
+        "example": "我們坐在一棵有樹蔭的樹下。"
+      }
+    },
+    {
+      "word": "Shaggy",
+      "type": "adjective",
+      "meaning": "Covered with long, thick, or untidy hair",
+      "example": "The dog had a shaggy coat.",
+      "chinese": {
+        "meaning": "毛髮濃密的",
+        "example": "那隻狗的毛髮很濃密。"
+      }
+    },
+    {
+      "word": "Shaken",
+      "type": "adjective",
+      "meaning": "Disturbed or shocked",
+      "example": "He was visibly shaken after the accident.",
+      "chinese": {
+        "meaning": "震驚的",
+        "example": "他在事故後顯得明顯震驚。"
+      }
+    },
+    {
+      "word": "Shaky",
+      "type": "adjective",
+      "meaning": "Trembling or unstable",
+      "example": "His hands were shaky from fear.",
+      "chinese": {
+        "meaning": "顫抖的",
+        "example": "他因害怕而手發抖。"
       }
     },
     {
@@ -711,6 +1431,86 @@
       }
     },
     {
+      "word": "Sham",
+      "type": "adjective",
+      "meaning": "False or fake",
+      "example": "His apology felt sham.",
+      "chinese": {
+        "meaning": "虛假的",
+        "example": "他的道歉感覺是假的。"
+      }
+    },
+    {
+      "word": "Shamefaced",
+      "type": "adjective",
+      "meaning": "Showing a feeling of shame or guilt",
+      "example": "He looked shamefaced after the mistake.",
+      "chinese": {
+        "meaning": "羞愧的",
+        "example": "犯錯後他顯得很羞愧。"
+      }
+    },
+    {
+      "word": "Shameful",
+      "type": "adjective",
+      "meaning": "Worthy of shame or disgrace",
+      "example": "It was a shameful act.",
+      "chinese": {
+        "meaning": "可恥的",
+        "example": "那是一個可恥的行為。"
+      }
+    },
+    {
+      "word": "Shameless",
+      "type": "adjective",
+      "meaning": "Without shame or embarrassment",
+      "example": "He made a shameless demand.",
+      "chinese": {
+        "meaning": "無恥的",
+        "example": "他提出了無恥的要求。"
+      }
+    },
+    {
+      "word": "Shaped",
+      "type": "adjective",
+      "meaning": "Having a particular shape",
+      "example": "The vase was beautifully shaped.",
+      "chinese": {
+        "meaning": "有形狀的",
+        "example": "這個花瓶的造型很漂亮。"
+      }
+    },
+    {
+      "word": "Shapeless",
+      "type": "adjective",
+      "meaning": "Without a clear shape or form",
+      "example": "The bag was full and shapeless.",
+      "chinese": {
+        "meaning": "無定形的",
+        "example": "袋子裝滿了東西，看起來沒有形狀。"
+      }
+    },
+    {
+      "word": "Shapely",
+      "type": "adjective",
+      "meaning": "Having an attractive shape",
+      "example": "She had a shapely figure.",
+      "chinese": {
+        "meaning": "身材勻稱的",
+        "example": "她有著勻稱的身材。"
+      }
+    },
+    {
+      "word": "Shared",
+      "type": "adjective",
+      "meaning": "Used or experienced by more than one person",
+      "example": "They live in a shared apartment.",
+      "chinese": {
+        "meaning": "共享的",
+        "example": "他們住在一間合租的公寓裡。"
+      }
+    },
+    {
       "word": "Sharp",
       "type": "adjective",
       "letter": "S",
@@ -719,6 +1519,96 @@
       "chinese": {
         "meaning": "鋒利的；敏銳的",
         "example": "小心那把鋒利的刀。"
+      }
+    },
+    {
+      "word": "Shattered",
+      "type": "adjective",
+      "meaning": "Broken into many pieces or deeply shocked",
+      "example": "The window was shattered by the stone.",
+      "chinese": {
+        "meaning": "粉碎的；震驚的",
+        "example": "窗戶被石頭打碎了。"
+      }
+    },
+    {
+      "word": "Shaved",
+      "type": "adjective",
+      "meaning": "Removed hair or a thin layer from a surface",
+      "example": "He had a freshly shaved face.",
+      "chinese": {
+        "meaning": "剃光的",
+        "example": "他剛刮過鬍子。"
+      }
+    },
+    {
+      "word": "Sheathed",
+      "type": "adjective",
+      "meaning": "Encased in a protective covering",
+      "example": "The sword was sheathed.",
+      "chinese": {
+        "meaning": "被套住的",
+        "example": "劍被放回劍鞘。"
+      }
+    },
+    {
+      "word": "Sheer",
+      "type": "adjective",
+      "meaning": "Complete and utter; very steep",
+      "example": "It was sheer luck that we won.",
+      "chinese": {
+        "meaning": "完全的；陡峭的",
+        "example": "我們的勝利完全是運氣。"
+      }
+    },
+    {
+      "word": "Shelled",
+      "type": "adjective",
+      "meaning": "Having its shell removed or attacked with shells",
+      "example": "We bought shelled peanuts.",
+      "chinese": {
+        "meaning": "去殼的；遭炮擊的",
+        "example": "我們買了去殼的花生。"
+      }
+    },
+    {
+      "word": "Sheltered",
+      "type": "adjective",
+      "meaning": "Protected from danger or harsh conditions",
+      "example": "They lived a sheltered life.",
+      "chinese": {
+        "meaning": "受保護的",
+        "example": "他們過著受保護的生活。"
+      }
+    },
+    {
+      "word": "Shifting",
+      "type": "adjective",
+      "meaning": "Changing position or direction",
+      "example": "The shifting sands made it hard to walk.",
+      "chinese": {
+        "meaning": "不斷變化的",
+        "example": "變化不定的沙子讓人難以行走。"
+      }
+    },
+    {
+      "word": "Shifty",
+      "type": "adjective",
+      "meaning": "Looking dishonest or suspicious",
+      "example": "He gave me a shifty look.",
+      "chinese": {
+        "meaning": "鬼鬼祟祟的",
+        "example": "他給了我一個鬼鬼祟祟的眼神。"
+      }
+    },
+    {
+      "word": "Shining",
+      "type": "adjective",
+      "meaning": "Emitting or reflecting light",
+      "example": "The shining stars filled the sky.",
+      "chinese": {
+        "meaning": "閃亮的",
+        "example": "閃亮的星星佈滿了天空。"
       }
     },
     {
@@ -733,6 +1623,26 @@
       }
     },
     {
+      "word": "Shocked",
+      "type": "adjective",
+      "meaning": "Surprised and upset",
+      "example": "She was shocked by the news.",
+      "chinese": {
+        "meaning": "震驚的",
+        "example": "她對這消息感到震驚。"
+      }
+    },
+    {
+      "word": "Shocking",
+      "type": "adjective",
+      "meaning": "Causing strong feelings of surprise or disgust",
+      "example": "It was a shocking revelation.",
+      "chinese": {
+        "meaning": "令人震驚的",
+        "example": "那是一個令人震驚的揭露。"
+      }
+    },
+    {
       "word": "Short",
       "type": "adjective",
       "letter": "S",
@@ -744,6 +1654,76 @@
       }
     },
     {
+      "word": "Short-lived",
+      "type": "adjective",
+      "meaning": "Lasting for only a brief period",
+      "example": "Their joy was short-lived.",
+      "chinese": {
+        "meaning": "短暫的",
+        "example": "他們的快樂是短暫的。"
+      }
+    },
+    {
+      "word": "Short-sighted",
+      "type": "adjective",
+      "meaning": "Lacking foresight or nearsighted",
+      "example": "That was a short-sighted decision.",
+      "chinese": {
+        "meaning": "目光短淺的；近視的",
+        "example": "那是一個目光短淺的決定。"
+      }
+    },
+    {
+      "word": "Short-term",
+      "type": "adjective",
+      "meaning": "Lasting for a short period",
+      "example": "We need a short-term solution.",
+      "chinese": {
+        "meaning": "短期的",
+        "example": "我們需要一個短期的解決方案。"
+      }
+    },
+    {
+      "word": "Shorter",
+      "type": "adjective",
+      "meaning": "Having less length or duration",
+      "example": "This road is shorter than the other one.",
+      "chinese": {
+        "meaning": "更短的",
+        "example": "這條路比另一條更短。"
+      }
+    },
+    {
+      "word": "Shrewd",
+      "type": "adjective",
+      "meaning": "Having sharp judgment",
+      "example": "She is a shrewd businesswoman.",
+      "chinese": {
+        "meaning": "精明的",
+        "example": "她是一位精明的女商人。"
+      }
+    },
+    {
+      "word": "Shrunken",
+      "type": "adjective",
+      "meaning": "Reduced in size due to shrinking",
+      "example": "The shrunken sweater no longer fit.",
+      "chinese": {
+        "meaning": "縮水的",
+        "example": "縮水的毛衣已經不合身了。"
+      }
+    },
+    {
+      "word": "Shuffled",
+      "type": "adjective",
+      "meaning": "Mixed or moved in a random order",
+      "example": "The shuffled cards lay on the table.",
+      "chinese": {
+        "meaning": "被打亂的",
+        "example": "被打亂的牌放在桌上。"
+      }
+    },
+    {
       "word": "Shy",
       "type": "adjective",
       "letter": "S",
@@ -752,6 +1732,66 @@
       "chinese": {
         "meaning": "害羞的；靦腆的",
         "example": "這位害羞的學生避免與人對視。"
+      }
+    },
+    {
+      "word": "Sick",
+      "type": "adjective",
+      "meaning": "Unwell or nauseated",
+      "example": "I feel sick today.",
+      "chinese": {
+        "meaning": "生病的",
+        "example": "我今天覺得不舒服。"
+      }
+    },
+    {
+      "word": "Sickened",
+      "type": "adjective",
+      "meaning": "Made to feel disgusted or ill",
+      "example": "She was sickened by the cruelty.",
+      "chinese": {
+        "meaning": "噁心的；反感的",
+        "example": "她對這種殘忍感到噁心。"
+      }
+    },
+    {
+      "word": "Sickening",
+      "type": "adjective",
+      "meaning": "Causing a feeling of disgust or nausea",
+      "example": "The sickening smell filled the room.",
+      "chinese": {
+        "meaning": "令人作嘔的",
+        "example": "令人作嘔的氣味充滿了房間。"
+      }
+    },
+    {
+      "word": "Sickly",
+      "type": "adjective",
+      "meaning": "Often ill or unhealthy in appearance",
+      "example": "He looked pale and sickly.",
+      "chinese": {
+        "meaning": "病懨懨的",
+        "example": "他看起來蒼白病懨懨的。"
+      }
+    },
+    {
+      "word": "Side-splitting",
+      "type": "adjective",
+      "meaning": "Extremely funny",
+      "example": "The movie was side-splitting.",
+      "chinese": {
+        "meaning": "令人捧腹大笑的",
+        "example": "這部電影令人捧腹大笑。"
+      }
+    },
+    {
+      "word": "Sided",
+      "type": "adjective",
+      "meaning": "Having a specified number or kind of sides",
+      "example": "It was a three-sided argument.",
+      "chinese": {
+        "meaning": "有邊的",
+        "example": "這是一場三方的爭論。"
       }
     },
     {
@@ -777,6 +1817,36 @@
       }
     },
     {
+      "word": "Silken",
+      "type": "adjective",
+      "meaning": "Smooth, soft, or made of silk",
+      "example": "She wore a silken dress.",
+      "chinese": {
+        "meaning": "絲綢般的",
+        "example": "她穿著一件絲綢般的裙子。"
+      }
+    },
+    {
+      "word": "Silly",
+      "type": "adjective",
+      "meaning": "Lacking in seriousness or sense",
+      "example": "It was a silly mistake.",
+      "chinese": {
+        "meaning": "愚蠢的",
+        "example": "那是一個愚蠢的錯誤。"
+      }
+    },
+    {
+      "word": "Silver",
+      "type": "adjective",
+      "meaning": "Made of or colored like silver",
+      "example": "She had silver hair.",
+      "chinese": {
+        "meaning": "銀色的",
+        "example": "她有一頭銀色的頭髮。"
+      }
+    },
+    {
       "word": "Similar",
       "type": "adjective",
       "letter": "S",
@@ -799,6 +1869,36 @@
       }
     },
     {
+      "word": "Simplistic",
+      "type": "adjective",
+      "meaning": "Overly simple or ignoring complexities",
+      "example": "His view of the problem is too simplistic.",
+      "chinese": {
+        "meaning": "過於簡化的",
+        "example": "他對問題的看法過於簡化。"
+      }
+    },
+    {
+      "word": "Simulated",
+      "type": "adjective",
+      "meaning": "Imitated or reproduced artificially",
+      "example": "They practiced with simulated weapons.",
+      "chinese": {
+        "meaning": "模擬的",
+        "example": "他們用模擬武器進行訓練。"
+      }
+    },
+    {
+      "word": "Simultaneous",
+      "type": "adjective",
+      "meaning": "Occurring at the same time",
+      "example": "They gave a simultaneous response.",
+      "chinese": {
+        "meaning": "同時的",
+        "example": "他們同時作出了回應。"
+      }
+    },
+    {
       "word": "Sincere",
       "type": "adjective",
       "letter": "S",
@@ -810,6 +1910,146 @@
       }
     },
     {
+      "word": "Sinful",
+      "type": "adjective",
+      "meaning": "Wicked or immoral",
+      "example": "He felt guilty for his sinful thoughts.",
+      "chinese": {
+        "meaning": "有罪的",
+        "example": "他因自己罪惡的想法而感到內疚。"
+      }
+    },
+    {
+      "word": "Single",
+      "type": "adjective",
+      "meaning": "Only one in number",
+      "example": "She bought a single ticket.",
+      "chinese": {
+        "meaning": "單一的",
+        "example": "她買了一張單程票。"
+      }
+    },
+    {
+      "word": "Single-minded",
+      "type": "adjective",
+      "meaning": "Determined and focused on one goal",
+      "example": "She was single-minded in her pursuit of success.",
+      "chinese": {
+        "meaning": "專注的",
+        "example": "她專注於追求成功。"
+      }
+    },
+    {
+      "word": "Singular",
+      "type": "adjective",
+      "meaning": "Unique or remarkable",
+      "example": "He has a singular talent for music.",
+      "chinese": {
+        "meaning": "非凡的",
+        "example": "他有非凡的音樂天賦。"
+      }
+    },
+    {
+      "word": "Sinister",
+      "type": "adjective",
+      "meaning": "Giving the impression of something harmful or evil",
+      "example": "A sinister figure approached them.",
+      "chinese": {
+        "meaning": "邪惡的",
+        "example": "一個邪惡的身影向他們靠近。"
+      }
+    },
+    {
+      "word": "Sinuous",
+      "type": "adjective",
+      "meaning": "Having many curves and turns",
+      "example": "The sinuous river flowed through the valley.",
+      "chinese": {
+        "meaning": "蜿蜒的",
+        "example": "蜿蜒的河流穿過山谷。"
+      }
+    },
+    {
+      "word": "Sisterly",
+      "type": "adjective",
+      "meaning": "Relating to or characteristic of a sister",
+      "example": "She gave me a sisterly hug.",
+      "chinese": {
+        "meaning": "姐妹般的",
+        "example": "她給了我一個姐妹般的擁抱。"
+      }
+    },
+    {
+      "word": "Sitting",
+      "type": "adjective",
+      "meaning": "In a seated position or currently holding office",
+      "example": "The sitting president attended the meeting.",
+      "chinese": {
+        "meaning": "坐著的；現任的",
+        "example": "現任總統出席了會議。"
+      }
+    },
+    {
+      "word": "Situated",
+      "type": "adjective",
+      "meaning": "Located in a particular place",
+      "example": "The hotel is situated on the coast.",
+      "chinese": {
+        "meaning": "位於",
+        "example": "這家酒店位於海岸邊。"
+      }
+    },
+    {
+      "word": "Six",
+      "type": "adjective",
+      "meaning": "Equivalent to the number 6",
+      "example": "There are six chairs in the room.",
+      "chinese": {
+        "meaning": "六的",
+        "example": "房間裡有六張椅子。"
+      }
+    },
+    {
+      "word": "Sixth",
+      "type": "adjective",
+      "meaning": "Coming after the fifth in order",
+      "example": "He finished in sixth place.",
+      "chinese": {
+        "meaning": "第六的",
+        "example": "他獲得第六名。"
+      }
+    },
+    {
+      "word": "Sixty",
+      "type": "adjective",
+      "meaning": "Equivalent to the number 60",
+      "example": "She turned sixty last month.",
+      "chinese": {
+        "meaning": "六十的",
+        "example": "她上個月滿六十歲了。"
+      }
+    },
+    {
+      "word": "Sizable",
+      "type": "adjective",
+      "meaning": "Fairly large",
+      "example": "They made a sizable donation to the charity.",
+      "chinese": {
+        "meaning": "相當大的",
+        "example": "他們向慈善機構捐贈了一筆相當大的款項。"
+      }
+    },
+    {
+      "word": "Skilled",
+      "type": "adjective",
+      "meaning": "Having or showing the knowledge, ability, or training to perform a certain activity or task well",
+      "example": "She is a skilled surgeon.",
+      "chinese": {
+        "meaning": "熟練的",
+        "example": "她是一位熟練的外科醫生。"
+      }
+    },
+    {
       "word": "Skillful",
       "type": "adjective",
       "letter": "S",
@@ -818,6 +2058,106 @@
       "chinese": {
         "meaning": "熟練的；有技巧的",
         "example": "他是一位技藝高超的畫家。"
+      }
+    },
+    {
+      "word": "Skinny",
+      "type": "adjective",
+      "meaning": "Very thin",
+      "example": "He wore a pair of skinny jeans.",
+      "chinese": {
+        "meaning": "瘦的",
+        "example": "他穿著一條緊身牛仔褲。"
+      }
+    },
+    {
+      "word": "Skittish",
+      "type": "adjective",
+      "meaning": "Easily scared or excited",
+      "example": "The horse is skittish around loud noises.",
+      "chinese": {
+        "meaning": "容易受驚的",
+        "example": "這匹馬在大聲的噪音下容易受驚。"
+      }
+    },
+    {
+      "word": "Slack",
+      "type": "adjective",
+      "meaning": "Not tight or firm; slow or careless",
+      "example": "He tied the rope but it was slack.",
+      "chinese": {
+        "meaning": "鬆弛的；懈怠的",
+        "example": "他把繩子綁好了，但它還是鬆的。"
+      }
+    },
+    {
+      "word": "Slain",
+      "type": "adjective",
+      "meaning": "Killed violently",
+      "example": "The slain soldier was honored with a memorial.",
+      "chinese": {
+        "meaning": "被殺的",
+        "example": "這名被殺的士兵被追授紀念。"
+      }
+    },
+    {
+      "word": "Slammed",
+      "type": "adjective",
+      "meaning": "Hit with great force or criticized severely",
+      "example": "The door was slammed shut.",
+      "chinese": {
+        "meaning": "猛然關上的；被嚴厲批評的",
+        "example": "門被猛地關上了。"
+      }
+    },
+    {
+      "word": "Slanted",
+      "type": "adjective",
+      "meaning": "Sloping in one direction; biased",
+      "example": "The news article was slanted.",
+      "chinese": {
+        "meaning": "傾斜的；有偏見的",
+        "example": "這篇新聞文章帶有偏見。"
+      }
+    },
+    {
+      "word": "Slanting",
+      "type": "adjective",
+      "meaning": "Inclined or tilted",
+      "example": "The sun's slanting rays lit the room.",
+      "chinese": {
+        "meaning": "傾斜的",
+        "example": "陽光傾斜的光線照亮了房間。"
+      }
+    },
+    {
+      "word": "Slashed",
+      "type": "adjective",
+      "meaning": "Cut violently or reduced drastically",
+      "example": "Prices were slashed during the sale.",
+      "chinese": {
+        "meaning": "被砍的；大幅削減的",
+        "example": "大減價時價格大幅下跌。"
+      }
+    },
+    {
+      "word": "Sleeping",
+      "type": "adjective",
+      "meaning": "In a state of sleep",
+      "example": "The sleeping baby looked peaceful.",
+      "chinese": {
+        "meaning": "睡著的",
+        "example": "睡著的嬰兒看起來很安詳。"
+      }
+    },
+    {
+      "word": "Sleepless",
+      "type": "adjective",
+      "meaning": "Unable to sleep",
+      "example": "She spent a sleepless night worrying.",
+      "chinese": {
+        "meaning": "失眠的",
+        "example": "她擔心了一整晚，沒能睡著。"
       }
     },
     {
@@ -854,6 +2194,26 @@
       }
     },
     {
+      "word": "Slim",
+      "type": "adjective",
+      "meaning": "Thin or small in amount",
+      "example": "She has a slim figure.",
+      "chinese": {
+        "meaning": "苗條的；微小的",
+        "example": "她身材苗條。"
+      }
+    },
+    {
+      "word": "Slimy",
+      "type": "adjective",
+      "meaning": "Covered with slime or morally repulsive",
+      "example": "The frog's skin felt slimy.",
+      "chinese": {
+        "meaning": "黏糊糊的；令人厭惡的",
+        "example": "青蛙的皮膚摸起來黏糊糊的。"
+      }
+    },
+    {
       "word": "Slippery",
       "type": "adjective",
       "letter": "S",
@@ -862,6 +2222,126 @@
       "chinese": {
         "meaning": "滑的；容易滑倒的",
         "example": "地板濕的時候很滑。"
+      }
+    },
+    {
+      "word": "Slit",
+      "type": "adjective",
+      "meaning": "Cut open with a narrow opening",
+      "example": "He wore a slit skirt.",
+      "chinese": {
+        "meaning": "有裂縫的",
+        "example": "她穿著一條開衩裙。"
+      }
+    },
+    {
+      "word": "Sloping",
+      "type": "adjective",
+      "meaning": "Inclining at an angle",
+      "example": "The house was built on a sloping hill.",
+      "chinese": {
+        "meaning": "傾斜的",
+        "example": "這房子建在一座斜坡山丘上。"
+      }
+    },
+    {
+      "word": "Sloppy",
+      "type": "adjective",
+      "meaning": "Careless and untidy",
+      "example": "His work is sloppy and full of mistakes.",
+      "chinese": {
+        "meaning": "馬虎的；邋遢的",
+        "example": "他的工作馬虎又錯誤百出。"
+      }
+    },
+    {
+      "word": "Slothful",
+      "type": "adjective",
+      "meaning": "Lazy",
+      "example": "He is slothful and unmotivated.",
+      "chinese": {
+        "meaning": "懶惰的",
+        "example": "他懶惰且沒有動力。"
+      }
+    },
+    {
+      "word": "Slovenly",
+      "type": "adjective",
+      "meaning": "Untidy or careless in appearance or work",
+      "example": "He looked slovenly in wrinkled clothes.",
+      "chinese": {
+        "meaning": "不整潔的",
+        "example": "他穿著皺巴巴的衣服，看起來很不整潔。"
+      }
+    },
+    {
+      "word": "Slow",
+      "type": "adjective",
+      "meaning": "Not fast",
+      "example": "The internet connection is slow.",
+      "chinese": {
+        "meaning": "慢的",
+        "example": "網絡連接很慢。"
+      }
+    },
+    {
+      "word": "Sluggish",
+      "type": "adjective",
+      "meaning": "Lacking energy or slow to act",
+      "example": "The economy has been sluggish this year.",
+      "chinese": {
+        "meaning": "遲緩的",
+        "example": "今年經濟一直很遲緩。"
+      }
+    },
+    {
+      "word": "Sly",
+      "type": "adjective",
+      "meaning": "Clever in a dishonest way",
+      "example": "He gave a sly smile.",
+      "chinese": {
+        "meaning": "狡猾的",
+        "example": "他露出了一絲狡猾的微笑。"
+      }
+    },
+    {
+      "word": "Small",
+      "type": "adjective",
+      "meaning": "Little in size or amount",
+      "example": "We live in a small apartment.",
+      "chinese": {
+        "meaning": "小的",
+        "example": "我們住在一間小公寓裡。"
+      }
+    },
+    {
+      "word": "Small-minded",
+      "type": "adjective",
+      "meaning": "Narrow-minded or petty",
+      "example": "He is too small-minded to appreciate others' success.",
+      "chinese": {
+        "meaning": "心胸狹窄的",
+        "example": "他心胸太狹窄，無法欣賞他人的成功。"
+      }
+    },
+    {
+      "word": "Smaller",
+      "type": "adjective",
+      "meaning": "Of less size than something else",
+      "example": "This box is smaller than that one.",
+      "chinese": {
+        "meaning": "更小的",
+        "example": "這個盒子比那個更小。"
+      }
+    },
+    {
+      "word": "Smallest",
+      "type": "adjective",
+      "meaning": "The least in size",
+      "example": "This is the smallest room in the house.",
+      "chinese": {
+        "meaning": "最小的",
+        "example": "這是房子裡最小的房間。"
       }
     },
     {
@@ -887,6 +2367,16 @@
       }
     },
     {
+      "word": "Smiling",
+      "type": "adjective",
+      "meaning": "Wearing a smile",
+      "example": "The smiling child waved at us.",
+      "chinese": {
+        "meaning": "微笑的",
+        "example": "微笑的孩子向我們揮手。"
+      }
+    },
+    {
       "word": "Smooth",
       "type": "adjective",
       "letter": "S",
@@ -895,6 +2385,126 @@
       "chinese": {
         "meaning": "光滑的；平順的",
         "example": "這張桌子表面很光滑。"
+      }
+    },
+    {
+      "word": "Smug",
+      "type": "adjective",
+      "meaning": "Having or showing excessive pride in oneself",
+      "example": "He looked smug after winning the game.",
+      "chinese": {
+        "meaning": "自鳴得意的",
+        "example": "比賽贏了之後，他看起來很自鳴得意。"
+      }
+    },
+    {
+      "word": "Sneaky",
+      "type": "adjective",
+      "meaning": "Behaving in a secret and usually dishonest way",
+      "example": "He made a sneaky attempt to take the money.",
+      "chinese": {
+        "meaning": "鬼鬼祟祟的",
+        "example": "他偷偷試圖拿走那筆錢。"
+      }
+    },
+    {
+      "word": "Snobby",
+      "type": "adjective",
+      "meaning": "Acting as though one is superior to others",
+      "example": "She can be a bit snobby at times.",
+      "chinese": {
+        "meaning": "勢利的",
+        "example": "她有時候會有點勢利。"
+      }
+    },
+    {
+      "word": "Snowy",
+      "type": "adjective",
+      "meaning": "Covered with snow or resembling snow",
+      "example": "We had a snowy winter.",
+      "chinese": {
+        "meaning": "下雪的；像雪的",
+        "example": "我們度過了一個多雪的冬天。"
+      }
+    },
+    {
+      "word": "Soaked",
+      "type": "adjective",
+      "meaning": "Completely wet",
+      "example": "He came in soaked from the rain.",
+      "chinese": {
+        "meaning": "浸濕的",
+        "example": "他淋雨回來，全身濕透了。"
+      }
+    },
+    {
+      "word": "Soaring",
+      "type": "adjective",
+      "meaning": "Rising quickly or very high",
+      "example": "Soaring prices are hurting consumers.",
+      "chinese": {
+        "meaning": "高漲的",
+        "example": "高漲的價格正在損害消費者。"
+      }
+    },
+    {
+      "word": "Sober",
+      "type": "adjective",
+      "meaning": "Not drunk; serious",
+      "example": "He was completely sober during the meeting.",
+      "chinese": {
+        "meaning": "清醒的；嚴肅的",
+        "example": "會議期間他完全是清醒的。"
+      }
+    },
+    {
+      "word": "Social",
+      "type": "adjective",
+      "meaning": "Relating to society or its organization",
+      "example": "He has a busy social life.",
+      "chinese": {
+        "meaning": "社交的；社會的",
+        "example": "他有著繁忙的社交生活。"
+      }
+    },
+    {
+      "word": "Socialist",
+      "type": "adjective",
+      "meaning": "Relating to or supporting socialism",
+      "example": "They live in a socialist country.",
+      "chinese": {
+        "meaning": "社會主義的",
+        "example": "他們生活在一個社會主義國家。"
+      }
+    },
+    {
+      "word": "Societal",
+      "type": "adjective",
+      "meaning": "Relating to society",
+      "example": "Societal norms are constantly evolving.",
+      "chinese": {
+        "meaning": "社會的",
+        "example": "社會規範在不斷變化。"
+      }
+    },
+    {
+      "word": "Socioeconomic",
+      "type": "adjective",
+      "meaning": "Relating to social and economic factors",
+      "example": "They studied the community's socioeconomic status.",
+      "chinese": {
+        "meaning": "社會經濟的",
+        "example": "他們研究了社區的社會經濟狀況。"
+      }
+    },
+    {
+      "word": "Sociological",
+      "type": "adjective",
+      "meaning": "Relating to the study of society",
+      "example": "She is conducting a sociological survey.",
+      "chinese": {
+        "meaning": "社會學的",
+        "example": "她正在進行一項社會學調查。"
       }
     },
     {
@@ -909,14 +2519,53 @@
       }
     },
     {
+      "word": "Softened",
+      "type": "adjective",
+      "meaning": "Made softer or less severe",
+      "example": "His voice softened as he spoke.",
+      "chinese": {
+        "meaning": "變柔和的",
+        "example": "他說話時聲音變得柔和了。"
+      }
+    },
+    {
+      "word": "Solar",
+      "type": "adjective",
+      "meaning": "Relating to or determined by the sun",
+      "example": "They installed solar panels on the roof.",
+      "chinese": {
+        "meaning": "太陽的；太陽能的",
+        "example": "他們在屋頂上安裝了太陽能板。"
+      }
+    },
+    {
+      "word": "Sold",
+      "type": "adjective",
+      "meaning": "Disposed of by sale",
+      "example": "All the tickets were sold out.",
+      "chinese": {
+        "meaning": "已售出的",
+        "example": "所有的票都賣完了。"
+      }
+    },
+    {
+      "word": "Sole",
+      "type": "adjective",
+      "meaning": "Being the only one",
+      "example": "He is the sole survivor of the crash.",
+      "chinese": {
+        "meaning": "唯一的",
+        "example": "他是空難的唯一倖存者。"
+      }
+    },
+    {
       "word": "Solemn",
       "type": "adjective",
-      "letter": "S",
-      "meaning": "serious and dignified",
-      "example": "The ceremony was solemn and respectful.",
+      "meaning": "Serious and dignified",
+      "example": "The judge spoke in a solemn tone.",
       "chinese": {
         "meaning": "莊嚴的；嚴肅的",
-        "example": "儀式莊嚴而肅穆。"
+        "example": "法官用莊嚴的語氣說話。"
       }
     },
     {
@@ -928,6 +2577,66 @@
       "chinese": {
         "meaning": "固體的；堅固的",
         "example": "冰是水的固體狀態。"
+      }
+    },
+    {
+      "word": "Solitary",
+      "type": "adjective",
+      "meaning": "Existing alone; without companions",
+      "example": "He lived a solitary life in the mountains.",
+      "chinese": {
+        "meaning": "孤獨的",
+        "example": "他在山中過著孤獨的生活。"
+      }
+    },
+    {
+      "word": "Solvable",
+      "type": "adjective",
+      "meaning": "Able to be solved or resolved",
+      "example": "The problem is difficult but solvable.",
+      "chinese": {
+        "meaning": "可解決的",
+        "example": "這個問題雖然困難但可以解決。"
+      }
+    },
+    {
+      "word": "Somber",
+      "type": "adjective",
+      "meaning": "Dark or dull in color; gloomy",
+      "example": "The room was decorated in somber colors.",
+      "chinese": {
+        "meaning": "暗淡的；憂鬱的",
+        "example": "房間用暗色調裝飾。"
+      }
+    },
+    {
+      "word": "Some",
+      "type": "adjective",
+      "meaning": "An unspecified amount or number",
+      "example": "I need some water.",
+      "chinese": {
+        "meaning": "一些",
+        "example": "我需要一些水。"
+      }
+    },
+    {
+      "word": "Somnambulant",
+      "type": "adjective",
+      "meaning": "Relating to sleepwalking; drowsy",
+      "example": "He moved about in a somnambulant state.",
+      "chinese": {
+        "meaning": "夢遊的；昏昏欲睡的",
+        "example": "他在夢遊般的狀態下四處走動。"
+      }
+    },
+    {
+      "word": "Sonorous",
+      "type": "adjective",
+      "meaning": "Having a deep, full, or rich sound",
+      "example": "The sonorous voice filled the hall.",
+      "chinese": {
+        "meaning": "洪亮的",
+        "example": "洪亮的聲音充滿了大廳。"
       }
     },
     {
@@ -964,6 +2673,36 @@
       }
     },
     {
+      "word": "Sorry",
+      "type": "adjective",
+      "meaning": "Feeling regret or pity",
+      "example": "I am sorry for your loss.",
+      "chinese": {
+        "meaning": "遺憾的；抱歉的",
+        "example": "我為你的損失感到遺憾。"
+      }
+    },
+    {
+      "word": "Soulful",
+      "type": "adjective",
+      "meaning": "Expressing deep feeling",
+      "example": "She sang a soulful melody.",
+      "chinese": {
+        "meaning": "充滿感情的",
+        "example": "她唱了一首充滿感情的旋律。"
+      }
+    },
+    {
+      "word": "Soulless",
+      "type": "adjective",
+      "meaning": "Lacking human qualities; without spirit",
+      "example": "The building looked cold and soulless.",
+      "chinese": {
+        "meaning": "沒有靈魂的",
+        "example": "這棟建築看起來冰冷而沒有靈魂。"
+      }
+    },
+    {
       "word": "Sound",
       "type": "adjective",
       "letter": "S",
@@ -972,6 +2711,16 @@
       "chinese": {
         "meaning": "健全的；合理的",
         "example": "她提出了一個合理的論點。"
+      }
+    },
+    {
+      "word": "Soundless",
+      "type": "adjective",
+      "meaning": "Without any sound",
+      "example": "The car moved in a soundless glide.",
+      "chinese": {
+        "meaning": "無聲的",
+        "example": "汽車無聲地滑行。"
       }
     },
     {
@@ -986,6 +2735,36 @@
       }
     },
     {
+      "word": "Southeastern",
+      "type": "adjective",
+      "meaning": "Situated in or oriented toward the southeast",
+      "example": "They live in the southeastern region of the country.",
+      "chinese": {
+        "meaning": "東南的",
+        "example": "他們住在該國的東南地區。"
+      }
+    },
+    {
+      "word": "Southern",
+      "type": "adjective",
+      "meaning": "Situated in the south or directed toward the south",
+      "example": "The southern states are warm in winter.",
+      "chinese": {
+        "meaning": "南方的",
+        "example": "南方的州在冬天很溫暖。"
+      }
+    },
+    {
+      "word": "Sovereign",
+      "type": "adjective",
+      "meaning": "Possessing supreme or ultimate power",
+      "example": "The country became a sovereign nation.",
+      "chinese": {
+        "meaning": "主權的；獨立的",
+        "example": "這個國家成為了一個主權國家。"
+      }
+    },
+    {
       "word": "Spacious",
       "type": "adjective",
       "letter": "S",
@@ -994,6 +2773,66 @@
       "chinese": {
         "meaning": "寬敞的",
         "example": "客廳很寬敞。"
+      }
+    },
+    {
+      "word": "Spanish",
+      "type": "adjective",
+      "meaning": "Relating to Spain, its people, or its language",
+      "example": "She is learning Spanish culture and language.",
+      "chinese": {
+        "meaning": "西班牙的",
+        "example": "她正在學習西班牙的文化和語言。"
+      }
+    },
+    {
+      "word": "Spanking",
+      "type": "adjective",
+      "meaning": "Exceptionally good, large, or fast",
+      "example": "They bought a spanking new car.",
+      "chinese": {
+        "meaning": "極好的；嶄新的",
+        "example": "他們買了一輛嶄新的汽車。"
+      }
+    },
+    {
+      "word": "Spare",
+      "type": "adjective",
+      "meaning": "Additional to what is required; thin",
+      "example": "He keeps a spare key under the mat.",
+      "chinese": {
+        "meaning": "備用的；瘦的",
+        "example": "他把備用鑰匙放在門墊下。"
+      }
+    },
+    {
+      "word": "Sparkling",
+      "type": "adjective",
+      "meaning": "Shining brightly; lively",
+      "example": "She wore a sparkling dress to the party.",
+      "chinese": {
+        "meaning": "閃閃發光的；生氣勃勃的",
+        "example": "她穿著一件閃亮的裙子參加派對。"
+      }
+    },
+    {
+      "word": "Sparse",
+      "type": "adjective",
+      "meaning": "Thinly dispersed or scattered",
+      "example": "Vegetation is sparse in the desert.",
+      "chinese": {
+        "meaning": "稀疏的",
+        "example": "沙漠中的植被很稀疏。"
+      }
+    },
+    {
+      "word": "Spatial",
+      "type": "adjective",
+      "meaning": "Relating to space or the position of objects in it",
+      "example": "They studied the spatial arrangement of the city.",
+      "chinese": {
+        "meaning": "空間的",
+        "example": "他們研究了城市的空間佈局。"
       }
     },
     {
@@ -1008,6 +2847,16 @@
       }
     },
     {
+      "word": "Specialized",
+      "type": "adjective",
+      "meaning": "Designed or developed for a particular purpose",
+      "example": "She works in a highly specialized field.",
+      "chinese": {
+        "meaning": "專門的",
+        "example": "她在一個高度專業化的領域工作。"
+      }
+    },
+    {
       "word": "Specific",
       "type": "adjective",
       "letter": "S",
@@ -1016,6 +2865,26 @@
       "chinese": {
         "meaning": "具體的；明確的",
         "example": "你可以說得更明確一點嗎？"
+      }
+    },
+    {
+      "word": "Speckled",
+      "type": "adjective",
+      "meaning": "Covered with small spots or marks",
+      "example": "The bird has speckled feathers.",
+      "chinese": {
+        "meaning": "有斑點的",
+        "example": "這隻鳥的羽毛上有斑點。"
+      }
+    },
+    {
+      "word": "Spectacled",
+      "type": "adjective",
+      "meaning": "Wearing glasses",
+      "example": "The spectacled man walked into the room.",
+      "chinese": {
+        "meaning": "戴眼鏡的",
+        "example": "那個戴眼鏡的男人走進了房間。"
       }
     },
     {
@@ -1030,6 +2899,46 @@
       }
     },
     {
+      "word": "Spectral",
+      "type": "adjective",
+      "meaning": "Ghostly or relating to a spectrum",
+      "example": "She had a spectral presence.",
+      "chinese": {
+        "meaning": "幽靈般的；光譜的",
+        "example": "她有一種幽靈般的存在感。"
+      }
+    },
+    {
+      "word": "Speculative",
+      "type": "adjective",
+      "meaning": "Based on conjecture; risky",
+      "example": "He made a speculative investment in the market.",
+      "chinese": {
+        "meaning": "投機的；推測的",
+        "example": "他在市場上進行了一筆投機投資。"
+      }
+    },
+    {
+      "word": "Speechless",
+      "type": "adjective",
+      "meaning": "Unable to speak because of shock or surprise",
+      "example": "She was speechless after hearing the news.",
+      "chinese": {
+        "meaning": "說不出話的",
+        "example": "聽到這個消息後，她說不出話來。"
+      }
+    },
+    {
+      "word": "Speed",
+      "type": "adjective",
+      "meaning": "Relating to or involving quickness",
+      "example": "He used speed techniques to finish early.",
+      "chinese": {
+        "meaning": "快速的",
+        "example": "他用快速的方法提早完成了工作。"
+      }
+    },
+    {
       "word": "Speedy",
       "type": "adjective",
       "letter": "S",
@@ -1041,6 +2950,26 @@
       }
     },
     {
+      "word": "Spent",
+      "type": "adjective",
+      "meaning": "Used up or exhausted",
+      "example": "He was completely spent after the marathon.",
+      "chinese": {
+        "meaning": "筋疲力盡的；用盡的",
+        "example": "馬拉松比賽後他完全筋疲力盡。"
+      }
+    },
+    {
+      "word": "Spherical",
+      "type": "adjective",
+      "meaning": "Shaped like a sphere",
+      "example": "The Earth is roughly spherical in shape.",
+      "chinese": {
+        "meaning": "球形的",
+        "example": "地球大致呈球形。"
+      }
+    },
+    {
       "word": "Spicy",
       "type": "adjective",
       "letter": "S",
@@ -1049,6 +2978,66 @@
       "chinese": {
         "meaning": "辣的；有香料味的",
         "example": "他喜歡吃辣的食物。"
+      }
+    },
+    {
+      "word": "Spiked",
+      "type": "adjective",
+      "meaning": "Having sharp points or spikes",
+      "example": "He wore spiked shoes for the race.",
+      "chinese": {
+        "meaning": "帶尖刺的",
+        "example": "他穿著帶有尖釘的鞋子參加比賽。"
+      }
+    },
+    {
+      "word": "Spiky",
+      "type": "adjective",
+      "meaning": "Having sharp points sticking out",
+      "example": "The plant has spiky leaves.",
+      "chinese": {
+        "meaning": "尖刺狀的",
+        "example": "這種植物有尖刺狀的葉子。"
+      }
+    },
+    {
+      "word": "Spilled",
+      "type": "adjective",
+      "meaning": "Fallen or flowed out of a container",
+      "example": "There was spilled milk on the table.",
+      "chinese": {
+        "meaning": "灑出的",
+        "example": "桌子上有灑出的牛奶。"
+      }
+    },
+    {
+      "word": "Spinal",
+      "type": "adjective",
+      "meaning": "Relating to the spine or backbone",
+      "example": "He suffered a spinal injury.",
+      "chinese": {
+        "meaning": "脊椎的",
+        "example": "他遭受了脊椎損傷。"
+      }
+    },
+    {
+      "word": "Spineless",
+      "type": "adjective",
+      "meaning": "Lacking courage or strength of character",
+      "example": "He is too spineless to stand up for himself.",
+      "chinese": {
+        "meaning": "懦弱的",
+        "example": "他太懦弱了，無法為自己挺身而出。"
+      }
+    },
+    {
+      "word": "Spirited",
+      "type": "adjective",
+      "meaning": "Full of energy and determination",
+      "example": "The team gave a spirited performance.",
+      "chinese": {
+        "meaning": "有精神的；生氣勃勃的",
+        "example": "隊伍表現得充滿了活力。"
       }
     },
     {
@@ -1074,6 +3063,46 @@
       }
     },
     {
+      "word": "Split",
+      "type": "adjective",
+      "meaning": "Divided into parts",
+      "example": "They lived in a split-level house.",
+      "chinese": {
+        "meaning": "分裂的；分開的",
+        "example": "他們住在一棟分層的房子裡。"
+      }
+    },
+    {
+      "word": "Spoiled",
+      "type": "adjective",
+      "meaning": "Damaged or ruined; pampered",
+      "example": "The spoiled food was thrown away.",
+      "chinese": {
+        "meaning": "變質的；寵壞的",
+        "example": "變質的食物被丟掉了。"
+      }
+    },
+    {
+      "word": "Spoken",
+      "type": "adjective",
+      "meaning": "Expressed orally",
+      "example": "Spoken words can be powerful.",
+      "chinese": {
+        "meaning": "口頭的",
+        "example": "口頭語言可以很有力量。"
+      }
+    },
+    {
+      "word": "Spongy",
+      "type": "adjective",
+      "meaning": "Soft and able to absorb liquid",
+      "example": "The cake has a spongy texture.",
+      "chinese": {
+        "meaning": "海綿狀的",
+        "example": "這個蛋糕有海綿般的質地。"
+      }
+    },
+    {
       "word": "Spontaneous",
       "type": "adjective",
       "letter": "S",
@@ -1082,6 +3111,136 @@
       "chinese": {
         "meaning": "自發的；自然的",
         "example": "她的笑聲很自然。"
+      }
+    },
+    {
+      "word": "Sportive",
+      "type": "adjective",
+      "meaning": "Playful or lively",
+      "example": "The sportive puppy chased its tail.",
+      "chinese": {
+        "meaning": "愛玩的；嬉戲的",
+        "example": "那隻愛玩的狗追著自己的尾巴跑。"
+      }
+    },
+    {
+      "word": "Spotty",
+      "type": "adjective",
+      "meaning": "Uneven or inconsistent",
+      "example": "The service at the hotel was spotty.",
+      "chinese": {
+        "meaning": "不穩定的；斑點的",
+        "example": "這家飯店的服務不穩定。"
+      }
+    },
+    {
+      "word": "Sprawling",
+      "type": "adjective",
+      "meaning": "Spreading out over a large area",
+      "example": "The city is a sprawling metropolis.",
+      "chinese": {
+        "meaning": "蔓延的；擴展的",
+        "example": "這座城市是一個擴展的都市。"
+      }
+    },
+    {
+      "word": "Spread",
+      "type": "adjective",
+      "meaning": "Distributed over a wide area",
+      "example": "The spread wings of the eagle were majestic.",
+      "chinese": {
+        "meaning": "分散的；展開的",
+        "example": "老鷹展開的翅膀很壯觀。"
+      }
+    },
+    {
+      "word": "Springy",
+      "type": "adjective",
+      "meaning": "Elastic or resilient",
+      "example": "The mattress is soft and springy.",
+      "chinese": {
+        "meaning": "有彈性的",
+        "example": "這張床墊柔軟而有彈性。"
+      }
+    },
+    {
+      "word": "Sprinkled",
+      "type": "adjective",
+      "meaning": "Scattered in small drops or particles",
+      "example": "The cookies were sprinkled with sugar.",
+      "chinese": {
+        "meaning": "灑上去的",
+        "example": "餅乾上撒了糖。"
+      }
+    },
+    {
+      "word": "Spry",
+      "type": "adjective",
+      "meaning": "Energetic, especially in old age",
+      "example": "The spry old man danced all night.",
+      "chinese": {
+        "meaning": "敏捷的；有活力的",
+        "example": "這位敏捷的老人跳了一整晚的舞。"
+      }
+    },
+    {
+      "word": "Spurious",
+      "type": "adjective",
+      "meaning": "Not genuine; false",
+      "example": "He made a spurious claim about his experience.",
+      "chinese": {
+        "meaning": "虛假的",
+        "example": "他對自己的經歷做了虛假的聲稱。"
+      }
+    },
+    {
+      "word": "Square",
+      "type": "adjective",
+      "meaning": "Having four equal sides and angles",
+      "example": "The square table fit perfectly in the room.",
+      "chinese": {
+        "meaning": "方形的",
+        "example": "方桌剛好放在房間裡。"
+      }
+    },
+    {
+      "word": "Squashed",
+      "type": "adjective",
+      "meaning": "Crushed or flattened",
+      "example": "The squashed box was useless.",
+      "chinese": {
+        "meaning": "被壓扁的",
+        "example": "被壓扁的盒子沒用了。"
+      }
+    },
+    {
+      "word": "Squat",
+      "type": "adjective",
+      "meaning": "Short and thickset",
+      "example": "The squat building was built for strength.",
+      "chinese": {
+        "meaning": "矮胖的；矮壯的",
+        "example": "這棟矮胖的建築物是為了堅固而建造的。"
+      }
+    },
+    {
+      "word": "Squeaky",
+      "type": "adjective",
+      "meaning": "Making a high-pitched sound",
+      "example": "The door is squeaky when opened.",
+      "chinese": {
+        "meaning": "吱吱作響的",
+        "example": "門打開時會吱吱作響。"
+      }
+    },
+    {
+      "word": "Squeamish",
+      "type": "adjective",
+      "meaning": "Easily made to feel sick or upset",
+      "example": "She is squeamish about seeing blood.",
+      "chinese": {
+        "meaning": "易感到噁心的；膽小的",
+        "example": "她一看到血就感到噁心。"
       }
     },
     {
@@ -1096,6 +3255,46 @@
       }
     },
     {
+      "word": "Stacked",
+      "type": "adjective",
+      "meaning": "Arranged in a stack; having a full figure",
+      "example": "The stacked boxes blocked the hallway.",
+      "chinese": {
+        "meaning": "堆疊的",
+        "example": "堆疊的箱子堵住了走廊。"
+      }
+    },
+    {
+      "word": "Staggering",
+      "type": "adjective",
+      "meaning": "Deeply shocking; astonishing",
+      "example": "The staggering cost shocked the investors.",
+      "chinese": {
+        "meaning": "驚人的",
+        "example": "驚人的成本讓投資者震驚。"
+      }
+    },
+    {
+      "word": "Stagnant",
+      "type": "adjective",
+      "meaning": "Not flowing or moving",
+      "example": "The stagnant water bred mosquitoes.",
+      "chinese": {
+        "meaning": "停滯的",
+        "example": "停滯的水滋生了蚊子。"
+      }
+    },
+    {
+      "word": "Stained",
+      "type": "adjective",
+      "meaning": "Marked or discolored",
+      "example": "The stained shirt needed washing.",
+      "chinese": {
+        "meaning": "被弄髒的",
+        "example": "被弄髒的襯衫需要清洗。"
+      }
+    },
+    {
       "word": "Stale",
       "type": "adjective",
       "letter": "S",
@@ -1104,6 +3303,16 @@
       "chinese": {
         "meaning": "不新鮮的；陳舊的",
         "example": "這麵包不新鮮了。"
+      }
+    },
+    {
+      "word": "Stalwart",
+      "type": "adjective",
+      "meaning": "Loyal, reliable, and hardworking",
+      "example": "She is a stalwart supporter of the cause.",
+      "chinese": {
+        "meaning": "堅定的；忠實的",
+        "example": "她是這項事業的堅定支持者。"
       }
     },
     {
@@ -1118,6 +3327,196 @@
       }
     },
     {
+      "word": "Standing",
+      "type": "adjective",
+      "meaning": "Permanent; upright",
+      "example": "They made a standing offer to help.",
+      "chinese": {
+        "meaning": "持續的；站立的",
+        "example": "他們提出了持續的援助。"
+      }
+    },
+    {
+      "word": "Stapled",
+      "type": "adjective",
+      "meaning": "Fastened with staples",
+      "example": "The stapled papers were filed away.",
+      "chinese": {
+        "meaning": "用釘書釘固定的",
+        "example": "用釘書釘固定的文件被歸檔了。"
+      }
+    },
+    {
+      "word": "Starched",
+      "type": "adjective",
+      "meaning": "Stiffened with starch",
+      "example": "He wore a starched collar.",
+      "chinese": {
+        "meaning": "上過漿的",
+        "example": "他戴著上過漿的衣領。"
+      }
+    },
+    {
+      "word": "Starchy",
+      "type": "adjective",
+      "meaning": "Containing or resembling starch",
+      "example": "Potatoes are starchy vegetables.",
+      "chinese": {
+        "meaning": "含澱粉的",
+        "example": "馬鈴薯是含澱粉的蔬菜。"
+      }
+    },
+    {
+      "word": "Staring",
+      "type": "adjective",
+      "meaning": "Looking fixedly at something",
+      "example": "She gave him a staring look.",
+      "chinese": {
+        "meaning": "凝視的",
+        "example": "她給了他一個凝視的眼神。"
+      }
+    },
+    {
+      "word": "Stark",
+      "type": "adjective",
+      "meaning": "Severe or bare in appearance",
+      "example": "The room was stark and cold.",
+      "chinese": {
+        "meaning": "荒涼的；完全的",
+        "example": "房間很荒涼寒冷。"
+      }
+    },
+    {
+      "word": "Starry",
+      "type": "adjective",
+      "meaning": "Full of stars",
+      "example": "We camped under a starry sky.",
+      "chinese": {
+        "meaning": "星光燦爛的",
+        "example": "我們在星光燦爛的夜空下露營。"
+      }
+    },
+    {
+      "word": "Startled",
+      "type": "adjective",
+      "meaning": "Surprised or alarmed suddenly",
+      "example": "The startled cat jumped away.",
+      "chinese": {
+        "meaning": "吃驚的",
+        "example": "受驚嚇的貓跳開了。"
+      }
+    },
+    {
+      "word": "Startling",
+      "type": "adjective",
+      "meaning": "Very surprising",
+      "example": "The startling news spread quickly.",
+      "chinese": {
+        "meaning": "令人吃驚的",
+        "example": "令人吃驚的消息很快傳開了。"
+      }
+    },
+    {
+      "word": "Starved",
+      "type": "adjective",
+      "meaning": "Extremely hungry",
+      "example": "He was starved after the long hike.",
+      "chinese": {
+        "meaning": "飢餓的",
+        "example": "長途徒步後他非常飢餓。"
+      }
+    },
+    {
+      "word": "Stately",
+      "type": "adjective",
+      "meaning": "Impressive in size or appearance",
+      "example": "They entered a stately mansion.",
+      "chinese": {
+        "meaning": "莊嚴的；宏偉的",
+        "example": "他們走進了一座莊嚴的豪宅。"
+      }
+    },
+    {
+      "word": "Static",
+      "type": "adjective",
+      "meaning": "Not moving or changing",
+      "example": "The static image appeared on the screen.",
+      "chinese": {
+        "meaning": "靜態的",
+        "example": "靜態圖像出現在屏幕上。"
+      }
+    },
+    {
+      "word": "Stationary",
+      "type": "adjective",
+      "meaning": "Not moving",
+      "example": "The car remained stationary at the light.",
+      "chinese": {
+        "meaning": "靜止的",
+        "example": "汽車在紅燈前保持靜止。"
+      }
+    },
+    {
+      "word": "Statistical",
+      "type": "adjective",
+      "meaning": "Relating to statistics",
+      "example": "The statistical data supports the conclusion.",
+      "chinese": {
+        "meaning": "統計的",
+        "example": "統計數據支持了這個結論。"
+      }
+    },
+    {
+      "word": "Staunch",
+      "type": "adjective",
+      "meaning": "Loyal and committed",
+      "example": "He is a staunch defender of free speech.",
+      "chinese": {
+        "meaning": "堅定的",
+        "example": "他是言論自由的堅定捍衛者。"
+      }
+    },
+    {
+      "word": "Steady",
+      "type": "adjective",
+      "meaning": "Firm, stable, or constant",
+      "example": "She maintained a steady pace during the run.",
+      "chinese": {
+        "meaning": "穩定的",
+        "example": "她在跑步時保持著穩定的速度。"
+      }
+    },
+    {
+      "word": "Steamed",
+      "type": "adjective",
+      "meaning": "Cooked or heated by steam",
+      "example": "The steamed dumplings were delicious.",
+      "chinese": {
+        "meaning": "蒸的",
+        "example": "蒸餃很好吃。"
+      }
+    },
+    {
+      "word": "Steamy",
+      "type": "adjective",
+      "meaning": "Full of steam or humidity",
+      "example": "The bathroom was hot and steamy.",
+      "chinese": {
+        "meaning": "充滿蒸氣的",
+        "example": "浴室又熱又滿是蒸氣。"
+      }
+    },
+    {
+      "word": "Steeled",
+      "type": "adjective",
+      "meaning": "Mentally prepared for something difficult",
+      "example": "She steeled herself for the bad news.",
+      "chinese": {
+        "meaning": "做好心理準備的",
+        "example": "她做好心理準備面對壞消息。"
+      }
+    },
+    {
       "word": "Steep",
       "type": "adjective",
       "letter": "S",
@@ -1126,6 +3525,26 @@
       "chinese": {
         "meaning": "陡峭的",
         "example": "這座山很陡。"
+      }
+    },
+    {
+      "word": "Stellar",
+      "type": "adjective",
+      "meaning": "Outstanding or relating to stars",
+      "example": "He gave a stellar performance.",
+      "chinese": {
+        "meaning": "傑出的；星星的",
+        "example": "他有出色的表現。"
+      }
+    },
+    {
+      "word": "Sterile",
+      "type": "adjective",
+      "meaning": "Free from germs; infertile",
+      "example": "The surgical instruments were sterile.",
+      "chinese": {
+        "meaning": "無菌的；不育的",
+        "example": "手術器械是無菌的。"
       }
     },
     {
@@ -1151,6 +3570,336 @@
       }
     },
     {
+      "word": "Stiff",
+      "type": "adjective",
+      "meaning": "Rigid or difficult to move",
+      "example": "His legs were stiff after the hike.",
+      "chinese": {
+        "meaning": "僵硬的",
+        "example": "徒步旅行後他的腿很僵硬。"
+      }
+    },
+    {
+      "word": "Stifled",
+      "type": "adjective",
+      "meaning": "Held back or suppressed",
+      "example": "She gave a stifled laugh.",
+      "chinese": {
+        "meaning": "被壓抑的",
+        "example": "她壓抑著笑出來。"
+      }
+    },
+    {
+      "word": "Still",
+      "type": "adjective",
+      "meaning": "Not moving; quiet",
+      "example": "The night was still and silent.",
+      "chinese": {
+        "meaning": "靜止的；安靜的",
+        "example": "夜晚非常安靜。"
+      }
+    },
+    {
+      "word": "Stimulated",
+      "type": "adjective",
+      "meaning": "Encouraged or activated",
+      "example": "The economy was stimulated by the new policy.",
+      "chinese": {
+        "meaning": "被刺激的；被激勵的",
+        "example": "新政策刺激了經濟。"
+      }
+    },
+    {
+      "word": "Stimulating",
+      "type": "adjective",
+      "meaning": "Exciting or invigorating",
+      "example": "The class was intellectually stimulating.",
+      "chinese": {
+        "meaning": "激勵人的；令人興奮的",
+        "example": "這堂課在智力上很有刺激性。"
+      }
+    },
+    {
+      "word": "Stinging",
+      "type": "adjective",
+      "meaning": "Sharp or painful",
+      "example": "He felt a stinging pain in his hand.",
+      "chinese": {
+        "meaning": "刺痛的",
+        "example": "他感到手上有刺痛感。"
+      }
+    },
+    {
+      "word": "Stingy",
+      "type": "adjective",
+      "meaning": "Unwilling to spend or give",
+      "example": "He is too stingy to donate money.",
+      "chinese": {
+        "meaning": "吝嗇的",
+        "example": "他太吝嗇，不願意捐錢。"
+      }
+    },
+    {
+      "word": "Stirred",
+      "type": "adjective",
+      "meaning": "Moved or affected emotionally",
+      "example": "She was deeply stirred by his words.",
+      "chinese": {
+        "meaning": "被感動的",
+        "example": "她被他的話深深感動。"
+      }
+    },
+    {
+      "word": "Stirring",
+      "type": "adjective",
+      "meaning": "Inspiring strong emotion",
+      "example": "The speech was stirring.",
+      "chinese": {
+        "meaning": "激動人心的",
+        "example": "演講令人激動。"
+      }
+    },
+    {
+      "word": "Stoic",
+      "type": "adjective",
+      "meaning": "Showing no emotion despite suffering",
+      "example": "He remained stoic during the trial.",
+      "chinese": {
+        "meaning": "堅忍的",
+        "example": "在審判期間他依然堅忍。"
+      }
+    },
+    {
+      "word": "Stolen",
+      "type": "adjective",
+      "meaning": "Taken without permission",
+      "example": "The stolen car was found abandoned.",
+      "chinese": {
+        "meaning": "被偷的",
+        "example": "被偷的車被遺棄了。"
+      }
+    },
+    {
+      "word": "Stomach",
+      "type": "adjective",
+      "meaning": "Relating to the stomach",
+      "example": "She had stomach problems.",
+      "chinese": {
+        "meaning": "胃的",
+        "example": "她有胃部問題。"
+      }
+    },
+    {
+      "word": "Stone",
+      "type": "adjective",
+      "meaning": "Made of stone; very hard",
+      "example": "The stone wall was ancient.",
+      "chinese": {
+        "meaning": "石頭的；堅硬的",
+        "example": "這堵石牆非常古老。"
+      }
+    },
+    {
+      "word": "Stony",
+      "type": "adjective",
+      "meaning": "Cold and unfeeling",
+      "example": "She gave him a stony look.",
+      "chinese": {
+        "meaning": "冷酷的",
+        "example": "她給了他一個冷酷的眼神。"
+      }
+    },
+    {
+      "word": "Stooped",
+      "type": "adjective",
+      "meaning": "Bent forward",
+      "example": "The old man was stooped with age.",
+      "chinese": {
+        "meaning": "彎腰的",
+        "example": "那位老人因年老而彎腰駝背。"
+      }
+    },
+    {
+      "word": "Stopped",
+      "type": "adjective",
+      "meaning": "No longer moving or happening",
+      "example": "The stopped train caused delays.",
+      "chinese": {
+        "meaning": "停止的",
+        "example": "停駛的火車造成延誤。"
+      }
+    },
+    {
+      "word": "Storied",
+      "type": "adjective",
+      "meaning": "Famous in history or legend",
+      "example": "The castle has a storied past.",
+      "chinese": {
+        "meaning": "歷史悠久的",
+        "example": "這座城堡有著悠久的歷史。"
+      }
+    },
+    {
+      "word": "Stormy",
+      "type": "adjective",
+      "meaning": "Characterized by storms or conflict",
+      "example": "They had a stormy relationship.",
+      "chinese": {
+        "meaning": "暴風雨的；激烈的",
+        "example": "他們的關係充滿爭吵。"
+      }
+    },
+    {
+      "word": "Stout",
+      "type": "adjective",
+      "meaning": "Strong or thick; slightly fat",
+      "example": "He was a stout man with a big laugh.",
+      "chinese": {
+        "meaning": "結實的；肥胖的",
+        "example": "他是個結實的大笑男子。"
+      }
+    },
+    {
+      "word": "Straight",
+      "type": "adjective",
+      "meaning": "Not curved; direct",
+      "example": "The road is straight for miles.",
+      "chinese": {
+        "meaning": "筆直的；直接的",
+        "example": "這條路直延伸好幾英里。"
+      }
+    },
+    {
+      "word": "Straightforward",
+      "type": "adjective",
+      "meaning": "Easy to understand; honest",
+      "example": "The instructions were straightforward.",
+      "chinese": {
+        "meaning": "簡單明瞭的；坦率的",
+        "example": "說明非常簡單明瞭。"
+      }
+    },
+    {
+      "word": "Strained",
+      "type": "adjective",
+      "meaning": "Tense or uneasy",
+      "example": "There was a strained silence in the room.",
+      "chinese": {
+        "meaning": "緊張的",
+        "example": "房間裡有種緊張的沉默。"
+      }
+    },
+    {
+      "word": "Strange",
+      "type": "adjective",
+      "meaning": "Unfamiliar or unusual",
+      "example": "She felt strange in the new city.",
+      "chinese": {
+        "meaning": "陌生的；奇怪的",
+        "example": "她在新城市感覺很陌生。"
+      }
+    },
+    {
+      "word": "Stranger",
+      "type": "adjective",
+      "meaning": "More unusual or unfamiliar",
+      "example": "This situation is stranger than fiction.",
+      "chinese": {
+        "meaning": "更奇怪的",
+        "example": "這情況比小說還奇怪。"
+      }
+    },
+    {
+      "word": "Strategic",
+      "type": "adjective",
+      "meaning": "Relating to strategy or planning",
+      "example": "We need a strategic plan for growth.",
+      "chinese": {
+        "meaning": "戰略性的",
+        "example": "我們需要一個戰略增長計劃。"
+      }
+    },
+    {
+      "word": "Stratified",
+      "type": "adjective",
+      "meaning": "Arranged in layers",
+      "example": "Society is often stratified by income.",
+      "chinese": {
+        "meaning": "分層的",
+        "example": "社會經常按收入分層。"
+      }
+    },
+    {
+      "word": "Streaked",
+      "type": "adjective",
+      "meaning": "Marked with streaks",
+      "example": "Her face was streaked with tears.",
+      "chinese": {
+        "meaning": "有條紋的；帶痕跡的",
+        "example": "她的臉上帶著淚痕。"
+      }
+    },
+    {
+      "word": "Streamlined",
+      "type": "adjective",
+      "meaning": "Designed for efficiency or speed",
+      "example": "The car has a streamlined design.",
+      "chinese": {
+        "meaning": "流線型的；簡化的",
+        "example": "這輛車的設計是流線型的。"
+      }
+    },
+    {
+      "word": "Street",
+      "type": "adjective",
+      "meaning": "Relating to a street",
+      "example": "Street vendors sell food here.",
+      "chinese": {
+        "meaning": "街道的",
+        "example": "這裡有街頭小販賣食物。"
+      }
+    },
+    {
+      "word": "Strenuous",
+      "type": "adjective",
+      "meaning": "Requiring great effort",
+      "example": "The climb was strenuous but rewarding.",
+      "chinese": {
+        "meaning": "費力的",
+        "example": "攀登雖然費力但值得。"
+      }
+    },
+    {
+      "word": "Stressed",
+      "type": "adjective",
+      "meaning": "Feeling anxious or worried",
+      "example": "He was stressed before the exam.",
+      "chinese": {
+        "meaning": "有壓力的",
+        "example": "考試前他感到壓力很大。"
+      }
+    },
+    {
+      "word": "Stressful",
+      "type": "adjective",
+      "meaning": "Causing stress",
+      "example": "The job can be stressful at times.",
+      "chinese": {
+        "meaning": "壓力大的",
+        "example": "這份工作有時會很有壓力。"
+      }
+    },
+    {
+      "word": "Stretchy",
+      "type": "adjective",
+      "meaning": "Able to stretch easily",
+      "example": "The fabric is soft and stretchy.",
+      "chinese": {
+        "meaning": "有彈性的",
+        "example": "這種布料柔軟而有彈性。"
+      }
+    },
+    {
       "word": "Strict",
       "type": "adjective",
       "letter": "S",
@@ -1159,6 +3908,36 @@
       "chinese": {
         "meaning": "嚴格的",
         "example": "他父母很嚴格。"
+      }
+    },
+    {
+      "word": "Striking",
+      "type": "adjective",
+      "meaning": "Attractive or noticeable",
+      "example": "She has striking blue eyes.",
+      "chinese": {
+        "meaning": "顯著的；迷人的",
+        "example": "她有一雙顯著的藍眼睛。"
+      }
+    },
+    {
+      "word": "Striped",
+      "type": "adjective",
+      "meaning": "Marked with stripes",
+      "example": "He wore a striped shirt.",
+      "chinese": {
+        "meaning": "有條紋的",
+        "example": "他穿著條紋襯衫。"
+      }
+    },
+    {
+      "word": "Stripped",
+      "type": "adjective",
+      "meaning": "Having had something removed",
+      "example": "The stripped walls awaited new paint.",
+      "chinese": {
+        "meaning": "被剝光的；去除的",
+        "example": "被剝光的牆壁等待新漆。"
       }
     },
     {
@@ -1173,6 +3952,36 @@
       }
     },
     {
+      "word": "Strong-willed",
+      "type": "adjective",
+      "meaning": "Having a determined and resolute will",
+      "example": "She is a strong-willed leader.",
+      "chinese": {
+        "meaning": "意志堅定的",
+        "example": "她是一個意志堅定的領導者。"
+      }
+    },
+    {
+      "word": "Stronger",
+      "type": "adjective",
+      "meaning": "Having more strength or power",
+      "example": "He is stronger than his brother.",
+      "chinese": {
+        "meaning": "更強壯的",
+        "example": "他比他哥哥更強壯。"
+      }
+    },
+    {
+      "word": "Structural",
+      "type": "adjective",
+      "meaning": "Relating to the structure of something",
+      "example": "The building has structural damage.",
+      "chinese": {
+        "meaning": "結構的",
+        "example": "這棟建築有結構性損壞。"
+      }
+    },
+    {
       "word": "Stubborn",
       "type": "adjective",
       "letter": "S",
@@ -1181,6 +3990,36 @@
       "chinese": {
         "meaning": "固執的；倔強的",
         "example": "她太固執，不肯承認錯誤。"
+      }
+    },
+    {
+      "word": "Stuck",
+      "type": "adjective",
+      "meaning": "Unable to move or escape",
+      "example": "We were stuck in traffic for hours.",
+      "chinese": {
+        "meaning": "卡住的",
+        "example": "我們被堵在路上幾個小時。"
+      }
+    },
+    {
+      "word": "Studied",
+      "type": "adjective",
+      "meaning": "Deliberate or carefully considered",
+      "example": "He gave a studied response.",
+      "chinese": {
+        "meaning": "深思熟慮的",
+        "example": "他給出了一個深思熟慮的回答。"
+      }
+    },
+    {
+      "word": "Stuffed",
+      "type": "adjective",
+      "meaning": "Filled with something; very full",
+      "example": "The turkey was stuffed with herbs.",
+      "chinese": {
+        "meaning": "填滿的；吃得太飽的",
+        "example": "火雞裡填滿了香草。"
       }
     },
     {
@@ -1195,6 +4034,36 @@
       }
     },
     {
+      "word": "Stunted",
+      "type": "adjective",
+      "meaning": "Prevented from growing or developing properly",
+      "example": "The plant's growth was stunted by lack of sunlight.",
+      "chinese": {
+        "meaning": "受阻的；發育不良的",
+        "example": "植物因缺少陽光而生長受阻。"
+      }
+    },
+    {
+      "word": "Stupid",
+      "type": "adjective",
+      "meaning": "Lacking intelligence or common sense",
+      "example": "It was a stupid mistake.",
+      "chinese": {
+        "meaning": "愚蠢的",
+        "example": "那是個愚蠢的錯誤。"
+      }
+    },
+    {
+      "word": "Sturdy",
+      "type": "adjective",
+      "meaning": "Strongly built or solid",
+      "example": "The table is sturdy and durable.",
+      "chinese": {
+        "meaning": "結實的",
+        "example": "這張桌子結實耐用。"
+      }
+    },
+    {
       "word": "Stylish",
       "type": "adjective",
       "letter": "S",
@@ -1203,6 +4072,96 @@
       "chinese": {
         "meaning": "時髦的；有型的",
         "example": "他總是穿得很時髦。"
+      }
+    },
+    {
+      "word": "Subjective",
+      "type": "adjective",
+      "meaning": "Based on personal feelings or opinions",
+      "example": "Taste is often subjective.",
+      "chinese": {
+        "meaning": "主觀的",
+        "example": "口味往往是主觀的。"
+      }
+    },
+    {
+      "word": "Submissive",
+      "type": "adjective",
+      "meaning": "Ready to conform to authority or others",
+      "example": "She is too submissive to speak up.",
+      "chinese": {
+        "meaning": "順從的",
+        "example": "她太順從而不敢發言。"
+      }
+    },
+    {
+      "word": "Subordinate",
+      "type": "adjective",
+      "meaning": "Lower in rank or position",
+      "example": "He is in a subordinate role at work.",
+      "chinese": {
+        "meaning": "下級的；從屬的",
+        "example": "他在工作中處於下級職位。"
+      }
+    },
+    {
+      "word": "Subpar",
+      "type": "adjective",
+      "meaning": "Below the usual or expected standard",
+      "example": "The quality of the meal was subpar.",
+      "chinese": {
+        "meaning": "低於標準的",
+        "example": "這頓飯的質量低於標準。"
+      }
+    },
+    {
+      "word": "Subsequent",
+      "type": "adjective",
+      "meaning": "Coming after something in time",
+      "example": "The subsequent events were even more shocking.",
+      "chinese": {
+        "meaning": "隨後的",
+        "example": "隨後的事件更令人震驚。"
+      }
+    },
+    {
+      "word": "Subservient",
+      "type": "adjective",
+      "meaning": "Excessively willing to obey",
+      "example": "He was too subservient to challenge the boss.",
+      "chinese": {
+        "meaning": "卑躬屈膝的",
+        "example": "他太卑躬屈膝，不敢挑戰老闆。"
+      }
+    },
+    {
+      "word": "Substantial",
+      "type": "adjective",
+      "meaning": "Of considerable importance, size, or worth",
+      "example": "They made a substantial investment.",
+      "chinese": {
+        "meaning": "大量的；重要的",
+        "example": "他們進行了大量投資。"
+      }
+    },
+    {
+      "word": "Substantive",
+      "type": "adjective",
+      "meaning": "Having a firm basis in reality; meaningful",
+      "example": "We had a substantive discussion about the issue.",
+      "chinese": {
+        "meaning": "實質性的",
+        "example": "我們就這個問題進行了實質性的討論。"
+      }
+    },
+    {
+      "word": "Subterranean",
+      "type": "adjective",
+      "meaning": "Existing or operating below the surface of the earth",
+      "example": "There are subterranean tunnels under the city.",
+      "chinese": {
+        "meaning": "地下的",
+        "example": "城市下面有地下隧道。"
       }
     },
     {
@@ -1217,6 +4176,16 @@
       }
     },
     {
+      "word": "Subversive",
+      "type": "adjective",
+      "meaning": "Intended to undermine or overthrow",
+      "example": "The group was accused of subversive activities.",
+      "chinese": {
+        "meaning": "顛覆性的",
+        "example": "該組織被指控進行顛覆活動。"
+      }
+    },
+    {
       "word": "Successful",
       "type": "adjective",
       "letter": "S",
@@ -1225,6 +4194,36 @@
       "chinese": {
         "meaning": "成功的",
         "example": "她是一位成功的女企業家。"
+      }
+    },
+    {
+      "word": "Successive",
+      "type": "adjective",
+      "meaning": "Following one after another",
+      "example": "She won the award for three successive years.",
+      "chinese": {
+        "meaning": "連續的",
+        "example": "她連續三年獲獎。"
+      }
+    },
+    {
+      "word": "Succinct",
+      "type": "adjective",
+      "meaning": "Brief and clearly expressed",
+      "example": "He gave a succinct explanation.",
+      "chinese": {
+        "meaning": "簡潔的",
+        "example": "他給出了簡潔的解釋。"
+      }
+    },
+    {
+      "word": "Succulent",
+      "type": "adjective",
+      "meaning": "Juicy or tender; rich in interest",
+      "example": "The steak was succulent and flavorful.",
+      "chinese": {
+        "meaning": "多汁的",
+        "example": "牛排多汁又美味。"
       }
     },
     {
@@ -1239,6 +4238,36 @@
       }
     },
     {
+      "word": "Sufficient",
+      "type": "adjective",
+      "meaning": "Enough; adequate",
+      "example": "There is sufficient time to finish the project.",
+      "chinese": {
+        "meaning": "足夠的",
+        "example": "有足夠的時間完成這個項目。"
+      }
+    },
+    {
+      "word": "Sugar",
+      "type": "adjective",
+      "meaning": "Containing or resembling sugar",
+      "example": "This dessert is too sugar sweet.",
+      "chinese": {
+        "meaning": "含糖的",
+        "example": "這道甜點太甜了。"
+      }
+    },
+    {
+      "word": "Suggestive",
+      "type": "adjective",
+      "meaning": "Tending to suggest or imply",
+      "example": "Her tone was suggestive of anger.",
+      "chinese": {
+        "meaning": "暗示的",
+        "example": "她的語氣暗示著憤怒。"
+      }
+    },
+    {
       "word": "Suitable",
       "type": "adjective",
       "letter": "S",
@@ -1247,6 +4276,56 @@
       "chinese": {
         "meaning": "適合的；合適的",
         "example": "這件洋裝很適合這場合。"
+      }
+    },
+    {
+      "word": "Sulky",
+      "type": "adjective",
+      "meaning": "Bad-tempered and resentful",
+      "example": "He looked sulky after the argument.",
+      "chinese": {
+        "meaning": "生悶氣的",
+        "example": "爭吵後他看起來很生悶氣。"
+      }
+    },
+    {
+      "word": "Sultry",
+      "type": "adjective",
+      "meaning": "Hot and humid; attractive in a passionate way",
+      "example": "It was a sultry summer night.",
+      "chinese": {
+        "meaning": "悶熱的；性感的",
+        "example": "那是一個悶熱的夏夜。"
+      }
+    },
+    {
+      "word": "Sumptuous",
+      "type": "adjective",
+      "meaning": "Splendid and expensive-looking",
+      "example": "They enjoyed a sumptuous banquet.",
+      "chinese": {
+        "meaning": "奢華的",
+        "example": "他們享受了一場奢華的宴會。"
+      }
+    },
+    {
+      "word": "Sunny",
+      "type": "adjective",
+      "meaning": "Bright with sunlight; cheerful",
+      "example": "She has a sunny personality.",
+      "chinese": {
+        "meaning": "陽光的；開朗的",
+        "example": "她有開朗的性格。"
+      }
+    },
+    {
+      "word": "Super",
+      "type": "adjective",
+      "meaning": "Excellent or superior",
+      "example": "The meal was super tasty.",
+      "chinese": {
+        "meaning": "極好的",
+        "example": "這頓飯非常美味。"
       }
     },
     {
@@ -1261,6 +4340,26 @@
       }
     },
     {
+      "word": "Supercharged",
+      "type": "adjective",
+      "meaning": "Enhanced with extra energy or power",
+      "example": "The team played with supercharged energy.",
+      "chinese": {
+        "meaning": "充滿能量的",
+        "example": "球隊以充滿能量的狀態比賽。"
+      }
+    },
+    {
+      "word": "Supercilious",
+      "type": "adjective",
+      "meaning": "Behaving as though superior to others",
+      "example": "He gave a supercilious smile.",
+      "chinese": {
+        "meaning": "高傲的",
+        "example": "他露出一個高傲的微笑。"
+      }
+    },
+    {
       "word": "Superficial",
       "type": "adjective",
       "letter": "S",
@@ -1269,6 +4368,66 @@
       "chinese": {
         "meaning": "表面的；膚淺的",
         "example": "他對這個主題的了解很膚淺。"
+      }
+    },
+    {
+      "word": "Superfluous",
+      "type": "adjective",
+      "meaning": "Unnecessary; more than enough",
+      "example": "The explanation was superfluous.",
+      "chinese": {
+        "meaning": "多餘的",
+        "example": "這個解釋是多餘的。"
+      }
+    },
+    {
+      "word": "Superior",
+      "type": "adjective",
+      "meaning": "Higher in rank, status, or quality",
+      "example": "Her work is superior to his.",
+      "chinese": {
+        "meaning": "優越的",
+        "example": "她的工作比他優越。"
+      }
+    },
+    {
+      "word": "Superlative",
+      "type": "adjective",
+      "meaning": "Of the highest quality or degree",
+      "example": "She gave a superlative performance.",
+      "chinese": {
+        "meaning": "最高級的",
+        "example": "她有著最高級的表現。"
+      }
+    },
+    {
+      "word": "Supernatural",
+      "type": "adjective",
+      "meaning": "Attributed to some force beyond scientific understanding or the laws of nature",
+      "example": "The story involves supernatural beings.",
+      "chinese": {
+        "meaning": "超自然的",
+        "example": "這個故事涉及超自然生物。"
+      }
+    },
+    {
+      "word": "Supple",
+      "type": "adjective",
+      "meaning": "Bending and moving easily and gracefully; flexible",
+      "example": "She has a supple body from years of yoga.",
+      "chinese": {
+        "meaning": "柔軟的；靈活的",
+        "example": "多年瑜伽讓她的身體非常柔軟。"
+      }
+    },
+    {
+      "word": "Supplemental",
+      "type": "adjective",
+      "meaning": "Provided in addition to what is already present or available",
+      "example": "The company offers supplemental insurance.",
+      "chinese": {
+        "meaning": "補充的",
+        "example": "公司提供補充保險。"
       }
     },
     {
@@ -1283,6 +4442,66 @@
       }
     },
     {
+      "word": "Suppressed",
+      "type": "adjective",
+      "meaning": "Forcibly put an end to; restrained",
+      "example": "The protest was quickly suppressed.",
+      "chinese": {
+        "meaning": "被壓制的",
+        "example": "抗議很快被壓制了。"
+      }
+    },
+    {
+      "word": "Supreme",
+      "type": "adjective",
+      "meaning": "Highest in rank or authority; utmost",
+      "example": "She made a supreme effort to win.",
+      "chinese": {
+        "meaning": "最高的；至高無上的",
+        "example": "她付出了最大的努力去贏。"
+      }
+    },
+    {
+      "word": "Sure",
+      "type": "adjective",
+      "meaning": "Confident in what one thinks or knows; certain",
+      "example": "Are you sure about this decision?",
+      "chinese": {
+        "meaning": "確定的",
+        "example": "你對這個決定確定嗎？"
+      }
+    },
+    {
+      "word": "Surgical",
+      "type": "adjective",
+      "meaning": "Relating to or used in surgery",
+      "example": "He needed surgical intervention.",
+      "chinese": {
+        "meaning": "外科的",
+        "example": "他需要進行外科手術。"
+      }
+    },
+    {
+      "word": "Surplus",
+      "type": "adjective",
+      "meaning": "More than what is needed or used; excess",
+      "example": "They sold surplus goods at a discount.",
+      "chinese": {
+        "meaning": "過剩的",
+        "example": "他們以折扣價出售過剩商品。"
+      }
+    },
+    {
+      "word": "Surprised",
+      "type": "adjective",
+      "meaning": "Feeling or showing surprise",
+      "example": "I was surprised by the news.",
+      "chinese": {
+        "meaning": "驚訝的",
+        "example": "這個消息讓我很驚訝。"
+      }
+    },
+    {
       "word": "Surprising",
       "type": "adjective",
       "letter": "S",
@@ -1291,6 +4510,46 @@
       "chinese": {
         "meaning": "令人驚訝的",
         "example": "結果讓人很驚訝。"
+      }
+    },
+    {
+      "word": "Surrogate",
+      "type": "adjective",
+      "meaning": "Substitute, especially a person deputizing for another",
+      "example": "She is a surrogate mother.",
+      "chinese": {
+        "meaning": "代理的",
+        "example": "她是一名代孕母親。"
+      }
+    },
+    {
+      "word": "Surrounded",
+      "type": "adjective",
+      "meaning": "Enclosed or circled around by something",
+      "example": "The house is surrounded by trees.",
+      "chinese": {
+        "meaning": "被包圍的",
+        "example": "房子被樹木包圍著。"
+      }
+    },
+    {
+      "word": "Susceptible",
+      "type": "adjective",
+      "meaning": "Likely to be influenced or harmed by something",
+      "example": "Young children are susceptible to colds.",
+      "chinese": {
+        "meaning": "易受影響的",
+        "example": "小孩子容易感冒。"
+      }
+    },
+    {
+      "word": "Suspenseful",
+      "type": "adjective",
+      "meaning": "Causing a feeling of excitement or nervous uncertainty",
+      "example": "The movie was suspenseful until the end.",
+      "chinese": {
+        "meaning": "懸疑的",
+        "example": "這部電影直到最後都很懸疑。"
       }
     },
     {
@@ -1305,6 +4564,66 @@
       }
     },
     {
+      "word": "Sustainable",
+      "type": "adjective",
+      "meaning": "Able to be maintained at a certain level; environmentally friendly",
+      "example": "We need sustainable energy solutions.",
+      "chinese": {
+        "meaning": "可持續的",
+        "example": "我們需要可持續的能源解決方案。"
+      }
+    },
+    {
+      "word": "Sustained",
+      "type": "adjective",
+      "meaning": "Continuing for an extended period or without interruption",
+      "example": "The patient made sustained progress.",
+      "chinese": {
+        "meaning": "持續的",
+        "example": "病人持續地進步。"
+      }
+    },
+    {
+      "word": "Swampy",
+      "type": "adjective",
+      "meaning": "Resembling or characteristic of a swamp; wet and muddy",
+      "example": "The area is swampy after the rain.",
+      "chinese": {
+        "meaning": "沼澤的",
+        "example": "下雨後這個地區變得很沼澤。"
+      }
+    },
+    {
+      "word": "Swarthy",
+      "type": "adjective",
+      "meaning": "Having a dark complexion",
+      "example": "The sailor had a swarthy face.",
+      "chinese": {
+        "meaning": "黝黑的",
+        "example": "那個水手有張黝黑的臉。"
+      }
+    },
+    {
+      "word": "Sweet",
+      "type": "adjective",
+      "meaning": "Having the pleasant taste characteristic of sugar; kind",
+      "example": "She has a sweet smile.",
+      "chinese": {
+        "meaning": "甜的；可愛的",
+        "example": "她有著甜美的笑容。"
+      }
+    },
+    {
+      "word": "Swelling",
+      "type": "adjective",
+      "meaning": "Expanding in size; inflamed",
+      "example": "He has a swelling ankle.",
+      "chinese": {
+        "meaning": "腫脹的",
+        "example": "他的腳踝腫了。"
+      }
+    },
+    {
       "word": "Swift",
       "type": "adjective",
       "letter": "S",
@@ -1313,6 +4632,136 @@
       "chinese": {
         "meaning": "迅速的；敏捷的",
         "example": "她做出迅速的決定。"
+      }
+    },
+    {
+      "word": "Swollen",
+      "type": "adjective",
+      "meaning": "Abnormally enlarged or puffed up",
+      "example": "Her eyes were swollen from crying.",
+      "chinese": {
+        "meaning": "腫脹的",
+        "example": "她哭得眼睛都腫了。"
+      }
+    },
+    {
+      "word": "Symbolic",
+      "type": "adjective",
+      "meaning": "Serving as a symbol",
+      "example": "The dove is symbolic of peace.",
+      "chinese": {
+        "meaning": "象徵性的",
+        "example": "鴿子象徵著和平。"
+      }
+    },
+    {
+      "word": "Symmetrical",
+      "type": "adjective",
+      "meaning": "Having symmetry; balanced proportions",
+      "example": "The design is perfectly symmetrical.",
+      "chinese": {
+        "meaning": "對稱的",
+        "example": "這個設計完全對稱。"
+      }
+    },
+    {
+      "word": "Sympathetic",
+      "type": "adjective",
+      "meaning": "Feeling or showing concern for others",
+      "example": "She is sympathetic to his problems.",
+      "chinese": {
+        "meaning": "有同情心的",
+        "example": "她對他的問題表示同情。"
+      }
+    },
+    {
+      "word": "Symptomatic",
+      "type": "adjective",
+      "meaning": "Serving as a symptom or sign of something",
+      "example": "His behavior is symptomatic of deeper issues.",
+      "chinese": {
+        "meaning": "症狀性的；表徵的",
+        "example": "他的行為是更深層問題的表徵。"
+      }
+    },
+    {
+      "word": "Synchronized",
+      "type": "adjective",
+      "meaning": "Operating in unison",
+      "example": "The dancers were perfectly synchronized.",
+      "chinese": {
+        "meaning": "同步的",
+        "example": "舞者們完美地同步。"
+      }
+    },
+    {
+      "word": "Syncretic",
+      "type": "adjective",
+      "meaning": "Combining different beliefs or practices",
+      "example": "The religion is syncretic in nature.",
+      "chinese": {
+        "meaning": "融合的",
+        "example": "這個宗教具有融合性質。"
+      }
+    },
+    {
+      "word": "Syndicated",
+      "type": "adjective",
+      "meaning": "Sold for publication in multiple outlets",
+      "example": "The syndicated column appears in many newspapers.",
+      "chinese": {
+        "meaning": "聯合發行的",
+        "example": "這個專欄聯合發行於多家報紙。"
+      }
+    },
+    {
+      "word": "Synonymous",
+      "type": "adjective",
+      "meaning": "Having the same or nearly the same meaning",
+      "example": "The two words are synonymous.",
+      "chinese": {
+        "meaning": "同義的",
+        "example": "這兩個詞是同義的。"
+      }
+    },
+    {
+      "word": "Synoptic",
+      "type": "adjective",
+      "meaning": "Presenting a general view or summary",
+      "example": "We had a synoptic discussion of the plan.",
+      "chinese": {
+        "meaning": "概要的",
+        "example": "我們對這個計劃進行了概要討論。"
+      }
+    },
+    {
+      "word": "Synthetic",
+      "type": "adjective",
+      "meaning": "Made by chemical synthesis; artificial",
+      "example": "This fabric is made of synthetic materials.",
+      "chinese": {
+        "meaning": "合成的",
+        "example": "這種布料是由合成材料製成的。"
+      }
+    },
+    {
+      "word": "Systematic",
+      "type": "adjective",
+      "meaning": "Done according to a system or method",
+      "example": "We need a systematic approach.",
+      "chinese": {
+        "meaning": "系統的",
+        "example": "我們需要一個系統的方法。"
+      }
+    },
+    {
+      "word": "Systemic",
+      "type": "adjective",
+      "meaning": "Relating to a system as a whole",
+      "example": "There are systemic problems in the organization.",
+      "chinese": {
+        "meaning": "系統性的",
+        "example": "該組織存在系統性問題。"
       }
     }
   ]
