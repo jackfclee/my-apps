@@ -12,6 +12,16 @@
       }
     },
     {
+      "word": "Saccharine",
+      "type": "adjective",
+      "meaning": "Excessively sweet or sentimental",
+      "example": "Her saccharine smile seemed insincere.",
+      "chinese": {
+        "meaning": "過分甜蜜的；矯情的",
+        "example": "她那矯情的微笑顯得不真誠。"
+      }
+    },
+    {
       "word": "Sacred",
       "type": "adjective",
       "letter": "S",
@@ -20,6 +30,16 @@
       "chinese": {
         "meaning": "神聖的；宗教的",
         "example": "這座廟宇對許多人來說是神聖的地方。"
+      }
+    },
+    {
+      "word": "Sacrificial",
+      "type": "adjective",
+      "meaning": "Relating to or used in a sacrifice",
+      "example": "They offered sacrificial animals at the altar.",
+      "chinese": {
+        "meaning": "犧牲的；祭祀的",
+        "example": "他們在祭壇上獻上祭祀用的牲畜。"
       }
     },
     {
@@ -45,6 +65,86 @@
       }
     },
     {
+      "word": "Sagacious",
+      "type": "adjective",
+      "meaning": "Having keen mental discernment and good judgment",
+      "example": "The sagacious leader avoided conflict.",
+      "chinese": {
+        "meaning": "睿智的",
+        "example": "睿智的領袖避免了衝突。"
+      }
+    },
+    {
+      "word": "Sage",
+      "type": "adjective",
+      "meaning": "Wise, especially as a result of great experience",
+      "example": "He offered sage advice.",
+      "chinese": {
+        "meaning": "賢明的",
+        "example": "他給出了賢明的建議。"
+      }
+    },
+    {
+      "word": "Sainted",
+      "type": "adjective",
+      "meaning": "Regarded as a saint or virtuous person",
+      "example": "She lived a sainted life of charity.",
+      "chinese": {
+        "meaning": "聖潔的",
+        "example": "她過著聖潔的慈善生活。"
+      }
+    },
+    {
+      "word": "Salacious",
+      "type": "adjective",
+      "meaning": "Having or showing an excessive interest in sexual matters",
+      "example": "The tabloid published a salacious story.",
+      "chinese": {
+        "meaning": "淫穢的",
+        "example": "八卦小報刊登了一則淫穢的故事。"
+      }
+    },
+    {
+      "word": "Salient",
+      "type": "adjective",
+      "meaning": "Most noticeable or important",
+      "example": "The salient features of the plan were explained.",
+      "chinese": {
+        "meaning": "顯著的",
+        "example": "計劃中的顯著特點得到了說明。"
+      }
+    },
+    {
+      "word": "Saline",
+      "type": "adjective",
+      "meaning": "Containing or resembling salt",
+      "example": "The water in the lake was slightly saline.",
+      "chinese": {
+        "meaning": "鹹的；鹽的",
+        "example": "湖水略帶鹹味。"
+      }
+    },
+    {
+      "word": "Sallow",
+      "type": "adjective",
+      "meaning": "Of an unhealthy yellow or pale brown color",
+      "example": "His sallow complexion worried the doctor.",
+      "chinese": {
+        "meaning": "蠟黃的",
+        "example": "他蠟黃的臉色讓醫生擔憂。"
+      }
+    },
+    {
+      "word": "Salmon",
+      "type": "adjective",
+      "meaning": "Of a pinkish-orange color like the fish",
+      "example": "She wore a salmon dress.",
+      "chinese": {
+        "meaning": "鮭魚色的",
+        "example": "她穿著一件鮭魚色的裙子。"
+      }
+    },
+    {
       "word": "Salty",
       "type": "adjective",
       "letter": "S",
@@ -53,6 +153,66 @@
       "chinese": {
         "meaning": "鹹的",
         "example": "這湯太鹹了。"
+      }
+    },
+    {
+      "word": "Salubrious",
+      "type": "adjective",
+      "meaning": "Health-giving; pleasant",
+      "example": "They moved to a more salubrious area.",
+      "chinese": {
+        "meaning": "有益健康的",
+        "example": "他們搬到了更有益健康的地區。"
+      }
+    },
+    {
+      "word": "Salutary",
+      "type": "adjective",
+      "meaning": "Producing good effects; beneficial",
+      "example": "The accident was a salutary reminder to drive carefully.",
+      "chinese": {
+        "meaning": "有益的",
+        "example": "這次事故是提醒人們小心駕駛的有益教訓。"
+      }
+    },
+    {
+      "word": "Salvaged",
+      "type": "adjective",
+      "meaning": "Rescued or saved from loss or destruction",
+      "example": "They used salvaged materials to build the shelter.",
+      "chinese": {
+        "meaning": "被打撈的；被挽救的",
+        "example": "他們用打撈到的材料建造了避難所。"
+      }
+    },
+    {
+      "word": "Same",
+      "type": "adjective",
+      "meaning": "Identical; not different",
+      "example": "We ordered the same dish.",
+      "chinese": {
+        "meaning": "相同的",
+        "example": "我們點了相同的菜。"
+      }
+    },
+    {
+      "word": "Sanctified",
+      "type": "adjective",
+      "meaning": "Made holy or declared sacred",
+      "example": "The ground was sanctified by prayer.",
+      "chinese": {
+        "meaning": "神聖化的",
+        "example": "土地因祈禱而神聖化。"
+      }
+    },
+    {
+      "word": "Sanctimonious",
+      "type": "adjective",
+      "meaning": "Making a show of being morally superior to others",
+      "example": "He gave a sanctimonious lecture on morality.",
+      "chinese": {
+        "meaning": "假裝虔誠的",
+        "example": "他做了一場假裝道德高尚的演講。"
       }
     },
     {
@@ -67,6 +227,36 @@
       }
     },
     {
+      "word": "Sanguine",
+      "type": "adjective",
+      "meaning": "Optimistic or positive, especially in a difficult situation",
+      "example": "She remained sanguine about the future.",
+      "chinese": {
+        "meaning": "樂觀的",
+        "example": "她對未來仍然保持樂觀。"
+      }
+    },
+    {
+      "word": "Sapient",
+      "type": "adjective",
+      "meaning": "Wise, or attempting to appear wise",
+      "example": "The professor made a sapient remark.",
+      "chinese": {
+        "meaning": "聰慧的",
+        "example": "教授發表了一番聰慧的言論。"
+      }
+    },
+    {
+      "word": "Sapphire",
+      "type": "adjective",
+      "meaning": "Deep, vivid blue",
+      "example": "The ocean looked sapphire in the sunlight.",
+      "chinese": {
+        "meaning": "藍寶石色的",
+        "example": "陽光下的大海呈藍寶石色。"
+      }
+    },
+    {
       "word": "Sarcastic",
       "type": "adjective",
       "letter": "S",
@@ -75,6 +265,206 @@
       "chinese": {
         "meaning": "諷刺的；挖苦的",
         "example": "他諷刺的評論讓大家都很不悅。"
+      }
+    },
+    {
+      "word": "Sardonic",
+      "type": "adjective",
+      "meaning": "Grimly mocking or cynical",
+      "example": "He gave a sardonic smile.",
+      "chinese": {
+        "meaning": "冷嘲的",
+        "example": "他露出冷嘲的微笑。"
+      }
+    },
+    {
+      "word": "Sated",
+      "type": "adjective",
+      "meaning": "Satisfied to the full",
+      "example": "He was sated after the big meal.",
+      "chinese": {
+        "meaning": "吃飽的；滿足的",
+        "example": "大餐之後他已經吃飽了。"
+      }
+    },
+    {
+      "word": "Satiated",
+      "type": "adjective",
+      "meaning": "Fully satisfied",
+      "example": "The crowd was satiated with entertainment.",
+      "chinese": {
+        "meaning": "滿足的",
+        "example": "觀眾被娛樂節目完全滿足了。"
+      }
+    },
+    {
+      "word": "Satiny",
+      "type": "adjective",
+      "meaning": "Smooth and glossy like satin",
+      "example": "She had satiny skin.",
+      "chinese": {
+        "meaning": "光滑的",
+        "example": "她的皮膚很光滑。"
+      }
+    },
+    {
+      "word": "Satisfactory",
+      "type": "adjective",
+      "meaning": "Fulfilling expectations or needs",
+      "example": "The results were satisfactory.",
+      "chinese": {
+        "meaning": "令人滿意的",
+        "example": "結果令人滿意。"
+      }
+    },
+    {
+      "word": "Satisfied",
+      "type": "adjective",
+      "meaning": "Contented; pleased",
+      "example": "He was satisfied with his work.",
+      "chinese": {
+        "meaning": "滿意的",
+        "example": "他對自己的工作感到滿意。"
+      }
+    },
+    {
+      "word": "Satisfying",
+      "type": "adjective",
+      "meaning": "Giving fulfillment or pleasure",
+      "example": "Cooking a meal can be satisfying.",
+      "chinese": {
+        "meaning": "令人滿足的",
+        "example": "做一頓飯可能是令人滿足的。"
+      }
+    },
+    {
+      "word": "Saturated",
+      "type": "adjective",
+      "meaning": "Soaked thoroughly; holding as much water as possible",
+      "example": "The ground was saturated after the rain.",
+      "chinese": {
+        "meaning": "飽和的；濕透的",
+        "example": "雨後的地面濕透了。"
+      }
+    },
+    {
+      "word": "Saturnine",
+      "type": "adjective",
+      "meaning": "Slow and gloomy",
+      "example": "He had a saturnine expression.",
+      "chinese": {
+        "meaning": "憂鬱的",
+        "example": "他面帶憂鬱。"
+      }
+    },
+    {
+      "word": "Saucy",
+      "type": "adjective",
+      "meaning": "Boldly rude or disrespectful",
+      "example": "The child gave a saucy reply.",
+      "chinese": {
+        "meaning": "無禮的；調皮的",
+        "example": "孩子給出了一個無禮的回答。"
+      }
+    },
+    {
+      "word": "Savage",
+      "type": "adjective",
+      "meaning": "Fierce, violent, and uncontrolled",
+      "example": "The savage attack shocked everyone.",
+      "chinese": {
+        "meaning": "兇猛的；野蠻的",
+        "example": "這次兇猛的襲擊震驚了所有人。"
+      }
+    },
+    {
+      "word": "Saving",
+      "type": "adjective",
+      "meaning": "Preventing waste; preserving",
+      "example": "They adopted energy-saving measures.",
+      "chinese": {
+        "meaning": "節約的",
+        "example": "他們採取了節能措施。"
+      }
+    },
+    {
+      "word": "Savory",
+      "type": "adjective",
+      "meaning": "Having a pleasant taste or smell; salty rather than sweet",
+      "example": "The stew was very savory.",
+      "chinese": {
+        "meaning": "美味的；鹹味的",
+        "example": "這道燉菜非常美味。"
+      }
+    },
+    {
+      "word": "Savvy",
+      "type": "adjective",
+      "meaning": "Shrewd and knowledgeable",
+      "example": "She is a tech-savvy entrepreneur.",
+      "chinese": {
+        "meaning": "精明的；有見識的",
+        "example": "她是一位精通科技的企業家。"
+      }
+    },
+    {
+      "word": "Scalded",
+      "type": "adjective",
+      "meaning": "Burned with hot liquid or steam",
+      "example": "He scalded his hand on the kettle.",
+      "chinese": {
+        "meaning": "被燙傷的",
+        "example": "他被水壺燙傷了手。"
+      }
+    },
+    {
+      "word": "Scaly",
+      "type": "adjective",
+      "meaning": "Covered in scales or flakes",
+      "example": "The lizard's skin was scaly.",
+      "chinese": {
+        "meaning": "有鱗片的",
+        "example": "蜥蜴的皮膚有鱗片。"
+      }
+    },
+    {
+      "word": "Scandalous",
+      "type": "adjective",
+      "meaning": "Causing public outrage",
+      "example": "The scandalous news ruined his career.",
+      "chinese": {
+        "meaning": "令人憤慨的",
+        "example": "這條醜聞新聞毀掉了他的職業生涯。"
+      }
+    },
+    {
+      "word": "Scanned",
+      "type": "adjective",
+      "meaning": "Examined quickly or electronically",
+      "example": "The documents were scanned for errors.",
+      "chinese": {
+        "meaning": "被掃描的",
+        "example": "文件被掃描以檢查錯誤。"
+      }
+    },
+    {
+      "word": "Scant",
+      "type": "adjective",
+      "meaning": "Barely sufficient or adequate",
+      "example": "They paid scant attention to the warning.",
+      "chinese": {
+        "meaning": "不足的",
+        "example": "他們對警告幾乎不加理會。"
+      }
+    },
+    {
+      "word": "Scanty",
+      "type": "adjective",
+      "meaning": "Small or insufficient in quantity or amount",
+      "example": "The evidence was scanty.",
+      "chinese": {
+        "meaning": "稀少的",
+        "example": "證據很稀少。"
       }
     },
     {
@@ -100,6 +490,46 @@
       }
     },
     {
+      "word": "Scarred",
+      "type": "adjective",
+      "meaning": "Marked with scars",
+      "example": "His face was scarred from the accident.",
+      "chinese": {
+        "meaning": "有疤痕的",
+        "example": "他的臉因事故而有疤痕。"
+      }
+    },
+    {
+      "word": "Scary",
+      "type": "adjective",
+      "meaning": "Causing fear",
+      "example": "The horror movie was really scary.",
+      "chinese": {
+        "meaning": "可怕的",
+        "example": "這部恐怖電影真的很可怕。"
+      }
+    },
+    {
+      "word": "Scathing",
+      "type": "adjective",
+      "meaning": "Severely critical",
+      "example": "The critic wrote a scathing review.",
+      "chinese": {
+        "meaning": "嚴厲批評的",
+        "example": "評論家寫了一篇嚴厲的評論。"
+      }
+    },
+    {
+      "word": "Scattered",
+      "type": "adjective",
+      "meaning": "Thrown in various random directions",
+      "example": "The papers were scattered on the floor.",
+      "chinese": {
+        "meaning": "分散的",
+        "example": "地板上散落著文件。"
+      }
+    },
+    {
       "word": "Scenic",
       "type": "adjective",
       "letter": "S",
@@ -108,6 +538,16 @@
       "chinese": {
         "meaning": "風景優美的",
         "example": "我們沿著海岸走了一條風景優美的路線。"
+      }
+    },
+    {
+      "word": "Scented",
+      "type": "adjective",
+      "meaning": "Having a pleasant smell",
+      "example": "The room was filled with scented candles.",
+      "chinese": {
+        "meaning": "有香味的",
+        "example": "房間裡擺滿了香味蠟燭。"
       }
     },
     {
@@ -122,6 +562,36 @@
       }
     },
     {
+      "word": "Scholastic",
+      "type": "adjective",
+      "meaning": "Relating to education or schools",
+      "example": "She received several scholastic awards.",
+      "chinese": {
+        "meaning": "學校的；學術的",
+        "example": "她獲得了幾個學術獎項。"
+      }
+    },
+    {
+      "word": "Schoolboy",
+      "type": "adjective",
+      "meaning": "Relating to or characteristic of a schoolboy",
+      "example": "He made a schoolboy error.",
+      "chinese": {
+        "meaning": "學生般的；男學生的",
+        "example": "他犯了一個學生般的錯誤。"
+      }
+    },
+    {
+      "word": "Schoolgirl",
+      "type": "adjective",
+      "meaning": "Relating to or characteristic of a schoolgirl",
+      "example": "She wore a schoolgirl uniform.",
+      "chinese": {
+        "meaning": "女學生的",
+        "example": "她穿著女學生制服。"
+      }
+    },
+    {
       "word": "Scientific",
       "type": "adjective",
       "letter": "S",
@@ -130,6 +600,26 @@
       "chinese": {
         "meaning": "科學的",
         "example": "這項研究採用了科學的方法。"
+      }
+    },
+    {
+      "word": "Scorching",
+      "type": "adjective",
+      "meaning": "Very hot",
+      "example": "It was a scorching summer day.",
+      "chinese": {
+        "meaning": "灼熱的",
+        "example": "那是個灼熱的夏日。"
+      }
+    },
+    {
+      "word": "Scornful",
+      "type": "adjective",
+      "meaning": "Feeling or expressing contempt",
+      "example": "She gave him a scornful look.",
+      "chinese": {
+        "meaning": "輕蔑的",
+        "example": "她給了他一個輕蔑的眼神。"
       }
     },
     {

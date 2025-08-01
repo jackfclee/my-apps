@@ -12,6 +12,17 @@
       }
     },
     {
+      "word": "Oaken",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Made of oak wood",
+      "example": "The oaken door was heavy and strong.",
+      "chinese": {
+        "meaning": "橡木的",
+        "example": "這扇橡木門又重又堅固。"
+      }
+    },
+    {
       "word": "Obedient",
       "type": "adjective",
       "letter": "O",
@@ -31,6 +42,61 @@
       "chinese": {
         "meaning": "肥胖的，過胖的",
         "example": "肥胖的人面臨較高的健康風險。"
+      }
+    },
+    {
+      "word": "Objective",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Not influenced by personal feelings or opinions",
+      "example": "She gave an objective analysis of the data.",
+      "chinese": {
+        "meaning": "客觀的",
+        "example": "她對數據進行了客觀分析。"
+      }
+    },
+    {
+      "word": "Obligatory",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Required by law or rule",
+      "example": "Wearing helmets is obligatory for motorcyclists.",
+      "chinese": {
+        "meaning": "強制性的",
+        "example": "騎摩托車必須戴頭盔是強制性的。"
+      }
+    },
+    {
+      "word": "Obliging",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Willing to do a service or kindness",
+      "example": "The obliging waiter brought extra napkins.",
+      "chinese": {
+        "meaning": "熱心助人的",
+        "example": "熱心的服務生拿來了額外的餐巾紙。"
+      }
+    },
+    {
+      "word": "Oblique",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Not direct or explicit; slanting",
+      "example": "He made an oblique reference to the issue.",
+      "chinese": {
+        "meaning": "間接的；斜的",
+        "example": "他間接提到了這個問題。"
+      }
+    },
+    {
+      "word": "Oblivious",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Not aware of or concerned about what is happening",
+      "example": "She was oblivious to the noise around her.",
+      "chinese": {
+        "meaning": "未察覺的",
+        "example": "她對周圍的噪音毫無察覺。"
       }
     },
     {
@@ -56,6 +122,17 @@
       }
     },
     {
+      "word": "Obscene",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Offensive or disgusting by accepted standards",
+      "example": "The book was banned for obscene content.",
+      "chinese": {
+        "meaning": "猥褻的",
+        "example": "該書因猥褻內容而被禁。"
+      }
+    },
+    {
       "word": "Obscure",
       "type": "adjective",
       "letter": "O",
@@ -78,6 +155,17 @@
       }
     },
     {
+      "word": "Observable",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Able to be noticed or perceived",
+      "example": "There was no observable difference in results.",
+      "chinese": {
+        "meaning": "可觀察的",
+        "example": "結果沒有可觀察到的差異。"
+      }
+    },
+    {
       "word": "Observant",
       "type": "adjective",
       "letter": "O",
@@ -86,6 +174,28 @@
       "chinese": {
         "meaning": "善於觀察的，注意的",
         "example": "她很善於觀察，注意到細微的細節。"
+      }
+    },
+    {
+      "word": "Obsessed",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Preoccupied with or haunted by something",
+      "example": "He was obsessed with perfection.",
+      "chinese": {
+        "meaning": "著迷的",
+        "example": "他對完美十分著迷。"
+      }
+    },
+    {
+      "word": "Obsessive",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Excessively preoccupied with something",
+      "example": "She is obsessive about cleanliness.",
+      "chinese": {
+        "meaning": "過度關注的",
+        "example": "她對清潔過於關注。"
       }
     },
     {
@@ -111,6 +221,39 @@
       }
     },
     {
+      "word": "Obstructive",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Causing a blockage or hindrance",
+      "example": "His obstructive behavior delayed the project.",
+      "chinese": {
+        "meaning": "阻礙的",
+        "example": "他的阻礙行為拖延了項目。"
+      }
+    },
+    {
+      "word": "Obtainable",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Able to be acquired or achieved",
+      "example": "The information is easily obtainable online.",
+      "chinese": {
+        "meaning": "可獲得的",
+        "example": "這些資訊很容易在網上獲得。"
+      }
+    },
+    {
+      "word": "Obtrusive",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Noticeable or prominent in an unwelcome way",
+      "example": "The obtrusive advertisement blocked the view.",
+      "chinese": {
+        "meaning": "顯眼的；礙眼的",
+        "example": "那個顯眼的廣告擋住了視線。"
+      }
+    },
+    {
       "word": "Obtuse",
       "type": "adjective",
       "letter": "O",
@@ -119,6 +262,17 @@
       "chinese": {
         "meaning": "遲鈍的，愚笨的",
         "example": "他太遲鈍，聽不懂那個笑話。"
+      }
+    },
+    {
+      "word": "Obvious",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Easily perceived or understood",
+      "example": "It was obvious she was upset.",
+      "chinese": {
+        "meaning": "明顯的",
+        "example": "很明顯她很不高興。"
       }
     },
     {
@@ -133,6 +287,28 @@
       }
     },
     {
+      "word": "Occidental",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to the Western world",
+      "example": "The design has an Occidental influence.",
+      "chinese": {
+        "meaning": "西方的",
+        "example": "這個設計有西方的影響。"
+      }
+    },
+    {
+      "word": "Occult",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to mystical, supernatural, or magical powers",
+      "example": "He studies occult practices.",
+      "chinese": {
+        "meaning": "神秘的；超自然的",
+        "example": "他研究神秘的實踐活動。"
+      }
+    },
+    {
       "word": "Occupational",
       "type": "adjective",
       "letter": "O",
@@ -144,6 +320,39 @@
       }
     },
     {
+      "word": "Occupied",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Being used by someone or full",
+      "example": "The room is currently occupied.",
+      "chinese": {
+        "meaning": "被佔用的",
+        "example": "房間目前有人在用。"
+      }
+    },
+    {
+      "word": "Ocean",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to the sea or ocean",
+      "example": "The ocean currents are strong here.",
+      "chinese": {
+        "meaning": "海洋的",
+        "example": "這裡的洋流很強。"
+      }
+    },
+    {
+      "word": "Octagonal",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Having eight sides and eight angles",
+      "example": "The building had an octagonal tower.",
+      "chinese": {
+        "meaning": "八邊形的",
+        "example": "那座建築有一個八邊形的塔樓。"
+      }
+    },
+    {
       "word": "Odd",
       "type": "adjective",
       "letter": "O",
@@ -152,6 +361,39 @@
       "chinese": {
         "meaning": "奇怪的，古怪的",
         "example": "他的說話方式很奇怪。"
+      }
+    },
+    {
+      "word": "Odious",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Extremely unpleasant or repulsive",
+      "example": "The odious smell filled the room.",
+      "chinese": {
+        "meaning": "令人厭惡的",
+        "example": "令人厭惡的氣味充滿了房間。"
+      }
+    },
+    {
+      "word": "Odoriferous",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Having or giving off a smell",
+      "example": "The odoriferous flowers filled the garden with fragrance.",
+      "chinese": {
+        "meaning": "有氣味的",
+        "example": "有香味的花朵使花園充滿芳香。"
+      }
+    },
+    {
+      "word": "Odorous",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Having a distinctive smell",
+      "example": "The odorous garbage was taken out.",
+      "chinese": {
+        "meaning": "有氣味的",
+        "example": "有氣味的垃圾被拿出去了。"
       }
     },
     {
@@ -177,6 +419,39 @@
       }
     },
     {
+      "word": "Oiled",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Covered or treated with oil",
+      "example": "The machine is well-oiled and runs smoothly.",
+      "chinese": {
+        "meaning": "上了油的",
+        "example": "這台機器上了油，運行得很順暢。"
+      }
+    },
+    {
+      "word": "Oily",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Containing or resembling oil",
+      "example": "The food was too oily for my taste.",
+      "chinese": {
+        "meaning": "油膩的",
+        "example": "這道菜對我來說太油膩了。"
+      }
+    },
+    {
+      "word": "Old",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Having lived or existed for many years",
+      "example": "He is an old friend of mine.",
+      "chinese": {
+        "meaning": "老的；舊的",
+        "example": "他是我的老朋友。"
+      }
+    },
+    {
       "word": "Old-fashioned",
       "type": "adjective",
       "letter": "O",
@@ -185,6 +460,28 @@
       "chinese": {
         "meaning": "老式的，過時的",
         "example": "她偏好老式服裝。"
+      }
+    },
+    {
+      "word": "Olfactory",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to the sense of smell",
+      "example": "The olfactory nerves transmit smell signals.",
+      "chinese": {
+        "meaning": "嗅覺的",
+        "example": "嗅覺神經傳遞氣味信號。"
+      }
+    },
+    {
+      "word": "Olive",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Of a yellowish-green color like an olive",
+      "example": "She wore an olive jacket.",
+      "chinese": {
+        "meaning": "橄欖色的",
+        "example": "她穿了一件橄欖色的夾克。"
       }
     },
     {
@@ -232,6 +529,17 @@
       }
     },
     {
+      "word": "Omnivorous",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Eating both plants and animals",
+      "example": "Humans are naturally omnivorous.",
+      "chinese": {
+        "meaning": "雜食的",
+        "example": "人類天生是雜食性的。"
+      }
+    },
+    {
       "word": "Oncoming",
       "type": "adjective",
       "letter": "O",
@@ -240,6 +548,39 @@
       "chinese": {
         "meaning": "迎面而來的",
         "example": "迎面而來的車流很繁忙。"
+      }
+    },
+    {
+      "word": "One-dimensional",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Having only one dimension or lacking depth",
+      "example": "The character in the film was one-dimensional.",
+      "chinese": {
+        "meaning": "單一的；無深度的",
+        "example": "電影中的角色非常單一。"
+      }
+    },
+    {
+      "word": "One-off",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Happening only once",
+      "example": "It was a one-off opportunity.",
+      "chinese": {
+        "meaning": "一次性的",
+        "example": "這是一個一次性的機會。"
+      }
+    },
+    {
+      "word": "One-sided",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Unfairly giving advantage to one side",
+      "example": "The report was biased and one-sided.",
+      "chinese": {
+        "meaning": "片面的",
+        "example": "這份報告有偏見且片面。"
       }
     },
     {
@@ -265,6 +606,28 @@
       }
     },
     {
+      "word": "Ongoing",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Continuing to exist or happen",
+      "example": "There is an ongoing investigation.",
+      "chinese": {
+        "meaning": "正在進行的",
+        "example": "有一個正在進行的調查。"
+      }
+    },
+    {
+      "word": "Online",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Connected to or available through a computer network",
+      "example": "The course is available online.",
+      "chinese": {
+        "meaning": "在線的",
+        "example": "該課程可以在線學習。"
+      }
+    },
+    {
       "word": "Only",
       "type": "adjective",
       "letter": "O",
@@ -273,6 +636,17 @@
       "chinese": {
         "meaning": "唯一的，僅有的",
         "example": "她是唯一知道秘密的人。"
+      }
+    },
+    {
+      "word": "Opaque",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Not able to be seen through; not transparent",
+      "example": "The glass was opaque and blocked the light.",
+      "chinese": {
+        "meaning": "不透明的",
+        "example": "玻璃是不透明的，擋住了光線。"
       }
     },
     {
@@ -287,6 +661,17 @@
       }
     },
     {
+      "word": "Open-ended",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Having no determined limit or boundary",
+      "example": "The discussion was open-ended and informal.",
+      "chinese": {
+        "meaning": "無限制的；開放式的",
+        "example": "討論是開放式且非正式的。"
+      }
+    },
+    {
       "word": "Open-minded",
       "type": "adjective",
       "letter": "O",
@@ -295,6 +680,39 @@
       "chinese": {
         "meaning": "思想開放的，心胸寬廣的",
         "example": "她對新想法很開放。"
+      }
+    },
+    {
+      "word": "Operable",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Capable of being operated or used",
+      "example": "The machine is operable after the repairs.",
+      "chinese": {
+        "meaning": "可操作的",
+        "example": "機器修理後可以操作。"
+      }
+    },
+    {
+      "word": "Operatic",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to opera or its style",
+      "example": "She gave an operatic performance full of emotion.",
+      "chinese": {
+        "meaning": "歌劇的",
+        "example": "她表演得充滿歌劇風格的情感。"
+      }
+    },
+    {
+      "word": "Operational",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Ready for use; functioning",
+      "example": "The new system is fully operational.",
+      "chinese": {
+        "meaning": "運作中的",
+        "example": "新系統已全面運作。"
       }
     },
     {
@@ -309,6 +727,83 @@
       }
     },
     {
+      "word": "Ophthalmic",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to the eye or vision",
+      "example": "The ophthalmic clinic specializes in eye care.",
+      "chinese": {
+        "meaning": "眼科的",
+        "example": "眼科診所專門治療眼睛。"
+      }
+    },
+    {
+      "word": "Opinionated",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Holding stubbornly to one's own opinions",
+      "example": "He is very opinionated and rarely listens to others.",
+      "chinese": {
+        "meaning": "固執己見的",
+        "example": "他很固執，很少聽別人意見。"
+      }
+    },
+    {
+      "word": "Opponent",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Being against something or someone",
+      "example": "They are opponent forces in the competition.",
+      "chinese": {
+        "meaning": "對立的",
+        "example": "他們是比賽中的對立方。"
+      }
+    },
+    {
+      "word": "Opportune",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Happening at a favorable or suitable time",
+      "example": "The decision was made at an opportune moment.",
+      "chinese": {
+        "meaning": "適時的",
+        "example": "決定是在適當的時刻做出的。"
+      }
+    },
+    {
+      "word": "Opportunistic",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Taking advantage of opportunities often without regard for principles",
+      "example": "His opportunistic behavior earned him criticism.",
+      "chinese": {
+        "meaning": "投機取巧的",
+        "example": "他的投機行為招致批評。"
+      }
+    },
+    {
+      "word": "Opposed",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Being against or in conflict with",
+      "example": "They are opposed to the new policy.",
+      "chinese": {
+        "meaning": "反對的",
+        "example": "他們反對新政策。"
+      }
+    },
+    {
+      "word": "Opposing",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Acting against or contrary to",
+      "example": "The opposing teams met on the field.",
+      "chinese": {
+        "meaning": "對立的",
+        "example": "對立的隊伍在場上碰面。"
+      }
+    },
+    {
       "word": "Opposite",
       "type": "adjective",
       "letter": "O",
@@ -320,6 +815,28 @@
       }
     },
     {
+      "word": "Oppressed",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Subjected to harsh and authoritarian treatment",
+      "example": "The oppressed population sought freedom.",
+      "chinese": {
+        "meaning": "受壓迫的",
+        "example": "受壓迫的人民尋求自由。"
+      }
+    },
+    {
+      "word": "Oppressive",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Inflicting hardship or constraint",
+      "example": "The oppressive heat made it hard to work.",
+      "chinese": {
+        "meaning": "壓迫的；沉重的",
+        "example": "沉重的熱氣讓工作變得困難。"
+      }
+    },
+    {
       "word": "Optimal",
       "type": "adjective",
       "letter": "O",
@@ -328,6 +845,17 @@
       "chinese": {
         "meaning": "最佳的，最理想的",
         "example": "這是最佳解決方案。"
+      }
+    },
+    {
+      "word": "Optimistic",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Hopeful and confident about the future",
+      "example": "She is optimistic about the exam results.",
+      "chinese": {
+        "meaning": "樂觀的",
+        "example": "她對考試結果很樂觀。"
       }
     },
     {
@@ -353,6 +881,160 @@
       }
     },
     {
+      "word": "Oral",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to the mouth or spoken words",
+      "example": "The teacher gave an oral test.",
+      "chinese": {
+        "meaning": "口頭的",
+        "example": "老師進行了口頭考試。"
+      }
+    },
+    {
+      "word": "Orange",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Having the color orange",
+      "example": "She wore an orange dress.",
+      "chinese": {
+        "meaning": "橙色的",
+        "example": "她穿著一件橙色的裙子。"
+      }
+    },
+    {
+      "word": "Oratorical",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to the art of public speaking",
+      "example": "He gave an oratorical speech.",
+      "chinese": {
+        "meaning": "演說的",
+        "example": "他做了演說。"
+      }
+    },
+    {
+      "word": "Orbital",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to an orbit",
+      "example": "The satellite is in orbital motion around Earth.",
+      "chinese": {
+        "meaning": "軌道的",
+        "example": "衛星正在繞地球軌道運行。"
+      }
+    },
+    {
+      "word": "Orchestral",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to an orchestra",
+      "example": "They enjoyed the orchestral performance.",
+      "chinese": {
+        "meaning": "管弦樂團的",
+        "example": "他們享受管弦樂團的表演。"
+      }
+    },
+    {
+      "word": "Ordained",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Officially appointed as a clergy member",
+      "example": "He is an ordained minister.",
+      "chinese": {
+        "meaning": "受命的；被授予神職的",
+        "example": "他是一位受命的牧師。"
+      }
+    },
+    {
+      "word": "Ordered",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Arranged or organized systematically",
+      "example": "The books were neatly ordered on the shelf.",
+      "chinese": {
+        "meaning": "有序的",
+        "example": "書本整齊地排列在書架上。"
+      }
+    },
+    {
+      "word": "Orderly",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Neatly and methodically arranged",
+      "example": "The room was clean and orderly.",
+      "chinese": {
+        "meaning": "有條理的",
+        "example": "房間乾淨且有條理。"
+      }
+    },
+    {
+      "word": "Ordinary",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "With no special or distinctive features",
+      "example": "It was an ordinary day at work.",
+      "chinese": {
+        "meaning": "普通的",
+        "example": "這是工作中的普通一天。"
+      }
+    },
+    {
+      "word": "Organic",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to or derived from living matter",
+      "example": "They prefer organic vegetables.",
+      "chinese": {
+        "meaning": "有機的",
+        "example": "他們喜歡有機蔬菜。"
+      }
+    },
+    {
+      "word": "Organizational",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to the organization or structure of something",
+      "example": "The company improved its organizational structure.",
+      "chinese": {
+        "meaning": "組織的",
+        "example": "公司改善了組織結構。"
+      }
+    },
+    {
+      "word": "Organized",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Arranged or structured efficiently",
+      "example": "She is very organized with her work.",
+      "chinese": {
+        "meaning": "有條理的",
+        "example": "她工作非常有條理。"
+      }
+    },
+    {
+      "word": "Oriental",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to the East or Asia",
+      "example": "They studied oriental art.",
+      "chinese": {
+        "meaning": "東方的",
+        "example": "他們研究東方藝術。"
+      }
+    },
+    {
+      "word": "Original",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Present or existing from the beginning",
+      "example": "This is the original manuscript.",
+      "chinese": {
+        "meaning": "原始的；獨創的",
+        "example": "這是原始手稿。"
+      }
+    },
+    {
       "word": "Ornamental",
       "type": "adjective",
       "letter": "O",
@@ -375,6 +1057,61 @@
       }
     },
     {
+      "word": "Orthographic",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to correct spelling",
+      "example": "They checked the orthographic accuracy of the text.",
+      "chinese": {
+        "meaning": "正字法的",
+        "example": "他們檢查了文本的正字法準確性。"
+      }
+    },
+    {
+      "word": "Oscillating",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Moving back and forth at a regular speed",
+      "example": "The oscillating fan cooled the room.",
+      "chinese": {
+        "meaning": "擺動的",
+        "example": "擺動的風扇給房間降溫。"
+      }
+    },
+    {
+      "word": "Osmotic",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to osmosis",
+      "example": "Osmotic pressure affects water movement.",
+      "chinese": {
+        "meaning": "滲透的",
+        "example": "滲透壓影響水的運動。"
+      }
+    },
+    {
+      "word": "Ostensible",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Stated or appearing to be true, but not necessarily so",
+      "example": "The ostensible reason was financial difficulty.",
+      "chinese": {
+        "meaning": "表面的",
+        "example": "表面上的理由是財務困難。"
+      }
+    },
+    {
+      "word": "Ostentatious",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Designed to impress or attract notice",
+      "example": "He wore an ostentatious gold watch.",
+      "chinese": {
+        "meaning": "炫耀的",
+        "example": "他戴著一塊炫耀的金表。"
+      }
+    },
+    {
       "word": "Otherworldly",
       "type": "adjective",
       "letter": "O",
@@ -383,6 +1120,39 @@
       "chinese": {
         "meaning": "超凡的，異世界的",
         "example": "這幅畫有種超凡的氣質。"
+      }
+    },
+    {
+      "word": "Outdated",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Old-fashioned or no longer current",
+      "example": "The software is outdated and needs an update.",
+      "chinese": {
+        "meaning": "過時的",
+        "example": "這軟件已過時，需要更新。"
+      }
+    },
+    {
+      "word": "Outdoor",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Done or used outside rather than inside",
+      "example": "They enjoy outdoor activities.",
+      "chinese": {
+        "meaning": "戶外的",
+        "example": "他們喜歡戶外活動。"
+      }
+    },
+    {
+      "word": "Outer",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Located on or relating to the outside",
+      "example": "The outer layer protects the inner parts.",
+      "chinese": {
+        "meaning": "外部的",
+        "example": "外層保護內部部分。"
       }
     },
     {
@@ -408,6 +1178,39 @@
       }
     },
     {
+      "word": "Outlawed",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Declared illegal or forbidden",
+      "example": "Certain substances are outlawed in sports.",
+      "chinese": {
+        "meaning": "被禁止的",
+        "example": "某些物質在體育運動中被禁止使用。"
+      }
+    },
+    {
+      "word": "Outlying",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Situated far from the center or main area",
+      "example": "They live in an outlying district of the city.",
+      "chinese": {
+        "meaning": "偏遠的",
+        "example": "他們住在城市的偏遠區域。"
+      }
+    },
+    {
+      "word": "Outraged",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Feeling anger or shock",
+      "example": "The public was outraged by the decision.",
+      "chinese": {
+        "meaning": "憤怒的",
+        "example": "公眾對該決定感到憤怒。"
+      }
+    },
+    {
       "word": "Outrageous",
       "type": "adjective",
       "letter": "O",
@@ -416,6 +1219,28 @@
       "chinese": {
         "meaning": "駭人聽聞的，無法接受的",
         "example": "價格離譜。"
+      }
+    },
+    {
+      "word": "Outside",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Situated or moving beyond the limits or boundaries",
+      "example": "The kids are playing outside.",
+      "chinese": {
+        "meaning": "外面的",
+        "example": "孩子們在外面玩。"
+      }
+    },
+    {
+      "word": "Outsider",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Not belonging to a particular group or place",
+      "example": "He felt like an outsider at the party.",
+      "chinese": {
+        "meaning": "局外的",
+        "example": "他在派對上感覺像個局外人。"
       }
     },
     {
@@ -430,6 +1255,83 @@
       }
     },
     {
+      "word": "Outstretched",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Extended fully outward",
+      "example": "She held out her outstretched hand.",
+      "chinese": {
+        "meaning": "伸出的",
+        "example": "她伸出了伸展的手。"
+      }
+    },
+    {
+      "word": "Outward",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Directed toward the outside or surface",
+      "example": "He showed no outward signs of fear.",
+      "chinese": {
+        "meaning": "向外的",
+        "example": "他沒有表現出恐懼的外在跡象。"
+      }
+    },
+    {
+      "word": "Oval",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Having the shape of an egg or ellipse",
+      "example": "The table has an oval shape.",
+      "chinese": {
+        "meaning": "橢圓形的",
+        "example": "這張桌子是橢圓形的。"
+      }
+    },
+    {
+      "word": "Ovarian",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to the ovaries",
+      "example": "She was diagnosed with an ovarian cyst.",
+      "chinese": {
+        "meaning": "卵巢的",
+        "example": "她被診斷出有卵巢囊腫。"
+      }
+    },
+    {
+      "word": "Overall",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Taking everything into account; general",
+      "example": "Overall, the project was a success.",
+      "chinese": {
+        "meaning": "整體的",
+        "example": "整體來說，這個項目很成功。"
+      }
+    },
+    {
+      "word": "Overarching",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Comprehensive or all-embracing",
+      "example": "The report provided an overarching view of the situation.",
+      "chinese": {
+        "meaning": "包羅萬象的",
+        "example": "報告提供了對情況的全面觀察。"
+      }
+    },
+    {
+      "word": "Overcast",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Covered with clouds; dull",
+      "example": "It was an overcast day with no sunshine.",
+      "chinese": {
+        "meaning": "陰天的",
+        "example": "那天是陰天，沒有陽光。"
+      }
+    },
+    {
       "word": "Overconfident",
       "type": "adjective",
       "letter": "O",
@@ -441,6 +1343,17 @@
       }
     },
     {
+      "word": "Overdue",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Coming later than expected or required",
+      "example": "The payment is overdue by two weeks.",
+      "chinese": {
+        "meaning": "逾期的",
+        "example": "付款已經逾期兩週。"
+      }
+    },
+    {
       "word": "Overjoyed",
       "type": "adjective",
       "letter": "O",
@@ -449,6 +1362,28 @@
       "chinese": {
         "meaning": "非常高興的，欣喜若狂的",
         "example": "她對這個好消息欣喜若狂。"
+      }
+    },
+    {
+      "word": "Overlapping",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Extending over and covering part of something else",
+      "example": "The two events had overlapping schedules.",
+      "chinese": {
+        "meaning": "重疊的",
+        "example": "這兩個活動時間安排重疊。"
+      }
+    },
+    {
+      "word": "Overlooked",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Not noticed or considered",
+      "example": "Several important details were overlooked.",
+      "chinese": {
+        "meaning": "被忽視的",
+        "example": "幾個重要細節被忽視了。"
       }
     },
     {
@@ -474,6 +1409,28 @@
       }
     },
     {
+      "word": "Overt",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Done openly and without concealment",
+      "example": "There was overt hostility between them.",
+      "chinese": {
+        "meaning": "公開的",
+        "example": "他們之間存在公開的敵意。"
+      }
+    },
+    {
+      "word": "Overwhelmed",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Feeling buried or drowned by a large amount of something",
+      "example": "She was overwhelmed with work.",
+      "chinese": {
+        "meaning": "不堪重負的",
+        "example": "她工作繁重，感到不堪重負。"
+      }
+    },
+    {
       "word": "Overwhelming",
       "type": "adjective",
       "letter": "O",
@@ -482,6 +1439,39 @@
       "chinese": {
         "meaning": "壓倒性的，巨大的",
         "example": "支持壓倒性地多。"
+      }
+    },
+    {
+      "word": "Overwrought",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "In a state of nervous excitement or anxiety",
+      "example": "He became overwrought before the performance.",
+      "chinese": {
+        "meaning": "過度緊張的",
+        "example": "表演前他變得非常緊張。"
+      }
+    },
+    {
+      "word": "Owned",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Belonging to someone",
+      "example": "The property is owned by a private company.",
+      "chinese": {
+        "meaning": "擁有的",
+        "example": "這物業由一家私營公司擁有。"
+      }
+    },
+    {
+      "word": "Oxidic",
+      "type": "adjective",
+      "letter": "O",
+      "meaning": "Relating to or containing oxide",
+      "example": "The compound has oxidic properties.",
+      "chinese": {
+        "meaning": "氧化物的",
+        "example": "該化合物具有氧化物性質。"
       }
     },
     {

@@ -1,6 +1,50 @@
 {
   "words": [
     {
+      "word": "Fabled",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Well known because of being told about in stories or legends",
+      "example": "The fabled city of gold has fascinated explorers for centuries.",
+      "chinese": {
+        "meaning": "傳說中的",
+        "example": "傳說中的黃金城市世世代代吸引著探險家。"
+      }
+    },
+    {
+      "word": "Fabulous",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Extremely good or impressive",
+      "example": "They had a fabulous time on their vacation.",
+      "chinese": {
+        "meaning": "極好的；傳奇的",
+        "example": "他們度假時過得非常愉快。"
+      }
+    },
+    {
+      "word": "Facial",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to the face",
+      "example": "She went to the spa for a facial treatment.",
+      "chinese": {
+        "meaning": "面部的",
+        "example": "她去水療中心做面部護理。"
+      }
+    },
+    {
+      "word": "Facile",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Easy or achieved with little effort, sometimes superficial",
+      "example": "His facile arguments failed to convince the jury.",
+      "chinese": {
+        "meaning": "容易的；膚淺的",
+        "example": "他膚淺的論點未能說服陪審團。"
+      }
+    },
+    {
       "word": "Factual",
       "type": "adjective",
       "letter": "F",
@@ -20,6 +64,28 @@
       "chinese": {
         "meaning": "褪色的",
         "example": "這張照片已經褪色，很難辨認。"
+      }
+    },
+    {
+      "word": "Fading",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Gradually disappearing or becoming less bright",
+      "example": "The fading light signaled the end of the day.",
+      "chinese": {
+        "meaning": "逐漸消失的；褪色的",
+        "example": "漸暗的光線標誌著一天的結束。"
+      }
+    },
+    {
+      "word": "Failed",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Not successful",
+      "example": "The failed experiment taught them valuable lessons.",
+      "chinese": {
+        "meaning": "失敗的",
+        "example": "失敗的實驗給他們帶來寶貴的經驗。"
       }
     },
     {
@@ -78,6 +144,72 @@
       }
     },
     {
+      "word": "Fallacious",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Based on a mistaken belief or unsound reasoning",
+      "example": "The argument was fallacious and misleading.",
+      "chinese": {
+        "meaning": "謬誤的",
+        "example": "這個論點是錯誤且誤導人的。"
+      }
+    },
+    {
+      "word": "Fallen",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having dropped down or collapsed",
+      "example": "The fallen leaves covered the ground.",
+      "chinese": {
+        "meaning": "倒下的；落下的",
+        "example": "落葉覆蓋了地面。"
+      }
+    },
+    {
+      "word": "Fallible",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Capable of making mistakes or being wrong",
+      "example": "Humans are fallible and prone to errors.",
+      "chinese": {
+        "meaning": "易犯錯的",
+        "example": "人類是會犯錯的。"
+      }
+    },
+    {
+      "word": "Fallow",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Left uncultivated or unused (usually referring to land)",
+      "example": "The farmer left the field fallow for a season.",
+      "chinese": {
+        "meaning": "休耕的；未耕種的",
+        "example": "農夫讓田地休耕了一季。"
+      }
+    },
+    {
+      "word": "False",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Not true or correct; incorrect",
+      "example": "He gave a false statement to the police.",
+      "chinese": {
+        "meaning": "假的；錯誤的",
+        "example": "他向警方作了虛假陳述。"
+      }
+    },
+    {
+      "word": "Faltering",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Showing hesitation or weakening",
+      "example": "Her faltering voice betrayed her nervousness.",
+      "chinese": {
+        "meaning": "猶豫的；蹣跚的",
+        "example": "她顫抖的聲音暴露了她的緊張。"
+      }
+    },
+    {
       "word": "Familiar",
       "type": "adjective",
       "letter": "F",
@@ -97,6 +229,17 @@
       "chinese": {
         "meaning": "著名的",
         "example": "悉尼以其歌劇院而聞名。"
+      }
+    },
+    {
+      "word": "Fan",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Very enthusiastic or devoted (usually a shortened form)",
+      "example": "He is a fan favorite among the crowd.",
+      "chinese": {
+        "meaning": "狂熱的；愛好的",
+        "example": "他是觀眾中受歡迎的偶像。"
       }
     },
     {
@@ -133,6 +276,39 @@
       }
     },
     {
+      "word": "Fantastical",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Imaginative or fanciful, often strange or unrealistic",
+      "example": "The movie had fantastical creatures and worlds.",
+      "chinese": {
+        "meaning": "奇幻的；異想天開的",
+        "example": "電影裡有奇幻的生物和世界。"
+      }
+    },
+    {
+      "word": "Far",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Located at a great distance",
+      "example": "They traveled to a far country.",
+      "chinese": {
+        "meaning": "遙遠的",
+        "example": "他們去了遙遠的國家。"
+      }
+    },
+    {
+      "word": "Far-fetched",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Unlikely to be true or believable",
+      "example": "The explanation seemed far-fetched.",
+      "chinese": {
+        "meaning": "牽強的；難以置信的",
+        "example": "這個解釋似乎牽強附會。"
+      }
+    },
+    {
       "word": "Far-reaching",
       "type": "adjective",
       "letter": "F",
@@ -152,6 +328,28 @@
       "chinese": {
         "meaning": "有遠見的",
         "example": "執行長做出了一個有遠見的決定。"
+      }
+    },
+    {
+      "word": "Faraway",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Distant in space or time",
+      "example": "He had a faraway look in his eyes.",
+      "chinese": {
+        "meaning": "遙遠的；心不在焉的",
+        "example": "他眼神中帶著遙遠的神情。"
+      }
+    },
+    {
+      "word": "Fascinated",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Strongly attracted or interested",
+      "example": "She was fascinated by the magician's tricks.",
+      "chinese": {
+        "meaning": "著迷的",
+        "example": "她被魔術師的把戲吸引住了。"
       }
     },
     {
@@ -188,6 +386,28 @@
       }
     },
     {
+      "word": "Fast-paced",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Happening very quickly",
+      "example": "The fast-paced movie kept the audience engaged.",
+      "chinese": {
+        "meaning": "節奏快的",
+        "example": "節奏快的電影讓觀眾全神貫注。"
+      }
+    },
+    {
+      "word": "Fat",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having a large amount of excess flesh",
+      "example": "The cat grew fat after being well fed.",
+      "chinese": {
+        "meaning": "肥胖的",
+        "example": "這隻貓吃得很好，變得很胖。"
+      }
+    },
+    {
       "word": "Fatal",
       "type": "adjective",
       "letter": "F",
@@ -196,6 +416,39 @@
       "chinese": {
         "meaning": "致命的",
         "example": "這場車禍是由一個致命的錯誤引起的。"
+      }
+    },
+    {
+      "word": "Fateful",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having an important and usually bad effect on the future",
+      "example": "They made a fateful decision that changed their lives.",
+      "chinese": {
+        "meaning": "決定命運的；重大的",
+        "example": "他們做了一個改變人生的重大決定。"
+      }
+    },
+    {
+      "word": "Fatherly",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having qualities associated with a father, especially kindness and protectiveness",
+      "example": "He showed a fatherly concern for the children.",
+      "chinese": {
+        "meaning": "父親般的",
+        "example": "他表現出對孩子們父親般的關心。"
+      }
+    },
+    {
+      "word": "Fathomless",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Too deep to be measured or understood",
+      "example": "The ocean seemed fathomless in its depth.",
+      "chinese": {
+        "meaning": "深不可測的",
+        "example": "大海看起來深不可測。"
       }
     },
     {
@@ -221,6 +474,61 @@
       }
     },
     {
+      "word": "Faulty",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having defects or imperfections; not working properly",
+      "example": "The faulty equipment caused the project to fail.",
+      "chinese": {
+        "meaning": "有缺陷的",
+        "example": "有缺陷的設備導致項目失敗。"
+      }
+    },
+    {
+      "word": "Favorable",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Expressing approval or support; advantageous",
+      "example": "The weather was favorable for the outdoor event.",
+      "chinese": {
+        "meaning": "有利的；贊成的",
+        "example": "天氣對戶外活動有利。"
+      }
+    },
+    {
+      "word": "Favored",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Preferred or treated with special kindness",
+      "example": "She was the favored candidate for the promotion.",
+      "chinese": {
+        "meaning": "受到偏愛的",
+        "example": "她是晉升中受偏愛的候選人。"
+      }
+    },
+    {
+      "word": "Favorite",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Preferred before all others",
+      "example": "Chocolate is my favorite flavor.",
+      "chinese": {
+        "meaning": "最喜愛的",
+        "example": "巧克力是我最喜歡的口味。"
+      }
+    },
+    {
+      "word": "Fawning",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Displaying exaggerated flattery or affection",
+      "example": "His fawning behavior annoyed his colleagues.",
+      "chinese": {
+        "meaning": "諂媚的",
+        "example": "他的諂媚行為惹惱了同事們。"
+      }
+    },
+    {
       "word": "Fearful",
       "type": "adjective",
       "letter": "F",
@@ -243,6 +551,17 @@
       }
     },
     {
+      "word": "Fearsome",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Causing fear or dread",
+      "example": "The fearsome dragon guarded the treasure.",
+      "chinese": {
+        "meaning": "可怕的",
+        "example": "可怕的龍守護著寶藏。"
+      }
+    },
+    {
       "word": "Feasible",
       "type": "adjective",
       "letter": "F",
@@ -254,6 +573,50 @@
       }
     },
     {
+      "word": "Feathered",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having feathers",
+      "example": "The feathered bird soared in the sky.",
+      "chinese": {
+        "meaning": "有羽毛的",
+        "example": "有羽毛的鳥兒在天空中翱翔。"
+      }
+    },
+    {
+      "word": "Featureless",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having no distinctive features",
+      "example": "The desert landscape was featureless and vast.",
+      "chinese": {
+        "meaning": "無特徵的",
+        "example": "沙漠景觀無特徵且廣闊。"
+      }
+    },
+    {
+      "word": "Fed",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having been given food",
+      "example": "The fed animals rested contentedly.",
+      "chinese": {
+        "meaning": "已餵食的",
+        "example": "已餵食的動物安然休息。"
+      }
+    },
+    {
+      "word": "Federal",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to a system of government where power is divided between a central authority and constituent units",
+      "example": "The federal government passed a new law.",
+      "chinese": {
+        "meaning": "聯邦的",
+        "example": "聯邦政府通過了一項新法律。"
+      }
+    },
+    {
       "word": "Feeble",
       "type": "adjective",
       "letter": "F",
@@ -262,6 +625,116 @@
       "chinese": {
         "meaning": "虛弱的",
         "example": "手術後她的聲音很虛弱。"
+      }
+    },
+    {
+      "word": "Feeling",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Showing emotions or sensitivity",
+      "example": "She gave a feeling speech that moved everyone.",
+      "chinese": {
+        "meaning": "感情豐富的",
+        "example": "她發表了感人的演講，打動了所有人。"
+      }
+    },
+    {
+      "word": "Feigned",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Pretended or faked",
+      "example": "He gave a feigned smile to hide his discomfort.",
+      "chinese": {
+        "meaning": "假裝的",
+        "example": "他假笑掩飾不適。"
+      }
+    },
+    {
+      "word": "Felicitous",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Well chosen or suited to the circumstances",
+      "example": "She made a felicitous remark at the meeting.",
+      "chinese": {
+        "meaning": "恰當的",
+        "example": "她在會議上發表了恰當的評論。"
+      }
+    },
+    {
+      "word": "Fellow",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having the same status, interests, or character; companion",
+      "example": "He is a fellow member of the club.",
+      "chinese": {
+        "meaning": "同伴的；同事的",
+        "example": "他是俱樂部的成員。"
+      }
+    },
+    {
+      "word": "Female",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to women or the sex that can produce eggs",
+      "example": "The female bird built a nest.",
+      "chinese": {
+        "meaning": "女性的；雌性的",
+        "example": "母鳥築了巢。"
+      }
+    },
+    {
+      "word": "Feminine",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having qualities traditionally associated with women",
+      "example": "She has a very feminine style of dress.",
+      "chinese": {
+        "meaning": "女性特質的",
+        "example": "她的穿著風格很女性化。"
+      }
+    },
+    {
+      "word": "Feminist",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Supporting equal rights for women",
+      "example": "She is a feminist who advocates for gender equality.",
+      "chinese": {
+        "meaning": "女權主義的",
+        "example": "她是一位倡導性別平等的女權主義者。"
+      }
+    },
+    {
+      "word": "Feral",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Wild, especially after escaping from captivity",
+      "example": "The feral cats live in the abandoned building.",
+      "chinese": {
+        "meaning": "野生的",
+        "example": "野貓住在廢棄的建築物裡。"
+      }
+    },
+    {
+      "word": "Fermented",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Processed by fermentation, often producing alcohol or a sour taste",
+      "example": "Fermented foods like yogurt are good for digestion.",
+      "chinese": {
+        "meaning": "發酵的",
+        "example": "像酸奶這樣的發酵食品有助於消化。"
+      }
+    },
+    {
+      "word": "Ferocious",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Fierce, violent, or intense",
+      "example": "The ferocious tiger prowled the jungle.",
+      "chinese": {
+        "meaning": "兇猛的",
+        "example": "兇猛的老虎在叢林中徘徊。"
       }
     },
     {
@@ -287,6 +760,17 @@
       }
     },
     {
+      "word": "Festal",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to a festival or celebration",
+      "example": "The town was decorated with festal lights.",
+      "chinese": {
+        "meaning": "節日的",
+        "example": "城鎮裝飾著節日燈飾。"
+      }
+    },
+    {
       "word": "Festive",
       "type": "adjective",
       "letter": "F",
@@ -295,6 +779,72 @@
       "chinese": {
         "meaning": "節慶的",
         "example": "房間裡有節慶的氣氛。"
+      }
+    },
+    {
+      "word": "Fetal",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to a fetus or unborn baby",
+      "example": "The doctor monitored the fetal heartbeat.",
+      "chinese": {
+        "meaning": "胎兒的",
+        "example": "醫生監測胎兒心跳。"
+      }
+    },
+    {
+      "word": "Fettered",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Restricted or confined by chains or shackles",
+      "example": "The prisoner was fettered to the wall.",
+      "chinese": {
+        "meaning": "受束縛的",
+        "example": "囚犯被鎖在牆上。"
+      }
+    },
+    {
+      "word": "Feudal",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to the system of feudalism in medieval times",
+      "example": "The feudal lord controlled the land and its people.",
+      "chinese": {
+        "meaning": "封建的",
+        "example": "封建領主掌控著土地和人民。"
+      }
+    },
+    {
+      "word": "Fevered",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having a fever or showing intense emotion",
+      "example": "She had a fevered look after the long journey.",
+      "chinese": {
+        "meaning": "發燒的；激動的",
+        "example": "長途旅行後她看起來精神恍惚。"
+      }
+    },
+    {
+      "word": "Feverish",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Showing symptoms of fever or excitement",
+      "example": "He felt feverish and weak after the illness.",
+      "chinese": {
+        "meaning": "發燒的；激動的",
+        "example": "他病後感到發燒和虛弱。"
+      }
+    },
+    {
+      "word": "Few",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "A small number of",
+      "example": "Few people attended the meeting.",
+      "chinese": {
+        "meaning": "很少的",
+        "example": "很少人參加了會議。"
       }
     },
     {
@@ -309,6 +859,28 @@
       }
     },
     {
+      "word": "Fictional",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to fiction; imaginary",
+      "example": "The story is about a fictional world.",
+      "chinese": {
+        "meaning": "虛構的",
+        "example": "這個故事講述了一個虛構的世界。"
+      }
+    },
+    {
+      "word": "Fictitious",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Not real or true; invented",
+      "example": "He gave a fictitious name to protect his identity.",
+      "chinese": {
+        "meaning": "虛假的",
+        "example": "他使用虛假的名字來保護身份。"
+      }
+    },
+    {
       "word": "Fierce",
       "type": "adjective",
       "letter": "F",
@@ -317,6 +889,72 @@
       "chinese": {
         "meaning": "激烈的",
         "example": "學生之間的競爭非常激烈。"
+      }
+    },
+    {
+      "word": "Fiery",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Consisting of fire or burning strongly; passionate",
+      "example": "She gave a fiery speech to inspire the crowd.",
+      "chinese": {
+        "meaning": "火熱的；熱情的",
+        "example": "她發表了激昂的演講來激勵群眾。"
+      }
+    },
+    {
+      "word": "Figurative",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Using figures of speech; symbolic rather than literal",
+      "example": "The poem is full of figurative language.",
+      "chinese": {
+        "meaning": "比喻的",
+        "example": "這首詩充滿了比喻語言。"
+      }
+    },
+    {
+      "word": "Filial",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to the relationship between children and parents",
+      "example": "He showed filial respect to his parents.",
+      "chinese": {
+        "meaning": "子女的；孝順的",
+        "example": "他表現出對父母的孝敬。"
+      }
+    },
+    {
+      "word": "Filled",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Containing as much as possible; full",
+      "example": "The glass was filled with water.",
+      "chinese": {
+        "meaning": "充滿的",
+        "example": "玻璃杯裝滿了水。"
+      }
+    },
+    {
+      "word": "Filmed",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Captured on film or video",
+      "example": "The filmed scenes were edited carefully.",
+      "chinese": {
+        "meaning": "拍攝的",
+        "example": "拍攝的場景經過精心剪輯。"
+      }
+    },
+    {
+      "word": "Filtered",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Passed through a filter to remove unwanted parts",
+      "example": "They drank filtered water.",
+      "chinese": {
+        "meaning": "過濾的",
+        "example": "他們喝了過濾水。"
       }
     },
     {
@@ -364,6 +1002,50 @@
       }
     },
     {
+      "word": "Finer",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Of higher quality or greater delicacy",
+      "example": "She wore a finer fabric than before.",
+      "chinese": {
+        "meaning": "更好的；更細緻的",
+        "example": "她穿著比以前更好的面料。"
+      }
+    },
+    {
+      "word": "Finished",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Completed; having an end",
+      "example": "The finished product looked perfect.",
+      "chinese": {
+        "meaning": "完成的",
+        "example": "完成的產品看起來完美。"
+      }
+    },
+    {
+      "word": "Finite",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having limits or bounds",
+      "example": "Resources on Earth are finite.",
+      "chinese": {
+        "meaning": "有限的",
+        "example": "地球上的資源是有限的。"
+      }
+    },
+    {
+      "word": "Fired",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having been dismissed from a job",
+      "example": "He was fired for being late.",
+      "chinese": {
+        "meaning": "被解僱的",
+        "example": "他因遲到被解僱。"
+      }
+    },
+    {
       "word": "Firm",
       "type": "adjective",
       "letter": "F",
@@ -372,6 +1054,94 @@
       "chinese": {
         "meaning": "堅固的",
         "example": "這張桌子很堅固穩定。"
+      }
+    },
+    {
+      "word": "First",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Coming before all others in time or order",
+      "example": "She was the first person to arrive.",
+      "chinese": {
+        "meaning": "第一的",
+        "example": "她是第一個到達的人。"
+      }
+    },
+    {
+      "word": "Fiscal",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to government revenue or public finances",
+      "example": "The government announced new fiscal policies.",
+      "chinese": {
+        "meaning": "財政的",
+        "example": "政府宣布了新的財政政策。"
+      }
+    },
+    {
+      "word": "Fishy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Suspicious or not trustworthy",
+      "example": "His explanation sounded fishy to me.",
+      "chinese": {
+        "meaning": "可疑的",
+        "example": "他的解釋聽起來很可疑。"
+      }
+    },
+    {
+      "word": "Fit",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "In good health or physically suitable",
+      "example": "She is very fit and exercises daily.",
+      "chinese": {
+        "meaning": "健康的；合適的",
+        "example": "她很健康，每天鍛煉。"
+      }
+    },
+    {
+      "word": "Fitted",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Made or shaped to fit a particular purpose or person",
+      "example": "He wore a fitted suit.",
+      "chinese": {
+        "meaning": "合身的",
+        "example": "他穿著合身的西裝。"
+      }
+    },
+    {
+      "word": "Fitting",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Appropriate or suitable",
+      "example": "It was a fitting tribute to the hero.",
+      "chinese": {
+        "meaning": "合適的",
+        "example": "這是對英雄的合適致敬。"
+      }
+    },
+    {
+      "word": "Fixed",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Firmly placed or set; not changing",
+      "example": "The picture was fixed to the wall.",
+      "chinese": {
+        "meaning": "固定的",
+        "example": "畫被固定在牆上。"
+      }
+    },
+    {
+      "word": "Flabby",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Soft and hanging loosely; lacking firmness",
+      "example": "His muscles became flabby after inactivity.",
+      "chinese": {
+        "meaning": "鬆弛的",
+        "example": "久不運動後，他的肌肉鬆弛了。"
       }
     },
     {
@@ -386,6 +1156,72 @@
       }
     },
     {
+      "word": "Flashy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Tastelessly showy or ostentatious",
+      "example": "He wore a flashy gold watch.",
+      "chinese": {
+        "meaning": "炫耀的；浮華的",
+        "example": "他戴著一塊炫耀的金錶。"
+      }
+    },
+    {
+      "word": "Flat",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having a level surface; without curves or bumps",
+      "example": "The road ahead was flat and straight.",
+      "chinese": {
+        "meaning": "平坦的",
+        "example": "前方的路平坦而筆直。"
+      }
+    },
+    {
+      "word": "Flat-footed",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Slow to react or respond; awkward",
+      "example": "He was caught flat-footed by the unexpected question.",
+      "chinese": {
+        "meaning": "反應遲鈍的",
+        "example": "他被意外的問題問得措手不及。"
+      }
+    },
+    {
+      "word": "Flattered",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Pleased by someone's praise or attention",
+      "example": "She felt flattered by the compliment.",
+      "chinese": {
+        "meaning": "受寵若驚的",
+        "example": "她對讚美感到受寵若驚。"
+      }
+    },
+    {
+      "word": "Flattering",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Giving a pleasing or favorable impression",
+      "example": "That dress is very flattering on you.",
+      "chinese": {
+        "meaning": "討人喜歡的",
+        "example": "那條裙子穿在你身上很討喜。"
+      }
+    },
+    {
+      "word": "Flawed",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having mistakes or imperfections",
+      "example": "The plan was flawed from the beginning.",
+      "chinese": {
+        "meaning": "有缺陷的",
+        "example": "這個計劃從一開始就有缺陷。"
+      }
+    },
+    {
       "word": "Flawless",
       "type": "adjective",
       "letter": "F",
@@ -394,6 +1230,28 @@
       "chinese": {
         "meaning": "完美無瑕的",
         "example": "她的歌聲完美無瑕。"
+      }
+    },
+    {
+      "word": "Fleeting",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Lasting for a very short time",
+      "example": "They shared a fleeting moment of happiness.",
+      "chinese": {
+        "meaning": "短暫的",
+        "example": "他們共享了短暫的幸福時刻。"
+      }
+    },
+    {
+      "word": "Fleshy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having a lot of flesh or soft tissue",
+      "example": "The fruit had a thick, fleshy texture.",
+      "chinese": {
+        "meaning": "多肉的",
+        "example": "這水果有厚厚的果肉質地。"
       }
     },
     {
@@ -408,6 +1266,28 @@
       }
     },
     {
+      "word": "Flickering",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Shining unsteadily; wavering",
+      "example": "The flickering candlelight created a cozy atmosphere.",
+      "chinese": {
+        "meaning": "閃爍的",
+        "example": "閃爍的燭光營造出溫馨的氣氛。"
+      }
+    },
+    {
+      "word": "Flighty",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Fickle or irresponsible in behavior",
+      "example": "She was known for her flighty personality.",
+      "chinese": {
+        "meaning": "輕浮的",
+        "example": "她以輕浮的性格聞名。"
+      }
+    },
+    {
       "word": "Flimsy",
       "type": "adjective",
       "letter": "F",
@@ -416,6 +1296,116 @@
       "chinese": {
         "meaning": "脆弱的",
         "example": "證據很脆弱，令人信服。"
+      }
+    },
+    {
+      "word": "Flinching",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Showing a sudden involuntary movement due to pain or fear",
+      "example": "He gave a flinching reaction to the loud noise.",
+      "chinese": {
+        "meaning": "退縮的",
+        "example": "他對巨響做出退縮反應。"
+      }
+    },
+    {
+      "word": "Flippant",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Not showing a serious or respectful attitude",
+      "example": "His flippant remarks offended some people.",
+      "chinese": {
+        "meaning": "輕率的",
+        "example": "他的輕率言論冒犯了某些人。"
+      }
+    },
+    {
+      "word": "Flirtatious",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Behaving in a playful or teasing way to attract attention",
+      "example": "She gave him a flirtatious smile.",
+      "chinese": {
+        "meaning": "調情的",
+        "example": "她朝他露出調情的微笑。"
+      }
+    },
+    {
+      "word": "Floating",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Resting or moving on the surface of a liquid without sinking",
+      "example": "The leaves were floating on the water.",
+      "chinese": {
+        "meaning": "漂浮的",
+        "example": "樹葉漂浮在水面上。"
+      }
+    },
+    {
+      "word": "Flooded",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Covered with water due to overflow",
+      "example": "The flooded streets caused traffic problems.",
+      "chinese": {
+        "meaning": "淹水的",
+        "example": "淹水的街道引起交通問題。"
+      }
+    },
+    {
+      "word": "Floppy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Soft and hanging loosely without stiffness",
+      "example": "He wore a floppy hat to protect from the sun.",
+      "chinese": {
+        "meaning": "鬆軟的",
+        "example": "他戴著一頂鬆軟的帽子防曬。"
+      }
+    },
+    {
+      "word": "Floral",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to flowers",
+      "example": "She wore a dress with a floral pattern.",
+      "chinese": {
+        "meaning": "花的",
+        "example": "她穿著帶有花卉圖案的裙子。"
+      }
+    },
+    {
+      "word": "Florid",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having a red or flushed complexion; elaborately decorated",
+      "example": "He had a florid face after running.",
+      "chinese": {
+        "meaning": "紅潤的；華麗的",
+        "example": "跑步後他的臉紅潤了。"
+      }
+    },
+    {
+      "word": "Flourishing",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Growing or developing successfully",
+      "example": "The business is flourishing in the new market.",
+      "chinese": {
+        "meaning": "繁榮的",
+        "example": "這家公司在新市場蓬勃發展。"
+      }
+    },
+    {
+      "word": "Flowery",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Full of elaborate or fancy words; covered with flowers",
+      "example": "He gave a flowery speech at the ceremony.",
+      "chinese": {
+        "meaning": "花哨的；多花的",
+        "example": "他在典禮上發表了華麗的演講。"
       }
     },
     {
@@ -430,6 +1420,72 @@
       }
     },
     {
+      "word": "Fluffy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Soft and light like down or fur",
+      "example": "The kitten had soft, fluffy fur.",
+      "chinese": {
+        "meaning": "柔軟的",
+        "example": "小貓有柔軟蓬鬆的毛。"
+      }
+    },
+    {
+      "word": "Fluid",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Able to flow easily; smooth and graceful",
+      "example": "Her movements were fluid and elegant.",
+      "chinese": {
+        "meaning": "流動的；流暢的",
+        "example": "她的動作流暢優雅。"
+      }
+    },
+    {
+      "word": "Flushed",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Reddened in the face, often from embarrassment or exertion",
+      "example": "He looked flushed after the workout.",
+      "chinese": {
+        "meaning": "臉紅的",
+        "example": "鍛煉後他看起來臉紅了。"
+      }
+    },
+    {
+      "word": "Flustered",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Nervous or confused",
+      "example": "She felt flustered before the presentation.",
+      "chinese": {
+        "meaning": "慌亂的",
+        "example": "她在發表前感到慌亂。"
+      }
+    },
+    {
+      "word": "Fluttering",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Moving lightly and quickly in irregular motions",
+      "example": "The butterfly had fluttering wings.",
+      "chinese": {
+        "meaning": "飄動的",
+        "example": "蝴蝶有飄動的翅膀。"
+      }
+    },
+    {
+      "word": "Foamy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Covered with or resembling foam",
+      "example": "The sea was foamy after the storm.",
+      "chinese": {
+        "meaning": "泡沫的",
+        "example": "風暴後海面起了泡沫。"
+      }
+    },
+    {
       "word": "Focused",
       "type": "adjective",
       "letter": "F",
@@ -438,6 +1494,72 @@
       "chinese": {
         "meaning": "專注的",
         "example": "考試期間他一直很專注。"
+      }
+    },
+    {
+      "word": "Foiled",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Prevented from succeeding",
+      "example": "Their plans were foiled by the bad weather.",
+      "chinese": {
+        "meaning": "受挫折的",
+        "example": "他們的計劃因天氣惡劣而受挫。"
+      }
+    },
+    {
+      "word": "Folded",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Bent over on itself; arranged by folding",
+      "example": "She kept the folded letter in her pocket.",
+      "chinese": {
+        "meaning": "摺疊的",
+        "example": "她把摺好的信放在口袋裡。"
+      }
+    },
+    {
+      "word": "Folksy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Friendly and informal; typical of ordinary people",
+      "example": "He told a folksy story at the gathering.",
+      "chinese": {
+        "meaning": "親切的",
+        "example": "他在聚會上講了一個親切的故事。"
+      }
+    },
+    {
+      "word": "Following",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Coming after or next in order",
+      "example": "The following day was sunny.",
+      "chinese": {
+        "meaning": "隨後的",
+        "example": "隨後的一天是晴天。"
+      }
+    },
+    {
+      "word": "Fond",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having affection or liking for",
+      "example": "She is fond of her grandchildren.",
+      "chinese": {
+        "meaning": "喜愛的",
+        "example": "她喜愛她的孫子們。"
+      }
+    },
+    {
+      "word": "Foolhardy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Recklessly bold or rash",
+      "example": "It was foolhardy to drive in such weather.",
+      "chinese": {
+        "meaning": "魯莽的",
+        "example": "在這種天氣下開車很魯莽。"
       }
     },
     {
@@ -452,6 +1574,39 @@
       }
     },
     {
+      "word": "Footed",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having feet of a specified kind or number",
+      "example": "The statue was four-footed.",
+      "chinese": {
+        "meaning": "有腳的",
+        "example": "這雕像有四隻腳。"
+      }
+    },
+    {
+      "word": "Forbidding",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Unfriendly or threatening in appearance",
+      "example": "The mountain looked forbidding in the fog.",
+      "chinese": {
+        "meaning": "令人畏懼的",
+        "example": "山在霧中看起來令人畏懼。"
+      }
+    },
+    {
+      "word": "Forced",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Done unwillingly or by coercion",
+      "example": "Her smile seemed forced and unnatural.",
+      "chinese": {
+        "meaning": "強迫的",
+        "example": "她的笑容看起來很做作。"
+      }
+    },
+    {
       "word": "Forceful",
       "type": "adjective",
       "letter": "F",
@@ -460,6 +1615,160 @@
       "chinese": {
         "meaning": "有力的",
         "example": "她發表了一場有力的演說。"
+      }
+    },
+    {
+      "word": "Foreboding",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Feeling that something bad will happen",
+      "example": "There was a foreboding silence in the room.",
+      "chinese": {
+        "meaning": "不祥的預感",
+        "example": "房間裡彌漫著不祥的寂靜。"
+      }
+    },
+    {
+      "word": "Foregoing",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Just mentioned or stated; previous",
+      "example": "Refer to the foregoing chapter for details.",
+      "chinese": {
+        "meaning": "上述的",
+        "example": "有關詳情請參閱上述章節。"
+      }
+    },
+    {
+      "word": "Foreign",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to or characteristic of a country other than one's own",
+      "example": "He studied foreign languages in college.",
+      "chinese": {
+        "meaning": "外國的",
+        "example": "他在大學學習外語。"
+      }
+    },
+    {
+      "word": "Forensic",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to the application of scientific methods to solve crimes",
+      "example": "The forensic evidence helped solve the case.",
+      "chinese": {
+        "meaning": "法醫的",
+        "example": "法醫證據幫助破案。"
+      }
+    },
+    {
+      "word": "Foreseeable",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Able to be predicted or expected",
+      "example": "No problems are expected in the foreseeable future.",
+      "chinese": {
+        "meaning": "可預見的",
+        "example": "在可預見的未來不會有問題。"
+      }
+    },
+    {
+      "word": "Forest",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to or resembling a forest",
+      "example": "The forest area is rich in biodiversity.",
+      "chinese": {
+        "meaning": "森林的",
+        "example": "森林區域生物多樣性豐富。"
+      }
+    },
+    {
+      "word": "Foretold",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Predicted or declared in advance",
+      "example": "The foretold disaster was narrowly avoided.",
+      "chinese": {
+        "meaning": "預言的",
+        "example": "預言的災難險些發生。"
+      }
+    },
+    {
+      "word": "Forever",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Continuing without end",
+      "example": "They promised to be friends forever.",
+      "chinese": {
+        "meaning": "永遠的",
+        "example": "他們承諾永遠做朋友。"
+      }
+    },
+    {
+      "word": "Forged",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Formed or shaped by heating and hammering; also means faked",
+      "example": "The forged document was discovered.",
+      "chinese": {
+        "meaning": "鍛造的；偽造的",
+        "example": "偽造的文件被發現了。"
+      }
+    },
+    {
+      "word": "Forgetful",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Tending to forget things",
+      "example": "He is forgetful and often loses his keys.",
+      "chinese": {
+        "meaning": "健忘的",
+        "example": "他很健忘，經常丟鑰匙。"
+      }
+    },
+    {
+      "word": "Forgivable",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Able to be forgiven",
+      "example": "His mistake was forgivable given the circumstances.",
+      "chinese": {
+        "meaning": "可原諒的",
+        "example": "鑒於情況，他的錯誤是可以原諒的。"
+      }
+    },
+    {
+      "word": "Forgiven",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having been pardoned for a mistake or offense",
+      "example": "She was forgiven for her lateness.",
+      "chinese": {
+        "meaning": "被原諒的",
+        "example": "她的遲到被原諒了。"
+      }
+    },
+    {
+      "word": "Forgiving",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Inclined to pardon or excuse",
+      "example": "He has a forgiving nature.",
+      "chinese": {
+        "meaning": "寬恕的",
+        "example": "他有寬容的性格。"
+      }
+    },
+    {
+      "word": "Forked",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Divided into two or more branches",
+      "example": "The path was forked into two directions.",
+      "chinese": {
+        "meaning": "分叉的",
+        "example": "小徑分成兩條路。"
       }
     },
     {
@@ -474,6 +1783,94 @@
       }
     },
     {
+      "word": "Formative",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Serving to shape or influence development",
+      "example": "Childhood is a formative period.",
+      "chinese": {
+        "meaning": "形成的",
+        "example": "童年是形成性階段。"
+      }
+    },
+    {
+      "word": "Former",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having previously filled a particular role or status",
+      "example": "He is a former champion.",
+      "chinese": {
+        "meaning": "以前的",
+        "example": "他是前冠軍。"
+      }
+    },
+    {
+      "word": "Formidable",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Inspiring fear or respect through being large, powerful, or capable",
+      "example": "She faced a formidable opponent.",
+      "chinese": {
+        "meaning": "強大的",
+        "example": "她面對一個強大的對手。"
+      }
+    },
+    {
+      "word": "Formless",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Without a clear shape or structure",
+      "example": "The mist formed a formless mass.",
+      "chinese": {
+        "meaning": "無形的",
+        "example": "霧形成了一團無形的塊狀物。"
+      }
+    },
+    {
+      "word": "Forsaken",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Abandoned or deserted",
+      "example": "The forsaken house stood empty for years.",
+      "chinese": {
+        "meaning": "被遺棄的",
+        "example": "被遺棄的房子空置多年。"
+      }
+    },
+    {
+      "word": "Forthcoming",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "About to happen or appear; willing to help",
+      "example": "The forthcoming event attracted many guests.",
+      "chinese": {
+        "meaning": "即將到來的；樂於助人的",
+        "example": "即將到來的活動吸引了許多賓客。"
+      }
+    },
+    {
+      "word": "Fortieth",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "The ordinal number for 40th in a sequence",
+      "example": "She celebrated her fortieth birthday.",
+      "chinese": {
+        "meaning": "第四十的",
+        "example": "她慶祝了她的第四十個生日。"
+      }
+    },
+    {
+      "word": "Fortuitous",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Happening by chance, often lucky or fortunate",
+      "example": "Their meeting was purely fortuitous.",
+      "chinese": {
+        "meaning": "偶然的",
+        "example": "他們的相遇完全是偶然的。"
+      }
+    },
+    {
       "word": "Fortunate",
       "type": "adjective",
       "letter": "F",
@@ -485,6 +1882,94 @@
       }
     },
     {
+      "word": "Forward",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Directed or moving ahead",
+      "example": "They took a forward step in negotiations.",
+      "chinese": {
+        "meaning": "向前的",
+        "example": "他們在談判中邁出了向前的一步。"
+      }
+    },
+    {
+      "word": "Fossilized",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Turned into a fossil; hardened or fixed in attitude",
+      "example": "The fossilized remains were millions of years old.",
+      "chinese": {
+        "meaning": "成化石的；固定不變的",
+        "example": "這些化石遺骸已有數百萬年歷史。"
+      }
+    },
+    {
+      "word": "Fostered",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Encouraged or promoted the development of",
+      "example": "A positive environment fostered creativity.",
+      "chinese": {
+        "meaning": "培養的",
+        "example": "積極的環境促進了創造力。"
+      }
+    },
+    {
+      "word": "Foul",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Disgusting or offensive",
+      "example": "The foul smell made everyone leave.",
+      "chinese": {
+        "meaning": "惡臭的",
+        "example": "惡臭使所有人離開。"
+      }
+    },
+    {
+      "word": "Found",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Established or started",
+      "example": "The found company grew rapidly.",
+      "chinese": {
+        "meaning": "創立的",
+        "example": "創立的公司迅速成長。"
+      }
+    },
+    {
+      "word": "Foundational",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Forming a basis or foundation",
+      "example": "Trust is foundational to any relationship.",
+      "chinese": {
+        "meaning": "基礎的",
+        "example": "信任是任何關係的基礎。"
+      }
+    },
+    {
+      "word": "Founded",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Established or created",
+      "example": "The founded institution has a long history.",
+      "chinese": {
+        "meaning": "成立的",
+        "example": "該機構歷史悠久。"
+      }
+    },
+    {
+      "word": "Fractured",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Broken or cracked",
+      "example": "He suffered a fractured bone in the accident.",
+      "chinese": {
+        "meaning": "破裂的",
+        "example": "他在事故中骨折了。"
+      }
+    },
+    {
       "word": "Fragile",
       "type": "adjective",
       "letter": "F",
@@ -493,6 +1978,17 @@
       "chinese": {
         "meaning": "易碎的",
         "example": "這個花瓶很易碎。"
+      }
+    },
+    {
+      "word": "Fragmentary",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Incomplete; consisting of fragments",
+      "example": "The evidence was fragmentary and inconclusive.",
+      "chinese": {
+        "meaning": "零碎的",
+        "example": "證據零碎且無結論。"
       }
     },
     {
@@ -518,6 +2014,17 @@
       }
     },
     {
+      "word": "Framed",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Surrounded or enclosed in a frame; falsely accused",
+      "example": "The framed picture hung on the wall.",
+      "chinese": {
+        "meaning": "有框的；被誣陷的",
+        "example": "有框的畫掛在牆上。"
+      }
+    },
+    {
       "word": "Frank",
       "type": "adjective",
       "letter": "F",
@@ -540,6 +2047,17 @@
       }
     },
     {
+      "word": "Fraternal",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to brothers; brotherly",
+      "example": "They had a fraternal bond.",
+      "chinese": {
+        "meaning": "兄弟般的",
+        "example": "他們有兄弟般的情誼。"
+      }
+    },
+    {
       "word": "Fraudulent",
       "type": "adjective",
       "letter": "F",
@@ -551,6 +2069,39 @@
       }
     },
     {
+      "word": "Fraught",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Filled with or destined to result in something undesirable",
+      "example": "The situation was fraught with danger.",
+      "chinese": {
+        "meaning": "充滿…的",
+        "example": "情況充滿危險。"
+      }
+    },
+    {
+      "word": "Frayed",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Worn out or ragged at the edges",
+      "example": "The old rope was frayed and weak.",
+      "chinese": {
+        "meaning": "磨損的",
+        "example": "舊繩子磨損且脆弱。"
+      }
+    },
+    {
+      "word": "Freaked",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Very scared or upset",
+      "example": "She was freaked out by the loud noise.",
+      "chinese": {
+        "meaning": "驚慌失措的",
+        "example": "她被巨響嚇壞了。"
+      }
+    },
+    {
       "word": "Freakish",
       "type": "adjective",
       "letter": "F",
@@ -559,6 +2110,61 @@
       "chinese": {
         "meaning": "異常的",
         "example": "一場異常的暴風雨襲擊了城市。"
+      }
+    },
+    {
+      "word": "Free",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Not under the control or power of another; without cost",
+      "example": "The event was free to attend.",
+      "chinese": {
+        "meaning": "自由的；免費的",
+        "example": "這活動是免費參加的。"
+      }
+    },
+    {
+      "word": "Free-form",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Not following a fixed structure or pattern",
+      "example": "The artist created a free-form sculpture.",
+      "chinese": {
+        "meaning": "自由形式的",
+        "example": "藝術家創作了自由形式的雕塑。"
+      }
+    },
+    {
+      "word": "Freeing",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Causing liberation or release",
+      "example": "The experience was freeing for her mind.",
+      "chinese": {
+        "meaning": "使人解脫的",
+        "example": "這經歷讓她的心靈獲得解脫。"
+      }
+    },
+    {
+      "word": "French",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to France or its people or language",
+      "example": "She speaks fluent French.",
+      "chinese": {
+        "meaning": "法國的",
+        "example": "她說一口流利的法語。"
+      }
+    },
+    {
+      "word": "Frenzied",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Wildly excited or uncontrolled",
+      "example": "The crowd became frenzied during the concert.",
+      "chinese": {
+        "meaning": "狂亂的",
+        "example": "音樂會中人群變得狂亂。"
       }
     },
     {
@@ -584,6 +2190,17 @@
       }
     },
     {
+      "word": "Fretful",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Feeling or expressing distress or irritation",
+      "example": "The baby was fretful all night.",
+      "chinese": {
+        "meaning": "煩躁的",
+        "example": "嬰兒整夜都很煩躁。"
+      }
+    },
+    {
       "word": "Friendly",
       "type": "adjective",
       "letter": "F",
@@ -606,6 +2223,17 @@
       }
     },
     {
+      "word": "Frightening",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Causing fear",
+      "example": "The thunderstorm was frightening.",
+      "chinese": {
+        "meaning": "令人害怕的",
+        "example": "那場雷暴很可怕。"
+      }
+    },
+    {
       "word": "Frigid",
       "type": "adjective",
       "letter": "F",
@@ -614,6 +2242,28 @@
       "chinese": {
         "meaning": "寒冷的",
         "example": "冬天的空氣非常寒冷。"
+      }
+    },
+    {
+      "word": "Fringed",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having an edge or border of hanging threads or strips",
+      "example": "The shawl was beautifully fringed.",
+      "chinese": {
+        "meaning": "有流蘇邊緣的",
+        "example": "披肩有漂亮的流蘇邊緣。"
+      }
+    },
+    {
+      "word": "Frisky",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Playfully lively or energetic",
+      "example": "The kitten was frisky and playful.",
+      "chinese": {
+        "meaning": "活潑的",
+        "example": "小貓活潑好動。"
       }
     },
     {
@@ -628,6 +2278,83 @@
       }
     },
     {
+      "word": "Frizzy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having tight curls or a rough texture, often used for hair",
+      "example": "Her hair was frizzy after the rain.",
+      "chinese": {
+        "meaning": "捲曲的",
+        "example": "雨後她的頭髮變得捲曲。"
+      }
+    },
+    {
+      "word": "Front",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Situated at the forward part or surface",
+      "example": "The front door is painted red.",
+      "chinese": {
+        "meaning": "前面的",
+        "example": "前門漆成紅色。"
+      }
+    },
+    {
+      "word": "Frontier",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to a border or edge of settled or known territory",
+      "example": "They settled in the frontier town.",
+      "chinese": {
+        "meaning": "邊境的",
+        "example": "他們定居在邊境小鎮。"
+      }
+    },
+    {
+      "word": "Frostbitten",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Affected by frost or extreme cold",
+      "example": "His fingers were frostbitten after hours in the cold.",
+      "chinese": {
+        "meaning": "凍傷的",
+        "example": "他在寒冷中待了好幾小時，手指凍傷了。"
+      }
+    },
+    {
+      "word": "Frosty",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Covered with frost; cold in manner",
+      "example": "There was a frosty layer on the grass this morning.",
+      "chinese": {
+        "meaning": "結霜的；冷淡的",
+        "example": "今早草地上有一層霜。"
+      }
+    },
+    {
+      "word": "Frowning",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Showing displeasure or concern by furrowing the brow",
+      "example": "She had a frowning expression after hearing the news.",
+      "chinese": {
+        "meaning": "皺眉的",
+        "example": "聽到消息後她皺起了眉頭。"
+      }
+    },
+    {
+      "word": "Frozen",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Turned into ice or affected by extreme cold",
+      "example": "The lake was frozen solid.",
+      "chinese": {
+        "meaning": "冰凍的",
+        "example": "湖面結了厚厚的冰。"
+      }
+    },
+    {
       "word": "Frugal",
       "type": "adjective",
       "letter": "F",
@@ -639,6 +2366,39 @@
       }
     },
     {
+      "word": "Fruitful",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Producing good results; productive",
+      "example": "They had a fruitful discussion about the project.",
+      "chinese": {
+        "meaning": "富有成效的",
+        "example": "他們就該項目進行了富有成效的討論。"
+      }
+    },
+    {
+      "word": "Fruity",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having the taste or smell of fruit",
+      "example": "The wine had a sweet, fruity flavor.",
+      "chinese": {
+        "meaning": "水果味的",
+        "example": "這酒有甜甜的水果味。"
+      }
+    },
+    {
+      "word": "Frumpy",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Unfashionable and old-fashioned in appearance",
+      "example": "She wore a frumpy dress to the party.",
+      "chinese": {
+        "meaning": "過時的；老土的",
+        "example": "她穿著一件過時的裙子參加聚會。"
+      }
+    },
+    {
       "word": "Frustrated",
       "type": "adjective",
       "letter": "F",
@@ -647,6 +2407,28 @@
       "chinese": {
         "meaning": "沮喪的",
         "example": "延誤讓她感到沮喪。"
+      }
+    },
+    {
+      "word": "Frustrating",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Causing feelings of annoyance or discouragement",
+      "example": "The delay was frustrating for everyone.",
+      "chinese": {
+        "meaning": "令人沮喪的",
+        "example": "延誤讓大家感到沮喪。"
+      }
+    },
+    {
+      "word": "Fulfilled",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Satisfied or happy because of fully achieving one's desires or goals",
+      "example": "She felt fulfilled after finishing the marathon.",
+      "chinese": {
+        "meaning": "滿足的",
+        "example": "完成馬拉松後她感到很滿足。"
       }
     },
     {
@@ -672,6 +2454,39 @@
       }
     },
     {
+      "word": "Full-bodied",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having a rich, strong flavor or sound",
+      "example": "The wine is full-bodied and flavorful.",
+      "chinese": {
+        "meaning": "濃郁的",
+        "example": "這酒味道濃郁。"
+      }
+    },
+    {
+      "word": "Full-fledged",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Completely developed or established",
+      "example": "He is a full-fledged member of the team.",
+      "chinese": {
+        "meaning": "完全成熟的",
+        "example": "他是團隊的正式成員。"
+      }
+    },
+    {
+      "word": "Full-scale",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Complete and fully developed",
+      "example": "They launched a full-scale investigation.",
+      "chinese": {
+        "meaning": "全面的",
+        "example": "他們展開了全面調查。"
+      }
+    },
+    {
       "word": "Functional",
       "type": "adjective",
       "letter": "F",
@@ -694,6 +2509,61 @@
       }
     },
     {
+      "word": "Funded",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Provided with financial resources",
+      "example": "The funded project was successful.",
+      "chinese": {
+        "meaning": "有資金支持的",
+        "example": "這個有資金支持的項目很成功。"
+      }
+    },
+    {
+      "word": "Funeral",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Relating to a ceremony for a deceased person",
+      "example": "The funeral procession was solemn.",
+      "chinese": {
+        "meaning": "喪葬的",
+        "example": "喪葬隊伍很莊重。"
+      }
+    },
+    {
+      "word": "Funereal",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having the mournful character of a funeral",
+      "example": "The music had a funereal tone.",
+      "chinese": {
+        "meaning": "喪禮的，陰沉的",
+        "example": "音樂帶有喪禮的悲哀氛圍。"
+      }
+    },
+    {
+      "word": "Funky",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Having a strong, unusual, or stylish character",
+      "example": "He wore a funky hat to the party.",
+      "chinese": {
+        "meaning": "時髦的；有趣的",
+        "example": "他帶著一頂時髦的帽子參加派對。"
+      }
+    },
+    {
+      "word": "Funny",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Causing laughter or amusement",
+      "example": "She told a funny joke.",
+      "chinese": {
+        "meaning": "有趣的",
+        "example": "她講了一個有趣的笑話。"
+      }
+    },
+    {
       "word": "Furious",
       "type": "adjective",
       "letter": "F",
@@ -702,6 +2572,105 @@
       "chinese": {
         "meaning": "憤怒的",
         "example": "聽到這消息時他非常憤怒。"
+      }
+    },
+    {
+      "word": "Furred",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Covered with fur",
+      "example": "The animal had a thick furred coat.",
+      "chinese": {
+        "meaning": "有毛皮覆蓋的",
+        "example": "那動物有一層厚厚的毛皮。"
+      }
+    },
+    {
+      "word": "Furry",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Covered with soft fur",
+      "example": "The puppy was soft and furry.",
+      "chinese": {
+        "meaning": "毛茸茸的",
+        "example": "小狗又軟又毛茸茸。"
+      }
+    },
+    {
+      "word": "Further",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "More distant in space or time",
+      "example": "We need to discuss this at a further meeting.",
+      "chinese": {
+        "meaning": "更遠的；進一步的",
+        "example": "我們需要在下一次會議中討論此事。"
+      }
+    },
+    {
+      "word": "Furthermore",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "In addition; besides",
+      "example": "Furthermore, the project will reduce costs.",
+      "chinese": {
+        "meaning": "此外",
+        "example": "此外，該項目將降低成本。"
+      }
+    },
+    {
+      "word": "Furtive",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Attempting to avoid notice or attention due to guilt or secrecy",
+      "example": "He gave a furtive glance around the room.",
+      "chinese": {
+        "meaning": "偷偷摸摸的",
+        "example": "他偷偷地環顧四周。"
+      }
+    },
+    {
+      "word": "Fused",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Joined together to form a single entity",
+      "example": "The two metals were fused into one.",
+      "chinese": {
+        "meaning": "融合的",
+        "example": "兩種金屬融合成一體。"
+      }
+    },
+    {
+      "word": "Fusiform",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Spindle-shaped; tapered at both ends",
+      "example": "The fusiform muscle fibers help with movement.",
+      "chinese": {
+        "meaning": "紡錘形的",
+        "example": "紡錘形的肌纖維有助於運動。"
+      }
+    },
+    {
+      "word": "Futile",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Incapable of producing any useful result; pointless",
+      "example": "Their efforts to change the policy were futile.",
+      "chinese": {
+        "meaning": "無效的",
+        "example": "他們改變政策的努力是徒勞的。"
+      }
+    },
+    {
+      "word": "Future",
+      "type": "adjective",
+      "letter": "F",
+      "meaning": "Yet to come; relating to time ahead",
+      "example": "She is planning her future career.",
+      "chinese": {
+        "meaning": "未來的",
+        "example": "她在規劃未來的職業生涯。"
       }
     },
     {

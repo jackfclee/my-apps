@@ -1,6 +1,36 @@
 {
   "words": [
     {
+      "word": "Iberian",
+      "type": "adjective",
+      "meaning": "Relating to the Iberian Peninsula (Spain and Portugal)",
+      "example": "Iberian culture has a rich history.",
+      "chinese": {
+        "meaning": "伊比利亞半島的（西班牙和葡萄牙）",
+        "example": "伊比利亞文化有著豐富的歷史。"
+      }
+    },
+    {
+      "word": "Iced",
+      "type": "adjective",
+      "meaning": "Chilled or covered with ice",
+      "example": "Iced tea is refreshing in summer.",
+      "chinese": {
+        "meaning": "加冰的，冰鎮的",
+        "example": "夏天喝冰茶很清爽。"
+      }
+    },
+    {
+      "word": "Iconic",
+      "type": "adjective",
+      "meaning": "Widely recognized and well-established",
+      "example": "The Eiffel Tower is an iconic landmark.",
+      "chinese": {
+        "meaning": "標誌性的，象徵性的",
+        "example": "埃菲爾鐵塔是標誌性地標。"
+      }
+    },
+    {
       "word": "Ideal",
       "type": "adjective",
       "letter": "I",
@@ -23,6 +53,76 @@
       }
     },
     {
+      "word": "Identifiable",
+      "type": "adjective",
+      "meaning": "Able to be recognized or distinguished",
+      "example": "The suspect was easily identifiable.",
+      "chinese": {
+        "meaning": "可識別的",
+        "example": "嫌疑人很容易被識別。"
+      }
+    },
+    {
+      "word": "Identified",
+      "type": "adjective",
+      "meaning": "Recognized and named",
+      "example": "The identified objects were cataloged.",
+      "chinese": {
+        "meaning": "已識別的",
+        "example": "已識別的物品被編目。"
+      }
+    },
+    {
+      "word": "Ideological",
+      "type": "adjective",
+      "meaning": "Related to a system of ideas or beliefs",
+      "example": "They have different ideological views.",
+      "chinese": {
+        "meaning": "意識形態的",
+        "example": "他們有不同的意識形態觀點。"
+      }
+    },
+    {
+      "word": "Idiomatic",
+      "type": "adjective",
+      "meaning": "Using expressions natural to a native speaker",
+      "example": "Her speech was full of idiomatic phrases.",
+      "chinese": {
+        "meaning": "成語的，慣用語的",
+        "example": "她的演講充滿了慣用語。"
+      }
+    },
+    {
+      "word": "Idiopathic",
+      "type": "adjective",
+      "meaning": "Relating to a disease or condition with no known cause",
+      "example": "Idiopathic epilepsy is difficult to treat.",
+      "chinese": {
+        "meaning": "特發性的，原因不明的",
+        "example": "特發性癲癇難以治療。"
+      }
+    },
+    {
+      "word": "Idiosyncratic",
+      "type": "adjective",
+      "meaning": "Peculiar or individual; distinctive",
+      "example": "His idiosyncratic habits were unique.",
+      "chinese": {
+        "meaning": "獨特的，個性的",
+        "example": "他獨特的習慣很特別。"
+      }
+    },
+    {
+      "word": "Idle",
+      "type": "adjective",
+      "meaning": "Not active or in use; lazy",
+      "example": "The factory remained idle during the strike.",
+      "chinese": {
+        "meaning": "閒置的，懶惰的",
+        "example": "罷工期間工廠閒置。"
+      }
+    },
+    {
       "word": "Idyllic",
       "type": "adjective",
       "letter": "I",
@@ -31,6 +131,16 @@
       "chinese": {
         "meaning": "田園詩般的",
         "example": "他們在海邊度過了一個田園詩般的假期。"
+      }
+    },
+    {
+      "word": "Ignoble",
+      "type": "adjective",
+      "meaning": "Not honorable; of low character",
+      "example": "He acted in an ignoble manner.",
+      "chinese": {
+        "meaning": "卑鄙的，不光彩的",
+        "example": "他的行為卑鄙無恥。"
       }
     },
     {
@@ -45,6 +155,166 @@
       }
     },
     {
+      "word": "Ill",
+      "type": "adjective",
+      "meaning": "Sick or unwell",
+      "example": "She felt ill after the meal.",
+      "chinese": {
+        "meaning": "生病的，不舒服的",
+        "example": "她飯後感到不適。"
+      }
+    },
+    {
+      "word": "Ill-advised",
+      "type": "adjective",
+      "meaning": "Not wise or sensible",
+      "example": "It was an ill-advised decision.",
+      "chinese": {
+        "meaning": "不明智的，欠考慮的",
+        "example": "那是一個不明智的決定。"
+      }
+    },
+    {
+      "word": "Ill-bred",
+      "type": "adjective",
+      "meaning": "Poorly mannered; rude",
+      "example": "The ill-bred child disrupted the class.",
+      "chinese": {
+        "meaning": "沒教養的，粗魯的",
+        "example": "那個沒教養的孩子打擾了課堂。"
+      }
+    },
+    {
+      "word": "Ill-considered",
+      "type": "adjective",
+      "meaning": "Not carefully thought out",
+      "example": "The plan was ill-considered and failed.",
+      "chinese": {
+        "meaning": "考慮不周的",
+        "example": "這個計劃考慮不周而失敗了。"
+      }
+    },
+    {
+      "word": "Ill-tempered",
+      "type": "adjective",
+      "meaning": "Bad-tempered or irritable",
+      "example": "He is known for being ill-tempered.",
+      "chinese": {
+        "meaning": "脾氣壞的，易怒的",
+        "example": "他以脾氣壞聞名。"
+      }
+    },
+    {
+      "word": "Ill-treated",
+      "type": "adjective",
+      "meaning": "Treated badly or unfairly",
+      "example": "The prisoners were ill-treated.",
+      "chinese": {
+        "meaning": "被虐待的，不公平對待的",
+        "example": "囚犯受到虐待。"
+      }
+    },
+    {
+      "word": "Illegal",
+      "type": "adjective",
+      "meaning": "Forbidden by law",
+      "example": "Illegal activities are punished by law.",
+      "chinese": {
+        "meaning": "非法的",
+        "example": "非法活動會受到法律制裁。"
+      }
+    },
+    {
+      "word": "Illegible",
+      "type": "adjective",
+      "meaning": "Difficult or impossible to read",
+      "example": "His handwriting was illegible.",
+      "chinese": {
+        "meaning": "難以辨認的",
+        "example": "他的字跡難以辨認。"
+      }
+    },
+    {
+      "word": "Illegitimate",
+      "type": "adjective",
+      "meaning": "Not authorized or lawful",
+      "example": "The business was deemed illegitimate.",
+      "chinese": {
+        "meaning": "非法的，不正當的",
+        "example": "該企業被認為是不合法的。"
+      }
+    },
+    {
+      "word": "Illicit",
+      "type": "adjective",
+      "meaning": "Forbidden by law, rules, or custom",
+      "example": "Illicit trade damages the economy.",
+      "chinese": {
+        "meaning": "非法的，違禁的",
+        "example": "非法貿易損害經濟。"
+      }
+    },
+    {
+      "word": "Illimitable",
+      "type": "adjective",
+      "meaning": "Without limits; infinite",
+      "example": "The universe is illimitable.",
+      "chinese": {
+        "meaning": "無限的",
+        "example": "宇宙是無限的。"
+      }
+    },
+    {
+      "word": "Illiterate",
+      "type": "adjective",
+      "meaning": "Unable to read or write",
+      "example": "Many adults in the area are illiterate.",
+      "chinese": {
+        "meaning": "文盲的，不識字的",
+        "example": "該地區許多成年人是文盲。"
+      }
+    },
+    {
+      "word": "Illogical",
+      "type": "adjective",
+      "meaning": "Not making sense; irrational",
+      "example": "His argument was illogical.",
+      "chinese": {
+        "meaning": "不合邏輯的",
+        "example": "他的論點不合邏輯。"
+      }
+    },
+    {
+      "word": "Illuminated",
+      "type": "adjective",
+      "meaning": "Lit up or made brighter",
+      "example": "The room was beautifully illuminated.",
+      "chinese": {
+        "meaning": "照亮的，點亮的",
+        "example": "房間被美麗地照亮。"
+      }
+    },
+    {
+      "word": "Illusory",
+      "type": "adjective",
+      "meaning": "Based on illusion; not real",
+      "example": "His hope was illusory.",
+      "chinese": {
+        "meaning": "幻覺的，虛假的",
+        "example": "他的希望是虛幻的。"
+      }
+    },
+    {
+      "word": "Illustrative",
+      "type": "adjective",
+      "meaning": "Serving as an example or explanation",
+      "example": "The diagram was illustrative of the process.",
+      "chinese": {
+        "meaning": "說明性的，作為例證的",
+        "example": "該圖解說明了過程。"
+      }
+    },
+    {
       "word": "Illustrious",
       "type": "adjective",
       "letter": "I",
@@ -53,6 +323,26 @@
       "chinese": {
         "meaning": "著名的；傑出的",
         "example": "她在科學界有著著名的職業生涯。"
+      }
+    },
+    {
+      "word": "Imaginary",
+      "type": "adjective",
+      "meaning": "Existing only in the mind; not real",
+      "example": "He has an imaginary friend.",
+      "chinese": {
+        "meaning": "想像的，虛構的",
+        "example": "他有一個想像中的朋友。"
+      }
+    },
+    {
+      "word": "Imaginative",
+      "type": "adjective",
+      "meaning": "Creative or inventive",
+      "example": "She is an imaginative writer.",
+      "chinese": {
+        "meaning": "富有想像力的",
+        "example": "她是一位富有想像力的作家。"
       }
     },
     {
@@ -67,6 +357,46 @@
       }
     },
     {
+      "word": "Immaterial",
+      "type": "adjective",
+      "meaning": "Not important or relevant",
+      "example": "His comments were immaterial to the discussion.",
+      "chinese": {
+        "meaning": "不重要的，無關緊要的",
+        "example": "他的評論與討論無關。"
+      }
+    },
+    {
+      "word": "Immature",
+      "type": "adjective",
+      "meaning": "Not fully developed; childish",
+      "example": "His behavior was immature.",
+      "chinese": {
+        "meaning": "不成熟的，幼稚的",
+        "example": "他的行為很幼稚。"
+      }
+    },
+    {
+      "word": "Immediate",
+      "type": "adjective",
+      "meaning": "Happening or done without delay",
+      "example": "She took immediate action.",
+      "chinese": {
+        "meaning": "立即的，直接的",
+        "example": "她立即採取行動。"
+      }
+    },
+    {
+      "word": "Immense",
+      "type": "adjective",
+      "meaning": "Extremely large or great",
+      "example": "They faced immense challenges.",
+      "chinese": {
+        "meaning": "巨大的，極大的",
+        "example": "他們面臨巨大的挑戰。"
+      }
+    },
+    {
       "word": "Imminent",
       "type": "adjective",
       "letter": "I",
@@ -75,6 +405,66 @@
       "chinese": {
         "meaning": "即將發生的",
         "example": "風暴即將來臨，請尋找避難所。"
+      }
+    },
+    {
+      "word": "Immobile",
+      "type": "adjective",
+      "meaning": "Not moving; motionless",
+      "example": "The patient was immobile after the injury.",
+      "chinese": {
+        "meaning": "不動的，靜止的",
+        "example": "患者受傷後無法動彈。"
+      }
+    },
+    {
+      "word": "Immodest",
+      "type": "adjective",
+      "meaning": "Lacking humility or decency",
+      "example": "His immodest behavior shocked everyone.",
+      "chinese": {
+        "meaning": "不謙虛的，放肆的",
+        "example": "他的不謙虛行為讓大家震驚。"
+      }
+    },
+    {
+      "word": "Immoral",
+      "type": "adjective",
+      "meaning": "Not conforming to accepted standards of morality",
+      "example": "Stealing is considered immoral.",
+      "chinese": {
+        "meaning": "不道德的",
+        "example": "偷竊被認為是不道德的。"
+      }
+    },
+    {
+      "word": "Immortal",
+      "type": "adjective",
+      "meaning": "Living forever; never dying",
+      "example": "The legend tells of an immortal hero.",
+      "chinese": {
+        "meaning": "不朽的，永生的",
+        "example": "傳說講述了一位不朽的英雄。"
+      }
+    },
+    {
+      "word": "Immovable",
+      "type": "adjective",
+      "meaning": "Unable to be moved",
+      "example": "The statue is immovable.",
+      "chinese": {
+        "meaning": "不可移動的",
+        "example": "這座雕像無法移動。"
+      }
+    },
+    {
+      "word": "Immune",
+      "type": "adjective",
+      "meaning": "Protected from something, especially disease",
+      "example": "She is immune to the flu.",
+      "chinese": {
+        "meaning": "免疫的，有免疫力的",
+        "example": "她對流感有免疫力。"
       }
     },
     {
@@ -100,6 +490,56 @@
       }
     },
     {
+      "word": "Impassive",
+      "type": "adjective",
+      "meaning": "Not showing emotion",
+      "example": "He remained impassive during the trial.",
+      "chinese": {
+        "meaning": "冷漠的，無動於衷的",
+        "example": "他在審判中保持冷漠。"
+      }
+    },
+    {
+      "word": "Impatient",
+      "type": "adjective",
+      "meaning": "Easily annoyed by delays",
+      "example": "She was impatient waiting in line.",
+      "chinese": {
+        "meaning": "不耐煩的",
+        "example": "她排隊時很不耐煩。"
+      }
+    },
+    {
+      "word": "Impeccable",
+      "type": "adjective",
+      "meaning": "Faultless; flawless",
+      "example": "Her manners were impeccable.",
+      "chinese": {
+        "meaning": "無可挑剔的，完美的",
+        "example": "她的禮儀無可挑剔。"
+      }
+    },
+    {
+      "word": "Impecunious",
+      "type": "adjective",
+      "meaning": "Having little or no money",
+      "example": "The impecunious artist struggled to pay bills.",
+      "chinese": {
+        "meaning": "貧窮的，身無分文的",
+        "example": "那位貧窮的藝術家難以支付賬單。"
+      }
+    },
+    {
+      "word": "Impenetrable",
+      "type": "adjective",
+      "meaning": "Impossible to pass through or understand",
+      "example": "The forest was impenetrable.",
+      "chinese": {
+        "meaning": "不可穿透的，難以理解的",
+        "example": "森林難以穿透。"
+      }
+    },
+    {
       "word": "Imperative",
       "type": "adjective",
       "letter": "I",
@@ -108,6 +548,66 @@
       "chinese": {
         "meaning": "必要的",
         "example": "遵守安全規則是必要的。"
+      }
+    },
+    {
+      "word": "Imperceptible",
+      "type": "adjective",
+      "meaning": "Impossible to perceive or notice",
+      "example": "There was an imperceptible change in temperature.",
+      "chinese": {
+        "meaning": "察覺不到的，難以察覺的",
+        "example": "溫度有微小的變化，難以察覺。"
+      }
+    },
+    {
+      "word": "Imperfect",
+      "type": "adjective",
+      "meaning": "Not perfect; having flaws",
+      "example": "The vase was imperfect but still beautiful.",
+      "chinese": {
+        "meaning": "不完美的，有缺陷的",
+        "example": "這個花瓶不完美但依然美麗。"
+      }
+    },
+    {
+      "word": "Imperial",
+      "type": "adjective",
+      "meaning": "Relating to an empire or emperor",
+      "example": "The imperial palace was grand.",
+      "chinese": {
+        "meaning": "帝國的，皇帝的",
+        "example": "皇宮非常宏偉。"
+      }
+    },
+    {
+      "word": "Imperious",
+      "type": "adjective",
+      "meaning": "Having a commanding, arrogant manner",
+      "example": "She gave an imperious order.",
+      "chinese": {
+        "meaning": "專橫的，傲慢的",
+        "example": "她發出了專橫的命令。"
+      }
+    },
+    {
+      "word": "Impermanent",
+      "type": "adjective",
+      "meaning": "Not lasting forever; temporary",
+      "example": "All things in life are impermanent.",
+      "chinese": {
+        "meaning": "非永久的，短暫的",
+        "example": "生命中的一切都是短暫的。"
+      }
+    },
+    {
+      "word": "Impersonal",
+      "type": "adjective",
+      "meaning": "Not influenced by personal feelings; formal",
+      "example": "The report was impersonal and objective.",
+      "chinese": {
+        "meaning": "客觀的，無人情味的",
+        "example": "報告是客觀且無人情味的。"
       }
     },
     {
@@ -133,6 +633,56 @@
       }
     },
     {
+      "word": "Impish",
+      "type": "adjective",
+      "meaning": "Mischievous or playful",
+      "example": "The child had an impish grin.",
+      "chinese": {
+        "meaning": "調皮的，頑皮的",
+        "example": "孩子露出調皮的笑容。"
+      }
+    },
+    {
+      "word": "Implementable",
+      "type": "adjective",
+      "meaning": "Able to be put into effect or carried out",
+      "example": "The plan is implementable with proper resources.",
+      "chinese": {
+        "meaning": "可實施的，可執行的",
+        "example": "該計劃在有適當資源的情況下可執行。"
+      }
+    },
+    {
+      "word": "Implicit",
+      "type": "adjective",
+      "meaning": "Implied though not plainly expressed",
+      "example": "There was implicit trust between them.",
+      "chinese": {
+        "meaning": "含蓄的，暗示的",
+        "example": "他們之間有著含蓄的信任。"
+      }
+    },
+    {
+      "word": "Impolite",
+      "type": "adjective",
+      "meaning": "Not polite; rude",
+      "example": "His impolite behavior offended many.",
+      "chinese": {
+        "meaning": "不禮貌的，無禮的",
+        "example": "他的無禮行為冒犯了很多人。"
+      }
+    },
+    {
+      "word": "Important",
+      "type": "adjective",
+      "meaning": "Of great significance or value",
+      "example": "This is an important decision.",
+      "chinese": {
+        "meaning": "重要的，有重大意義的",
+        "example": "這是一個重要的決定。"
+      }
+    },
+    {
       "word": "Imposing",
       "type": "adjective",
       "letter": "I",
@@ -141,6 +691,66 @@
       "chinese": {
         "meaning": "宏偉的",
         "example": "這座建築有著宏偉的外觀。"
+      }
+    },
+    {
+      "word": "Impossible",
+      "type": "adjective",
+      "meaning": "Not able to occur or be done",
+      "example": "It was impossible to finish on time.",
+      "chinese": {
+        "meaning": "不可能的，無法做到的",
+        "example": "按時完成是不可能的。"
+      }
+    },
+    {
+      "word": "Impotent",
+      "type": "adjective",
+      "meaning": "Lacking power or ability",
+      "example": "He felt impotent against the system.",
+      "chinese": {
+        "meaning": "無力的，無能為力的",
+        "example": "他對抗系統感到無力。"
+      }
+    },
+    {
+      "word": "Impoverished",
+      "type": "adjective",
+      "meaning": "Poor; deprived of wealth",
+      "example": "The impoverished village lacked basic services.",
+      "chinese": {
+        "meaning": "貧困的，貧窮的",
+        "example": "那個貧困的村莊缺乏基本服務。"
+      }
+    },
+    {
+      "word": "Impractical",
+      "type": "adjective",
+      "meaning": "Not sensible or realistic",
+      "example": "That idea is interesting but impractical.",
+      "chinese": {
+        "meaning": "不切實際的，不現實的",
+        "example": "那個想法有趣但不切實際。"
+      }
+    },
+    {
+      "word": "Imprecise",
+      "type": "adjective",
+      "meaning": "Not exact or accurate",
+      "example": "The data was imprecise and unreliable.",
+      "chinese": {
+        "meaning": "不精確的，不準確的",
+        "example": "數據不精確且不可靠。"
+      }
+    },
+    {
+      "word": "Impressionable",
+      "type": "adjective",
+      "meaning": "Easily influenced or affected",
+      "example": "Children are highly impressionable.",
+      "chinese": {
+        "meaning": "易受影響的",
+        "example": "兒童很容易受到影響。"
       }
     },
     {
@@ -155,6 +765,66 @@
       }
     },
     {
+      "word": "Improbable",
+      "type": "adjective",
+      "meaning": "Unlikely to happen",
+      "example": "It's improbable that he will win.",
+      "chinese": {
+        "meaning": "不大可能的",
+        "example": "他贏的可能性不大。"
+      }
+    },
+    {
+      "word": "Impromptu",
+      "type": "adjective",
+      "meaning": "Done without preparation",
+      "example": "They gave an impromptu speech.",
+      "chinese": {
+        "meaning": "即興的，臨時的",
+        "example": "他們即興發表了演講。"
+      }
+    },
+    {
+      "word": "Improper",
+      "type": "adjective",
+      "meaning": "Not correct or appropriate",
+      "example": "His behavior was improper.",
+      "chinese": {
+        "meaning": "不合適的，不得體的",
+        "example": "他的行為不得體。"
+      }
+    },
+    {
+      "word": "Improved",
+      "type": "adjective",
+      "meaning": "Better than before",
+      "example": "The patient's condition is improved.",
+      "chinese": {
+        "meaning": "改進的，改善的",
+        "example": "病人的情況有所改善。"
+      }
+    },
+    {
+      "word": "Improvident",
+      "type": "adjective",
+      "meaning": "Not showing care for the future; wasteful",
+      "example": "His improvident spending led to debt.",
+      "chinese": {
+        "meaning": "不顧未來的，浪費的",
+        "example": "他的揮霍導致了債務。"
+      }
+    },
+    {
+      "word": "Improvised",
+      "type": "adjective",
+      "meaning": "Made or done without preparation",
+      "example": "They performed an improvised play.",
+      "chinese": {
+        "meaning": "即興的，臨時準備的",
+        "example": "他們表演了一場即興劇。"
+      }
+    },
+    {
       "word": "Imprudent",
       "type": "adjective",
       "letter": "I",
@@ -163,6 +833,236 @@
       "chinese": {
         "meaning": "不謹慎的",
         "example": "將所有錢投資在一隻股票是不謹慎的。"
+      }
+    },
+    {
+      "word": "Impudent",
+      "type": "adjective",
+      "meaning": "Not showing respect; rude",
+      "example": "The impudent child talked back to the teacher.",
+      "chinese": {
+        "meaning": "無禮的，厚顏無恥的",
+        "example": "那個無禮的孩子頂撞老師。"
+      }
+    },
+    {
+      "word": "Impulsive",
+      "type": "adjective",
+      "meaning": "Acting without thinking",
+      "example": "He made an impulsive decision.",
+      "chinese": {
+        "meaning": "衝動的，不假思索的",
+        "example": "他做了一個衝動的決定。"
+      }
+    },
+    {
+      "word": "Impure",
+      "type": "adjective",
+      "meaning": "Not clean or pure",
+      "example": "The water was impure and unsafe to drink.",
+      "chinese": {
+        "meaning": "不純的，混雜的",
+        "example": "水質不純，不能飲用。"
+      }
+    },
+    {
+      "word": "Inaccessible",
+      "type": "adjective",
+      "meaning": "Not able to be reached or entered",
+      "example": "The mountain peak is inaccessible in winter.",
+      "chinese": {
+        "meaning": "難以接近的，無法進入的",
+        "example": "冬季山頂無法到達。"
+      }
+    },
+    {
+      "word": "Inaccurate",
+      "type": "adjective",
+      "meaning": "Not correct or precise",
+      "example": "The report contained inaccurate data.",
+      "chinese": {
+        "meaning": "不準確的",
+        "example": "報告中包含不準確的數據。"
+      }
+    },
+    {
+      "word": "Inactive",
+      "type": "adjective",
+      "meaning": "Not active; idle",
+      "example": "The volcano has been inactive for years.",
+      "chinese": {
+        "meaning": "不活躍的，閒置的",
+        "example": "這座火山多年來一直處於不活躍狀態。"
+      }
+    },
+    {
+      "word": "Inadequate",
+      "type": "adjective",
+      "meaning": "Not enough or not good enough",
+      "example": "The food supply was inadequate for the group.",
+      "chinese": {
+        "meaning": "不充分的，不足的",
+        "example": "食物供應對團體來說不足。"
+      }
+    },
+    {
+      "word": "Inadvertent",
+      "type": "adjective",
+      "meaning": "Not intended or planned; accidental",
+      "example": "The error was inadvertent.",
+      "chinese": {
+        "meaning": "無意的，非故意的",
+        "example": "這個錯誤是無意的。"
+      }
+    },
+    {
+      "word": "Inalienable",
+      "type": "adjective",
+      "meaning": "Unable to be taken away or denied",
+      "example": "Freedom of speech is an inalienable right.",
+      "chinese": {
+        "meaning": "不可剝奪的，不可轉讓的",
+        "example": "言論自由是不可剝奪的權利。"
+      }
+    },
+    {
+      "word": "Inane",
+      "type": "adjective",
+      "meaning": "Silly or stupid",
+      "example": "He made an inane comment.",
+      "chinese": {
+        "meaning": "愚蠢的，無意義的",
+        "example": "他發表了一個愚蠢的評論。"
+      }
+    },
+    {
+      "word": "Inanimate",
+      "type": "adjective",
+      "meaning": "Not alive; lifeless",
+      "example": "The statue is an inanimate object.",
+      "chinese": {
+        "meaning": "無生命的，無生氣的",
+        "example": "雕像是無生命的物體。"
+      }
+    },
+    {
+      "word": "Inapplicable",
+      "type": "adjective",
+      "meaning": "Not relevant or appropriate",
+      "example": "The rule is inapplicable in this case.",
+      "chinese": {
+        "meaning": "不適用的，不相關的",
+        "example": "這條規則在這種情況下不適用。"
+      }
+    },
+    {
+      "word": "Inappropriate",
+      "type": "adjective",
+      "meaning": "Not suitable or proper",
+      "example": "His comments were inappropriate for the meeting.",
+      "chinese": {
+        "meaning": "不適當的，不合適的",
+        "example": "他的評論不適合這次會議。"
+      }
+    },
+    {
+      "word": "Inarguable",
+      "type": "adjective",
+      "meaning": "Not able to be disputed; unquestionable",
+      "example": "The facts were inarguable.",
+      "chinese": {
+        "meaning": "無可爭辯的，不容置疑的",
+        "example": "事實是無可爭辯的。"
+      }
+    },
+    {
+      "word": "Inarticulate",
+      "type": "adjective",
+      "meaning": "Unable to express oneself clearly",
+      "example": "He was inarticulate with his feelings.",
+      "chinese": {
+        "meaning": "表達不清的，口齒不清的",
+        "example": "他無法清楚表達自己的感受。"
+      }
+    },
+    {
+      "word": "Inattentive",
+      "type": "adjective",
+      "meaning": "Not paying attention",
+      "example": "The inattentive student missed important points.",
+      "chinese": {
+        "meaning": "不專心的，注意力不集中的",
+        "example": "那位不專心的學生錯過了重要點。"
+      }
+    },
+    {
+      "word": "Inaudible",
+      "type": "adjective",
+      "meaning": "Not able to be heard",
+      "example": "His voice was inaudible over the noise.",
+      "chinese": {
+        "meaning": "聽不到的",
+        "example": "他的聲音在噪音中聽不見。"
+      }
+    },
+    {
+      "word": "Inaugural",
+      "type": "adjective",
+      "meaning": "Marking the beginning of an institution or activity",
+      "example": "The inaugural speech was inspiring.",
+      "chinese": {
+        "meaning": "就職的，首次的",
+        "example": "就職演說鼓舞人心。"
+      }
+    },
+    {
+      "word": "Incapable",
+      "type": "adjective",
+      "meaning": "Unable to do something",
+      "example": "She was incapable of lying.",
+      "chinese": {
+        "meaning": "無能力的，不能的",
+        "example": "她不能說謊。"
+      }
+    },
+    {
+      "word": "Incapacitated",
+      "type": "adjective",
+      "meaning": "Deprived of strength or ability",
+      "example": "The accident left him incapacitated.",
+      "chinese": {
+        "meaning": "喪失能力的，無行動能力的",
+        "example": "事故讓他喪失了行動能力。"
+      }
+    },
+    {
+      "word": "Incendiary",
+      "type": "adjective",
+      "meaning": "Designed to cause fires; inflammatory",
+      "example": "Incendiary devices were found at the scene.",
+      "chinese": {
+        "meaning": "縱火的，煽動性的",
+        "example": "現場發現了縱火裝置。"
+      }
+    },
+    {
+      "word": "Incessant",
+      "type": "adjective",
+      "meaning": "Continuing without pause or interruption",
+      "example": "The incessant noise was annoying.",
+      "chinese": {
+        "meaning": "不斷的，連續的",
+        "example": "持續的噪音令人惱火。"
+      }
+    },
+    {
+      "word": "Incidental",
+      "type": "adjective",
+      "meaning": "Occurring as a minor accompaniment",
+      "example": "Incidental expenses were covered by the company.",
+      "chinese": {
+        "meaning": "附帶的，偶然的",
+        "example": "公司支付了附帶的費用。"
       }
     },
     {
@@ -177,6 +1077,16 @@
       }
     },
     {
+      "word": "Inclined",
+      "type": "adjective",
+      "meaning": "Likely or willing to do something",
+      "example": "She is inclined to agree with you.",
+      "chinese": {
+        "meaning": "傾向於，願意做某事",
+        "example": "她傾向於同意你的看法。"
+      }
+    },
+    {
       "word": "Inclusive",
       "type": "adjective",
       "letter": "I",
@@ -185,6 +1095,216 @@
       "chinese": {
         "meaning": "包含的",
         "example": "價格包含稅費。"
+      }
+    },
+    {
+      "word": "Incoherent",
+      "type": "adjective",
+      "meaning": "Not logical or clear; confusing",
+      "example": "His speech was incoherent and hard to follow.",
+      "chinese": {
+        "meaning": "不連貫的，語無倫次的",
+        "example": "他的演講語無倫次，難以理解。"
+      }
+    },
+    {
+      "word": "Incompatible",
+      "type": "adjective",
+      "meaning": "Unable to exist or work together",
+      "example": "Their personalities were incompatible.",
+      "chinese": {
+        "meaning": "不相容的，不能共存的",
+        "example": "他們的性格不合。"
+      }
+    },
+    {
+      "word": "Incompetent",
+      "type": "adjective",
+      "meaning": "Not having the necessary skills or ability",
+      "example": "He was incompetent at managing the project.",
+      "chinese": {
+        "meaning": "無能力的，不勝任的",
+        "example": "他無法勝任該項目管理。"
+      }
+    },
+    {
+      "word": "Incomplete",
+      "type": "adjective",
+      "meaning": "Not finished or lacking parts",
+      "example": "The report was incomplete and needed revision.",
+      "chinese": {
+        "meaning": "不完整的，未完成的",
+        "example": "報告不完整，需要修改。"
+      }
+    },
+    {
+      "word": "Incomprehensible",
+      "type": "adjective",
+      "meaning": "Impossible to understand",
+      "example": "The instructions were incomprehensible.",
+      "chinese": {
+        "meaning": "難以理解的",
+        "example": "說明難以理解。"
+      }
+    },
+    {
+      "word": "Inconclusive",
+      "type": "adjective",
+      "meaning": "Not leading to a firm conclusion",
+      "example": "The investigation was inconclusive.",
+      "chinese": {
+        "meaning": "無結論的，未定的",
+        "example": "調查沒有得出結論。"
+      }
+    },
+    {
+      "word": "Incongruous",
+      "type": "adjective",
+      "meaning": "Not in harmony or keeping with surroundings",
+      "example": "His bright clothes looked incongruous at the funeral.",
+      "chinese": {
+        "meaning": "不協調的，不一致的",
+        "example": "他鮮豔的衣服在葬禮上顯得不合適。"
+      }
+    },
+    {
+      "word": "Inconsequential",
+      "type": "adjective",
+      "meaning": "Not important or significant",
+      "example": "The error was inconsequential.",
+      "chinese": {
+        "meaning": "不重要的，無關緊要的",
+        "example": "這個錯誤無關緊要。"
+      }
+    },
+    {
+      "word": "Inconsiderate",
+      "type": "adjective",
+      "meaning": "Not showing concern for others",
+      "example": "It was inconsiderate to park there.",
+      "chinese": {
+        "meaning": "不體貼的，不顧他人的",
+        "example": "在那裡停車是不體貼的行為。"
+      }
+    },
+    {
+      "word": "Inconsistent",
+      "type": "adjective",
+      "meaning": "Not staying the same throughout",
+      "example": "His work quality is inconsistent.",
+      "chinese": {
+        "meaning": "不一致的，反復無常的",
+        "example": "他的工作質量不穩定。"
+      }
+    },
+    {
+      "word": "Inconsolable",
+      "type": "adjective",
+      "meaning": "Unable to be comforted",
+      "example": "She was inconsolable after the loss.",
+      "chinese": {
+        "meaning": "無法安慰的，極度悲傷的",
+        "example": "失去親人後她無法平復情緒。"
+      }
+    },
+    {
+      "word": "Inconspicuous",
+      "type": "adjective",
+      "meaning": "Not easily seen or noticed",
+      "example": "He tried to be inconspicuous in the crowd.",
+      "chinese": {
+        "meaning": "不顯眼的，不引人注意的",
+        "example": "他試圖在人群中不引人注目。"
+      }
+    },
+    {
+      "word": "Inconstant",
+      "type": "adjective",
+      "meaning": "Frequently changing; fickle",
+      "example": "Her inconstant moods made her unpredictable.",
+      "chinese": {
+        "meaning": "易變的，反覆無常的",
+        "example": "她的情緒多變，難以預測。"
+      }
+    },
+    {
+      "word": "Incontestable",
+      "type": "adjective",
+      "meaning": "Not able to be disputed or questioned",
+      "example": "The evidence was incontestable.",
+      "chinese": {
+        "meaning": "無可爭辯的，不容質疑的",
+        "example": "證據無可爭辯。"
+      }
+    },
+    {
+      "word": "Inconvenient",
+      "type": "adjective",
+      "meaning": "Causing trouble or difficulty",
+      "example": "The delay was very inconvenient for us.",
+      "chinese": {
+        "meaning": "不方便的，造成麻煩的",
+        "example": "延誤對我們非常不方便。"
+      }
+    },
+    {
+      "word": "Incorporated",
+      "type": "adjective",
+      "meaning": "Formed into a legal corporation",
+      "example": "They started an incorporated business.",
+      "chinese": {
+        "meaning": "合併的，成立公司的",
+        "example": "他們成立了一家法人公司。"
+      }
+    },
+    {
+      "word": "Incorrect",
+      "type": "adjective",
+      "meaning": "Not correct or accurate",
+      "example": "Your answer is incorrect.",
+      "chinese": {
+        "meaning": "不正確的，錯誤的",
+        "example": "你的答案是不正確的。"
+      }
+    },
+    {
+      "word": "Incorrigible",
+      "type": "adjective",
+      "meaning": "Not able to be corrected or improved",
+      "example": "He is an incorrigible liar.",
+      "chinese": {
+        "meaning": "無法改正的，積習難改的",
+        "example": "他是個無藥可救的騙子。"
+      }
+    },
+    {
+      "word": "Incorruptible",
+      "type": "adjective",
+      "meaning": "Not subject to corruption or decay",
+      "example": "She is known for her incorruptible honesty.",
+      "chinese": {
+        "meaning": "不受腐蝕的，不受賄賂的",
+        "example": "她以誠實無私聞名。"
+      }
+    },
+    {
+      "word": "Increased",
+      "type": "adjective",
+      "meaning": "Made greater in size, amount, or degree",
+      "example": "There has been an increased demand for the product.",
+      "chinese": {
+        "meaning": "增加的，增大的",
+        "example": "產品需求增加了。"
+      }
+    },
+    {
+      "word": "Increasing",
+      "type": "adjective",
+      "meaning": "Becoming greater or more",
+      "example": "There is an increasing interest in renewable energy.",
+      "chinese": {
+        "meaning": "逐漸增加的",
+        "example": "可再生能源的興趣在增加。"
       }
     },
     {
@@ -199,6 +1319,86 @@
       }
     },
     {
+      "word": "Incredulous",
+      "type": "adjective",
+      "meaning": "Unwilling or unable to believe something",
+      "example": "She gave an incredulous look.",
+      "chinese": {
+        "meaning": "不輕信的，懷疑的",
+        "example": "她露出懷疑的表情。"
+      }
+    },
+    {
+      "word": "Incremental",
+      "type": "adjective",
+      "meaning": "Increasing gradually by regular degrees",
+      "example": "The company made incremental improvements.",
+      "chinese": {
+        "meaning": "逐漸增加的，遞增的",
+        "example": "公司做了逐步改進。"
+      }
+    },
+    {
+      "word": "Incurable",
+      "type": "adjective",
+      "meaning": "Not able to be cured or remedied",
+      "example": "He suffers from an incurable disease.",
+      "chinese": {
+        "meaning": "無法治癒的",
+        "example": "他患有無法治癒的疾病。"
+      }
+    },
+    {
+      "word": "Indebted",
+      "type": "adjective",
+      "meaning": "Owing gratitude or money",
+      "example": "I am indebted to my parents for their support.",
+      "chinese": {
+        "meaning": "感激的，負債的",
+        "example": "我對父母的支持心存感激。"
+      }
+    },
+    {
+      "word": "Indecent",
+      "type": "adjective",
+      "meaning": "Not appropriate or offensive",
+      "example": "He was accused of indecent behavior.",
+      "chinese": {
+        "meaning": "不體面的，下流的",
+        "example": "他被指控行為不檢。"
+      }
+    },
+    {
+      "word": "Indecisive",
+      "type": "adjective",
+      "meaning": "Unable to make decisions quickly",
+      "example": "She is often indecisive about her choices.",
+      "chinese": {
+        "meaning": "優柔寡斷的",
+        "example": "她常常在選擇上猶豫不決。"
+      }
+    },
+    {
+      "word": "Indefatigable",
+      "type": "adjective",
+      "meaning": "Persisting tirelessly",
+      "example": "He is an indefatigable worker.",
+      "chinese": {
+        "meaning": "不知疲倦的，堅持不懈的",
+        "example": "他是個不知疲倦的工作者。"
+      }
+    },
+    {
+      "word": "Indefinite",
+      "type": "adjective",
+      "meaning": "Not clearly defined or decided",
+      "example": "The project is on indefinite hold.",
+      "chinese": {
+        "meaning": "不確定的，無限期的",
+        "example": "該項目被無限期擱置。"
+      }
+    },
+    {
       "word": "Indelible",
       "type": "adjective",
       "letter": "I",
@@ -207,6 +1407,86 @@
       "chinese": {
         "meaning": "難以磨滅的",
         "example": "這段經歷在她的記憶中留下了難以磨滅的印記。"
+      }
+    },
+    {
+      "word": "Independent",
+      "type": "adjective",
+      "meaning": "Free from outside control; self-governing",
+      "example": "She is an independent thinker.",
+      "chinese": {
+        "meaning": "獨立的，自主的",
+        "example": "她是個獨立思考者。"
+      }
+    },
+    {
+      "word": "Indescribable",
+      "type": "adjective",
+      "meaning": "Too unusual or extreme to be described",
+      "example": "The beauty of the scene was indescribable.",
+      "chinese": {
+        "meaning": "難以形容的，無法描述的",
+        "example": "風景之美難以言喻。"
+      }
+    },
+    {
+      "word": "Indestructible",
+      "type": "adjective",
+      "meaning": "Unable to be destroyed",
+      "example": "Diamonds are nearly indestructible.",
+      "chinese": {
+        "meaning": "不可毀壞的",
+        "example": "鑽石幾乎是不可毀壞的。"
+      }
+    },
+    {
+      "word": "Indeterminate",
+      "type": "adjective",
+      "meaning": "Not precisely fixed or defined",
+      "example": "The outcome is indeterminate.",
+      "chinese": {
+        "meaning": "不確定的，模糊的",
+        "example": "結果尚不確定。"
+      }
+    },
+    {
+      "word": "Indicative",
+      "type": "adjective",
+      "meaning": "Showing or suggesting something",
+      "example": "His smile was indicative of his happiness.",
+      "chinese": {
+        "meaning": "指示的，表示的",
+        "example": "他的微笑表明他很快樂。"
+      }
+    },
+    {
+      "word": "Indifferent",
+      "type": "adjective",
+      "meaning": "Having no particular interest or concern",
+      "example": "She was indifferent to the outcome.",
+      "chinese": {
+        "meaning": "漠不關心的，無所謂的",
+        "example": "她對結果漠不關心。"
+      }
+    },
+    {
+      "word": "Indigenous",
+      "type": "adjective",
+      "meaning": "Originating naturally in a particular place",
+      "example": "The indigenous people have lived here for centuries.",
+      "chinese": {
+        "meaning": "本地的，土著的",
+        "example": "當地的土著人民已在此生活了數百年。"
+      }
+    },
+    {
+      "word": "Indigent",
+      "type": "adjective",
+      "meaning": "Poor; needy",
+      "example": "The charity helps indigent families.",
+      "chinese": {
+        "meaning": "貧窮的，貧困的",
+        "example": "該慈善機構幫助貧困家庭。"
       }
     },
     {
@@ -221,6 +1501,16 @@
       }
     },
     {
+      "word": "Indirect",
+      "type": "adjective",
+      "meaning": "Not direct; roundabout",
+      "example": "They took an indirect route to avoid traffic.",
+      "chinese": {
+        "meaning": "間接的，非直接的",
+        "example": "他們繞道而行以避開交通。"
+      }
+    },
+    {
       "word": "Indispensable",
       "type": "adjective",
       "letter": "I",
@@ -229,6 +1519,106 @@
       "chinese": {
         "meaning": "不可或缺的",
         "example": "良好的溝通能力對成功不可或缺。"
+      }
+    },
+    {
+      "word": "Individual",
+      "type": "adjective",
+      "meaning": "Single; separate",
+      "example": "Each student has individual needs.",
+      "chinese": {
+        "meaning": "個別的，單獨的",
+        "example": "每個學生都有個別需求。"
+      }
+    },
+    {
+      "word": "Individualistic",
+      "type": "adjective",
+      "meaning": "Marked by independence or uniqueness",
+      "example": "She has an individualistic style of dressing.",
+      "chinese": {
+        "meaning": "個人主義的，獨特的",
+        "example": "她有獨特的穿衣風格。"
+      }
+    },
+    {
+      "word": "Indivisible",
+      "type": "adjective",
+      "meaning": "Unable to be divided or separated",
+      "example": "The nation remained indivisible despite conflicts.",
+      "chinese": {
+        "meaning": "不可分割的",
+        "example": "儘管有衝突，國家仍然不可分割。"
+      }
+    },
+    {
+      "word": "Indolent",
+      "type": "adjective",
+      "meaning": "Lazy; avoiding activity",
+      "example": "He is too indolent to do his homework.",
+      "chinese": {
+        "meaning": "懶惰的，不活躍的",
+        "example": "他太懶惰，不做作業。"
+      }
+    },
+    {
+      "word": "Indomitable",
+      "type": "adjective",
+      "meaning": "Impossible to subdue or defeat",
+      "example": "She showed indomitable spirit during the crisis.",
+      "chinese": {
+        "meaning": "不屈不撓的，堅強的",
+        "example": "她在危機中表現出不屈不撓的精神。"
+      }
+    },
+    {
+      "word": "Indubitable",
+      "type": "adjective",
+      "meaning": "Impossible to doubt; unquestionable",
+      "example": "His success is indubitable.",
+      "chinese": {
+        "meaning": "不容置疑的，明白無誤的",
+        "example": "他的成功是不容置疑的。"
+      }
+    },
+    {
+      "word": "Induced",
+      "type": "adjective",
+      "meaning": "Brought about or caused",
+      "example": "The medication induced sleep.",
+      "chinese": {
+        "meaning": "引起的，誘導的",
+        "example": "藥物引起了睡意。"
+      }
+    },
+    {
+      "word": "Inductive",
+      "type": "adjective",
+      "meaning": "Related to reasoning from specific to general",
+      "example": "He used inductive reasoning in his argument.",
+      "chinese": {
+        "meaning": "歸納的，由特殊到一般的推理",
+        "example": "他使用歸納推理來論證。"
+      }
+    },
+    {
+      "word": "Indulgent",
+      "type": "adjective",
+      "meaning": "Lenient or permissive",
+      "example": "The teacher was indulgent with late homework.",
+      "chinese": {
+        "meaning": "縱容的，放縱的",
+        "example": "老師對遲交作業很寬容。"
+      }
+    },
+    {
+      "word": "Industrial",
+      "type": "adjective",
+      "meaning": "Related to industry or manufacturing",
+      "example": "The city has a large industrial sector.",
+      "chinese": {
+        "meaning": "工業的，產業的",
+        "example": "該市擁有大型工業區。"
       }
     },
     {
@@ -243,6 +1633,106 @@
       }
     },
     {
+      "word": "Ineffable",
+      "type": "adjective",
+      "meaning": "Too great or extreme to be expressed in words",
+      "example": "The beauty of the sunset was ineffable.",
+      "chinese": {
+        "meaning": "難以言喻的，無法表達的",
+        "example": "夕陽的美麗難以言表。"
+      }
+    },
+    {
+      "word": "Ineffective",
+      "type": "adjective",
+      "meaning": "Not producing the desired effect",
+      "example": "The medicine was ineffective against the virus.",
+      "chinese": {
+        "meaning": "無效的，無用的",
+        "example": "這藥對病毒無效。"
+      }
+    },
+    {
+      "word": "Ineffectual",
+      "type": "adjective",
+      "meaning": "Not producing any or the desired effect",
+      "example": "Their efforts to solve the problem were ineffectual.",
+      "chinese": {
+        "meaning": "無效的，徒勞的",
+        "example": "他們解決問題的努力徒勞無功。"
+      }
+    },
+    {
+      "word": "Inefficient",
+      "type": "adjective",
+      "meaning": "Not achieving maximum productivity",
+      "example": "The old machine was inefficient and costly to run.",
+      "chinese": {
+        "meaning": "效率低的，無效率的",
+        "example": "舊機器效率低且成本高。"
+      }
+    },
+    {
+      "word": "Inelastic",
+      "type": "adjective",
+      "meaning": "Not able to stretch or change easily",
+      "example": "Rubber bands become inelastic over time.",
+      "chinese": {
+        "meaning": "無彈性的，不易變形的",
+        "example": "橡皮筋隨時間變得無彈性。"
+      }
+    },
+    {
+      "word": "Inelegant",
+      "type": "adjective",
+      "meaning": "Lacking grace or refinement",
+      "example": "His handwriting was inelegant but readable.",
+      "chinese": {
+        "meaning": "不優雅的，笨拙的",
+        "example": "他的筆跡不優雅，但能辨認。"
+      }
+    },
+    {
+      "word": "Ineluctable",
+      "type": "adjective",
+      "meaning": "Unable to be avoided or escaped; inevitable",
+      "example": "Death is an ineluctable part of life.",
+      "chinese": {
+        "meaning": "不可避免的，無法逃避的",
+        "example": "死亡是生命中不可避免的一部分。"
+      }
+    },
+    {
+      "word": "Inequitable",
+      "type": "adjective",
+      "meaning": "Unfair or unjust",
+      "example": "The distribution of resources was inequitable.",
+      "chinese": {
+        "meaning": "不公平的，不公正的",
+        "example": "資源分配不公平。"
+      }
+    },
+    {
+      "word": "Inert",
+      "type": "adjective",
+      "meaning": "Lacking the ability to move or act",
+      "example": "The chemical was inert under normal conditions.",
+      "chinese": {
+        "meaning": "惰性的，無活動的",
+        "example": "該化學物質在正常條件下是惰性的。"
+      }
+    },
+    {
+      "word": "Inescapable",
+      "type": "adjective",
+      "meaning": "Impossible to avoid or evade",
+      "example": "The consequences of his actions were inescapable.",
+      "chinese": {
+        "meaning": "無法逃避的，不可避免的",
+        "example": "他的行為後果無法逃避。"
+      }
+    },
+    {
       "word": "Inevitable",
       "type": "adjective",
       "letter": "I",
@@ -251,6 +1741,46 @@
       "chinese": {
         "meaning": "不可避免的",
         "example": "生活中的變化是不可避免的。"
+      }
+    },
+    {
+      "word": "Inexact",
+      "type": "adjective",
+      "meaning": "Not precise or accurate",
+      "example": "The measurement was inexact.",
+      "chinese": {
+        "meaning": "不精確的，不準確的",
+        "example": "測量不精確。"
+      }
+    },
+    {
+      "word": "Inexpensive",
+      "type": "adjective",
+      "meaning": "Not costing much; cheap",
+      "example": "They bought an inexpensive car.",
+      "chinese": {
+        "meaning": "便宜的，不昂貴的",
+        "example": "他們買了一輛便宜的車。"
+      }
+    },
+    {
+      "word": "Inexperienced",
+      "type": "adjective",
+      "meaning": "Lacking experience",
+      "example": "She is inexperienced in this field.",
+      "chinese": {
+        "meaning": "缺乏經驗的",
+        "example": "她在這個領域缺乏經驗。"
+      }
+    },
+    {
+      "word": "Infallible",
+      "type": "adjective",
+      "meaning": "Incapable of making mistakes or being wrong",
+      "example": "No one is infallible.",
+      "chinese": {
+        "meaning": "絕對正確的，不會犯錯的",
+        "example": "沒有人是絕對正確的。"
       }
     },
     {
@@ -265,6 +1795,156 @@
       }
     },
     {
+      "word": "Infantile",
+      "type": "adjective",
+      "meaning": "Childish; immature",
+      "example": "His behavior was infantile for his age.",
+      "chinese": {
+        "meaning": "幼稚的，不成熟的",
+        "example": "他的行為對他的年齡來說很幼稚。"
+      }
+    },
+    {
+      "word": "Infatuated",
+      "type": "adjective",
+      "meaning": "Possessed with an intense but short-lived passion",
+      "example": "He was infatuated with the new teacher.",
+      "chinese": {
+        "meaning": "迷戀的，熱戀的",
+        "example": "他迷戀上了新老師。"
+      }
+    },
+    {
+      "word": "Infected",
+      "type": "adjective",
+      "meaning": "Affected by a disease-causing organism",
+      "example": "The wound became infected.",
+      "chinese": {
+        "meaning": "受感染的",
+        "example": "傷口感染了。"
+      }
+    },
+    {
+      "word": "Infectious",
+      "type": "adjective",
+      "meaning": "Capable of spreading disease",
+      "example": "The flu is highly infectious.",
+      "chinese": {
+        "meaning": "具傳染性的",
+        "example": "流感傳染性很強。"
+      }
+    },
+    {
+      "word": "Inferior",
+      "type": "adjective",
+      "meaning": "Lower in quality or rank",
+      "example": "This product is inferior to the other brand.",
+      "chinese": {
+        "meaning": "較差的，次等的",
+        "example": "這產品比其他品牌差。"
+      }
+    },
+    {
+      "word": "Infernal",
+      "type": "adjective",
+      "meaning": "Relating to hell or very bad",
+      "example": "They endured infernal conditions during the journey.",
+      "chinese": {
+        "meaning": "地獄的，極壞的",
+        "example": "他們在旅途中忍受著極其惡劣的條件。"
+      }
+    },
+    {
+      "word": "Infertile",
+      "type": "adjective",
+      "meaning": "Unable to produce offspring or crops",
+      "example": "The land was infertile and barren.",
+      "chinese": {
+        "meaning": "不育的，貧瘠的",
+        "example": "土地貧瘠，不適合耕種。"
+      }
+    },
+    {
+      "word": "Infested",
+      "type": "adjective",
+      "meaning": "Overrun or swarmed by pests or unwanted organisms",
+      "example": "The house was infested with termites.",
+      "chinese": {
+        "meaning": "（被害蟲等）侵擾的",
+        "example": "房子被白蟻侵擾。"
+      }
+    },
+    {
+      "word": "Infinite",
+      "type": "adjective",
+      "meaning": "Without limits or end",
+      "example": "The universe is often considered infinite.",
+      "chinese": {
+        "meaning": "無限的，無窮的",
+        "example": "宇宙通常被認為是無限的。"
+      }
+    },
+    {
+      "word": "Infinitesimal",
+      "type": "adjective",
+      "meaning": "Extremely small",
+      "example": "The difference was infinitesimal.",
+      "chinese": {
+        "meaning": "極微小的",
+        "example": "差異極其微小。"
+      }
+    },
+    {
+      "word": "Infirm",
+      "type": "adjective",
+      "meaning": "Weak or ill, especially due to age",
+      "example": "The infirm elderly man needed assistance.",
+      "chinese": {
+        "meaning": "虛弱的，體弱多病的",
+        "example": "虛弱的老人需要幫助。"
+      }
+    },
+    {
+      "word": "Inflamed",
+      "type": "adjective",
+      "meaning": "Reddened, swollen, or irritated",
+      "example": "The wound was inflamed and painful.",
+      "chinese": {
+        "meaning": "發炎的，紅腫的",
+        "example": "傷口發炎且疼痛。"
+      }
+    },
+    {
+      "word": "Inflammatory",
+      "type": "adjective",
+      "meaning": "Causing inflammation or anger",
+      "example": "He made an inflammatory speech.",
+      "chinese": {
+        "meaning": "引起炎症的，煽動性的",
+        "example": "他發表了煽動性的演講。"
+      }
+    },
+    {
+      "word": "Inflated",
+      "type": "adjective",
+      "meaning": "Filled with air or gas; exaggerated",
+      "example": "The balloon was inflated with helium.",
+      "chinese": {
+        "meaning": "充氣的，誇大的",
+        "example": "氣球充滿了氦氣。"
+      }
+    },
+    {
+      "word": "Inflexible",
+      "type": "adjective",
+      "meaning": "Not able to bend or change",
+      "example": "The rules were inflexible.",
+      "chinese": {
+        "meaning": "不靈活的，不易改變的",
+        "example": "規則是死板的。"
+      }
+    },
+    {
       "word": "Influential",
       "type": "adjective",
       "letter": "I",
@@ -273,6 +1953,56 @@
       "chinese": {
         "meaning": "有影響力的",
         "example": "她是教育領域的一位有影響力的人物。"
+      }
+    },
+    {
+      "word": "Informal",
+      "type": "adjective",
+      "meaning": "Casual and relaxed; not formal",
+      "example": "They had an informal meeting at the café.",
+      "chinese": {
+        "meaning": "非正式的，隨意的",
+        "example": "他們在咖啡館開了一個非正式會議。"
+      }
+    },
+    {
+      "word": "Informative",
+      "type": "adjective",
+      "meaning": "Providing useful or interesting information",
+      "example": "The lecture was very informative.",
+      "chinese": {
+        "meaning": "資訊豐富的，增長見聞的",
+        "example": "這場講座資訊豐富。"
+      }
+    },
+    {
+      "word": "Informed",
+      "type": "adjective",
+      "meaning": "Having or showing knowledge about a subject",
+      "example": "She gave an informed opinion on the matter.",
+      "chinese": {
+        "meaning": "知情的，見多識廣的",
+        "example": "她對這個問題給出了有見地的意見。"
+      }
+    },
+    {
+      "word": "Infrequent",
+      "type": "adjective",
+      "meaning": "Not occurring often; rare",
+      "example": "Power outages are infrequent in this area.",
+      "chinese": {
+        "meaning": "不頻繁的，罕見的",
+        "example": "這個地區停電不常發生。"
+      }
+    },
+    {
+      "word": "Infuriating",
+      "type": "adjective",
+      "meaning": "Extremely annoying or frustrating",
+      "example": "His constant interruptions were infuriating.",
+      "chinese": {
+        "meaning": "令人極度惱怒的",
+        "example": "他不斷的打斷令人惱火。"
       }
     },
     {
@@ -287,6 +2017,126 @@
       }
     },
     {
+      "word": "Ingrained",
+      "type": "adjective",
+      "meaning": "Firmly fixed or established; difficult to change",
+      "example": "These habits are deeply ingrained in our culture.",
+      "chinese": {
+        "meaning": "根深蒂固的",
+        "example": "這些習慣在我們的文化中根深蒂固。"
+      }
+    },
+    {
+      "word": "Inherent",
+      "type": "adjective",
+      "meaning": "Existing as a natural part; intrinsic",
+      "example": "Risk is inherent in all investments.",
+      "chinese": {
+        "meaning": "固有的，內在的",
+        "example": "風險是所有投資固有的部分。"
+      }
+    },
+    {
+      "word": "Inhibited",
+      "type": "adjective",
+      "meaning": "Unable to act in a relaxed way; restrained",
+      "example": "He felt too inhibited to express his feelings.",
+      "chinese": {
+        "meaning": "拘謹的，受抑制的",
+        "example": "他太拘謹而無法表達感受。"
+      }
+    },
+    {
+      "word": "Inhospitable",
+      "type": "adjective",
+      "meaning": "Unfriendly or harsh; not suitable for living",
+      "example": "The desert is an inhospitable environment.",
+      "chinese": {
+        "meaning": "不友善的，惡劣的",
+        "example": "沙漠是一個惡劣的環境。"
+      }
+    },
+    {
+      "word": "Inhuman",
+      "type": "adjective",
+      "meaning": "Lacking compassion or kindness; cruel",
+      "example": "The dictator's inhuman treatment shocked the world.",
+      "chinese": {
+        "meaning": "不人道的，殘酷的",
+        "example": "獨裁者的不人道行為震驚了全世界。"
+      }
+    },
+    {
+      "word": "Inhumane",
+      "type": "adjective",
+      "meaning": "Without compassion for suffering; cruel",
+      "example": "Animal testing is often criticized as inhumane.",
+      "chinese": {
+        "meaning": "不人道的，殘忍的",
+        "example": "動物實驗常被批評為不人道。"
+      }
+    },
+    {
+      "word": "Initial",
+      "type": "adjective",
+      "meaning": "Existing or occurring at the beginning",
+      "example": "The initial results are promising.",
+      "chinese": {
+        "meaning": "最初的，初始的",
+        "example": "最初的結果很有希望。"
+      }
+    },
+    {
+      "word": "Injured",
+      "type": "adjective",
+      "meaning": "Harmed physically or emotionally",
+      "example": "Three people were injured in the accident.",
+      "chinese": {
+        "meaning": "受傷的",
+        "example": "三人在事故中受傷。"
+      }
+    },
+    {
+      "word": "Injurious",
+      "type": "adjective",
+      "meaning": "Harmful or damaging",
+      "example": "Smoking is injurious to health.",
+      "chinese": {
+        "meaning": "有害的",
+        "example": "吸菸對健康有害。"
+      }
+    },
+    {
+      "word": "Innate",
+      "type": "adjective",
+      "meaning": "Inborn; natural",
+      "example": "She has an innate talent for music.",
+      "chinese": {
+        "meaning": "天生的，與生俱來的",
+        "example": "她有天生的音樂天賦。"
+      }
+    },
+    {
+      "word": "Inner",
+      "type": "adjective",
+      "meaning": "Situated inside; internal",
+      "example": "He shared his inner thoughts with no one.",
+      "chinese": {
+        "meaning": "內心的，內部的",
+        "example": "他沒有和任何人分享內心的想法。"
+      }
+    },
+    {
+      "word": "Innermost",
+      "type": "adjective",
+      "meaning": "Situated at the very center; most private",
+      "example": "She revealed her innermost secrets.",
+      "chinese": {
+        "meaning": "最深處的，最隱私的",
+        "example": "她揭露了自己最隱私的秘密。"
+      }
+    },
+    {
       "word": "Innocent",
       "type": "adjective",
       "letter": "I",
@@ -295,6 +2145,76 @@
       "chinese": {
         "meaning": "無辜的",
         "example": "陪審團裁定他無罪。"
+      }
+    },
+    {
+      "word": "Innocuous",
+      "type": "adjective",
+      "meaning": "Not harmful or offensive",
+      "example": "The remark was innocuous and meant no harm.",
+      "chinese": {
+        "meaning": "無害的，無意冒犯的",
+        "example": "這句話無害，無意冒犯。"
+      }
+    },
+    {
+      "word": "Innovative",
+      "type": "adjective",
+      "meaning": "Introducing new ideas or methods",
+      "example": "The company is known for its innovative products.",
+      "chinese": {
+        "meaning": "創新的，革新的",
+        "example": "這家公司以創新產品聞名。"
+      }
+    },
+    {
+      "word": "Innumerable",
+      "type": "adjective",
+      "meaning": "Too many to count; countless",
+      "example": "There are innumerable stars in the sky.",
+      "chinese": {
+        "meaning": "無數的，數不清的",
+        "example": "天空中有無數的星星。"
+      }
+    },
+    {
+      "word": "Inoperable",
+      "type": "adjective",
+      "meaning": "Not able to be operated on or fixed",
+      "example": "The tumor is inoperable.",
+      "chinese": {
+        "meaning": "無法手術的，不可修復的",
+        "example": "這個腫瘤無法手術切除。"
+      }
+    },
+    {
+      "word": "Inopportune",
+      "type": "adjective",
+      "meaning": "Happening at a bad time",
+      "example": "He called at an inopportune moment.",
+      "chinese": {
+        "meaning": "不合時宜的",
+        "example": "他在一個不合時宜的時刻打來電話。"
+      }
+    },
+    {
+      "word": "Inordinate",
+      "type": "adjective",
+      "meaning": "Excessive or unusually large",
+      "example": "She spent an inordinate amount of time on the project.",
+      "chinese": {
+        "meaning": "過度的，異常大的",
+        "example": "她在這個項目上花了過多的時間。"
+      }
+    },
+    {
+      "word": "Inorganic",
+      "type": "adjective",
+      "meaning": "Not consisting of or deriving from living matter",
+      "example": "Salt is an inorganic compound.",
+      "chinese": {
+        "meaning": "無機的，非有機的",
+        "example": "鹽是一種無機化合物。"
       }
     },
     {
@@ -309,6 +2229,16 @@
       }
     },
     {
+      "word": "Insane",
+      "type": "adjective",
+      "meaning": "Mentally ill; extremely foolish",
+      "example": "The idea seemed completely insane.",
+      "chinese": {
+        "meaning": "瘋狂的，精神失常的",
+        "example": "這個想法完全瘋狂。"
+      }
+    },
+    {
       "word": "Insatiable",
       "type": "adjective",
       "letter": "I",
@@ -317,6 +2247,56 @@
       "chinese": {
         "meaning": "無法滿足的",
         "example": "她對知識有著無法滿足的渴望。"
+      }
+    },
+    {
+      "word": "Inscrutable",
+      "type": "adjective",
+      "meaning": "Impossible to understand or interpret",
+      "example": "He gave an inscrutable smile.",
+      "chinese": {
+        "meaning": "難以捉摸的，不可理解的",
+        "example": "他露出一個難以捉摸的微笑。"
+      }
+    },
+    {
+      "word": "Insecure",
+      "type": "adjective",
+      "meaning": "Not confident; unsafe",
+      "example": "She felt insecure about her future.",
+      "chinese": {
+        "meaning": "缺乏自信的，不安全的",
+        "example": "她對自己的未來感到不安。"
+      }
+    },
+    {
+      "word": "Insensitive",
+      "type": "adjective",
+      "meaning": "Showing or feeling no concern for others' feelings",
+      "example": "His insensitive remark upset her.",
+      "chinese": {
+        "meaning": "不敏感的，麻木不仁的",
+        "example": "他不敏感的言論讓她很難過。"
+      }
+    },
+    {
+      "word": "Inseparable",
+      "type": "adjective",
+      "meaning": "Unable to be separated or parted",
+      "example": "The two friends are inseparable.",
+      "chinese": {
+        "meaning": "不可分離的",
+        "example": "這兩個朋友形影不離。"
+      }
+    },
+    {
+      "word": "Inside",
+      "type": "adjective",
+      "meaning": "Located on the inner side",
+      "example": "She looked inside the box.",
+      "chinese": {
+        "meaning": "內部的，裡面的",
+        "example": "她看了看箱子裡面。"
       }
     },
     {
@@ -331,6 +2311,46 @@
       }
     },
     {
+      "word": "Insightful",
+      "type": "adjective",
+      "meaning": "Having deep understanding",
+      "example": "His analysis was insightful.",
+      "chinese": {
+        "meaning": "有見地的，有洞察力的",
+        "example": "他的分析很有見地。"
+      }
+    },
+    {
+      "word": "Insignificant",
+      "type": "adjective",
+      "meaning": "Too small or unimportant to be worth considering",
+      "example": "The error was insignificant.",
+      "chinese": {
+        "meaning": "微不足道的",
+        "example": "這個錯誤微不足道。"
+      }
+    },
+    {
+      "word": "Insincere",
+      "type": "adjective",
+      "meaning": "Not expressing genuine feelings",
+      "example": "His apology seemed insincere.",
+      "chinese": {
+        "meaning": "不真誠的",
+        "example": "他的道歉似乎不真誠。"
+      }
+    },
+    {
+      "word": "Insipid",
+      "type": "adjective",
+      "meaning": "Lacking flavor or interest",
+      "example": "The soup was bland and insipid.",
+      "chinese": {
+        "meaning": "乏味的，無趣的",
+        "example": "這湯淡而無味。"
+      }
+    },
+    {
       "word": "Insistent",
       "type": "adjective",
       "letter": "I",
@@ -339,6 +2359,176 @@
       "chinese": {
         "meaning": "堅持的",
         "example": "她堅持按時完成項目。"
+      }
+    },
+    {
+      "word": "Insolent",
+      "type": "adjective",
+      "meaning": "Rude and disrespectful",
+      "example": "The student was insolent to the teacher.",
+      "chinese": {
+        "meaning": "無禮的，傲慢的",
+        "example": "學生對老師態度無禮。"
+      }
+    },
+    {
+      "word": "Insoluble",
+      "type": "adjective",
+      "meaning": "Impossible to solve or dissolve",
+      "example": "This problem seems insoluble.",
+      "chinese": {
+        "meaning": "無法解決的，難溶解的",
+        "example": "這個問題似乎無法解決。"
+      }
+    },
+    {
+      "word": "Inspired",
+      "type": "adjective",
+      "meaning": "Outstanding or creative due to inspiration",
+      "example": "She gave an inspired performance.",
+      "chinese": {
+        "meaning": "有靈感的，出色的",
+        "example": "她的表演很出色。"
+      }
+    },
+    {
+      "word": "Inspiring",
+      "type": "adjective",
+      "meaning": "Making you feel enthusiastic or excited",
+      "example": "The story was truly inspiring.",
+      "chinese": {
+        "meaning": "鼓舞人心的",
+        "example": "這個故事非常鼓舞人心。"
+      }
+    },
+    {
+      "word": "Instant",
+      "type": "adjective",
+      "meaning": "Happening immediately",
+      "example": "He felt instant relief after the medicine.",
+      "chinese": {
+        "meaning": "立即的，瞬間的",
+        "example": "吃了藥後他立即感到緩解。"
+      }
+    },
+    {
+      "word": "Instantaneous",
+      "type": "adjective",
+      "meaning": "Happening or done immediately",
+      "example": "The response was almost instantaneous.",
+      "chinese": {
+        "meaning": "即時的，瞬間的",
+        "example": "回應幾乎是即時的。"
+      }
+    },
+    {
+      "word": "Instinctive",
+      "type": "adjective",
+      "meaning": "Based on instinct; not learned",
+      "example": "He had an instinctive reaction to pull back.",
+      "chinese": {
+        "meaning": "本能的，直覺的",
+        "example": "他本能地往後退。"
+      }
+    },
+    {
+      "word": "Institutional",
+      "type": "adjective",
+      "meaning": "Relating to an organization or institution",
+      "example": "The changes affected the institutional structure.",
+      "chinese": {
+        "meaning": "機構的，制度的",
+        "example": "這些變革影響了機構結構。"
+      }
+    },
+    {
+      "word": "Instructed",
+      "type": "adjective",
+      "meaning": "Directed or taught to do something",
+      "example": "They followed the carefully instructed procedures.",
+      "chinese": {
+        "meaning": "被指示的，受指導的",
+        "example": "他們遵循了詳細的指示程序。"
+      }
+    },
+    {
+      "word": "Instrumental",
+      "type": "adjective",
+      "meaning": "Serving as a means of achieving something",
+      "example": "She was instrumental in the project's success.",
+      "chinese": {
+        "meaning": "起重要作用的",
+        "example": "她在這個項目的成功中起了重要作用。"
+      }
+    },
+    {
+      "word": "Insufferable",
+      "type": "adjective",
+      "meaning": "Too extreme to bear; intolerable",
+      "example": "The heat was insufferable.",
+      "chinese": {
+        "meaning": "難以忍受的",
+        "example": "這炎熱難以忍受。"
+      }
+    },
+    {
+      "word": "Insufficient",
+      "type": "adjective",
+      "meaning": "Not enough; inadequate",
+      "example": "There was insufficient evidence to convict him.",
+      "chinese": {
+        "meaning": "不足的，不夠的",
+        "example": "證據不足以定罪。"
+      }
+    },
+    {
+      "word": "Insular",
+      "type": "adjective",
+      "meaning": "Narrow-minded; isolated",
+      "example": "The community was criticized for being insular.",
+      "chinese": {
+        "meaning": "孤立的，狹隘的",
+        "example": "該社區因孤立狹隘而受到批評。"
+      }
+    },
+    {
+      "word": "Insulated",
+      "type": "adjective",
+      "meaning": "Protected from outside influences or temperature",
+      "example": "The building was well insulated against the cold.",
+      "chinese": {
+        "meaning": "隔離的，絕緣的",
+        "example": "這棟建築物有很好的防寒隔離。"
+      }
+    },
+    {
+      "word": "Insulting",
+      "type": "adjective",
+      "meaning": "Disrespectful or scornful",
+      "example": "His insulting remarks angered everyone.",
+      "chinese": {
+        "meaning": "侮辱的，無禮的",
+        "example": "他侮辱性的言論激怒了所有人。"
+      }
+    },
+    {
+      "word": "Insurable",
+      "type": "adjective",
+      "meaning": "Able to be insured",
+      "example": "Not all properties are insurable.",
+      "chinese": {
+        "meaning": "可投保的",
+        "example": "不是所有財產都可投保。"
+      }
+    },
+    {
+      "word": "Intact",
+      "type": "adjective",
+      "meaning": "Not damaged or impaired; complete",
+      "example": "The documents remained intact after the fire.",
+      "chinese": {
+        "meaning": "完整的，未受損傷的",
+        "example": "火災後文件仍然完好無損。"
       }
     },
     {
@@ -364,6 +2554,26 @@
       }
     },
     {
+      "word": "Integrated",
+      "type": "adjective",
+      "meaning": "Combined to form a whole",
+      "example": "The software offers an integrated solution.",
+      "chinese": {
+        "meaning": "綜合的，完整的",
+        "example": "這款軟件提供了一個綜合解決方案。"
+      }
+    },
+    {
+      "word": "Intellectual",
+      "type": "adjective",
+      "meaning": "Relating to the intellect or the ability to think",
+      "example": "He enjoys intellectual challenges.",
+      "chinese": {
+        "meaning": "知識的，理智的",
+        "example": "他喜歡知識性的挑戰。"
+      }
+    },
+    {
       "word": "Intelligent",
       "type": "adjective",
       "letter": "I",
@@ -375,6 +2585,16 @@
       }
     },
     {
+      "word": "Intended",
+      "type": "adjective",
+      "meaning": "Planned or meant",
+      "example": "The intended audience is children.",
+      "chinese": {
+        "meaning": "預定的，打算的",
+        "example": "預定的觀眾是兒童。"
+      }
+    },
+    {
       "word": "Intense",
       "type": "adjective",
       "letter": "I",
@@ -383,6 +2603,236 @@
       "chinese": {
         "meaning": "強烈的",
         "example": "強烈的熱度使得在外工作變得困難。"
+      }
+    },
+    {
+      "word": "Intensive",
+      "type": "adjective",
+      "meaning": "Concentrated and thorough",
+      "example": "She attended an intensive language course.",
+      "chinese": {
+        "meaning": "密集的，徹底的",
+        "example": "她參加了一個密集的語言課程。"
+      }
+    },
+    {
+      "word": "Intent",
+      "type": "adjective",
+      "meaning": "Determined or focused",
+      "example": "He listened with an intent expression.",
+      "chinese": {
+        "meaning": "專注的，堅決的",
+        "example": "他帶著專注的表情傾聽。"
+      }
+    },
+    {
+      "word": "Intentional",
+      "type": "adjective",
+      "meaning": "Done on purpose; deliberate",
+      "example": "The damage was intentional.",
+      "chinese": {
+        "meaning": "故意的，有意的",
+        "example": "損害是故意的。"
+      }
+    },
+    {
+      "word": "Interactive",
+      "type": "adjective",
+      "meaning": "Involving direct communication or action",
+      "example": "The website has many interactive features.",
+      "chinese": {
+        "meaning": "互動的",
+        "example": "該網站有許多互動功能。"
+      }
+    },
+    {
+      "word": "Interconnected",
+      "type": "adjective",
+      "meaning": "Linked together",
+      "example": "The systems are closely interconnected.",
+      "chinese": {
+        "meaning": "互相連接的",
+        "example": "這些系統緊密相連。"
+      }
+    },
+    {
+      "word": "Interdependent",
+      "type": "adjective",
+      "meaning": "Dependent on each other",
+      "example": "The two economies are interdependent.",
+      "chinese": {
+        "meaning": "互相依賴的",
+        "example": "這兩個經濟體是相互依賴的。"
+      }
+    },
+    {
+      "word": "Interdisciplinary",
+      "type": "adjective",
+      "meaning": "Involving two or more academic disciplines",
+      "example": "She is leading an interdisciplinary research team.",
+      "chinese": {
+        "meaning": "跨學科的",
+        "example": "她領導一個跨學科的研究團隊。"
+      }
+    },
+    {
+      "word": "Interested",
+      "type": "adjective",
+      "meaning": "Wanting to know more or be involved",
+      "example": "He is interested in learning Spanish.",
+      "chinese": {
+        "meaning": "感興趣的",
+        "example": "他對學西班牙語感興趣。"
+      }
+    },
+    {
+      "word": "Interesting",
+      "type": "adjective",
+      "meaning": "Arousing curiosity or attention",
+      "example": "That’s an interesting idea.",
+      "chinese": {
+        "meaning": "有趣的",
+        "example": "那是一個有趣的想法。"
+      }
+    },
+    {
+      "word": "Interior",
+      "type": "adjective",
+      "meaning": "Situated inside or within",
+      "example": "The car's interior design is luxurious.",
+      "chinese": {
+        "meaning": "內部的",
+        "example": "這輛車的內部設計很豪華。"
+      }
+    },
+    {
+      "word": "Intermediate",
+      "type": "adjective",
+      "meaning": "In the middle level or stage",
+      "example": "This course is for intermediate learners.",
+      "chinese": {
+        "meaning": "中級的，中間的",
+        "example": "這門課是為中級學習者設計的。"
+      }
+    },
+    {
+      "word": "Intermittent",
+      "type": "adjective",
+      "meaning": "Occurring at irregular intervals; not continuous",
+      "example": "There was intermittent rain throughout the day.",
+      "chinese": {
+        "meaning": "間歇的",
+        "example": "一整天都有間歇性降雨。"
+      }
+    },
+    {
+      "word": "Internal",
+      "type": "adjective",
+      "meaning": "Located inside something",
+      "example": "The patient suffered internal bleeding.",
+      "chinese": {
+        "meaning": "內部的",
+        "example": "病人有內出血。"
+      }
+    },
+    {
+      "word": "International",
+      "type": "adjective",
+      "meaning": "Involving more than one country",
+      "example": "She works for an international organization.",
+      "chinese": {
+        "meaning": "國際的",
+        "example": "她在一家國際組織工作。"
+      }
+    },
+    {
+      "word": "Interpersonal",
+      "type": "adjective",
+      "meaning": "Relating to relationships between people",
+      "example": "He has strong interpersonal skills.",
+      "chinese": {
+        "meaning": "人際的",
+        "example": "他的人際交往能力很強。"
+      }
+    },
+    {
+      "word": "Interpretive",
+      "type": "adjective",
+      "meaning": "Providing interpretation or explanation",
+      "example": "The museum offers interpretive tours.",
+      "chinese": {
+        "meaning": "解釋性的",
+        "example": "博物館提供解說性導覽。"
+      }
+    },
+    {
+      "word": "Interrupted",
+      "type": "adjective",
+      "meaning": "Stopped for a time; discontinued",
+      "example": "The broadcast was interrupted by a news alert.",
+      "chinese": {
+        "meaning": "被打斷的，中斷的",
+        "example": "新聞快訊打斷了廣播。"
+      }
+    },
+    {
+      "word": "Intimate",
+      "type": "adjective",
+      "meaning": "Closely acquainted; private and personal",
+      "example": "They share an intimate friendship.",
+      "chinese": {
+        "meaning": "親密的，私人的",
+        "example": "他們有著親密的友誼。"
+      }
+    },
+    {
+      "word": "Intimidating",
+      "type": "adjective",
+      "meaning": "Causing fear or respect through being large or powerful",
+      "example": "The teacher's strict manner was intimidating.",
+      "chinese": {
+        "meaning": "令人畏懼的",
+        "example": "老師嚴厲的態度令人畏懼。"
+      }
+    },
+    {
+      "word": "Intolerable",
+      "type": "adjective",
+      "meaning": "Too bad or severe to accept",
+      "example": "The noise was intolerable.",
+      "chinese": {
+        "meaning": "難以忍受的",
+        "example": "噪音令人難以忍受。"
+      }
+    },
+    {
+      "word": "Intolerant",
+      "type": "adjective",
+      "meaning": "Not willing to accept differences",
+      "example": "He is intolerant of opposing views.",
+      "chinese": {
+        "meaning": "不寬容的",
+        "example": "他不能容忍反對的觀點。"
+      }
+    },
+    {
+      "word": "Intramural",
+      "type": "adjective",
+      "meaning": "Happening within the same institution",
+      "example": "The school hosts intramural sports competitions.",
+      "chinese": {
+        "meaning": "校內的，機構內的",
+        "example": "學校舉辦校內體育比賽。"
+      }
+    },
+    {
+      "word": "Intransigent",
+      "type": "adjective",
+      "meaning": "Unwilling to change one's views",
+      "example": "She remained intransigent on the issue.",
+      "chinese": {
+        "meaning": "不妥協的",
+        "example": "她在這個問題上仍然不妥協。"
       }
     },
     {
@@ -408,6 +2858,36 @@
       }
     },
     {
+      "word": "Intrinsic",
+      "type": "adjective",
+      "meaning": "Belonging naturally; essential",
+      "example": "Kindness is intrinsic to her character.",
+      "chinese": {
+        "meaning": "本質的，內在的",
+        "example": "善良是她性格的本質。"
+      }
+    },
+    {
+      "word": "Introductory",
+      "type": "adjective",
+      "meaning": "Serving as an introduction",
+      "example": "The book includes an introductory chapter.",
+      "chinese": {
+        "meaning": "介紹的，入門的",
+        "example": "這本書包含一個介紹性章節。"
+      }
+    },
+    {
+      "word": "Intrusive",
+      "type": "adjective",
+      "meaning": "Causing disruption or annoyance by being unwelcome",
+      "example": "The paparazzi's questions were intrusive.",
+      "chinese": {
+        "meaning": "打擾的，侵擾的",
+        "example": "狗仔隊的提問令人反感。"
+      }
+    },
+    {
       "word": "Intuitive",
       "type": "adjective",
       "letter": "I",
@@ -416,6 +2896,56 @@
       "chinese": {
         "meaning": "直覺的",
         "example": "她有直覺知道該怎麼做。"
+      }
+    },
+    {
+      "word": "Invalid",
+      "type": "adjective",
+      "meaning": "Not valid; without foundation in fact or law",
+      "example": "The ticket was invalid and could not be used.",
+      "chinese": {
+        "meaning": "無效的，作廢的",
+        "example": "這張票無效，不能使用。"
+      }
+    },
+    {
+      "word": "Invaluable",
+      "type": "adjective",
+      "meaning": "Extremely useful; indispensable",
+      "example": "Her advice was invaluable to the project.",
+      "chinese": {
+        "meaning": "非常寶貴的",
+        "example": "她的建議對這個項目非常寶貴。"
+      }
+    },
+    {
+      "word": "Invariable",
+      "type": "adjective",
+      "meaning": "Unchanging; constant",
+      "example": "His invariable response was 'no'.",
+      "chinese": {
+        "meaning": "不變的",
+        "example": "他一貫的回答是“不要”。"
+      }
+    },
+    {
+      "word": "Invasive",
+      "type": "adjective",
+      "meaning": "Tending to spread undesirably or harmfully",
+      "example": "The invasive species damaged the ecosystem.",
+      "chinese": {
+        "meaning": "侵入的，擴散的",
+        "example": "入侵物種破壞了生態系統。"
+      }
+    },
+    {
+      "word": "Inventive",
+      "type": "adjective",
+      "meaning": "Creative or original",
+      "example": "She is known for her inventive ideas.",
+      "chinese": {
+        "meaning": "有創造力的",
+        "example": "她以富有創意的想法聞名。"
       }
     },
     {
@@ -430,6 +2960,56 @@
       }
     },
     {
+      "word": "Invisible",
+      "type": "adjective",
+      "meaning": "Unable to be seen",
+      "example": "The stars became invisible behind the clouds.",
+      "chinese": {
+        "meaning": "看不見的",
+        "example": "星星被雲遮住了，看不見了。"
+      }
+    },
+    {
+      "word": "Inviting",
+      "type": "adjective",
+      "meaning": "Attractive or tempting",
+      "example": "The beach looked inviting on the sunny day.",
+      "chinese": {
+        "meaning": "誘人的，有吸引力的",
+        "example": "這個晴天海灘看起來很誘人。"
+      }
+    },
+    {
+      "word": "Involuntary",
+      "type": "adjective",
+      "meaning": "Done without will or conscious control",
+      "example": "She gave an involuntary shiver.",
+      "chinese": {
+        "meaning": "不由自主的",
+        "example": "她不由自主地顫抖了一下。"
+      }
+    },
+    {
+      "word": "Involved",
+      "type": "adjective",
+      "meaning": "Complicated; connected with",
+      "example": "The plot was so involved that I lost track.",
+      "chinese": {
+        "meaning": "複雜的，涉及的",
+        "example": "情節太複雜，我跟不上了。"
+      }
+    },
+    {
+      "word": "Invulnerable",
+      "type": "adjective",
+      "meaning": "Impossible to harm or damage",
+      "example": "The fortress was invulnerable to attack.",
+      "chinese": {
+        "meaning": "刀槍不入的",
+        "example": "這座堡壘堅不可摧。"
+      }
+    },
+    {
       "word": "Irascible",
       "type": "adjective",
       "letter": "I",
@@ -438,6 +3018,26 @@
       "chinese": {
         "meaning": "易怒的",
         "example": "他脾氣易怒。"
+      }
+    },
+    {
+      "word": "Irate",
+      "type": "adjective",
+      "meaning": "Feeling or showing extreme anger",
+      "example": "The irate customer demanded a refund.",
+      "chinese": {
+        "meaning": "憤怒的",
+        "example": "憤怒的顧客要求退款。"
+      }
+    },
+    {
+      "word": "Irish",
+      "type": "adjective",
+      "meaning": "Relating to Ireland or its people",
+      "example": "She loves Irish music.",
+      "chinese": {
+        "meaning": "愛爾蘭的",
+        "example": "她喜歡愛爾蘭音樂。"
       }
     },
     {
@@ -463,6 +3063,16 @@
       }
     },
     {
+      "word": "Irrational",
+      "type": "adjective",
+      "meaning": "Not logical or reasonable",
+      "example": "His fear of heights was irrational.",
+      "chinese": {
+        "meaning": "不理性的",
+        "example": "他對高度的恐懼是不理性的。"
+      }
+    },
+    {
       "word": "Irrefutable",
       "type": "adjective",
       "letter": "I",
@@ -471,6 +3081,16 @@
       "chinese": {
         "meaning": "無可辯駁的",
         "example": "他在法庭上提供了無可辯駁的證據。"
+      }
+    },
+    {
+      "word": "Irregular",
+      "type": "adjective",
+      "meaning": "Not following a pattern; uneven",
+      "example": "The patient had an irregular heartbeat.",
+      "chinese": {
+        "meaning": "不規則的",
+        "example": "病人的心跳不規則。"
       }
     },
     {
@@ -485,6 +3105,36 @@
       }
     },
     {
+      "word": "Irreparable",
+      "type": "adjective",
+      "meaning": "Impossible to repair or fix",
+      "example": "The damage to the car was irreparable.",
+      "chinese": {
+        "meaning": "無法修復的",
+        "example": "汽車的損壞無法修復。"
+      }
+    },
+    {
+      "word": "Irreplaceable",
+      "type": "adjective",
+      "meaning": "Too valuable to be replaced",
+      "example": "The painting is irreplaceable.",
+      "chinese": {
+        "meaning": "不可替代的",
+        "example": "這幅畫是無法替代的。"
+      }
+    },
+    {
+      "word": "Irresistible",
+      "type": "adjective",
+      "meaning": "Too attractive to resist",
+      "example": "The dessert looked irresistible.",
+      "chinese": {
+        "meaning": "無法抗拒的",
+        "example": "這道甜點看起來令人無法抗拒。"
+      }
+    },
+    {
       "word": "Irresolute",
       "type": "adjective",
       "letter": "I",
@@ -493,6 +3143,36 @@
       "chinese": {
         "meaning": "猶豫不決的",
         "example": "她對該走哪條路感到猶豫不決。"
+      }
+    },
+    {
+      "word": "Irresponsible",
+      "type": "adjective",
+      "meaning": "Not showing proper responsibility",
+      "example": "It was irresponsible to leave the door unlocked.",
+      "chinese": {
+        "meaning": "不負責任的",
+        "example": "把門不鎖是很不負責任的。"
+      }
+    },
+    {
+      "word": "Irretrievable",
+      "type": "adjective",
+      "meaning": "Unable to be recovered",
+      "example": "The files were lost and irretrievable.",
+      "chinese": {
+        "meaning": "不可挽回的",
+        "example": "檔案丟失了，無法挽回。"
+      }
+    },
+    {
+      "word": "Irreversible",
+      "type": "adjective",
+      "meaning": "Impossible to reverse or undo",
+      "example": "Climate change may become irreversible.",
+      "chinese": {
+        "meaning": "不可逆轉的",
+        "example": "氣候變化可能變得不可逆轉。"
       }
     },
     {
@@ -507,6 +3187,56 @@
       }
     },
     {
+      "word": "Irritated",
+      "type": "adjective",
+      "meaning": "Annoyed or angered",
+      "example": "She was irritated by the constant noise.",
+      "chinese": {
+        "meaning": "惱怒的",
+        "example": "她被不斷的噪音惹惱了。"
+      }
+    },
+    {
+      "word": "Irritating",
+      "type": "adjective",
+      "meaning": "Causing annoyance",
+      "example": "The buzzing sound was irritating.",
+      "chinese": {
+        "meaning": "令人惱火的",
+        "example": "嗡嗡聲令人惱火。"
+      }
+    },
+    {
+      "word": "Isolated",
+      "type": "adjective",
+      "meaning": "Far away or separate from others",
+      "example": "They lived in an isolated village.",
+      "chinese": {
+        "meaning": "孤立的，偏遠的",
+        "example": "他們住在一個偏遠的村莊。"
+      }
+    },
+    {
+      "word": "Israeli",
+      "type": "adjective",
+      "meaning": "Relating to Israel or its people",
+      "example": "He works for an Israeli company.",
+      "chinese": {
+        "meaning": "以色列的",
+        "example": "他在一家以色列公司工作。"
+      }
+    },
+    {
+      "word": "Italian",
+      "type": "adjective",
+      "meaning": "Relating to Italy or its people",
+      "example": "We enjoyed Italian cuisine.",
+      "chinese": {
+        "meaning": "意大利的",
+        "example": "我們喜歡意大利美食。"
+      }
+    },
+    {
       "word": "Itchy",
       "type": "adjective",
       "letter": "I",
@@ -515,6 +3245,36 @@
       "chinese": {
         "meaning": "發癢的",
         "example": "蚊子叮咬會讓皮膚發癢。"
+      }
+    },
+    {
+      "word": "Itemized",
+      "type": "adjective",
+      "meaning": "Presented as a detailed list",
+      "example": "The bill was itemized with all charges.",
+      "chinese": {
+        "meaning": "逐項列出的",
+        "example": "帳單上詳細列出了所有費用。"
+      }
+    },
+    {
+      "word": "Iterative",
+      "type": "adjective",
+      "meaning": "Involving repetition of a process",
+      "example": "The software was developed in an iterative manner.",
+      "chinese": {
+        "meaning": "迭代的，重複的",
+        "example": "該軟件是以迭代方式開發的。"
+      }
+    },
+    {
+      "word": "Itinerant",
+      "type": "adjective",
+      "meaning": "Traveling from place to place",
+      "example": "He led an itinerant lifestyle as a musician.",
+      "chinese": {
+        "meaning": "巡迴的，流動的",
+        "example": "他以音樂家的身份過著巡迴的生活。"
       }
     },
     {

@@ -1,6 +1,94 @@
 {
   "words": [
     {
+      "word": "Macabre",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Disturbing and horrifying because of involvement with death or injury",
+      "example": "The movie had a macabre plot full of dark themes.",
+      "chinese": {
+        "meaning": "恐怖的，駭人的",
+        "example": "這部電影有著充滿黑暗主題的恐怖情節。"
+      }
+    },
+    {
+      "word": "Macho",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Displaying pride in qualities considered masculine",
+      "example": "He acted in a macho way to impress his friends.",
+      "chinese": {
+        "meaning": "大男子氣概的",
+        "example": "他以大男子氣概的方式行事來給朋友留下印象。"
+      }
+    },
+    {
+      "word": "Mad",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Mentally ill or extremely angry",
+      "example": "She was mad with rage after hearing the news.",
+      "chinese": {
+        "meaning": "瘋狂的；憤怒的",
+        "example": "聽到這個消息後，她憤怒得發狂。"
+      }
+    },
+    {
+      "word": "Maddening",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Extremely annoying or frustrating",
+      "example": "The constant noise outside was maddening.",
+      "chinese": {
+        "meaning": "令人惱火的",
+        "example": "外面的持續噪音令人惱火。"
+      }
+    },
+    {
+      "word": "Magenta",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "A bright purplish-red color",
+      "example": "She wore a magenta dress to the party.",
+      "chinese": {
+        "meaning": "紫紅色的",
+        "example": "她穿了一件紫紅色的裙子去參加派對。"
+      }
+    },
+    {
+      "word": "Magic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having special, mysterious, or supernatural qualities",
+      "example": "They discovered a magic portal in the forest.",
+      "chinese": {
+        "meaning": "魔法的；神奇的",
+        "example": "他們在森林裡發現了一個神奇的傳送門。"
+      }
+    },
+    {
+      "word": "Magical",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Beautiful or delightful in a way that seems removed from everyday life",
+      "example": "The view of the mountains was magical.",
+      "chinese": {
+        "meaning": "迷人的；魔法般的",
+        "example": "山景非常迷人。"
+      }
+    },
+    {
+      "word": "Magnetic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having the properties of a magnet; having an attractive personality",
+      "example": "She has a magnetic charm that draws people in.",
+      "chinese": {
+        "meaning": "有磁性的；有吸引力的",
+        "example": "她有一種吸引人的魅力。"
+      }
+    },
+    {
       "word": "Magnificent",
       "type": "adjective",
       "letter": "M",
@@ -12,6 +100,50 @@
       }
     },
     {
+      "word": "Maiden",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Being the first of its kind; unmarried",
+      "example": "He made his maiden speech in parliament.",
+      "chinese": {
+        "meaning": "初次的；未婚的",
+        "example": "他在議會上作了首次演講。"
+      }
+    },
+    {
+      "word": "Main",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Most important or principal",
+      "example": "The main reason for the failure was lack of preparation.",
+      "chinese": {
+        "meaning": "主要的",
+        "example": "失敗的主要原因是缺乏準備。"
+      }
+    },
+    {
+      "word": "Mainland",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to the principal landmass of a country",
+      "example": "They live in the mainland part of the country.",
+      "chinese": {
+        "meaning": "大陸的",
+        "example": "他們住在該國的大陸部分。"
+      }
+    },
+    {
+      "word": "Mainstream",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Considered normal, conventional, or widely accepted",
+      "example": "His music is more mainstream than experimental.",
+      "chinese": {
+        "meaning": "主流的",
+        "example": "他的音樂比實驗性更主流。"
+      }
+    },
+    {
       "word": "Majestic",
       "type": "adjective",
       "letter": "M",
@@ -20,6 +152,61 @@
       "chinese": {
         "meaning": "有威嚴的；壯麗的",
         "example": "雄偉的山脈聳立在山谷之上。"
+      }
+    },
+    {
+      "word": "Major",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Very important or significant",
+      "example": "A major event is scheduled for next week.",
+      "chinese": {
+        "meaning": "重要的；主要的",
+        "example": "一個重大事件定於下週舉行。"
+      }
+    },
+    {
+      "word": "Maladjusted",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Unable to cope with the demands of a normal social environment",
+      "example": "The maladjusted child struggled at school.",
+      "chinese": {
+        "meaning": "適應不良的",
+        "example": "那個適應不良的孩子在學校很掙扎。"
+      }
+    },
+    {
+      "word": "Male",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to men or boys",
+      "example": "The male population is slightly larger than the female.",
+      "chinese": {
+        "meaning": "男性的",
+        "example": "男性人口略多於女性人口。"
+      }
+    },
+    {
+      "word": "Malevolent",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having or showing a wish to do evil to others",
+      "example": "He gave her a malevolent glare.",
+      "chinese": {
+        "meaning": "惡意的",
+        "example": "他惡狠狠地瞪了她一眼。"
+      }
+    },
+    {
+      "word": "Malformed",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Abnormally formed or misshapen",
+      "example": "The tree was malformed due to disease.",
+      "chinese": {
+        "meaning": "畸形的",
+        "example": "這棵樹因疾病而畸形。"
       }
     },
     {
@@ -45,6 +232,61 @@
       }
     },
     {
+      "word": "Malleable",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Easily influenced or shaped",
+      "example": "The young student was malleable and open to suggestions.",
+      "chinese": {
+        "meaning": "可塑的；易受影響的",
+        "example": "那個年輕學生很有可塑性，容易接受建議。"
+      }
+    },
+    {
+      "word": "Malnourished",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Suffering from inadequate nutrition",
+      "example": "The malnourished children needed urgent medical care.",
+      "chinese": {
+        "meaning": "營養不良的",
+        "example": "那些營養不良的孩子需要緊急醫療護理。"
+      }
+    },
+    {
+      "word": "Maltese",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to Malta or its people",
+      "example": "She bought a Maltese souvenir during her trip.",
+      "chinese": {
+        "meaning": "馬耳他的",
+        "example": "她在旅行時買了一個馬耳他紀念品。"
+      }
+    },
+    {
+      "word": "Managed",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Handled or directed with care or skill",
+      "example": "The managed funds performed well last year.",
+      "chinese": {
+        "meaning": "受管理的",
+        "example": "受管理的基金去年表現良好。"
+      }
+    },
+    {
+      "word": "Managerial",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to management or managers",
+      "example": "He was promoted to a managerial position.",
+      "chinese": {
+        "meaning": "管理的",
+        "example": "他被提升到管理職位。"
+      }
+    },
+    {
       "word": "Mandatory",
       "type": "adjective",
       "letter": "M",
@@ -67,6 +309,17 @@
       }
     },
     {
+      "word": "Manifest",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Clear or obvious to the eye or mind",
+      "example": "His disappointment was manifest in his expression.",
+      "chinese": {
+        "meaning": "明顯的",
+        "example": "他的失望在臉上表露無遺。"
+      }
+    },
+    {
       "word": "Manifold",
       "type": "adjective",
       "letter": "M",
@@ -75,6 +328,94 @@
       "chinese": {
         "meaning": "多種多樣的",
         "example": "這個項目面臨著多種多樣的挑戰。"
+      }
+    },
+    {
+      "word": "Manipulative",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Skillfully influencing others, often unfairly",
+      "example": "She can be very manipulative in negotiations.",
+      "chinese": {
+        "meaning": "善於操縱的",
+        "example": "她在談判中非常善於操縱。"
+      }
+    },
+    {
+      "word": "Mannered",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Behaving in a specific way, often artificial or affected",
+      "example": "His mannered speech seemed insincere.",
+      "chinese": {
+        "meaning": "做作的",
+        "example": "他那做作的言辭顯得不真誠。"
+      }
+    },
+    {
+      "word": "Mannerly",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Polite and showing good manners",
+      "example": "The children were quiet and mannerly.",
+      "chinese": {
+        "meaning": "有禮貌的",
+        "example": "孩子們安靜而有禮貌。"
+      }
+    },
+    {
+      "word": "Manorial",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to a manor or its lord",
+      "example": "The old manorial system still influenced the village.",
+      "chinese": {
+        "meaning": "莊園的",
+        "example": "舊的莊園制度仍影響著村莊。"
+      }
+    },
+    {
+      "word": "Manual",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Done by hand rather than by machine",
+      "example": "He prefers manual labor over office work.",
+      "chinese": {
+        "meaning": "手工的",
+        "example": "他更喜歡手工勞動而不是辦公室工作。"
+      }
+    },
+    {
+      "word": "Marginal",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Of secondary or minor importance; close to a limit",
+      "example": "Their contribution to the project was marginal.",
+      "chinese": {
+        "meaning": "邊緣的；微小的",
+        "example": "他們對項目的貢獻微不足道。"
+      }
+    },
+    {
+      "word": "Marine",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Related to the sea",
+      "example": "The marine ecosystem is very diverse.",
+      "chinese": {
+        "meaning": "海洋的",
+        "example": "海洋生態系統非常多樣化。"
+      }
+    },
+    {
+      "word": "Marital",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to marriage",
+      "example": "They are having marital problems.",
+      "chinese": {
+        "meaning": "婚姻的",
+        "example": "他們正在面臨婚姻問題。"
       }
     },
     {
@@ -89,6 +430,83 @@
       }
     },
     {
+      "word": "Marked",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Clearly noticeable or distinct",
+      "example": "There was a marked improvement in his grades.",
+      "chinese": {
+        "meaning": "顯著的",
+        "example": "他的成績有了顯著提高。"
+      }
+    },
+    {
+      "word": "Marketable",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Fit to be sold; in demand",
+      "example": "The company developed a marketable product.",
+      "chinese": {
+        "meaning": "可銷售的",
+        "example": "公司開發了一個有市場需求的產品。"
+      }
+    },
+    {
+      "word": "Maroon",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "A dark brownish-red color",
+      "example": "He wore a maroon jacket.",
+      "chinese": {
+        "meaning": "褐紅色的",
+        "example": "他穿著一件褐紅色的夾克。"
+      }
+    },
+    {
+      "word": "Marred",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Spoiled or damaged",
+      "example": "The painting was marred by a scratch.",
+      "chinese": {
+        "meaning": "受損的",
+        "example": "這幅畫被一道刮痕損壞了。"
+      }
+    },
+    {
+      "word": "Married",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having a husband or wife",
+      "example": "She is married with two children.",
+      "chinese": {
+        "meaning": "已婚的",
+        "example": "她已婚並育有兩個孩子。"
+      }
+    },
+    {
+      "word": "Marshaled",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Arranged or organized in an orderly way",
+      "example": "The troops were marshaled in perfect formation.",
+      "chinese": {
+        "meaning": "整齊排列的",
+        "example": "部隊被整齊地排列成完美的隊形。"
+      }
+    },
+    {
+      "word": "Martial",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to war, soldiers, or the military",
+      "example": "He has a strong martial spirit.",
+      "chinese": {
+        "meaning": "軍事的；戰爭的",
+        "example": "他有著強烈的軍人精神。"
+      }
+    },
+    {
       "word": "Marvelous",
       "type": "adjective",
       "letter": "M",
@@ -97,6 +515,28 @@
       "chinese": {
         "meaning": "令人驚嘆的；非凡的",
         "example": "魔術師表演了一個令人驚嘆的把戲。"
+      }
+    },
+    {
+      "word": "Masculine",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having qualities traditionally associated with men",
+      "example": "His style is very masculine and bold.",
+      "chinese": {
+        "meaning": "男性的；陽剛的",
+        "example": "他的風格非常陽剛大膽。"
+      }
+    },
+    {
+      "word": "Masked",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Concealed or hidden behind a mask or disguise",
+      "example": "The masked man escaped quickly.",
+      "chinese": {
+        "meaning": "戴著面具的；隱藏的",
+        "example": "蒙面人迅速逃離現場。"
       }
     },
     {
@@ -111,6 +551,39 @@
       }
     },
     {
+      "word": "Masterful",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Demonstrating great skill or authority",
+      "example": "Her masterful performance impressed everyone.",
+      "chinese": {
+        "meaning": "熟練的；有掌控力的",
+        "example": "她精湛的表演給大家留下了深刻印象。"
+      }
+    },
+    {
+      "word": "Matching",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having the same or complementary design, color, or style",
+      "example": "They wore matching outfits to the party.",
+      "chinese": {
+        "meaning": "相配的；匹配的",
+        "example": "他們穿著配套的服裝去參加派對。"
+      }
+    },
+    {
+      "word": "Material",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to physical objects or possessions",
+      "example": "He focused too much on material wealth.",
+      "chinese": {
+        "meaning": "物質的",
+        "example": "他太注重物質財富了。"
+      }
+    },
+    {
       "word": "Materialistic",
       "type": "adjective",
       "letter": "M",
@@ -119,6 +592,39 @@
       "chinese": {
         "meaning": "物質主義的",
         "example": "她不像她的朋友那樣物質。"
+      }
+    },
+    {
+      "word": "Maternal",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to a mother or motherhood",
+      "example": "She has a strong maternal instinct.",
+      "chinese": {
+        "meaning": "母親的；母性的",
+        "example": "她有很強的母性本能。"
+      }
+    },
+    {
+      "word": "Mathematical",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to mathematics",
+      "example": "He has great mathematical abilities.",
+      "chinese": {
+        "meaning": "數學的",
+        "example": "他有很強的數學能力。"
+      }
+    },
+    {
+      "word": "Matrimonial",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to marriage or married life",
+      "example": "They sought matrimonial counseling.",
+      "chinese": {
+        "meaning": "婚姻的",
+        "example": "他們尋求婚姻諮詢。"
       }
     },
     {
@@ -133,14 +639,91 @@
       }
     },
     {
+      "word": "Maudlin",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Overly sentimental or tearfully emotional",
+      "example": "He became maudlin after a few drinks.",
+      "chinese": {
+        "meaning": "多愁善感的",
+        "example": "喝了幾杯酒後，他變得多愁善感起來。"
+      }
+    },
+    {
+      "word": "Mauve",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "A pale purple color",
+      "example": "She chose a mauve dress for the wedding.",
+      "chinese": {
+        "meaning": "淡紫色的",
+        "example": "她為婚禮選擇了一件淡紫色的裙子。"
+      }
+    },
+    {
+      "word": "Maximal",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Being the greatest or highest possible",
+      "example": "The plan aims for maximal efficiency.",
+      "chinese": {
+        "meaning": "最大限度的",
+        "example": "這個計劃旨在達到最大效率。"
+      }
+    },
+    {
+      "word": "Maximum",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Greatest in amount, value, or degree allowed",
+      "example": "The maximum speed limit is 60 km/h.",
+      "chinese": {
+        "meaning": "最大的；最高的",
+        "example": "最高限速是60公里/小時。"
+      }
+    },
+    {
       "word": "Meager",
       "type": "adjective",
       "letter": "M",
-      "meaning": "Lacking in quantity or quality.",
-      "example": "They survived on a meager diet.",
+      "meaning": "Lacking in quantity or quality",
+      "example": "They survived on meager rations.",
       "chinese": {
         "meaning": "微薄的；不足的",
-        "example": "他們靠微薄的飲食維持生活。"
+        "example": "他們靠微薄的口糧生存。"
+      }
+    },
+    {
+      "word": "Mean",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Unkind or unpleasant; average or inferior in quality",
+      "example": "It was mean of him to refuse help.",
+      "chinese": {
+        "meaning": "刻薄的；普通的",
+        "example": "他拒絕幫忙很刻薄。"
+      }
+    },
+    {
+      "word": "Meaningful",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Full of purpose or value",
+      "example": "She had a meaningful conversation with her mentor.",
+      "chinese": {
+        "meaning": "有意義的",
+        "example": "她和導師進行了一次有意義的談話。"
+      }
+    },
+    {
+      "word": "Meaningless",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having no meaning, purpose, or value",
+      "example": "The gesture was meaningless without action.",
+      "chinese": {
+        "meaning": "無意義的",
+        "example": "沒有行動的話這個舉動毫無意義。"
       }
     },
     {
@@ -155,6 +738,39 @@
       }
     },
     {
+      "word": "Measurable",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Able to be measured or quantified",
+      "example": "There was a measurable improvement in his skills.",
+      "chinese": {
+        "meaning": "可衡量的",
+        "example": "他的技能有了可衡量的提高。"
+      }
+    },
+    {
+      "word": "Measured",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Carefully considered and deliberate",
+      "example": "She spoke in a measured tone.",
+      "chinese": {
+        "meaning": "慎重的；有分寸的",
+        "example": "她用慎重的語氣說話。"
+      }
+    },
+    {
+      "word": "Meaty",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Substantial and full of content; containing a lot of meat",
+      "example": "The book is meaty with useful information.",
+      "chinese": {
+        "meaning": "內容豐富的；多肉的",
+        "example": "這本書內容豐富，充滿有用的信息。"
+      }
+    },
+    {
       "word": "Mechanical",
       "type": "adjective",
       "letter": "M",
@@ -163,6 +779,39 @@
       "chinese": {
         "meaning": "機械的",
         "example": "這只鐘是全機械的。"
+      }
+    },
+    {
+      "word": "Medial",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Situated in the middle; intermediate",
+      "example": "The injury was to the medial part of the knee.",
+      "chinese": {
+        "meaning": "中間的",
+        "example": "受傷部位在膝蓋的中間位置。"
+      }
+    },
+    {
+      "word": "Medical",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to the science or practice of medicine",
+      "example": "She works in the medical field.",
+      "chinese": {
+        "meaning": "醫學的；醫療的",
+        "example": "她在醫療領域工作。"
+      }
+    },
+    {
+      "word": "Medicinal",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having healing properties; used as a medicine",
+      "example": "This herb has medicinal properties.",
+      "chinese": {
+        "meaning": "藥用的；有療效的",
+        "example": "這種草藥具有藥用性質。"
       }
     },
     {
@@ -177,6 +826,61 @@
       }
     },
     {
+      "word": "Mediocre",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Of only average quality; not very good",
+      "example": "The movie was mediocre and forgettable.",
+      "chinese": {
+        "meaning": "平庸的",
+        "example": "這部電影平庸且令人遺忘。"
+      }
+    },
+    {
+      "word": "Mediterranean",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to the Mediterranean Sea or the region around it",
+      "example": "They enjoy Mediterranean cuisine.",
+      "chinese": {
+        "meaning": "地中海的",
+        "example": "他們喜歡地中海美食。"
+      }
+    },
+    {
+      "word": "Medium",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "In the middle size, degree, or amount",
+      "example": "He ordered a medium pizza.",
+      "chinese": {
+        "meaning": "中等的",
+        "example": "他點了一個中號比薩。"
+      }
+    },
+    {
+      "word": "Meek",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Quiet, gentle, and easily imposed upon",
+      "example": "She is too meek to speak up for herself.",
+      "chinese": {
+        "meaning": "溫順的；懦弱的",
+        "example": "她太溫順，無法為自己發聲。"
+      }
+    },
+    {
+      "word": "Melancholic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Characterized by or causing sadness",
+      "example": "The melancholic music made her cry.",
+      "chinese": {
+        "meaning": "憂鬱的",
+        "example": "那首憂鬱的音樂讓她哭了起來。"
+      }
+    },
+    {
       "word": "Melancholy",
       "type": "adjective",
       "letter": "M",
@@ -185,6 +889,17 @@
       "chinese": {
         "meaning": "憂鬱的",
         "example": "聽到這個消息後，他感到憂鬱。"
+      }
+    },
+    {
+      "word": "Mellow",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Soft, smooth, and rich in flavor or sound; relaxed",
+      "example": "He became more mellow with age.",
+      "chinese": {
+        "meaning": "柔和的；成熟穩重的",
+        "example": "隨著年齡增長，他變得更為穩重。"
       }
     },
     {
@@ -210,6 +925,83 @@
       }
     },
     {
+      "word": "Memorial",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Serving to preserve the memory of a person or event",
+      "example": "A memorial service was held for the victims.",
+      "chinese": {
+        "meaning": "紀念的",
+        "example": "為遇難者舉行了紀念儀式。"
+      }
+    },
+    {
+      "word": "Menacing",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Threatening harm or danger",
+      "example": "He gave a menacing look to his opponent.",
+      "chinese": {
+        "meaning": "威脅的；險惡的",
+        "example": "他用威脅的眼神看著對手。"
+      }
+    },
+    {
+      "word": "Mendacious",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Not telling the truth; lying",
+      "example": "The politician's mendacious statement was exposed.",
+      "chinese": {
+        "meaning": "虛假的；撒謊的",
+        "example": "那位政客的虛假聲明被揭露了。"
+      }
+    },
+    {
+      "word": "Menial",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to unskilled or low-status work",
+      "example": "He refused to do menial tasks.",
+      "chinese": {
+        "meaning": "卑微的；不需要技術的",
+        "example": "他拒絕做那些卑微的工作。"
+      }
+    },
+    {
+      "word": "Menopausal",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to menopause",
+      "example": "She is experiencing menopausal symptoms.",
+      "chinese": {
+        "meaning": "更年期的",
+        "example": "她正經歷更年期的症狀。"
+      }
+    },
+    {
+      "word": "Menstrual",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to menstruation",
+      "example": "She is suffering from menstrual cramps.",
+      "chinese": {
+        "meaning": "月經的",
+        "example": "她正遭受經痛的折磨。"
+      }
+    },
+    {
+      "word": "Mental",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to the mind",
+      "example": "He needs time to recover his mental health.",
+      "chinese": {
+        "meaning": "精神的；心理的",
+        "example": "他需要時間恢復心理健康。"
+      }
+    },
+    {
       "word": "Mercenary",
       "type": "adjective",
       "letter": "M",
@@ -232,6 +1024,61 @@
       }
     },
     {
+      "word": "Merciless",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Showing no mercy or compassion",
+      "example": "The merciless storm destroyed the village.",
+      "chinese": {
+        "meaning": "無情的；殘酷的",
+        "example": "無情的風暴摧毀了村莊。"
+      }
+    },
+    {
+      "word": "Mercurial",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Characterized by rapid and unpredictable changes of mood",
+      "example": "His mercurial temperament makes him hard to work with.",
+      "chinese": {
+        "meaning": "多變的；反覆無常的",
+        "example": "他多變的性格使他難以共事。"
+      }
+    },
+    {
+      "word": "Meretricious",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Attractive in a cheap or false way",
+      "example": "The show was full of meretricious glamour.",
+      "chinese": {
+        "meaning": "華而不實的",
+        "example": "這場表演充斥著華而不實的魅力。"
+      }
+    },
+    {
+      "word": "Meritocratic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Based on ability or achievement",
+      "example": "The company has a meritocratic promotion system.",
+      "chinese": {
+        "meaning": "精英統治的；任人唯賢的",
+        "example": "該公司有一個任人唯賢的晉升制度。"
+      }
+    },
+    {
+      "word": "Merry",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Cheerful and lively",
+      "example": "They had a merry celebration on New Year's Eve.",
+      "chinese": {
+        "meaning": "快樂的；愉快的",
+        "example": "他們舉行了一個愉快的新年慶祝活動。"
+      }
+    },
+    {
       "word": "Messy",
       "type": "adjective",
       "letter": "M",
@@ -240,6 +1087,72 @@
       "chinese": {
         "meaning": "凌亂的",
         "example": "他的房間總是很凌亂。"
+      }
+    },
+    {
+      "word": "Metabolic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to metabolism",
+      "example": "The drug affects the body's metabolic rate.",
+      "chinese": {
+        "meaning": "新陳代謝的",
+        "example": "這種藥物會影響身體的新陳代謝率。"
+      }
+    },
+    {
+      "word": "Metal",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Made of or resembling metal",
+      "example": "The metal door was very heavy.",
+      "chinese": {
+        "meaning": "金屬的",
+        "example": "那扇金屬門非常沉重。"
+      }
+    },
+    {
+      "word": "Metallic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having the characteristics of metal, especially a shiny appearance",
+      "example": "The car had a metallic paint finish.",
+      "chinese": {
+        "meaning": "金屬光澤的",
+        "example": "這輛車有金屬光澤的漆面。"
+      }
+    },
+    {
+      "word": "Metaphorical",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Characteristic of or relating to metaphor",
+      "example": "His speech was full of metaphorical language.",
+      "chinese": {
+        "meaning": "隱喻的",
+        "example": "他的演講充滿了隱喻的語言。"
+      }
+    },
+    {
+      "word": "Metaphysical",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to the abstract or the philosophical nature of reality",
+      "example": "She is interested in metaphysical questions about existence.",
+      "chinese": {
+        "meaning": "形而上學的",
+        "example": "她對存在的形而上學問題感興趣。"
+      }
+    },
+    {
+      "word": "Meteoric",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Sudden and spectacular, like a meteor",
+      "example": "He enjoyed a meteoric rise to fame.",
+      "chinese": {
+        "meaning": "迅速而耀眼的",
+        "example": "他享受了一次迅速而耀眼的成名過程。"
       }
     },
     {
@@ -265,6 +1178,83 @@
       }
     },
     {
+      "word": "Metric",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to the metric system of measurement",
+      "example": "The distances were measured in metric units.",
+      "chinese": {
+        "meaning": "公制的",
+        "example": "距離是用公制單位測量的。"
+      }
+    },
+    {
+      "word": "Metrical",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to or composed in a metrical form, especially in poetry",
+      "example": "The poem's metrical structure is complex.",
+      "chinese": {
+        "meaning": "韻律的",
+        "example": "這首詩的韻律結構很複雜。"
+      }
+    },
+    {
+      "word": "Micro",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Extremely small",
+      "example": "The device uses micro components.",
+      "chinese": {
+        "meaning": "微小的",
+        "example": "該裝置使用微小的元件。"
+      }
+    },
+    {
+      "word": "Microscopic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "So small as to be visible only with a microscope",
+      "example": "Microscopic organisms live in the water.",
+      "chinese": {
+        "meaning": "顯微鏡下可見的；微小的",
+        "example": "水中生活著微小的生物。"
+      }
+    },
+    {
+      "word": "Mid",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Being in the middle of something",
+      "example": "We arrived in the mid morning.",
+      "chinese": {
+        "meaning": "中間的",
+        "example": "我們在上午中段到達。"
+      }
+    },
+    {
+      "word": "Middle",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "At an equal distance from the ends or sides",
+      "example": "He sat in the middle row.",
+      "chinese": {
+        "meaning": "中間的",
+        "example": "他坐在中間那排。"
+      }
+    },
+    {
+      "word": "Middle-aged",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Between about 45 and 65 years old",
+      "example": "The middle-aged couple enjoyed traveling.",
+      "chinese": {
+        "meaning": "中年的",
+        "example": "這對中年夫婦喜歡旅行。"
+      }
+    },
+    {
       "word": "Mighty",
       "type": "adjective",
       "letter": "M",
@@ -287,6 +1277,17 @@
       }
     },
     {
+      "word": "Mild-mannered",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Gentle and not easily angered or upset",
+      "example": "He is a mild-mannered teacher.",
+      "chinese": {
+        "meaning": "性情溫和的",
+        "example": "他是一位性情溫和的老師。"
+      }
+    },
+    {
       "word": "Militant",
       "type": "adjective",
       "letter": "M",
@@ -295,6 +1296,61 @@
       "chinese": {
         "meaning": "激進的；好戰的",
         "example": "這個團體隨著時間變得更加激進。"
+      }
+    },
+    {
+      "word": "Militaristic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Supporting or favoring a strong military",
+      "example": "The regime had a militaristic culture.",
+      "chinese": {
+        "meaning": "軍國主義的",
+        "example": "該政權有一種軍國主義的文化。"
+      }
+    },
+    {
+      "word": "Military",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to or characteristic of soldiers or the armed forces",
+      "example": "He wore a military uniform.",
+      "chinese": {
+        "meaning": "軍事的",
+        "example": "他穿著軍裝。"
+      }
+    },
+    {
+      "word": "Milky",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Resembling milk in color or consistency",
+      "example": "The water had a milky appearance.",
+      "chinese": {
+        "meaning": "乳白色的",
+        "example": "水呈現乳白色。"
+      }
+    },
+    {
+      "word": "Mimetic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Imitative or mimicking",
+      "example": "The artist's mimetic style was impressive.",
+      "chinese": {
+        "meaning": "模仿的",
+        "example": "這位藝術家的模仿風格令人印象深刻。"
+      }
+    },
+    {
+      "word": "Minded",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having a specified way of thinking or attitude",
+      "example": "She is community-minded.",
+      "chinese": {
+        "meaning": "有特定心態的",
+        "example": "她很有社區意識。"
       }
     },
     {
@@ -309,6 +1365,28 @@
       }
     },
     {
+      "word": "Mindless",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Done without thought or consideration",
+      "example": "He engaged in mindless chatter.",
+      "chinese": {
+        "meaning": "不加思考的；盲目的",
+        "example": "他進行著毫無意義的閒聊。"
+      }
+    },
+    {
+      "word": "Mineral",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to or containing minerals",
+      "example": "The mineral deposits are valuable.",
+      "chinese": {
+        "meaning": "礦物的",
+        "example": "礦物沉積非常有價值。"
+      }
+    },
+    {
       "word": "Miniature",
       "type": "adjective",
       "letter": "M",
@@ -317,6 +1395,72 @@
       "chinese": {
         "meaning": "微型的",
         "example": "他收集微型汽車模型。"
+      }
+    },
+    {
+      "word": "Minimal",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "The least or smallest possible amount or degree",
+      "example": "The damage was minimal.",
+      "chinese": {
+        "meaning": "最小的",
+        "example": "損失是最小的。"
+      }
+    },
+    {
+      "word": "Minimalist",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Characterized by simplicity and minimal design",
+      "example": "She lives in a minimalist apartment.",
+      "chinese": {
+        "meaning": "簡約主義的",
+        "example": "她住在一間簡約風格的公寓裡。"
+      }
+    },
+    {
+      "word": "Minimum",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "The smallest or least amount allowed or possible",
+      "example": "The minimum age to vote is 18.",
+      "chinese": {
+        "meaning": "最低的",
+        "example": "投票的最低年齡是18歲。"
+      }
+    },
+    {
+      "word": "Minor",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Less important or serious",
+      "example": "He suffered only minor injuries.",
+      "chinese": {
+        "meaning": "次要的；輕微的",
+        "example": "他只受了輕微的傷。"
+      }
+    },
+    {
+      "word": "Mint",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "In perfect condition; fresh or like new",
+      "example": "The vintage car is in mint condition.",
+      "chinese": {
+        "meaning": "完美的；嶄新的",
+        "example": "這輛老爺車狀況完美。"
+      }
+    },
+    {
+      "word": "Minuscule",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Extremely small",
+      "example": "The risk is minuscule.",
+      "chinese": {
+        "meaning": "極小的",
+        "example": "風險極小。"
       }
     },
     {
@@ -339,6 +1483,28 @@
       "chinese": {
         "meaning": "奇跡般的",
         "example": "她的康復被認為是奇跡。"
+      }
+    },
+    {
+      "word": "Mirrored",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having a reflective surface like a mirror",
+      "example": "The mirrored walls made the room look larger.",
+      "chinese": {
+        "meaning": "鏡面的；反光的",
+        "example": "鏡面牆讓房間看起來更大。"
+      }
+    },
+    {
+      "word": "Mischievous",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Causing or showing a fondness for causing trouble in a playful way",
+      "example": "The mischievous child hid his sister's toys.",
+      "chinese": {
+        "meaning": "頑皮的；惡作劇的",
+        "example": "那個頑皮的孩子藏起了他妹妹的玩具。"
       }
     },
     {
@@ -408,6 +1574,28 @@
       }
     },
     {
+      "word": "Mocking",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Making fun of someone or something in a cruel or unkind way",
+      "example": "She gave him a mocking smile.",
+      "chinese": {
+        "meaning": "嘲笑的；譏諷的",
+        "example": "她給了他一個嘲笑的微笑。"
+      }
+    },
+    {
+      "word": "Modal",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to mode or form; in music, based on modes other than major or minor",
+      "example": "The composer used modal scales in the piece.",
+      "chinese": {
+        "meaning": "形式的；調式的",
+        "example": "作曲家在這首曲子中使用了調式音階。"
+      }
+    },
+    {
       "word": "Moderate",
       "type": "adjective",
       "letter": "M",
@@ -441,6 +1629,17 @@
       }
     },
     {
+      "word": "Modified",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Changed or altered in form or character",
+      "example": "He drove a modified version of the car.",
+      "chinese": {
+        "meaning": "修改過的；改良的",
+        "example": "他駕駛一輛改良版的汽車。"
+      }
+    },
+    {
       "word": "Modular",
       "type": "adjective",
       "letter": "M",
@@ -449,6 +1648,50 @@
       "chinese": {
         "meaning": "模塊化的",
         "example": "辦公室採用了模塊化傢具系統。"
+      }
+    },
+    {
+      "word": "Modulated",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Adjusted or controlled, especially of voice or sound",
+      "example": "She spoke in a softly modulated voice.",
+      "chinese": {
+        "meaning": "調整過的；調節的",
+        "example": "她用溫柔調節過的聲音說話。"
+      }
+    },
+    {
+      "word": "Moist",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Slightly wet or damp",
+      "example": "The soil is still moist from the rain.",
+      "chinese": {
+        "meaning": "潮濕的",
+        "example": "雨水使土壤仍然潮濕。"
+      }
+    },
+    {
+      "word": "Molecular",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to or consisting of molecules",
+      "example": "Scientists are studying molecular biology.",
+      "chinese": {
+        "meaning": "分子的",
+        "example": "科學家正在研究分子生物學。"
+      }
+    },
+    {
+      "word": "Molten",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Melted by heat",
+      "example": "The volcano spewed molten lava.",
+      "chinese": {
+        "meaning": "熔化的",
+        "example": "火山噴出了熔化的岩漿。"
       }
     },
     {
@@ -474,6 +1717,116 @@
       }
     },
     {
+      "word": "Monarchical",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to a monarchy or monarch",
+      "example": "The country has a monarchical system of government.",
+      "chinese": {
+        "meaning": "君主制的",
+        "example": "該國實行君主制政府。"
+      }
+    },
+    {
+      "word": "Monastic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to monasteries or monks; simple and quiet",
+      "example": "He lived a monastic life in the mountains.",
+      "chinese": {
+        "meaning": "修道院的；清心寡欲的",
+        "example": "他在山中過著清心寡欲的生活。"
+      }
+    },
+    {
+      "word": "Monetary",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to money or currency",
+      "example": "The country is facing monetary problems.",
+      "chinese": {
+        "meaning": "貨幣的",
+        "example": "該國面臨貨幣問題。"
+      }
+    },
+    {
+      "word": "Monochromatic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having only one color or shades of one color",
+      "example": "The room was decorated in a monochromatic scheme.",
+      "chinese": {
+        "meaning": "單色的",
+        "example": "這個房間採用單色的裝飾風格。"
+      }
+    },
+    {
+      "word": "Monogamous",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having or relating to only one mate or partner",
+      "example": "Swans are typically monogamous birds.",
+      "chinese": {
+        "meaning": "一夫一妻制的",
+        "example": "天鵝通常是實行一夫一妻制的鳥類。"
+      }
+    },
+    {
+      "word": "Monolingual",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Speaking or using only one language",
+      "example": "She is monolingual and speaks only Spanish.",
+      "chinese": {
+        "meaning": "單語的",
+        "example": "她是單語者，只說西班牙語。"
+      }
+    },
+    {
+      "word": "Monolithic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Large, powerful, and difficult to change",
+      "example": "The organization is seen as a monolithic structure.",
+      "chinese": {
+        "meaning": "龐大而難以改變的",
+        "example": "這個組織被視為龐大而難以改變的結構。"
+      }
+    },
+    {
+      "word": "Monosyllabic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Using or having only one syllable",
+      "example": "He gave a monosyllabic answer.",
+      "chinese": {
+        "meaning": "單音節的；簡短的",
+        "example": "他給了一個簡短的回答。"
+      }
+    },
+    {
+      "word": "Monotheistic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Believing in only one god",
+      "example": "Christianity is a monotheistic religion.",
+      "chinese": {
+        "meaning": "一神教的",
+        "example": "基督教是一神教宗教。"
+      }
+    },
+    {
+      "word": "Monotone",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Spoken or sounded in an unchanging tone",
+      "example": "She spoke in a monotone voice.",
+      "chinese": {
+        "meaning": "單調的",
+        "example": "她用單調的聲音說話。"
+      }
+    },
+    {
       "word": "Monotonous",
       "type": "adjective",
       "letter": "M",
@@ -496,6 +1849,17 @@
       }
     },
     {
+      "word": "Monthly",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Happening or produced once a month",
+      "example": "They hold a monthly meeting.",
+      "chinese": {
+        "meaning": "每月的",
+        "example": "他們每月開一次會。"
+      }
+    },
+    {
       "word": "Monumental",
       "type": "adjective",
       "letter": "M",
@@ -507,6 +1871,28 @@
       }
     },
     {
+      "word": "Moody",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having frequent changes of mood",
+      "example": "He's been very moody lately.",
+      "chinese": {
+        "meaning": "喜怒無常的",
+        "example": "他最近情緒很不穩定。"
+      }
+    },
+    {
+      "word": "Moral",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to principles of right and wrong",
+      "example": "She faced a moral dilemma.",
+      "chinese": {
+        "meaning": "道德的",
+        "example": "她面臨一個道德困境。"
+      }
+    },
+    {
       "word": "Morbid",
       "type": "adjective",
       "letter": "M",
@@ -515,6 +1901,39 @@
       "chinese": {
         "meaning": "病態的",
         "example": "他對死亡有一種病態的迷戀。"
+      }
+    },
+    {
+      "word": "Moribund",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "At the point of death or extinction",
+      "example": "The industry was in a moribund state.",
+      "chinese": {
+        "meaning": "垂死的；停滯不前的",
+        "example": "該行業處於垂死狀態。"
+      }
+    },
+    {
+      "word": "Morning",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to the early part of the day",
+      "example": "She took her morning coffee by the window.",
+      "chinese": {
+        "meaning": "早晨的",
+        "example": "她在窗邊喝早晨的咖啡。"
+      }
+    },
+    {
+      "word": "Moronic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Very foolish or stupid",
+      "example": "That was a moronic decision.",
+      "chinese": {
+        "meaning": "愚蠢的",
+        "example": "那是一個愚蠢的決定。"
       }
     },
     {
@@ -540,6 +1959,72 @@
       }
     },
     {
+      "word": "Mortified",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Extremely embarrassed or ashamed",
+      "example": "She was mortified by her mistake.",
+      "chinese": {
+        "meaning": "極度尷尬的",
+        "example": "她因自己的錯誤而極度尷尬。"
+      }
+    },
+    {
+      "word": "Mosaic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Made up of different pieces forming a pattern",
+      "example": "The city is a mosaic of cultures.",
+      "chinese": {
+        "meaning": "鑲嵌的；由多部分組成的",
+        "example": "這座城市是多元文化的鑲嵌體。"
+      }
+    },
+    {
+      "word": "Motherly",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Showing care and affection like that of a mother",
+      "example": "She gave him a motherly hug.",
+      "chinese": {
+        "meaning": "母親般的",
+        "example": "她給了他一個母親般的擁抱。"
+      }
+    },
+    {
+      "word": "Motionless",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Not moving; still",
+      "example": "The deer stood motionless in the field.",
+      "chinese": {
+        "meaning": "靜止的",
+        "example": "那隻鹿靜止地站在田野裡。"
+      }
+    },
+    {
+      "word": "Motivated",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having a strong reason or desire to act or accomplish something",
+      "example": "She is highly motivated to succeed.",
+      "chinese": {
+        "meaning": "積極的；有動力的",
+        "example": "她有很強的成功動力。"
+      }
+    },
+    {
+      "word": "Motivational",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Intended to inspire or encourage",
+      "example": "He delivered a motivational speech.",
+      "chinese": {
+        "meaning": "激勵的",
+        "example": "他發表了一場激勵人心的演講。"
+      }
+    },
+    {
       "word": "Mountainous",
       "type": "adjective",
       "letter": "M",
@@ -562,6 +2047,116 @@
       }
     },
     {
+      "word": "Muddy",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Covered with or full of mud",
+      "example": "The path was muddy after the storm.",
+      "chinese": {
+        "meaning": "泥濘的",
+        "example": "暴風雨後小路泥濘不堪。"
+      }
+    },
+    {
+      "word": "Muffled",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Not loud because of being obstructed or softened",
+      "example": "They heard a muffled scream from the basement.",
+      "chinese": {
+        "meaning": "低沉的；模糊不清的",
+        "example": "他們聽到地下室傳來一聲低沉的尖叫。"
+      }
+    },
+    {
+      "word": "Muggy",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Unpleasantly warm and humid",
+      "example": "It's hot and muggy today.",
+      "chinese": {
+        "meaning": "悶熱潮濕的",
+        "example": "今天的天氣又熱又悶。"
+      }
+    },
+    {
+      "word": "Multicultural",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to or containing several different cultures",
+      "example": "The city is a multicultural hub.",
+      "chinese": {
+        "meaning": "多元文化的",
+        "example": "這個城市是一個多元文化的樞紐。"
+      }
+    },
+    {
+      "word": "Multidisciplinary",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Involving two or more academic disciplines or fields of study",
+      "example": "The project requires a multidisciplinary approach.",
+      "chinese": {
+        "meaning": "多學科的",
+        "example": "該項目需要多學科的方法。"
+      }
+    },
+    {
+      "word": "Multifaceted",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having many aspects or sides",
+      "example": "She has a multifaceted personality.",
+      "chinese": {
+        "meaning": "多方面的；多才多藝的",
+        "example": "她有著多方面的性格。"
+      }
+    },
+    {
+      "word": "Multilateral",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Involving more than two nations or parties",
+      "example": "The countries held a multilateral trade meeting.",
+      "chinese": {
+        "meaning": "多邊的",
+        "example": "各國舉行了一次多邊貿易會議。"
+      }
+    },
+    {
+      "word": "Multilingual",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Able to speak or use several languages",
+      "example": "He grew up in a multilingual household.",
+      "chinese": {
+        "meaning": "多語的",
+        "example": "他在一個多語家庭中長大。"
+      }
+    },
+    {
+      "word": "Multinational",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Operating in or involving several countries",
+      "example": "She works for a multinational corporation.",
+      "chinese": {
+        "meaning": "跨國的",
+        "example": "她在一家跨國公司工作。"
+      }
+    },
+    {
+      "word": "Multiple",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having or involving several parts or elements",
+      "example": "The accident had multiple causes.",
+      "chinese": {
+        "meaning": "多個的；多種的",
+        "example": "這次事故有多個原因。"
+      }
+    },
+    {
       "word": "Mundane",
       "type": "adjective",
       "letter": "M",
@@ -570,6 +2165,39 @@
       "chinese": {
         "meaning": "平凡的；世俗的",
         "example": "他過著平凡的生活。"
+      }
+    },
+    {
+      "word": "Municipal",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to a city or town and its governing body",
+      "example": "The municipal government approved the new park project.",
+      "chinese": {
+        "meaning": "市政的",
+        "example": "市政府批准了新公園的項目。"
+      }
+    },
+    {
+      "word": "Mural",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to a wall; painted or applied directly on a wall",
+      "example": "The building has beautiful mural art.",
+      "chinese": {
+        "meaning": "牆壁的；壁畫的",
+        "example": "這座建築物有漂亮的壁畫藝術。"
+      }
+    },
+    {
+      "word": "Murderous",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having the intention or capability to kill; extremely dangerous or violent",
+      "example": "He gave her a murderous look.",
+      "chinese": {
+        "meaning": "兇殘的；致命的",
+        "example": "他給了她一個兇殘的眼神。"
       }
     },
     {
@@ -595,6 +2223,83 @@
       }
     },
     {
+      "word": "Musical",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to music; having a pleasant sound",
+      "example": "She has a musical voice.",
+      "chinese": {
+        "meaning": "音樂的；悅耳的",
+        "example": "她有一副悅耳的聲音。"
+      }
+    },
+    {
+      "word": "Musty",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having a stale, moldy, or damp smell",
+      "example": "The old books had a musty odor.",
+      "chinese": {
+        "meaning": "發霉的；陳舊的",
+        "example": "那些舊書有一股發霉的氣味。"
+      }
+    },
+    {
+      "word": "Muted",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Soft or subdued; not bright or intense",
+      "example": "The painting features muted colors.",
+      "chinese": {
+        "meaning": "柔和的；壓低的",
+        "example": "這幅畫採用了柔和的顏色。"
+      }
+    },
+    {
+      "word": "Mutilated",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Badly damaged or disfigured",
+      "example": "The documents were mutilated beyond recognition.",
+      "chinese": {
+        "meaning": "殘缺不全的；毀壞的",
+        "example": "文件被毀壞得面目全非。"
+      }
+    },
+    {
+      "word": "Mutinous",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Rebelling against authority",
+      "example": "The soldiers became mutinous and refused orders.",
+      "chinese": {
+        "meaning": "反叛的；桀驁不馴的",
+        "example": "士兵們開始反叛並拒絕執行命令。"
+      }
+    },
+    {
+      "word": "Mutual",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Shared by two or more parties",
+      "example": "They have a mutual understanding of the problem.",
+      "chinese": {
+        "meaning": "相互的；共同的",
+        "example": "他們對這個問題有共同的理解。"
+      }
+    },
+    {
+      "word": "Myopic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Nearsighted; lacking foresight or imagination",
+      "example": "The plan was criticized as myopic.",
+      "chinese": {
+        "meaning": "近視的；目光短淺的",
+        "example": "該計劃被批評為目光短淺。"
+      }
+    },
+    {
       "word": "Mysterious",
       "type": "adjective",
       "letter": "M",
@@ -606,6 +2311,39 @@
       }
     },
     {
+      "word": "Mystic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to mysteries or spiritual truths",
+      "example": "She was drawn to the mystic traditions of the East.",
+      "chinese": {
+        "meaning": "神秘的；神秘主義的",
+        "example": "她被東方的神秘傳統吸引。"
+      }
+    },
+    {
+      "word": "Mystical",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Having a spiritual or mysterious quality",
+      "example": "The mountain has a mystical aura.",
+      "chinese": {
+        "meaning": "神秘的；超自然的",
+        "example": "那座山有一種神秘的氣息。"
+      }
+    },
+    {
+      "word": "Mythic",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to myths; legendary",
+      "example": "He is a figure of mythic proportions.",
+      "chinese": {
+        "meaning": "神話的；傳奇的",
+        "example": "他是個具有傳奇色彩的人物。"
+      }
+    },
+    {
       "word": "Mythical",
       "type": "adjective",
       "letter": "M",
@@ -614,6 +2352,17 @@
       "chinese": {
         "meaning": "神話的；虛構的",
         "example": "獨角獸是一種神話生物。"
+      }
+    },
+    {
+      "word": "Mythological",
+      "type": "adjective",
+      "letter": "M",
+      "meaning": "Relating to or based on myths",
+      "example": "The book explores mythological creatures.",
+      "chinese": {
+        "meaning": "神話的",
+        "example": "這本書探索了神話生物。"
       }
     }
   ]

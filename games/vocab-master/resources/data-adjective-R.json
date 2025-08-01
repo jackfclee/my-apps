@@ -1,6 +1,28 @@
 {
   "words": [
     {
+      "word": "Rabid",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having or proceeding from an extreme or fanatical support of something",
+      "example": "He is a rabid football fan.",
+      "chinese": {
+        "meaning": "狂熱的",
+        "example": "他是一個狂熱的足球迷。"
+      }
+    },
+    {
+      "word": "Racial",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to race or ethnic group",
+      "example": "The policy aims to eliminate racial discrimination.",
+      "chinese": {
+        "meaning": "種族的",
+        "example": "該政策旨在消除種族歧視。"
+      }
+    },
+    {
       "word": "Radiant",
       "type": "adjective",
       "letter": "R",
@@ -20,6 +42,94 @@
       "chinese": {
         "meaning": "根本的；激進的",
         "example": "新政策帶來了教育系統的根本變革。"
+      }
+    },
+    {
+      "word": "Radioactive",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Emitting radiation as a result of the decay of unstable atomic nuclei",
+      "example": "The waste is highly radioactive.",
+      "chinese": {
+        "meaning": "放射性的",
+        "example": "這些廢料具有高度放射性。"
+      }
+    },
+    {
+      "word": "Ragged",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Torn or worn out; uneven or rough",
+      "example": "He wore a ragged coat.",
+      "chinese": {
+        "meaning": "破爛的",
+        "example": "他穿著一件破爛的外套。"
+      }
+    },
+    {
+      "word": "Raging",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Showing violent uncontrollable anger or intensity",
+      "example": "A raging fire swept through the forest.",
+      "chinese": {
+        "meaning": "猛烈的；狂怒的",
+        "example": "猛烈的火焰席捲了整片森林。"
+      }
+    },
+    {
+      "word": "Rainy",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Characterized by frequent or continuous rain",
+      "example": "It was a rainy afternoon.",
+      "chinese": {
+        "meaning": "多雨的",
+        "example": "那是個多雨的下午。"
+      }
+    },
+    {
+      "word": "Raised",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Lifted or elevated to a higher position",
+      "example": "The platform is raised above ground level.",
+      "chinese": {
+        "meaning": "抬高的",
+        "example": "平台高於地面。"
+      }
+    },
+    {
+      "word": "Rambling",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Spreading or straggling irregularly; lengthy and confusing in speech",
+      "example": "He gave a rambling speech that confused the audience.",
+      "chinese": {
+        "meaning": "漫無邊際的；蔓生的",
+        "example": "他發表了一場漫無邊際的演講，讓聽眾感到困惑。"
+      }
+    },
+    {
+      "word": "Random",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Made, done, or chosen without method or conscious decision",
+      "example": "The numbers were selected at random.",
+      "chinese": {
+        "meaning": "隨機的",
+        "example": "這些數字是隨機選出的。"
+      }
+    },
+    {
+      "word": "Rank",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having a strong unpleasant smell; complete and utter",
+      "example": "The rank odor filled the room.",
+      "chinese": {
+        "meaning": "惡臭的；極端的",
+        "example": "惡臭充滿了房間。"
       }
     },
     {
@@ -45,6 +155,17 @@
       }
     },
     {
+      "word": "Rash",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Acting without careful consideration; hasty",
+      "example": "It was a rash decision.",
+      "chinese": {
+        "meaning": "輕率的",
+        "example": "那是一個輕率的決定。"
+      }
+    },
+    {
       "word": "Rational",
       "type": "adjective",
       "letter": "R",
@@ -53,6 +174,17 @@
       "chinese": {
         "meaning": "理性的；合理的",
         "example": "她對自己的決定給出了合理的解釋。"
+      }
+    },
+    {
+      "word": "Rationale",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Based on reason or logic",
+      "example": "The rationale approach was appreciated by the committee.",
+      "chinese": {
+        "meaning": "理性的",
+        "example": "委員會欣賞這種理性的做法。"
       }
     },
     {
@@ -67,6 +199,17 @@
       }
     },
     {
+      "word": "Reactive",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Acting in response to a situation rather than creating or controlling it",
+      "example": "The government took a reactive approach to the crisis.",
+      "chinese": {
+        "meaning": "被動反應的",
+        "example": "政府對這場危機採取了被動的態度。"
+      }
+    },
+    {
       "word": "Ready",
       "type": "adjective",
       "letter": "R",
@@ -75,6 +218,17 @@
       "chinese": {
         "meaning": "準備好的；願意的",
         "example": "你準備好開始考試了嗎？"
+      }
+    },
+    {
+      "word": "Real",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Actually existing or occurring; genuine",
+      "example": "She is a real friend.",
+      "chinese": {
+        "meaning": "真實的",
+        "example": "她是一個真正的朋友。"
       }
     },
     {
@@ -100,6 +254,28 @@
       }
     },
     {
+      "word": "Reassured",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having confidence restored",
+      "example": "He felt reassured after hearing the good news.",
+      "chinese": {
+        "meaning": "安心的",
+        "example": "聽到好消息後他感到安心。"
+      }
+    },
+    {
+      "word": "Reassuring",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Serving to remove doubt or fear",
+      "example": "Her reassuring words calmed the child.",
+      "chinese": {
+        "meaning": "令人安心的",
+        "example": "她令人安心的話語安撫了孩子。"
+      }
+    },
+    {
       "word": "Rebellious",
       "type": "adjective",
       "letter": "R",
@@ -108,6 +284,28 @@
       "chinese": {
         "meaning": "反叛的；叛逆的",
         "example": "那個叛逆的青少年經常挑戰權威。"
+      }
+    },
+    {
+      "word": "Reborn",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Brought back to life or existence; revitalized",
+      "example": "The city was reborn after the renovation.",
+      "chinese": {
+        "meaning": "重生的",
+        "example": "經過翻新後，這座城市重獲新生。"
+      }
+    },
+    {
+      "word": "Recalcitrant",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Resisting authority or control; uncooperative",
+      "example": "The recalcitrant student refused to follow instructions.",
+      "chinese": {
+        "meaning": "頑抗的",
+        "example": "那名頑抗的學生拒絕遵從指示。"
       }
     },
     {
@@ -122,6 +320,39 @@
       }
     },
     {
+      "word": "Receptive",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Willing to consider or accept new suggestions or ideas",
+      "example": "She was receptive to the feedback.",
+      "chinese": {
+        "meaning": "樂於接受的",
+        "example": "她樂於接受意見。"
+      }
+    },
+    {
+      "word": "Recessive",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Genetically determined trait that can be masked by a dominant trait",
+      "example": "Blue eyes are a recessive trait.",
+      "chinese": {
+        "meaning": "隱性的",
+        "example": "藍眼睛是一種隱性特徵。"
+      }
+    },
+    {
+      "word": "Reciprocal",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Given, felt, or done in return",
+      "example": "They share a reciprocal respect.",
+      "chinese": {
+        "meaning": "互相的",
+        "example": "他們彼此尊重。"
+      }
+    },
+    {
       "word": "Reckless",
       "type": "adjective",
       "letter": "R",
@@ -130,6 +361,105 @@
       "chinese": {
         "meaning": "魯莽的；不顧後果的",
         "example": "他魯莽的駕駛導致了事故。"
+      }
+    },
+    {
+      "word": "Recognisable",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Able to be identified or known",
+      "example": "The building was easily recognisable from a distance.",
+      "chinese": {
+        "meaning": "可辨認的",
+        "example": "那座建築從遠處很容易辨認。"
+      }
+    },
+    {
+      "word": "Recognised",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Officially known or accepted",
+      "example": "She is a recognised expert in her field.",
+      "chinese": {
+        "meaning": "公認的",
+        "example": "她是該領域公認的專家。"
+      }
+    },
+    {
+      "word": "Recommended",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Advised or suggested as good or suitable",
+      "example": "This restaurant is highly recommended.",
+      "chinese": {
+        "meaning": "推薦的",
+        "example": "這家餐廳被高度推薦。"
+      }
+    },
+    {
+      "word": "Reconciled",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Restored friendly relations or brought into agreement",
+      "example": "They are now reconciled after the argument.",
+      "chinese": {
+        "meaning": "和解的",
+        "example": "爭吵之後，他們和好了。"
+      }
+    },
+    {
+      "word": "Reconstructive",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Serving to rebuild or restore, especially surgically",
+      "example": "She underwent reconstructive surgery.",
+      "chinese": {
+        "meaning": "重建的",
+        "example": "她接受了重建手術。"
+      }
+    },
+    {
+      "word": "Recovered",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Returned to a normal state of health or mind",
+      "example": "He is fully recovered from the illness.",
+      "chinese": {
+        "meaning": "康復的",
+        "example": "他已經完全從疾病中康復。"
+      }
+    },
+    {
+      "word": "Recovering",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "In the process of returning to normal health or strength",
+      "example": "She is still recovering from surgery.",
+      "chinese": {
+        "meaning": "恢復中的",
+        "example": "她仍在手術後康復中。"
+      }
+    },
+    {
+      "word": "Recreational",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to leisure activities",
+      "example": "The park has many recreational facilities.",
+      "chinese": {
+        "meaning": "娛樂的",
+        "example": "公園裡有許多娛樂設施。"
+      }
+    },
+    {
+      "word": "Rectal",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to or affecting the rectum",
+      "example": "The medicine is for rectal use.",
+      "chinese": {
+        "meaning": "直腸的",
+        "example": "這種藥是用於直腸的。"
       }
     },
     {
@@ -144,6 +474,72 @@
       }
     },
     {
+      "word": "Recurrent",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Happening repeatedly or periodically",
+      "example": "He suffers from recurrent headaches.",
+      "chinese": {
+        "meaning": "反覆發生的",
+        "example": "他經常頭痛。"
+      }
+    },
+    {
+      "word": "Red",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Of a color at the end of the spectrum next to orange",
+      "example": "She wore a bright red dress.",
+      "chinese": {
+        "meaning": "紅色的",
+        "example": "她穿著一件鮮紅色的裙子。"
+      }
+    },
+    {
+      "word": "Reddened",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having become red, often from irritation or emotion",
+      "example": "His eyes were reddened from crying.",
+      "chinese": {
+        "meaning": "變紅的",
+        "example": "他哭得眼睛都紅了。"
+      }
+    },
+    {
+      "word": "Reddish",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Slightly red in color",
+      "example": "The soil is reddish in this area.",
+      "chinese": {
+        "meaning": "微紅的",
+        "example": "這一帶的土壤呈微紅色。"
+      }
+    },
+    {
+      "word": "Redolent",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Strongly reminiscent or suggestive of something; fragrant",
+      "example": "The air was redolent with the smell of flowers.",
+      "chinese": {
+        "meaning": "芬芳的；令人想起的",
+        "example": "空氣中充滿了花香。"
+      }
+    },
+    {
+      "word": "Reduced",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Made smaller or less in amount, degree, or size",
+      "example": "The reduced price attracted more customers.",
+      "chinese": {
+        "meaning": "減少的",
+        "example": "減價吸引了更多顧客。"
+      }
+    },
+    {
       "word": "Redundant",
       "type": "adjective",
       "letter": "R",
@@ -152,6 +548,50 @@
       "chinese": {
         "meaning": "多餘的；冗長的",
         "example": "報告中充滿了多餘的信息。"
+      }
+    },
+    {
+      "word": "Referenced",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Mentioned or alluded to as a source",
+      "example": "The referenced document contains all the necessary details.",
+      "chinese": {
+        "meaning": "被引用的",
+        "example": "被引用的文件包含了所有必要的細節。"
+      }
+    },
+    {
+      "word": "Referential",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to or containing references",
+      "example": "The essay was highly referential, citing many sources.",
+      "chinese": {
+        "meaning": "參考的",
+        "example": "這篇文章大量引用資料，非常參考性強。"
+      }
+    },
+    {
+      "word": "Refined",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Elegant and cultured; purified or improved",
+      "example": "She has refined manners.",
+      "chinese": {
+        "meaning": "優雅的；精煉的",
+        "example": "她舉止優雅。"
+      }
+    },
+    {
+      "word": "Reflected",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Cast back from a surface; shown as a result of something",
+      "example": "His joy was reflected in his smile.",
+      "chinese": {
+        "meaning": "反映的",
+        "example": "他的笑容反映出他的快樂。"
       }
     },
     {
@@ -166,6 +606,72 @@
       }
     },
     {
+      "word": "Reformist",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Promoting or advocating change or improvement",
+      "example": "He held reformist views on education.",
+      "chinese": {
+        "meaning": "改革的",
+        "example": "他持有教育改革的觀點。"
+      }
+    },
+    {
+      "word": "Refracted",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Bent or altered in direction when passing through a medium",
+      "example": "The refracted light created a rainbow.",
+      "chinese": {
+        "meaning": "折射的",
+        "example": "折射的光形成了一道彩虹。"
+      }
+    },
+    {
+      "word": "Refreshed",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Revived or replenished with energy",
+      "example": "She felt refreshed after the nap.",
+      "chinese": {
+        "meaning": "精神煥發的",
+        "example": "小睡後她感到精神煥發。"
+      }
+    },
+    {
+      "word": "Refreshing",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Pleasantly new or different; giving new strength or energy",
+      "example": "The breeze was refreshing on a hot day.",
+      "chinese": {
+        "meaning": "令人耳目一新的",
+        "example": "炎熱的天氣裡，微風令人神清氣爽。"
+      }
+    },
+    {
+      "word": "Refrigerated",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Kept cool or preserved in a refrigerator",
+      "example": "The refrigerated goods were delivered on time.",
+      "chinese": {
+        "meaning": "冷藏的",
+        "example": "冷藏貨物準時送達。"
+      }
+    },
+    {
+      "word": "Refutable",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Able to be proven false",
+      "example": "His argument was weak and easily refutable.",
+      "chinese": {
+        "meaning": "可反駁的",
+        "example": "他的論點薄弱且容易被反駁。"
+      }
+    },
+    {
       "word": "Regal",
       "type": "adjective",
       "letter": "R",
@@ -174,6 +680,72 @@
       "chinese": {
         "meaning": "帝王的；威嚴的",
         "example": "女王穿著皇家服飾看起來威嚴。"
+      }
+    },
+    {
+      "word": "Regarded",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Considered or thought of in a particular way",
+      "example": "She is highly regarded in the field of medicine.",
+      "chinese": {
+        "meaning": "受尊敬的",
+        "example": "她在醫學領域備受尊敬。"
+      }
+    },
+    {
+      "word": "Regenerate",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Renewed or restored to a better state",
+      "example": "The regenerate tissue healed quickly.",
+      "chinese": {
+        "meaning": "再生的",
+        "example": "再生的組織恢復得很快。"
+      }
+    },
+    {
+      "word": "Regional",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to a particular region or area",
+      "example": "The festival is a regional tradition.",
+      "chinese": {
+        "meaning": "地區的",
+        "example": "這個節日是地方的傳統。"
+      }
+    },
+    {
+      "word": "Registered",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Officially recorded or enrolled",
+      "example": "He is a registered nurse.",
+      "chinese": {
+        "meaning": "註冊的",
+        "example": "他是一名註冊護士。"
+      }
+    },
+    {
+      "word": "Regretful",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Feeling or showing sorrow or remorse",
+      "example": "She was regretful about the mistake.",
+      "chinese": {
+        "meaning": "懊悔的",
+        "example": "她對這個錯誤感到懊悔。"
+      }
+    },
+    {
+      "word": "Regrettable",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Causing regret; undesirable",
+      "example": "It was a regrettable incident.",
+      "chinese": {
+        "meaning": "令人遺憾的",
+        "example": "那是一件令人遺憾的事件。"
       }
     },
     {
@@ -188,6 +760,94 @@
       }
     },
     {
+      "word": "Regulated",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Controlled or managed by rules or laws",
+      "example": "The industry is heavily regulated.",
+      "chinese": {
+        "meaning": "受管制的",
+        "example": "該行業受到嚴格管制。"
+      }
+    },
+    {
+      "word": "Rehabilitated",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Restored to health, normal life, or good condition",
+      "example": "The rehabilitated building looks new again.",
+      "chinese": {
+        "meaning": "修復的；康復的",
+        "example": "修復後的建築物看起來煥然一新。"
+      }
+    },
+    {
+      "word": "Reinforced",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Strengthened or supported with additional material",
+      "example": "The reinforced concrete structure is very strong.",
+      "chinese": {
+        "meaning": "加固的",
+        "example": "加固的混凝土結構非常堅固。"
+      }
+    },
+    {
+      "word": "Related",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Connected by family or by a common factor",
+      "example": "The two subjects are closely related.",
+      "chinese": {
+        "meaning": "相關的",
+        "example": "這兩個科目密切相關。"
+      }
+    },
+    {
+      "word": "Relational",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Concerning the way in which things are connected",
+      "example": "Relational databases store information in tables.",
+      "chinese": {
+        "meaning": "關聯的",
+        "example": "關聯式資料庫將資訊存儲在表格中。"
+      }
+    },
+    {
+      "word": "Relative",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Considered in relation or proportion to something else",
+      "example": "The project was a relative success.",
+      "chinese": {
+        "meaning": "相對的",
+        "example": "這個項目算是相對成功。"
+      }
+    },
+    {
+      "word": "Relaxed",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Free from tension and anxiety",
+      "example": "He felt relaxed on vacation.",
+      "chinese": {
+        "meaning": "放鬆的",
+        "example": "度假時他感到很放鬆。"
+      }
+    },
+    {
+      "word": "Relaxing",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Providing rest or relief",
+      "example": "The music was very relaxing.",
+      "chinese": {
+        "meaning": "令人放鬆的",
+        "example": "這音樂讓人非常放鬆。"
+      }
+    },
+    {
       "word": "Relentless",
       "type": "adjective",
       "letter": "R",
@@ -196,6 +856,17 @@
       "chinese": {
         "meaning": "無情的；持續不斷的",
         "example": "持續不斷的雨水造成了該地區的洪水。"
+      }
+    },
+    {
+      "word": "Relevant",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Closely connected or appropriate to the matter at hand",
+      "example": "Please provide all relevant information.",
+      "chinese": {
+        "meaning": "相關的",
+        "example": "請提供所有相關信息。"
       }
     },
     {
@@ -210,6 +881,28 @@
       }
     },
     {
+      "word": "Relieved",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Free from worry or stress",
+      "example": "She felt relieved when the test was over.",
+      "chinese": {
+        "meaning": "如釋重負的",
+        "example": "考試結束後她感到如釋重負。"
+      }
+    },
+    {
+      "word": "Religious",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to or believing in a religion",
+      "example": "He leads a very religious life.",
+      "chinese": {
+        "meaning": "宗教的",
+        "example": "他過著非常虔誠的生活。"
+      }
+    },
+    {
       "word": "Reluctant",
       "type": "adjective",
       "letter": "R",
@@ -221,6 +914,17 @@
       }
     },
     {
+      "word": "Remaining",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Still existing or left over",
+      "example": "Please use the remaining time wisely.",
+      "chinese": {
+        "meaning": "剩下的",
+        "example": "請明智地利用剩餘的時間。"
+      }
+    },
+    {
       "word": "Remarkable",
       "type": "adjective",
       "letter": "R",
@@ -229,6 +933,28 @@
       "chinese": {
         "meaning": "非凡的；值得注意的",
         "example": "她非凡的成就為她贏得了獎項。"
+      }
+    },
+    {
+      "word": "Remedial",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Intended to correct or improve something",
+      "example": "He enrolled in a remedial math class.",
+      "chinese": {
+        "meaning": "補救的",
+        "example": "他參加了補救數學課。"
+      }
+    },
+    {
+      "word": "Reminiscent",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Tending to remind one of something",
+      "example": "The music is reminiscent of his childhood.",
+      "chinese": {
+        "meaning": "令人想起的",
+        "example": "這音樂令人想起他的童年。"
       }
     },
     {
@@ -254,6 +980,50 @@
       }
     },
     {
+      "word": "Removable",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Able to be taken off or separated",
+      "example": "The jacket has a removable hood.",
+      "chinese": {
+        "meaning": "可拆卸的",
+        "example": "這件夾克有可拆卸的帽子。"
+      }
+    },
+    {
+      "word": "Removed",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Separated from a place or situation",
+      "example": "She felt emotionally removed from the conflict.",
+      "chinese": {
+        "meaning": "遠離的",
+        "example": "她在情感上遠離了這場衝突。"
+      }
+    },
+    {
+      "word": "Rendered",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Depicted artistically or made in a certain way",
+      "example": "The building was beautifully rendered in the painting.",
+      "chinese": {
+        "meaning": "表現的；呈現的",
+        "example": "這幅畫中對建築的表現非常漂亮。"
+      }
+    },
+    {
+      "word": "Renewable",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Capable of being replaced naturally or by human effort",
+      "example": "Solar energy is a renewable resource.",
+      "chinese": {
+        "meaning": "可再生的",
+        "example": "太陽能是一種可再生資源。"
+      }
+    },
+    {
       "word": "Renewed",
       "type": "adjective",
       "letter": "R",
@@ -276,6 +1046,39 @@
       }
     },
     {
+      "word": "Reparative",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Serving to repair or restore",
+      "example": "The reparative treatment helped heal the damaged skin.",
+      "chinese": {
+        "meaning": "修復的",
+        "example": "修復性治療有助於治癒受損的皮膚。"
+      }
+    },
+    {
+      "word": "Repatriated",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Returned to one's own country",
+      "example": "The repatriated citizens were welcomed warmly.",
+      "chinese": {
+        "meaning": "被遣返的",
+        "example": "被遣返的公民受到了熱烈的歡迎。"
+      }
+    },
+    {
+      "word": "Repealed",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Revoked or annulled by authoritative action",
+      "example": "The repealed law is no longer in effect.",
+      "chinese": {
+        "meaning": "被廢除的",
+        "example": "被廢除的法律不再生效。"
+      }
+    },
+    {
       "word": "Repentant",
       "type": "adjective",
       "letter": "R",
@@ -284,6 +1087,138 @@
       "chinese": {
         "meaning": "懺悔的；悔過的",
         "example": "懺悔的罪犯為自己的行為道歉。"
+      }
+    },
+    {
+      "word": "Repetitive",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Characterized by repetition; monotonous",
+      "example": "The job was boring and repetitive.",
+      "chinese": {
+        "meaning": "重複的",
+        "example": "這工作枯燥且重複性高。"
+      }
+    },
+    {
+      "word": "Replaceable",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Capable of being replaced",
+      "example": "The device uses a replaceable battery.",
+      "chinese": {
+        "meaning": "可替換的",
+        "example": "這設備使用可替換電池。"
+      }
+    },
+    {
+      "word": "Replenished",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Refilled or made complete again",
+      "example": "The replenished stocks were ready for sale.",
+      "chinese": {
+        "meaning": "補充的",
+        "example": "補充的庫存已準備好出售。"
+      }
+    },
+    {
+      "word": "Reported",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Described or announced as having happened",
+      "example": "The reported incident caused public concern.",
+      "chinese": {
+        "meaning": "報告的；傳聞的",
+        "example": "被報導的事件引起了公眾關注。"
+      }
+    },
+    {
+      "word": "Reprehensible",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Deserving strong criticism or disapproval",
+      "example": "His reprehensible behavior shocked everyone.",
+      "chinese": {
+        "meaning": "應受譴責的",
+        "example": "他應受譴責的行為震驚了所有人。"
+      }
+    },
+    {
+      "word": "Representative",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Typical of a class or group",
+      "example": "This work is representative of her early style.",
+      "chinese": {
+        "meaning": "典型的",
+        "example": "這作品是她早期風格的典型代表。"
+      }
+    },
+    {
+      "word": "Represented",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Depicted or symbolized by someone or something",
+      "example": "The represented groups voiced their opinions.",
+      "chinese": {
+        "meaning": "被代表的",
+        "example": "被代表的群體表達了他們的意見。"
+      }
+    },
+    {
+      "word": "Repressed",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Held back or restrained; subdued",
+      "example": "He displayed repressed emotions during the meeting.",
+      "chinese": {
+        "meaning": "被壓抑的",
+        "example": "他在會議上表現出被壓抑的情緒。"
+      }
+    },
+    {
+      "word": "Reproductive",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to the process of reproduction",
+      "example": "The species has unique reproductive habits.",
+      "chinese": {
+        "meaning": "生殖的",
+        "example": "這物種有獨特的生殖習性。"
+      }
+    },
+    {
+      "word": "Reptilian",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to reptiles; resembling a reptile",
+      "example": "The reptilian creature moved slowly.",
+      "chinese": {
+        "meaning": "爬行動物的",
+        "example": "那爬行動物般的生物緩慢移動。"
+      }
+    },
+    {
+      "word": "Republican",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to a republic or its principles",
+      "example": "The country adopted a republican form of government.",
+      "chinese": {
+        "meaning": "共和的",
+        "example": "該國採取共和政體。"
+      }
+    },
+    {
+      "word": "Repugnant",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Extremely distasteful or unacceptable",
+      "example": "The idea was morally repugnant.",
+      "chinese": {
+        "meaning": "令人厭惡的",
+        "example": "這個想法在道德上令人厭惡。"
       }
     },
     {
@@ -298,6 +1233,116 @@
       }
     },
     {
+      "word": "Reputable",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having a good reputation",
+      "example": "They bought the product from a reputable dealer.",
+      "chinese": {
+        "meaning": "有聲譽的",
+        "example": "他們從一個有聲譽的經銷商那裡購買了產品。"
+      }
+    },
+    {
+      "word": "Reputed",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Said to be or believed to be",
+      "example": "He is a reputed expert in the field.",
+      "chinese": {
+        "meaning": "據說的；名聲好的",
+        "example": "他據說是該領域的專家。"
+      }
+    },
+    {
+      "word": "Required",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Necessary or compulsory",
+      "example": "A passport is required for international travel.",
+      "chinese": {
+        "meaning": "必需的",
+        "example": "國際旅行必須有護照。"
+      }
+    },
+    {
+      "word": "Requisite",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Required or necessary for a particular purpose",
+      "example": "He lacked the requisite skills for the job.",
+      "chinese": {
+        "meaning": "必要的",
+        "example": "他缺乏這份工作的必要技能。"
+      }
+    },
+    {
+      "word": "Resentful",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Feeling or expressing bitterness or indignation",
+      "example": "She was resentful of his success.",
+      "chinese": {
+        "meaning": "怨恨的",
+        "example": "她對他的成功感到怨恨。"
+      }
+    },
+    {
+      "word": "Reserved",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Slow to reveal emotions or opinions",
+      "example": "He is a quiet and reserved person.",
+      "chinese": {
+        "meaning": "矜持的",
+        "example": "他是一個安靜而矜持的人。"
+      }
+    },
+    {
+      "word": "Resident",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Living in a place for a prolonged period",
+      "example": "She is a resident doctor at the hospital.",
+      "chinese": {
+        "meaning": "居住的",
+        "example": "她是醫院的駐院醫生。"
+      }
+    },
+    {
+      "word": "Residential",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to where people live",
+      "example": "They moved to a quiet residential area.",
+      "chinese": {
+        "meaning": "住宅的",
+        "example": "他們搬到了一個安靜的住宅區。"
+      }
+    },
+    {
+      "word": "Residual",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Remaining after a process or event",
+      "example": "Residual effects of the medicine lasted for days.",
+      "chinese": {
+        "meaning": "殘留的",
+        "example": "藥物的殘留效應持續了好幾天。"
+      }
+    },
+    {
+      "word": "Resigned",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Accepting something unpleasant without protest",
+      "example": "He gave a resigned sigh.",
+      "chinese": {
+        "meaning": "認命的",
+        "example": "他無奈地嘆了口氣。"
+      }
+    },
+    {
       "word": "Resilient",
       "type": "adjective",
       "letter": "R",
@@ -306,6 +1351,28 @@
       "chinese": {
         "meaning": "有彈性的；適應力強的",
         "example": "孩子們通常有彈性，能迅速從挫折中恢復。"
+      }
+    },
+    {
+      "word": "Resistant",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Able to withstand or oppose something",
+      "example": "The material is resistant to water.",
+      "chinese": {
+        "meaning": "抗性的",
+        "example": "這種材料具有防水性。"
+      }
+    },
+    {
+      "word": "Resistible",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Capable of being resisted",
+      "example": "The temptation was easily resistible.",
+      "chinese": {
+        "meaning": "可抵抗的",
+        "example": "這誘惑很容易抵抗。"
       }
     },
     {
@@ -320,6 +1387,39 @@
       }
     },
     {
+      "word": "Resolved",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Firmly determined to do something",
+      "example": "She was resolved to complete the task.",
+      "chinese": {
+        "meaning": "堅決的",
+        "example": "她決心完成這個任務。"
+      }
+    },
+    {
+      "word": "Resonant",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Producing a deep, full, or reverberating sound",
+      "example": "His resonant voice filled the hall.",
+      "chinese": {
+        "meaning": "洪亮的",
+        "example": "他洪亮的聲音充滿了大廳。"
+      }
+    },
+    {
+      "word": "Resounding",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Very great or complete; echoing loudly",
+      "example": "The plan was a resounding success.",
+      "chinese": {
+        "meaning": "巨大的；迴響的",
+        "example": "該計劃取得了巨大的成功。"
+      }
+    },
+    {
       "word": "Resourceful",
       "type": "adjective",
       "letter": "R",
@@ -328,6 +1428,17 @@
       "chinese": {
         "meaning": "足智多謀的；機智的",
         "example": "他足智多謀，總能找到解決問題的方法。"
+      }
+    },
+    {
+      "word": "Respected",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Admired by many people for achievements or qualities",
+      "example": "He is a highly respected leader.",
+      "chinese": {
+        "meaning": "受尊敬的",
+        "example": "他是一位備受尊敬的領導人。"
       }
     },
     {
@@ -342,6 +1453,17 @@
       }
     },
     {
+      "word": "Respective",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Belonging separately to each of two or more people or things",
+      "example": "They returned to their respective homes.",
+      "chinese": {
+        "meaning": "各自的",
+        "example": "他們回到了各自的家中。"
+      }
+    },
+    {
       "word": "Responsible",
       "type": "adjective",
       "letter": "R",
@@ -350,6 +1472,39 @@
       "chinese": {
         "meaning": "負責任的；可靠的",
         "example": "她負責管理這個項目。"
+      }
+    },
+    {
+      "word": "Responsive",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Reacting quickly and positively",
+      "example": "The team was highly responsive to feedback.",
+      "chinese": {
+        "meaning": "反應靈敏的",
+        "example": "團隊對反饋反應非常靈敏。"
+      }
+    },
+    {
+      "word": "Rested",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Feeling refreshed after sleep or relaxation",
+      "example": "He felt well rested after the vacation.",
+      "chinese": {
+        "meaning": "休息好的",
+        "example": "度假後他感覺休息得很好。"
+      }
+    },
+    {
+      "word": "Restful",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Promoting or characterized by rest",
+      "example": "The restful environment helped her sleep well.",
+      "chinese": {
+        "meaning": "寧靜的",
+        "example": "寧靜的環境幫助她睡得很好。"
       }
     },
     {
@@ -364,6 +1519,468 @@
       }
     },
     {
+      "word": "Restored",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Brought back to a former condition or state",
+      "example": "The restored painting looked as good as new.",
+      "chinese": {
+        "meaning": "恢復的；修復的",
+        "example": "修復後的畫看起來像新的一樣。"
+      }
+    },
+    {
+      "word": "Restrained",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Characterized by self-control or moderation",
+      "example": "He gave a restrained response to the criticism.",
+      "chinese": {
+        "meaning": "克制的；節制的",
+        "example": "他對批評做出了克制的回應。"
+      }
+    },
+    {
+      "word": "Restricted",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Limited in extent, number, scope, or action",
+      "example": "Access to the area is restricted.",
+      "chinese": {
+        "meaning": "受限制的",
+        "example": "該區域的進入受到限制。"
+      }
+    },
+    {
+      "word": "Restrictive",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Imposing restrictions or limitations",
+      "example": "The new law is too restrictive.",
+      "chinese": {
+        "meaning": "限制性的",
+        "example": "新法律過於限制性。"
+      }
+    },
+    {
+      "word": "Resultant",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Occurring as a result or consequence",
+      "example": "The resultant damage was severe.",
+      "chinese": {
+        "meaning": "結果的",
+        "example": "由此造成的損害十分嚴重。"
+      }
+    },
+    {
+      "word": "Resulting",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Happening as a consequence of something",
+      "example": "The resulting confusion delayed the project.",
+      "chinese": {
+        "meaning": "隨之發生的",
+        "example": "隨之而來的混亂延誤了項目。"
+      }
+    },
+    {
+      "word": "Retained",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Kept in possession or use",
+      "example": "The retained earnings were reinvested in the business.",
+      "chinese": {
+        "meaning": "保留的",
+        "example": "保留盈餘被重新投資到業務中。"
+      }
+    },
+    {
+      "word": "Retarded",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Slowed or delayed in development or progress",
+      "example": "The retarded growth of the plants concerned the gardener.",
+      "chinese": {
+        "meaning": "發育遲緩的；延遲的",
+        "example": "植物生長遲緩令園丁擔心。"
+      }
+    },
+    {
+      "word": "Reticent",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Not revealing one's thoughts or feelings readily",
+      "example": "She was reticent about her personal life.",
+      "chinese": {
+        "meaning": "沉默寡言的",
+        "example": "她對自己的私生活保持沉默。"
+      }
+    },
+    {
+      "word": "Retired",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having left one's job and ceased working",
+      "example": "He is a retired teacher.",
+      "chinese": {
+        "meaning": "退休的",
+        "example": "他是一名退休教師。"
+      }
+    },
+    {
+      "word": "Retiring",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Shy and fond of being on one's own",
+      "example": "She has a retiring personality.",
+      "chinese": {
+        "meaning": "羞怯的；內向的",
+        "example": "她性格內向。"
+      }
+    },
+    {
+      "word": "Retracted",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Drawn back or withdrawn",
+      "example": "The retracted statement caused confusion.",
+      "chinese": {
+        "meaning": "收回的；撤回的",
+        "example": "收回的聲明引起了混亂。"
+      }
+    },
+    {
+      "word": "Retreating",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Moving back or withdrawing",
+      "example": "The retreating army left behind many supplies.",
+      "chinese": {
+        "meaning": "撤退的",
+        "example": "撤退的軍隊留下了許多物資。"
+      }
+    },
+    {
+      "word": "Retro",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Imitative of a style from the past",
+      "example": "She wore a retro dress from the 1970s.",
+      "chinese": {
+        "meaning": "復古的",
+        "example": "她穿了一件七十年代的復古裙子。"
+      }
+    },
+    {
+      "word": "Retroactive",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Applying to a period before enactment",
+      "example": "The retroactive law affected many cases.",
+      "chinese": {
+        "meaning": "追溯的",
+        "example": "追溯性的法律影響了許多案件。"
+      }
+    },
+    {
+      "word": "Retrograde",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Moving backward or returning to an earlier state",
+      "example": "The retrograde movement of the planet was observed.",
+      "chinese": {
+        "meaning": "倒退的",
+        "example": "觀測到行星的逆行運動。"
+      }
+    },
+    {
+      "word": "Retrospective",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Looking back on or dealing with past events",
+      "example": "The retrospective analysis revealed several mistakes.",
+      "chinese": {
+        "meaning": "回顧的",
+        "example": "回顧性分析揭示了幾個錯誤。"
+      }
+    },
+    {
+      "word": "Returning",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Coming back to a place or position",
+      "example": "The returning students were welcomed by the teachers.",
+      "chinese": {
+        "meaning": "回來的",
+        "example": "回來的學生受到了老師們的歡迎。"
+      }
+    },
+    {
+      "word": "Revealed",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Made known or shown openly",
+      "example": "The revealed secrets shocked the audience.",
+      "chinese": {
+        "meaning": "揭示的",
+        "example": "揭露的秘密震驚了觀眾。"
+      }
+    },
+    {
+      "word": "Revelatory",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Making something known or revealing something surprising",
+      "example": "Her book was deeply revelatory.",
+      "chinese": {
+        "meaning": "啟示性的",
+        "example": "她的書充滿啟示性。"
+      }
+    },
+    {
+      "word": "Revengeful",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Full of a desire for revenge",
+      "example": "The revengeful villain sought to harm everyone.",
+      "chinese": {
+        "meaning": "報復心強的",
+        "example": "心懷報復的反派試圖傷害所有人。"
+      }
+    },
+    {
+      "word": "Revered",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Deeply respected or admired",
+      "example": "The revered leader inspired the nation.",
+      "chinese": {
+        "meaning": "受尊敬的",
+        "example": "受尊敬的領袖鼓舞了全國。"
+      }
+    },
+    {
+      "word": "Reverent",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Showing deep respect",
+      "example": "The audience gave a reverent silence.",
+      "chinese": {
+        "meaning": "恭敬的",
+        "example": "觀眾保持著恭敬的安靜。"
+      }
+    },
+    {
+      "word": "Reverse",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Opposite in direction, position, or meaning",
+      "example": "They traveled in the reverse direction.",
+      "chinese": {
+        "meaning": "相反的",
+        "example": "他們朝相反的方向旅行。"
+      }
+    },
+    {
+      "word": "Reversed",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Turned backward or changed to the opposite",
+      "example": "The reversed decision surprised everyone.",
+      "chinese": {
+        "meaning": "被逆轉的",
+        "example": "被逆轉的決定讓所有人驚訝。"
+      }
+    },
+    {
+      "word": "Reversible",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Capable of being reversed or undone",
+      "example": "The jacket is reversible with two colors.",
+      "chinese": {
+        "meaning": "可逆的；可翻轉的",
+        "example": "這件夾克是雙面可穿的。"
+      }
+    },
+    {
+      "word": "Revised",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Updated or improved by making changes",
+      "example": "The revised edition includes new chapters.",
+      "chinese": {
+        "meaning": "修訂的",
+        "example": "修訂版包含新的章節。"
+      }
+    },
+    {
+      "word": "Revitalized",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Given new life or energy",
+      "example": "The revitalized city attracted many tourists.",
+      "chinese": {
+        "meaning": "復興的；振興的",
+        "example": "振興的城市吸引了許多遊客。"
+      }
+    },
+    {
+      "word": "Revived",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Brought back to life or consciousness",
+      "example": "The revived traditions enriched the festival.",
+      "chinese": {
+        "meaning": "復興的；復活的",
+        "example": "復興的傳統使節日更加豐富。"
+      }
+    },
+    {
+      "word": "Revolting",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Causing intense disgust",
+      "example": "The revolting smell made her gag.",
+      "chinese": {
+        "meaning": "令人作嘔的",
+        "example": "令人作嘔的氣味讓她作嘔。"
+      }
+    },
+    {
+      "word": "Revolutionary",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Involving or causing a complete change",
+      "example": "The invention was revolutionary in its impact.",
+      "chinese": {
+        "meaning": "革命性的",
+        "example": "這項發明的影響是革命性的。"
+      }
+    },
+    {
+      "word": "Rewarding",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Providing satisfaction or benefit",
+      "example": "Teaching is a rewarding career.",
+      "chinese": {
+        "meaning": "有回報的；值得的",
+        "example": "教學是一份有回報的職業。"
+      }
+    },
+    {
+      "word": "Rhetorical",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to the art of rhetoric or persuasion",
+      "example": "He asked a rhetorical question.",
+      "chinese": {
+        "meaning": "修辭的",
+        "example": "他問了一個修辭性問題。"
+      }
+    },
+    {
+      "word": "Rheumatoid",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to or affected by rheumatoid arthritis",
+      "example": "She suffers from rheumatoid arthritis.",
+      "chinese": {
+        "meaning": "類風濕的",
+        "example": "她患有類風濕性關節炎。"
+      }
+    },
+    {
+      "word": "Rhythmic",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having or relating to rhythm",
+      "example": "The rhythmic beat of the drums was mesmerizing.",
+      "chinese": {
+        "meaning": "有節奏的",
+        "example": "鼓聲的節奏令人著迷。"
+      }
+    },
+    {
+      "word": "Ribbed",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Marked with or having ribs or ridges",
+      "example": "The ribbed sweater is very warm.",
+      "chinese": {
+        "meaning": "有肋紋的",
+        "example": "這件羅紋毛衣非常保暖。"
+      }
+    },
+    {
+      "word": "Rich",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having abundant possessions and resources",
+      "example": "He became rich from his investments.",
+      "chinese": {
+        "meaning": "富有的",
+        "example": "他通過投資致富。"
+      }
+    },
+    {
+      "word": "Ridiculous",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Deserving or inviting mockery or derision",
+      "example": "The idea was completely ridiculous.",
+      "chinese": {
+        "meaning": "荒謬的",
+        "example": "這個想法完全荒謬。"
+      }
+    },
+    {
+      "word": "Rife",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Widespread, especially of something undesirable",
+      "example": "Corruption was rife in the old government.",
+      "chinese": {
+        "meaning": "盛行的",
+        "example": "舊政府貪污盛行。"
+      }
+    },
+    {
+      "word": "Right",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Morally good, justified, or acceptable",
+      "example": "He made the right decision.",
+      "chinese": {
+        "meaning": "正確的",
+        "example": "他做出了正確的決定。"
+      }
+    },
+    {
+      "word": "Righteous",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Morally right or justifiable",
+      "example": "She felt righteous anger about the injustice.",
+      "chinese": {
+        "meaning": "正義的",
+        "example": "她對這種不公正感到義憤。"
+      }
+    },
+    {
+      "word": "Rightful",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having a legitimate right or claim",
+      "example": "He is the rightful heir to the throne.",
+      "chinese": {
+        "meaning": "合法的；正當的",
+        "example": "他是王位的合法繼承人。"
+      }
+    },
+    {
       "word": "Rigid",
       "type": "adjective",
       "letter": "R",
@@ -372,6 +1989,39 @@
       "chinese": {
         "meaning": "僵硬的；嚴格的",
         "example": "公司對出勤有嚴格的規定。"
+      }
+    },
+    {
+      "word": "Rigorous",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Extremely thorough and careful",
+      "example": "The training program is very rigorous.",
+      "chinese": {
+        "meaning": "嚴格的",
+        "example": "訓練計劃非常嚴格。"
+      }
+    },
+    {
+      "word": "Ripe",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Fully developed and ready to be eaten or used",
+      "example": "The ripe fruit fell from the tree.",
+      "chinese": {
+        "meaning": "成熟的",
+        "example": "成熟的水果從樹上掉下來。"
+      }
+    },
+    {
+      "word": "Rising",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Going up, increasing, or growing stronger",
+      "example": "The rising sun lit up the sky.",
+      "chinese": {
+        "meaning": "上升的",
+        "example": "冉冉升起的太陽照亮了天空。"
       }
     },
     {
@@ -386,6 +2036,50 @@
       }
     },
     {
+      "word": "Ritual",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Related to or done as a religious or solemn ceremony",
+      "example": "They performed the ritual dance.",
+      "chinese": {
+        "meaning": "儀式的",
+        "example": "他們表演了儀式舞蹈。"
+      }
+    },
+    {
+      "word": "Ritualistic",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to or characteristic of rituals",
+      "example": "The event was highly ritualistic.",
+      "chinese": {
+        "meaning": "儀式化的",
+        "example": "該活動高度儀式化。"
+      }
+    },
+    {
+      "word": "Rival",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Competing with another",
+      "example": "The two rival companies are fighting for market share.",
+      "chinese": {
+        "meaning": "競爭的",
+        "example": "兩家競爭公司正在爭奪市場份額。"
+      }
+    },
+    {
+      "word": "Roaring",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Making a loud, deep sound",
+      "example": "The roaring lion frightened the children.",
+      "chinese": {
+        "meaning": "咆哮的",
+        "example": "咆哮的獅子嚇壞了孩子們。"
+      }
+    },
+    {
       "word": "Robust",
       "type": "adjective",
       "letter": "R",
@@ -394,6 +2088,94 @@
       "chinese": {
         "meaning": "強健的；穩固的",
         "example": "這座橋被建造得堅固耐用，能抵禦風暴。"
+      }
+    },
+    {
+      "word": "Rocky",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Covered with or full of rocks",
+      "example": "They hiked through the rocky terrain.",
+      "chinese": {
+        "meaning": "多岩石的",
+        "example": "他們徒步穿越多岩石的地形。"
+      }
+    },
+    {
+      "word": "Roguish",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Characteristic of a dishonest or mischievous person",
+      "example": "He gave a roguish smile.",
+      "chinese": {
+        "meaning": "淘氣的；無賴的",
+        "example": "他露出了淘氣的笑容。"
+      }
+    },
+    {
+      "word": "Roman",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to ancient Rome or its people",
+      "example": "They studied Roman architecture.",
+      "chinese": {
+        "meaning": "羅馬的",
+        "example": "他們研究羅馬建築。"
+      }
+    },
+    {
+      "word": "Romanian",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Relating to Romania or its people",
+      "example": "They enjoyed Romanian cuisine.",
+      "chinese": {
+        "meaning": "羅馬尼亞的",
+        "example": "他們喜歡羅馬尼亞菜。"
+      }
+    },
+    {
+      "word": "Romantic",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Conducive to or characterized by romance",
+      "example": "They had a romantic dinner by candlelight.",
+      "chinese": {
+        "meaning": "浪漫的",
+        "example": "他們享受了一頓燭光浪漫晚餐。"
+      }
+    },
+    {
+      "word": "Rooted",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Deeply established or firmly fixed",
+      "example": "She has a rooted belief in justice.",
+      "chinese": {
+        "meaning": "根深蒂固的",
+        "example": "她有一種根深蒂固的正義信念。"
+      }
+    },
+    {
+      "word": "Rose",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having a pinkish-red color",
+      "example": "She wore a rose dress to the party.",
+      "chinese": {
+        "meaning": "玫瑰色的",
+        "example": "她穿了一件玫瑰色的裙子參加派對。"
+      }
+    },
+    {
+      "word": "Rosy",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having a pinkish color or being hopeful",
+      "example": "The future looks rosy for the company.",
+      "chinese": {
+        "meaning": "玫瑰色的；美好的",
+        "example": "公司的未來看起來很美好。"
       }
     },
     {
@@ -430,6 +2212,50 @@
       }
     },
     {
+      "word": "Rounded",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having a smooth curved shape",
+      "example": "The rounded corners made the design softer.",
+      "chinese": {
+        "meaning": "圓形的",
+        "example": "圓角讓設計更柔和。"
+      }
+    },
+    {
+      "word": "Routine",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Performed as part of a regular procedure",
+      "example": "The doctor performed a routine check-up.",
+      "chinese": {
+        "meaning": "例行的",
+        "example": "醫生進行了例行檢查。"
+      }
+    },
+    {
+      "word": "Roving",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Traveling from place to place without a fixed route",
+      "example": "They led a roving lifestyle.",
+      "chinese": {
+        "meaning": "流浪的",
+        "example": "他們過著流浪的生活。"
+      }
+    },
+    {
+      "word": "Rowdy",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Noisy and disorderly",
+      "example": "The rowdy crowd disrupted the event.",
+      "chinese": {
+        "meaning": "吵鬧的",
+        "example": "吵鬧的人群擾亂了活動。"
+      }
+    },
+    {
       "word": "Royal",
       "type": "adjective",
       "letter": "R",
@@ -441,6 +2267,28 @@
       }
     },
     {
+      "word": "Rubbery",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having a texture resembling rubber",
+      "example": "The meat was overcooked and rubbery.",
+      "chinese": {
+        "meaning": "橡膠般的",
+        "example": "肉煮得過熟，變得像橡膠一樣。"
+      }
+    },
+    {
+      "word": "Ruddy",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having a healthy red color",
+      "example": "His ruddy cheeks glowed in the cold.",
+      "chinese": {
+        "meaning": "紅潤的",
+        "example": "他紅潤的臉頰在寒冷中閃閃發光。"
+      }
+    },
+    {
       "word": "Rude",
       "type": "adjective",
       "letter": "R",
@@ -449,6 +2297,72 @@
       "chinese": {
         "meaning": "粗魯的；無禮的",
         "example": "打斷別人說話是不禮貌的。"
+      }
+    },
+    {
+      "word": "Ruffled",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having decorative frills or being disturbed",
+      "example": "She wore a ruffled blouse.",
+      "chinese": {
+        "meaning": "有褶邊的；不安的",
+        "example": "她穿著一件有褶邊的襯衫。"
+      }
+    },
+    {
+      "word": "Rugged",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Having a rough or uneven surface",
+      "example": "The hikers explored the rugged mountains.",
+      "chinese": {
+        "meaning": "崎嶇的",
+        "example": "徒步旅行者探索了崎嶇的山脈。"
+      }
+    },
+    {
+      "word": "Ruined",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Destroyed or severely damaged",
+      "example": "The ruined castle was a tourist attraction.",
+      "chinese": {
+        "meaning": "毀壞的",
+        "example": "被毀壞的城堡成了旅遊景點。"
+      }
+    },
+    {
+      "word": "Ruling",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Currently exercising authority or power",
+      "example": "The ruling party announced new reforms.",
+      "chinese": {
+        "meaning": "執政的",
+        "example": "執政黨宣布了新的改革。"
+      }
+    },
+    {
+      "word": "Rumbling",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Making a deep, continuous sound",
+      "example": "The rumbling thunder scared the dog.",
+      "chinese": {
+        "meaning": "隆隆作響的",
+        "example": "隆隆的雷聲嚇壞了狗。"
+      }
+    },
+    {
+      "word": "Ruminative",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Deeply or seriously thoughtful",
+      "example": "He had a ruminative expression on his face.",
+      "chinese": {
+        "meaning": "沉思的",
+        "example": "他臉上露出沉思的表情。"
       }
     },
     {
@@ -471,6 +2385,17 @@
       "chinese": {
         "meaning": "鄉村風格的；質樸的",
         "example": "小屋有著木製家具的質樸魅力。"
+      }
+    },
+    {
+      "word": "Rusty",
+      "type": "adjective",
+      "letter": "R",
+      "meaning": "Covered with rust or impaired by lack of practice",
+      "example": "My French is a bit rusty.",
+      "chinese": {
+        "meaning": "生鏽的；生疏的",
+        "example": "我的法語有點生疏了。"
       }
     },
     {

@@ -1,6 +1,17 @@
 {
   "words": [
     {
+      "word": "Tabby",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having a distinctive striped or brindled coat pattern, typically of a cat",
+      "example": "The tabby cat slept peacefully on the sofa.",
+      "chinese": {
+        "meaning": "有斑紋的（通常指貓）",
+        "example": "那隻斑紋貓安靜地睡在沙發上。"
+      }
+    },
+    {
       "word": "Tacit",
       "type": "adjective",
       "letter": "T",
@@ -23,6 +34,17 @@
       }
     },
     {
+      "word": "Tactical",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to careful planning or strategy to achieve a goal",
+      "example": "They made a tactical decision to delay the launch.",
+      "chinese": {
+        "meaning": "戰術的；策略的",
+        "example": "他們作出策略決定延遲發布。"
+      }
+    },
+    {
       "word": "Tactile",
       "type": "adjective",
       "letter": "T",
@@ -31,6 +53,17 @@
       "chinese": {
         "meaning": "觸覺的",
         "example": "這種織物有令人愉悅的觸感。"
+      }
+    },
+    {
+      "word": "Tailored",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Custom-made or adapted for a particular purpose or person",
+      "example": "She wore a beautifully tailored suit.",
+      "chinese": {
+        "meaning": "量身定制的",
+        "example": "她穿著一套漂亮的定制西裝。"
       }
     },
     {
@@ -45,6 +78,61 @@
       }
     },
     {
+      "word": "Talented",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having a natural aptitude or skill",
+      "example": "He is a talented musician.",
+      "chinese": {
+        "meaning": "有天賦的",
+        "example": "他是一位有天賦的音樂家。"
+      }
+    },
+    {
+      "word": "Talkative",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Fond of or given to talking a lot",
+      "example": "The talkative child kept everyone entertained.",
+      "chinese": {
+        "meaning": "愛說話的",
+        "example": "那個愛說話的孩子讓大家都很開心。"
+      }
+    },
+    {
+      "word": "Tall",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Of great or more than average height",
+      "example": "He is taller than his brother.",
+      "chinese": {
+        "meaning": "高的",
+        "example": "他比他哥哥高。"
+      }
+    },
+    {
+      "word": "Tame",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Domesticated or not dangerous; submissive",
+      "example": "The tame bird sat on her shoulder.",
+      "chinese": {
+        "meaning": "馴服的",
+        "example": "那隻馴服的小鳥停在她的肩膀上。"
+      }
+    },
+    {
+      "word": "Tangential",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Only slightly related to the main topic",
+      "example": "His remarks were tangential to the discussion.",
+      "chinese": {
+        "meaning": "離題的",
+        "example": "他的言論與討論主題只有些許關聯。"
+      }
+    },
+    {
       "word": "Tangible",
       "type": "adjective",
       "letter": "T",
@@ -53,6 +141,28 @@
       "chinese": {
         "meaning": "可觸摸的，明確的",
         "example": "房間裡有明顯的鬆一口氣的感覺。"
+      }
+    },
+    {
+      "word": "Tangled",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Twisted together and hard to separate",
+      "example": "Her hair was tangled after the windy day.",
+      "chinese": {
+        "meaning": "糾纏的",
+        "example": "風吹過後，她的頭髮糾纏在一起。"
+      }
+    },
+    {
+      "word": "Tanned",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having skin darkened from sun exposure",
+      "example": "He returned from vacation with a tanned complexion.",
+      "chinese": {
+        "meaning": "曬黑的",
+        "example": "他度假回來皮膚曬黑了。"
       }
     },
     {
@@ -67,6 +177,17 @@
       }
     },
     {
+      "word": "Tapered",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Gradually becoming narrower or thinner at one end",
+      "example": "The candle has a tapered design.",
+      "chinese": {
+        "meaning": "逐漸變細的",
+        "example": "這支蠟燭的設計逐漸變細。"
+      }
+    },
+    {
       "word": "Tardy",
       "type": "adjective",
       "letter": "T",
@@ -75,6 +196,17 @@
       "chinese": {
         "meaning": "遲到的，延誤的",
         "example": "他遲交了作業。"
+      }
+    },
+    {
+      "word": "Targeted",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Directed at a specific object, group, or goal",
+      "example": "They launched a targeted campaign for young consumers.",
+      "chinese": {
+        "meaning": "有針對性的",
+        "example": "他們針對年輕消費者開展了有針對性的活動。"
       }
     },
     {
@@ -100,6 +232,50 @@
       }
     },
     {
+      "word": "Tasteful",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Showing good aesthetic judgment or refinement",
+      "example": "The room was decorated in a tasteful manner.",
+      "chinese": {
+        "meaning": "高雅的",
+        "example": "這間房間裝飾得很高雅。"
+      }
+    },
+    {
+      "word": "Tasteless",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Lacking flavor or aesthetic appeal",
+      "example": "The soup was bland and tasteless.",
+      "chinese": {
+        "meaning": "無味的；不雅的",
+        "example": "這碗湯很淡，沒有味道。"
+      }
+    },
+    {
+      "word": "Tasty",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having a good flavor; delicious",
+      "example": "The pizza was really tasty.",
+      "chinese": {
+        "meaning": "美味的",
+        "example": "這個比薩很好吃。"
+      }
+    },
+    {
+      "word": "Tattered",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Old and torn; in poor condition",
+      "example": "He wore a tattered old jacket.",
+      "chinese": {
+        "meaning": "破爛的",
+        "example": "他穿著一件破舊的外套。"
+      }
+    },
+    {
       "word": "Taut",
       "type": "adjective",
       "letter": "T",
@@ -108,6 +284,72 @@
       "chinese": {
         "meaning": "繃緊的，緊張的",
         "example": "繩子被拉得繃緊。"
+      }
+    },
+    {
+      "word": "Taxable",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Subject to being taxed",
+      "example": "The company reported its taxable income.",
+      "chinese": {
+        "meaning": "應納稅的",
+        "example": "公司報告了其應納稅收入。"
+      }
+    },
+    {
+      "word": "Taxing",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Physically or mentally demanding",
+      "example": "The work was extremely taxing.",
+      "chinese": {
+        "meaning": "繁重的",
+        "example": "這項工作非常繁重。"
+      }
+    },
+    {
+      "word": "Teachable",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Capable of being taught or willing to learn",
+      "example": "She is a teachable student who improves quickly.",
+      "chinese": {
+        "meaning": "可教的；願意學習的",
+        "example": "她是一個可教的學生，進步很快。"
+      }
+    },
+    {
+      "word": "Tearful",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Crying or likely to cry",
+      "example": "She gave a tearful goodbye to her friends.",
+      "chinese": {
+        "meaning": "含淚的",
+        "example": "她含淚向朋友告別。"
+      }
+    },
+    {
+      "word": "Teased",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Mocked or made fun of; provoked playfully",
+      "example": "He felt hurt after being teased by his classmates.",
+      "chinese": {
+        "meaning": "被取笑的",
+        "example": "他被同學取笑後感到很受傷。"
+      }
+    },
+    {
+      "word": "Technical",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to a particular subject, art, or craft, or its techniques",
+      "example": "She has strong technical skills in coding.",
+      "chinese": {
+        "meaning": "技術的",
+        "example": "她在編碼方面有很強的技術能力。"
       }
     },
     {
@@ -122,6 +364,72 @@
       }
     },
     {
+      "word": "Teeming",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Full of or swarming with something",
+      "example": "The forest is teeming with wildlife.",
+      "chinese": {
+        "meaning": "充滿的",
+        "example": "這片森林充滿了野生動物。"
+      }
+    },
+    {
+      "word": "Teen",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to teenagers",
+      "example": "The magazine targets the teen market.",
+      "chinese": {
+        "meaning": "青少年的",
+        "example": "這本雜誌針對青少年市場。"
+      }
+    },
+    {
+      "word": "Teenage",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to people aged 13 to 19",
+      "example": "Teenage students often face peer pressure.",
+      "chinese": {
+        "meaning": "青少年的",
+        "example": "青少年學生經常面臨同輩壓力。"
+      }
+    },
+    {
+      "word": "Teeny",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Very small; tiny",
+      "example": "She wore a teeny hat on her head.",
+      "chinese": {
+        "meaning": "極小的",
+        "example": "她頭上戴著一頂極小的帽子。"
+      }
+    },
+    {
+      "word": "Teeny-tiny",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Extremely small",
+      "example": "The baby held a teeny-tiny spoon.",
+      "chinese": {
+        "meaning": "極其微小的",
+        "example": "那個嬰兒拿著一個極小的勺子。"
+      }
+    },
+    {
+      "word": "Teleological",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to the explanation of phenomena by the purpose they serve",
+      "example": "The theory is based on a teleological argument.",
+      "chinese": {
+        "meaning": "目的論的",
+        "example": "該理論基於目的論的論點。"
+      }
+    },
+    {
       "word": "Temerarious",
       "type": "adjective",
       "letter": "T",
@@ -130,6 +438,17 @@
       "chinese": {
         "meaning": "魯莽的，大膽冒險的",
         "example": "他的魯莽決定導致了意想不到的後果。"
+      }
+    },
+    {
+      "word": "Temperamental",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Unpredictable in mood or behavior",
+      "example": "The artist is known to be temperamental.",
+      "chinese": {
+        "meaning": "喜怒無常的",
+        "example": "那位藝術家以喜怒無常著稱。"
       }
     },
     {
@@ -144,6 +463,17 @@
       }
     },
     {
+      "word": "Tempered",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Moderated or adjusted; having a specified temper",
+      "example": "His optimism was tempered by caution.",
+      "chinese": {
+        "meaning": "經過調整的；緩和的",
+        "example": "他的樂觀被謹慎所緩和。"
+      }
+    },
+    {
       "word": "Tempestuous",
       "type": "adjective",
       "letter": "T",
@@ -152,6 +482,39 @@
       "chinese": {
         "meaning": "狂暴的，劇烈的",
         "example": "他們有一段激烈的關係。"
+      }
+    },
+    {
+      "word": "Temporal",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to worldly as opposed to spiritual affairs; relating to time",
+      "example": "The ruler had temporal power over the land.",
+      "chinese": {
+        "meaning": "世俗的；時間的",
+        "example": "統治者對土地擁有世俗權力。"
+      }
+    },
+    {
+      "word": "Temporary",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Lasting for only a limited period of time",
+      "example": "She found a temporary job for the summer.",
+      "chinese": {
+        "meaning": "臨時的",
+        "example": "她找到了一份暑期臨時工作。"
+      }
+    },
+    {
+      "word": "Tempted",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having a desire to do something, often something wrong or unwise",
+      "example": "He was tempted to eat the entire cake.",
+      "chinese": {
+        "meaning": "受誘惑的",
+        "example": "他受到誘惑想吃掉整個蛋糕。"
       }
     },
     {
@@ -188,6 +551,17 @@
       }
     },
     {
+      "word": "Tenderhearted",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Easily moved by sympathy or compassion",
+      "example": "She is tenderhearted and always willing to help.",
+      "chinese": {
+        "meaning": "心腸柔軟的",
+        "example": "她心腸柔軟，總是樂於助人。"
+      }
+    },
+    {
       "word": "Tense",
       "type": "adjective",
       "letter": "T",
@@ -210,6 +584,28 @@
       }
     },
     {
+      "word": "Tenth",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Constituting number ten in a sequence",
+      "example": "She finished in tenth place.",
+      "chinese": {
+        "meaning": "第十的",
+        "example": "她獲得了第十名。"
+      }
+    },
+    {
+      "word": "Tenuous",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Very weak or slight",
+      "example": "The connection between the two cases is tenuous.",
+      "chinese": {
+        "meaning": "脆弱的；微弱的",
+        "example": "這兩個案件之間的聯繫非常脆弱。"
+      }
+    },
+    {
       "word": "Tepid",
       "type": "adjective",
       "letter": "T",
@@ -218,6 +614,50 @@
       "chinese": {
         "meaning": "微溫的，不熱情的",
         "example": "觀眾對演講反應冷淡。"
+      }
+    },
+    {
+      "word": "Terminal",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to an end or final stage",
+      "example": "He was diagnosed with a terminal illness.",
+      "chinese": {
+        "meaning": "末期的",
+        "example": "他被診斷出患有末期疾病。"
+      }
+    },
+    {
+      "word": "Terminated",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Brought to an end",
+      "example": "The contract was terminated early.",
+      "chinese": {
+        "meaning": "被終止的",
+        "example": "合同被提前終止。"
+      }
+    },
+    {
+      "word": "Terrestrial",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to the Earth or land",
+      "example": "Terrestrial animals live on land.",
+      "chinese": {
+        "meaning": "陸地的；地球的",
+        "example": "陸生動物生活在陸地上。"
+      }
+    },
+    {
+      "word": "Terrible",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Very bad or unpleasant",
+      "example": "The weather was terrible yesterday.",
+      "chinese": {
+        "meaning": "糟糕的",
+        "example": "昨天的天氣非常糟糕。"
       }
     },
     {
@@ -232,6 +672,72 @@
       }
     },
     {
+      "word": "Terrified",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Extremely scared",
+      "example": "She was terrified of the dark.",
+      "chinese": {
+        "meaning": "極度害怕的",
+        "example": "她非常害怕黑暗。"
+      }
+    },
+    {
+      "word": "Terrifying",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Causing extreme fear",
+      "example": "It was a terrifying experience.",
+      "chinese": {
+        "meaning": "令人恐懼的",
+        "example": "那是一個令人恐懼的經歷。"
+      }
+    },
+    {
+      "word": "Territorial",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to the ownership or control of land or territory",
+      "example": "The animal is highly territorial.",
+      "chinese": {
+        "meaning": "領地的",
+        "example": "這種動物有很強的領地意識。"
+      }
+    },
+    {
+      "word": "Tested",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Tried or examined for quality or performance",
+      "example": "The tested product met all standards.",
+      "chinese": {
+        "meaning": "經過測試的",
+        "example": "經過測試的產品符合所有標準。"
+      }
+    },
+    {
+      "word": "Testicular",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to the testicles",
+      "example": "He was diagnosed with testicular cancer.",
+      "chinese": {
+        "meaning": "睪丸的",
+        "example": "他被診斷出患有睪丸癌。"
+      }
+    },
+    {
+      "word": "Testimonial",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Serving as a tribute or evidence",
+      "example": "The book is a testimonial to his dedication.",
+      "chinese": {
+        "meaning": "證明的；頌揚的",
+        "example": "這本書是他奉獻精神的證明。"
+      }
+    },
+    {
       "word": "Testy",
       "type": "adjective",
       "letter": "T",
@@ -240,6 +746,39 @@
       "chinese": {
         "meaning": "易怒的，暴躁的",
         "example": "當被問太多問題時，他變得暴躁。"
+      }
+    },
+    {
+      "word": "Texan",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to the state of Texas or its people",
+      "example": "He loves Texan cuisine.",
+      "chinese": {
+        "meaning": "德州的",
+        "example": "他喜歡德州的美食。"
+      }
+    },
+    {
+      "word": "Textile",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to fabric or cloth",
+      "example": "The city is known for its textile industry.",
+      "chinese": {
+        "meaning": "紡織的",
+        "example": "這個城市以紡織業聞名。"
+      }
+    },
+    {
+      "word": "Textual",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to a text or texts",
+      "example": "The teacher provided a textual analysis.",
+      "chinese": {
+        "meaning": "文本的",
+        "example": "老師提供了文本分析。"
       }
     },
     {
@@ -254,6 +793,72 @@
       }
     },
     {
+      "word": "Theatrical",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to theater or drama; exaggerated",
+      "example": "She made a theatrical entrance.",
+      "chinese": {
+        "meaning": "戲劇的；誇張的",
+        "example": "她以戲劇化的方式入場。"
+      }
+    },
+    {
+      "word": "Thematic",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to a theme or themes",
+      "example": "The thematic focus of the novel is freedom.",
+      "chinese": {
+        "meaning": "主題的",
+        "example": "這本小說的主題焦點是自由。"
+      }
+    },
+    {
+      "word": "Theological",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to the study of theology or religion",
+      "example": "He is a theological scholar.",
+      "chinese": {
+        "meaning": "神學的",
+        "example": "他是一位神學學者。"
+      }
+    },
+    {
+      "word": "Theoretical",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Based on theory rather than practice",
+      "example": "The idea is purely theoretical at this stage.",
+      "chinese": {
+        "meaning": "理論的",
+        "example": "這個想法在此階段純屬理論。"
+      }
+    },
+    {
+      "word": "Therapeutic",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having healing properties",
+      "example": "Massage can be very therapeutic.",
+      "chinese": {
+        "meaning": "治療的",
+        "example": "按摩對身心非常有療效。"
+      }
+    },
+    {
+      "word": "Thermal",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to heat",
+      "example": "They installed thermal insulation in the walls.",
+      "chinese": {
+        "meaning": "熱的",
+        "example": "他們在牆壁中安裝了隔熱層。"
+      }
+    },
+    {
       "word": "Thick",
       "type": "adjective",
       "letter": "T",
@@ -262,6 +867,28 @@
       "chinese": {
         "meaning": "厚的、濃的",
         "example": "這本書的紙很厚。"
+      }
+    },
+    {
+      "word": "Thicker",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having more thickness",
+      "example": "This coat is thicker than the other one.",
+      "chinese": {
+        "meaning": "更厚的",
+        "example": "這件外套比另一件更厚。"
+      }
+    },
+    {
+      "word": "Thievish",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Characteristic of or resembling a thief",
+      "example": "The thievish look in his eyes made her suspicious.",
+      "chinese": {
+        "meaning": "小偷般的",
+        "example": "他眼中的賊樣讓她起了疑心。"
       }
     },
     {
@@ -276,6 +903,83 @@
       }
     },
     {
+      "word": "Third",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Constituting number three in a sequence",
+      "example": "She finished in third place.",
+      "chinese": {
+        "meaning": "第三的",
+        "example": "她獲得了第三名。"
+      }
+    },
+    {
+      "word": "Thirsty",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Feeling a need for drink; craving",
+      "example": "After the run, he was very thirsty.",
+      "chinese": {
+        "meaning": "口渴的；渴望的",
+        "example": "跑步後他非常口渴。"
+      }
+    },
+    {
+      "word": "Thirteen",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Constituting number thirteen in a sequence",
+      "example": "She is thirteen years old.",
+      "chinese": {
+        "meaning": "十三的",
+        "example": "她十三歲。"
+      }
+    },
+    {
+      "word": "Thirteenth",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Constituting number thirteen in a sequence",
+      "example": "He was born on the thirteenth day of the month.",
+      "chinese": {
+        "meaning": "第十三的",
+        "example": "他出生在本月第十三天。"
+      }
+    },
+    {
+      "word": "Thirty",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Constituting number thirty in a sequence",
+      "example": "She celebrated her thirty birthday last week.",
+      "chinese": {
+        "meaning": "三十的",
+        "example": "她上週慶祝了三十歲生日。"
+      }
+    },
+    {
+      "word": "Thoracic",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to the chest or thorax",
+      "example": "He suffered a thoracic injury in the accident.",
+      "chinese": {
+        "meaning": "胸部的",
+        "example": "他在事故中胸部受傷。"
+      }
+    },
+    {
+      "word": "Thorny",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Full of difficulties or covered with thorns",
+      "example": "This is a thorny issue to resolve.",
+      "chinese": {
+        "meaning": "棘手的；多刺的",
+        "example": "這是一個棘手的問題需要解決。"
+      }
+    },
+    {
       "word": "Thorough",
       "type": "adjective",
       "letter": "T",
@@ -284,6 +988,83 @@
       "chinese": {
         "meaning": "徹底的，全面的",
         "example": "他做了徹底的調查。"
+      }
+    },
+    {
+      "word": "Thoughtful",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Showing consideration for others; reflective",
+      "example": "She is a thoughtful person who always helps others.",
+      "chinese": {
+        "meaning": "體貼的；深思的",
+        "example": "她是一個體貼的人，總是幫助別人。"
+      }
+    },
+    {
+      "word": "Thoughtless",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Without consideration for others; careless",
+      "example": "It was thoughtless of him to say that.",
+      "chinese": {
+        "meaning": "不體貼的；欠考慮的",
+        "example": "他說那話真是不體貼。"
+      }
+    },
+    {
+      "word": "Thousand",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Constituting number one thousand in a sequence or amount",
+      "example": "A thousand people attended the concert.",
+      "chinese": {
+        "meaning": "一千的",
+        "example": "一千人參加了音樂會。"
+      }
+    },
+    {
+      "word": "Threadbare",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Worn out and thin from use",
+      "example": "He wore a threadbare coat.",
+      "chinese": {
+        "meaning": "破舊的",
+        "example": "他穿著一件破舊的外套。"
+      }
+    },
+    {
+      "word": "Threatening",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Indicating danger or harm",
+      "example": "The sky looked threatening before the storm.",
+      "chinese": {
+        "meaning": "具威脅性的",
+        "example": "暴風雨前天空看起來充滿威脅。"
+      }
+    },
+    {
+      "word": "Thrifty",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Using resources carefully and not wastefully",
+      "example": "She is thrifty and always saves money.",
+      "chinese": {
+        "meaning": "節儉的",
+        "example": "她很節儉，總是存錢。"
+      }
+    },
+    {
+      "word": "Thrilled",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Extremely pleased or excited",
+      "example": "He was thrilled to hear the good news.",
+      "chinese": {
+        "meaning": "興奮的",
+        "example": "聽到好消息他非常興奮。"
       }
     },
     {
@@ -298,6 +1079,50 @@
       }
     },
     {
+      "word": "Throned",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Seated on or as if on a throne",
+      "example": "The king was throned in the grand hall.",
+      "chinese": {
+        "meaning": "坐在寶座上的",
+        "example": "國王坐在大廳的寶座上。"
+      }
+    },
+    {
+      "word": "Thunderous",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Making a loud, deep noise like thunder",
+      "example": "There was a thunderous applause after the performance.",
+      "chinese": {
+        "meaning": "雷鳴般的",
+        "example": "表演結束後響起雷鳴般的掌聲。"
+      }
+    },
+    {
+      "word": "Tickled",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Amused or pleased",
+      "example": "She was tickled by his funny comment.",
+      "chinese": {
+        "meaning": "被逗樂的",
+        "example": "他的搞笑評論讓她很開心。"
+      }
+    },
+    {
+      "word": "Tidal",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to or affected by tides",
+      "example": "The tidal waves caused flooding in the area.",
+      "chinese": {
+        "meaning": "潮汐的",
+        "example": "潮汐波浪造成了該地區的洪水。"
+      }
+    },
+    {
       "word": "Tidy",
       "type": "adjective",
       "letter": "T",
@@ -306,6 +1131,28 @@
       "chinese": {
         "meaning": "整潔的",
         "example": "她的房間總是很整潔。"
+      }
+    },
+    {
+      "word": "Tiered",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having or arranged in layers or levels",
+      "example": "The cake had a beautiful tiered design.",
+      "chinese": {
+        "meaning": "分層的",
+        "example": "這個蛋糕的設計是美麗的分層結構。"
+      }
+    },
+    {
+      "word": "Tight",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Firmly held or fitting closely",
+      "example": "The lid is too tight to open easily.",
+      "chinese": {
+        "meaning": "緊的",
+        "example": "這個蓋子太緊了，不容易打開。"
       }
     },
     {
@@ -342,6 +1189,61 @@
       }
     },
     {
+      "word": "Tinged",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having a slight amount or hint of something",
+      "example": "Her voice was tinged with sadness.",
+      "chinese": {
+        "meaning": "帶有一絲…的",
+        "example": "她的聲音帶有一絲悲傷。"
+      }
+    },
+    {
+      "word": "Tiny",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Very small in size",
+      "example": "They live in a tiny apartment.",
+      "chinese": {
+        "meaning": "極小的",
+        "example": "他們住在一間非常小的公寓裡。"
+      }
+    },
+    {
+      "word": "Tired",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "In need of rest or sleep; fatigued",
+      "example": "She felt tired after working all day.",
+      "chinese": {
+        "meaning": "疲倦的",
+        "example": "工作了一整天後她感到很疲倦。"
+      }
+    },
+    {
+      "word": "Tireless",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Showing great effort or energy without becoming tired",
+      "example": "He is a tireless advocate for the poor.",
+      "chinese": {
+        "meaning": "不知疲倦的",
+        "example": "他是不知疲倦的貧困者代言人。"
+      }
+    },
+    {
+      "word": "Tiresome",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Causing one to feel bored or annoyed",
+      "example": "The long meeting was tiresome.",
+      "chinese": {
+        "meaning": "令人厭煩的",
+        "example": "這個冗長的會議令人厭煩。"
+      }
+    },
+    {
       "word": "Tiring",
       "type": "adjective",
       "letter": "T",
@@ -350,6 +1252,39 @@
       "chinese": {
         "meaning": "使人疲倦的",
         "example": "這是工作中疲憊的一天。"
+      }
+    },
+    {
+      "word": "Titled",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having a title or name",
+      "example": "The book is titled 'Adventures in Space'.",
+      "chinese": {
+        "meaning": "有標題的",
+        "example": "這本書的標題是《太空歷險》。"
+      }
+    },
+    {
+      "word": "Titular",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Holding a title without real authority",
+      "example": "He is the titular head of the company.",
+      "chinese": {
+        "meaning": "名義上的",
+        "example": "他是公司名義上的領導。"
+      }
+    },
+    {
+      "word": "Toasted",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Browned by exposure to heat",
+      "example": "She served toasted bread for breakfast.",
+      "chinese": {
+        "meaning": "烤過的",
+        "example": "她早餐提供了烤過的麵包。"
       }
     },
     {
@@ -375,6 +1310,72 @@
       }
     },
     {
+      "word": "Tonal",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to tones or musical pitch",
+      "example": "The piece has a tonal structure.",
+      "chinese": {
+        "meaning": "音調的",
+        "example": "這首曲子具有音調結構。"
+      }
+    },
+    {
+      "word": "Tonic",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having an invigorating or restorative effect",
+      "example": "A walk in the fresh air can be tonic.",
+      "chinese": {
+        "meaning": "有益健康的",
+        "example": "在新鮮空氣中散步可以有益健康。"
+      }
+    },
+    {
+      "word": "Topical",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to current events or applied to a particular area",
+      "example": "They discussed topical issues in the news.",
+      "chinese": {
+        "meaning": "時事的；局部應用的",
+        "example": "他們討論了新聞中的時事問題。"
+      }
+    },
+    {
+      "word": "Topmost",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Highest in position or rank",
+      "example": "She climbed to the topmost branch of the tree.",
+      "chinese": {
+        "meaning": "最高的",
+        "example": "她爬到了樹的最高枝頭。"
+      }
+    },
+    {
+      "word": "Tormented",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Experiencing severe suffering or distress",
+      "example": "He was tormented by guilt.",
+      "chinese": {
+        "meaning": "受折磨的",
+        "example": "他被內疚折磨著。"
+      }
+    },
+    {
+      "word": "Torpid",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Mentally or physically inactive; sluggish",
+      "example": "The torpid lizard basked in the sun.",
+      "chinese": {
+        "meaning": "遲鈍的；不活躍的",
+        "example": "那隻遲鈍的蜥蜴在太陽下曬著。"
+      }
+    },
+    {
       "word": "Torrential",
       "type": "adjective",
       "letter": "T",
@@ -397,6 +1398,72 @@
       }
     },
     {
+      "word": "Torturous",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Causing extreme physical or mental pain",
+      "example": "The wait for the results was torturous.",
+      "chinese": {
+        "meaning": "折磨人的",
+        "example": "等待結果的過程令人極其痛苦。"
+      }
+    },
+    {
+      "word": "Total",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Complete or absolute",
+      "example": "The project was a total success.",
+      "chinese": {
+        "meaning": "完全的",
+        "example": "這個項目完全成功了。"
+      }
+    },
+    {
+      "word": "Totemic",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to a totem or symbolic representation",
+      "example": "The eagle is a totemic animal in this culture.",
+      "chinese": {
+        "meaning": "圖騰的",
+        "example": "在這個文化中，老鷹是圖騰動物。"
+      }
+    },
+    {
+      "word": "Touched",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Moved emotionally or slightly insane (context-dependent)",
+      "example": "She was touched by his kindness.",
+      "chinese": {
+        "meaning": "感動的；精神失常的（視語境而定）",
+        "example": "她被他的善良所感動。"
+      }
+    },
+    {
+      "word": "Touching",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Arousing strong feelings of sympathy or emotion",
+      "example": "The film had a touching ending.",
+      "chinese": {
+        "meaning": "感人的",
+        "example": "這部電影的結局令人感動。"
+      }
+    },
+    {
+      "word": "Touchy",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Easily upset or sensitive",
+      "example": "He is very touchy about his appearance.",
+      "chinese": {
+        "meaning": "敏感的；易怒的",
+        "example": "他對自己的外表非常敏感。"
+      }
+    },
+    {
       "word": "Tough",
       "type": "adjective",
       "letter": "T",
@@ -408,6 +1475,28 @@
       }
     },
     {
+      "word": "Touristy",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Designed for or appealing to tourists, often in a superficial way",
+      "example": "The area felt too touristy for locals.",
+      "chinese": {
+        "meaning": "遊客化的",
+        "example": "這個地區對當地人來說太過遊客化了。"
+      }
+    },
+    {
+      "word": "Towering",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Extremely tall or intense",
+      "example": "The towering skyscraper dominated the skyline.",
+      "chinese": {
+        "meaning": "高聳的",
+        "example": "那座高聳的摩天大樓主宰了天際線。"
+      }
+    },
+    {
       "word": "Toxic",
       "type": "adjective",
       "letter": "T",
@@ -416,6 +1505,72 @@
       "chinese": {
         "meaning": "有毒的",
         "example": "工廠將有毒廢物排入河流。"
+      }
+    },
+    {
+      "word": "Traditional",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Related to customs or beliefs handed down through generations",
+      "example": "They held a traditional wedding ceremony.",
+      "chinese": {
+        "meaning": "傳統的",
+        "example": "他們舉行了傳統的婚禮。"
+      }
+    },
+    {
+      "word": "Tragic",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Causing or involving great sadness or suffering",
+      "example": "The story has a tragic ending.",
+      "chinese": {
+        "meaning": "悲劇的",
+        "example": "這個故事有一個悲劇的結局。"
+      }
+    },
+    {
+      "word": "Trailing",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Growing or hanging down loosely",
+      "example": "The trailing vines covered the fence.",
+      "chinese": {
+        "meaning": "蔓生的；拖曳的",
+        "example": "攀緣的藤蔓覆蓋了柵欄。"
+      }
+    },
+    {
+      "word": "Trained",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having been taught the necessary skills",
+      "example": "Only trained professionals should handle the equipment.",
+      "chinese": {
+        "meaning": "受過訓練的",
+        "example": "只有受過訓練的專業人員應該使用這些設備。"
+      }
+    },
+    {
+      "word": "Traitorous",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Betraying one's country or cause",
+      "example": "The traitorous act shocked the nation.",
+      "chinese": {
+        "meaning": "叛國的；背叛的",
+        "example": "那個背叛行為震驚了全國。"
+      }
+    },
+    {
+      "word": "Trampled",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Crushed or walked on heavily",
+      "example": "The flowers were trampled during the parade.",
+      "chinese": {
+        "meaning": "被踩踏的",
+        "example": "遊行期間花朵被踩踏了。"
       }
     },
     {
@@ -441,6 +1596,39 @@
       }
     },
     {
+      "word": "Transcendental",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Beyond ordinary or physical human experience",
+      "example": "Meditation gave her a transcendental sense of peace.",
+      "chinese": {
+        "meaning": "超驗的；卓越的",
+        "example": "冥想給了她一種超越凡俗的平靜感。"
+      }
+    },
+    {
+      "word": "Transcribed",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Written or printed as a copy of spoken or original text",
+      "example": "The interview was fully transcribed for records.",
+      "chinese": {
+        "meaning": "抄寫的；轉錄的",
+        "example": "訪談被完整地抄寫下來以備存檔。"
+      }
+    },
+    {
+      "word": "Transformed",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Changed completely in form or appearance",
+      "example": "The old building was transformed into a modern art gallery.",
+      "chinese": {
+        "meaning": "轉變的",
+        "example": "舊建築被改造成了一個現代藝術館。"
+      }
+    },
+    {
       "word": "Transient",
       "type": "adjective",
       "letter": "T",
@@ -449,6 +1637,28 @@
       "chinese": {
         "meaning": "短暫的，瞬間的",
         "example": "青春的短暫本質。"
+      }
+    },
+    {
+      "word": "Transitional",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to a process or period of change",
+      "example": "The country is in a transitional phase.",
+      "chinese": {
+        "meaning": "過渡的",
+        "example": "該國正處於過渡時期。"
+      }
+    },
+    {
+      "word": "Translated",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Rendered from one language into another",
+      "example": "The novel was translated into five languages.",
+      "chinese": {
+        "meaning": "被翻譯的",
+        "example": "這本小說被翻譯成五種語言。"
       }
     },
     {
@@ -463,6 +1673,39 @@
       }
     },
     {
+      "word": "Transsexual",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to a person who has undergone or desires gender reassignment",
+      "example": "She is a well-known transsexual activist.",
+      "chinese": {
+        "meaning": "變性者的",
+        "example": "她是一位著名的變性人活動家。"
+      }
+    },
+    {
+      "word": "Trapped",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Unable to escape from a place or situation",
+      "example": "They were trapped in the elevator for hours.",
+      "chinese": {
+        "meaning": "被困住的",
+        "example": "他們被困在電梯裡好幾個小時。"
+      }
+    },
+    {
+      "word": "Traumatic",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Emotionally disturbing or distressing",
+      "example": "The accident was a traumatic experience for him.",
+      "chinese": {
+        "meaning": "創傷性的",
+        "example": "這場事故對他來說是一次創傷性的經歷。"
+      }
+    },
+    {
       "word": "Treacherous",
       "type": "adjective",
       "letter": "T",
@@ -471,6 +1714,28 @@
       "chinese": {
         "meaning": "危險的，不可靠的",
         "example": "雨後山路非常危險。"
+      }
+    },
+    {
+      "word": "Treasured",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Highly valued or cherished",
+      "example": "She kept a treasured photo of her family.",
+      "chinese": {
+        "meaning": "珍貴的",
+        "example": "她保存了一張珍貴的全家福。"
+      }
+    },
+    {
+      "word": "Trembling",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Shaking involuntarily, typically from fear or weakness",
+      "example": "He was trembling with cold.",
+      "chinese": {
+        "meaning": "顫抖的",
+        "example": "他冷得發抖。"
       }
     },
     {
@@ -485,6 +1750,17 @@
       }
     },
     {
+      "word": "Tremulous",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Shaking or quivering slightly",
+      "example": "She spoke in a tremulous voice.",
+      "chinese": {
+        "meaning": "顫抖的",
+        "example": "她用顫抖的聲音說話。"
+      }
+    },
+    {
       "word": "Trendy",
       "type": "adjective",
       "letter": "T",
@@ -493,6 +1769,28 @@
       "chinese": {
         "meaning": "時尚的，流行的",
         "example": "她總是穿著時尚的衣服。"
+      }
+    },
+    {
+      "word": "Tribal",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to a tribe or tribes",
+      "example": "He studied the tribal customs of the region.",
+      "chinese": {
+        "meaning": "部落的",
+        "example": "他研究該地區的部落習俗。"
+      }
+    },
+    {
+      "word": "Tricky",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Difficult to deal with or handle",
+      "example": "Solving this puzzle is tricky.",
+      "chinese": {
+        "meaning": "棘手的",
+        "example": "解這個謎題很棘手。"
       }
     },
     {
@@ -507,6 +1805,39 @@
       }
     },
     {
+      "word": "Trim",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Neat and in good order",
+      "example": "She keeps her garden trim and tidy.",
+      "chinese": {
+        "meaning": "整齊的",
+        "example": "她把花園打理得整整齊齊。"
+      }
+    },
+    {
+      "word": "Trinitarian",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to the Christian doctrine of the Trinity",
+      "example": "The church follows Trinitarian beliefs.",
+      "chinese": {
+        "meaning": "三位一體的",
+        "example": "該教會奉行三位一體的信仰。"
+      }
+    },
+    {
+      "word": "Triple",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Consisting of three parts or elements",
+      "example": "The company reported triple profits this year.",
+      "chinese": {
+        "meaning": "三倍的",
+        "example": "該公司今年報告的利潤是三倍的。"
+      }
+    },
+    {
       "word": "Trite",
       "type": "adjective",
       "letter": "T",
@@ -515,6 +1846,39 @@
       "chinese": {
         "meaning": "陳腐的，平庸的",
         "example": "這部電影因陳腐的情節受到批評。"
+      }
+    },
+    {
+      "word": "Triumphant",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Having achieved victory or success",
+      "example": "She gave a triumphant smile.",
+      "chinese": {
+        "meaning": "勝利的",
+        "example": "她露出勝利的微笑。"
+      }
+    },
+    {
+      "word": "Trivial",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Of little value or importance",
+      "example": "They argued over a trivial matter.",
+      "chinese": {
+        "meaning": "瑣碎的",
+        "example": "他們為一件瑣碎的事爭吵。"
+      }
+    },
+    {
+      "word": "Tropical",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to or characteristic of the tropics",
+      "example": "They went on vacation to a tropical island.",
+      "chinese": {
+        "meaning": "熱帶的",
+        "example": "他們去了一個熱帶島嶼度假。"
       }
     },
     {
@@ -529,6 +1893,28 @@
       }
     },
     {
+      "word": "Troublesome",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Causing difficulty or annoyance",
+      "example": "He is a troublesome student.",
+      "chinese": {
+        "meaning": "麻煩的",
+        "example": "他是一個令人頭痛的學生。"
+      }
+    },
+    {
+      "word": "Troubling",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Causing worry or distress",
+      "example": "The news is troubling for many people.",
+      "chinese": {
+        "meaning": "令人不安的",
+        "example": "這個消息讓許多人感到不安。"
+      }
+    },
+    {
       "word": "Truculent",
       "type": "adjective",
       "letter": "T",
@@ -537,6 +1923,17 @@
       "chinese": {
         "meaning": "好鬥的，尖刻的",
         "example": "他的批評很尖刻。"
+      }
+    },
+    {
+      "word": "True",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "In accordance with fact or reality",
+      "example": "Her story turned out to be true.",
+      "chinese": {
+        "meaning": "真實的",
+        "example": "她的故事結果是真實的。"
       }
     },
     {
@@ -562,6 +1959,50 @@
       }
     },
     {
+      "word": "Trusty",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Reliable and dependable",
+      "example": "He always carries his trusty knife.",
+      "chinese": {
+        "meaning": "可靠的",
+        "example": "他總是帶著他可靠的小刀。"
+      }
+    },
+    {
+      "word": "Truthful",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Telling or expressing the truth",
+      "example": "She gave a truthful account of the events.",
+      "chinese": {
+        "meaning": "誠實的",
+        "example": "她如實地講述了事情經過。"
+      }
+    },
+    {
+      "word": "Tubby",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Somewhat fat or round in shape",
+      "example": "The tubby cat couldn't jump on the table.",
+      "chinese": {
+        "meaning": "圓胖的",
+        "example": "那隻胖胖的貓跳不上桌子。"
+      }
+    },
+    {
+      "word": "Tubular",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Shaped like a tube",
+      "example": "The plant has long tubular flowers.",
+      "chinese": {
+        "meaning": "管狀的",
+        "example": "這種植物有長長的管狀花。"
+      }
+    },
+    {
       "word": "Tumultuous",
       "type": "adjective",
       "letter": "T",
@@ -570,6 +2011,39 @@
       "chinese": {
         "meaning": "喧鬧的，騷亂的",
         "example": "人群給予喧鬧的掌聲。"
+      }
+    },
+    {
+      "word": "Tuned",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Adjusted or adapted for a particular purpose",
+      "example": "The car's engine is finely tuned.",
+      "chinese": {
+        "meaning": "調整過的",
+        "example": "這輛車的引擎經過精細調整。"
+      }
+    },
+    {
+      "word": "Turbulent",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Characterized by conflict, disorder, or confusion",
+      "example": "They endured a turbulent relationship.",
+      "chinese": {
+        "meaning": "動盪的",
+        "example": "他們經歷了一段動盪的感情。"
+      }
+    },
+    {
+      "word": "Turkish",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to Turkey, its people, or language",
+      "example": "She loves Turkish cuisine.",
+      "chinese": {
+        "meaning": "土耳其的",
+        "example": "她喜歡土耳其美食。"
       }
     },
     {
@@ -584,6 +2058,50 @@
       }
     },
     {
+      "word": "Turned",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Changed or altered in nature, form, or state",
+      "example": "The milk is turned and no longer drinkable.",
+      "chinese": {
+        "meaning": "變質的",
+        "example": "牛奶變質了，不能再喝。"
+      }
+    },
+    {
+      "word": "Twin",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Consisting of two similar or closely related parts",
+      "example": "They stayed in a twin room at the hotel.",
+      "chinese": {
+        "meaning": "雙胞胎的；成對的",
+        "example": "他們住在酒店的雙人房裡。"
+      }
+    },
+    {
+      "word": "Twinkling",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Shining with a gleam that changes from bright to faint",
+      "example": "The twinkling stars lit up the sky.",
+      "chinese": {
+        "meaning": "閃爍的",
+        "example": "閃爍的星星照亮了天空。"
+      }
+    },
+    {
+      "word": "Twisted",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Forced out of its natural shape or deformed",
+      "example": "He had a twisted ankle after the fall.",
+      "chinese": {
+        "meaning": "扭曲的",
+        "example": "他跌倒後扭傷了腳踝。"
+      }
+    },
+    {
       "word": "Typical",
       "type": "adjective",
       "letter": "T",
@@ -592,6 +2110,28 @@
       "chinese": {
         "meaning": "典型的，代表性的",
         "example": "這是典型的夏日。"
+      }
+    },
+    {
+      "word": "Typographical",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Relating to the style or appearance of printed matter",
+      "example": "There were several typographical errors in the book.",
+      "chinese": {
+        "meaning": "排版的",
+        "example": "書中有幾個排版錯誤。"
+      }
+    },
+    {
+      "word": "Tyrannical",
+      "type": "adjective",
+      "letter": "T",
+      "meaning": "Exercising power in a cruel or arbitrary way",
+      "example": "The tyrannical ruler was overthrown by the people.",
+      "chinese": {
+        "meaning": "專制的",
+        "example": "那位專制的統治者被人民推翻了。"
       }
     }
   ]

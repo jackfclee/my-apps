@@ -1,6 +1,156 @@
 {
   "words": [
     {
+      "word": "Cacophonous",
+      "type": "adjective",
+      "meaning": "Having a harsh, discordant mixture of sounds",
+      "example": "The city street was filled with cacophonous noises.",
+      "chinese": {
+        "meaning": "刺耳的",
+        "example": "城市街道充滿刺耳的噪音。"
+      }
+    },
+    {
+      "word": "Cadaverous",
+      "type": "adjective",
+      "meaning": "Resembling a corpse; pale and thin",
+      "example": "He looked cadaverous after the long illness.",
+      "chinese": {
+        "meaning": "像屍體般的，蒼白消瘦的",
+        "example": "長期生病後，他看起來非常消瘦蒼白。"
+      }
+    },
+    {
+      "word": "Cadenced",
+      "type": "adjective",
+      "meaning": "Having a rhythmic flow or pattern",
+      "example": "Her speech was cadenced and soothing.",
+      "chinese": {
+        "meaning": "有節奏的",
+        "example": "她的演講有節奏且讓人安慰。"
+      }
+    },
+    {
+      "word": "Caged",
+      "type": "adjective",
+      "meaning": "Confined within a cage or enclosure",
+      "example": "The bird was caged in the small aviary.",
+      "chinese": {
+        "meaning": "被關在籠子裡的",
+        "example": "那隻鳥被關在小鳥籠裡。"
+      }
+    },
+    {
+      "word": "Calculated",
+      "type": "adjective",
+      "meaning": "Deliberate and planned",
+      "example": "His actions were calculated to impress the audience.",
+      "chinese": {
+        "meaning": "經過計算的，故意的",
+        "example": "他的行動是故意為了給觀眾留下印象。"
+      }
+    },
+    {
+      "word": "Calculating",
+      "type": "adjective",
+      "meaning": "Acting in a scheming and ruthlessly determined way",
+      "example": "She was known for her calculating nature in business.",
+      "chinese": {
+        "meaning": "精明算計的",
+        "example": "她以在商業中精明算計著稱。"
+      }
+    },
+    {
+      "word": "Callous",
+      "type": "adjective",
+      "meaning": "Showing or having an insensitive and cruel disregard for others",
+      "example": "His callous comments upset everyone.",
+      "chinese": {
+        "meaning": "無情的，冷酷的",
+        "example": "他的冷酷評論讓所有人不安。"
+      }
+    },
+    {
+      "word": "Calm",
+      "type": "adjective",
+      "meaning": "Peaceful and quiet; free from disturbance",
+      "example": "The lake was calm in the early morning.",
+      "chinese": {
+        "meaning": "平靜的",
+        "example": "清晨的湖面很平靜。"
+      }
+    },
+    {
+      "word": "Calming",
+      "type": "adjective",
+      "meaning": "Having the effect of making someone tranquil and relaxed",
+      "example": "Her voice was calming to the anxious crowd.",
+      "chinese": {
+        "meaning": "使人平靜的",
+        "example": "她的聲音讓焦慮的人群平靜下來。"
+      }
+    },
+    {
+      "word": "Canadian",
+      "type": "adjective",
+      "meaning": "Relating to Canada or its people",
+      "example": "He is a Canadian citizen.",
+      "chinese": {
+        "meaning": "加拿大的",
+        "example": "他是加拿大公民。"
+      }
+    },
+    {
+      "word": "Candid",
+      "type": "adjective",
+      "meaning": "Truthful and straightforward; frank",
+      "example": "She gave a candid interview about her experiences.",
+      "chinese": {
+        "meaning": "坦率的，直言不諱的",
+        "example": "她坦率地談論了自己的經歷。"
+      }
+    },
+    {
+      "word": "Canine",
+      "type": "adjective",
+      "meaning": "Relating to dogs",
+      "example": "The clinic specializes in canine health.",
+      "chinese": {
+        "meaning": "犬的",
+        "example": "該診所專門治療犬類健康。"
+      }
+    },
+    {
+      "word": "Cannibalistic",
+      "type": "adjective",
+      "meaning": "Relating to cannibalism; eating the same species",
+      "example": "Some animals exhibit cannibalistic behavior under stress.",
+      "chinese": {
+        "meaning": "食人肉的，同類相食的",
+        "example": "一些動物在壓力下會出現同類相食行為。"
+      }
+    },
+    {
+      "word": "Canny",
+      "type": "adjective",
+      "meaning": "Shrewd, careful, and prudent",
+      "example": "He is a canny investor who avoids risks.",
+      "chinese": {
+        "meaning": "精明的，謹慎的",
+        "example": "他是個精明的投資者，避免風險。"
+      }
+    },
+    {
+      "word": "Canonical",
+      "type": "adjective",
+      "meaning": "Conforming to accepted standards or rules",
+      "example": "This is the canonical version of the text.",
+      "chinese": {
+        "meaning": "權威的，經典的",
+        "example": "這是該文本的權威版本。"
+      }
+    },
+    {
       "word": "Capable",
       "type": "adjective",
       "letter": "C",
@@ -9,6 +159,66 @@
       "chinese": {
         "meaning": "有能力的",
         "example": "她是一位有能力的領導者，擁有強大的決策能力。"
+      }
+    },
+    {
+      "word": "Capacious",
+      "type": "adjective",
+      "meaning": "Having a lot of space inside; roomy",
+      "example": "She packed her belongings into a capacious suitcase.",
+      "chinese": {
+        "meaning": "寬敞的",
+        "example": "她把東西裝進了一個寬敞的行李箱。"
+      }
+    },
+    {
+      "word": "Capital",
+      "type": "adjective",
+      "meaning": "Of major importance; excellent",
+      "example": "They made a capital decision to invest early.",
+      "chinese": {
+        "meaning": "主要的；優秀的",
+        "example": "他們做出了早期投資的明智決定。"
+      }
+    },
+    {
+      "word": "Capitalist",
+      "type": "adjective",
+      "meaning": "Relating to capitalism or capitalists",
+      "example": "He has capitalist views on the economy.",
+      "chinese": {
+        "meaning": "資本主義的",
+        "example": "他對經濟持資本主義觀點。"
+      }
+    },
+    {
+      "word": "Capricious",
+      "type": "adjective",
+      "meaning": "Given to sudden changes of mood or behavior",
+      "example": "Her capricious nature makes her unpredictable.",
+      "chinese": {
+        "meaning": "反覆無常的",
+        "example": "她反覆無常的性格使人難以預測。"
+      }
+    },
+    {
+      "word": "Captious",
+      "type": "adjective",
+      "meaning": "Tending to find fault or raise petty objections",
+      "example": "He was captious about every little detail.",
+      "chinese": {
+        "meaning": "吹毛求疵的",
+        "example": "他對每一個小細節都吹毛求疵。"
+      }
+    },
+    {
+      "word": "Captivated",
+      "type": "adjective",
+      "meaning": "Attracted and held the interest of",
+      "example": "The audience was captivated by the performance.",
+      "chinese": {
+        "meaning": "被迷住的",
+        "example": "觀眾被表演吸引住了。"
       }
     },
     {
@@ -23,6 +233,66 @@
       }
     },
     {
+      "word": "Captive",
+      "type": "adjective",
+      "meaning": "Kept confined or imprisoned",
+      "example": "The captive animals were released into the wild.",
+      "chinese": {
+        "meaning": "被囚禁的",
+        "example": "被囚禁的動物被放回野外。"
+      }
+    },
+    {
+      "word": "Carcinogenic",
+      "type": "adjective",
+      "meaning": "Having the potential to cause cancer",
+      "example": "Smoking is carcinogenic to health.",
+      "chinese": {
+        "meaning": "致癌的",
+        "example": "吸煙對健康有致癌作用。"
+      }
+    },
+    {
+      "word": "Cardiac",
+      "type": "adjective",
+      "meaning": "Relating to the heart",
+      "example": "He suffered from cardiac arrest.",
+      "chinese": {
+        "meaning": "心臟的",
+        "example": "他患有心臟驟停。"
+      }
+    },
+    {
+      "word": "Cardinal",
+      "type": "adjective",
+      "meaning": "Of fundamental importance",
+      "example": "Honesty is a cardinal virtue.",
+      "chinese": {
+        "meaning": "主要的，基本的",
+        "example": "誠實是一種基本的美德。"
+      }
+    },
+    {
+      "word": "Cardiopulmonary",
+      "type": "adjective",
+      "meaning": "Relating to the heart and lungs",
+      "example": "Cardiopulmonary resuscitation (CPR) can save lives.",
+      "chinese": {
+        "meaning": "心肺的",
+        "example": "心肺復甦術可以挽救生命。"
+      }
+    },
+    {
+      "word": "Cardiovascular",
+      "type": "adjective",
+      "meaning": "Relating to the heart and blood vessels",
+      "example": "Exercise improves cardiovascular health.",
+      "chinese": {
+        "meaning": "心血管的",
+        "example": "運動有助於心血管健康。"
+      }
+    },
+    {
       "word": "Careful",
       "type": "adjective",
       "letter": "C",
@@ -31,6 +301,16 @@
       "chinese": {
         "meaning": "小心的",
         "example": "過馬路時要小心。"
+      }
+    },
+    {
+      "word": "Careless",
+      "type": "adjective",
+      "meaning": "Not giving sufficient attention or thought",
+      "example": "He made a careless mistake on the report.",
+      "chinese": {
+        "meaning": "粗心的",
+        "example": "他在報告中犯了粗心的錯誤。"
       }
     },
     {
@@ -45,6 +325,56 @@
       }
     },
     {
+      "word": "Carnal",
+      "type": "adjective",
+      "meaning": "Relating to physical, especially sexual, needs and activities",
+      "example": "The novel explored carnal desires.",
+      "chinese": {
+        "meaning": "肉體的，肉慾的",
+        "example": "小說探討了肉體慾望。"
+      }
+    },
+    {
+      "word": "Carnivorous",
+      "type": "adjective",
+      "meaning": "Feeding on other animals",
+      "example": "Lions are carnivorous predators.",
+      "chinese": {
+        "meaning": "食肉的",
+        "example": "獅子是食肉掠食者。"
+      }
+    },
+    {
+      "word": "Cartesian",
+      "type": "adjective",
+      "meaning": "Relating to the philosophy of René Descartes or coordinate geometry",
+      "example": "The Cartesian coordinate system is used in math.",
+      "chinese": {
+        "meaning": "笛卡爾的",
+        "example": "笛卡爾坐標系用於數學中。"
+      }
+    },
+    {
+      "word": "Cartilaginous",
+      "type": "adjective",
+      "meaning": "Made of or relating to cartilage",
+      "example": "Sharks have cartilaginous skeletons.",
+      "chinese": {
+        "meaning": "軟骨的",
+        "example": "鯊魚有軟骨骨骼。"
+      }
+    },
+    {
+      "word": "Carved",
+      "type": "adjective",
+      "meaning": "Shaped or decorated by cutting",
+      "example": "The carved wooden statue was exquisite.",
+      "chinese": {
+        "meaning": "雕刻的",
+        "example": "那尊雕刻木雕非常精美。"
+      }
+    },
+    {
       "word": "Casual",
       "type": "adjective",
       "letter": "C",
@@ -53,6 +383,86 @@
       "chinese": {
         "meaning": "隨便的；休閒的",
         "example": "他們穿著休閒服參加派對。"
+      }
+    },
+    {
+      "word": "Cataclysmic",
+      "type": "adjective",
+      "meaning": "Relating to a violent natural event or disaster",
+      "example": "The earthquake was a cataclysmic event.",
+      "chinese": {
+        "meaning": "災難性的",
+        "example": "地震是一場災難性事件。"
+      }
+    },
+    {
+      "word": "Catchy",
+      "type": "adjective",
+      "meaning": "Attractive and easy to remember",
+      "example": "That song has a catchy tune.",
+      "chinese": {
+        "meaning": "朗朗上口的",
+        "example": "那首歌旋律朗朗上口。"
+      }
+    },
+    {
+      "word": "Categorical",
+      "type": "adjective",
+      "meaning": "Unambiguously explicit and direct",
+      "example": "She gave a categorical denial of the accusations.",
+      "chinese": {
+        "meaning": "絕對的，明確的",
+        "example": "她對指控給予了明確的否認。"
+      }
+    },
+    {
+      "word": "Cathartic",
+      "type": "adjective",
+      "meaning": "Providing psychological relief through the open expression of strong emotions",
+      "example": "Writing in her journal was a cathartic experience.",
+      "chinese": {
+        "meaning": "宣洩情感的，淨化的",
+        "example": "寫日記是一種情感宣洩的經歷。"
+      }
+    },
+    {
+      "word": "Catholic",
+      "type": "adjective",
+      "meaning": "Universal or wide-ranging",
+      "example": "He has a catholic taste in music.",
+      "chinese": {
+        "meaning": "普遍的，廣泛的",
+        "example": "他對音樂的品味很廣泛。"
+      }
+    },
+    {
+      "word": "Caudal",
+      "type": "adjective",
+      "meaning": "Relating to the tail or posterior part of the body",
+      "example": "The caudal fin helps fish steer in water.",
+      "chinese": {
+        "meaning": "尾部的",
+        "example": "尾鰭幫助魚在水中轉向。"
+      }
+    },
+    {
+      "word": "Causal",
+      "type": "adjective",
+      "meaning": "Relating to cause and effect",
+      "example": "The study examined the causal relationship between diet and health.",
+      "chinese": {
+        "meaning": "因果的",
+        "example": "該研究檢視飲食與健康的因果關係。"
+      }
+    },
+    {
+      "word": "Caustic",
+      "type": "adjective",
+      "meaning": "Able to burn or corrode; sarcastic in a bitter way",
+      "example": "His caustic remarks offended many people.",
+      "chinese": {
+        "meaning": "腐蝕性的；刻薄的",
+        "example": "他的刻薄話冒犯了很多人。"
       }
     },
     {
@@ -67,6 +477,16 @@
       }
     },
     {
+      "word": "Ceaseless",
+      "type": "adjective",
+      "meaning": "Constant and unending",
+      "example": "The ceaseless noise from the construction was tiring.",
+      "chinese": {
+        "meaning": "不停的，連續的",
+        "example": "建築工地的連續噪音令人疲憊。"
+      }
+    },
+    {
       "word": "Celebrated",
       "type": "adjective",
       "letter": "C",
@@ -75,6 +495,176 @@
       "chinese": {
         "meaning": "著名的",
         "example": "他是一位著名的藝術家。"
+      }
+    },
+    {
+      "word": "Celebratory",
+      "type": "adjective",
+      "meaning": "Expressing happiness and celebration",
+      "example": "They held a celebratory party after the victory.",
+      "chinese": {
+        "meaning": "慶祝的",
+        "example": "勝利後他們舉行了慶祝派對。"
+      }
+    },
+    {
+      "word": "Celestial",
+      "type": "adjective",
+      "meaning": "Relating to the sky or heavens",
+      "example": "Stars are celestial bodies.",
+      "chinese": {
+        "meaning": "天空的，天體的",
+        "example": "星星是天體。"
+      }
+    },
+    {
+      "word": "Celibate",
+      "type": "adjective",
+      "meaning": "Abstaining from marriage and sexual relations",
+      "example": "He took a vow to remain celibate.",
+      "chinese": {
+        "meaning": "獨身的，禁慾的",
+        "example": "他發誓保持獨身。"
+      }
+    },
+    {
+      "word": "Celtic",
+      "type": "adjective",
+      "meaning": "Relating to the Celts or their languages",
+      "example": "The Celtic culture has rich traditions.",
+      "chinese": {
+        "meaning": "凱爾特的",
+        "example": "凱爾特文化有豐富的傳統。"
+      }
+    },
+    {
+      "word": "Cemented",
+      "type": "adjective",
+      "meaning": "Joined firmly together",
+      "example": "Their friendship was cemented over years of trust.",
+      "chinese": {
+        "meaning": "鞏固的",
+        "example": "多年信任鞏固了他們的友誼。"
+      }
+    },
+    {
+      "word": "Central",
+      "type": "adjective",
+      "meaning": "Located in the middle or most important",
+      "example": "The central idea was clear to everyone.",
+      "chinese": {
+        "meaning": "中央的，核心的",
+        "example": "核心思想對所有人都很清楚。"
+      }
+    },
+    {
+      "word": "Centralized",
+      "type": "adjective",
+      "meaning": "Concentrated under a single authority or control",
+      "example": "The government adopted a centralized system.",
+      "chinese": {
+        "meaning": "集中的",
+        "example": "政府採用了集中管理系統。"
+      }
+    },
+    {
+      "word": "Centrifugal",
+      "type": "adjective",
+      "meaning": "Moving or directed away from the center",
+      "example": "The centrifuge creates centrifugal force.",
+      "chinese": {
+        "meaning": "離心的",
+        "example": "離心機產生離心力。"
+      }
+    },
+    {
+      "word": "Centripetal",
+      "type": "adjective",
+      "meaning": "Moving or directed toward the center",
+      "example": "Planets orbit due to centripetal force.",
+      "chinese": {
+        "meaning": "向心的",
+        "example": "行星因向心力而繞行。"
+      }
+    },
+    {
+      "word": "Cerebral",
+      "type": "adjective",
+      "meaning": "Related to the brain; intellectual rather than emotional",
+      "example": "The novel appeals to cerebral readers.",
+      "chinese": {
+        "meaning": "大腦的；理智的",
+        "example": "這部小說吸引理智型讀者。"
+      }
+    },
+    {
+      "word": "Ceremonial",
+      "type": "adjective",
+      "meaning": "Relating to formal events or rituals",
+      "example": "They wore ceremonial robes at the event.",
+      "chinese": {
+        "meaning": "儀式的",
+        "example": "他們在儀式上穿著禮服。"
+      }
+    },
+    {
+      "word": "Certain",
+      "type": "adjective",
+      "meaning": "Known for sure; established beyond doubt",
+      "example": "I am certain about my decision.",
+      "chinese": {
+        "meaning": "確定的",
+        "example": "我對自己的決定很確定。"
+      }
+    },
+    {
+      "word": "Certified",
+      "type": "adjective",
+      "meaning": "Officially recognized or guaranteed",
+      "example": "He is a certified public accountant.",
+      "chinese": {
+        "meaning": "經認證的",
+        "example": "他是一名經認證的會計師。"
+      }
+    },
+    {
+      "word": "Cervical",
+      "type": "adjective",
+      "meaning": "Relating to the neck or cervix",
+      "example": "Cervical pain is common after injury.",
+      "chinese": {
+        "meaning": "頸部的；子宮頸的",
+        "example": "受傷後常見頸部疼痛。"
+      }
+    },
+    {
+      "word": "Chafing",
+      "type": "adjective",
+      "meaning": "Irritated or rubbed by friction",
+      "example": "The tight shoes caused chafing on his feet.",
+      "chinese": {
+        "meaning": "擦傷的，磨破的",
+        "example": "緊鞋子擦傷了他的腳。"
+      }
+    },
+    {
+      "word": "Chained",
+      "type": "adjective",
+      "meaning": "Bound with chains",
+      "example": "The prisoner was chained to the wall.",
+      "chinese": {
+        "meaning": "被鎖鏈鎖住的",
+        "example": "囚犯被鎖鏈鎖在牆上。"
+      }
+    },
+    {
+      "word": "Challenged",
+      "type": "adjective",
+      "meaning": "Having difficulties or disabilities",
+      "example": "He is mentally challenged.",
+      "chinese": {
+        "meaning": "有困難的；有殘障的",
+        "example": "他有智力障礙。"
       }
     },
     {
@@ -89,6 +679,116 @@
       }
     },
     {
+      "word": "Chambered",
+      "type": "adjective",
+      "meaning": "Having chambers or compartments",
+      "example": "The chambered nautilus has multiple compartments.",
+      "chinese": {
+        "meaning": "有隔間的",
+        "example": "多隔室鹦鹉螺有多個隔間。"
+      }
+    },
+    {
+      "word": "Chameleonic",
+      "type": "adjective",
+      "meaning": "Able to change appearance or character easily",
+      "example": "His chameleonic personality adapts to any situation.",
+      "chinese": {
+        "meaning": "變色龍般善變的",
+        "example": "他多變的性格能適應任何情況。"
+      }
+    },
+    {
+      "word": "Champion",
+      "type": "adjective",
+      "meaning": "Fighting for or defending a cause",
+      "example": "She is a champion of human rights.",
+      "chinese": {
+        "meaning": "支持的，捍衛的",
+        "example": "她是人權的捍衛者。"
+      }
+    },
+    {
+      "word": "Chance",
+      "type": "adjective",
+      "meaning": "Happening unpredictably without definite cause",
+      "example": "They met by chance at the cafe.",
+      "chinese": {
+        "meaning": "偶然的",
+        "example": "他們在咖啡館偶然相遇。"
+      }
+    },
+    {
+      "word": "Chancy",
+      "type": "adjective",
+      "meaning": "Risky or uncertain",
+      "example": "Investing in stocks can be chancy.",
+      "chinese": {
+        "meaning": "冒險的，不確定的",
+        "example": "投資股票可能有風險。"
+      }
+    },
+    {
+      "word": "Changeable",
+      "type": "adjective",
+      "meaning": "Likely to change; variable",
+      "example": "The weather here is very changeable.",
+      "chinese": {
+        "meaning": "易變的",
+        "example": "這裡的天氣很易變。"
+      }
+    },
+    {
+      "word": "Changed",
+      "type": "adjective",
+      "meaning": "Made different",
+      "example": "She is a changed person after the experience.",
+      "chinese": {
+        "meaning": "改變的",
+        "example": "經歷後她變了很多。"
+      }
+    },
+    {
+      "word": "Changing",
+      "type": "adjective",
+      "meaning": "In the process of becoming different",
+      "example": "The changing seasons affect the landscape.",
+      "chinese": {
+        "meaning": "變化中的",
+        "example": "季節的變化影響著風景。"
+      }
+    },
+    {
+      "word": "Chaotic",
+      "type": "adjective",
+      "meaning": "In a state of complete disorder and confusion",
+      "example": "The traffic was chaotic after the accident.",
+      "chinese": {
+        "meaning": "混亂的",
+        "example": "事故後交通一片混亂。"
+      }
+    },
+    {
+      "word": "Characteristic",
+      "type": "adjective",
+      "meaning": "Typical of a particular person, place, or thing",
+      "example": "She has a characteristic smile.",
+      "chinese": {
+        "meaning": "特有的，典型的",
+        "example": "她有一個典型的微笑。"
+      }
+    },
+    {
+      "word": "Charitable",
+      "type": "adjective",
+      "meaning": "Generous in giving to those in need",
+      "example": "He is known for his charitable donations.",
+      "chinese": {
+        "meaning": "慈善的，寬厚的",
+        "example": "他以慈善捐款聞名。"
+      }
+    },
+    {
       "word": "Charming",
       "type": "adjective",
       "letter": "C",
@@ -97,6 +797,36 @@
       "chinese": {
         "meaning": "迷人的",
         "example": "這個村莊在春天很迷人。"
+      }
+    },
+    {
+      "word": "Chaste",
+      "type": "adjective",
+      "meaning": "Pure in thought and act, especially sexually",
+      "example": "She led a chaste life.",
+      "chinese": {
+        "meaning": "純潔的，貞潔的",
+        "example": "她過著純潔的生活。"
+      }
+    },
+    {
+      "word": "Chatty",
+      "type": "adjective",
+      "meaning": "Inclined to talk a lot",
+      "example": "He is very chatty at parties.",
+      "chinese": {
+        "meaning": "健談的",
+        "example": "他在派對上非常健談。"
+      }
+    },
+    {
+      "word": "Cheap",
+      "type": "adjective",
+      "meaning": "Low in price or cost",
+      "example": "They bought cheap shoes.",
+      "chinese": {
+        "meaning": "便宜的",
+        "example": "他們買了便宜的鞋子。"
       }
     },
     {
@@ -111,6 +841,76 @@
       }
     },
     {
+      "word": "Cheering",
+      "type": "adjective",
+      "meaning": "Giving encouragement or happiness",
+      "example": "The cheering crowd lifted the team's spirits.",
+      "chinese": {
+        "meaning": "令人振奮的",
+        "example": "歡呼的人群鼓舞了隊伍。"
+      }
+    },
+    {
+      "word": "Cheerless",
+      "type": "adjective",
+      "meaning": "Lacking happiness or joy",
+      "example": "The cheerless room made everyone feel sad.",
+      "chinese": {
+        "meaning": "無歡樂的",
+        "example": "這個無歡樂的房間讓人感到悲傷。"
+      }
+    },
+    {
+      "word": "Cheesy",
+      "type": "adjective",
+      "meaning": "Of poor quality or tacky",
+      "example": "The movie was too cheesy for my taste.",
+      "chinese": {
+        "meaning": "俗氣的，低劣的",
+        "example": "那部電影太俗氣，不合我的胃口。"
+      }
+    },
+    {
+      "word": "Chemical",
+      "type": "adjective",
+      "meaning": "Relating to chemistry or chemicals",
+      "example": "The factory produces chemical products.",
+      "chinese": {
+        "meaning": "化學的",
+        "example": "該工廠生產化學產品。"
+      }
+    },
+    {
+      "word": "Cherished",
+      "type": "adjective",
+      "meaning": "Loved and valued deeply",
+      "example": "She kept the cherished memories forever.",
+      "chinese": {
+        "meaning": "珍愛的",
+        "example": "她永遠珍藏那些珍貴的回憶。"
+      }
+    },
+    {
+      "word": "Chewy",
+      "type": "adjective",
+      "meaning": "Requiring much chewing",
+      "example": "The bread was fresh and chewy.",
+      "chinese": {
+        "meaning": "有嚼勁的",
+        "example": "這麵包新鮮且有嚼勁。"
+      }
+    },
+    {
+      "word": "Chic",
+      "type": "adjective",
+      "meaning": "Stylish and fashionable",
+      "example": "She wore a chic black dress.",
+      "chinese": {
+        "meaning": "時髦的，別緻的",
+        "example": "她穿著一件時髦的黑色洋裝。"
+      }
+    },
+    {
       "word": "Chief",
       "type": "adjective",
       "letter": "C",
@@ -119,6 +919,46 @@
       "chinese": {
         "meaning": "主要的",
         "example": "她最關心的是家人的安全。"
+      }
+    },
+    {
+      "word": "Childbearing",
+      "type": "adjective",
+      "meaning": "Related to the process of giving birth",
+      "example": "Childbearing age refers to women typically able to bear children.",
+      "chinese": {
+        "meaning": "生育的",
+        "example": "生育年齡指的是通常能生育的女性年齡。"
+      }
+    },
+    {
+      "word": "Childish",
+      "type": "adjective",
+      "meaning": "Immature or silly, like a child",
+      "example": "His childish behavior annoyed everyone.",
+      "chinese": {
+        "meaning": "幼稚的",
+        "example": "他的幼稚行為惹惱了所有人。"
+      }
+    },
+    {
+      "word": "Childlike",
+      "type": "adjective",
+      "meaning": "Having qualities of a child such as innocence",
+      "example": "Her childlike wonder was refreshing.",
+      "chinese": {
+        "meaning": "孩子氣的，天真的",
+        "example": "她那孩子般的驚奇感令人耳目一新。"
+      }
+    },
+    {
+      "word": "Chilling",
+      "type": "adjective",
+      "meaning": "Frightening or disturbing",
+      "example": "The chilling story scared the listeners.",
+      "chinese": {
+        "meaning": "令人毛骨悚然的",
+        "example": "那個令人毛骨悚然的故事嚇壞了聽眾。"
       }
     },
     {
@@ -133,6 +973,226 @@
       }
     },
     {
+      "word": "Chimerical",
+      "type": "adjective",
+      "meaning": "Imaginary or wildly fanciful",
+      "example": "His chimerical plans were unlikely to succeed.",
+      "chinese": {
+        "meaning": "幻想的，不切實際的",
+        "example": "他那些幻想的計畫不太可能成功。"
+      }
+    },
+    {
+      "word": "Chinese",
+      "type": "adjective",
+      "meaning": "Relating to China or its people or language",
+      "example": "Chinese cuisine is famous worldwide.",
+      "chinese": {
+        "meaning": "中國的，中國人的",
+        "example": "中國菜聞名世界。"
+      }
+    },
+    {
+      "word": "Chintzy",
+      "type": "adjective",
+      "meaning": "Cheap and of poor quality",
+      "example": "The fabric looked chintzy and worn.",
+      "chinese": {
+        "meaning": "廉價且品質差的",
+        "example": "那布料看起來廉價又舊。"
+      }
+    },
+    {
+      "word": "Chiral",
+      "type": "adjective",
+      "meaning": "Not superimposable on its mirror image, especially in chemistry",
+      "example": "Many biological molecules are chiral.",
+      "chinese": {
+        "meaning": "手性的（不可重疊的鏡像）",
+        "example": "許多生物分子具有手性。"
+      }
+    },
+    {
+      "word": "Chiseled",
+      "type": "adjective",
+      "meaning": "Clearly defined or sharply shaped",
+      "example": "He had a chiseled jawline.",
+      "chinese": {
+        "meaning": "輪廓分明的",
+        "example": "他有著輪廓分明的下巴。"
+      }
+    },
+    {
+      "word": "Chivalrous",
+      "type": "adjective",
+      "meaning": "Courteous and honorable, especially toward women",
+      "example": "He was known for his chivalrous manners.",
+      "chinese": {
+        "meaning": "騎士風度的，對女性彬彬有禮的",
+        "example": "他以騎士風度聞名。"
+      }
+    },
+    {
+      "word": "Chocolate",
+      "type": "adjective",
+      "meaning": "Relating to or resembling chocolate",
+      "example": "She wore a chocolate brown dress.",
+      "chinese": {
+        "meaning": "巧克力色的",
+        "example": "她穿著巧克力色的裙子。"
+      }
+    },
+    {
+      "word": "Chronic",
+      "type": "adjective",
+      "meaning": "Persisting for a long time or constantly recurring",
+      "example": "He suffers from chronic back pain.",
+      "chinese": {
+        "meaning": "慢性的，長期的",
+        "example": "他患有慢性背痛。"
+      }
+    },
+    {
+      "word": "Chubby",
+      "type": "adjective",
+      "meaning": "Plump or slightly fat in a pleasant way",
+      "example": "The baby had chubby cheeks.",
+      "chinese": {
+        "meaning": "胖嘟嘟的",
+        "example": "嬰兒有胖嘟嘟的臉頰。"
+      }
+    },
+    {
+      "word": "Chummy",
+      "type": "adjective",
+      "meaning": "Friendly and familiar",
+      "example": "They were very chummy after working together.",
+      "chinese": {
+        "meaning": "友好的，親密的",
+        "example": "他們合作後變得很親密。"
+      }
+    },
+    {
+      "word": "Cinematic",
+      "type": "adjective",
+      "meaning": "Related to cinema or having qualities of a movie",
+      "example": "The documentary was very cinematic.",
+      "chinese": {
+        "meaning": "電影的，電影般的",
+        "example": "這部紀錄片非常有電影感。"
+      }
+    },
+    {
+      "word": "Circular",
+      "type": "adjective",
+      "meaning": "Shaped like a circle",
+      "example": "They sat around a circular table.",
+      "chinese": {
+        "meaning": "圓形的",
+        "example": "他們圍坐在圓桌旁。"
+      }
+    },
+    {
+      "word": "Circulatory",
+      "type": "adjective",
+      "meaning": "Relating to the circulation of blood or fluids",
+      "example": "Exercise improves the circulatory system.",
+      "chinese": {
+        "meaning": "循環的",
+        "example": "運動能改善循環系統。"
+      }
+    },
+    {
+      "word": "Circumstantial",
+      "type": "adjective",
+      "meaning": "Dependent on circumstances; incidental",
+      "example": "The evidence was circumstantial.",
+      "chinese": {
+        "meaning": "間接的，依情況而定的",
+        "example": "證據是間接的。"
+      }
+    },
+    {
+      "word": "Civic",
+      "type": "adjective",
+      "meaning": "Relating to a city or citizenship",
+      "example": "They participated in civic duties.",
+      "chinese": {
+        "meaning": "市民的，公民的",
+        "example": "他們參與了市民義務。"
+      }
+    },
+    {
+      "word": "Civil",
+      "type": "adjective",
+      "meaning": "Relating to citizens or polite",
+      "example": "They had a civil conversation.",
+      "chinese": {
+        "meaning": "民事的，文明的",
+        "example": "他們進行了文明的對話。"
+      }
+    },
+    {
+      "word": "Civilian",
+      "type": "adjective",
+      "meaning": "Not military or police",
+      "example": "The attack injured many civilians.",
+      "chinese": {
+        "meaning": "平民的",
+        "example": "襲擊造成許多平民受傷。"
+      }
+    },
+    {
+      "word": "Civilized",
+      "type": "adjective",
+      "meaning": "Polite, well-mannered, or advanced socially",
+      "example": "They come from a civilized society.",
+      "chinese": {
+        "meaning": "文明的，有教養的",
+        "example": "他們來自一個文明社會。"
+      }
+    },
+    {
+      "word": "Clairvoyant",
+      "type": "adjective",
+      "meaning": "Having the ability to see the future or beyond normal perception",
+      "example": "She claimed to be clairvoyant.",
+      "chinese": {
+        "meaning": "有洞察力的，能預見未來的",
+        "example": "她聲稱自己有預知能力。"
+      }
+    },
+    {
+      "word": "Clammy",
+      "type": "adjective",
+      "meaning": "Unpleasantly damp or sticky",
+      "example": "His hands were clammy with sweat.",
+      "chinese": {
+        "meaning": "潮濕黏膩的",
+        "example": "他的手汗濕黏黏的。"
+      }
+    },
+    {
+      "word": "Clandestine",
+      "type": "adjective",
+      "meaning": "Kept secret or done secretly",
+      "example": "They held a clandestine meeting.",
+      "chinese": {
+        "meaning": "秘密的，暗中的",
+        "example": "他們舉行了一次秘密會議。"
+      }
+    },
+    {
+      "word": "Clanging",
+      "type": "adjective",
+      "meaning": "Making a loud, resonant metallic sound",
+      "example": "The clanging bell echoed through the hall.",
+      "chinese": {
+        "meaning": "發出響亮金屬聲的",
+        "example": "響亮的鐘聲在大廳回蕩。"
+      }
+    },
+    {
       "word": "Classic",
       "type": "adjective",
       "letter": "C",
@@ -141,6 +1201,66 @@
       "chinese": {
         "meaning": "經典的",
         "example": "那是一本經典小說。"
+      }
+    },
+    {
+      "word": "Classical",
+      "type": "adjective",
+      "meaning": "Relating to ancient Greek or Roman culture; traditional and enduring",
+      "example": "She enjoys listening to classical music.",
+      "chinese": {
+        "meaning": "古典的，傳統的",
+        "example": "她喜歡聽古典音樂。"
+      }
+    },
+    {
+      "word": "Classifiable",
+      "type": "adjective",
+      "meaning": "Able to be arranged in categories or classes",
+      "example": "These objects are classifiable by size and shape.",
+      "chinese": {
+        "meaning": "可分類的",
+        "example": "這些物品可以按大小和形狀分類。"
+      }
+    },
+    {
+      "word": "Classified",
+      "type": "adjective",
+      "meaning": "Officially designated as secret or confidential",
+      "example": "The document is classified for security reasons.",
+      "chinese": {
+        "meaning": "機密的，分類的",
+        "example": "該文件因安全原因被列為機密。"
+      }
+    },
+    {
+      "word": "Classy",
+      "type": "adjective",
+      "meaning": "Elegant and stylish",
+      "example": "She wore a classy evening gown.",
+      "chinese": {
+        "meaning": "高雅的，有品味的",
+        "example": "她穿著一件高雅的晚禮服。"
+      }
+    },
+    {
+      "word": "Claustral",
+      "type": "adjective",
+      "meaning": "Relating to a claustrum or a confined space",
+      "example": "The claustral region is important in brain anatomy.",
+      "chinese": {
+        "meaning": "與閉鎖核或封閉空間有關的",
+        "example": "閉鎖核區在大腦解剖中很重要。"
+      }
+    },
+    {
+      "word": "Claustrophobic",
+      "type": "adjective",
+      "meaning": "Having an extreme fear of confined spaces",
+      "example": "He felt claustrophobic in the small elevator.",
+      "chinese": {
+        "meaning": "幽閉恐懼的",
+        "example": "他在小電梯裡感到幽閉恐懼。"
       }
     },
     {
@@ -166,6 +1286,56 @@
       }
     },
     {
+      "word": "Clear-cut",
+      "type": "adjective",
+      "meaning": "Easily understood; definite and without ambiguity",
+      "example": "There is a clear-cut difference between the two options.",
+      "chinese": {
+        "meaning": "明確的，清晰的",
+        "example": "這兩個選項之間有明確的區別。"
+      }
+    },
+    {
+      "word": "Cleared",
+      "type": "adjective",
+      "meaning": "Removed of obstacles or made free of restrictions",
+      "example": "The runway was cleared for the plane to land.",
+      "chinese": {
+        "meaning": "清除的，獲准的",
+        "example": "跑道已清理完畢，飛機可以降落。"
+      }
+    },
+    {
+      "word": "Cleft",
+      "type": "adjective",
+      "meaning": "Split or divided",
+      "example": "He had a cleft chin.",
+      "chinese": {
+        "meaning": "裂開的，分裂的",
+        "example": "他有個下巴裂痕。"
+      }
+    },
+    {
+      "word": "Clement",
+      "type": "adjective",
+      "meaning": "Merciful or mild in weather",
+      "example": "The clement weather made the picnic enjoyable.",
+      "chinese": {
+        "meaning": "仁慈的，溫和的",
+        "example": "溫和的天氣讓野餐很愉快。"
+      }
+    },
+    {
+      "word": "Clerical",
+      "type": "adjective",
+      "meaning": "Relating to office or administrative work",
+      "example": "She has a clerical job at the company.",
+      "chinese": {
+        "meaning": "文書的，行政的",
+        "example": "她在公司從事文書工作。"
+      }
+    },
+    {
       "word": "Clever",
       "type": "adjective",
       "letter": "C",
@@ -174,6 +1344,46 @@
       "chinese": {
         "meaning": "聰明的",
         "example": "他給了一個聰明的回答。"
+      }
+    },
+    {
+      "word": "Climactic",
+      "type": "adjective",
+      "meaning": "Relating to the climax or most intense point",
+      "example": "The climactic scene of the movie was thrilling.",
+      "chinese": {
+        "meaning": "高潮的，頂點的",
+        "example": "電影的高潮場景令人激動。"
+      }
+    },
+    {
+      "word": "Clinical",
+      "type": "adjective",
+      "meaning": "Relating to medical treatment or observation",
+      "example": "The patient underwent clinical tests.",
+      "chinese": {
+        "meaning": "臨床的",
+        "example": "患者接受了臨床檢查。"
+      }
+    },
+    {
+      "word": "Clipped",
+      "type": "adjective",
+      "meaning": "Shortened or cut off abruptly",
+      "example": "Her clipped accent made her speech clear.",
+      "chinese": {
+        "meaning": "簡短的，截斷的",
+        "example": "她清晰的口音帶有簡短的節奏。"
+      }
+    },
+    {
+      "word": "Cloaked",
+      "type": "adjective",
+      "meaning": "Covered or concealed",
+      "example": "The city was cloaked in fog.",
+      "chinese": {
+        "meaning": "披著，遮蓋的",
+        "example": "城市籠罩在霧中。"
       }
     },
     {
@@ -188,6 +1398,66 @@
       }
     },
     {
+      "word": "Close-minded",
+      "type": "adjective",
+      "meaning": "Unwilling to consider new ideas or opinions",
+      "example": "He is close-minded about different cultures.",
+      "chinese": {
+        "meaning": "心胸狹窄的",
+        "example": "他對不同文化心胸狹窄。"
+      }
+    },
+    {
+      "word": "Closed",
+      "type": "adjective",
+      "meaning": "Not open; shut",
+      "example": "The store is closed on Sundays.",
+      "chinese": {
+        "meaning": "關閉的",
+        "example": "這家店星期天關門。"
+      }
+    },
+    {
+      "word": "Cloudy",
+      "type": "adjective",
+      "meaning": "Covered with clouds; not clear",
+      "example": "It was a cloudy day with no sun.",
+      "chinese": {
+        "meaning": "多雲的",
+        "example": "那天多雲，沒有陽光。"
+      }
+    },
+    {
+      "word": "Clownish",
+      "type": "adjective",
+      "meaning": "Behaving in a silly or foolish way",
+      "example": "His clownish antics made everyone laugh.",
+      "chinese": {
+        "meaning": "滑稽的，愚蠢的",
+        "example": "他的滑稽行為讓大家笑了。"
+      }
+    },
+    {
+      "word": "Clueless",
+      "type": "adjective",
+      "meaning": "Having no knowledge or understanding",
+      "example": "She was clueless about the new technology.",
+      "chinese": {
+        "meaning": "無知的，一無所知的",
+        "example": "她對新科技一無所知。"
+      }
+    },
+    {
+      "word": "Clumsy",
+      "type": "adjective",
+      "meaning": "Awkward in movement or action",
+      "example": "He is clumsy and often drops things.",
+      "chinese": {
+        "meaning": "笨拙的",
+        "example": "他很笨拙，經常掉東西。"
+      }
+    },
+    {
       "word": "Coarse",
       "type": "adjective",
       "letter": "C",
@@ -196,6 +1466,86 @@
       "chinese": {
         "meaning": "粗糙的",
         "example": "這種布料摸起來很粗糙。"
+      }
+    },
+    {
+      "word": "Coastal",
+      "type": "adjective",
+      "meaning": "Relating to the coast or near the sea",
+      "example": "They live in a coastal town.",
+      "chinese": {
+        "meaning": "海岸的，沿海的",
+        "example": "他們住在一個沿海小鎮。"
+      }
+    },
+    {
+      "word": "Coated",
+      "type": "adjective",
+      "meaning": "Covered with a layer of something",
+      "example": "The leaves were coated with frost.",
+      "chinese": {
+        "meaning": "覆蓋著的",
+        "example": "葉子上覆蓋著霜。"
+      }
+    },
+    {
+      "word": "Coercive",
+      "type": "adjective",
+      "meaning": "Using force or threats to persuade",
+      "example": "The regime used coercive tactics to control people.",
+      "chinese": {
+        "meaning": "強制的，脅迫的",
+        "example": "政權使用強制手段控制人民。"
+      }
+    },
+    {
+      "word": "Cogent",
+      "type": "adjective",
+      "meaning": "Clear, logical, and convincing",
+      "example": "She gave a cogent argument during the debate.",
+      "chinese": {
+        "meaning": "有說服力的",
+        "example": "她在辯論中提出了有說服力的論點。"
+      }
+    },
+    {
+      "word": "Cognitive",
+      "type": "adjective",
+      "meaning": "Related to mental processes such as thinking and learning",
+      "example": "Cognitive development is crucial in childhood.",
+      "chinese": {
+        "meaning": "認知的",
+        "example": "認知發展在兒童期很重要。"
+      }
+    },
+    {
+      "word": "Coherent",
+      "type": "adjective",
+      "meaning": "Logical and consistent",
+      "example": "Her speech was clear and coherent.",
+      "chinese": {
+        "meaning": "有條理的，連貫的",
+        "example": "她的演講清晰且有條理。"
+      }
+    },
+    {
+      "word": "Cohesive",
+      "type": "adjective",
+      "meaning": "Sticking together or unified",
+      "example": "The team was very cohesive and worked well together.",
+      "chinese": {
+        "meaning": "有凝聚力的",
+        "example": "團隊非常有凝聚力，合作順利。"
+      }
+    },
+    {
+      "word": "Coiled",
+      "type": "adjective",
+      "meaning": "Wound into loops or spirals",
+      "example": "The snake was coiled around the branch.",
+      "chinese": {
+        "meaning": "盤繞的",
+        "example": "蛇盤繞在樹枝上。"
       }
     },
     {
@@ -210,6 +1560,76 @@
       }
     },
     {
+      "word": "Collapsible",
+      "type": "adjective",
+      "meaning": "Able to be folded or folded down",
+      "example": "They bought a collapsible chair for camping.",
+      "chinese": {
+        "meaning": "可折疊的",
+        "example": "他們買了一把可折疊的露營椅。"
+      }
+    },
+    {
+      "word": "Collected",
+      "type": "adjective",
+      "meaning": "Calm and self-controlled",
+      "example": "She remained collected during the crisis.",
+      "chinese": {
+        "meaning": "鎮定的，自制的",
+        "example": "她在危機中保持鎮定。"
+      }
+    },
+    {
+      "word": "Collective",
+      "type": "adjective",
+      "meaning": "Done by people acting as a group",
+      "example": "The team made a collective decision.",
+      "chinese": {
+        "meaning": "集體的，共同的",
+        "example": "團隊做出了集體決定。"
+      }
+    },
+    {
+      "word": "Collegial",
+      "type": "adjective",
+      "meaning": "Relating to a cooperative relationship among colleagues",
+      "example": "The staff maintained a collegial atmosphere.",
+      "chinese": {
+        "meaning": "同事間合作的",
+        "example": "員工保持著合作的氛圍。"
+      }
+    },
+    {
+      "word": "Colloquial",
+      "type": "adjective",
+      "meaning": "Used in informal conversation rather than formal speech or writing",
+      "example": "He used colloquial expressions in his speech.",
+      "chinese": {
+        "meaning": "口語的，非正式的",
+        "example": "他在演講中使用了口語表達。"
+      }
+    },
+    {
+      "word": "Colonial",
+      "type": "adjective",
+      "meaning": "Relating to a colony or colonies",
+      "example": "The city has many colonial buildings.",
+      "chinese": {
+        "meaning": "殖民的，殖民地的",
+        "example": "這座城市有許多殖民時期的建築。"
+      }
+    },
+    {
+      "word": "Colored",
+      "type": "adjective",
+      "meaning": "Having color or colors",
+      "example": "The colored lights decorated the street.",
+      "chinese": {
+        "meaning": "有顏色的",
+        "example": "彩燈裝飾著街道。"
+      }
+    },
+    {
       "word": "Colorful",
       "type": "adjective",
       "letter": "C",
@@ -218,6 +1638,66 @@
       "chinese": {
         "meaning": "色彩繽紛的",
         "example": "她穿著一件色彩繽紛的裙子。"
+      }
+    },
+    {
+      "word": "Colossal",
+      "type": "adjective",
+      "meaning": "Extremely large or great",
+      "example": "They built a colossal statue in the park.",
+      "chinese": {
+        "meaning": "巨大的",
+        "example": "他們在公園裡建了一座巨大的雕像。"
+      }
+    },
+    {
+      "word": "Colourful",
+      "type": "adjective",
+      "meaning": "Full of bright colors; lively",
+      "example": "The festival was very colourful.",
+      "chinese": {
+        "meaning": "色彩繽紛的，生動的",
+        "example": "節日非常多彩。"
+      }
+    },
+    {
+      "word": "Comatose",
+      "type": "adjective",
+      "meaning": "In a deep unconscious state",
+      "example": "The patient was comatose after the accident.",
+      "chinese": {
+        "meaning": "昏迷的",
+        "example": "患者在事故後陷入昏迷。"
+      }
+    },
+    {
+      "word": "Combat",
+      "type": "adjective",
+      "meaning": "Engaged in fighting or conflict",
+      "example": "Combat troops were deployed to the area.",
+      "chinese": {
+        "meaning": "戰鬥的，戰鬥用的",
+        "example": "戰鬥部隊被派往該地區。"
+      }
+    },
+    {
+      "word": "Combative",
+      "type": "adjective",
+      "meaning": "Ready or eager to fight or argue",
+      "example": "She had a combative attitude during the debate.",
+      "chinese": {
+        "meaning": "好鬥的，爭強好勝的",
+        "example": "她在辯論中態度好鬥。"
+      }
+    },
+    {
+      "word": "Combined",
+      "type": "adjective",
+      "meaning": "Joined or merged together",
+      "example": "They made a combined effort to complete the project.",
+      "chinese": {
+        "meaning": "結合的，合併的",
+        "example": "他們共同努力完成了項目。"
       }
     },
     {
@@ -232,6 +1712,76 @@
       }
     },
     {
+      "word": "Comic",
+      "type": "adjective",
+      "meaning": "Relating to comedy or causing laughter",
+      "example": "He is known for his comic performances.",
+      "chinese": {
+        "meaning": "喜劇的，滑稽的",
+        "example": "他以喜劇表演聞名。"
+      }
+    },
+    {
+      "word": "Comical",
+      "type": "adjective",
+      "meaning": "Funny in an amusing or absurd way",
+      "example": "The clown's comical antics made the children laugh.",
+      "chinese": {
+        "meaning": "滑稽的，可笑的",
+        "example": "小丑的滑稽行為讓孩子們笑了。"
+      }
+    },
+    {
+      "word": "Commanding",
+      "type": "adjective",
+      "meaning": "Having a powerful or authoritative presence",
+      "example": "She has a commanding voice that commands attention.",
+      "chinese": {
+        "meaning": "威嚴的，有權威的",
+        "example": "她有一個威嚴的聲音，吸引注意。"
+      }
+    },
+    {
+      "word": "Commemorative",
+      "type": "adjective",
+      "meaning": "Serving as a memorial or reminder",
+      "example": "They held a commemorative ceremony for the veterans.",
+      "chinese": {
+        "meaning": "紀念的",
+        "example": "他們為退伍軍人舉行了紀念儀式。"
+      }
+    },
+    {
+      "word": "Commendable",
+      "type": "adjective",
+      "meaning": "Worthy of praise",
+      "example": "Her dedication to the cause was commendable.",
+      "chinese": {
+        "meaning": "值得讚揚的",
+        "example": "她對這個事業的奉獻值得讚揚。"
+      }
+    },
+    {
+      "word": "Commercial",
+      "type": "adjective",
+      "meaning": "Related to business or trade",
+      "example": "They produced a commercial advertisement for the product.",
+      "chinese": {
+        "meaning": "商業的，商務的",
+        "example": "他們為產品製作了商業廣告。"
+      }
+    },
+    {
+      "word": "Commercialized",
+      "type": "adjective",
+      "meaning": "Developed primarily for profit",
+      "example": "The holiday has become highly commercialized.",
+      "chinese": {
+        "meaning": "商業化的",
+        "example": "這個節日已高度商業化。"
+      }
+    },
+    {
       "word": "Common",
       "type": "adjective",
       "letter": "C",
@@ -240,6 +1790,56 @@
       "chinese": {
         "meaning": "常見的",
         "example": "這是一個常見的錯誤。"
+      }
+    },
+    {
+      "word": "Communal",
+      "type": "adjective",
+      "meaning": "Shared by a community or group",
+      "example": "They use a communal kitchen in the dormitory.",
+      "chinese": {
+        "meaning": "公共的，群體的",
+        "example": "他們在宿舍使用公共廚房。"
+      }
+    },
+    {
+      "word": "Communicative",
+      "type": "adjective",
+      "meaning": "Willing to talk or impart information",
+      "example": "She is very communicative and easy to talk to.",
+      "chinese": {
+        "meaning": "善於表達的，健談的",
+        "example": "她很健談，容易交談。"
+      }
+    },
+    {
+      "word": "Communist",
+      "type": "adjective",
+      "meaning": "Relating to communism, a political ideology",
+      "example": "He studied communist theory in college.",
+      "chinese": {
+        "meaning": "共產主義的",
+        "example": "他在大學學習共產主義理論。"
+      }
+    },
+    {
+      "word": "Community",
+      "type": "adjective",
+      "meaning": "Relating to a group of people living in the same area",
+      "example": "They organized a community event.",
+      "chinese": {
+        "meaning": "社區的",
+        "example": "他們組織了一個社區活動。"
+      }
+    },
+    {
+      "word": "Commutative",
+      "type": "adjective",
+      "meaning": "Relating to the property that order does not affect the result (in math)",
+      "example": "Addition is commutative because the order doesn't matter.",
+      "chinese": {
+        "meaning": "交換的（數學）",
+        "example": "加法是交換的，因為順序不影響結果。"
       }
     },
     {
@@ -254,6 +1854,36 @@
       }
     },
     {
+      "word": "Comparable",
+      "type": "adjective",
+      "meaning": "Able to be likened to something else",
+      "example": "The two cars are comparable in price and quality.",
+      "chinese": {
+        "meaning": "可比較的",
+        "example": "這兩輛車在價格和質量上可比較。"
+      }
+    },
+    {
+      "word": "Comparative",
+      "type": "adjective",
+      "meaning": "Relative; measured by comparison",
+      "example": "She has a comparative advantage in this skill.",
+      "chinese": {
+        "meaning": "比較的，相對的",
+        "example": "她在這項技能上有比較優勢。"
+      }
+    },
+    {
+      "word": "Compartmentalized",
+      "type": "adjective",
+      "meaning": "Divided into sections or categories",
+      "example": "The project was compartmentalized into different tasks.",
+      "chinese": {
+        "meaning": "分隔的，劃分的",
+        "example": "該項目被劃分成不同的任務。"
+      }
+    },
+    {
       "word": "Compassionate",
       "type": "adjective",
       "letter": "C",
@@ -265,6 +1895,16 @@
       }
     },
     {
+      "word": "Compelled",
+      "type": "adjective",
+      "meaning": "Forced or obligated to do something",
+      "example": "She felt compelled to speak out.",
+      "chinese": {
+        "meaning": "被迫的，強制的",
+        "example": "她感到被迫發言。"
+      }
+    },
+    {
       "word": "Compelling",
       "type": "adjective",
       "letter": "C",
@@ -273,6 +1913,16 @@
       "chinese": {
         "meaning": "引人注目的",
         "example": "演講者提出了引人注目的論點。"
+      }
+    },
+    {
+      "word": "Compensatory",
+      "type": "adjective",
+      "meaning": "Serving to make up for something lost or damaged",
+      "example": "He received compensatory damages in the lawsuit.",
+      "chinese": {
+        "meaning": "補償的",
+        "example": "他在訴訟中獲得了補償性損害賠償。"
       }
     },
     {
@@ -309,6 +1959,66 @@
       }
     },
     {
+      "word": "Complementary",
+      "type": "adjective",
+      "meaning": "Combining well to enhance or complete something",
+      "example": "Their skills are complementary.",
+      "chinese": {
+        "meaning": "互補的",
+        "example": "他們的技能是互補的。"
+      }
+    },
+    {
+      "word": "Complete",
+      "type": "adjective",
+      "meaning": "Having all parts or elements; whole",
+      "example": "The puzzle is now complete.",
+      "chinese": {
+        "meaning": "完整的，完全的",
+        "example": "拼圖現在完成了。"
+      }
+    },
+    {
+      "word": "Complex",
+      "type": "adjective",
+      "meaning": "Consisting of many interconnected parts; complicated",
+      "example": "The instructions were complex and hard to understand.",
+      "chinese": {
+        "meaning": "複雜的",
+        "example": "說明書複雜且難以理解。"
+      }
+    },
+    {
+      "word": "Compliant",
+      "type": "adjective",
+      "meaning": "Obedient or yielding to requirements",
+      "example": "The company is compliant with all regulations.",
+      "chinese": {
+        "meaning": "遵從的，順從的",
+        "example": "該公司遵守所有規定。"
+      }
+    },
+    {
+      "word": "Complicated",
+      "type": "adjective",
+      "meaning": "Difficult to understand or deal with",
+      "example": "The instructions were complicated.",
+      "chinese": {
+        "meaning": "複雜的，難懂的",
+        "example": "說明書很複雜。"
+      }
+    },
+    {
+      "word": "Complimentary",
+      "type": "adjective",
+      "meaning": "Expressing praise or free of charge",
+      "example": "She gave me a complimentary ticket.",
+      "chinese": {
+        "meaning": "讚美的；免費的",
+        "example": "她給了我一張免費票。"
+      }
+    },
+    {
       "word": "Composed",
       "type": "adjective",
       "letter": "C",
@@ -317,6 +2027,16 @@
       "chinese": {
         "meaning": "鎮定的",
         "example": "在危機中她保持鎮定。"
+      }
+    },
+    {
+      "word": "Composite",
+      "type": "adjective",
+      "meaning": "Made up of various parts or elements",
+      "example": "The sculpture was a composite of different materials.",
+      "chinese": {
+        "meaning": "合成的，複合的",
+        "example": "這座雕塑是由不同材料合成的。"
       }
     },
     {
@@ -331,6 +2051,96 @@
       }
     },
     {
+      "word": "Compulsive",
+      "type": "adjective",
+      "meaning": "Driven by an irresistible urge",
+      "example": "He has a compulsive need to check his phone.",
+      "chinese": {
+        "meaning": "強迫性的",
+        "example": "他有強迫性地查看手機的習慣。"
+      }
+    },
+    {
+      "word": "Compulsory",
+      "type": "adjective",
+      "meaning": "Required by law or rule",
+      "example": "Attendance is compulsory for all students.",
+      "chinese": {
+        "meaning": "強制性的，必須的",
+        "example": "所有學生必須出席。"
+      }
+    },
+    {
+      "word": "Conceived",
+      "type": "adjective",
+      "meaning": "Formed or devised in the mind",
+      "example": "The plan was conceived last year.",
+      "chinese": {
+        "meaning": "構思的，想出的",
+        "example": "這個計劃是去年構思的。"
+      }
+    },
+    {
+      "word": "Concentrated",
+      "type": "adjective",
+      "meaning": "Focused or gathered in one place",
+      "example": "She gave her concentrated attention to the task.",
+      "chinese": {
+        "meaning": "集中的，專注的",
+        "example": "她專心致志地完成任務。"
+      }
+    },
+    {
+      "word": "Conceptual",
+      "type": "adjective",
+      "meaning": "Related to ideas or concepts",
+      "example": "The art was very conceptual.",
+      "chinese": {
+        "meaning": "概念上的",
+        "example": "這藝術作品非常概念化。"
+      }
+    },
+    {
+      "word": "Concerned",
+      "type": "adjective",
+      "meaning": "Worried or interested",
+      "example": "She was concerned about the results.",
+      "chinese": {
+        "meaning": "擔心的，關心的",
+        "example": "她擔心結果。"
+      }
+    },
+    {
+      "word": "Concerted",
+      "type": "adjective",
+      "meaning": "Jointly arranged or carried out",
+      "example": "They made a concerted effort to improve.",
+      "chinese": {
+        "meaning": "協同的，共同努力的",
+        "example": "他們協同努力改進。"
+      }
+    },
+    {
+      "word": "Concessive",
+      "type": "adjective",
+      "meaning": "Acknowledging something but contrasting it",
+      "example": "A concessive clause shows contrast.",
+      "chinese": {
+        "meaning": "讓步的",
+        "example": "讓步子句表示對比。"
+      }
+    },
+    {
+      "word": "Conciliatory",
+      "type": "adjective",
+      "meaning": "Intended to placate or reconcile",
+      "example": "He made a conciliatory gesture after the argument.",
+      "chinese": {
+        "meaning": "調和的，撫慰的",
+        "example": "爭吵後他作出撫慰的姿態。"
+      }
+    },
+    {
       "word": "Concise",
       "type": "adjective",
       "letter": "C",
@@ -339,6 +2149,26 @@
       "chinese": {
         "meaning": "簡明的",
         "example": "他的解釋簡明扼要。"
+      }
+    },
+    {
+      "word": "Concluded",
+      "type": "adjective",
+      "meaning": "Decided or finished",
+      "example": "The meeting was concluded at noon.",
+      "chinese": {
+        "meaning": "結束的，決定的",
+        "example": "會議於中午結束。"
+      }
+    },
+    {
+      "word": "Concluding",
+      "type": "adjective",
+      "meaning": "Serving to bring to an end",
+      "example": "The concluding remarks were inspiring.",
+      "chinese": {
+        "meaning": "結尾的",
+        "example": "結尾的發言令人振奮。"
       }
     },
     {
@@ -353,6 +2183,96 @@
       }
     },
     {
+      "word": "Concordant",
+      "type": "adjective",
+      "meaning": "In agreement or harmony",
+      "example": "Their opinions were concordant.",
+      "chinese": {
+        "meaning": "一致的，和諧的",
+        "example": "他們的意見一致。"
+      }
+    },
+    {
+      "word": "Concrete",
+      "type": "adjective",
+      "meaning": "Real and tangible; not abstract",
+      "example": "We need concrete evidence.",
+      "chinese": {
+        "meaning": "具體的，實在的",
+        "example": "我們需要具體的證據。"
+      }
+    },
+    {
+      "word": "Concurrent",
+      "type": "adjective",
+      "meaning": "Happening at the same time",
+      "example": "The two events are concurrent.",
+      "chinese": {
+        "meaning": "同時發生的",
+        "example": "這兩個事件同時發生。"
+      }
+    },
+    {
+      "word": "Condemned",
+      "type": "adjective",
+      "meaning": "Declared to be wrong or unfit",
+      "example": "The building was condemned as unsafe.",
+      "chinese": {
+        "meaning": "被判定不合格的",
+        "example": "該建築被判定為不安全。"
+      }
+    },
+    {
+      "word": "Condensed",
+      "type": "adjective",
+      "meaning": "Made denser or shorter",
+      "example": "A condensed version of the book was published.",
+      "chinese": {
+        "meaning": "濃縮的，簡潔的",
+        "example": "書的簡縮版出版了。"
+      }
+    },
+    {
+      "word": "Conditional",
+      "type": "adjective",
+      "meaning": "Subject to one or more conditions",
+      "example": "His acceptance is conditional on passing the test.",
+      "chinese": {
+        "meaning": "有條件的",
+        "example": "他的錄取取決於通過考試。"
+      }
+    },
+    {
+      "word": "Conditioned",
+      "type": "adjective",
+      "meaning": "Trained or adapted to behave in a certain way",
+      "example": "The dog is conditioned to respond to commands.",
+      "chinese": {
+        "meaning": "受訓練的，調整過的",
+        "example": "這隻狗受過訓練會服從命令。"
+      }
+    },
+    {
+      "word": "Confederal",
+      "type": "adjective",
+      "meaning": "Relating to a confederation or alliance",
+      "example": "They formed a confederal government.",
+      "chinese": {
+        "meaning": "聯盟的，邦聯的",
+        "example": "他們組建了聯盟政府。"
+      }
+    },
+    {
+      "word": "Confederate",
+      "type": "adjective",
+      "meaning": "Joined by an agreement or alliance",
+      "example": "The confederate states acted together.",
+      "chinese": {
+        "meaning": "同盟的，聯盟的",
+        "example": "同盟州一起行動。"
+      }
+    },
+    {
       "word": "Confident",
       "type": "adjective",
       "letter": "C",
@@ -361,6 +2281,206 @@
       "chinese": {
         "meaning": "有信心的",
         "example": "她向小組展示了充滿信心的報告。"
+      }
+    },
+    {
+      "word": "Confidential",
+      "type": "adjective",
+      "meaning": "Meant to be kept secret or private",
+      "example": "The documents are confidential.",
+      "chinese": {
+        "meaning": "機密的，秘密的",
+        "example": "這些文件是機密的。"
+      }
+    },
+    {
+      "word": "Confined",
+      "type": "adjective",
+      "meaning": "Restricted within limits",
+      "example": "The patient was confined to bed.",
+      "chinese": {
+        "meaning": "受限制的，局限的",
+        "example": "病人被限制在床上。"
+      }
+    },
+    {
+      "word": "Confirmed",
+      "type": "adjective",
+      "meaning": "Established as true or definite",
+      "example": "The confirmed booking was sent by email.",
+      "chinese": {
+        "meaning": "確定的，已證實的",
+        "example": "確定的預訂已通過電子郵件發送。"
+      }
+    },
+    {
+      "word": "Conflictual",
+      "type": "adjective",
+      "meaning": "Involving conflict or disagreement",
+      "example": "They had a conflictual relationship.",
+      "chinese": {
+        "meaning": "有衝突的",
+        "example": "他們的關係充滿衝突。"
+      }
+    },
+    {
+      "word": "Conformed",
+      "type": "adjective",
+      "meaning": "Behaved according to rules or standards",
+      "example": "She conformed to the dress code.",
+      "chinese": {
+        "meaning": "遵守規則的",
+        "example": "她遵守了著裝規範。"
+      }
+    },
+    {
+      "word": "Conformist",
+      "type": "adjective",
+      "meaning": "Following accepted behavior or customs",
+      "example": "He has a conformist attitude.",
+      "chinese": {
+        "meaning": "遵從習俗的",
+        "example": "他有一種遵從習俗的態度。"
+      }
+    },
+    {
+      "word": "Confrontational",
+      "type": "adjective",
+      "meaning": "Tending to challenge or argue",
+      "example": "His confrontational style causes conflicts.",
+      "chinese": {
+        "meaning": "挑釁的，好爭論的",
+        "example": "他的挑釁風格引起衝突。"
+      }
+    },
+    {
+      "word": "Confused",
+      "type": "adjective",
+      "meaning": "Unable to think clearly",
+      "example": "She was confused by the instructions.",
+      "chinese": {
+        "meaning": "困惑的",
+        "example": "她被指示弄糊塗了。"
+      }
+    },
+    {
+      "word": "Confusing",
+      "type": "adjective",
+      "meaning": "Causing confusion",
+      "example": "The confusing directions led us astray.",
+      "chinese": {
+        "meaning": "令人困惑的",
+        "example": "令人困惑的指示讓我們迷路了。"
+      }
+    },
+    {
+      "word": "Congenial",
+      "type": "adjective",
+      "meaning": "Pleasant because of similar interests",
+      "example": "She found a congenial friend at school.",
+      "chinese": {
+        "meaning": "意氣相投的，友善的",
+        "example": "她在學校找到了一位志趣相投的朋友。"
+      }
+    },
+    {
+      "word": "Congenital",
+      "type": "adjective",
+      "meaning": "Existing from birth",
+      "example": "He has a congenital heart defect.",
+      "chinese": {
+        "meaning": "先天的",
+        "example": "他有先天性心臟缺陷。"
+      }
+    },
+    {
+      "word": "Congested",
+      "type": "adjective",
+      "meaning": "Overcrowded or blocked",
+      "example": "The city center was congested with traffic.",
+      "chinese": {
+        "meaning": "擁擠的，堵塞的",
+        "example": "市中心交通擁堵。"
+      }
+    },
+    {
+      "word": "Congratulatory",
+      "type": "adjective",
+      "meaning": "Expressing praise for someone's achievement",
+      "example": "She sent a congratulatory message.",
+      "chinese": {
+        "meaning": "祝賀的",
+        "example": "她發送了一條祝賀信息。"
+      }
+    },
+    {
+      "word": "Congressional",
+      "type": "adjective",
+      "meaning": "Relating to a congress (legislative body)",
+      "example": "Congressional hearings were held last week.",
+      "chinese": {
+        "meaning": "國會的",
+        "example": "上週舉行了國會聽證會。"
+      }
+    },
+    {
+      "word": "Conical",
+      "type": "adjective",
+      "meaning": "Shaped like a cone",
+      "example": "The mountain had a conical shape.",
+      "chinese": {
+        "meaning": "錐形的",
+        "example": "這座山呈錐形。"
+      }
+    },
+    {
+      "word": "Conjoined",
+      "type": "adjective",
+      "meaning": "Joined together",
+      "example": "The conjoined twins share some organs.",
+      "chinese": {
+        "meaning": "連體的，連接在一起的",
+        "example": "連體雙胞胎共用一些器官。"
+      }
+    },
+    {
+      "word": "Conjugal",
+      "type": "adjective",
+      "meaning": "Relating to marriage or the relationship between spouses",
+      "example": "They enjoyed a happy conjugal life.",
+      "chinese": {
+        "meaning": "婚姻的，夫妻間的",
+        "example": "他們享受幸福的婚姻生活。"
+      }
+    },
+    {
+      "word": "Connected",
+      "type": "adjective",
+      "meaning": "Joined or linked together",
+      "example": "The rooms are connected by a corridor.",
+      "chinese": {
+        "meaning": "連接的，關聯的",
+        "example": "房間由走廊相連。"
+      }
+    },
+    {
+      "word": "Connecting",
+      "type": "adjective",
+      "meaning": "Serving to join two or more things",
+      "example": "The connecting flight was delayed.",
+      "chinese": {
+        "meaning": "連接的，銜接的",
+        "example": "轉機航班被延誤了。"
+      }
+    },
+    {
+      "word": "Connective",
+      "type": "adjective",
+      "meaning": "Serving to connect; related to connecting tissue",
+      "example": "Connective tissue supports organs.",
+      "chinese": {
+        "meaning": "連接的，結締的",
+        "example": "結締組織支撐器官。"
       }
     },
     {
@@ -386,6 +2506,26 @@
       }
     },
     {
+      "word": "Consequential",
+      "type": "adjective",
+      "meaning": "Important or significant",
+      "example": "The decision had consequential effects.",
+      "chinese": {
+        "meaning": "重要的，有重大影響的",
+        "example": "這個決定產生了重大影響。"
+      }
+    },
+    {
+      "word": "Conservative",
+      "type": "adjective",
+      "meaning": "Favoring traditional views and values",
+      "example": "He has conservative political beliefs.",
+      "chinese": {
+        "meaning": "保守的，守舊的",
+        "example": "他持有保守的政治觀點。"
+      }
+    },
+    {
       "word": "Considerate",
       "type": "adjective",
       "letter": "C",
@@ -408,6 +2548,36 @@
       }
     },
     {
+      "word": "Consolidated",
+      "type": "adjective",
+      "meaning": "Made stronger or more solid",
+      "example": "The company consolidated its market position.",
+      "chinese": {
+        "meaning": "鞏固的，合併的",
+        "example": "公司鞏固了其市場地位。"
+      }
+    },
+    {
+      "word": "Conspicuous",
+      "type": "adjective",
+      "meaning": "Easily seen or noticed",
+      "example": "She wore a conspicuous red dress.",
+      "chinese": {
+        "meaning": "顯眼的，醒目的",
+        "example": "她穿著一件醒目的紅色連衣裙。"
+      }
+    },
+    {
+      "word": "Conspiratorial",
+      "type": "adjective",
+      "meaning": "Suggesting secret plans by a group",
+      "example": "They exchanged conspiratorial glances.",
+      "chinese": {
+        "meaning": "陰謀的，密謀的",
+        "example": "他們交換了密謀的眼神。"
+      }
+    },
+    {
       "word": "Constant",
       "type": "adjective",
       "letter": "C",
@@ -416,6 +2586,56 @@
       "chinese": {
         "meaning": "持續的",
         "example": "她在工作中承受著持續的壓力。"
+      }
+    },
+    {
+      "word": "Constipated",
+      "type": "adjective",
+      "meaning": "Having difficulty in bowel movements",
+      "example": "He felt constipated after eating poorly.",
+      "chinese": {
+        "meaning": "便秘的",
+        "example": "他因飲食不當感到便秘。"
+      }
+    },
+    {
+      "word": "Constituent",
+      "type": "adjective",
+      "meaning": "Being part of a whole",
+      "example": "Water is a constituent of many drinks.",
+      "chinese": {
+        "meaning": "組成的，構成的",
+        "example": "水是許多飲料的成分。"
+      }
+    },
+    {
+      "word": "Constitutional",
+      "type": "adjective",
+      "meaning": "Relating to a constitution or physical health",
+      "example": "She has a constitutional right to vote.",
+      "chinese": {
+        "meaning": "憲法的，體質的",
+        "example": "她有投票的憲法權利。"
+      }
+    },
+    {
+      "word": "Constrained",
+      "type": "adjective",
+      "meaning": "Restricted or limited",
+      "example": "He felt constrained by the rules.",
+      "chinese": {
+        "meaning": "受限制的，受約束的",
+        "example": "他覺得被規則限制住了。"
+      }
+    },
+    {
+      "word": "Constricting",
+      "type": "adjective",
+      "meaning": "Tightening or squeezing",
+      "example": "The snake has a constricting grip.",
+      "chinese": {
+        "meaning": "收縮的，緊縮的",
+        "example": "蛇有收縮的抓握力。"
       }
     },
     {
@@ -430,6 +2650,66 @@
       }
     },
     {
+      "word": "Consumable",
+      "type": "adjective",
+      "meaning": "Able to be used up or consumed",
+      "example": "Food and fuel are consumable resources.",
+      "chinese": {
+        "meaning": "可消耗的，可用盡的",
+        "example": "食物和燃料是可消耗的資源。"
+      }
+    },
+    {
+      "word": "Consumed",
+      "type": "adjective",
+      "meaning": "Used up or engrossed",
+      "example": "She was consumed by grief.",
+      "chinese": {
+        "meaning": "被消耗的，沈浸於（感情中）的",
+        "example": "她被悲傷所淹沒。"
+      }
+    },
+    {
+      "word": "Consuming",
+      "type": "adjective",
+      "meaning": "Intensely absorbing or engrossing",
+      "example": "He had a consuming passion for art.",
+      "chinese": {
+        "meaning": "強烈的，消耗性的",
+        "example": "他對藝術有強烈的熱情。"
+      }
+    },
+    {
+      "word": "Contagious",
+      "type": "adjective",
+      "meaning": "Able to be spread from person to person",
+      "example": "The flu is highly contagious.",
+      "chinese": {
+        "meaning": "傳染性的",
+        "example": "流感具有高度傳染性。"
+      }
+    },
+    {
+      "word": "Contained",
+      "type": "adjective",
+      "meaning": "Held or kept within limits",
+      "example": "The fire was contained quickly.",
+      "chinese": {
+        "meaning": "被控制的，受限的",
+        "example": "火勢被迅速控制住。"
+      }
+    },
+    {
+      "word": "Contemplative",
+      "type": "adjective",
+      "meaning": "Deeply thoughtful",
+      "example": "She became contemplative after the lecture.",
+      "chinese": {
+        "meaning": "沈思的，深思熟慮的",
+        "example": "她在講座後變得沈思。"
+      }
+    },
+    {
       "word": "Contemporary",
       "type": "adjective",
       "letter": "C",
@@ -438,6 +2718,26 @@
       "chinese": {
         "meaning": "當代的",
         "example": "她喜歡當代音樂。"
+      }
+    },
+    {
+      "word": "Contemptible",
+      "type": "adjective",
+      "meaning": "Deserving contempt or scorn",
+      "example": "His actions were contemptible.",
+      "chinese": {
+        "meaning": "可鄙的，卑劣的",
+        "example": "他的行為令人鄙視。"
+      }
+    },
+    {
+      "word": "Contemptuous",
+      "type": "adjective",
+      "meaning": "Showing disdain or disrespect",
+      "example": "He gave a contemptuous laugh.",
+      "chinese": {
+        "meaning": "輕蔑的，鄙視的",
+        "example": "他輕蔑地笑了。"
       }
     },
     {
@@ -452,6 +2752,76 @@
       }
     },
     {
+      "word": "Contented",
+      "type": "adjective",
+      "meaning": "Satisfied and happy",
+      "example": "She had a contented smile.",
+      "chinese": {
+        "meaning": "滿足的，心安的",
+        "example": "她露出滿足的微笑。"
+      }
+    },
+    {
+      "word": "Contentious",
+      "type": "adjective",
+      "meaning": "Causing or likely to cause disagreement",
+      "example": "The topic is highly contentious.",
+      "chinese": {
+        "meaning": "有爭議的，引起爭論的",
+        "example": "這個話題非常有爭議。"
+      }
+    },
+    {
+      "word": "Contiguous",
+      "type": "adjective",
+      "meaning": "Touching or adjacent",
+      "example": "The states are contiguous.",
+      "chinese": {
+        "meaning": "鄰近的，接壤的",
+        "example": "這些州是相鄰的。"
+      }
+    },
+    {
+      "word": "Continental",
+      "type": "adjective",
+      "meaning": "Relating to a continent",
+      "example": "They took a continental flight.",
+      "chinese": {
+        "meaning": "大陸的，大陸性的",
+        "example": "他們乘坐了大陸航班。"
+      }
+    },
+    {
+      "word": "Contingent",
+      "type": "adjective",
+      "meaning": "Dependent on something else",
+      "example": "The plan is contingent on funding.",
+      "chinese": {
+        "meaning": "依情況而定的，有條件的",
+        "example": "計劃取決於資金。"
+      }
+    },
+    {
+      "word": "Continued",
+      "type": "adjective",
+      "meaning": "Ongoing without interruption",
+      "example": "The continued support was appreciated.",
+      "chinese": {
+        "meaning": "持續的，不間斷的",
+        "example": "持續的支持令人感激。"
+      }
+    },
+    {
+      "word": "Continuing",
+      "type": "adjective",
+      "meaning": "Persisting or ongoing",
+      "example": "Continuing education is important.",
+      "chinese": {
+        "meaning": "持續的，連續的",
+        "example": "持續教育很重要。"
+      }
+    },
+    {
       "word": "Continuous",
       "type": "adjective",
       "letter": "C",
@@ -460,6 +2830,106 @@
       "chinese": {
         "meaning": "連續的",
         "example": "這台機器持續運作。"
+      }
+    },
+    {
+      "word": "Contorted",
+      "type": "adjective",
+      "meaning": "Twisted or bent out of shape",
+      "example": "His face was contorted in pain.",
+      "chinese": {
+        "meaning": "扭曲的，變形的",
+        "example": "他的臉因疼痛而扭曲。"
+      }
+    },
+    {
+      "word": "Contraband",
+      "type": "adjective",
+      "meaning": "Illegal or prohibited goods",
+      "example": "They were caught with contraband items.",
+      "chinese": {
+        "meaning": "走私的，違禁的",
+        "example": "他們被抓到攜帶走私物品。"
+      }
+    },
+    {
+      "word": "Contradictory",
+      "type": "adjective",
+      "meaning": "Involving or causing conflict or opposition",
+      "example": "Their statements were contradictory.",
+      "chinese": {
+        "meaning": "矛盾的，抵觸的",
+        "example": "他們的陳述互相矛盾。"
+      }
+    },
+    {
+      "word": "Contrarian",
+      "type": "adjective",
+      "meaning": "Opposing or rejecting popular opinion",
+      "example": "He took a contrarian viewpoint.",
+      "chinese": {
+        "meaning": "逆向的，反對主流意見的",
+        "example": "他持有逆向的觀點。"
+      }
+    },
+    {
+      "word": "Contrasting",
+      "type": "adjective",
+      "meaning": "Showing differences when compared",
+      "example": "The contrasting colors made the design pop.",
+      "chinese": {
+        "meaning": "對比的，形成鮮明對比的",
+        "example": "對比色使設計更突出。"
+      }
+    },
+    {
+      "word": "Contributory",
+      "type": "adjective",
+      "meaning": "Helping to cause or bring about",
+      "example": "Smoking is a contributory factor to illness.",
+      "chinese": {
+        "meaning": "促成的，作為原因的",
+        "example": "吸煙是疾病的促成因素。"
+      }
+    },
+    {
+      "word": "Contrived",
+      "type": "adjective",
+      "meaning": "Artificial or forced; not natural",
+      "example": "The ending felt contrived and unrealistic.",
+      "chinese": {
+        "meaning": "做作的，不自然的",
+        "example": "結局感覺做作且不真實。"
+      }
+    },
+    {
+      "word": "Controlled",
+      "type": "adjective",
+      "meaning": "Regulated or managed",
+      "example": "The experiment was controlled carefully.",
+      "chinese": {
+        "meaning": "受控的，控制的",
+        "example": "實驗被仔細控制。"
+      }
+    },
+    {
+      "word": "Controversial",
+      "type": "adjective",
+      "meaning": "Causing disagreement or debate",
+      "example": "The policy is highly controversial.",
+      "chinese": {
+        "meaning": "有爭議的，引起爭論的",
+        "example": "這項政策非常有爭議。"
+      }
+    },
+    {
+      "word": "Convalescent",
+      "type": "adjective",
+      "meaning": "Recovering health after illness",
+      "example": "She is in a convalescent phase after surgery.",
+      "chinese": {
+        "meaning": "康復期的，療養中的",
+        "example": "她在手術後處於康復期。"
       }
     },
     {
@@ -485,6 +2955,76 @@
       }
     },
     {
+      "word": "Conversational",
+      "type": "adjective",
+      "meaning": "Relating to informal speech or talk",
+      "example": "He has a very conversational style.",
+      "chinese": {
+        "meaning": "會話的，交談的",
+        "example": "他的風格非常口語化。"
+      }
+    },
+    {
+      "word": "Converted",
+      "type": "adjective",
+      "meaning": "Changed in form, function, or belief",
+      "example": "The church was converted into a museum.",
+      "chinese": {
+        "meaning": "改變的，轉變的",
+        "example": "教堂被改建成博物館。"
+      }
+    },
+    {
+      "word": "Convex",
+      "type": "adjective",
+      "meaning": "Curving outward",
+      "example": "The convex mirror shows a wider view.",
+      "chinese": {
+        "meaning": "凸面的，向外彎曲的",
+        "example": "凸面鏡提供更廣的視野。"
+      }
+    },
+    {
+      "word": "Convicted",
+      "type": "adjective",
+      "meaning": "Found guilty of a crime",
+      "example": "He is a convicted criminal.",
+      "chinese": {
+        "meaning": "被判有罪的",
+        "example": "他是被判有罪的罪犯。"
+      }
+    },
+    {
+      "word": "Convinced",
+      "type": "adjective",
+      "meaning": "Completely certain about something",
+      "example": "She was convinced of his innocence.",
+      "chinese": {
+        "meaning": "深信的，確信的",
+        "example": "她深信他是無辜的。"
+      }
+    },
+    {
+      "word": "Convincing",
+      "type": "adjective",
+      "meaning": "Persuasive and believable",
+      "example": "He gave a convincing argument.",
+      "chinese": {
+        "meaning": "有說服力的，令人信服的",
+        "example": "他提出了有說服力的論點。"
+      }
+    },
+    {
+      "word": "Convoluted",
+      "type": "adjective",
+      "meaning": "Extremely complex or complicated",
+      "example": "The plot was so convoluted it was hard to follow.",
+      "chinese": {
+        "meaning": "複雜的，費解的",
+        "example": "故事情節太複雜，難以理解。"
+      }
+    },
+    {
       "word": "Cool",
       "type": "adjective",
       "letter": "C",
@@ -504,6 +3044,226 @@
       "chinese": {
         "meaning": "合作的",
         "example": "團隊成員非常合作。"
+      }
+    },
+    {
+      "word": "Coordinated",
+      "type": "adjective",
+      "meaning": "Well organized or synchronized",
+      "example": "The team executed a coordinated plan.",
+      "chinese": {
+        "meaning": "協調的，有條理的",
+        "example": "團隊執行了一個協調的計劃。"
+      }
+    },
+    {
+      "word": "Copacetic",
+      "type": "adjective",
+      "meaning": "In excellent order; fine",
+      "example": "Everything is copacetic now.",
+      "chinese": {
+        "meaning": "一切良好，沒問題",
+        "example": "現在一切都很好。"
+      }
+    },
+    {
+      "word": "Copious",
+      "type": "adjective",
+      "meaning": "Abundant in supply or quantity",
+      "example": "She took copious notes during the lecture.",
+      "chinese": {
+        "meaning": "豐富的，大量的",
+        "example": "她在講座中做了大量筆記。"
+      }
+    },
+    {
+      "word": "Coral",
+      "type": "adjective",
+      "meaning": "Related to or resembling coral (the marine organism)",
+      "example": "She wore a coral-colored dress.",
+      "chinese": {
+        "meaning": "珊瑚色的，珊瑚的",
+        "example": "她穿著珊瑚色的裙子。"
+      }
+    },
+    {
+      "word": "Core",
+      "type": "adjective",
+      "meaning": "Central or most important",
+      "example": "The core issue needs to be addressed.",
+      "chinese": {
+        "meaning": "核心的，最重要的",
+        "example": "需要解決核心問題。"
+      }
+    },
+    {
+      "word": "Corporate",
+      "type": "adjective",
+      "meaning": "Relating to a corporation or company",
+      "example": "She attended the corporate meeting.",
+      "chinese": {
+        "meaning": "公司的，企業的",
+        "example": "她參加了公司的會議。"
+      }
+    },
+    {
+      "word": "Corporeal",
+      "type": "adjective",
+      "meaning": "Relating to the body",
+      "example": "He experienced corporeal pain.",
+      "chinese": {
+        "meaning": "身體的，肉體的",
+        "example": "他感受到身體上的疼痛。"
+      }
+    },
+    {
+      "word": "Corpulent",
+      "type": "adjective",
+      "meaning": "Excessively fat",
+      "example": "The corpulent man struggled to fit in the chair.",
+      "chinese": {
+        "meaning": "肥胖的",
+        "example": "那個肥胖的男人很難坐進椅子裡。"
+      }
+    },
+    {
+      "word": "Correct",
+      "type": "adjective",
+      "meaning": "Free from error; accurate",
+      "example": "The answer is correct.",
+      "chinese": {
+        "meaning": "正確的，準確的",
+        "example": "答案是正確的。"
+      }
+    },
+    {
+      "word": "Correlated",
+      "type": "adjective",
+      "meaning": "Having a mutual relationship or connection",
+      "example": "The data sets are strongly correlated.",
+      "chinese": {
+        "meaning": "相關的，有關聯的",
+        "example": "這些數據集高度相關。"
+      }
+    },
+    {
+      "word": "Correlative",
+      "type": "adjective",
+      "meaning": "Mutually related",
+      "example": "Cause and effect are correlative concepts.",
+      "chinese": {
+        "meaning": "相關的，互相關聯的",
+        "example": "因果是互相關聯的概念。"
+      }
+    },
+    {
+      "word": "Corresponding",
+      "type": "adjective",
+      "meaning": "Matching or equivalent in character",
+      "example": "The corresponding figures are in the report.",
+      "chinese": {
+        "meaning": "相應的，對應的",
+        "example": "相應的數字在報告中。"
+      }
+    },
+    {
+      "word": "Corrosive",
+      "type": "adjective",
+      "meaning": "Tending to cause corrosion or destruction",
+      "example": "The chemical is highly corrosive.",
+      "chinese": {
+        "meaning": "腐蝕性的，有害的",
+        "example": "該化學品具有強烈的腐蝕性。"
+      }
+    },
+    {
+      "word": "Corrupt",
+      "type": "adjective",
+      "meaning": "Dishonest or morally degraded",
+      "example": "The politician was corrupt.",
+      "chinese": {
+        "meaning": "腐敗的，不誠實的",
+        "example": "那位政治家很腐敗。"
+      }
+    },
+    {
+      "word": "Cosmic",
+      "type": "adjective",
+      "meaning": "Relating to the universe or cosmos",
+      "example": "They studied cosmic phenomena.",
+      "chinese": {
+        "meaning": "宇宙的，廣闊的",
+        "example": "他們研究宇宙現象。"
+      }
+    },
+    {
+      "word": "Costly",
+      "type": "adjective",
+      "meaning": "Expensive or causing loss",
+      "example": "The mistake was very costly.",
+      "chinese": {
+        "meaning": "昂貴的，代價高的",
+        "example": "這個錯誤代價很高。"
+      }
+    },
+    {
+      "word": "Cottony",
+      "type": "adjective",
+      "meaning": "Resembling cotton in texture or appearance",
+      "example": "The clouds looked soft and cottony.",
+      "chinese": {
+        "meaning": "棉絮狀的，柔軟的",
+        "example": "雲朵看起來柔軟如棉絮。"
+      }
+    },
+    {
+      "word": "Couched",
+      "type": "adjective",
+      "meaning": "Expressed in a particular style or language",
+      "example": "His remarks were couched in diplomatic terms.",
+      "chinese": {
+        "meaning": "表達的，措辭的",
+        "example": "他的話語以外交用語表達。"
+      }
+    },
+    {
+      "word": "Counterproductive",
+      "type": "adjective",
+      "meaning": "Having the opposite of the desired effect",
+      "example": "Excessive criticism is often counterproductive.",
+      "chinese": {
+        "meaning": "適得其反的",
+        "example": "過度批評往往適得其反。"
+      }
+    },
+    {
+      "word": "Countless",
+      "type": "adjective",
+      "meaning": "Too many to be counted; innumerable",
+      "example": "There are countless stars in the sky.",
+      "chinese": {
+        "meaning": "無數的，數不清的",
+        "example": "天空中有無數的星星。"
+      }
+    },
+    {
+      "word": "Country",
+      "type": "adjective",
+      "meaning": "Relating to the countryside; rural",
+      "example": "She prefers a country lifestyle.",
+      "chinese": {
+        "meaning": "鄉村的，農村的",
+        "example": "她喜歡鄉村的生活方式。"
+      }
+    },
+    {
+      "word": "Coupled",
+      "type": "adjective",
+      "meaning": "Connected or combined with something",
+      "example": "High prices coupled with low quality caused complaints.",
+      "chinese": {
+        "meaning": "結合的，聯合的",
+        "example": "高價格加上低質量引起了抱怨。"
       }
     },
     {
@@ -529,6 +3289,166 @@
       }
     },
     {
+      "word": "Covered",
+      "type": "adjective",
+      "meaning": "Having a cover or being enclosed",
+      "example": "The car was covered with a thick layer of dust.",
+      "chinese": {
+        "meaning": "有覆蓋物的，被覆蓋的",
+        "example": "車子覆蓋著厚厚的一層灰塵。"
+      }
+    },
+    {
+      "word": "Covert",
+      "type": "adjective",
+      "meaning": "Hidden or secret",
+      "example": "The agency carried out a covert operation.",
+      "chinese": {
+        "meaning": "隱秘的，秘密的",
+        "example": "該機構進行了一次秘密行動。"
+      }
+    },
+    {
+      "word": "Coveted",
+      "type": "adjective",
+      "meaning": "Greatly desired or envied",
+      "example": "She won the coveted award.",
+      "chinese": {
+        "meaning": "令人垂涎的，夢寐以求的",
+        "example": "她獲得了夢寐以求的獎項。"
+      }
+    },
+    {
+      "word": "Cowardly",
+      "type": "adjective",
+      "meaning": "Lacking courage",
+      "example": "The soldier's cowardly actions cost lives.",
+      "chinese": {
+        "meaning": "膽小的，懦弱的",
+        "example": "士兵的膽小行為付出了生命的代價。"
+      }
+    },
+    {
+      "word": "Coy",
+      "type": "adjective",
+      "meaning": "Shy or pretending to be modest",
+      "example": "She gave him a coy smile.",
+      "chinese": {
+        "meaning": "害羞的，假裝矜持的",
+        "example": "她對他露出一個害羞的微笑。"
+      }
+    },
+    {
+      "word": "Crabbed",
+      "type": "adjective",
+      "meaning": "Irritable or difficult to read (writing)",
+      "example": "He was a crabbed old man.",
+      "chinese": {
+        "meaning": "脾氣壞的，字跡難辨的",
+        "example": "他是一個脾氣壞的老頭。"
+      }
+    },
+    {
+      "word": "Crabby",
+      "type": "adjective",
+      "meaning": "Easily annoyed or irritable",
+      "example": "She felt crabby after a sleepless night.",
+      "chinese": {
+        "meaning": "易怒的，暴躁的",
+        "example": "熬夜後她感覺很暴躁。"
+      }
+    },
+    {
+      "word": "Cracked",
+      "type": "adjective",
+      "meaning": "Damaged with small breaks or lines",
+      "example": "The cracked vase still held water.",
+      "chinese": {
+        "meaning": "有裂縫的，破裂的",
+        "example": "有裂縫的花瓶仍能裝水。"
+      }
+    },
+    {
+      "word": "Cracking",
+      "type": "adjective",
+      "meaning": "Excellent or impressive",
+      "example": "We had a cracking good time.",
+      "chinese": {
+        "meaning": "極好的，精彩的",
+        "example": "我們度過了一段非常精彩的時光。"
+      }
+    },
+    {
+      "word": "Crafty",
+      "type": "adjective",
+      "meaning": "Clever at achieving goals by deceit",
+      "example": "He is a crafty negotiator.",
+      "chinese": {
+        "meaning": "狡猾的，詭計多端的",
+        "example": "他是一個狡猾的談判者。"
+      }
+    },
+    {
+      "word": "Cramped",
+      "type": "adjective",
+      "meaning": "Uncomfortably small or restricted",
+      "example": "They live in a cramped apartment.",
+      "chinese": {
+        "meaning": "狹窄的，擁擠的",
+        "example": "他們住在一個狹窄的公寓裡。"
+      }
+    },
+    {
+      "word": "Cranky",
+      "type": "adjective",
+      "meaning": "Irritable or eccentric",
+      "example": "The cranky old man yelled at the kids.",
+      "chinese": {
+        "meaning": "易怒的，古怪的",
+        "example": "那個古怪的老頭對孩子們大喊大叫。"
+      }
+    },
+    {
+      "word": "Crass",
+      "type": "adjective",
+      "meaning": "Lacking sensitivity or refinement",
+      "example": "His crass comment offended everyone.",
+      "chinese": {
+        "meaning": "粗魯的，愚蠢的",
+        "example": "他粗魯的評論冒犯了所有人。"
+      }
+    },
+    {
+      "word": "Craven",
+      "type": "adjective",
+      "meaning": "Cowardly; lacking courage",
+      "example": "The craven act of betrayal shocked them.",
+      "chinese": {
+        "meaning": "懦弱的，膽小的",
+        "example": "那懦弱的背叛行為讓他們震驚。"
+      }
+    },
+    {
+      "word": "Crazy",
+      "type": "adjective",
+      "meaning": "Mentally unsound or extremely enthusiastic",
+      "example": "He's crazy about football.",
+      "chinese": {
+        "meaning": "瘋狂的，著迷的",
+        "example": "他對足球瘋狂著迷。"
+      }
+    },
+    {
+      "word": "Creased",
+      "type": "adjective",
+      "meaning": "Marked by lines or folds",
+      "example": "His shirt was badly creased.",
+      "chinese": {
+        "meaning": "有摺痕的",
+        "example": "他的襯衫滿是摺痕。"
+      }
+    },
+    {
       "word": "Creative",
       "type": "adjective",
       "letter": "C",
@@ -551,6 +3471,76 @@
       }
     },
     {
+      "word": "Credulous",
+      "type": "adjective",
+      "meaning": "Too ready to believe things",
+      "example": "The credulous child believed every story.",
+      "chinese": {
+        "meaning": "輕信的，易受騙的",
+        "example": "那個輕信的孩子相信每個故事。"
+      }
+    },
+    {
+      "word": "Creepy",
+      "type": "adjective",
+      "meaning": "Causing an unpleasant feeling of fear",
+      "example": "That abandoned house looks creepy.",
+      "chinese": {
+        "meaning": "令人毛骨悚然的",
+        "example": "那棟廢棄的房子看起來令人毛骨悚然。"
+      }
+    },
+    {
+      "word": "Crescent",
+      "type": "adjective",
+      "meaning": "Shaped like a curved moon",
+      "example": "The crescent moon shone brightly.",
+      "chinese": {
+        "meaning": "新月形的，弦月形的",
+        "example": "新月明亮地照耀著。"
+      }
+    },
+    {
+      "word": "Crested",
+      "type": "adjective",
+      "meaning": "Having a crest or tuft",
+      "example": "A crested bird flew past.",
+      "chinese": {
+        "meaning": "有羽冠的",
+        "example": "一隻有羽冠的鳥飛過。"
+      }
+    },
+    {
+      "word": "Criminal",
+      "type": "adjective",
+      "meaning": "Involving or relating to crime",
+      "example": "He has a criminal record.",
+      "chinese": {
+        "meaning": "犯罪的，刑事的",
+        "example": "他有犯罪記錄。"
+      }
+    },
+    {
+      "word": "Crippled",
+      "type": "adjective",
+      "meaning": "Severely damaged or disabled",
+      "example": "The crippled economy needs reform.",
+      "chinese": {
+        "meaning": "殘廢的，嚴重受損的",
+        "example": "受重創的經濟需要改革。"
+      }
+    },
+    {
+      "word": "Crisp",
+      "type": "adjective",
+      "meaning": "Firm, dry, and brittle or fresh and cool",
+      "example": "The air was crisp and refreshing.",
+      "chinese": {
+        "meaning": "酥脆的，清新的",
+        "example": "空氣清新涼爽。"
+      }
+    },
+    {
       "word": "Critical",
       "type": "adjective",
       "letter": "C",
@@ -559,6 +3549,26 @@
       "chinese": {
         "meaning": "批判的；關鍵的",
         "example": "她對政府政策持批判態度。"
+      }
+    },
+    {
+      "word": "Crooked",
+      "type": "adjective",
+      "meaning": "Bent or dishonest",
+      "example": "He has a crooked smile.",
+      "chinese": {
+        "meaning": "彎曲的，不誠實的",
+        "example": "他露出了一個歪斜的微笑。"
+      }
+    },
+    {
+      "word": "Cross-cultural",
+      "type": "adjective",
+      "meaning": "Involving or bridging different cultures",
+      "example": "The company values cross-cultural exchange.",
+      "chinese": {
+        "meaning": "跨文化的",
+        "example": "該公司重視跨文化交流。"
       }
     },
     {
@@ -573,6 +3583,26 @@
       }
     },
     {
+      "word": "Crucial",
+      "type": "adjective",
+      "meaning": "Extremely important or decisive",
+      "example": "This decision is crucial to the project's success.",
+      "chinese": {
+        "meaning": "關鍵的，極其重要的",
+        "example": "這個決定對項目的成功至關重要。"
+      }
+    },
+    {
+      "word": "Crude",
+      "type": "adjective",
+      "meaning": "In a natural or raw state; unrefined; lacking sophistication",
+      "example": "The crude oil was transported by pipeline.",
+      "chinese": {
+        "meaning": "粗糙的，未經加工的",
+        "example": "原油是通過管道運輸的。"
+      }
+    },
+    {
       "word": "Cruel",
       "type": "adjective",
       "letter": "C",
@@ -581,6 +3611,136 @@
       "chinese": {
         "meaning": "殘忍的",
         "example": "那是一個殘忍的決定。"
+      }
+    },
+    {
+      "word": "Crumbly",
+      "type": "adjective",
+      "meaning": "Easily breaking into small fragments",
+      "example": "The crumbly cake fell apart when cut.",
+      "chinese": {
+        "meaning": "易碎的，鬆脆的",
+        "example": "鬆脆的蛋糕一切就散開了。"
+      }
+    },
+    {
+      "word": "Crushed",
+      "type": "adjective",
+      "meaning": "Deformed, pulverized, or emotionally devastated",
+      "example": "She felt crushed by the bad news.",
+      "chinese": {
+        "meaning": "被壓碎的，心灰意冷的",
+        "example": "壞消息讓她心灰意冷。"
+      }
+    },
+    {
+      "word": "Crusty",
+      "type": "adjective",
+      "meaning": "Having a hard outer layer; irritable in personality",
+      "example": "The bread was crusty on the outside.",
+      "chinese": {
+        "meaning": "有硬殼的，脾氣暴躁的",
+        "example": "這麵包外皮很硬。"
+      }
+    },
+    {
+      "word": "Cryptic",
+      "type": "adjective",
+      "meaning": "Having a hidden or mysterious meaning",
+      "example": "He left a cryptic message on the note.",
+      "chinese": {
+        "meaning": "神秘的，含義隱晦的",
+        "example": "他在便條上留下了一個隱晦的信息。"
+      }
+    },
+    {
+      "word": "Crystal",
+      "type": "adjective",
+      "meaning": "Clear and transparent like crystal",
+      "example": "The water was crystal clear.",
+      "chinese": {
+        "meaning": "水晶般的，透明的",
+        "example": "水清澈見底。"
+      }
+    },
+    {
+      "word": "Crystallized",
+      "type": "adjective",
+      "meaning": "Turned into crystals; made clear and definite",
+      "example": "His plans crystallized after months of thinking.",
+      "chinese": {
+        "meaning": "結晶的，明確化的",
+        "example": "經過數月思考，他的計劃明確下來了。"
+      }
+    },
+    {
+      "word": "Cuban",
+      "type": "adjective",
+      "meaning": "Relating to Cuba or its people",
+      "example": "They enjoyed Cuban music at the festival.",
+      "chinese": {
+        "meaning": "古巴的，古巴人的",
+        "example": "他們在節日中欣賞了古巴音樂。"
+      }
+    },
+    {
+      "word": "Cultivated",
+      "type": "adjective",
+      "meaning": "Refined and well-educated; prepared for crops",
+      "example": "He is a cultivated gentleman.",
+      "chinese": {
+        "meaning": "有教養的，經耕作的",
+        "example": "他是一個有教養的紳士。"
+      }
+    },
+    {
+      "word": "Cultural",
+      "type": "adjective",
+      "meaning": "Relating to the ideas, customs, and social behavior of a society",
+      "example": "We should respect cultural differences.",
+      "chinese": {
+        "meaning": "文化的",
+        "example": "我們應該尊重文化差異。"
+      }
+    },
+    {
+      "word": "Cumbersome",
+      "type": "adjective",
+      "meaning": "Large or heavy and therefore difficult to carry or use",
+      "example": "The cumbersome equipment slowed them down.",
+      "chinese": {
+        "meaning": "笨重的，累贅的",
+        "example": "笨重的設備拖慢了他們的速度。"
+      }
+    },
+    {
+      "word": "Cumulative",
+      "type": "adjective",
+      "meaning": "Increasing or growing by accumulation",
+      "example": "The cumulative effect of stress is harmful.",
+      "chinese": {
+        "meaning": "累積的",
+        "example": "壓力的累積效應是有害的。"
+      }
+    },
+    {
+      "word": "Cunning",
+      "type": "adjective",
+      "meaning": "Skillful in achieving goals by deceit",
+      "example": "The cunning fox escaped the trap.",
+      "chinese": {
+        "meaning": "狡猾的，精明的",
+        "example": "狡猾的狐狸逃脫了陷阱。"
+      }
+    },
+    {
+      "word": "Curable",
+      "type": "adjective",
+      "meaning": "Able to be cured",
+      "example": "Most common colds are curable with rest.",
+      "chinese": {
+        "meaning": "可治癒的",
+        "example": "大多數普通感冒靠休息是可以治癒的。"
       }
     },
     {
@@ -606,6 +3766,46 @@
       }
     },
     {
+      "word": "Cursed",
+      "type": "adjective",
+      "meaning": "Under a curse; extremely unlucky or misfortunate",
+      "example": "The cursed village was abandoned.",
+      "chinese": {
+        "meaning": "被詛咒的，不幸的",
+        "example": "那個被詛咒的村莊被遺棄了。"
+      }
+    },
+    {
+      "word": "Cursory",
+      "type": "adjective",
+      "meaning": "Hasty and therefore not thorough",
+      "example": "He gave the report a cursory glance.",
+      "chinese": {
+        "meaning": "粗略的，草率的",
+        "example": "他粗略地看了一眼報告。"
+      }
+    },
+    {
+      "word": "Curt",
+      "type": "adjective",
+      "meaning": "Rudely brief or abrupt",
+      "example": "She gave a curt reply.",
+      "chinese": {
+        "meaning": "簡短無禮的",
+        "example": "她給出了一個簡短無禮的回覆。"
+      }
+    },
+    {
+      "word": "Curtailed",
+      "type": "adjective",
+      "meaning": "Reduced in extent or quantity",
+      "example": "Their trip was curtailed by bad weather.",
+      "chinese": {
+        "meaning": "被縮減的",
+        "example": "他們的旅行因天氣不好而被縮短了。"
+      }
+    },
+    {
       "word": "Curved",
       "type": "adjective",
       "letter": "C",
@@ -614,6 +3814,16 @@
       "chinese": {
         "meaning": "彎曲的",
         "example": "這條路有幾處是彎曲的。"
+      }
+    },
+    {
+      "word": "Custodial",
+      "type": "adjective",
+      "meaning": "Relating to custody, care, or guardianship",
+      "example": "He was granted custodial rights of the child.",
+      "chinese": {
+        "meaning": "監護的，保管的",
+        "example": "他被授予了孩子的監護權。"
       }
     },
     {
@@ -628,6 +3838,16 @@
       }
     },
     {
+      "word": "Customized",
+      "type": "adjective",
+      "meaning": "Modified to suit a particular individual or task",
+      "example": "They ordered a customized computer system.",
+      "chinese": {
+        "meaning": "定制的",
+        "example": "他們訂購了一套定制的電腦系統。"
+      }
+    },
+    {
       "word": "Cute",
       "type": "adjective",
       "letter": "C",
@@ -636,6 +3856,56 @@
       "chinese": {
         "meaning": "可愛的",
         "example": "這隻小狗很可愛。"
+      }
+    },
+    {
+      "word": "Cutting",
+      "type": "adjective",
+      "meaning": "Sharp, capable of cutting; harsh or severe in tone",
+      "example": "He made a cutting remark.",
+      "chinese": {
+        "meaning": "鋒利的，尖刻的",
+        "example": "他說了一句尖刻的話。"
+      }
+    },
+    {
+      "word": "Cyan",
+      "type": "adjective",
+      "meaning": "Of a greenish-blue color",
+      "example": "The cyan sky was beautiful at dawn.",
+      "chinese": {
+        "meaning": "青藍色的",
+        "example": "清晨青藍色的天空非常美麗。"
+      }
+    },
+    {
+      "word": "Cyber",
+      "type": "adjective",
+      "meaning": "Relating to computers, information technology, and virtual reality",
+      "example": "Cyber security is a growing concern.",
+      "chinese": {
+        "meaning": "網絡的，與電腦相關的",
+        "example": "網絡安全是一個日益受到關注的問題。"
+      }
+    },
+    {
+      "word": "Cyclic",
+      "type": "adjective",
+      "meaning": "Occurring in cycles; repeated regularly",
+      "example": "The economy goes through cyclic changes.",
+      "chinese": {
+        "meaning": "循環的，週期的",
+        "example": "經濟經歷著循環變化。"
+      }
+    },
+    {
+      "word": "Cyclical",
+      "type": "adjective",
+      "meaning": "Happening at regular intervals; recurring in cycles",
+      "example": "Cyclical unemployment is a major issue.",
+      "chinese": {
+        "meaning": "週期性的",
+        "example": "週期性失業是一個主要問題。"
       }
     },
     {

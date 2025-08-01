@@ -12,6 +12,36 @@
       }
     },
     {
+      "word": "Ugandan",
+      "type": "adjective",
+      "meaning": "Relating to Uganda or its people",
+      "example": "She works for a Ugandan charity.",
+      "chinese": {
+        "meaning": "烏干達的",
+        "example": "她在一家烏干達的慈善機構工作。"
+      }
+    },
+    {
+      "word": "Ugly",
+      "type": "adjective",
+      "meaning": "Unpleasant to look at; unattractive",
+      "example": "The building was considered ugly by many.",
+      "chinese": {
+        "meaning": "醜陋的",
+        "example": "這座建築被很多人認為很醜。"
+      }
+    },
+    {
+      "word": "Ulcerated",
+      "type": "adjective",
+      "meaning": "Having or being affected by ulcers",
+      "example": "The patient had an ulcerated sore.",
+      "chinese": {
+        "meaning": "潰瘍的",
+        "example": "病人有一個潰瘍的傷口。"
+      }
+    },
+    {
       "word": "Ulcerous",
       "type": "adjective",
       "letter": "U",
@@ -89,6 +119,46 @@
       }
     },
     {
+      "word": "Unable",
+      "type": "adjective",
+      "meaning": "Not able to do something",
+      "example": "She was unable to attend the meeting.",
+      "chinese": {
+        "meaning": "無法的",
+        "example": "她無法參加會議。"
+      }
+    },
+    {
+      "word": "Unacceptable",
+      "type": "adjective",
+      "meaning": "Not satisfactory or allowable",
+      "example": "The delay was unacceptable.",
+      "chinese": {
+        "meaning": "不可接受的",
+        "example": "這種延誤是不可接受的。"
+      }
+    },
+    {
+      "word": "Unaccountable",
+      "type": "adjective",
+      "meaning": "Unable to be explained or justified",
+      "example": "There was an unaccountable delay in the process.",
+      "chinese": {
+        "meaning": "無法解釋的",
+        "example": "這個過程出現了無法解釋的延誤。"
+      }
+    },
+    {
+      "word": "Unacknowledged",
+      "type": "adjective",
+      "meaning": "Not recognized or admitted",
+      "example": "He was an unacknowledged genius.",
+      "chinese": {
+        "meaning": "未被承認的",
+        "example": "他是一個未被承認的天才。"
+      }
+    },
+    {
       "word": "Unadorned",
       "type": "adjective",
       "letter": "U",
@@ -97,6 +167,76 @@
       "chinese": {
         "meaning": "未裝飾的；樸素的",
         "example": "這個房間簡單而樸素。"
+      }
+    },
+    {
+      "word": "Unaffected",
+      "type": "adjective",
+      "meaning": "Not influenced or changed",
+      "example": "She remained unaffected by the criticism.",
+      "chinese": {
+        "meaning": "不受影響的",
+        "example": "她不受批評影響。"
+      }
+    },
+    {
+      "word": "Unafraid",
+      "type": "adjective",
+      "meaning": "Not afraid",
+      "example": "He was unafraid to speak the truth.",
+      "chinese": {
+        "meaning": "不害怕的",
+        "example": "他不害怕說出真相。"
+      }
+    },
+    {
+      "word": "Unaggressive",
+      "type": "adjective",
+      "meaning": "Not aggressive or forceful",
+      "example": "He was an unaggressive negotiator.",
+      "chinese": {
+        "meaning": "不具攻擊性的",
+        "example": "他是一位不強勢的談判者。"
+      }
+    },
+    {
+      "word": "Unalike",
+      "type": "adjective",
+      "meaning": "Different; dissimilar",
+      "example": "The twins are surprisingly unalike.",
+      "chinese": {
+        "meaning": "不同的",
+        "example": "這對雙胞胎出奇地不同。"
+      }
+    },
+    {
+      "word": "Unalterable",
+      "type": "adjective",
+      "meaning": "Impossible to change",
+      "example": "The rules are unalterable.",
+      "chinese": {
+        "meaning": "無法更改的",
+        "example": "這些規則是無法更改的。"
+      }
+    },
+    {
+      "word": "Unaltered",
+      "type": "adjective",
+      "meaning": "Not changed",
+      "example": "The building remains unaltered.",
+      "chinese": {
+        "meaning": "未改變的",
+        "example": "這座建築保持不變。"
+      }
+    },
+    {
+      "word": "Unambiguous",
+      "type": "adjective",
+      "meaning": "Clear and precise; not open to misinterpretation",
+      "example": "The instructions were unambiguous.",
+      "chinese": {
+        "meaning": "明確的",
+        "example": "指示是明確的。"
       }
     },
     {
@@ -111,6 +251,86 @@
       }
     },
     {
+      "word": "Unannounced",
+      "type": "adjective",
+      "meaning": "Happening without warning",
+      "example": "They arrived unannounced.",
+      "chinese": {
+        "meaning": "未通知的",
+        "example": "他們沒有通知就來了。"
+      }
+    },
+    {
+      "word": "Unanswered",
+      "type": "adjective",
+      "meaning": "Not answered",
+      "example": "Many questions remained unanswered.",
+      "chinese": {
+        "meaning": "未回答的",
+        "example": "許多問題仍未得到回答。"
+      }
+    },
+    {
+      "word": "Unanticipated",
+      "type": "adjective",
+      "meaning": "Not expected or predicted",
+      "example": "There were unanticipated delays.",
+      "chinese": {
+        "meaning": "出乎意料的",
+        "example": "出現了出乎意料的延誤。"
+      }
+    },
+    {
+      "word": "Unapologetic",
+      "type": "adjective",
+      "meaning": "Not feeling or showing regret",
+      "example": "She was unapologetic about her decision.",
+      "chinese": {
+        "meaning": "不道歉的",
+        "example": "她對自己的決定不感到後悔。"
+      }
+    },
+    {
+      "word": "Unappealing",
+      "type": "adjective",
+      "meaning": "Not attractive or pleasing",
+      "example": "The meal looked unappealing.",
+      "chinese": {
+        "meaning": "沒有吸引力的",
+        "example": "這餐飯看起來不太可口。"
+      }
+    },
+    {
+      "word": "Unappetizing",
+      "type": "adjective",
+      "meaning": "Not appetizing; unattractive as food",
+      "example": "The dish looked unappetizing.",
+      "chinese": {
+        "meaning": "不開胃的",
+        "example": "這道菜看起來不開胃。"
+      }
+    },
+    {
+      "word": "Unappreciated",
+      "type": "adjective",
+      "meaning": "Not recognized for value or importance",
+      "example": "He felt unappreciated at work.",
+      "chinese": {
+        "meaning": "不被重視的",
+        "example": "他覺得自己在工作中不被重視。"
+      }
+    },
+    {
+      "word": "Unarmed",
+      "type": "adjective",
+      "meaning": "Not carrying weapons",
+      "example": "The soldiers were unarmed.",
+      "chinese": {
+        "meaning": "手無寸鐵的",
+        "example": "這些士兵手無寸鐵。"
+      }
+    },
+    {
       "word": "Unassuming",
       "type": "adjective",
       "letter": "U",
@@ -119,6 +339,46 @@
       "chinese": {
         "meaning": "謙遜的；不裝腔作勢的",
         "example": "他是一位謙遜且低調的領導者。"
+      }
+    },
+    {
+      "word": "Unattached",
+      "type": "adjective",
+      "meaning": "Not connected or joined; not in a relationship",
+      "example": "She has been unattached for years.",
+      "chinese": {
+        "meaning": "未連接的；單身的",
+        "example": "她已經單身多年。"
+      }
+    },
+    {
+      "word": "Unattended",
+      "type": "adjective",
+      "meaning": "Not supervised or looked after",
+      "example": "Never leave children unattended.",
+      "chinese": {
+        "meaning": "無人照管的",
+        "example": "不要讓孩子無人照管。"
+      }
+    },
+    {
+      "word": "Unattractive",
+      "type": "adjective",
+      "meaning": "Not appealing or beautiful",
+      "example": "The building was unattractive.",
+      "chinese": {
+        "meaning": "沒有吸引力的",
+        "example": "這座建築不太好看。"
+      }
+    },
+    {
+      "word": "Unauthorized",
+      "type": "adjective",
+      "meaning": "Without official permission",
+      "example": "The report was leaked by unauthorized sources.",
+      "chinese": {
+        "meaning": "未經授權的",
+        "example": "該報告被未經授權的來源泄露。"
       }
     },
     {
@@ -144,6 +404,26 @@
       }
     },
     {
+      "word": "Unaware",
+      "type": "adjective",
+      "meaning": "Not conscious or informed",
+      "example": "He was unaware of the danger.",
+      "chinese": {
+        "meaning": "未察覺的",
+        "example": "他沒有察覺到危險。"
+      }
+    },
+    {
+      "word": "Unbalanced",
+      "type": "adjective",
+      "meaning": "Not balanced; mentally unstable",
+      "example": "The news article gave an unbalanced view.",
+      "chinese": {
+        "meaning": "不平衡的；精神不穩定的",
+        "example": "新聞文章給出了不平衡的觀點。"
+      }
+    },
+    {
       "word": "Unbearable",
       "type": "adjective",
       "letter": "U",
@@ -152,6 +432,26 @@
       "chinese": {
         "meaning": "無法忍受的",
         "example": "那種疼痛讓人無法忍受。"
+      }
+    },
+    {
+      "word": "Unbeaten",
+      "type": "adjective",
+      "meaning": "Not defeated",
+      "example": "The team remained unbeaten this season.",
+      "chinese": {
+        "meaning": "未被擊敗的",
+        "example": "這支隊伍本賽季保持不敗。"
+      }
+    },
+    {
+      "word": "Unbelievable",
+      "type": "adjective",
+      "meaning": "Hard to believe; extraordinary",
+      "example": "The view was unbelievable.",
+      "chinese": {
+        "meaning": "難以置信的",
+        "example": "這景色令人難以置信。"
       }
     },
     {
@@ -166,6 +466,46 @@
       }
     },
     {
+      "word": "Unblemished",
+      "type": "adjective",
+      "meaning": "Without any imperfections or faults",
+      "example": "She had an unblemished reputation.",
+      "chinese": {
+        "meaning": "完美無瑕的",
+        "example": "她的聲譽完美無瑕。"
+      }
+    },
+    {
+      "word": "Unbroken",
+      "type": "adjective",
+      "meaning": "Not broken or interrupted",
+      "example": "The horse was still unbroken.",
+      "chinese": {
+        "meaning": "未斷裂的；未馴服的",
+        "example": "這匹馬仍未馴服。"
+      }
+    },
+    {
+      "word": "Unburdened",
+      "type": "adjective",
+      "meaning": "Free of worries or responsibilities",
+      "example": "She felt unburdened after telling the truth.",
+      "chinese": {
+        "meaning": "無負擔的",
+        "example": "說出真相後她感到無負擔。"
+      }
+    },
+    {
+      "word": "Unbuttoned",
+      "type": "adjective",
+      "meaning": "Having buttons undone",
+      "example": "He wore an unbuttoned shirt.",
+      "chinese": {
+        "meaning": "解開鈕扣的",
+        "example": "他穿著一件解開鈕扣的襯衫。"
+      }
+    },
+    {
       "word": "Uncanny",
       "type": "adjective",
       "letter": "U",
@@ -177,6 +517,56 @@
       }
     },
     {
+      "word": "Uncapped",
+      "type": "adjective",
+      "meaning": "Having the cap removed",
+      "example": "She drank from an uncapped bottle.",
+      "chinese": {
+        "meaning": "未蓋上的",
+        "example": "她從一個未蓋上的瓶子裡喝水。"
+      }
+    },
+    {
+      "word": "Uncaring",
+      "type": "adjective",
+      "meaning": "Not showing care or concern",
+      "example": "He was criticized for his uncaring attitude.",
+      "chinese": {
+        "meaning": "漠不關心的",
+        "example": "他因為漠不關心的態度而受到批評。"
+      }
+    },
+    {
+      "word": "Uncategorized",
+      "type": "adjective",
+      "meaning": "Not placed into a category",
+      "example": "The expenses were uncategorized.",
+      "chinese": {
+        "meaning": "未分類的",
+        "example": "這些開銷未分類。"
+      }
+    },
+    {
+      "word": "Uncertain",
+      "type": "adjective",
+      "meaning": "Not sure; not definite",
+      "example": "The future is uncertain.",
+      "chinese": {
+        "meaning": "不確定的",
+        "example": "未來是不確定的。"
+      }
+    },
+    {
+      "word": "Unchallenged",
+      "type": "adjective",
+      "meaning": "Not disputed or opposed",
+      "example": "His authority remained unchallenged.",
+      "chinese": {
+        "meaning": "未受到挑戰的",
+        "example": "他的權威未受到挑戰。"
+      }
+    },
+    {
       "word": "Unchanging",
       "type": "adjective",
       "letter": "U",
@@ -185,6 +575,86 @@
       "chinese": {
         "meaning": "不變的",
         "example": "規則是不變的。"
+      }
+    },
+    {
+      "word": "Uncharacteristic",
+      "type": "adjective",
+      "meaning": "Not typical of a person or thing",
+      "example": "His reaction was uncharacteristic.",
+      "chinese": {
+        "meaning": "不典型的",
+        "example": "他的反應不太符合他的特質。"
+      }
+    },
+    {
+      "word": "Uncharitable",
+      "type": "adjective",
+      "meaning": "Unkind or harsh in judgment",
+      "example": "Her remarks were uncharitable.",
+      "chinese": {
+        "meaning": "不仁慈的",
+        "example": "她的言論不仁慈。"
+      }
+    },
+    {
+      "word": "Uncharted",
+      "type": "adjective",
+      "meaning": "Not mapped or explored",
+      "example": "They sailed into uncharted waters.",
+      "chinese": {
+        "meaning": "未探索的",
+        "example": "他們航行進入未探索的水域。"
+      }
+    },
+    {
+      "word": "Unchecked",
+      "type": "adjective",
+      "meaning": "Not controlled or restrained",
+      "example": "Unchecked growth can be dangerous.",
+      "chinese": {
+        "meaning": "未受控制的",
+        "example": "不受控制的增長可能是危險的。"
+      }
+    },
+    {
+      "word": "Uncivilized",
+      "type": "adjective",
+      "meaning": "Not socially or culturally advanced",
+      "example": "The practice was considered uncivilized.",
+      "chinese": {
+        "meaning": "未開化的",
+        "example": "這種做法被認為是未開化的。"
+      }
+    },
+    {
+      "word": "Unclean",
+      "type": "adjective",
+      "meaning": "Dirty; impure",
+      "example": "The kitchen was unclean.",
+      "chinese": {
+        "meaning": "不乾淨的",
+        "example": "廚房不乾淨。"
+      }
+    },
+    {
+      "word": "Unclear",
+      "type": "adjective",
+      "meaning": "Not easy to understand",
+      "example": "The instructions were unclear.",
+      "chinese": {
+        "meaning": "不清楚的",
+        "example": "說明不清楚。"
+      }
+    },
+    {
+      "word": "Uncluttered",
+      "type": "adjective",
+      "meaning": "Neat; without too many things",
+      "example": "The design was simple and uncluttered.",
+      "chinese": {
+        "meaning": "簡潔的",
+        "example": "這個設計簡單且簡潔。"
       }
     },
     {
@@ -210,6 +680,36 @@
       }
     },
     {
+      "word": "Uncommunicative",
+      "type": "adjective",
+      "meaning": "Not willing to talk or exchange information",
+      "example": "He was shy and uncommunicative.",
+      "chinese": {
+        "meaning": "不愛表達的",
+        "example": "他害羞又不愛表達。"
+      }
+    },
+    {
+      "word": "Uncompromising",
+      "type": "adjective",
+      "meaning": "Unwilling to change; inflexible",
+      "example": "She was uncompromising in her beliefs.",
+      "chinese": {
+        "meaning": "不妥協的",
+        "example": "她在信念上不妥協。"
+      }
+    },
+    {
+      "word": "Unconcerned",
+      "type": "adjective",
+      "meaning": "Not worried or involved",
+      "example": "He seemed unconcerned about the problem.",
+      "chinese": {
+        "meaning": "漠不關心的",
+        "example": "他似乎對這個問題漠不關心。"
+      }
+    },
+    {
       "word": "Unconditional",
       "type": "adjective",
       "letter": "U",
@@ -218,6 +718,26 @@
       "chinese": {
         "meaning": "無條件的",
         "example": "她給予他無條件的支持。"
+      }
+    },
+    {
+      "word": "Unconfirmed",
+      "type": "adjective",
+      "meaning": "Not verified or established as true",
+      "example": "The report remains unconfirmed.",
+      "chinese": {
+        "meaning": "未確認的",
+        "example": "該報告仍未確認。"
+      }
+    },
+    {
+      "word": "Unconnected",
+      "type": "adjective",
+      "meaning": "Not linked or associated",
+      "example": "The two crimes are unconnected.",
+      "chinese": {
+        "meaning": "無關聯的",
+        "example": "這兩起犯罪事件無關聯。"
       }
     },
     {
@@ -232,6 +752,26 @@
       }
     },
     {
+      "word": "Unconstitutional",
+      "type": "adjective",
+      "meaning": "Not allowed by the constitution of a country",
+      "example": "The law was declared unconstitutional.",
+      "chinese": {
+        "meaning": "違憲的",
+        "example": "該法律被宣告違憲。"
+      }
+    },
+    {
+      "word": "Unconstrained",
+      "type": "adjective",
+      "meaning": "Not restricted or limited",
+      "example": "The artist was unconstrained in her creativity.",
+      "chinese": {
+        "meaning": "不受限制的",
+        "example": "這位藝術家的創意不受限制。"
+      }
+    },
+    {
       "word": "Unconventional",
       "type": "adjective",
       "letter": "U",
@@ -243,6 +783,106 @@
       }
     },
     {
+      "word": "Unconvinced",
+      "type": "adjective",
+      "meaning": "Not persuaded or certain",
+      "example": "She was unconvinced by the explanation.",
+      "chinese": {
+        "meaning": "不信服的",
+        "example": "她對這個解釋不信服。"
+      }
+    },
+    {
+      "word": "Uncooked",
+      "type": "adjective",
+      "meaning": "Not cooked",
+      "example": "The chicken is still uncooked.",
+      "chinese": {
+        "meaning": "未煮熟的",
+        "example": "這隻雞仍然沒有煮熟。"
+      }
+    },
+    {
+      "word": "Uncoordinated",
+      "type": "adjective",
+      "meaning": "Lacking organization or harmony",
+      "example": "The uncoordinated team lost the match.",
+      "chinese": {
+        "meaning": "缺乏協調的",
+        "example": "這支缺乏協調的隊伍輸掉了比賽。"
+      }
+    },
+    {
+      "word": "Uncouth",
+      "type": "adjective",
+      "meaning": "Lacking good manners or refinement",
+      "example": "His uncouth behavior offended everyone.",
+      "chinese": {
+        "meaning": "粗魯的",
+        "example": "他的粗魯行為冒犯了所有人。"
+      }
+    },
+    {
+      "word": "Uncovered",
+      "type": "adjective",
+      "meaning": "Not covered or hidden",
+      "example": "The roof was left uncovered.",
+      "chinese": {
+        "meaning": "未覆蓋的",
+        "example": "屋頂沒有覆蓋。"
+      }
+    },
+    {
+      "word": "Uncreative",
+      "type": "adjective",
+      "meaning": "Lacking imagination or originality",
+      "example": "The design was uncreative.",
+      "chinese": {
+        "meaning": "缺乏創意的",
+        "example": "這個設計缺乏創意。"
+      }
+    },
+    {
+      "word": "Uncritical",
+      "type": "adjective",
+      "meaning": "Not expressing criticism or questioning",
+      "example": "He was uncritical of the plan.",
+      "chinese": {
+        "meaning": "不加批判的",
+        "example": "他對這個計劃不加批判。"
+      }
+    },
+    {
+      "word": "Uncrowded",
+      "type": "adjective",
+      "meaning": "Not full of people or things",
+      "example": "The beach was surprisingly uncrowded.",
+      "chinese": {
+        "meaning": "不擁擠的",
+        "example": "那個海灘出奇地不擁擠。"
+      }
+    },
+    {
+      "word": "Uncured",
+      "type": "adjective",
+      "meaning": "Not treated or preserved",
+      "example": "The disease remains uncured.",
+      "chinese": {
+        "meaning": "未治癒的",
+        "example": "這種病尚未治癒。"
+      }
+    },
+    {
+      "word": "Undamaged",
+      "type": "adjective",
+      "meaning": "Not harmed or broken",
+      "example": "The building was undamaged by the storm.",
+      "chinese": {
+        "meaning": "未受損的",
+        "example": "那座建築沒有因暴風雨受損。"
+      }
+    },
+    {
       "word": "Undaunted",
       "type": "adjective",
       "letter": "U",
@@ -251,6 +891,106 @@
       "chinese": {
         "meaning": "不氣餒的；無畏的",
         "example": "面對挑戰她依然無畏。"
+      }
+    },
+    {
+      "word": "Undecided",
+      "type": "adjective",
+      "meaning": "Not having made a decision",
+      "example": "She is still undecided about her major.",
+      "chinese": {
+        "meaning": "未決定的",
+        "example": "她仍然未決定主修科目。"
+      }
+    },
+    {
+      "word": "Undeniable",
+      "type": "adjective",
+      "meaning": "Cannot be denied or disputed",
+      "example": "There is undeniable evidence of his guilt.",
+      "chinese": {
+        "meaning": "無可否認的",
+        "example": "有無可否認的證據表明他有罪。"
+      }
+    },
+    {
+      "word": "Underachieving",
+      "type": "adjective",
+      "meaning": "Not performing as well as expected",
+      "example": "The underachieving team missed the playoffs.",
+      "chinese": {
+        "meaning": "表現不佳的",
+        "example": "這支表現不佳的隊伍錯過了季後賽。"
+      }
+    },
+    {
+      "word": "Undercover",
+      "type": "adjective",
+      "meaning": "Done in secret to gather information",
+      "example": "He worked as an undercover agent.",
+      "chinese": {
+        "meaning": "秘密的",
+        "example": "他當過秘密特工。"
+      }
+    },
+    {
+      "word": "Underestimated",
+      "type": "adjective",
+      "meaning": "Not valued highly enough",
+      "example": "She is often underestimated by her peers.",
+      "chinese": {
+        "meaning": "被低估的",
+        "example": "她經常被同齡人低估。"
+      }
+    },
+    {
+      "word": "Underfunded",
+      "type": "adjective",
+      "meaning": "Not having enough financial support",
+      "example": "The school is severely underfunded.",
+      "chinese": {
+        "meaning": "資金不足的",
+        "example": "這所學校資金嚴重不足。"
+      }
+    },
+    {
+      "word": "Undergoing",
+      "type": "adjective",
+      "meaning": "Currently experiencing or being subjected to",
+      "example": "The patient is undergoing surgery.",
+      "chinese": {
+        "meaning": "正在經歷的",
+        "example": "病人正在接受手術。"
+      }
+    },
+    {
+      "word": "Undergraduate",
+      "type": "adjective",
+      "meaning": "Relating to a student at a college or university before earning a degree",
+      "example": "She is an undergraduate student.",
+      "chinese": {
+        "meaning": "大學生的",
+        "example": "她是一名大學生。"
+      }
+    },
+    {
+      "word": "Underground",
+      "type": "adjective",
+      "meaning": "Beneath the surface of the ground; secret",
+      "example": "The underground network helped fugitives escape.",
+      "chinese": {
+        "meaning": "地下的；秘密的",
+        "example": "地下網絡幫助逃犯逃脫。"
+      }
+    },
+    {
+      "word": "Underhand",
+      "type": "adjective",
+      "meaning": "Done in a secret or dishonest way",
+      "example": "He used underhand tactics to win.",
+      "chinese": {
+        "meaning": "偷偷摸摸的",
+        "example": "他使用偷偷摸摸的手段取勝。"
       }
     },
     {
@@ -276,6 +1016,166 @@
       }
     },
     {
+      "word": "Underneath",
+      "type": "adjective",
+      "meaning": "Situated directly below",
+      "example": "The shoes were hidden underneath the bed.",
+      "chinese": {
+        "meaning": "在下面的",
+        "example": "鞋子藏在床下。"
+      }
+    },
+    {
+      "word": "Underrated",
+      "type": "adjective",
+      "meaning": "Not given enough recognition or value",
+      "example": "This movie is highly underrated.",
+      "chinese": {
+        "meaning": "被低估的",
+        "example": "這部電影被嚴重低估。"
+      }
+    },
+    {
+      "word": "Understandable",
+      "type": "adjective",
+      "meaning": "Able to be understood",
+      "example": "Her anger is understandable.",
+      "chinese": {
+        "meaning": "可以理解的",
+        "example": "她的憤怒是可以理解的。"
+      }
+    },
+    {
+      "word": "Understanding",
+      "type": "adjective",
+      "meaning": "Sympathetic and kind",
+      "example": "She is very understanding towards others.",
+      "chinese": {
+        "meaning": "體諒人的",
+        "example": "她對別人非常體諒。"
+      }
+    },
+    {
+      "word": "Understated",
+      "type": "adjective",
+      "meaning": "Presented in a subtle and effective way",
+      "example": "The design is elegant and understated.",
+      "chinese": {
+        "meaning": "低調的",
+        "example": "這個設計優雅且低調。"
+      }
+    },
+    {
+      "word": "Understood",
+      "type": "adjective",
+      "meaning": "Agreed upon without being stated",
+      "example": "It was an understood rule.",
+      "chinese": {
+        "meaning": "默認的",
+        "example": "這是一條默認規則。"
+      }
+    },
+    {
+      "word": "Undertaken",
+      "type": "adjective",
+      "meaning": "Committed to or started",
+      "example": "The project has been undertaken by experts.",
+      "chinese": {
+        "meaning": "已承擔的",
+        "example": "這個項目已由專家承擔。"
+      }
+    },
+    {
+      "word": "Underutilized",
+      "type": "adjective",
+      "meaning": "Not fully used",
+      "example": "The system is underutilized.",
+      "chinese": {
+        "meaning": "未充分利用的",
+        "example": "這個系統未被充分利用。"
+      }
+    },
+    {
+      "word": "Undervalued",
+      "type": "adjective",
+      "meaning": "Not valued highly enough",
+      "example": "Teachers are often undervalued.",
+      "chinese": {
+        "meaning": "被低估的",
+        "example": "教師經常被低估。"
+      }
+    },
+    {
+      "word": "Undesirable",
+      "type": "adjective",
+      "meaning": "Not wanted or attractive",
+      "example": "The law had several undesirable effects.",
+      "chinese": {
+        "meaning": "不受歡迎的",
+        "example": "該法律有幾個不受歡迎的影響。"
+      }
+    },
+    {
+      "word": "Undetected",
+      "type": "adjective",
+      "meaning": "Not discovered or noticed",
+      "example": "The virus went undetected for months.",
+      "chinese": {
+        "meaning": "未被發現的",
+        "example": "病毒幾個月未被發現。"
+      }
+    },
+    {
+      "word": "Undeveloped",
+      "type": "adjective",
+      "meaning": "Not advanced or fully grown",
+      "example": "The region is still largely undeveloped.",
+      "chinese": {
+        "meaning": "不發達的",
+        "example": "這個地區仍然很不發達。"
+      }
+    },
+    {
+      "word": "Undignified",
+      "type": "adjective",
+      "meaning": "Lacking dignity or respect",
+      "example": "He made an undignified exit.",
+      "chinese": {
+        "meaning": "不體面的",
+        "example": "他以一種不體面的方式離開。"
+      }
+    },
+    {
+      "word": "Undiminished",
+      "type": "adjective",
+      "meaning": "Not reduced or lessened",
+      "example": "His enthusiasm remained undiminished.",
+      "chinese": {
+        "meaning": "未減少的",
+        "example": "他的熱情依然未減。"
+      }
+    },
+    {
+      "word": "Undisciplined",
+      "type": "adjective",
+      "meaning": "Lacking control or order",
+      "example": "The undisciplined group created chaos.",
+      "chinese": {
+        "meaning": "無紀律的",
+        "example": "這群無紀律的人製造了混亂。"
+      }
+    },
+    {
+      "word": "Undiscovered",
+      "type": "adjective",
+      "meaning": "Not yet found or known",
+      "example": "There are many undiscovered species.",
+      "chinese": {
+        "meaning": "未被發現的",
+        "example": "有許多未被發現的物種。"
+      }
+    },
+    {
       "word": "Undisputed",
       "type": "adjective",
       "letter": "U",
@@ -287,6 +1187,16 @@
       }
     },
     {
+      "word": "Undisturbed",
+      "type": "adjective",
+      "meaning": "Not bothered or moved",
+      "example": "The wildlife area was left undisturbed.",
+      "chinese": {
+        "meaning": "未受打擾的",
+        "example": "野生動物區保持未受打擾。"
+      }
+    },
+    {
       "word": "Undivided",
       "type": "adjective",
       "letter": "U",
@@ -295,6 +1205,56 @@
       "chinese": {
         "meaning": "全神貫注的；未分割的",
         "example": "他全神貫注於這項任務。"
+      }
+    },
+    {
+      "word": "Undoing",
+      "type": "adjective",
+      "meaning": "Causing ruin or failure",
+      "example": "His arrogance was his undoing.",
+      "chinese": {
+        "meaning": "失敗的原因",
+        "example": "他的傲慢是他失敗的原因。"
+      }
+    },
+    {
+      "word": "Undone",
+      "type": "adjective",
+      "meaning": "Not finished or unfastened",
+      "example": "He left the work undone.",
+      "chinese": {
+        "meaning": "未完成的；解開的",
+        "example": "他把工作留著沒完成。"
+      }
+    },
+    {
+      "word": "Undoubted",
+      "type": "adjective",
+      "meaning": "Certain; without doubt",
+      "example": "She is the undoubted leader of the group.",
+      "chinese": {
+        "meaning": "毋庸置疑的",
+        "example": "她是這個團體毋庸置疑的領袖。"
+      }
+    },
+    {
+      "word": "Undressed",
+      "type": "adjective",
+      "meaning": "Not wearing clothes",
+      "example": "He was found undressed in the room.",
+      "chinese": {
+        "meaning": "未穿衣服的",
+        "example": "他在房間裡被發現赤身裸體。"
+      }
+    },
+    {
+      "word": "Undue",
+      "type": "adjective",
+      "meaning": "Excessive; more than is reasonable",
+      "example": "He showed undue concern for the matter.",
+      "chinese": {
+        "meaning": "過度的",
+        "example": "他對這件事表現出過度的關注。"
       }
     },
     {
@@ -320,6 +1280,16 @@
       }
     },
     {
+      "word": "Undying",
+      "type": "adjective",
+      "meaning": "Lasting forever",
+      "example": "She swore undying love.",
+      "chinese": {
+        "meaning": "永恆的",
+        "example": "她發誓永遠愛他。"
+      }
+    },
+    {
       "word": "Uneasy",
       "type": "adjective",
       "letter": "U",
@@ -328,6 +1298,116 @@
       "chinese": {
         "meaning": "不安的；不自在的",
         "example": "她對這個決定感到不安。"
+      }
+    },
+    {
+      "word": "Uneducated",
+      "type": "adjective",
+      "meaning": "Not having received an education",
+      "example": "He came from an uneducated family.",
+      "chinese": {
+        "meaning": "未受教育的",
+        "example": "他來自一個未受教育的家庭。"
+      }
+    },
+    {
+      "word": "Unemotional",
+      "type": "adjective",
+      "meaning": "Not showing emotions",
+      "example": "He gave an unemotional response.",
+      "chinese": {
+        "meaning": "不動感情的",
+        "example": "他做出了不動感情的回應。"
+      }
+    },
+    {
+      "word": "Unemployed",
+      "type": "adjective",
+      "meaning": "Without a paid job",
+      "example": "He has been unemployed for six months.",
+      "chinese": {
+        "meaning": "失業的",
+        "example": "他已經失業六個月了。"
+      }
+    },
+    {
+      "word": "Unending",
+      "type": "adjective",
+      "meaning": "Seeming to have no end",
+      "example": "They faced unending challenges.",
+      "chinese": {
+        "meaning": "無盡的",
+        "example": "他們面臨無盡的挑戰。"
+      }
+    },
+    {
+      "word": "Unenforceable",
+      "type": "adjective",
+      "meaning": "Unable to be made effective by law",
+      "example": "The contract was deemed unenforceable.",
+      "chinese": {
+        "meaning": "無法執行的",
+        "example": "該合同被認為無法執行。"
+      }
+    },
+    {
+      "word": "Unequal",
+      "type": "adjective",
+      "meaning": "Not the same in size, quality, or value",
+      "example": "There is unequal access to education.",
+      "chinese": {
+        "meaning": "不平等的",
+        "example": "教育資源的獲取不平等。"
+      }
+    },
+    {
+      "word": "Unequaled",
+      "type": "adjective",
+      "meaning": "Better than anyone or anything else",
+      "example": "Her skills are unequaled.",
+      "chinese": {
+        "meaning": "無與倫比的",
+        "example": "她的技能無與倫比。"
+      }
+    },
+    {
+      "word": "Uneven",
+      "type": "adjective",
+      "meaning": "Not level, smooth, or equal",
+      "example": "The ground is uneven here.",
+      "chinese": {
+        "meaning": "不平坦的",
+        "example": "這裡的地面不平坦。"
+      }
+    },
+    {
+      "word": "Uneventful",
+      "type": "adjective",
+      "meaning": "Without any significant events",
+      "example": "The journey was uneventful.",
+      "chinese": {
+        "meaning": "平淡無奇的",
+        "example": "這趟旅程平淡無奇。"
+      }
+    },
+    {
+      "word": "Unexpected",
+      "type": "adjective",
+      "meaning": "Not expected or regarded as likely",
+      "example": "His visit was completely unexpected.",
+      "chinese": {
+        "meaning": "出乎意料的",
+        "example": "他的拜訪完全出乎意料。"
+      }
+    },
+    {
+      "word": "Unexplained",
+      "type": "adjective",
+      "meaning": "Not explained or accounted for",
+      "example": "There was an unexplained delay.",
+      "chinese": {
+        "meaning": "未解釋的",
+        "example": "出現了未解釋的延誤。"
       }
     },
     {
@@ -342,6 +1422,16 @@
       }
     },
     {
+      "word": "Unfair",
+      "type": "adjective",
+      "meaning": "Not based on or behaving according to the principles of equality and justice",
+      "example": "It was unfair to blame him.",
+      "chinese": {
+        "meaning": "不公平的",
+        "example": "把責任歸咎於他是不公平的。"
+      }
+    },
+    {
       "word": "Unfamiliar",
       "type": "adjective",
       "letter": "U",
@@ -350,6 +1440,106 @@
       "chinese": {
         "meaning": "不熟悉的",
         "example": "這個城市對他來說很陌生。"
+      }
+    },
+    {
+      "word": "Unfavorable",
+      "type": "adjective",
+      "meaning": "Not beneficial or positive",
+      "example": "The conditions are unfavorable for growth.",
+      "chinese": {
+        "meaning": "不利的",
+        "example": "這些條件對生長不利。"
+      }
+    },
+    {
+      "word": "Unfeeling",
+      "type": "adjective",
+      "meaning": "Not showing any emotion or sympathy",
+      "example": "He gave an unfeeling response.",
+      "chinese": {
+        "meaning": "無情的",
+        "example": "他給出了無情的回應。"
+      }
+    },
+    {
+      "word": "Unfinished",
+      "type": "adjective",
+      "meaning": "Not completed",
+      "example": "The project is still unfinished.",
+      "chinese": {
+        "meaning": "未完成的",
+        "example": "該項目仍未完成。"
+      }
+    },
+    {
+      "word": "Unfit",
+      "type": "adjective",
+      "meaning": "Not suitable or not good enough",
+      "example": "The meat was unfit for consumption.",
+      "chinese": {
+        "meaning": "不適合的",
+        "example": "這塊肉不適合食用。"
+      }
+    },
+    {
+      "word": "Unflappable",
+      "type": "adjective",
+      "meaning": "Having or showing calmness in a crisis",
+      "example": "She remained unflappable during the emergency.",
+      "chinese": {
+        "meaning": "臨危不亂的",
+        "example": "她在緊急情況下仍保持冷靜。"
+      }
+    },
+    {
+      "word": "Unflattering",
+      "type": "adjective",
+      "meaning": "Making someone or something look worse than they really are",
+      "example": "The photo was unflattering.",
+      "chinese": {
+        "meaning": "不討好的",
+        "example": "這張照片不討喜。"
+      }
+    },
+    {
+      "word": "Unfocused",
+      "type": "adjective",
+      "meaning": "Not concentrated on a particular activity or goal",
+      "example": "He seemed unfocused during the meeting.",
+      "chinese": {
+        "meaning": "不專注的",
+        "example": "他在會議期間似乎心不在焉。"
+      }
+    },
+    {
+      "word": "Unforeseen",
+      "type": "adjective",
+      "meaning": "Not anticipated or predicted",
+      "example": "We had to deal with unforeseen problems.",
+      "chinese": {
+        "meaning": "出乎意料的",
+        "example": "我們不得不應對出乎意料的問題。"
+      }
+    },
+    {
+      "word": "Unforgettable",
+      "type": "adjective",
+      "meaning": "So good or unusual that it cannot be forgotten",
+      "example": "It was an unforgettable experience.",
+      "chinese": {
+        "meaning": "難忘的",
+        "example": "這是一段難忘的經歷。"
+      }
+    },
+    {
+      "word": "Unforgivable",
+      "type": "adjective",
+      "meaning": "Too bad to be forgiven",
+      "example": "His actions were unforgivable.",
+      "chinese": {
+        "meaning": "不可原諒的",
+        "example": "他的行為不可原諒。"
       }
     },
     {
@@ -364,6 +1554,36 @@
       }
     },
     {
+      "word": "Unfounded",
+      "type": "adjective",
+      "meaning": "Not based on fact or evidence",
+      "example": "The accusations were unfounded.",
+      "chinese": {
+        "meaning": "無根據的",
+        "example": "這些指控毫無根據。"
+      }
+    },
+    {
+      "word": "Unfriendly",
+      "type": "adjective",
+      "meaning": "Not friendly",
+      "example": "She gave me an unfriendly look.",
+      "chinese": {
+        "meaning": "不友好的",
+        "example": "她給了我一個不友好的眼神。"
+      }
+    },
+    {
+      "word": "Unfulfilled",
+      "type": "adjective",
+      "meaning": "Not having met or satisfied a goal or desire",
+      "example": "He felt unfulfilled in his job.",
+      "chinese": {
+        "meaning": "未實現的；不滿足的",
+        "example": "他在工作中感到不滿足。"
+      }
+    },
+    {
       "word": "Ungainly",
       "type": "adjective",
       "letter": "U",
@@ -372,6 +1592,26 @@
       "chinese": {
         "meaning": "笨拙的",
         "example": "那隻笨拙的鳥努力想飛起來。"
+      }
+    },
+    {
+      "word": "Ungenerous",
+      "type": "adjective",
+      "meaning": "Not willing to share or give",
+      "example": "It was ungenerous of him to refuse.",
+      "chinese": {
+        "meaning": "不慷慨的",
+        "example": "他拒絕是很不慷慨的。"
+      }
+    },
+    {
+      "word": "Unglamorous",
+      "type": "adjective",
+      "meaning": "Lacking excitement or appeal",
+      "example": "The job is hard and unglamorous.",
+      "chinese": {
+        "meaning": "不吸引人的",
+        "example": "這份工作艱難且缺乏吸引力。"
       }
     },
     {
@@ -386,6 +1626,16 @@
       }
     },
     {
+      "word": "Unhappy",
+      "type": "adjective",
+      "meaning": "Not happy",
+      "example": "She was clearly unhappy with the results.",
+      "chinese": {
+        "meaning": "不快樂的",
+        "example": "她顯然對結果不滿意。"
+      }
+    },
+    {
       "word": "Unharmed",
       "type": "adjective",
       "letter": "U",
@@ -394,6 +1644,96 @@
       "chinese": {
         "meaning": "未受傷的",
         "example": "幸運的是她在事故中毫髮無傷。"
+      }
+    },
+    {
+      "word": "Unhealthy",
+      "type": "adjective",
+      "meaning": "Not good for health",
+      "example": "He has an unhealthy diet.",
+      "chinese": {
+        "meaning": "不健康的",
+        "example": "他的飲食不健康。"
+      }
+    },
+    {
+      "word": "Unheard",
+      "type": "adjective",
+      "meaning": "Not heard or listened to",
+      "example": "The complaints went unheard.",
+      "chinese": {
+        "meaning": "未被聽到的",
+        "example": "這些投訴未被聽到。"
+      }
+    },
+    {
+      "word": "Unhelpful",
+      "type": "adjective",
+      "meaning": "Not providing help or assistance",
+      "example": "Her comments were unhelpful.",
+      "chinese": {
+        "meaning": "無幫助的",
+        "example": "她的評論沒有幫助。"
+      }
+    },
+    {
+      "word": "Unhesitating",
+      "type": "adjective",
+      "meaning": "Done without hesitation",
+      "example": "He gave an unhesitating answer.",
+      "chinese": {
+        "meaning": "毫不猶豫的",
+        "example": "他給出了毫不猶豫的回答。"
+      }
+    },
+    {
+      "word": "Unhindered",
+      "type": "adjective",
+      "meaning": "Not impeded or obstructed",
+      "example": "The plan went ahead unhindered.",
+      "chinese": {
+        "meaning": "不受阻礙的",
+        "example": "計劃順利進行，未受阻礙。"
+      }
+    },
+    {
+      "word": "Unholy",
+      "type": "adjective",
+      "meaning": "Wicked or morally bad",
+      "example": "They formed an unholy alliance.",
+      "chinese": {
+        "meaning": "邪惡的",
+        "example": "他們結成了一個邪惡的聯盟。"
+      }
+    },
+    {
+      "word": "Unhurried",
+      "type": "adjective",
+      "meaning": "Not rushed or hurried",
+      "example": "He took an unhurried walk.",
+      "chinese": {
+        "meaning": "不慌不忙的",
+        "example": "他不慌不忙地散步。"
+      }
+    },
+    {
+      "word": "Uniform",
+      "type": "adjective",
+      "meaning": "Always the same in form or character",
+      "example": "The houses are of uniform size.",
+      "chinese": {
+        "meaning": "一致的",
+        "example": "這些房子的大小一致。"
+      }
+    },
+    {
+      "word": "Unifying",
+      "type": "adjective",
+      "meaning": "Bringing together or combining",
+      "example": "This event had a unifying effect.",
+      "chinese": {
+        "meaning": "統一的",
+        "example": "這個事件有統一的效果。"
       }
     },
     {
@@ -408,6 +1748,106 @@
       }
     },
     {
+      "word": "Unimaginable",
+      "type": "adjective",
+      "meaning": "Difficult or impossible to imagine",
+      "example": "The damage was unimaginable.",
+      "chinese": {
+        "meaning": "難以想像的",
+        "example": "損失是難以想像的。"
+      }
+    },
+    {
+      "word": "Unimpressed",
+      "type": "adjective",
+      "meaning": "Not feeling admiration or respect",
+      "example": "She was unimpressed by the performance.",
+      "chinese": {
+        "meaning": "不感興趣的",
+        "example": "她對這場表演不感興趣。"
+      }
+    },
+    {
+      "word": "Uninhabited",
+      "type": "adjective",
+      "meaning": "Not lived in by people",
+      "example": "They discovered an uninhabited island.",
+      "chinese": {
+        "meaning": "無人居住的",
+        "example": "他們發現了一個無人居住的島嶼。"
+      }
+    },
+    {
+      "word": "Uninhibited",
+      "type": "adjective",
+      "meaning": "Expressing feelings or thoughts freely",
+      "example": "He was uninhibited on the dance floor.",
+      "chinese": {
+        "meaning": "無拘束的",
+        "example": "他在舞池裡毫無拘束。"
+      }
+    },
+    {
+      "word": "Uninsured",
+      "type": "adjective",
+      "meaning": "Not covered by insurance",
+      "example": "The car was uninsured.",
+      "chinese": {
+        "meaning": "未投保的",
+        "example": "這輛車未投保。"
+      }
+    },
+    {
+      "word": "Unintelligent",
+      "type": "adjective",
+      "meaning": "Not having or showing intelligence",
+      "example": "The decision was unintelligent.",
+      "chinese": {
+        "meaning": "不聰明的",
+        "example": "這個決定不聰明。"
+      }
+    },
+    {
+      "word": "Unintended",
+      "type": "adjective",
+      "meaning": "Not planned or meant",
+      "example": "The move had unintended consequences.",
+      "chinese": {
+        "meaning": "非預期的",
+        "example": "這個舉動帶來了非預期的後果。"
+      }
+    },
+    {
+      "word": "Unintentional",
+      "type": "adjective",
+      "meaning": "Not done deliberately",
+      "example": "The damage was unintentional.",
+      "chinese": {
+        "meaning": "非故意的",
+        "example": "損壞是非故意的。"
+      }
+    },
+    {
+      "word": "Uninterested",
+      "type": "adjective",
+      "meaning": "Not showing interest",
+      "example": "He seemed uninterested in the topic.",
+      "chinese": {
+        "meaning": "不感興趣的",
+        "example": "他對這個話題不感興趣。"
+      }
+    },
+    {
+      "word": "Uninterrupted",
+      "type": "adjective",
+      "meaning": "Without any breaks or stops",
+      "example": "The service continued uninterrupted.",
+      "chinese": {
+        "meaning": "不間斷的",
+        "example": "服務不間斷地進行。"
+      }
+    },
+    {
       "word": "Unique",
       "type": "adjective",
       "letter": "U",
@@ -416,6 +1856,16 @@
       "chinese": {
         "meaning": "獨特的",
         "example": "她的風格非常獨特。"
+      }
+    },
+    {
+      "word": "United",
+      "type": "adjective",
+      "meaning": "Joined together for a common purpose",
+      "example": "The team stood united.",
+      "chinese": {
+        "meaning": "團結的",
+        "example": "這支隊伍團結一致。"
       }
     },
     {
@@ -441,6 +1891,16 @@
       }
     },
     {
+      "word": "Unjustified",
+      "type": "adjective",
+      "meaning": "Not shown to be right or reasonable",
+      "example": "His anger was unjustified.",
+      "chinese": {
+        "meaning": "不合理的",
+        "example": "他的憤怒是不合理的。"
+      }
+    },
+    {
       "word": "Unkempt",
       "type": "adjective",
       "letter": "U",
@@ -449,6 +1909,26 @@
       "chinese": {
         "meaning": "不整潔的",
         "example": "他看起來疲憊且不整潔。"
+      }
+    },
+    {
+      "word": "Unkind",
+      "type": "adjective",
+      "meaning": "Not friendly or considerate",
+      "example": "It was unkind of you to say that.",
+      "chinese": {
+        "meaning": "不友善的",
+        "example": "你這麼說是不友善的。"
+      }
+    },
+    {
+      "word": "Unknown",
+      "type": "adjective",
+      "meaning": "Not known or familiar",
+      "example": "The cause of the fire is unknown.",
+      "chinese": {
+        "meaning": "未知的",
+        "example": "火災的原因不明。"
       }
     },
     {
@@ -463,6 +1943,186 @@
       }
     },
     {
+      "word": "Unleaded",
+      "type": "adjective",
+      "meaning": "Not containing lead",
+      "example": "He filled the car with unleaded fuel.",
+      "chinese": {
+        "meaning": "無鉛的",
+        "example": "他給汽車加了無鉛燃料。"
+      }
+    },
+    {
+      "word": "Unleashed",
+      "type": "adjective",
+      "meaning": "Released from restraint",
+      "example": "The dog was unleashed and ran freely.",
+      "chinese": {
+        "meaning": "被釋放的",
+        "example": "狗被放開繩子自由奔跑。"
+      }
+    },
+    {
+      "word": "Unlikely",
+      "type": "adjective",
+      "meaning": "Not probable to happen",
+      "example": "It is unlikely to rain today.",
+      "chinese": {
+        "meaning": "不太可能的",
+        "example": "今天下雨的可能性不大。"
+      }
+    },
+    {
+      "word": "Unlimited",
+      "type": "adjective",
+      "meaning": "Without limits or restrictions",
+      "example": "They offered unlimited access to resources.",
+      "chinese": {
+        "meaning": "無限制的",
+        "example": "他們提供了無限制的資源使用權。"
+      }
+    },
+    {
+      "word": "Unlined",
+      "type": "adjective",
+      "meaning": "Without a lining or without lines",
+      "example": "He wrote on unlined paper.",
+      "chinese": {
+        "meaning": "無襯裡的；無線條的",
+        "example": "他在沒有線條的紙上寫字。"
+      }
+    },
+    {
+      "word": "Unlisted",
+      "type": "adjective",
+      "meaning": "Not included in a list",
+      "example": "His number is unlisted.",
+      "chinese": {
+        "meaning": "未列出的",
+        "example": "他的電話號碼未列入名錄。"
+      }
+    },
+    {
+      "word": "Unlit",
+      "type": "adjective",
+      "meaning": "Not illuminated",
+      "example": "The path was dark and unlit.",
+      "chinese": {
+        "meaning": "未點亮的",
+        "example": "小路又暗又沒有燈光。"
+      }
+    },
+    {
+      "word": "Unloaded",
+      "type": "adjective",
+      "meaning": "Emptied of its load",
+      "example": "The truck was unloaded quickly.",
+      "chinese": {
+        "meaning": "已卸貨的",
+        "example": "卡車迅速卸完了貨。"
+      }
+    },
+    {
+      "word": "Unlocked",
+      "type": "adjective",
+      "meaning": "Not locked",
+      "example": "The door was unlocked.",
+      "chinese": {
+        "meaning": "未上鎖的",
+        "example": "門是開著的。"
+      }
+    },
+    {
+      "word": "Unloved",
+      "type": "adjective",
+      "meaning": "Not loved or cared for",
+      "example": "She felt lonely and unloved.",
+      "chinese": {
+        "meaning": "不被愛的",
+        "example": "她覺得孤單且不被愛。"
+      }
+    },
+    {
+      "word": "Unlucky",
+      "type": "adjective",
+      "meaning": "Having bad luck",
+      "example": "He was unlucky to miss the train.",
+      "chinese": {
+        "meaning": "不幸的",
+        "example": "他不幸錯過了火車。"
+      }
+    },
+    {
+      "word": "Unmade",
+      "type": "adjective",
+      "meaning": "Not made or prepared",
+      "example": "The bed was unmade.",
+      "chinese": {
+        "meaning": "未整理的",
+        "example": "床鋪沒整理。"
+      }
+    },
+    {
+      "word": "Unmanageable",
+      "type": "adjective",
+      "meaning": "Difficult or impossible to control",
+      "example": "The children became unmanageable.",
+      "chinese": {
+        "meaning": "難以管理的",
+        "example": "孩子們變得難以管教。"
+      }
+    },
+    {
+      "word": "Unmanned",
+      "type": "adjective",
+      "meaning": "Not operated by a person",
+      "example": "The unmanned spacecraft reached Mars.",
+      "chinese": {
+        "meaning": "無人駕駛的",
+        "example": "這艘無人飛船到達了火星。"
+      }
+    },
+    {
+      "word": "Unmarked",
+      "type": "adjective",
+      "meaning": "Without any marks or signs",
+      "example": "The grave was unmarked.",
+      "chinese": {
+        "meaning": "沒有標記的",
+        "example": "這座墳墓沒有標記。"
+      }
+    },
+    {
+      "word": "Unmarried",
+      "type": "adjective",
+      "meaning": "Not married",
+      "example": "He is still unmarried.",
+      "chinese": {
+        "meaning": "未婚的",
+        "example": "他仍然未婚。"
+      }
+    },
+    {
+      "word": "Unmatched",
+      "type": "adjective",
+      "meaning": "Better than all others",
+      "example": "Her performance was unmatched.",
+      "chinese": {
+        "meaning": "無可比擬的",
+        "example": "她的表現無可比擬。"
+      }
+    },
+    {
+      "word": "Unmentionable",
+      "type": "adjective",
+      "meaning": "Too shocking or embarrassing to be mentioned",
+      "example": "He committed an unmentionable crime.",
+      "chinese": {
+        "meaning": "不可提及的",
+        "example": "他犯下了不可提及的罪行。"
+      }
+    },
+    {
       "word": "Unmistakable",
       "type": "adjective",
       "letter": "U",
@@ -474,6 +2134,96 @@
       }
     },
     {
+      "word": "Unmoved",
+      "type": "adjective",
+      "meaning": "Not emotionally affected",
+      "example": "She remained unmoved by his speech.",
+      "chinese": {
+        "meaning": "無動於衷的",
+        "example": "她對他的演講無動於衷。"
+      }
+    },
+    {
+      "word": "Unnatural",
+      "type": "adjective",
+      "meaning": "Not natural or normal",
+      "example": "He spoke in an unnatural tone.",
+      "chinese": {
+        "meaning": "不自然的",
+        "example": "他用一種不自然的語氣說話。"
+      }
+    },
+    {
+      "word": "Unnecessary",
+      "type": "adjective",
+      "meaning": "Not needed",
+      "example": "The extra work was unnecessary.",
+      "chinese": {
+        "meaning": "不必要的",
+        "example": "這些額外的工作是不必要的。"
+      }
+    },
+    {
+      "word": "Unnerve",
+      "type": "verb",
+      "meaning": "To make someone lose confidence or courage",
+      "example": "His gaze would unnerve anyone.",
+      "chinese": {
+        "meaning": "使緊張；使膽怯",
+        "example": "他的凝視會讓任何人緊張。"
+      }
+    },
+    {
+      "word": "Unnerving",
+      "type": "adjective",
+      "meaning": "Causing someone to lose courage or confidence",
+      "example": "The silence was unnerving.",
+      "chinese": {
+        "meaning": "令人不安的",
+        "example": "這種沉默令人不安。"
+      }
+    },
+    {
+      "word": "Unnoticed",
+      "type": "adjective",
+      "meaning": "Not observed or noticed",
+      "example": "He slipped out unnoticed.",
+      "chinese": {
+        "meaning": "未被注意的",
+        "example": "他悄悄地離開了，沒有人注意到。"
+      }
+    },
+    {
+      "word": "Unobtrusive",
+      "type": "adjective",
+      "meaning": "Not attracting attention",
+      "example": "She wore an unobtrusive dress.",
+      "chinese": {
+        "meaning": "不引人注目的",
+        "example": "她穿了一件不起眼的連衣裙。"
+      }
+    },
+    {
+      "word": "Unopened",
+      "type": "adjective",
+      "meaning": "Not opened",
+      "example": "The letter was unopened.",
+      "chinese": {
+        "meaning": "未打開的",
+        "example": "信封未被打開。"
+      }
+    },
+    {
+      "word": "Unopposed",
+      "type": "adjective",
+      "meaning": "Not opposed or challenged",
+      "example": "He won the election unopposed.",
+      "chinese": {
+        "meaning": "無人反對的",
+        "example": "他在選舉中無人反對而獲勝。"
+      }
+    },
+    {
       "word": "Unorthodox",
       "type": "adjective",
       "letter": "U",
@@ -482,6 +2232,76 @@
       "chinese": {
         "meaning": "非正統的；異端的",
         "example": "他用非正統的方法解決了這個問題。"
+      }
+    },
+    {
+      "word": "Unpaid",
+      "type": "adjective",
+      "meaning": "Not yet paid",
+      "example": "There are still unpaid bills.",
+      "chinese": {
+        "meaning": "未付款的",
+        "example": "還有未支付的帳單。"
+      }
+    },
+    {
+      "word": "Unpalatable",
+      "type": "adjective",
+      "meaning": "Unpleasant to taste or accept",
+      "example": "The food was unpalatable.",
+      "chinese": {
+        "meaning": "不好吃的；令人難以接受的",
+        "example": "這些食物很難吃。"
+      }
+    },
+    {
+      "word": "Unparalleled",
+      "type": "adjective",
+      "meaning": "Having no equal; unmatched",
+      "example": "The view was of unparalleled beauty.",
+      "chinese": {
+        "meaning": "無與倫比的",
+        "example": "景色美得無與倫比。"
+      }
+    },
+    {
+      "word": "Unplanned",
+      "type": "adjective",
+      "meaning": "Not planned in advance",
+      "example": "The meeting was completely unplanned.",
+      "chinese": {
+        "meaning": "未計劃的",
+        "example": "這次會議完全是臨時的。"
+      }
+    },
+    {
+      "word": "Unpleasant",
+      "type": "adjective",
+      "meaning": "Causing discomfort or unhappiness",
+      "example": "It was an unpleasant experience.",
+      "chinese": {
+        "meaning": "令人不快的",
+        "example": "這是一段令人不快的經歷。"
+      }
+    },
+    {
+      "word": "Unplugged",
+      "type": "adjective",
+      "meaning": "Disconnected from an electrical source",
+      "example": "The appliance is unplugged.",
+      "chinese": {
+        "meaning": "已拔掉插頭的",
+        "example": "這個電器已經拔掉插頭。"
+      }
+    },
+    {
+      "word": "Unpopular",
+      "type": "adjective",
+      "meaning": "Not liked or approved by many people",
+      "example": "The decision was very unpopular.",
+      "chinese": {
+        "meaning": "不受歡迎的",
+        "example": "這個決定非常不受歡迎。"
       }
     },
     {
@@ -507,6 +2327,86 @@
       }
     },
     {
+      "word": "Unprepared",
+      "type": "adjective",
+      "meaning": "Not ready",
+      "example": "They were unprepared for the storm.",
+      "chinese": {
+        "meaning": "未準備的",
+        "example": "他們對風暴毫無準備。"
+      }
+    },
+    {
+      "word": "Unpretentious",
+      "type": "adjective",
+      "meaning": "Not attempting to impress others",
+      "example": "She lives an unpretentious life.",
+      "chinese": {
+        "meaning": "不矯飾的",
+        "example": "她過著不矯飾的生活。"
+      }
+    },
+    {
+      "word": "Unprincipled",
+      "type": "adjective",
+      "meaning": "Without moral principles",
+      "example": "The unprincipled manager cheated the staff.",
+      "chinese": {
+        "meaning": "不道德的",
+        "example": "那個不道德的經理欺騙了員工。"
+      }
+    },
+    {
+      "word": "Unproductive",
+      "type": "adjective",
+      "meaning": "Not producing or achieving much",
+      "example": "The meeting was unproductive.",
+      "chinese": {
+        "meaning": "無成效的",
+        "example": "這次會議毫無成效。"
+      }
+    },
+    {
+      "word": "Unprofessional",
+      "type": "adjective",
+      "meaning": "Not behaving or performing in a professional manner",
+      "example": "His behavior was unprofessional.",
+      "chinese": {
+        "meaning": "不專業的",
+        "example": "他的行為很不專業。"
+      }
+    },
+    {
+      "word": "Unprofitable",
+      "type": "adjective",
+      "meaning": "Not bringing profit",
+      "example": "The company had an unprofitable year.",
+      "chinese": {
+        "meaning": "無利可圖的",
+        "example": "這家公司度過了一個無利可圖的年度。"
+      }
+    },
+    {
+      "word": "Unprotected",
+      "type": "adjective",
+      "meaning": "Not protected or defended",
+      "example": "The area was left unprotected.",
+      "chinese": {
+        "meaning": "未受保護的",
+        "example": "該地區被遺留未受保護。"
+      }
+    },
+    {
+      "word": "Unqualified",
+      "type": "adjective",
+      "meaning": "Not meeting the necessary requirements",
+      "example": "He was unqualified for the job.",
+      "chinese": {
+        "meaning": "不合格的",
+        "example": "他不符合這份工作的要求。"
+      }
+    },
+    {
       "word": "Unquestionable",
       "type": "adjective",
       "letter": "U",
@@ -529,6 +2429,46 @@
       }
     },
     {
+      "word": "Unrealistic",
+      "type": "adjective",
+      "meaning": "Not realistic",
+      "example": "Her expectations were unrealistic.",
+      "chinese": {
+        "meaning": "不切實際的",
+        "example": "她的期望不切實際。"
+      }
+    },
+    {
+      "word": "Unreasonable",
+      "type": "adjective",
+      "meaning": "Not fair or sensible",
+      "example": "The demand was unreasonable.",
+      "chinese": {
+        "meaning": "不合理的",
+        "example": "這個要求是不合理的。"
+      }
+    },
+    {
+      "word": "Unregulated",
+      "type": "adjective",
+      "meaning": "Not controlled or supervised",
+      "example": "The unregulated market caused chaos.",
+      "chinese": {
+        "meaning": "未受管制的",
+        "example": "未受管制的市場引發了混亂。"
+      }
+    },
+    {
+      "word": "Unrelated",
+      "type": "adjective",
+      "meaning": "Not connected",
+      "example": "The two incidents are unrelated.",
+      "chinese": {
+        "meaning": "無關的",
+        "example": "這兩件事是無關的。"
+      }
+    },
+    {
       "word": "Unrelenting",
       "type": "adjective",
       "letter": "U",
@@ -537,6 +2477,116 @@
       "chinese": {
         "meaning": "不屈不撓的",
         "example": "他在追求正義的路上不屈不撓。"
+      }
+    },
+    {
+      "word": "Unreliable",
+      "type": "adjective",
+      "meaning": "Not able to be trusted",
+      "example": "The data is unreliable.",
+      "chinese": {
+        "meaning": "不可靠的",
+        "example": "這些數據不可靠。"
+      }
+    },
+    {
+      "word": "Unremarkable",
+      "type": "adjective",
+      "meaning": "Not particularly interesting or special",
+      "example": "The building is quite unremarkable.",
+      "chinese": {
+        "meaning": "平凡的",
+        "example": "這棟建築非常普通。"
+      }
+    },
+    {
+      "word": "Unremitting",
+      "type": "adjective",
+      "meaning": "Never relaxing or stopping",
+      "example": "She worked with unremitting effort.",
+      "chinese": {
+        "meaning": "不懈的",
+        "example": "她不懈地努力工作。"
+      }
+    },
+    {
+      "word": "Unrepentant",
+      "type": "adjective",
+      "meaning": "Not feeling regret",
+      "example": "He remained unrepentant about his actions.",
+      "chinese": {
+        "meaning": "不知悔改的",
+        "example": "他對自己的行為毫不悔改。"
+      }
+    },
+    {
+      "word": "Unrepresentative",
+      "type": "adjective",
+      "meaning": "Not typical of a group or category",
+      "example": "The sample was unrepresentative.",
+      "chinese": {
+        "meaning": "無代表性的",
+        "example": "這個樣本沒有代表性。"
+      }
+    },
+    {
+      "word": "Unreserved",
+      "type": "adjective",
+      "meaning": "Without reservation or restriction",
+      "example": "She gave him her unreserved support.",
+      "chinese": {
+        "meaning": "毫無保留的",
+        "example": "她給了他毫無保留的支持。"
+      }
+    },
+    {
+      "word": "Unresolved",
+      "type": "adjective",
+      "meaning": "Not settled or resolved",
+      "example": "The issue remains unresolved.",
+      "chinese": {
+        "meaning": "未解決的",
+        "example": "問題仍未解決。"
+      }
+    },
+    {
+      "word": "Unresponsive",
+      "type": "adjective",
+      "meaning": "Not reacting to something",
+      "example": "He was unresponsive to the treatment.",
+      "chinese": {
+        "meaning": "無反應的",
+        "example": "他對治療沒有反應。"
+      }
+    },
+    {
+      "word": "Unrestrained",
+      "type": "adjective",
+      "meaning": "Not controlled or limited",
+      "example": "Her unrestrained laughter filled the room.",
+      "chinese": {
+        "meaning": "無約束的",
+        "example": "她無拘無束的笑聲充滿了房間。"
+      }
+    },
+    {
+      "word": "Unrestricted",
+      "type": "adjective",
+      "meaning": "Not limited or controlled",
+      "example": "They have unrestricted access to the area.",
+      "chinese": {
+        "meaning": "無限制的",
+        "example": "他們可以不受限制地進入該區域。"
+      }
+    },
+    {
+      "word": "Unrewarding",
+      "type": "adjective",
+      "meaning": "Not providing satisfaction or benefits",
+      "example": "The work was hard and unrewarding.",
+      "chinese": {
+        "meaning": "沒有回報的",
+        "example": "這工作辛苦又沒有回報。"
       }
     },
     {
@@ -551,6 +2601,66 @@
       }
     },
     {
+      "word": "Unruly",
+      "type": "adjective",
+      "meaning": "Difficult to control",
+      "example": "The unruly crowd refused to disperse.",
+      "chinese": {
+        "meaning": "難以控制的",
+        "example": "那群不守規矩的人拒絕散去。"
+      }
+    },
+    {
+      "word": "Unsatisfactory",
+      "type": "adjective",
+      "meaning": "Not meeting expectations or standards",
+      "example": "The results were unsatisfactory.",
+      "chinese": {
+        "meaning": "不令人滿意的",
+        "example": "結果不令人滿意。"
+      }
+    },
+    {
+      "word": "Unsatisfied",
+      "type": "adjective",
+      "meaning": "Not pleased or content",
+      "example": "He was unsatisfied with the service.",
+      "chinese": {
+        "meaning": "不滿意的",
+        "example": "他對服務不滿意。"
+      }
+    },
+    {
+      "word": "Unschooled",
+      "type": "adjective",
+      "meaning": "Not formally educated",
+      "example": "She was unschooled but very intelligent.",
+      "chinese": {
+        "meaning": "未受過教育的",
+        "example": "她雖然沒有受過教育，但非常聰明。"
+      }
+    },
+    {
+      "word": "Unscientific",
+      "type": "adjective",
+      "meaning": "Not based on science",
+      "example": "The method is unscientific.",
+      "chinese": {
+        "meaning": "不科學的",
+        "example": "這種方法不科學。"
+      }
+    },
+    {
+      "word": "Unscripted",
+      "type": "adjective",
+      "meaning": "Not planned or written in advance",
+      "example": "The interview was completely unscripted.",
+      "chinese": {
+        "meaning": "沒有腳本的",
+        "example": "這次採訪完全是即興的。"
+      }
+    },
+    {
       "word": "Unscrupulous",
       "type": "adjective",
       "letter": "U",
@@ -559,6 +2669,26 @@
       "chinese": {
         "meaning": "不道德的；無恥的",
         "example": "他在生意上非常不道德。"
+      }
+    },
+    {
+      "word": "Unseasonable",
+      "type": "adjective",
+      "meaning": "Happening at an unusual time of year",
+      "example": "We had unseasonable snow in April.",
+      "chinese": {
+        "meaning": "不合時令的",
+        "example": "我們在四月遇到不合時令的降雪。"
+      }
+    },
+    {
+      "word": "Unseen",
+      "type": "adjective",
+      "meaning": "Not seen or noticed",
+      "example": "The danger was unseen.",
+      "chinese": {
+        "meaning": "看不見的",
+        "example": "危險是看不見的。"
       }
     },
     {
@@ -573,6 +2703,36 @@
       }
     },
     {
+      "word": "Unsettled",
+      "type": "adjective",
+      "meaning": "Not stable or resolved",
+      "example": "The country was in an unsettled state.",
+      "chinese": {
+        "meaning": "不穩定的",
+        "example": "這個國家處於不穩定的狀態。"
+      }
+    },
+    {
+      "word": "Unsettling",
+      "type": "adjective",
+      "meaning": "Causing anxiety or discomfort",
+      "example": "His remarks were unsettling.",
+      "chinese": {
+        "meaning": "令人不安的",
+        "example": "他的言論令人不安。"
+      }
+    },
+    {
+      "word": "Unshakeable",
+      "type": "adjective",
+      "meaning": "Cannot be changed or weakened",
+      "example": "She has unshakeable faith.",
+      "chinese": {
+        "meaning": "不可動搖的",
+        "example": "她有著不可動搖的信念。"
+      }
+    },
+    {
       "word": "Unsightly",
       "type": "adjective",
       "letter": "U",
@@ -581,6 +2741,156 @@
       "chinese": {
         "meaning": "難看的",
         "example": "塗鴉讓牆壁變得難看。"
+      }
+    },
+    {
+      "word": "Unsigned",
+      "type": "adjective",
+      "meaning": "Without a signature",
+      "example": "The form was unsigned.",
+      "chinese": {
+        "meaning": "未簽名的",
+        "example": "這份表格沒有簽名。"
+      }
+    },
+    {
+      "word": "Unskilled",
+      "type": "adjective",
+      "meaning": "Not having special training or skills",
+      "example": "He was an unskilled worker.",
+      "chinese": {
+        "meaning": "無技能的",
+        "example": "他是一名無技能工人。"
+      }
+    },
+    {
+      "word": "Unsmiling",
+      "type": "adjective",
+      "meaning": "Not smiling",
+      "example": "She remained unsmiling throughout.",
+      "chinese": {
+        "meaning": "不笑的",
+        "example": "她全程都沒有笑容。"
+      }
+    },
+    {
+      "word": "Unsoiled",
+      "type": "adjective",
+      "meaning": "Not dirty or spoiled",
+      "example": "His reputation was unsoiled.",
+      "chinese": {
+        "meaning": "未弄髒的",
+        "example": "他的名譽沒有受損。"
+      }
+    },
+    {
+      "word": "Unsophisticated",
+      "type": "adjective",
+      "meaning": "Lacking experience or refinement",
+      "example": "The design was simple and unsophisticated.",
+      "chinese": {
+        "meaning": "不精緻的；單純的",
+        "example": "這個設計簡單而不精緻。"
+      }
+    },
+    {
+      "word": "Unsound",
+      "type": "adjective",
+      "meaning": "Not safe or reliable",
+      "example": "The bridge was structurally unsound.",
+      "chinese": {
+        "meaning": "不安全的",
+        "example": "這座橋結構不安全。"
+      }
+    },
+    {
+      "word": "Unsparing",
+      "type": "adjective",
+      "meaning": "Harsh or severe",
+      "example": "He was unsparing in his criticism.",
+      "chinese": {
+        "meaning": "嚴厲的",
+        "example": "他批評得毫不留情。"
+      }
+    },
+    {
+      "word": "Unspecified",
+      "type": "adjective",
+      "meaning": "Not stated clearly",
+      "example": "The reason was unspecified.",
+      "chinese": {
+        "meaning": "未明確說明的",
+        "example": "原因沒有明確說明。"
+      }
+    },
+    {
+      "word": "Unspoiled",
+      "type": "adjective",
+      "meaning": "Not damaged or affected by people",
+      "example": "The island is still unspoiled.",
+      "chinese": {
+        "meaning": "未受破壞的",
+        "example": "這座島嶼依然未受破壞。"
+      }
+    },
+    {
+      "word": "Unspoken",
+      "type": "adjective",
+      "meaning": "Not said aloud",
+      "example": "There was an unspoken agreement.",
+      "chinese": {
+        "meaning": "心照不宣的",
+        "example": "有一種心照不宣的協議。"
+      }
+    },
+    {
+      "word": "Unstable",
+      "type": "adjective",
+      "meaning": "Likely to change or fail",
+      "example": "The political situation is unstable.",
+      "chinese": {
+        "meaning": "不穩定的",
+        "example": "政治局勢不穩定。"
+      }
+    },
+    {
+      "word": "Unsteady",
+      "type": "adjective",
+      "meaning": "Not firm or steady",
+      "example": "He walked with unsteady steps.",
+      "chinese": {
+        "meaning": "不穩的",
+        "example": "他走路步伐不穩。"
+      }
+    },
+    {
+      "word": "Unstoppable",
+      "type": "adjective",
+      "meaning": "Impossible to stop",
+      "example": "The team was unstoppable this season.",
+      "chinese": {
+        "meaning": "不可阻擋的",
+        "example": "這支隊伍本賽季不可阻擋。"
+      }
+    },
+    {
+      "word": "Unstructured",
+      "type": "adjective",
+      "meaning": "Not organized",
+      "example": "The meeting was unstructured and chaotic.",
+      "chinese": {
+        "meaning": "無結構的",
+        "example": "會議沒有結構且一片混亂。"
+      }
+    },
+    {
+      "word": "Unsuccessful",
+      "type": "adjective",
+      "meaning": "Not achieving success",
+      "example": "The attempt was unsuccessful.",
+      "chinese": {
+        "meaning": "不成功的",
+        "example": "這次嘗試沒有成功。"
       }
     },
     {
@@ -606,6 +2916,46 @@
       }
     },
     {
+      "word": "Unsure",
+      "type": "adjective",
+      "meaning": "Not certain",
+      "example": "She was unsure about the decision.",
+      "chinese": {
+        "meaning": "不確定的",
+        "example": "她對這個決定不確定。"
+      }
+    },
+    {
+      "word": "Unsurpassed",
+      "type": "adjective",
+      "meaning": "Better than anything else",
+      "example": "The quality is unsurpassed.",
+      "chinese": {
+        "meaning": "無與倫比的",
+        "example": "質量無與倫比。"
+      }
+    },
+    {
+      "word": "Unsustainable",
+      "type": "adjective",
+      "meaning": "Not able to be maintained",
+      "example": "The current pace is unsustainable.",
+      "chinese": {
+        "meaning": "無法持續的",
+        "example": "目前的速度無法持續。"
+      }
+    },
+    {
+      "word": "Untainted",
+      "type": "adjective",
+      "meaning": "Not spoiled or affected",
+      "example": "His reputation remained untainted.",
+      "chinese": {
+        "meaning": "未玷污的",
+        "example": "他的名譽保持未玷污。"
+      }
+    },
+    {
       "word": "Untamed",
       "type": "adjective",
       "letter": "U",
@@ -614,6 +2964,36 @@
       "chinese": {
         "meaning": "未馴服的",
         "example": "這匹馬仍然未被馴服。"
+      }
+    },
+    {
+      "word": "Untapped",
+      "type": "adjective",
+      "meaning": "Not used or exploited",
+      "example": "There are many untapped resources.",
+      "chinese": {
+        "meaning": "未開發的",
+        "example": "有許多未開發的資源。"
+      }
+    },
+    {
+      "word": "Untidy",
+      "type": "adjective",
+      "meaning": "Not neat or orderly",
+      "example": "His room was untidy.",
+      "chinese": {
+        "meaning": "不整潔的",
+        "example": "他的房間很亂。"
+      }
+    },
+    {
+      "word": "Untied",
+      "type": "adjective",
+      "meaning": "Not tied",
+      "example": "The rope was untied.",
+      "chinese": {
+        "meaning": "解開的",
+        "example": "繩子被解開了。"
       }
     },
     {
@@ -628,6 +3008,26 @@
       }
     },
     {
+      "word": "Untiring",
+      "type": "adjective",
+      "meaning": "Never showing signs of tiredness",
+      "example": "She worked with untiring dedication.",
+      "chinese": {
+        "meaning": "不知疲倦的",
+        "example": "她以不知疲倦的奉獻精神工作。"
+      }
+    },
+    {
+      "word": "Untold",
+      "type": "adjective",
+      "meaning": "Too great to be measured",
+      "example": "The disaster caused untold damage.",
+      "chinese": {
+        "meaning": "無法計量的",
+        "example": "這場災難造成了無法計量的損失。"
+      }
+    },
+    {
       "word": "Untouchable",
       "type": "adjective",
       "letter": "U",
@@ -636,6 +3036,16 @@
       "chinese": {
         "meaning": "不可觸碰的；無法動搖的",
         "example": "多年來，這位領袖似乎無法動搖。"
+      }
+    },
+    {
+      "word": "Untouched",
+      "type": "adjective",
+      "meaning": "Not affected or changed",
+      "example": "The forest was untouched by humans.",
+      "chinese": {
+        "meaning": "未受影響的",
+        "example": "這片森林未受人類影響。"
       }
     },
     {
@@ -650,6 +3060,56 @@
       }
     },
     {
+      "word": "Untrained",
+      "type": "adjective",
+      "meaning": "Not trained",
+      "example": "He was untrained for the job.",
+      "chinese": {
+        "meaning": "未經訓練的",
+        "example": "他沒有接受過該工作的訓練。"
+      }
+    },
+    {
+      "word": "Untreated",
+      "type": "adjective",
+      "meaning": "Not given medical treatment",
+      "example": "The wound was left untreated.",
+      "chinese": {
+        "meaning": "未處理的",
+        "example": "傷口沒有處理。"
+      }
+    },
+    {
+      "word": "Untried",
+      "type": "adjective",
+      "meaning": "Not yet tried or tested",
+      "example": "The method was untried.",
+      "chinese": {
+        "meaning": "未經嘗試的",
+        "example": "這個方法還沒有試過。"
+      }
+    },
+    {
+      "word": "Untroubled",
+      "type": "adjective",
+      "meaning": "Not worried or anxious",
+      "example": "She appeared untroubled by the news.",
+      "chinese": {
+        "meaning": "無憂無慮的",
+        "example": "她似乎對這消息毫不擔心。"
+      }
+    },
+    {
+      "word": "Untrue",
+      "type": "adjective",
+      "meaning": "Not true",
+      "example": "The rumor was untrue.",
+      "chinese": {
+        "meaning": "不真實的",
+        "example": "那個謠言是假的。"
+      }
+    },
+    {
       "word": "Untrustworthy",
       "type": "adjective",
       "letter": "U",
@@ -661,6 +3121,16 @@
       }
     },
     {
+      "word": "Unused",
+      "type": "adjective",
+      "meaning": "Not used",
+      "example": "There is a lot of unused equipment.",
+      "chinese": {
+        "meaning": "未使用的",
+        "example": "有很多未使用的設備。"
+      }
+    },
+    {
       "word": "Unusual",
       "type": "adjective",
       "letter": "U",
@@ -669,6 +3139,56 @@
       "chinese": {
         "meaning": "不尋常的",
         "example": "在這個地區下雪很不尋常。"
+      }
+    },
+    {
+      "word": "Unwavering",
+      "type": "adjective",
+      "meaning": "Steady and firm",
+      "example": "She had unwavering determination.",
+      "chinese": {
+        "meaning": "堅定不移的",
+        "example": "她有著堅定不移的決心。"
+      }
+    },
+    {
+      "word": "Unwell",
+      "type": "adjective",
+      "meaning": "Not in good health",
+      "example": "He was feeling unwell.",
+      "chinese": {
+        "meaning": "不舒服的",
+        "example": "他感覺不舒服。"
+      }
+    },
+    {
+      "word": "Unwholesome",
+      "type": "adjective",
+      "meaning": "Not good for health or morals",
+      "example": "The unwholesome food caused illness.",
+      "chinese": {
+        "meaning": "不健康的",
+        "example": "不健康的食物導致了生病。"
+      }
+    },
+    {
+      "word": "Unwieldy",
+      "type": "adjective",
+      "meaning": "Difficult to handle or manage",
+      "example": "The package was large and unwieldy.",
+      "chinese": {
+        "meaning": "笨重的",
+        "example": "這個包裹又大又笨重。"
+      }
+    },
+    {
+      "word": "Unwilling",
+      "type": "adjective",
+      "meaning": "Not ready or willing to do something",
+      "example": "She was unwilling to help.",
+      "chinese": {
+        "meaning": "不願意的",
+        "example": "她不願意幫忙。"
       }
     },
     {

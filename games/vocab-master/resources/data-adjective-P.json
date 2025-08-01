@@ -1,6 +1,96 @@
 {
   "words": [
     {
+      "word": "Pacific",
+      "type": "adjective",
+      "meaning": "Peaceful; calm",
+      "example": "The region is known for its pacific nature.",
+      "chinese": {
+        "meaning": "和平的，平靜的",
+        "example": "這個地區以其和平的特性著稱。"
+      }
+    },
+    {
+      "word": "Pacifist",
+      "type": "noun/adjective",
+      "meaning": "A person who opposes war or violence; peaceful",
+      "example": "He is a committed pacifist.",
+      "chinese": {
+        "meaning": "和平主義者；和平的",
+        "example": "他是一位堅定的和平主義者。"
+      }
+    },
+    {
+      "word": "Packed",
+      "type": "adjective",
+      "meaning": "Filled tightly or crowded",
+      "example": "The train was packed during rush hour.",
+      "chinese": {
+        "meaning": "擁擠的，填滿的",
+        "example": "高峰時段火車擁擠不堪。"
+      }
+    },
+    {
+      "word": "Padded",
+      "type": "adjective",
+      "meaning": "Filled with soft material for cushioning",
+      "example": "She wore a padded jacket to keep warm.",
+      "chinese": {
+        "meaning": "有襯墊的",
+        "example": "她穿著有襯墊的外套來保暖。"
+      }
+    },
+    {
+      "word": "Pagan",
+      "type": "adjective/noun",
+      "meaning": "Relating to religions other than the main world religions; non-Christian or non-Muslim faith",
+      "example": "The festival has pagan origins.",
+      "chinese": {
+        "meaning": "異教徒的，異教徒",
+        "example": "這個節日有異教的起源。"
+      }
+    },
+    {
+      "word": "Painful",
+      "type": "adjective",
+      "meaning": "Causing physical or emotional pain",
+      "example": "He suffered a painful injury.",
+      "chinese": {
+        "meaning": "痛苦的",
+        "example": "他受了重傷，很痛苦。"
+      }
+    },
+    {
+      "word": "Painstaking",
+      "type": "adjective",
+      "meaning": "Showing great care and effort",
+      "example": "She did a painstaking job on the project.",
+      "chinese": {
+        "meaning": "細心的，辛苦的",
+        "example": "她在項目上做得非常細心。"
+      }
+    },
+    {
+      "word": "Painted",
+      "type": "adjective",
+      "meaning": "Covered with paint",
+      "example": "The painted walls looked fresh.",
+      "chinese": {
+        "meaning": "被漆過的",
+        "example": "漆過的牆壁看起來很新鮮。"
+      }
+    },
+    {
+      "word": "Palatable",
+      "type": "adjective",
+      "meaning": "Pleasant to taste or acceptable",
+      "example": "The meal was very palatable.",
+      "chinese": {
+        "meaning": "美味的，合意的",
+        "example": "這頓飯非常美味。"
+      }
+    },
+    {
       "word": "Pale",
       "type": "adjective",
       "letter": "P",
@@ -9,6 +99,16 @@
       "chinese": {
         "meaning": "顏色蒼白或淡薄的",
         "example": "聽到消息時，她的臉色變得蒼白。"
+      }
+    },
+    {
+      "word": "Pallid",
+      "type": "adjective",
+      "meaning": "Pale, typically because of poor health",
+      "example": "He looked pallid and weak.",
+      "chinese": {
+        "meaning": "蒼白的",
+        "example": "他看起來蒼白且虛弱。"
       }
     },
     {
@@ -23,6 +123,66 @@
       }
     },
     {
+      "word": "Paltry",
+      "type": "adjective",
+      "meaning": "Small or meager; insignificant",
+      "example": "She was paid a paltry sum.",
+      "chinese": {
+        "meaning": "微不足道的，少量的",
+        "example": "她拿到的報酬微不足道。"
+      }
+    },
+    {
+      "word": "Pancreatic",
+      "type": "adjective",
+      "meaning": "Related to the pancreas",
+      "example": "He has a pancreatic condition.",
+      "chinese": {
+        "meaning": "胰臟的",
+        "example": "他有胰臟方面的疾病。"
+      }
+    },
+    {
+      "word": "Pandemic",
+      "type": "adjective",
+      "meaning": "Widespread over a large area or globally",
+      "example": "The COVID-19 pandemic affected the world.",
+      "chinese": {
+        "meaning": "大流行的",
+        "example": "新冠疫情影響了全世界。"
+      }
+    },
+    {
+      "word": "Panoramic",
+      "type": "adjective",
+      "meaning": "With a wide view surrounding the observer",
+      "example": "The hotel offers a panoramic view of the city.",
+      "chinese": {
+        "meaning": "全景的",
+        "example": "飯店提供城市的全景視野。"
+      }
+    },
+    {
+      "word": "Paradoxical",
+      "type": "adjective",
+      "meaning": "Seemingly contradictory but possibly true",
+      "example": "It is paradoxical that the less you try, the better it goes.",
+      "chinese": {
+        "meaning": "矛盾的，反常的",
+        "example": "越不努力，事情似乎越順利，真是矛盾。"
+      }
+    },
+    {
+      "word": "Paralegal",
+      "type": "noun/adjective",
+      "meaning": "A person trained to assist lawyers; related to legal assistance",
+      "example": "She works as a paralegal in a law firm.",
+      "chinese": {
+        "meaning": "律師助理",
+        "example": "她在一家律師事務所當律師助理。"
+      }
+    },
+    {
       "word": "Parallel",
       "type": "adjective",
       "letter": "P",
@@ -31,6 +191,26 @@
       "chinese": {
         "meaning": "平行的，等距離延伸的",
         "example": "這兩條路是平行的。"
+      }
+    },
+    {
+      "word": "Paralyzed",
+      "type": "adjective",
+      "meaning": "Unable to move or act",
+      "example": "He was paralyzed after the accident.",
+      "chinese": {
+        "meaning": "癱瘓的，麻痺的",
+        "example": "他在事故後癱瘓了。"
+      }
+    },
+    {
+      "word": "Paranoid",
+      "type": "adjective",
+      "meaning": "Excessively suspicious or mistrustful",
+      "example": "She became paranoid about her colleagues.",
+      "chinese": {
+        "meaning": "偏執的，多疑的",
+        "example": "她對同事變得很多疑。"
       }
     },
     {
@@ -45,6 +225,36 @@
       }
     },
     {
+      "word": "Parental",
+      "type": "adjective",
+      "meaning": "Relating to a parent or parents",
+      "example": "Parental guidance is advised for this movie.",
+      "chinese": {
+        "meaning": "父母的",
+        "example": "這部電影建議父母指導。"
+      }
+    },
+    {
+      "word": "Parenthetical",
+      "type": "adjective",
+      "meaning": "Related to or contained within parentheses",
+      "example": "The explanation was given in a parenthetical remark.",
+      "chinese": {
+        "meaning": "括號的，附帶說明的",
+        "example": "解釋是以括號內的話說明的。"
+      }
+    },
+    {
+      "word": "Parlous",
+      "type": "adjective",
+      "meaning": "Full of danger or uncertainty",
+      "example": "They faced parlous times during the war.",
+      "chinese": {
+        "meaning": "危險的，不穩定的",
+        "example": "戰爭期間他們面臨危險的時刻。"
+      }
+    },
+    {
       "word": "Partial",
       "type": "adjective",
       "letter": "P",
@@ -53,6 +263,36 @@
       "chinese": {
         "meaning": "部分的，不完整的",
         "example": "報告只是事件的部分摘要。"
+      }
+    },
+    {
+      "word": "Participatory",
+      "type": "adjective",
+      "meaning": "Involving or allowing participation",
+      "example": "The event was highly participatory.",
+      "chinese": {
+        "meaning": "參與的",
+        "example": "這個活動參與度很高。"
+      }
+    },
+    {
+      "word": "Particulate",
+      "type": "adjective",
+      "meaning": "Consisting of small separate particles",
+      "example": "Particulate pollution affects air quality.",
+      "chinese": {
+        "meaning": "微粒的",
+        "example": "微粒污染影響空氣質量。"
+      }
+    },
+    {
+      "word": "Partisan",
+      "type": "adjective/noun",
+      "meaning": "Strongly supporting a party or cause; a supporter",
+      "example": "He is a partisan of the new policy.",
+      "chinese": {
+        "meaning": "黨派的，支持者",
+        "example": "他是新政策的支持者。"
       }
     },
     {
@@ -67,6 +307,16 @@
       }
     },
     {
+      "word": "Passive",
+      "type": "adjective",
+      "meaning": "Accepting or allowing what happens without active response",
+      "example": "She took a passive role in the discussion.",
+      "chinese": {
+        "meaning": "被動的",
+        "example": "她在討論中採取被動的角色。"
+      }
+    },
+    {
       "word": "Pastel",
       "type": "adjective",
       "letter": "P",
@@ -75,6 +325,36 @@
       "chinese": {
         "meaning": "柔和、淡雅的顏色",
         "example": "房間以淡藍和粉紅色調裝飾。"
+      }
+    },
+    {
+      "word": "Pastoral",
+      "type": "adjective",
+      "meaning": "Relating to the countryside or rural life",
+      "example": "They enjoyed the pastoral scenery.",
+      "chinese": {
+        "meaning": "田園的，牧歌的",
+        "example": "他們喜歡田園風光。"
+      }
+    },
+    {
+      "word": "Patchy",
+      "type": "adjective",
+      "meaning": "Inconsistent or uneven in quality or coverage",
+      "example": "The grass grew patchy in some areas.",
+      "chinese": {
+        "meaning": "斑駁的，不均勻的",
+        "example": "某些地方的草長得斑駁不均。"
+      }
+    },
+    {
+      "word": "Pathetic",
+      "type": "adjective",
+      "meaning": "Arousing pity, especially through vulnerability or sadness",
+      "example": "His attempt was pathetic.",
+      "chinese": {
+        "meaning": "可憐的，令人同情的",
+        "example": "他的嘗試令人感到可憐。"
       }
     },
     {
@@ -89,6 +369,56 @@
       }
     },
     {
+      "word": "Patriotic",
+      "type": "adjective",
+      "meaning": "Showing love for one's country",
+      "example": "She is very patriotic.",
+      "chinese": {
+        "meaning": "愛國的",
+        "example": "她非常愛國。"
+      }
+    },
+    {
+      "word": "Patrolled",
+      "type": "adjective",
+      "meaning": "Monitored by patrol",
+      "example": "The area was patrolled by guards.",
+      "chinese": {
+        "meaning": "被巡邏的",
+        "example": "該區由警衛巡邏。"
+      }
+    },
+    {
+      "word": "Patronizing",
+      "type": "adjective",
+      "meaning": "Treating others with apparent kindness but feeling superior",
+      "example": "His tone was patronizing.",
+      "chinese": {
+        "meaning": "屈尊的，擺出高人一等的態度",
+        "example": "他的語氣很屈尊。"
+      }
+    },
+    {
+      "word": "Patterned",
+      "type": "adjective",
+      "meaning": "Having a repeated decorative design",
+      "example": "She wore a patterned dress.",
+      "chinese": {
+        "meaning": "有圖案的",
+        "example": "她穿著一件有圖案的裙子。"
+      }
+    },
+    {
+      "word": "Payable",
+      "type": "adjective",
+      "meaning": "Due to be paid",
+      "example": "The invoice is payable within 30 days.",
+      "chinese": {
+        "meaning": "應支付的",
+        "example": "發票須在30天內付款。"
+      }
+    },
+    {
       "word": "Peaceful",
       "type": "adjective",
       "letter": "P",
@@ -97,6 +427,96 @@
       "chinese": {
         "meaning": "和平的，寧靜的",
         "example": "他們在湖邊度過了一個寧靜的下午。"
+      }
+    },
+    {
+      "word": "Peaked",
+      "type": "adjective",
+      "meaning": "Having a pointed top; also, looking ill or tired",
+      "example": "He looked peaked after the illness.",
+      "chinese": {
+        "meaning": "尖頂的；憔悴的",
+        "example": "他病後看起來很憔悴。"
+      }
+    },
+    {
+      "word": "Pearly",
+      "type": "adjective",
+      "meaning": "Resembling pearls in color or luster",
+      "example": "She had a pearly smile.",
+      "chinese": {
+        "meaning": "珍珠般的",
+        "example": "她露出珍珠般的微笑。"
+      }
+    },
+    {
+      "word": "Peculiar",
+      "type": "adjective",
+      "meaning": "Strange or unusual",
+      "example": "There was a peculiar smell in the room.",
+      "chinese": {
+        "meaning": "奇特的，獨特的",
+        "example": "房間裡有一股奇怪的氣味。"
+      }
+    },
+    {
+      "word": "Pedagogical",
+      "type": "adjective",
+      "meaning": "Related to teaching",
+      "example": "She studied pedagogical methods.",
+      "chinese": {
+        "meaning": "教學的",
+        "example": "她研究教學方法。"
+      }
+    },
+    {
+      "word": "Pedestrian",
+      "type": "adjective",
+      "meaning": "Lacking inspiration; related to walking",
+      "example": "The lecture was pedestrian and dull.",
+      "chinese": {
+        "meaning": "平凡的；步行者的",
+        "example": "演講平淡無奇，乏味。"
+      }
+    },
+    {
+      "word": "Peerless",
+      "type": "adjective",
+      "meaning": "Without equal; unmatched",
+      "example": "Her talent is peerless.",
+      "chinese": {
+        "meaning": "無與倫比的",
+        "example": "她的才華無與倫比。"
+      }
+    },
+    {
+      "word": "Pelvic",
+      "type": "adjective",
+      "meaning": "Relating to the pelvis",
+      "example": "She has pelvic pain.",
+      "chinese": {
+        "meaning": "骨盆的",
+        "example": "她有骨盆疼痛。"
+      }
+    },
+    {
+      "word": "Penal",
+      "type": "adjective",
+      "meaning": "Relating to punishment or penalties",
+      "example": "Penal laws were strict.",
+      "chinese": {
+        "meaning": "刑罰的",
+        "example": "刑法很嚴格。"
+      }
+    },
+    {
+      "word": "Pending",
+      "type": "adjective",
+      "meaning": "Awaiting decision or settlement",
+      "example": "The case is still pending.",
+      "chinese": {
+        "meaning": "待定的，未決的",
+        "example": "案件仍在審理中。"
       }
     },
     {
@@ -111,6 +531,46 @@
       }
     },
     {
+      "word": "Penile",
+      "type": "adjective",
+      "meaning": "Relating to the penis",
+      "example": "He was treated for a penile infection.",
+      "chinese": {
+        "meaning": "陰莖的",
+        "example": "他接受了陰莖感染的治療。"
+      }
+    },
+    {
+      "word": "Pensive",
+      "type": "adjective",
+      "meaning": "Engaged in deep or serious thought",
+      "example": "She looked pensive and silent.",
+      "chinese": {
+        "meaning": "沉思的，憂思的",
+        "example": "她看起來沉思而安靜。"
+      }
+    },
+    {
+      "word": "Perceived",
+      "type": "adjective",
+      "meaning": "Regarded or understood in a particular way",
+      "example": "The perceived risk was high.",
+      "chinese": {
+        "meaning": "被認為的，感知到的",
+        "example": "感知的風險很高。"
+      }
+    },
+    {
+      "word": "Perceptible",
+      "type": "adjective",
+      "meaning": "Able to be seen or noticed",
+      "example": "There was a perceptible change in temperature.",
+      "chinese": {
+        "meaning": "可察覺的",
+        "example": "溫度有明顯的變化。"
+      }
+    },
+    {
       "word": "Perceptive",
       "type": "adjective",
       "letter": "P",
@@ -119,6 +579,16 @@
       "chinese": {
         "meaning": "有洞察力的，敏銳的",
         "example": "他對他人的感受非常敏銳。"
+      }
+    },
+    {
+      "word": "Perennial",
+      "type": "adjective",
+      "meaning": "Lasting or existing for a long or apparently infinite time",
+      "example": "Perennial plants bloom every year.",
+      "chinese": {
+        "meaning": "多年生的，持久的",
+        "example": "多年生植物每年開花。"
       }
     },
     {
@@ -133,6 +603,16 @@
       }
     },
     {
+      "word": "Perfumed",
+      "type": "adjective",
+      "meaning": "Having a pleasant smell from perfume",
+      "example": "She wore a perfumed dress.",
+      "chinese": {
+        "meaning": "有香味的",
+        "example": "她穿著帶香味的裙子。"
+      }
+    },
+    {
       "word": "Perilous",
       "type": "adjective",
       "letter": "P",
@@ -141,6 +621,26 @@
       "chinese": {
         "meaning": "危險的，充滿風險的",
         "example": "他們開始了危險的山區旅程。"
+      }
+    },
+    {
+      "word": "Periodic",
+      "type": "adjective",
+      "meaning": "Occurring at intervals",
+      "example": "Periodic inspections are required.",
+      "chinese": {
+        "meaning": "定期的，週期性的",
+        "example": "需要定期檢查。"
+      }
+    },
+    {
+      "word": "Perishable",
+      "type": "adjective",
+      "meaning": "Likely to decay or go bad quickly",
+      "example": "Perishable goods should be refrigerated.",
+      "chinese": {
+        "meaning": "易腐壞的",
+        "example": "易腐物品應冷藏。"
       }
     },
     {
@@ -155,6 +655,66 @@
       }
     },
     {
+      "word": "Permanent",
+      "type": "adjective",
+      "meaning": "Lasting or intended to last indefinitely",
+      "example": "She got a permanent job.",
+      "chinese": {
+        "meaning": "永久的",
+        "example": "她找到了一份永久工作。"
+      }
+    },
+    {
+      "word": "Permeable",
+      "type": "adjective",
+      "meaning": "Allowing liquids or gases to pass through",
+      "example": "The membrane is permeable to water.",
+      "chinese": {
+        "meaning": "可滲透的",
+        "example": "這種膜對水是可滲透的。"
+      }
+    },
+    {
+      "word": "Pernicious",
+      "type": "adjective",
+      "meaning": "Having a harmful effect, especially in a gradual or subtle way",
+      "example": "The pernicious weed spread quickly.",
+      "chinese": {
+        "meaning": "有害的，惡性的",
+        "example": "有害的雜草迅速蔓延。"
+      }
+    },
+    {
+      "word": "Perpetual",
+      "type": "adjective",
+      "meaning": "Never ending or changing",
+      "example": "They lived in perpetual fear.",
+      "chinese": {
+        "meaning": "永久的，永恆的",
+        "example": "他們生活在永無止境的恐懼中。"
+      }
+    },
+    {
+      "word": "Perplexed",
+      "type": "adjective",
+      "meaning": "Confused or puzzled",
+      "example": "He was perplexed by the question.",
+      "chinese": {
+        "meaning": "困惑的",
+        "example": "他被問題弄得困惑不解。"
+      }
+    },
+    {
+      "word": "Perplexing",
+      "type": "adjective",
+      "meaning": "Causing confusion or puzzlement",
+      "example": "The instructions were perplexing.",
+      "chinese": {
+        "meaning": "令人困惑的",
+        "example": "說明讓人感到困惑。"
+      }
+    },
+    {
       "word": "Persistent",
       "type": "adjective",
       "letter": "P",
@@ -163,6 +723,16 @@
       "chinese": {
         "meaning": "堅持不懈的，持續的",
         "example": "他的堅持努力終於有了回報。"
+      }
+    },
+    {
+      "word": "Personable",
+      "type": "adjective",
+      "meaning": "Having a pleasant appearance and manner",
+      "example": "She is a personable host.",
+      "chinese": {
+        "meaning": "有魅力的，討人喜歡的",
+        "example": "她是一位討人喜歡的主人。"
       }
     },
     {
@@ -177,6 +747,76 @@
       }
     },
     {
+      "word": "Personalized",
+      "type": "adjective",
+      "meaning": "Designed or tailored for a particular person",
+      "example": "He received a personalized gift.",
+      "chinese": {
+        "meaning": "個性化的",
+        "example": "他收到了個性化的禮物。"
+      }
+    },
+    {
+      "word": "Persuasive",
+      "type": "adjective",
+      "meaning": "Good at convincing someone to do or believe something",
+      "example": "She gave a persuasive argument.",
+      "chinese": {
+        "meaning": "有說服力的",
+        "example": "她提出了有說服力的論點。"
+      }
+    },
+    {
+      "word": "Pertinent",
+      "type": "adjective",
+      "meaning": "Relevant or applicable to a particular matter",
+      "example": "She asked some pertinent questions.",
+      "chinese": {
+        "meaning": "相關的，切題的",
+        "example": "她提出了一些切題的問題。"
+      }
+    },
+    {
+      "word": "Perturbed",
+      "type": "adjective",
+      "meaning": "Anxious or unsettled; upset",
+      "example": "He looked perturbed by the news.",
+      "chinese": {
+        "meaning": "不安的，擾亂的",
+        "example": "他看起來因消息而不安。"
+      }
+    },
+    {
+      "word": "Perverse",
+      "type": "adjective",
+      "meaning": "Deliberately behaving in a way that is unreasonable or unacceptable",
+      "example": "He took a perverse pleasure in upsetting others.",
+      "chinese": {
+        "meaning": "乖戾的，故意作對的",
+        "example": "他故意讓別人不高興，從中得到樂趣。"
+      }
+    },
+    {
+      "word": "Pessimistic",
+      "type": "adjective",
+      "meaning": "Tending to see the worst aspect of things",
+      "example": "She is pessimistic about the economy.",
+      "chinese": {
+        "meaning": "悲觀的",
+        "example": "她對經濟持悲觀態度。"
+      }
+    },
+    {
+      "word": "Petite",
+      "type": "adjective",
+      "meaning": "Small and slender",
+      "example": "She has a petite figure.",
+      "chinese": {
+        "meaning": "嬌小的",
+        "example": "她身材嬌小。"
+      }
+    },
+    {
       "word": "Petty",
       "type": "adjective",
       "letter": "P",
@@ -185,6 +825,16 @@
       "chinese": {
         "meaning": "瑣碎的，無關緊要的",
         "example": "他們為瑣碎的細節爭吵。"
+      }
+    },
+    {
+      "word": "Phallic",
+      "type": "adjective",
+      "meaning": "Relating to or resembling a phallus or penis",
+      "example": "The sculpture had a phallic shape.",
+      "chinese": {
+        "meaning": "陰莖形的",
+        "example": "雕塑有陰莖形狀。"
       }
     },
     {
@@ -199,6 +849,66 @@
       }
     },
     {
+      "word": "Pharmacological",
+      "type": "adjective",
+      "meaning": "Relating to the study of drugs and their effects",
+      "example": "The pharmacological properties were studied.",
+      "chinese": {
+        "meaning": "藥理學的",
+        "example": "研究了藥理特性。"
+      }
+    },
+    {
+      "word": "Phenomenal",
+      "type": "adjective",
+      "meaning": "Very remarkable or extraordinary",
+      "example": "She has a phenomenal talent.",
+      "chinese": {
+        "meaning": "非凡的，驚人的",
+        "example": "她有非凡的才華。"
+      }
+    },
+    {
+      "word": "Philanthropic",
+      "type": "adjective",
+      "meaning": "Seeking to promote the welfare of others",
+      "example": "He is known for his philanthropic work.",
+      "chinese": {
+        "meaning": "慈善的",
+        "example": "他以慈善工作聞名。"
+      }
+    },
+    {
+      "word": "Philistine",
+      "type": "noun/adjective",
+      "meaning": "A person who is indifferent or hostile to culture or arts",
+      "example": "He was considered a philistine by the artists.",
+      "chinese": {
+        "meaning": "文化素養低的人；俗氣的",
+        "example": "藝術家們認為他是個俗氣的人。"
+      }
+    },
+    {
+      "word": "Philosophical",
+      "type": "adjective",
+      "meaning": "Relating to the study of fundamental nature of knowledge and existence",
+      "example": "She gave a philosophical explanation.",
+      "chinese": {
+        "meaning": "哲學的",
+        "example": "她給出了哲學性的解釋。"
+      }
+    },
+    {
+      "word": "Phlegmatic",
+      "type": "adjective",
+      "meaning": "Having an unemotional and calm disposition",
+      "example": "He remained phlegmatic during the crisis.",
+      "chinese": {
+        "meaning": "冷靜的，沉著的",
+        "example": "危機中他保持冷靜。"
+      }
+    },
+    {
       "word": "Phobic",
       "type": "adjective",
       "letter": "P",
@@ -207,6 +917,36 @@
       "chinese": {
         "meaning": "恐懼症的，害怕的",
         "example": "她害怕蜘蛛。"
+      }
+    },
+    {
+      "word": "Phonetic",
+      "type": "adjective",
+      "meaning": "Relating to speech sounds",
+      "example": "The phonetic alphabet helps in pronunciation.",
+      "chinese": {
+        "meaning": "語音的",
+        "example": "語音字母幫助發音。"
+      }
+    },
+    {
+      "word": "Photographic",
+      "type": "adjective",
+      "meaning": "Relating to photography",
+      "example": "He has a photographic memory.",
+      "chinese": {
+        "meaning": "攝影的",
+        "example": "他有過目不忘的記憶。"
+      }
+    },
+    {
+      "word": "Photosynthetic",
+      "type": "adjective",
+      "meaning": "Relating to photosynthesis",
+      "example": "Plants are photosynthetic organisms.",
+      "chinese": {
+        "meaning": "光合作用的",
+        "example": "植物是進行光合作用的生物。"
       }
     },
     {
@@ -221,6 +961,36 @@
       }
     },
     {
+      "word": "Physiological",
+      "type": "adjective",
+      "meaning": "Relating to the functions of living organisms",
+      "example": "They studied physiological responses.",
+      "chinese": {
+        "meaning": "生理的",
+        "example": "他們研究了生理反應。"
+      }
+    },
+    {
+      "word": "Pictorial",
+      "type": "adjective",
+      "meaning": "Relating to or consisting of pictures",
+      "example": "The book is full of pictorial examples.",
+      "chinese": {
+        "meaning": "圖畫的",
+        "example": "這本書充滿了圖例。"
+      }
+    },
+    {
+      "word": "Picturesque",
+      "type": "adjective",
+      "meaning": "Visually attractive, especially in a quaint or charming way",
+      "example": "The village was picturesque.",
+      "chinese": {
+        "meaning": "如畫的",
+        "example": "這個村莊如畫一般美麗。"
+      }
+    },
+    {
       "word": "Piercing",
       "type": "adjective",
       "letter": "P",
@@ -229,6 +999,26 @@
       "chinese": {
         "meaning": "尖銳的，刺耳的",
         "example": "她發出刺耳的尖叫。"
+      }
+    },
+    {
+      "word": "Piggish",
+      "type": "adjective",
+      "meaning": "Behaving like a pig; greedy or dirty",
+      "example": "He was acting piggish at the buffet.",
+      "chinese": {
+        "meaning": "像豬一樣的，貪婪的",
+        "example": "他在自助餐上行為貪婪。"
+      }
+    },
+    {
+      "word": "Pigmented",
+      "type": "adjective",
+      "meaning": "Having color or pigment",
+      "example": "The skin was heavily pigmented.",
+      "chinese": {
+        "meaning": "有色素的",
+        "example": "皮膚色素沉著較重。"
       }
     },
     {
@@ -243,6 +1033,36 @@
       }
     },
     {
+      "word": "Pivotal",
+      "type": "adjective",
+      "meaning": "Of crucial importance in relation to the development or success of something",
+      "example": "The meeting was a pivotal moment in the negotiations.",
+      "chinese": {
+        "meaning": "關鍵的，重要的",
+        "example": "這次會議是談判中的關鍵時刻。"
+      }
+    },
+    {
+      "word": "Placid",
+      "type": "adjective",
+      "meaning": "Calm and peaceful",
+      "example": "The lake was placid and still.",
+      "chinese": {
+        "meaning": "平靜的，安靜的",
+        "example": "湖面平靜無波。"
+      }
+    },
+    {
+      "word": "Plagued",
+      "type": "adjective",
+      "meaning": "Troubled or distressed by something",
+      "example": "The town was plagued by crime.",
+      "chinese": {
+        "meaning": "受困擾的",
+        "example": "這個鎮子飽受犯罪困擾。"
+      }
+    },
+    {
       "word": "Plain",
       "type": "adjective",
       "letter": "P",
@@ -251,6 +1071,56 @@
       "chinese": {
         "meaning": "樸素的，簡單的",
         "example": "她穿著一件沒有裝飾的樸素洋裝。"
+      }
+    },
+    {
+      "word": "Planar",
+      "type": "adjective",
+      "meaning": "Relating to or shaped like a plane",
+      "example": "The molecule has a planar structure.",
+      "chinese": {
+        "meaning": "平面的",
+        "example": "該分子具有平面結構。"
+      }
+    },
+    {
+      "word": "Planetary",
+      "type": "adjective",
+      "meaning": "Relating to planets",
+      "example": "The planetary system includes several moons.",
+      "chinese": {
+        "meaning": "行星的",
+        "example": "該行星系統包括幾個衛星。"
+      }
+    },
+    {
+      "word": "Planned",
+      "type": "adjective",
+      "meaning": "Arranged or decided on in advance",
+      "example": "They have a planned vacation next month.",
+      "chinese": {
+        "meaning": "計劃好的",
+        "example": "他們下個月有一次計劃好的假期。"
+      }
+    },
+    {
+      "word": "Plastic",
+      "type": "adjective",
+      "meaning": "Able to be shaped or molded; synthetic material",
+      "example": "Plastic is widely used in packaging.",
+      "chinese": {
+        "meaning": "塑膠的，可塑的",
+        "example": "塑膠廣泛用於包裝。"
+      }
+    },
+    {
+      "word": "Plausible",
+      "type": "adjective",
+      "meaning": "Seeming reasonable or probable",
+      "example": "She gave a plausible explanation.",
+      "chinese": {
+        "meaning": "似乎合理的",
+        "example": "她給出了似乎合理的解釋。"
       }
     },
     {
@@ -276,6 +1146,36 @@
       }
     },
     {
+      "word": "Pleased",
+      "type": "adjective",
+      "meaning": "Feeling happy or satisfied",
+      "example": "He was pleased with the results.",
+      "chinese": {
+        "meaning": "高興的，滿意的",
+        "example": "他對結果感到滿意。"
+      }
+    },
+    {
+      "word": "Pleasing",
+      "type": "adjective",
+      "meaning": "Giving pleasure or satisfaction",
+      "example": "The decor was very pleasing to the eye.",
+      "chinese": {
+        "meaning": "令人愉快的",
+        "example": "裝飾非常賞心悅目。"
+      }
+    },
+    {
+      "word": "Pleasurable",
+      "type": "adjective",
+      "meaning": "Giving pleasure or enjoyment",
+      "example": "They had a pleasurable evening together.",
+      "chinese": {
+        "meaning": "愉快的",
+        "example": "他們度過了一個愉快的夜晚。"
+      }
+    },
+    {
       "word": "Plentiful",
       "type": "adjective",
       "letter": "P",
@@ -287,6 +1187,96 @@
       }
     },
     {
+      "word": "Pliable",
+      "type": "adjective",
+      "meaning": "Easily bent or shaped; adaptable",
+      "example": "The material is pliable and easy to work with.",
+      "chinese": {
+        "meaning": "柔韌的，易彎曲的",
+        "example": "這種材料柔韌且易於加工。"
+      }
+    },
+    {
+      "word": "Plodding",
+      "type": "adjective",
+      "meaning": "Slow-moving and unexciting",
+      "example": "The movie had a plodding pace.",
+      "chinese": {
+        "meaning": "緩慢沉重的",
+        "example": "這部電影節奏緩慢。"
+      }
+    },
+    {
+      "word": "Plugged",
+      "type": "adjective",
+      "meaning": "Filled or blocked",
+      "example": "The drain was plugged.",
+      "chinese": {
+        "meaning": "堵塞的",
+        "example": "排水口堵塞了。"
+      }
+    },
+    {
+      "word": "Plump",
+      "type": "adjective",
+      "meaning": "Having a full rounded shape",
+      "example": "The baby has plump cheeks.",
+      "chinese": {
+        "meaning": "豐滿的",
+        "example": "嬰兒有著豐滿的臉頰。"
+      }
+    },
+    {
+      "word": "Plural",
+      "type": "adjective",
+      "meaning": "More than one in number",
+      "example": "The plural form of 'book' is 'books'.",
+      "chinese": {
+        "meaning": "複數的",
+        "example": "'book' 的複數形式是 'books'。"
+      }
+    },
+    {
+      "word": "Poached",
+      "type": "adjective",
+      "meaning": "Cooked by simmering in water",
+      "example": "She had a poached egg for breakfast.",
+      "chinese": {
+        "meaning": "水煮的",
+        "example": "她早餐吃了一個水煮蛋。"
+      }
+    },
+    {
+      "word": "Poignant",
+      "type": "adjective",
+      "meaning": "Evoking a keen sense of sadness or regret",
+      "example": "The movie had a poignant ending.",
+      "chinese": {
+        "meaning": "令人心酸的",
+        "example": "電影有一個令人心酸的結局。"
+      }
+    },
+    {
+      "word": "Pointed",
+      "type": "adjective",
+      "meaning": "Having a sharp tip or expressing something clearly and sharply",
+      "example": "She made a pointed remark.",
+      "chinese": {
+        "meaning": "尖的，尖銳的",
+        "example": "她說了一句尖銳的話。"
+      }
+    },
+    {
+      "word": "Pointless",
+      "type": "adjective",
+      "meaning": "Having no purpose or use",
+      "example": "It was a pointless argument.",
+      "chinese": {
+        "meaning": "無意義的",
+        "example": "這是一場無意義的爭論。"
+      }
+    },
+    {
       "word": "Poised",
       "type": "adjective",
       "letter": "P",
@@ -295,6 +1285,36 @@
       "chinese": {
         "meaning": "沉著自信的",
         "example": "她在面試中沉著自信。"
+      }
+    },
+    {
+      "word": "Poisonous",
+      "type": "adjective",
+      "meaning": "Capable of causing death or illness if ingested or absorbed",
+      "example": "Some mushrooms are poisonous.",
+      "chinese": {
+        "meaning": "有毒的",
+        "example": "有些蘑菇是有毒的。"
+      }
+    },
+    {
+      "word": "Polar",
+      "type": "adjective",
+      "meaning": "Relating to the North or South Pole; opposite in character",
+      "example": "Polar bears live in the Arctic.",
+      "chinese": {
+        "meaning": "極地的，完全相反的",
+        "example": "北極熊生活在北極。"
+      }
+    },
+    {
+      "word": "Polemical",
+      "type": "adjective",
+      "meaning": "Relating to controversial argument",
+      "example": "He wrote a polemical article.",
+      "chinese": {
+        "meaning": "爭論的，辯論的",
+        "example": "他寫了一篇爭議文章。"
       }
     },
     {
@@ -320,6 +1340,66 @@
       }
     },
     {
+      "word": "Political",
+      "type": "adjective",
+      "meaning": "Relating to government or public affairs",
+      "example": "They discussed political issues.",
+      "chinese": {
+        "meaning": "政治的",
+        "example": "他們討論了政治問題。"
+      }
+    },
+    {
+      "word": "Polluted",
+      "type": "adjective",
+      "meaning": "Contaminated with harmful substances",
+      "example": "The river is heavily polluted.",
+      "chinese": {
+        "meaning": "被污染的",
+        "example": "這條河被嚴重污染。"
+      }
+    },
+    {
+      "word": "Polyglot",
+      "type": "adjective",
+      "meaning": "Knowing or using several languages",
+      "example": "She is a polyglot who speaks five languages.",
+      "chinese": {
+        "meaning": "通曉多種語言的",
+        "example": "她是一位通曉五種語言的多語言者。"
+      }
+    },
+    {
+      "word": "Polymorphic",
+      "type": "adjective",
+      "meaning": "Having multiple forms",
+      "example": "The virus is polymorphic.",
+      "chinese": {
+        "meaning": "多形態的",
+        "example": "這種病毒有多種形態。"
+      }
+    },
+    {
+      "word": "Polyphonic",
+      "type": "adjective",
+      "meaning": "Producing many sounds simultaneously",
+      "example": "The choir performed a polyphonic piece.",
+      "chinese": {
+        "meaning": "多聲部的",
+        "example": "合唱團表演了一首多聲部作品。"
+      }
+    },
+    {
+      "word": "Poor",
+      "type": "adjective",
+      "meaning": "Lacking sufficient money or resources",
+      "example": "Many people live in poor conditions.",
+      "chinese": {
+        "meaning": "貧窮的",
+        "example": "許多人生活在貧困條件下。"
+      }
+    },
+    {
       "word": "Popular",
       "type": "adjective",
       "letter": "P",
@@ -328,6 +1408,56 @@
       "chinese": {
         "meaning": "受歡迎的，流行的",
         "example": "這位歌手在青少年中非常受歡迎。"
+      }
+    },
+    {
+      "word": "Populated",
+      "type": "adjective",
+      "meaning": "Inhabited by people or animals",
+      "example": "The area is densely populated.",
+      "chinese": {
+        "meaning": "有人居住的",
+        "example": "該地區人口稠密。"
+      }
+    },
+    {
+      "word": "Populist",
+      "type": "adjective",
+      "meaning": "Supporting the rights and power of the people",
+      "example": "He led a populist movement.",
+      "chinese": {
+        "meaning": "平民主義的",
+        "example": "他領導了一個平民主義運動。"
+      }
+    },
+    {
+      "word": "Porcelain",
+      "type": "adjective",
+      "meaning": "Made of a fine, white ceramic material",
+      "example": "She collects porcelain dolls.",
+      "chinese": {
+        "meaning": "瓷器的",
+        "example": "她收藏瓷娃娃。"
+      }
+    },
+    {
+      "word": "Porous",
+      "type": "adjective",
+      "meaning": "Having tiny holes that allow liquid or air to pass through",
+      "example": "The rock is porous and absorbs water.",
+      "chinese": {
+        "meaning": "多孔的",
+        "example": "這種岩石多孔且吸水。"
+      }
+    },
+    {
+      "word": "Portable",
+      "type": "adjective",
+      "meaning": "Able to be easily carried or moved",
+      "example": "She bought a portable charger.",
+      "chinese": {
+        "meaning": "便攜的",
+        "example": "她買了一個便攜式充電器。"
       }
     },
     {
@@ -342,6 +1472,126 @@
       }
     },
     {
+      "word": "Post-apocalyptic",
+      "type": "adjective",
+      "meaning": "Relating to the time after a catastrophic event",
+      "example": "The novel is set in a post-apocalyptic world.",
+      "chinese": {
+        "meaning": "末日後的",
+        "example": "這部小說設定在末日後的世界。"
+      }
+    },
+    {
+      "word": "Post-mortem",
+      "type": "adjective",
+      "meaning": "Occurring after death; an examination of a dead body",
+      "example": "The doctors conducted a post-mortem examination.",
+      "chinese": {
+        "meaning": "死後的，驗屍的",
+        "example": "醫生進行了驗屍。"
+      }
+    },
+    {
+      "word": "Post-war",
+      "type": "adjective",
+      "meaning": "Relating to the period after a war",
+      "example": "The post-war economy recovered quickly.",
+      "chinese": {
+        "meaning": "戰後的",
+        "example": "戰後經濟迅速復甦。"
+      }
+    },
+    {
+      "word": "Postcolonial",
+      "type": "adjective",
+      "meaning": "Relating to the period after colonial rule",
+      "example": "Postcolonial literature explores cultural identity.",
+      "chinese": {
+        "meaning": "後殖民時期的",
+        "example": "後殖民文學探討文化身份。"
+      }
+    },
+    {
+      "word": "Posterior",
+      "type": "adjective",
+      "meaning": "Situated behind or at the back",
+      "example": "The posterior part of the brain controls movement.",
+      "chinese": {
+        "meaning": "後部的",
+        "example": "大腦後部控制運動。"
+      }
+    },
+    {
+      "word": "Posthumous",
+      "type": "adjective",
+      "meaning": "Occurring after someone's death",
+      "example": "He received a posthumous award.",
+      "chinese": {
+        "meaning": "死後的",
+        "example": "他獲得了死後的獎項。"
+      }
+    },
+    {
+      "word": "Postindustrial",
+      "type": "adjective",
+      "meaning": "Relating to the period after industrialization",
+      "example": "The city has a postindustrial economy.",
+      "chinese": {
+        "meaning": "後工業的",
+        "example": "這座城市擁有後工業經濟。"
+      }
+    },
+    {
+      "word": "Postmodern",
+      "type": "adjective",
+      "meaning": "Relating to a late-20th-century style and concept in the arts, architecture, and criticism",
+      "example": "The building features postmodern architecture.",
+      "chinese": {
+        "meaning": "後現代的",
+        "example": "這棟建築具有後現代建築風格。"
+      }
+    },
+    {
+      "word": "Potable",
+      "type": "adjective",
+      "meaning": "Safe to drink",
+      "example": "The water from this source is potable.",
+      "chinese": {
+        "meaning": "可飲用的",
+        "example": "這水源的水是可飲用的。"
+      }
+    },
+    {
+      "word": "Potent",
+      "type": "adjective",
+      "meaning": "Having great power, influence, or effect",
+      "example": "The medicine is very potent.",
+      "chinese": {
+        "meaning": "強效的，有力的",
+        "example": "這藥效力很強。"
+      }
+    },
+    {
+      "word": "Potential",
+      "type": "adjective",
+      "meaning": "Possible or likely in the future",
+      "example": "She has potential to be a great artist.",
+      "chinese": {
+        "meaning": "潛在的",
+        "example": "她有成為偉大藝術家的潛力。"
+      }
+    },
+    {
+      "word": "Potted",
+      "type": "adjective",
+      "meaning": "Contained in a pot, especially a plant",
+      "example": "She has several potted plants on her balcony.",
+      "chinese": {
+        "meaning": "盆栽的",
+        "example": "她陽台上有幾盆盆栽植物。"
+      }
+    },
+    {
       "word": "Powerful",
       "type": "adjective",
       "letter": "P",
@@ -353,6 +1603,86 @@
       }
     },
     {
+      "word": "Powerless",
+      "type": "adjective",
+      "meaning": "Without power or strength",
+      "example": "They felt powerless against the storm.",
+      "chinese": {
+        "meaning": "無力的，無能為力的",
+        "example": "他們對風暴感到無力。"
+      }
+    },
+    {
+      "word": "Practical",
+      "type": "adjective",
+      "meaning": "Concerned with actual use or practice",
+      "example": "This is a practical solution to the problem.",
+      "chinese": {
+        "meaning": "實際的，實用的",
+        "example": "這是解決問題的實際方案。"
+      }
+    },
+    {
+      "word": "Practiced",
+      "type": "adjective",
+      "meaning": "Skilled due to experience",
+      "example": "She is a practiced pianist.",
+      "chinese": {
+        "meaning": "熟練的",
+        "example": "她是個熟練的鋼琴家。"
+      }
+    },
+    {
+      "word": "Pragmatic",
+      "type": "adjective",
+      "meaning": "Dealing with things sensibly and realistically",
+      "example": "She took a pragmatic approach to the issue.",
+      "chinese": {
+        "meaning": "務實的，實際的",
+        "example": "她對這個問題採取務實的態度。"
+      }
+    },
+    {
+      "word": "Praiseworthy",
+      "type": "adjective",
+      "meaning": "Deserving praise",
+      "example": "Her efforts were praiseworthy.",
+      "chinese": {
+        "meaning": "值得讚揚的",
+        "example": "她的努力值得讚揚。"
+      }
+    },
+    {
+      "word": "Pre-eminent",
+      "type": "adjective",
+      "meaning": "Surpassing all others; very distinguished",
+      "example": "She is a pre-eminent scientist.",
+      "chinese": {
+        "meaning": "卓越的，傑出的",
+        "example": "她是一位卓越的科學家。"
+      }
+    },
+    {
+      "word": "Pre-existing",
+      "type": "adjective",
+      "meaning": "Existing before something else",
+      "example": "The plan accounted for pre-existing conditions.",
+      "chinese": {
+        "meaning": "先前存在的",
+        "example": "該計劃考慮了先前存在的條件。"
+      }
+    },
+    {
+      "word": "Preceding",
+      "type": "adjective",
+      "meaning": "Coming before something in time or order",
+      "example": "The preceding chapter explained the concept.",
+      "chinese": {
+        "meaning": "在前的，先前的",
+        "example": "前一章解釋了這個概念。"
+      }
+    },
+    {
       "word": "Precious",
       "type": "adjective",
       "letter": "P",
@@ -361,6 +1691,16 @@
       "chinese": {
         "meaning": "珍貴的，寶貴的",
         "example": "這條項鍊對我來說非常珍貴。"
+      }
+    },
+    {
+      "word": "Precipitous",
+      "type": "adjective",
+      "meaning": "Very steep; sudden and dramatic",
+      "example": "They climbed a precipitous mountain path.",
+      "chinese": {
+        "meaning": "陡峭的，急劇的",
+        "example": "他們爬上了一條陡峭的山路。"
       }
     },
     {
@@ -386,6 +1726,26 @@
       }
     },
     {
+      "word": "Predatory",
+      "type": "adjective",
+      "meaning": "Seeking to exploit or oppress others",
+      "example": "The company engaged in predatory practices.",
+      "chinese": {
+        "meaning": "掠奪性的",
+        "example": "該公司採取了掠奪性的做法。"
+      }
+    },
+    {
+      "word": "Predetermined",
+      "type": "adjective",
+      "meaning": "Decided or established in advance",
+      "example": "The outcome seemed predetermined.",
+      "chinese": {
+        "meaning": "預先決定的",
+        "example": "結果似乎是預先決定的。"
+      }
+    },
+    {
       "word": "Predictable",
       "type": "adjective",
       "letter": "P",
@@ -394,6 +1754,56 @@
       "chinese": {
         "meaning": "可預測的",
         "example": "電影的結局是可預見的。"
+      }
+    },
+    {
+      "word": "Predominant",
+      "type": "adjective",
+      "meaning": "Present as the strongest or main element",
+      "example": "English is the predominant language.",
+      "chinese": {
+        "meaning": "主要的，佔優勢的",
+        "example": "英語是主要語言。"
+      }
+    },
+    {
+      "word": "Prefabricated",
+      "type": "adjective",
+      "meaning": "Made in sections to be assembled later",
+      "example": "They live in a prefabricated house.",
+      "chinese": {
+        "meaning": "預製的",
+        "example": "他們住在一座預製房屋裡。"
+      }
+    },
+    {
+      "word": "Preferable",
+      "type": "adjective",
+      "meaning": "More desirable or suitable",
+      "example": "Early morning is preferable for the meeting.",
+      "chinese": {
+        "meaning": "更可取的",
+        "example": "早晨開會更可取。"
+      }
+    },
+    {
+      "word": "Preferred",
+      "type": "adjective",
+      "meaning": "Liked better than others",
+      "example": "This brand is the preferred choice.",
+      "chinese": {
+        "meaning": "首選的",
+        "example": "這個品牌是首選。"
+      }
+    },
+    {
+      "word": "Prejudiced",
+      "type": "adjective",
+      "meaning": "Having an unfair opinion not based on reason",
+      "example": "He had a prejudiced view against the group.",
+      "chinese": {
+        "meaning": "有偏見的",
+        "example": "他對該群體有偏見。"
       }
     },
     {
@@ -408,6 +1818,36 @@
       }
     },
     {
+      "word": "Premature",
+      "type": "adjective",
+      "meaning": "Occurring before the expected time",
+      "example": "The baby was born premature.",
+      "chinese": {
+        "meaning": "過早的",
+        "example": "嬰兒早產了。"
+      }
+    },
+    {
+      "word": "Premeditated",
+      "type": "adjective",
+      "meaning": "Planned beforehand, especially a crime",
+      "example": "It was a premeditated act.",
+      "chinese": {
+        "meaning": "預謀的",
+        "example": "這是一個預謀的行為。"
+      }
+    },
+    {
+      "word": "Premier",
+      "type": "adjective",
+      "meaning": "First in importance or position",
+      "example": "She is the premier expert in her field.",
+      "chinese": {
+        "meaning": "首要的",
+        "example": "她是該領域的首席專家。"
+      }
+    },
+    {
       "word": "Premium",
       "type": "adjective",
       "letter": "P",
@@ -416,6 +1856,26 @@
       "chinese": {
         "meaning": "高級的，優質的",
         "example": "這個品牌提供高級產品。"
+      }
+    },
+    {
+      "word": "Prepared",
+      "type": "adjective",
+      "meaning": "Ready for use or action",
+      "example": "They were prepared for the exam.",
+      "chinese": {
+        "meaning": "準備好的",
+        "example": "他們為考試做好了準備。"
+      }
+    },
+    {
+      "word": "Prescribed",
+      "type": "adjective",
+      "meaning": "Recommended or authorized officially",
+      "example": "The doctor gave prescribed medication.",
+      "chinese": {
+        "meaning": "規定的，處方的",
+        "example": "醫生開了處方藥。"
       }
     },
     {
@@ -430,6 +1890,66 @@
       }
     },
     {
+      "word": "Present-day",
+      "type": "adjective",
+      "meaning": "Relating to the current time",
+      "example": "Present-day technology is advanced.",
+      "chinese": {
+        "meaning": "當代的",
+        "example": "當代科技很先進。"
+      }
+    },
+    {
+      "word": "Preserved",
+      "type": "adjective",
+      "meaning": "Maintained in its original state",
+      "example": "The historic building is well preserved.",
+      "chinese": {
+        "meaning": "保存的",
+        "example": "這座歷史建築保存完好。"
+      }
+    },
+    {
+      "word": "Presiding",
+      "type": "adjective",
+      "meaning": "Being in charge or in control",
+      "example": "The judge is the presiding officer.",
+      "chinese": {
+        "meaning": "主持的，主管的",
+        "example": "法官是主持官。"
+      }
+    },
+    {
+      "word": "Pressing",
+      "type": "adjective",
+      "meaning": "Urgent or requiring immediate attention",
+      "example": "There is a pressing need for reform.",
+      "chinese": {
+        "meaning": "緊迫的",
+        "example": "改革的需求很緊迫。"
+      }
+    },
+    {
+      "word": "Prestigious",
+      "type": "adjective",
+      "meaning": "Having high status or reputation",
+      "example": "She graduated from a prestigious university.",
+      "chinese": {
+        "meaning": "有聲望的",
+        "example": "她畢業於一所著名大學。"
+      }
+    },
+    {
+      "word": "Presumed",
+      "type": "adjective",
+      "meaning": "Supposed or assumed to be true",
+      "example": "He is the presumed heir to the throne.",
+      "chinese": {
+        "meaning": "假定的",
+        "example": "他是王位的假定繼承人。"
+      }
+    },
+    {
       "word": "Presumptuous",
       "type": "adjective",
       "letter": "P",
@@ -438,6 +1958,16 @@
       "chinese": {
         "meaning": "冒昧的，自以為是的",
         "example": "他擅自假定了這個角色。"
+      }
+    },
+    {
+      "word": "Pretentious",
+      "type": "adjective",
+      "meaning": "Attempting to impress by affecting greater importance",
+      "example": "His speech was pretentious and long-winded.",
+      "chinese": {
+        "meaning": "自負的，矯揉造作的",
+        "example": "他的演講自負且冗長。"
       }
     },
     {
@@ -452,6 +1982,56 @@
       }
     },
     {
+      "word": "Prevailing",
+      "type": "adjective",
+      "meaning": "Widespread or current",
+      "example": "The prevailing opinion is in favor of change.",
+      "chinese": {
+        "meaning": "盛行的，普遍的",
+        "example": "普遍意見支持變革。"
+      }
+    },
+    {
+      "word": "Prevalent",
+      "type": "adjective",
+      "meaning": "Commonly occurring; widespread",
+      "example": "Smoking is prevalent among teenagers.",
+      "chinese": {
+        "meaning": "流行的，盛行的",
+        "example": "青少年中吸煙很普遍。"
+      }
+    },
+    {
+      "word": "Preventable",
+      "type": "adjective",
+      "meaning": "Able to be stopped from happening",
+      "example": "Many accidents are preventable.",
+      "chinese": {
+        "meaning": "可預防的",
+        "example": "許多事故是可以預防的。"
+      }
+    },
+    {
+      "word": "Previous",
+      "type": "adjective",
+      "meaning": "Existing or occurring before in time",
+      "example": "She missed the previous meeting.",
+      "chinese": {
+        "meaning": "先前的",
+        "example": "她錯過了先前的會議。"
+      }
+    },
+    {
+      "word": "Priceless",
+      "type": "adjective",
+      "meaning": "So valuable that its worth cannot be determined",
+      "example": "Her smile was priceless.",
+      "chinese": {
+        "meaning": "無價的，非常珍貴的",
+        "example": "她的微笑是無價的。"
+      }
+    },
+    {
       "word": "Prickly",
       "type": "adjective",
       "letter": "P",
@@ -460,6 +2040,36 @@
       "chinese": {
         "meaning": "多刺的，刺痛的",
         "example": "仙人掌有刺痛的刺。"
+      }
+    },
+    {
+      "word": "Prideful",
+      "type": "adjective",
+      "meaning": "Having excessive pride or self-esteem",
+      "example": "He gave a prideful speech.",
+      "chinese": {
+        "meaning": "驕傲的，自負的",
+        "example": "他發表了驕傲的演講。"
+      }
+    },
+    {
+      "word": "Prim",
+      "type": "adjective",
+      "meaning": "Formally precise or proper; prudish",
+      "example": "She looked very prim in her neat clothes.",
+      "chinese": {
+        "meaning": "拘謹的，端莊的",
+        "example": "她穿著整潔，看起來很拘謹。"
+      }
+    },
+    {
+      "word": "Primal",
+      "type": "adjective",
+      "meaning": "Original, fundamental, or primitive",
+      "example": "Humans have a primal need for connection.",
+      "chinese": {
+        "meaning": "原始的，基本的",
+        "example": "人類有原始的聯結需求。"
       }
     },
     {
@@ -485,6 +2095,76 @@
       }
     },
     {
+      "word": "Primitive",
+      "type": "adjective",
+      "meaning": "Relating to early stages or simple in structure",
+      "example": "They used primitive tools.",
+      "chinese": {
+        "meaning": "原始的，簡單的",
+        "example": "他們使用原始工具。"
+      }
+    },
+    {
+      "word": "Primordial",
+      "type": "adjective",
+      "meaning": "Existing at or from the beginning of time",
+      "example": "The primordial oceans covered the Earth.",
+      "chinese": {
+        "meaning": "原始的，最初的",
+        "example": "原始海洋覆蓋著地球。"
+      }
+    },
+    {
+      "word": "Princely",
+      "type": "adjective",
+      "meaning": "Relating to a prince; magnificent or generous",
+      "example": "He received a princely sum.",
+      "chinese": {
+        "meaning": "王子的，豪華的，慷慨的",
+        "example": "他收到了一筆巨款。"
+      }
+    },
+    {
+      "word": "Principal",
+      "type": "adjective",
+      "meaning": "Most important or chief",
+      "example": "The principal reason was cost.",
+      "chinese": {
+        "meaning": "主要的，首要的",
+        "example": "主要原因是成本。"
+      }
+    },
+    {
+      "word": "Principled",
+      "type": "adjective",
+      "meaning": "Acting according to moral principles",
+      "example": "She is a principled leader.",
+      "chinese": {
+        "meaning": "有原則的",
+        "example": "她是一位有原則的領導者。"
+      }
+    },
+    {
+      "word": "Printed",
+      "type": "adjective",
+      "meaning": "Produced in print or on paper",
+      "example": "The printed book was a bestseller.",
+      "chinese": {
+        "meaning": "印刷的",
+        "example": "這本印刷書是暢銷書。"
+      }
+    },
+    {
+      "word": "Prior",
+      "type": "adjective",
+      "meaning": "Earlier in time or order",
+      "example": "She had a prior engagement.",
+      "chinese": {
+        "meaning": "在先的，優先的",
+        "example": "她有一個先前的約會。"
+      }
+    },
+    {
       "word": "Pristine",
       "type": "adjective",
       "letter": "P",
@@ -507,6 +2187,36 @@
       }
     },
     {
+      "word": "Privileged",
+      "type": "adjective",
+      "meaning": "Having special rights or advantages",
+      "example": "He comes from a privileged background.",
+      "chinese": {
+        "meaning": "有特權的",
+        "example": "他來自有特權的背景。"
+      }
+    },
+    {
+      "word": "Pro",
+      "type": "adjective",
+      "meaning": "In favor of; expert",
+      "example": "She is pro-environment policies.",
+      "chinese": {
+        "meaning": "支持的，專業的",
+        "example": "她支持環保政策。"
+      }
+    },
+    {
+      "word": "Probabilistic",
+      "type": "adjective",
+      "meaning": "Based on or involving probability",
+      "example": "The model uses probabilistic methods.",
+      "chinese": {
+        "meaning": "概率的，基於概率的",
+        "example": "該模型使用概率方法。"
+      }
+    },
+    {
       "word": "Probable",
       "type": "adjective",
       "letter": "P",
@@ -515,6 +2225,66 @@
       "chinese": {
         "meaning": "很可能的",
         "example": "今天很可能會下雨。"
+      }
+    },
+    {
+      "word": "Probing",
+      "type": "adjective",
+      "meaning": "Searching deeply or thoroughly",
+      "example": "She gave a probing analysis.",
+      "chinese": {
+        "meaning": "探究的，深刻的",
+        "example": "她做了深入的分析。"
+      }
+    },
+    {
+      "word": "Problematical",
+      "type": "adjective",
+      "meaning": "Causing difficulty or doubt",
+      "example": "The issue is problematical and complex.",
+      "chinese": {
+        "meaning": "成問題的，難處理的",
+        "example": "這個問題棘手且複雜。"
+      }
+    },
+    {
+      "word": "Procedural",
+      "type": "adjective",
+      "meaning": "Relating to a process or procedure",
+      "example": "Procedural rules must be followed.",
+      "chinese": {
+        "meaning": "程序的，手續的",
+        "example": "必須遵守程序規則。"
+      }
+    },
+    {
+      "word": "Processed",
+      "type": "adjective",
+      "meaning": "Treated or prepared by a special method",
+      "example": "Processed foods often contain additives.",
+      "chinese": {
+        "meaning": "加工的",
+        "example": "加工食品常含有添加劑。"
+      }
+    },
+    {
+      "word": "Proclaimed",
+      "type": "adjective",
+      "meaning": "Declared publicly or officially",
+      "example": "He was proclaimed the winner.",
+      "chinese": {
+        "meaning": "宣告的，公佈的",
+        "example": "他被宣告為獲勝者。"
+      }
+    },
+    {
+      "word": "Prodigious",
+      "type": "adjective",
+      "meaning": "Remarkably great in size or degree",
+      "example": "She has a prodigious talent.",
+      "chinese": {
+        "meaning": "驚人的，巨大的",
+        "example": "她有驚人的天賦。"
       }
     },
     {
@@ -529,6 +2299,36 @@
       }
     },
     {
+      "word": "Professional",
+      "type": "adjective",
+      "meaning": "Relating to a profession; skilled",
+      "example": "He is a professional athlete.",
+      "chinese": {
+        "meaning": "專業的",
+        "example": "他是一名專業運動員。"
+      }
+    },
+    {
+      "word": "Proficient",
+      "type": "adjective",
+      "meaning": "Competent or skilled in doing something",
+      "example": "She is proficient in multiple languages.",
+      "chinese": {
+        "meaning": "熟練的",
+        "example": "她精通多種語言。"
+      }
+    },
+    {
+      "word": "Profitable",
+      "type": "adjective",
+      "meaning": "Yielding profit or financial gain",
+      "example": "The business is highly profitable.",
+      "chinese": {
+        "meaning": "有利可圖的",
+        "example": "這生意非常賺錢。"
+      }
+    },
+    {
       "word": "Profound",
       "type": "adjective",
       "letter": "P",
@@ -537,6 +2337,76 @@
       "chinese": {
         "meaning": "深刻的，深遠的",
         "example": "他的演講產生了深遠的影響。"
+      }
+    },
+    {
+      "word": "Profuse",
+      "type": "adjective",
+      "meaning": "Abundant; plentiful",
+      "example": "He offered profuse apologies.",
+      "chinese": {
+        "meaning": "大量的，豐富的",
+        "example": "他不斷道歉。"
+      }
+    },
+    {
+      "word": "Programmed",
+      "type": "adjective",
+      "meaning": "Arranged or coded in advance",
+      "example": "The robot is programmed to clean floors.",
+      "chinese": {
+        "meaning": "編程的，預先安排的",
+        "example": "機器人被編程去清潔地板。"
+      }
+    },
+    {
+      "word": "Progressive",
+      "type": "adjective",
+      "meaning": "Favoring or implementing social reform",
+      "example": "They support progressive policies.",
+      "chinese": {
+        "meaning": "進步的",
+        "example": "他們支持進步政策。"
+      }
+    },
+    {
+      "word": "Prohibited",
+      "type": "adjective",
+      "meaning": "Forbidden by law or rule",
+      "example": "Smoking is prohibited here.",
+      "chinese": {
+        "meaning": "禁止的",
+        "example": "此處禁止吸煙。"
+      }
+    },
+    {
+      "word": "Projected",
+      "type": "adjective",
+      "meaning": "Estimated or forecasted",
+      "example": "Projected sales increased this year.",
+      "chinese": {
+        "meaning": "預計的",
+        "example": "今年預計銷售額增加。"
+      }
+    },
+    {
+      "word": "Prolific",
+      "type": "adjective",
+      "meaning": "Producing abundant works or results",
+      "example": "He is a prolific writer.",
+      "chinese": {
+        "meaning": "多產的",
+        "example": "他是一位多產的作家。"
+      }
+    },
+    {
+      "word": "Prolonged",
+      "type": "adjective",
+      "meaning": "Extended in duration",
+      "example": "The meeting was prolonged.",
+      "chinese": {
+        "meaning": "延長的，持久的",
+        "example": "會議持續了很久。"
       }
     },
     {
@@ -551,6 +2421,36 @@
       }
     },
     {
+      "word": "Promising",
+      "type": "adjective",
+      "meaning": "Showing signs of future success",
+      "example": "She is a promising candidate.",
+      "chinese": {
+        "meaning": "有前途的，有希望的",
+        "example": "她是個有前途的候選人。"
+      }
+    },
+    {
+      "word": "Prompt",
+      "type": "adjective",
+      "meaning": "Done without delay; immediate",
+      "example": "He gave a prompt reply.",
+      "chinese": {
+        "meaning": "迅速的，及時的",
+        "example": "他迅速回覆。"
+      }
+    },
+    {
+      "word": "Pronounced",
+      "type": "adjective",
+      "meaning": "Strongly marked or clearly noticeable",
+      "example": "There was a pronounced change in attitude.",
+      "chinese": {
+        "meaning": "明顯的，顯著的",
+        "example": "態度有明顯的改變。"
+      }
+    },
+    {
       "word": "Proper",
       "type": "adjective",
       "letter": "P",
@@ -559,6 +2459,46 @@
       "chinese": {
         "meaning": "適當的，合適的",
         "example": "請使用適當的工具完成工作。"
+      }
+    },
+    {
+      "word": "Prophetic",
+      "type": "adjective",
+      "meaning": "Foretelling events; predictive",
+      "example": "His speech was prophetic.",
+      "chinese": {
+        "meaning": "預言的，有預見性的",
+        "example": "他的演講充滿預言性。"
+      }
+    },
+    {
+      "word": "Proportionate",
+      "type": "adjective",
+      "meaning": "Corresponding in size or amount",
+      "example": "The punishment should be proportionate to the crime.",
+      "chinese": {
+        "meaning": "成比例的，相稱的",
+        "example": "懲罰應與罪行相稱。"
+      }
+    },
+    {
+      "word": "Proposed",
+      "type": "adjective",
+      "meaning": "Suggested or put forward for consideration",
+      "example": "The proposed plan was accepted.",
+      "chinese": {
+        "meaning": "被提議的",
+        "example": "提議的計劃被接受了。"
+      }
+    },
+    {
+      "word": "Prospective",
+      "type": "adjective",
+      "meaning": "Expected or likely to happen in the future",
+      "example": "They are interviewing prospective students.",
+      "chinese": {
+        "meaning": "預期的，未來的",
+        "example": "他們正在面試預期的學生。"
       }
     },
     {
@@ -595,6 +2535,46 @@
       }
     },
     {
+      "word": "Provided",
+      "type": "adjective",
+      "meaning": "Supplied or made available",
+      "example": "All materials were provided for the course.",
+      "chinese": {
+        "meaning": "提供的",
+        "example": "課程提供了所有材料。"
+      }
+    },
+    {
+      "word": "Providential",
+      "type": "adjective",
+      "meaning": "Occurring at a favorable time; fortunate",
+      "example": "Their arrival was providential.",
+      "chinese": {
+        "meaning": "幸運的，及時的",
+        "example": "他們的到來非常及時。"
+      }
+    },
+    {
+      "word": "Provincial",
+      "type": "adjective",
+      "meaning": "Relating to a province; narrow-minded or unsophisticated",
+      "example": "He has a provincial outlook.",
+      "chinese": {
+        "meaning": "省的，狹隘的",
+        "example": "他的觀點比較狹隘。"
+      }
+    },
+    {
+      "word": "Provocative",
+      "type": "adjective",
+      "meaning": "Causing strong reactions or stimulating thought",
+      "example": "She made a provocative statement.",
+      "chinese": {
+        "meaning": "挑釁的，引發思考的",
+        "example": "她發表了挑釁性的言論。"
+      }
+    },
+    {
       "word": "Prudent",
       "type": "adjective",
       "letter": "P",
@@ -603,6 +2583,136 @@
       "chinese": {
         "meaning": "謹慎的，慎重的",
         "example": "為緊急情況存錢是明智的。"
+      }
+    },
+    {
+      "word": "Psychedelic",
+      "type": "adjective",
+      "meaning": "Relating to or denoting drugs that produce hallucinations",
+      "example": "They enjoyed psychedelic music.",
+      "chinese": {
+        "meaning": "迷幻的",
+        "example": "他們喜歡迷幻音樂。"
+      }
+    },
+    {
+      "word": "Psychic",
+      "type": "adjective",
+      "meaning": "Relating to the mind or supernatural mental abilities",
+      "example": "She claims to have psychic powers.",
+      "chinese": {
+        "meaning": "心靈的，超自然的",
+        "example": "她聲稱有心靈能力。"
+      }
+    },
+    {
+      "word": "Psychological",
+      "type": "adjective",
+      "meaning": "Relating to the mind or mental processes",
+      "example": "He is studying psychological behavior.",
+      "chinese": {
+        "meaning": "心理的",
+        "example": "他正在研究心理行為。"
+      }
+    },
+    {
+      "word": "Pubertal",
+      "type": "adjective",
+      "meaning": "Relating to puberty",
+      "example": "Pubertal changes occur during adolescence.",
+      "chinese": {
+        "meaning": "青春期的",
+        "example": "青春期變化發生在青少年時期。"
+      }
+    },
+    {
+      "word": "Pubescent",
+      "type": "adjective",
+      "meaning": "Relating to or in the process of puberty",
+      "example": "The pubescent boy was growing quickly.",
+      "chinese": {
+        "meaning": "青春期的，開始發育的",
+        "example": "這個青春期男孩生長迅速。"
+      }
+    },
+    {
+      "word": "Public",
+      "type": "adjective",
+      "meaning": "Relating to the people as a whole",
+      "example": "The event is open to the public.",
+      "chinese": {
+        "meaning": "公共的，公眾的",
+        "example": "該活動對公眾開放。"
+      }
+    },
+    {
+      "word": "Published",
+      "type": "adjective",
+      "meaning": "Made available to the public, usually in print or digital form",
+      "example": "Her book was published last year.",
+      "chinese": {
+        "meaning": "已出版的",
+        "example": "她的書去年出版了。"
+      }
+    },
+    {
+      "word": "Pudgy",
+      "type": "adjective",
+      "meaning": "Somewhat fat or chubby",
+      "example": "The baby had pudgy cheeks.",
+      "chinese": {
+        "meaning": "圓胖的",
+        "example": "嬰兒有圓胖的臉頰。"
+      }
+    },
+    {
+      "word": "Puerile",
+      "type": "adjective",
+      "meaning": "Childishly silly or trivial",
+      "example": "His puerile jokes annoyed everyone.",
+      "chinese": {
+        "meaning": "幼稚的，孩子氣的",
+        "example": "他的幼稚笑話讓大家不悅。"
+      }
+    },
+    {
+      "word": "Pugilistic",
+      "type": "adjective",
+      "meaning": "Relating to boxing or fighting with fists",
+      "example": "He has a pugilistic style.",
+      "chinese": {
+        "meaning": "拳擊的，好鬥的",
+        "example": "他有拳擊風格。"
+      }
+    },
+    {
+      "word": "Pugnacious",
+      "type": "adjective",
+      "meaning": "Eager or quick to argue or fight",
+      "example": "The pugnacious man often started fights.",
+      "chinese": {
+        "meaning": "好鬥的，愛爭吵的",
+        "example": "這個好鬥的人經常挑起爭端。"
+      }
+    },
+    {
+      "word": "Pulmonary",
+      "type": "adjective",
+      "meaning": "Relating to the lungs",
+      "example": "He has a pulmonary disease.",
+      "chinese": {
+        "meaning": "肺的",
+        "example": "他患有肺部疾病。"
+      }
+    },
+    {
+      "word": "Pulsating",
+      "type": "adjective",
+      "meaning": "Beating or throbbing rhythmically",
+      "example": "The pulsating music filled the room.",
+      "chinese": {
+        "meaning": "跳動的，有節奏的",
+        "example": "跳動的音樂充滿整個房間。"
       }
     },
     {
@@ -617,6 +2727,46 @@
       }
     },
     {
+      "word": "Punctuated",
+      "type": "adjective",
+      "meaning": "Interrupted or emphasized at intervals",
+      "example": "His speech was punctuated by applause.",
+      "chinese": {
+        "meaning": "被間斷的，強調的",
+        "example": "他的演講間或有掌聲。"
+      }
+    },
+    {
+      "word": "Punished",
+      "type": "adjective",
+      "meaning": "Having been subjected to punishment",
+      "example": "The punished child learned a lesson.",
+      "chinese": {
+        "meaning": "受罰的",
+        "example": "被罰的孩子學到了教訓。"
+      }
+    },
+    {
+      "word": "Punitive",
+      "type": "adjective",
+      "meaning": "Inflicting or intended as punishment",
+      "example": "The court imposed punitive damages.",
+      "chinese": {
+        "meaning": "懲罰性的",
+        "example": "法庭判處懲罰性賠償。"
+      }
+    },
+    {
+      "word": "Puny",
+      "type": "adjective",
+      "meaning": "Small and weak",
+      "example": "He felt puny after the illness.",
+      "chinese": {
+        "meaning": "微小的，虛弱的",
+        "example": "他病後感到虛弱無力。"
+      }
+    },
+    {
       "word": "Pure",
       "type": "adjective",
       "letter": "P",
@@ -628,6 +2778,106 @@
       }
     },
     {
+      "word": "Purified",
+      "type": "adjective",
+      "meaning": "Made pure or clean",
+      "example": "The water was purified before use.",
+      "chinese": {
+        "meaning": "淨化的",
+        "example": "水在使用前被淨化。"
+      }
+    },
+    {
+      "word": "Purple",
+      "type": "adjective",
+      "meaning": "Of a color between red and blue",
+      "example": "She wore a purple dress.",
+      "chinese": {
+        "meaning": "紫色的",
+        "example": "她穿著一件紫色的裙子。"
+      }
+    },
+    {
+      "word": "Purposeful",
+      "type": "adjective",
+      "meaning": "Having or showing determination",
+      "example": "He took purposeful steps toward his goal.",
+      "chinese": {
+        "meaning": "有目的的，堅定的",
+        "example": "他朝著目標邁出了堅定的步伐。"
+      }
+    },
+    {
+      "word": "Purring",
+      "type": "adjective",
+      "meaning": "Making a low continuous vibrating sound (like a cat)",
+      "example": "The purring cat was content.",
+      "chinese": {
+        "meaning": "呼嚕聲的",
+        "example": "呼嚕叫的貓很滿足。"
+      }
+    },
+    {
+      "word": "Pursued",
+      "type": "adjective",
+      "meaning": "Chased or followed",
+      "example": "The pursued fugitive was caught.",
+      "chinese": {
+        "meaning": "被追趕的",
+        "example": "被追捕的逃犯被抓住了。"
+      }
+    },
+    {
+      "word": "Pushed",
+      "type": "adjective",
+      "meaning": "Moved by applying force; also driven or pressured",
+      "example": "She felt pushed to succeed.",
+      "chinese": {
+        "meaning": "被推動的，受壓力的",
+        "example": "她感到被迫要成功。"
+      }
+    },
+    {
+      "word": "Pushy",
+      "type": "adjective",
+      "meaning": "Aggressively demanding or assertive",
+      "example": "He has a pushy personality.",
+      "chinese": {
+        "meaning": "強勢的，愛出風頭的",
+        "example": "他性格強勢。"
+      }
+    },
+    {
+      "word": "Putative",
+      "type": "adjective",
+      "meaning": "Generally regarded as such; supposed",
+      "example": "The putative leader was questioned.",
+      "chinese": {
+        "meaning": "推定的，假定的",
+        "example": "這位推定的領導人被質疑。"
+      }
+    },
+    {
+      "word": "Putrid",
+      "type": "adjective",
+      "meaning": "Rotten and foul-smelling",
+      "example": "The putrid smell was unbearable.",
+      "chinese": {
+        "meaning": "腐臭的，令人作嘔的",
+        "example": "腐臭的氣味令人難以忍受。"
+      }
+    },
+    {
+      "word": "Puzzled",
+      "type": "adjective",
+      "meaning": "Confused or perplexed",
+      "example": "She looked puzzled by the question.",
+      "chinese": {
+        "meaning": "困惑的",
+        "example": "她對問題感到困惑。"
+      }
+    },
+    {
       "word": "Puzzling",
       "type": "adjective",
       "letter": "P",
@@ -636,6 +2886,26 @@
       "chinese": {
         "meaning": "令人困惑的，難以理解的",
         "example": "這個謎團讓每個人都感到困惑。"
+      }
+    },
+    {
+      "word": "Pygmy",
+      "type": "adjective",
+      "meaning": "Very small; diminutive",
+      "example": "They studied pygmy animals.",
+      "chinese": {
+        "meaning": "微小的",
+        "example": "他們研究微小動物。"
+      }
+    },
+    {
+      "word": "Pyramidal",
+      "type": "adjective",
+      "meaning": "Shaped like a pyramid",
+      "example": "The structure had a pyramidal shape.",
+      "chinese": {
+        "meaning": "金字塔形的",
+        "example": "該結構呈金字塔形。"
       }
     }
   ]

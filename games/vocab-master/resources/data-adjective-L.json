@@ -1,6 +1,39 @@
 {
   "words": [
     {
+      "word": "Laborious",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Requiring considerable effort and time",
+      "example": "The research was a laborious process.",
+      "chinese": {
+        "meaning": "艱苦的；費力的",
+        "example": "這項研究是一個艱苦的過程。"
+      }
+    },
+    {
+      "word": "Labyrinthine",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Complicated and confusing; like a labyrinth",
+      "example": "The labyrinthine alleyways were hard to navigate.",
+      "chinese": {
+        "meaning": "錯綜複雜的",
+        "example": "那些錯綜複雜的小巷難以通行。"
+      }
+    },
+    {
+      "word": "Laced",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Decorated with or containing lace or a small amount of something",
+      "example": "The cake was laced with brandy.",
+      "chinese": {
+        "meaning": "含有…的；摻雜的",
+        "example": "這個蛋糕裡摻了白蘭地。"
+      }
+    },
+    {
       "word": "Lachrymose",
       "type": "adjective",
       "letter": "L",
@@ -20,6 +53,28 @@
       "chinese": {
         "meaning": "無精打采的，懶散的",
         "example": "他對學習漫不經心，導致成績很差。"
+      }
+    },
+    {
+      "word": "Lacking",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Not present or insufficient",
+      "example": "He was lacking in confidence.",
+      "chinese": {
+        "meaning": "缺乏的",
+        "example": "他缺乏自信。"
+      }
+    },
+    {
+      "word": "Lacklustre",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Lacking vitality, force, or conviction; uninspired or uninspiring",
+      "example": "The performance was dull and lacklustre.",
+      "chinese": {
+        "meaning": "無光澤的；平淡的",
+        "example": "這次表演很平淡，毫無生氣。"
       }
     },
     {
@@ -45,6 +100,83 @@
       }
     },
     {
+      "word": "Laden",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Heavily loaded or weighed down",
+      "example": "The truck was laden with goods.",
+      "chinese": {
+        "meaning": "滿載的；負重的",
+        "example": "卡車上滿載著貨物。"
+      }
+    },
+    {
+      "word": "Lagging",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Falling behind in progress or development",
+      "example": "The country has a lagging economy.",
+      "chinese": {
+        "meaning": "落後的",
+        "example": "這個國家的經濟落後。"
+      }
+    },
+    {
+      "word": "Lame",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Physically disabled in the legs or feet; weak or unconvincing",
+      "example": "He made a lame excuse for being late.",
+      "chinese": {
+        "meaning": "瘸的；站不住腳的",
+        "example": "他為遲到找了一個站不住腳的藉口。"
+      }
+    },
+    {
+      "word": "Lamentable",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Deserving strong condemnation; very bad or unfortunate",
+      "example": "The living conditions were lamentable.",
+      "chinese": {
+        "meaning": "令人惋惜的；糟糕的",
+        "example": "生活條件令人惋惜。"
+      }
+    },
+    {
+      "word": "Landed",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Owning or consisting of land",
+      "example": "He belongs to a landed family.",
+      "chinese": {
+        "meaning": "擁有土地的",
+        "example": "他屬於一個擁有土地的家族。"
+      }
+    },
+    {
+      "word": "Landlocked",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Surrounded by land and having no coastline",
+      "example": "Switzerland is a landlocked country.",
+      "chinese": {
+        "meaning": "內陸的",
+        "example": "瑞士是一個內陸國家。"
+      }
+    },
+    {
+      "word": "Landscaped",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Having an area of land improved or decorated by designing the grounds",
+      "example": "The landscaped garden was beautiful.",
+      "chinese": {
+        "meaning": "園藝設計過的",
+        "example": "那個園藝設計過的花園非常漂亮。"
+      }
+    },
+    {
       "word": "Languid",
       "type": "adjective",
       "letter": "L",
@@ -56,6 +188,17 @@
       }
     },
     {
+      "word": "Languishing",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Losing vitality; failing to make progress",
+      "example": "The project is languishing due to lack of funding.",
+      "chinese": {
+        "meaning": "衰弱的；停滯不前的",
+        "example": "這個項目因缺乏資金而停滯不前。"
+      }
+    },
+    {
       "word": "Lanky",
       "type": "adjective",
       "letter": "L",
@@ -64,6 +207,61 @@
       "chinese": {
         "meaning": "瘦長的，細長的",
         "example": "那個瘦長的籃球運動員比對手高出許多。"
+      }
+    },
+    {
+      "word": "Large",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Of considerable size or extent",
+      "example": "The house has a large garden.",
+      "chinese": {
+        "meaning": "大的",
+        "example": "這房子有一個大花園。"
+      }
+    },
+    {
+      "word": "Large-scale",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Involving a large number of people or things; extensive",
+      "example": "They planned a large-scale renovation.",
+      "chinese": {
+        "meaning": "大規模的",
+        "example": "他們計劃進行大規模翻修。"
+      }
+    },
+    {
+      "word": "Last",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Coming after all others in time or order",
+      "example": "He was the last person to arrive.",
+      "chinese": {
+        "meaning": "最後的",
+        "example": "他是最後到達的人。"
+      }
+    },
+    {
+      "word": "Lasting",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Continuing for a long time",
+      "example": "They formed a lasting friendship.",
+      "chinese": {
+        "meaning": "持久的",
+        "example": "他們建立了持久的友誼。"
+      }
+    },
+    {
+      "word": "Late",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Happening or arriving after the expected time; recently deceased",
+      "example": "She arrived late to the meeting.",
+      "chinese": {
+        "meaning": "遲到的；已故的",
+        "example": "她開會遲到了。"
       }
     },
     {
@@ -89,6 +287,28 @@
       }
     },
     {
+      "word": "Latest",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Most recent or up-to-date",
+      "example": "He bought the latest model of the phone.",
+      "chinese": {
+        "meaning": "最新的",
+        "example": "他買了最新款的手機。"
+      }
+    },
+    {
+      "word": "Latter",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Relating to the second of two things mentioned",
+      "example": "Of the two options, I prefer the latter.",
+      "chinese": {
+        "meaning": "後者的",
+        "example": "這兩個選項中，我更喜歡後者。"
+      }
+    },
+    {
       "word": "Laudable",
       "type": "adjective",
       "letter": "L",
@@ -97,6 +317,28 @@
       "chinese": {
         "meaning": "值得稱贊的",
         "example": "她幫助無家可歸者的努力值得稱贊。"
+      }
+    },
+    {
+      "word": "Laughable",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "So absurd as to be funny",
+      "example": "The excuse he gave was laughable.",
+      "chinese": {
+        "meaning": "可笑的",
+        "example": "他給的藉口可笑至極。"
+      }
+    },
+    {
+      "word": "Laughing",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Expressing or showing laughter or happiness",
+      "example": "The laughing children played in the park.",
+      "chinese": {
+        "meaning": "笑著的",
+        "example": "笑著的孩子們在公園裡玩耍。"
       }
     },
     {
@@ -122,6 +364,17 @@
       }
     },
     {
+      "word": "Lawless",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Not governed by or obedient to laws; disorderly",
+      "example": "The area was lawless and dangerous.",
+      "chinese": {
+        "meaning": "無法無天的",
+        "example": "那個地區無法無天且危險。"
+      }
+    },
+    {
       "word": "Lax",
       "type": "adjective",
       "letter": "L",
@@ -130,6 +383,28 @@
       "chinese": {
         "meaning": "松懈的，不嚴格的",
         "example": "老師因對紀律態度松懈而受到批評。"
+      }
+    },
+    {
+      "word": "Lazy",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Unwilling to work or use energy",
+      "example": "He is too lazy to get out of bed early.",
+      "chinese": {
+        "meaning": "懶惰的",
+        "example": "他太懶惰，不願意早起床。"
+      }
+    },
+    {
+      "word": "Leaden",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Heavy and inert; lacking spirit or animation",
+      "example": "She walked with leaden feet.",
+      "chinese": {
+        "meaning": "沉重的；遲鈍的",
+        "example": "她拖著沉重的腳步走著。"
       }
     },
     {
@@ -144,6 +419,28 @@
       }
     },
     {
+      "word": "Leafy",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Having or covered with leaves",
+      "example": "They live in a leafy suburb.",
+      "chinese": {
+        "meaning": "綠葉繁茂的",
+        "example": "他們住在一個綠葉繁茂的郊區。"
+      }
+    },
+    {
+      "word": "Lean",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Thin; having little fat; efficient",
+      "example": "She has a lean and athletic body.",
+      "chinese": {
+        "meaning": "瘦的；精簡的",
+        "example": "她有一副瘦而健美的身材。"
+      }
+    },
+    {
       "word": "Learned",
       "type": "adjective",
       "letter": "L",
@@ -152,6 +449,160 @@
       "chinese": {
         "meaning": "博學的，有學問的",
         "example": "那位博學的教授做了一個引人入勝的講座。"
+      }
+    },
+    {
+      "word": "Learning",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Relating to or involving knowledge or study",
+      "example": "He is in a learning phase of his career.",
+      "chinese": {
+        "meaning": "學習的",
+        "example": "他處於職業生涯的學習階段。"
+      }
+    },
+    {
+      "word": "Leather",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Made of leather",
+      "example": "He bought a leather jacket.",
+      "chinese": {
+        "meaning": "皮革的",
+        "example": "他買了一件皮革夾克。"
+      }
+    },
+    {
+      "word": "Leathery",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Tough and flexible, like leather",
+      "example": "The meat was leathery and hard to chew.",
+      "chinese": {
+        "meaning": "堅韌的；似皮革的",
+        "example": "那塊肉堅韌難嚼。"
+      }
+    },
+    {
+      "word": "Left",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "On or toward the side of the body that is to the west when facing north",
+      "example": "She raised her left hand.",
+      "chinese": {
+        "meaning": "左邊的",
+        "example": "她舉起了左手。"
+      }
+    },
+    {
+      "word": "Left-handed",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Using the left hand more naturally than the right",
+      "example": "He is left-handed and writes with his left hand.",
+      "chinese": {
+        "meaning": "左撇子的",
+        "example": "他是左撇子，用左手寫字。"
+      }
+    },
+    {
+      "word": "Legal",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Permitted by law",
+      "example": "The transaction was completely legal.",
+      "chinese": {
+        "meaning": "合法的",
+        "example": "這筆交易完全合法。"
+      }
+    },
+    {
+      "word": "Legendary",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Remarkable enough to be famous; relating to legends",
+      "example": "The singer is a legendary figure in the music world.",
+      "chinese": {
+        "meaning": "傳奇的；著名的",
+        "example": "這位歌手是音樂界的傳奇人物。"
+      }
+    },
+    {
+      "word": "Legible",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Clear enough to be read easily",
+      "example": "His handwriting is barely legible.",
+      "chinese": {
+        "meaning": "清晰可辨的",
+        "example": "他的字跡幾乎難以辨認。"
+      }
+    },
+    {
+      "word": "Legislative",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Relating to laws or the making of laws",
+      "example": "The bill is now in the legislative process.",
+      "chinese": {
+        "meaning": "立法的",
+        "example": "該法案目前正處於立法程序中。"
+      }
+    },
+    {
+      "word": "Legitimate",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Conforming to the law or to rules; justifiable",
+      "example": "She raised legitimate concerns about the plan.",
+      "chinese": {
+        "meaning": "合法的；正當的",
+        "example": "她提出了對該計劃合法的擔憂。"
+      }
+    },
+    {
+      "word": "Leisurely",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Unhurried or relaxed",
+      "example": "They enjoyed a leisurely walk along the beach.",
+      "chinese": {
+        "meaning": "悠閒的",
+        "example": "他們在海灘上悠閒地散步。"
+      }
+    },
+    {
+      "word": "Lengthy",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Of considerable length; long",
+      "example": "The meeting was lengthy and exhausting.",
+      "chinese": {
+        "meaning": "冗長的",
+        "example": "這次會議冗長而疲憊。"
+      }
+    },
+    {
+      "word": "Lenient",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Permissive, merciful, or tolerant",
+      "example": "The teacher is too lenient with late homework.",
+      "chinese": {
+        "meaning": "寬容的；寬大的",
+        "example": "老師對遲交作業太寬容了。"
+      }
+    },
+    {
+      "word": "Lethal",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Sufficient to cause death; harmful",
+      "example": "The snake's bite can be lethal.",
+      "chinese": {
+        "meaning": "致命的",
+        "example": "這條蛇的咬傷可能致命。"
       }
     },
     {
@@ -166,6 +617,17 @@
       }
     },
     {
+      "word": "Lettered",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Educated or learned",
+      "example": "He was a lettered scholar with many publications.",
+      "chinese": {
+        "meaning": "有學問的",
+        "example": "他是一位有學問的學者，有許多出版物。"
+      }
+    },
+    {
       "word": "Level",
       "type": "adjective",
       "letter": "L",
@@ -174,6 +636,39 @@
       "chinese": {
         "meaning": "平的，水平的",
         "example": "掛畫之前確保畫框是水平的。"
+      }
+    },
+    {
+      "word": "Levelheaded",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Calm and sensible",
+      "example": "She is levelheaded even in stressful situations.",
+      "chinese": {
+        "meaning": "冷靜的；頭腦清醒的",
+        "example": "即使在壓力大的情況下，她依然冷靜。"
+      }
+    },
+    {
+      "word": "Lexical",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Relating to the words or vocabulary of a language",
+      "example": "The dictionary provides lexical information about words.",
+      "chinese": {
+        "meaning": "詞彙的",
+        "example": "詞典提供單詞的詞彙信息。"
+      }
+    },
+    {
+      "word": "Libelous",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Containing or constituting a written defamatory statement",
+      "example": "The article was found to be libelous.",
+      "chinese": {
+        "meaning": "誹謗的",
+        "example": "該文章被認為是誹謗性的。"
       }
     },
     {
@@ -188,6 +683,28 @@
       }
     },
     {
+      "word": "Liberated",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Freed from restrictions or traditional ideas",
+      "example": "She felt liberated after quitting her job.",
+      "chinese": {
+        "meaning": "解放的；自由的",
+        "example": "辭職後，她感覺被解放了。"
+      }
+    },
+    {
+      "word": "Libertarian",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Advocating for minimal state intervention in citizens' lives",
+      "example": "He has libertarian views on government control.",
+      "chinese": {
+        "meaning": "自由意志主義的",
+        "example": "他對政府管控持自由意志主義觀點。"
+      }
+    },
+    {
       "word": "Licentious",
       "type": "adjective",
       "letter": "L",
@@ -196,6 +713,50 @@
       "chinese": {
         "meaning": "放蕩的，淫亂的",
         "example": "這本小說因其放蕩的內容而受到批評。"
+      }
+    },
+    {
+      "word": "Lifeless",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Lacking vitality or energy; dead",
+      "example": "The room felt cold and lifeless.",
+      "chinese": {
+        "meaning": "沒有生氣的；死的",
+        "example": "這個房間感覺冷冰冰的，沒有生氣。"
+      }
+    },
+    {
+      "word": "Lifelike",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Very similar to the person or thing represented",
+      "example": "The statue is so lifelike it seems real.",
+      "chinese": {
+        "meaning": "栩栩如生的",
+        "example": "這座雕像栩栩如生，看起來像真的一樣。"
+      }
+    },
+    {
+      "word": "Lifelong",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Lasting or existing for the whole of a person's life",
+      "example": "She is a lifelong learner.",
+      "chinese": {
+        "meaning": "終生的",
+        "example": "她是一位終生學習者。"
+      }
+    },
+    {
+      "word": "Light",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Of little weight; not heavy",
+      "example": "This bag is surprisingly light.",
+      "chinese": {
+        "meaning": "輕的",
+        "example": "這個包意外地輕。"
       }
     },
     {
@@ -210,6 +771,72 @@
       }
     },
     {
+      "word": "Lightweight",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Weighing less than average; not heavy",
+      "example": "He wore a lightweight jacket.",
+      "chinese": {
+        "meaning": "輕便的",
+        "example": "他穿了一件輕便夾克。"
+      }
+    },
+    {
+      "word": "Likable",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Pleasant, friendly, and easy to like",
+      "example": "She is a very likable person.",
+      "chinese": {
+        "meaning": "可愛的；討人喜歡的",
+        "example": "她是一個很討人喜歡的人。"
+      }
+    },
+    {
+      "word": "Likely",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Probable; expected to happen",
+      "example": "It is likely to rain tomorrow.",
+      "chinese": {
+        "meaning": "可能的",
+        "example": "明天可能會下雨。"
+      }
+    },
+    {
+      "word": "Limber",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Flexible and agile",
+      "example": "She is limber and strong from years of yoga.",
+      "chinese": {
+        "meaning": "柔軟的；靈活的",
+        "example": "多年練瑜伽讓她身體柔軟且強壯。"
+      }
+    },
+    {
+      "word": "Limited",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Restricted in size, amount, or extent",
+      "example": "Tickets are limited for this concert.",
+      "chinese": {
+        "meaning": "有限的",
+        "example": "這場音樂會的門票有限。"
+      }
+    },
+    {
+      "word": "Limp",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Not firm or strong",
+      "example": "The flowers went limp without water.",
+      "chinese": {
+        "meaning": "軟弱的；無力的",
+        "example": "沒有水，花變得無力了。"
+      }
+    },
+    {
       "word": "Limpid",
       "type": "adjective",
       "letter": "L",
@@ -218,6 +845,94 @@
       "chinese": {
         "meaning": "清澈的，透明的",
         "example": "湖水清澈見底，令人想游泳。"
+      }
+    },
+    {
+      "word": "Linear",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Arranged in or extending along a straight line",
+      "example": "The story follows a linear timeline.",
+      "chinese": {
+        "meaning": "線性的",
+        "example": "這個故事沿著線性時間線展開。"
+      }
+    },
+    {
+      "word": "Lingering",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Lasting for a long time or slow to end",
+      "example": "She has a lingering cough.",
+      "chinese": {
+        "meaning": "揮之不去的；持續的",
+        "example": "她有一個揮之不去的咳嗽。"
+      }
+    },
+    {
+      "word": "Linguistic",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Relating to language or linguistics",
+      "example": "He has strong linguistic abilities.",
+      "chinese": {
+        "meaning": "語言的；語言學的",
+        "example": "他具有很強的語言能力。"
+      }
+    },
+    {
+      "word": "Linked",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Connected or related in some way",
+      "example": "The two issues are closely linked.",
+      "chinese": {
+        "meaning": "有關聯的",
+        "example": "這兩個問題緊密相關。"
+      }
+    },
+    {
+      "word": "Liquid",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Having a consistency like that of water",
+      "example": "The chocolate became liquid when heated.",
+      "chinese": {
+        "meaning": "液態的",
+        "example": "巧克力加熱後變成液態。"
+      }
+    },
+    {
+      "word": "Literal",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Taking words in their usual or most basic sense",
+      "example": "He took the joke in a literal sense.",
+      "chinese": {
+        "meaning": "字面上的",
+        "example": "他按字面理解了這個玩笑。"
+      }
+    },
+    {
+      "word": "Literary",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Concerning literature",
+      "example": "She has a literary style of writing.",
+      "chinese": {
+        "meaning": "文學的",
+        "example": "她的寫作風格很有文學氣息。"
+      }
+    },
+    {
+      "word": "Literate",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Able to read and write",
+      "example": "Most of the population is literate.",
+      "chinese": {
+        "meaning": "有讀寫能力的",
+        "example": "大多數人口有讀寫能力。"
       }
     },
     {
@@ -232,6 +947,83 @@
       }
     },
     {
+      "word": "Litigious",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Prone to engage in lawsuits",
+      "example": "The company is known for being litigious.",
+      "chinese": {
+        "meaning": "愛打官司的",
+        "example": "這家公司以愛打官司著稱。"
+      }
+    },
+    {
+      "word": "Little",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Small in size, amount, or degree",
+      "example": "She has little patience for nonsense.",
+      "chinese": {
+        "meaning": "小的；少的",
+        "example": "她對胡說八道幾乎沒有耐心。"
+      }
+    },
+    {
+      "word": "Live",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Broadcast or occurring in real time; having life",
+      "example": "They watched a live concert.",
+      "chinese": {
+        "meaning": "現場的；活著的",
+        "example": "他們觀看了一場現場音樂會。"
+      }
+    },
+    {
+      "word": "Lively",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Full of life and energy",
+      "example": "The lively child was running around the garden.",
+      "chinese": {
+        "meaning": "活潑的；生氣勃勃的",
+        "example": "那個活潑的孩子在花園裡跑來跑去。"
+      }
+    },
+    {
+      "word": "Livid",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Extremely angry; discolored by bruising",
+      "example": "He was livid when he heard the news.",
+      "chinese": {
+        "meaning": "暴怒的；青紫色的",
+        "example": "聽到這個消息時，他怒不可遏。"
+      }
+    },
+    {
+      "word": "Living",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Having life; not dead",
+      "example": "She is the only living relative.",
+      "chinese": {
+        "meaning": "活著的",
+        "example": "她是唯一還活著的親戚。"
+      }
+    },
+    {
+      "word": "Loaded",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Heavily laden or wealthy",
+      "example": "The truck was loaded with supplies.",
+      "chinese": {
+        "meaning": "裝滿的；富有的",
+        "example": "卡車裝滿了物資。"
+      }
+    },
+    {
       "word": "Loath",
       "type": "adjective",
       "letter": "L",
@@ -240,6 +1032,39 @@
       "chinese": {
         "meaning": "不情願的，勉強的",
         "example": "她不情願承認自己的錯誤。"
+      }
+    },
+    {
+      "word": "Local",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Relating to a particular area or neighborhood",
+      "example": "We prefer to shop at local stores.",
+      "chinese": {
+        "meaning": "本地的",
+        "example": "我們更喜歡在本地商店購物。"
+      }
+    },
+    {
+      "word": "Localized",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Restricted or confined to a specific area",
+      "example": "The pain was localized in her lower back.",
+      "chinese": {
+        "meaning": "局部的",
+        "example": "疼痛局限在她的下背部。"
+      }
+    },
+    {
+      "word": "Located",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Situated in a particular place",
+      "example": "The office is located in the city center.",
+      "chinese": {
+        "meaning": "位於",
+        "example": "辦公室位於市中心。"
       }
     },
     {
@@ -265,6 +1090,17 @@
       }
     },
     {
+      "word": "Logistical",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Relating to the detailed organization of complex operations",
+      "example": "The project faced logistical challenges.",
+      "chinese": {
+        "meaning": "後勤的；物流的",
+        "example": "這個項目面臨後勤上的挑戰。"
+      }
+    },
+    {
       "word": "Lonely",
       "type": "adjective",
       "letter": "L",
@@ -273,6 +1109,28 @@
       "chinese": {
         "meaning": "孤獨的，寂寞的",
         "example": "搬到新城市後，他感到孤獨。"
+      }
+    },
+    {
+      "word": "Long",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Measuring a great distance from end to end",
+      "example": "It's going to be a long journey.",
+      "chinese": {
+        "meaning": "長的",
+        "example": "這將會是一段漫長的旅程。"
+      }
+    },
+    {
+      "word": "Long-established",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Having existed for a long time",
+      "example": "They run a long-established family business.",
+      "chinese": {
+        "meaning": "歷史悠久的",
+        "example": "他們經營著一家歷史悠久的家族企業。"
       }
     },
     {
@@ -287,6 +1145,72 @@
       }
     },
     {
+      "word": "Long-lived",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Living or lasting for a long time",
+      "example": "The queen was long-lived and beloved.",
+      "chinese": {
+        "meaning": "長壽的；持久的",
+        "example": "女王長壽且深受愛戴。"
+      }
+    },
+    {
+      "word": "Long-standing",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Having continued or existed for a long time",
+      "example": "They resolved their long-standing dispute.",
+      "chinese": {
+        "meaning": "長期存在的",
+        "example": "他們解決了長期存在的爭端。"
+      }
+    },
+    {
+      "word": "Long-term",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Occurring over or relating to a long period of time",
+      "example": "We need a long-term strategy for success.",
+      "chinese": {
+        "meaning": "長期的",
+        "example": "我們需要一個長期的成功策略。"
+      }
+    },
+    {
+      "word": "Long-winded",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Using too many words; tedious",
+      "example": "The professor's long-winded lecture bored the students.",
+      "chinese": {
+        "meaning": "冗長的",
+        "example": "教授冗長的講課讓學生們感到無聊。"
+      }
+    },
+    {
+      "word": "Longer",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Having greater length or duration",
+      "example": "This rope is longer than the other one.",
+      "chinese": {
+        "meaning": "更長的",
+        "example": "這根繩子比另一根更長。"
+      }
+    },
+    {
+      "word": "Loose",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Not tightly fixed or fastened",
+      "example": "The screw is loose and needs tightening.",
+      "chinese": {
+        "meaning": "鬆的",
+        "example": "螺絲鬆了，需要擰緊。"
+      }
+    },
+    {
       "word": "Loquacious",
       "type": "adjective",
       "letter": "L",
@@ -295,6 +1219,193 @@
       "chinese": {
         "meaning": "多話的，健談的",
         "example": "健談的導遊在遊覽中講了許多故事。"
+      }
+    },
+    {
+      "word": "Lordly",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Arrogant or majestic",
+      "example": "He gave a lordly wave and left.",
+      "chinese": {
+        "meaning": "高傲的；莊嚴的",
+        "example": "他高傲地揮了揮手就離開了。"
+      }
+    },
+    {
+      "word": "Lost",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Unable to find one's way",
+      "example": "We got lost in the forest.",
+      "chinese": {
+        "meaning": "迷路的；失去的",
+        "example": "我們在森林裡迷路了。"
+      }
+    },
+    {
+      "word": "Loud",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Producing much noise",
+      "example": "The music was too loud.",
+      "chinese": {
+        "meaning": "大聲的",
+        "example": "音樂聲太大了。"
+      }
+    },
+    {
+      "word": "Lousy",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Very poor or bad",
+      "example": "The service at the restaurant was lousy.",
+      "chinese": {
+        "meaning": "糟糕的",
+        "example": "餐廳的服務很糟糕。"
+      }
+    },
+    {
+      "word": "Lovable",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Inspiring love or affection",
+      "example": "The puppy is so lovable.",
+      "chinese": {
+        "meaning": "可愛的",
+        "example": "這隻小狗非常可愛。"
+      }
+    },
+    {
+      "word": "Loved",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Held in deep affection",
+      "example": "She was loved by everyone.",
+      "chinese": {
+        "meaning": "被愛的",
+        "example": "她受到大家的愛戴。"
+      }
+    },
+    {
+      "word": "Lovely",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Delightful or beautiful",
+      "example": "It's a lovely day for a picnic.",
+      "chinese": {
+        "meaning": "可愛的；美好的",
+        "example": "今天是野餐的好日子。"
+      }
+    },
+    {
+      "word": "Loving",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Feeling or showing love",
+      "example": "He gave her a loving hug.",
+      "chinese": {
+        "meaning": "充滿愛的",
+        "example": "他給了她一個充滿愛意的擁抱。"
+      }
+    },
+    {
+      "word": "Low",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Not high or tall",
+      "example": "The ceiling is too low.",
+      "chinese": {
+        "meaning": "低的",
+        "example": "天花板太低了。"
+      }
+    },
+    {
+      "word": "Low-income",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Having relatively little income",
+      "example": "The program is for low-income families.",
+      "chinese": {
+        "meaning": "低收入的",
+        "example": "該項目是為低收入家庭設計的。"
+      }
+    },
+    {
+      "word": "Low-lying",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Situated near the level of the sea or ground",
+      "example": "The area is prone to flooding because it is low-lying.",
+      "chinese": {
+        "meaning": "低窪的",
+        "example": "該地區因地勢低窪而易發洪水。"
+      }
+    },
+    {
+      "word": "Lower",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Situated below another part",
+      "example": "He injured his lower back.",
+      "chinese": {
+        "meaning": "更低的",
+        "example": "他傷到了下背部。"
+      }
+    },
+    {
+      "word": "Loyal",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Showing firm and constant support",
+      "example": "He is a loyal friend.",
+      "chinese": {
+        "meaning": "忠誠的",
+        "example": "他是一個忠誠的朋友。"
+      }
+    },
+    {
+      "word": "Lucid",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Expressed clearly; easy to understand",
+      "example": "She gave a lucid explanation of the topic.",
+      "chinese": {
+        "meaning": "清晰的；明白的",
+        "example": "她對這個主題做了清晰的解釋。"
+      }
+    },
+    {
+      "word": "Lucky",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Having good fortune",
+      "example": "I was lucky to win the prize.",
+      "chinese": {
+        "meaning": "幸運的",
+        "example": "我很幸運贏得了獎品。"
+      }
+    },
+    {
+      "word": "Ludicrous",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "So unreasonable as to be laughable",
+      "example": "The idea is completely ludicrous.",
+      "chinese": {
+        "meaning": "荒唐的",
+        "example": "這個想法完全荒唐。"
+      }
+    },
+    {
+      "word": "Lukewarm",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Moderately warm; showing little enthusiasm",
+      "example": "The tea was only lukewarm.",
+      "chinese": {
+        "meaning": "微溫的；冷淡的",
+        "example": "茶只是微溫的。"
       }
     },
     {
@@ -309,6 +1420,17 @@
       }
     },
     {
+      "word": "Lumpy",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Full of or covered with lumps",
+      "example": "The sauce turned out lumpy.",
+      "chinese": {
+        "meaning": "有顆粒的",
+        "example": "醬汁結果變得有顆粒。"
+      }
+    },
+    {
       "word": "Lurid",
       "type": "adjective",
       "letter": "L",
@@ -317,6 +1439,28 @@
       "chinese": {
         "meaning": "聳人聽聞的，花哨的",
         "example": "報紙刊登了一則聳人聽聞的醜聞報道。"
+      }
+    },
+    {
+      "word": "Lurking",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Remaining hidden so as to wait for an opportunity",
+      "example": "There was a lurking danger in the dark alley.",
+      "chinese": {
+        "meaning": "潛伏的",
+        "example": "黑暗的小巷中潛伏著危險。"
+      }
+    },
+    {
+      "word": "Luscious",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Richly appealing to the senses, especially taste",
+      "example": "The cake was luscious and sweet.",
+      "chinese": {
+        "meaning": "美味的；誘人的",
+        "example": "蛋糕香甜可口。"
       }
     },
     {
@@ -331,6 +1475,28 @@
       }
     },
     {
+      "word": "Lustful",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Having or showing strong sexual desire",
+      "example": "He gave her a lustful glance.",
+      "chinese": {
+        "meaning": "好色的",
+        "example": "他給了她一個充滿慾望的眼神。"
+      }
+    },
+    {
+      "word": "Lustrous",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Shiny or glossy",
+      "example": "She brushed her lustrous hair.",
+      "chinese": {
+        "meaning": "有光澤的",
+        "example": "她梳理著有光澤的頭髮。"
+      }
+    },
+    {
       "word": "Luxuriant",
       "type": "adjective",
       "letter": "L",
@@ -342,6 +1508,17 @@
       }
     },
     {
+      "word": "Luxurious",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Extremely comfortable or elegant",
+      "example": "They stayed at a luxurious hotel.",
+      "chinese": {
+        "meaning": "奢華的",
+        "example": "他們住在一家奢華的酒店。"
+      }
+    },
+    {
       "word": "Lying",
       "type": "adjective",
       "letter": "L",
@@ -350,6 +1527,17 @@
       "chinese": {
         "meaning": "躺著的，處於休息狀態的",
         "example": "貓躺在溫暖的窗台上。"
+      }
+    },
+    {
+      "word": "Lyric",
+      "type": "adjective",
+      "letter": "L",
+      "meaning": "Expressing deep personal emotion; relating to poetry",
+      "example": "She wrote a lyric poem about love.",
+      "chinese": {
+        "meaning": "抒情的",
+        "example": "她寫了一首關於愛的抒情詩。"
       }
     },
     {

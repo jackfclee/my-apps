@@ -23,6 +23,94 @@
       }
     },
     {
+      "word": "Hairless",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Without hair",
+      "example": "The cat is completely hairless.",
+      "chinese": {
+        "meaning": "無毛的",
+        "example": "這隻貓完全沒有毛。"
+      }
+    },
+    {
+      "word": "Hairy",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Covered with hair; frightening or dangerous (informal)",
+      "example": "It was a hairy experience driving in the snow.",
+      "chinese": {
+        "meaning": "多毛的；驚險的",
+        "example": "在雪地開車是一個驚險的經歷。"
+      }
+    },
+    {
+      "word": "Halcyon",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Calm, peaceful, and happy",
+      "example": "She often reminisces about the halcyon days of her youth.",
+      "chinese": {
+        "meaning": "平靜幸福的",
+        "example": "她常常回憶自己年輕時的平靜幸福的日子。"
+      }
+    },
+    {
+      "word": "Half",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Consisting of one of two equal parts",
+      "example": "He drank half a cup of coffee.",
+      "chinese": {
+        "meaning": "一半的",
+        "example": "他喝了半杯咖啡。"
+      }
+    },
+    {
+      "word": "Halfhearted",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Showing little enthusiasm or effort",
+      "example": "She made a halfhearted attempt to clean the room.",
+      "chinese": {
+        "meaning": "不熱心的",
+        "example": "她不太熱心地試著打掃房間。"
+      }
+    },
+    {
+      "word": "Hallowed",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Regarded as holy or sacred",
+      "example": "They visited the hallowed grounds of the ancient temple.",
+      "chinese": {
+        "meaning": "神聖的",
+        "example": "他們參觀了古廟的神聖土地。"
+      }
+    },
+    {
+      "word": "Halting",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Slow and hesitant, especially in speech",
+      "example": "He gave a halting explanation of the incident.",
+      "chinese": {
+        "meaning": "結結巴巴的",
+        "example": "他結結巴巴地解釋了事件的經過。"
+      }
+    },
+    {
+      "word": "Handmade",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Made by hand rather than by machine",
+      "example": "She bought a handmade necklace.",
+      "chinese": {
+        "meaning": "手工製作的",
+        "example": "她買了一條手工製作的項鍊。"
+      }
+    },
+    {
       "word": "Handsome",
       "type": "adjective",
       "letter": "H",
@@ -42,6 +130,28 @@
       "chinese": {
         "meaning": "方便的",
         "example": "這個工具修理東西時很方便。"
+      }
+    },
+    {
+      "word": "Hanging",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Suspended from above",
+      "example": "There was a hanging light over the table.",
+      "chinese": {
+        "meaning": "懸掛的",
+        "example": "桌子上方懸掛著一盞燈。"
+      }
+    },
+    {
+      "word": "Hapless",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Unfortunate and unlucky",
+      "example": "The hapless travelers missed their flight.",
+      "chinese": {
+        "meaning": "不幸的",
+        "example": "那些不幸的旅客錯過了航班。"
       }
     },
     {
@@ -67,6 +177,50 @@
       }
     },
     {
+      "word": "Hard-fought",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Won or achieved with great effort",
+      "example": "It was a hard-fought victory for the team.",
+      "chinese": {
+        "meaning": "來之不易的",
+        "example": "這是球隊來之不易的勝利。"
+      }
+    },
+    {
+      "word": "Hard-hitting",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Direct and forceful, often in criticism",
+      "example": "The journalist wrote a hard-hitting article about corruption.",
+      "chinese": {
+        "meaning": "犀利的",
+        "example": "那位記者寫了一篇犀利的反腐文章。"
+      }
+    },
+    {
+      "word": "Hard-nosed",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Tough, practical, and determined",
+      "example": "She is a hard-nosed negotiator.",
+      "chinese": {
+        "meaning": "強硬的",
+        "example": "她是一個強硬的談判專家。"
+      }
+    },
+    {
+      "word": "Hardened",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Toughened or unfeeling due to experience",
+      "example": "He was a hardened criminal with no remorse.",
+      "chinese": {
+        "meaning": "冷酷的；硬化的",
+        "example": "他是一個冷酷無情的罪犯。"
+      }
+    },
+    {
       "word": "Hardworking",
       "type": "adjective",
       "letter": "H",
@@ -78,6 +232,28 @@
       }
     },
     {
+      "word": "Hardy",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Capable of enduring difficult conditions",
+      "example": "These plants are hardy and survive the winter easily.",
+      "chinese": {
+        "meaning": "耐寒的；堅強的",
+        "example": "這些植物耐寒，能輕鬆度過冬天。"
+      }
+    },
+    {
+      "word": "Harmful",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Causing damage or injury",
+      "example": "Smoking is harmful to your health.",
+      "chinese": {
+        "meaning": "有害的",
+        "example": "吸煙對健康有害。"
+      }
+    },
+    {
       "word": "Harmless",
       "type": "adjective",
       "letter": "H",
@@ -86,6 +262,28 @@
       "chinese": {
         "meaning": "無害的",
         "example": "這種蜘蛛對人類無害。"
+      }
+    },
+    {
+      "word": "Harmonic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to harmony in music or sound",
+      "example": "The band achieved a harmonic blend of voices.",
+      "chinese": {
+        "meaning": "和聲的",
+        "example": "樂隊達到了聲音的和諧融合。"
+      }
+    },
+    {
+      "word": "Harmonious",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Forming a pleasing or consistent whole",
+      "example": "They lived in a harmonious community.",
+      "chinese": {
+        "meaning": "和諧的",
+        "example": "他們生活在一個和諧的社區。"
       }
     },
     {
@@ -111,6 +309,39 @@
       }
     },
     {
+      "word": "Hateful",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Arousing hate or intense dislike",
+      "example": "He made a hateful remark.",
+      "chinese": {
+        "meaning": "可恨的",
+        "example": "他說了一句可恨的話。"
+      }
+    },
+    {
+      "word": "Haughty",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Arrogantly superior and disdainful",
+      "example": "She gave him a haughty look.",
+      "chinese": {
+        "meaning": "傲慢的",
+        "example": "她傲慢地看了他一眼。"
+      }
+    },
+    {
+      "word": "Haunted",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Frequented by ghosts; disturbed or worried",
+      "example": "He looked haunted after the accident.",
+      "chinese": {
+        "meaning": "鬧鬼的；心神不寧的",
+        "example": "事故後，他看起來心神不寧。"
+      }
+    },
+    {
       "word": "Haunting",
       "type": "adjective",
       "letter": "H",
@@ -119,6 +350,17 @@
       "chinese": {
         "meaning": "難以忘懷的",
         "example": "那首旋律令人難以忘懷。"
+      }
+    },
+    {
+      "word": "Hawkish",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Favoring an aggressive or warlike policy",
+      "example": "The senator is known for his hawkish views on foreign policy.",
+      "chinese": {
+        "meaning": "鷹派的",
+        "example": "這位參議員以對外交政策的鷹派立場而聞名。"
       }
     },
     {
@@ -133,6 +375,39 @@
       }
     },
     {
+      "word": "Hazy",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Slightly obscure or unclear",
+      "example": "The memory of that day is hazy.",
+      "chinese": {
+        "meaning": "模糊的；有霧的",
+        "example": "對那天的記憶很模糊。"
+      }
+    },
+    {
+      "word": "Headlong",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Done quickly and without thought",
+      "example": "He made a headlong decision to quit his job.",
+      "chinese": {
+        "meaning": "魯莽的",
+        "example": "他魯莽地決定辭職。"
+      }
+    },
+    {
+      "word": "Headstrong",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Stubborn and determined to do as one pleases",
+      "example": "She is a headstrong young woman.",
+      "chinese": {
+        "meaning": "固執的",
+        "example": "她是一個固執的年輕女子。"
+      }
+    },
+    {
       "word": "Healthy",
       "type": "adjective",
       "letter": "H",
@@ -141,6 +416,28 @@
       "chinese": {
         "meaning": "健康的",
         "example": "她保持健康的飲食習慣。"
+      }
+    },
+    {
+      "word": "Heartbreaking",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Causing overwhelming sadness",
+      "example": "It was a heartbreaking story about loss.",
+      "chinese": {
+        "meaning": "令人心碎的",
+        "example": "那是一個關於失去的令人心碎的故事。"
+      }
+    },
+    {
+      "word": "Heartened",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Encouraged or reassured",
+      "example": "She was heartened by the positive feedback.",
+      "chinese": {
+        "meaning": "振奮的",
+        "example": "積極的反饋使她感到振奮。"
       }
     },
     {
@@ -166,6 +463,28 @@
       }
     },
     {
+      "word": "Heartrending",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Causing great sadness or distress",
+      "example": "The heartrending images moved everyone to tears.",
+      "chinese": {
+        "meaning": "令人心碎的",
+        "example": "那些令人心碎的畫面讓所有人都流下了眼淚。"
+      }
+    },
+    {
+      "word": "Hearty",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Warm and enthusiastic; substantial (for food)",
+      "example": "We enjoyed a hearty meal after the hike.",
+      "chinese": {
+        "meaning": "熱情的；豐盛的",
+        "example": "徒步後我們享用了一頓豐盛的餐點。"
+      }
+    },
+    {
       "word": "Heated",
       "type": "adjective",
       "letter": "H",
@@ -177,6 +496,28 @@
       }
     },
     {
+      "word": "Heathen",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to people who do not follow a major religion",
+      "example": "They were considered heathen by the missionaries.",
+      "chinese": {
+        "meaning": "異教徒的",
+        "example": "傳教士認為他們是異教徒。"
+      }
+    },
+    {
+      "word": "Heavenly",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to heaven; extremely pleasant",
+      "example": "The dessert was simply heavenly.",
+      "chinese": {
+        "meaning": "天堂般的；極好的",
+        "example": "這道甜點簡直是天堂般的美味。"
+      }
+    },
+    {
       "word": "Heavy",
       "type": "adjective",
       "letter": "H",
@@ -185,6 +526,127 @@
       "chinese": {
         "meaning": "沉重的",
         "example": "這個箱子太沉了，搬不動。"
+      }
+    },
+    {
+      "word": "Heavy-duty",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Designed for heavy or tough use",
+      "example": "We need a heavy-duty truck for this job.",
+      "chinese": {
+        "meaning": "重型的；耐用的",
+        "example": "我們需要一輛重型卡車來做這項工作。"
+      }
+    },
+    {
+      "word": "Heavy-handed",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Clumsy and oppressive in dealing with a situation",
+      "example": "The manager's heavy-handed approach upset the staff.",
+      "chinese": {
+        "meaning": "笨拙的；高壓的",
+        "example": "經理的高壓手段讓員工不滿。"
+      }
+    },
+    {
+      "word": "Heavyweight",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Having great influence or importance",
+      "example": "He is a heavyweight figure in politics.",
+      "chinese": {
+        "meaning": "有影響力的",
+        "example": "他是政壇上的重要人物。"
+      }
+    },
+    {
+      "word": "Hectic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Full of intense activity or confusion",
+      "example": "She had a hectic schedule all week.",
+      "chinese": {
+        "meaning": "忙碌的",
+        "example": "她整週行程都很忙碌。"
+      }
+    },
+    {
+      "word": "Hedged",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Protected or limited by conditions or restrictions",
+      "example": "His promise was hedged with many conditions.",
+      "chinese": {
+        "meaning": "有限制的；有保護的",
+        "example": "他的承諾附帶許多條件。"
+      }
+    },
+    {
+      "word": "Hedonistic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Pursuing pleasure as a way of life",
+      "example": "He leads a hedonistic lifestyle, seeking enjoyment constantly.",
+      "chinese": {
+        "meaning": "享樂主義的",
+        "example": "他過著不斷追求享樂的生活方式。"
+      }
+    },
+    {
+      "word": "Hefty",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Large and heavy; substantial",
+      "example": "She paid a hefty fine for the parking violation.",
+      "chinese": {
+        "meaning": "沉重的；大量的",
+        "example": "她為違規停車支付了高額罰款。"
+      }
+    },
+    {
+      "word": "Heightened",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Increased or intensified",
+      "example": "The tension in the room was heightened after the argument.",
+      "chinese": {
+        "meaning": "加強的；提高的",
+        "example": "爭吵後房間裡的緊張氣氛加劇了。"
+      }
+    },
+    {
+      "word": "Heinous",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Extremely wicked or hateful",
+      "example": "The crime was described as heinous by the media.",
+      "chinese": {
+        "meaning": "極其惡劣的",
+        "example": "媒體稱這起犯罪為極其惡劣的行為。"
+      }
+    },
+    {
+      "word": "Hellenic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to ancient Greek culture or language",
+      "example": "The museum features Hellenic art from classical times.",
+      "chinese": {
+        "meaning": "希臘的",
+        "example": "博物館展出古典時期的希臘藝術品。"
+      }
+    },
+    {
+      "word": "Hellenistic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to the period of Greek history after Alexander the Great",
+      "example": "Hellenistic architecture shows a mix of Greek and Eastern influences.",
+      "chinese": {
+        "meaning": "希臘化的",
+        "example": "希臘化建築融合了希臘和東方風格。"
       }
     },
     {
@@ -210,6 +672,28 @@
       }
     },
     {
+      "word": "Hereditary",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Passed down from parents to offspring by genetics",
+      "example": "She has a hereditary disease that runs in the family.",
+      "chinese": {
+        "meaning": "遺傳的",
+        "example": "她有家族遺傳病。"
+      }
+    },
+    {
+      "word": "Heretical",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Holding opinions contrary to established religious beliefs",
+      "example": "His ideas were considered heretical by the church.",
+      "chinese": {
+        "meaning": "異端的",
+        "example": "他的觀點被教會認為是異端。"
+      }
+    },
+    {
       "word": "Heroic",
       "type": "adjective",
       "letter": "H",
@@ -218,6 +702,17 @@
       "chinese": {
         "meaning": "英勇的",
         "example": "消防員進行了英勇的救援。"
+      }
+    },
+    {
+      "word": "Hesitant",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Unsure or slow in acting or speaking",
+      "example": "She was hesitant to accept the offer.",
+      "chinese": {
+        "meaning": "猶豫的",
+        "example": "她猶豫是否接受這個提議。"
       }
     },
     {
@@ -232,6 +727,17 @@
       }
     },
     {
+      "word": "Hideous",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Extremely ugly or unpleasant",
+      "example": "The building was considered hideous by many.",
+      "chinese": {
+        "meaning": "醜陋的",
+        "example": "這棟建築被許多人認為很醜陋。"
+      }
+    },
+    {
       "word": "High",
       "type": "adjective",
       "letter": "H",
@@ -240,6 +746,94 @@
       "chinese": {
         "meaning": "高的",
         "example": "那座山很高。"
+      }
+    },
+    {
+      "word": "High-flown",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Pompous or extravagant in speech or style",
+      "example": "His speech was filled with high-flown rhetoric.",
+      "chinese": {
+        "meaning": "誇張的",
+        "example": "他的演講充滿了誇張的修辭。"
+      }
+    },
+    {
+      "word": "High-minded",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Having high moral standards or ideals",
+      "example": "She is known for her high-minded principles.",
+      "chinese": {
+        "meaning": "崇高的",
+        "example": "她以崇高的原則聞名。"
+      }
+    },
+    {
+      "word": "High-pitched",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Having a high frequency or tone",
+      "example": "The bird’s call was high-pitched and sharp.",
+      "chinese": {
+        "meaning": "高音調的",
+        "example": "那隻鳥的叫聲高而尖銳。"
+      }
+    },
+    {
+      "word": "High-profile",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Attracting a lot of attention or publicity",
+      "example": "The company faced a high-profile lawsuit.",
+      "chinese": {
+        "meaning": "備受矚目的",
+        "example": "該公司面臨一場備受矚目的訴訟。"
+      }
+    },
+    {
+      "word": "High-ranking",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Having a high position in an organization",
+      "example": "He is a high-ranking officer in the army.",
+      "chinese": {
+        "meaning": "高級的",
+        "example": "他是軍隊中的高級軍官。"
+      }
+    },
+    {
+      "word": "High-spirited",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Full of energy and enthusiasm",
+      "example": "The children were high-spirited and playful.",
+      "chinese": {
+        "meaning": "精神旺盛的",
+        "example": "孩子們精神旺盛，愛玩耍。"
+      }
+    },
+    {
+      "word": "Highbrow",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Intellectual or rarefied in taste or culture",
+      "example": "They enjoyed highbrow literature and art.",
+      "chinese": {
+        "meaning": "高雅的",
+        "example": "他們喜歡高雅的文學和藝術。"
+      }
+    },
+    {
+      "word": "Higher",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "More elevated or greater in position or amount",
+      "example": "He earned a higher salary than before.",
+      "chinese": {
+        "meaning": "更高的",
+        "example": "他的薪水比以前更高了。"
       }
     },
     {
@@ -254,6 +848,39 @@
       }
     },
     {
+      "word": "Hilly",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Having many hills",
+      "example": "The region is hilly and scenic.",
+      "chinese": {
+        "meaning": "多丘陵的",
+        "example": "該地區多丘陵且風景優美。"
+      }
+    },
+    {
+      "word": "Hindered",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Obstructed or delayed",
+      "example": "Their progress was hindered by bad weather.",
+      "chinese": {
+        "meaning": "受阻的",
+        "example": "他們的進展因天氣不好而受阻。"
+      }
+    },
+    {
+      "word": "Hispanic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to Spanish-speaking countries or cultures",
+      "example": "The city has a large Hispanic population.",
+      "chinese": {
+        "meaning": "西班牙語系的",
+        "example": "該市有大量的西班牙裔人口。"
+      }
+    },
+    {
       "word": "Historic",
       "type": "adjective",
       "letter": "H",
@@ -262,6 +889,72 @@
       "chinese": {
         "meaning": "歷史性的",
         "example": "他們參觀了一個歷史性地點。"
+      }
+    },
+    {
+      "word": "Historical",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Related to history or past events",
+      "example": "They visited a historical museum.",
+      "chinese": {
+        "meaning": "歷史的",
+        "example": "他們參觀了一個歷史博物館。"
+      }
+    },
+    {
+      "word": "Hoarse",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Having a rough or harsh voice",
+      "example": "After shouting, his voice became hoarse.",
+      "chinese": {
+        "meaning": "嘶啞的",
+        "example": "喊叫後，他的聲音變得嘶啞。"
+      }
+    },
+    {
+      "word": "Hoary",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Gray or white with age; very old",
+      "example": "The hoary tree had stood there for centuries.",
+      "chinese": {
+        "meaning": "年老的；灰白的",
+        "example": "那棵年老的樹已經屹立了幾個世紀。"
+      }
+    },
+    {
+      "word": "Holistic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Considering the whole rather than just parts",
+      "example": "They took a holistic approach to health care.",
+      "chinese": {
+        "meaning": "整體的",
+        "example": "他們採取了整體的醫療方法。"
+      }
+    },
+    {
+      "word": "Hollow",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Having a space or cavity inside",
+      "example": "The tree trunk was hollow.",
+      "chinese": {
+        "meaning": "中空的",
+        "example": "樹幹是中空的。"
+      }
+    },
+    {
+      "word": "Holy",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Sacred or connected with God or religion",
+      "example": "They visited a holy shrine.",
+      "chinese": {
+        "meaning": "神聖的",
+        "example": "他們參觀了一個神聖的聖地。"
       }
     },
     {
@@ -276,6 +969,50 @@
       }
     },
     {
+      "word": "Homely",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Plain or unattractive in appearance; comfortable and simple",
+      "example": "She prefers homely clothes for everyday wear.",
+      "chinese": {
+        "meaning": "樸素的；家常的",
+        "example": "她喜歡穿樸素的日常服裝。"
+      }
+    },
+    {
+      "word": "Homemade",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Made at home rather than bought",
+      "example": "They enjoyed homemade cookies.",
+      "chinese": {
+        "meaning": "自製的",
+        "example": "他們享用了自製的餅乾。"
+      }
+    },
+    {
+      "word": "Homeric",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to Homer or his epic poems; epic in scale or character",
+      "example": "The battle scenes were described as Homeric in their grandeur.",
+      "chinese": {
+        "meaning": "荷馬（作品）風格的；史詩般的",
+        "example": "戰鬥場面被形容為史詩般的壯觀。"
+      }
+    },
+    {
+      "word": "Homicidal",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to or tending toward killing another person",
+      "example": "The suspect showed homicidal tendencies.",
+      "chinese": {
+        "meaning": "殺人的；有殺人傾向的",
+        "example": "嫌疑人表現出殺人傾向。"
+      }
+    },
+    {
       "word": "Homogeneous",
       "type": "adjective",
       "letter": "H",
@@ -284,6 +1021,28 @@
       "chinese": {
         "meaning": "同質的",
         "example": "這個班級的能力並不一致。"
+      }
+    },
+    {
+      "word": "Homogenous",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Uniform in structure or composition; made up of similar parts",
+      "example": "The population in the town is fairly homogenous.",
+      "chinese": {
+        "meaning": "均質的；同類的",
+        "example": "該鎮的人口相當均質。"
+      }
+    },
+    {
+      "word": "Homologous",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Having the same relation, relative position, or structure",
+      "example": "The scientist studied homologous chromosomes.",
+      "chinese": {
+        "meaning": "同源的；相應的",
+        "example": "科學家研究同源染色體。"
       }
     },
     {
@@ -306,6 +1065,39 @@
       "chinese": {
         "meaning": "值得尊敬的",
         "example": "她做了一個值得尊敬的決定。"
+      }
+    },
+    {
+      "word": "Honorary",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Given as an honor without the usual requirements or functions",
+      "example": "He received an honorary degree from the university.",
+      "chinese": {
+        "meaning": "榮譽的",
+        "example": "他獲得了大學頒發的榮譽學位。"
+      }
+    },
+    {
+      "word": "Honored",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Regarded with respect or esteem",
+      "example": "She was an honored guest at the ceremony.",
+      "chinese": {
+        "meaning": "受尊敬的",
+        "example": "她是典禮上的尊貴嘉賓。"
+      }
+    },
+    {
+      "word": "Hooked",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Addicted or strongly attracted to something",
+      "example": "She got hooked on the new TV series.",
+      "chinese": {
+        "meaning": "著迷的；上癮的",
+        "example": "她迷上了這部新電視劇。"
       }
     },
     {
@@ -342,6 +1134,28 @@
       }
     },
     {
+      "word": "Hormonal",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to hormones or hormone activity",
+      "example": "Hormonal changes can affect mood.",
+      "chinese": {
+        "meaning": "荷爾蒙的",
+        "example": "荷爾蒙變化會影響情緒。"
+      }
+    },
+    {
+      "word": "Horrendous",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Extremely bad or unpleasant",
+      "example": "The accident caused horrendous damage.",
+      "chinese": {
+        "meaning": "可怕的；極壞的",
+        "example": "事故造成了嚴重的損害。"
+      }
+    },
+    {
       "word": "Horrible",
       "type": "adjective",
       "letter": "H",
@@ -350,6 +1164,28 @@
       "chinese": {
         "meaning": "可怕的",
         "example": "這部電影的結局很可怕。"
+      }
+    },
+    {
+      "word": "Horrific",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Causing horror or shock",
+      "example": "They witnessed a horrific scene after the fire.",
+      "chinese": {
+        "meaning": "駭人的",
+        "example": "他們目睹了火災後駭人的景象。"
+      }
+    },
+    {
+      "word": "Horrified",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Filled with horror or shock",
+      "example": "She was horrified by the news.",
+      "chinese": {
+        "meaning": "感到恐懼的",
+        "example": "她對消息感到恐懼。"
       }
     },
     {
@@ -386,6 +1222,72 @@
       }
     },
     {
+      "word": "Hot-headed",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Quick to anger; impulsive",
+      "example": "He has a hot-headed nature and often argues.",
+      "chinese": {
+        "meaning": "易怒的",
+        "example": "他性格急躁，常常爭吵。"
+      }
+    },
+    {
+      "word": "Hounded",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Persistently pursued or harassed",
+      "example": "The celebrity was hounded by the media.",
+      "chinese": {
+        "meaning": "被追趕的；被騷擾的",
+        "example": "那位名人被媒體緊追不放。"
+      }
+    },
+    {
+      "word": "Hourlong",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Lasting for one hour",
+      "example": "They watched an hourlong documentary.",
+      "chinese": {
+        "meaning": "一小時長的",
+        "example": "他們觀看了一部一小時長的紀錄片。"
+      }
+    },
+    {
+      "word": "Hourly",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Occurring every hour",
+      "example": "There are hourly bus services to the city.",
+      "chinese": {
+        "meaning": "每小時的",
+        "example": "有每小時往返市區的公車。"
+      }
+    },
+    {
+      "word": "Hovering",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Staying in one place in the air",
+      "example": "The helicopter was hovering above the building.",
+      "chinese": {
+        "meaning": "盤旋的",
+        "example": "直升機在建築物上方盤旋。"
+      }
+    },
+    {
+      "word": "Hubristic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Excessively proud or arrogant",
+      "example": "His hubristic attitude led to his downfall.",
+      "chinese": {
+        "meaning": "傲慢的",
+        "example": "他的傲慢態度導致了失敗。"
+      }
+    },
+    {
       "word": "Huge",
       "type": "adjective",
       "letter": "H",
@@ -419,6 +1321,17 @@
       }
     },
     {
+      "word": "Humanitarian",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Concerned with promoting human welfare",
+      "example": "They launched a humanitarian aid mission.",
+      "chinese": {
+        "meaning": "人道主義的",
+        "example": "他們發起了一項人道主義援助行動。"
+      }
+    },
+    {
       "word": "Humble",
       "type": "adjective",
       "letter": "H",
@@ -430,6 +1343,17 @@
       }
     },
     {
+      "word": "Humdrum",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Lacking excitement or variety; dull",
+      "example": "He found his daily routine humdrum and boring.",
+      "chinese": {
+        "meaning": "單調乏味的",
+        "example": "他覺得日常生活單調乏味。"
+      }
+    },
+    {
       "word": "Humid",
       "type": "adjective",
       "letter": "H",
@@ -438,6 +1362,28 @@
       "chinese": {
         "meaning": "潮濕的",
         "example": "天氣又熱又潮濕。"
+      }
+    },
+    {
+      "word": "Humiliated",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Feeling ashamed or embarrassed",
+      "example": "She felt humiliated after the mistake.",
+      "chinese": {
+        "meaning": "感到羞辱的",
+        "example": "她犯錯後感到羞辱。"
+      }
+    },
+    {
+      "word": "Humiliating",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Causing someone to feel ashamed or embarrassed",
+      "example": "It was a humiliating experience for him.",
+      "chinese": {
+        "meaning": "令人羞辱的",
+        "example": "那對他來說是一次令人羞辱的經歷。"
       }
     },
     {
@@ -463,6 +1409,17 @@
       }
     },
     {
+      "word": "Hurried",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Done in a quick or rushed manner",
+      "example": "He gave a hurried explanation before leaving.",
+      "chinese": {
+        "meaning": "匆忙的",
+        "example": "他匆忙解釋後離開了。"
+      }
+    },
+    {
       "word": "Hurtful",
       "type": "adjective",
       "letter": "H",
@@ -474,6 +1431,61 @@
       }
     },
     {
+      "word": "Husky",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Having a deep, rough voice",
+      "example": "He spoke in a husky tone.",
+      "chinese": {
+        "meaning": "聲音沙啞的",
+        "example": "他用沙啞的語調說話。"
+      }
+    },
+    {
+      "word": "Hydrated",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Having absorbed water",
+      "example": "The athlete stayed hydrated during the game.",
+      "chinese": {
+        "meaning": "補充水分的",
+        "example": "運動員在比賽中保持補水。"
+      }
+    },
+    {
+      "word": "Hydraulic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Operated by the pressure of water or other liquids",
+      "example": "The machine uses a hydraulic system.",
+      "chinese": {
+        "meaning": "液壓的",
+        "example": "這台機器使用液壓系統。"
+      }
+    },
+    {
+      "word": "Hydrodynamic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to the motion of liquids",
+      "example": "The boat has a hydrodynamic design for better speed.",
+      "chinese": {
+        "meaning": "流體動力學的",
+        "example": "這艘船有流體動力設計以提高速度。"
+      }
+    },
+    {
+      "word": "Hydrological",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to the study of water movement and distribution",
+      "example": "Hydrological data helps in flood prediction.",
+      "chinese": {
+        "meaning": "水文的",
+        "example": "水文數據有助於洪水預測。"
+      }
+    },
+    {
       "word": "Hyperactive",
       "type": "adjective",
       "letter": "H",
@@ -482,6 +1494,50 @@
       "chinese": {
         "meaning": "過度活躍的",
         "example": "那個孩子在課堂上過度活躍。"
+      }
+    },
+    {
+      "word": "Hyperbolic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Exaggerated or overstated",
+      "example": "His claims were hyperbolic and unrealistic.",
+      "chinese": {
+        "meaning": "誇張的",
+        "example": "他的說法誇張且不切實際。"
+      }
+    },
+    {
+      "word": "Hypercritical",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Excessively critical or judgmental",
+      "example": "She is hypercritical of every minor mistake.",
+      "chinese": {
+        "meaning": "過於苛刻的",
+        "example": "她對每個小錯誤都過於苛刻。"
+      }
+    },
+    {
+      "word": "Hypersensitive",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Excessively sensitive or easily hurt",
+      "example": "He is hypersensitive to criticism.",
+      "chinese": {
+        "meaning": "過度敏感的",
+        "example": "他對批評過度敏感。"
+      }
+    },
+    {
+      "word": "Hypersonic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to speeds greater than five times the speed of sound",
+      "example": "The jet is capable of hypersonic travel.",
+      "chinese": {
+        "meaning": "超音速的",
+        "example": "這架噴氣式飛機能夠進行超音速飛行。"
       }
     },
     {
@@ -504,6 +1560,28 @@
       "chinese": {
         "meaning": "虛偽的",
         "example": "他批評別人很虛偽。"
+      }
+    },
+    {
+      "word": "Hypodermic",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Relating to the region immediately beneath the skin",
+      "example": "He received a hypodermic injection.",
+      "chinese": {
+        "meaning": "皮下注射的",
+        "example": "他接受了皮下注射。"
+      }
+    },
+    {
+      "word": "Hypothetical",
+      "type": "adjective",
+      "letter": "H",
+      "meaning": "Based on a suggested idea or theory rather than facts",
+      "example": "They discussed a hypothetical scenario.",
+      "chinese": {
+        "meaning": "假設的",
+        "example": "他們討論了一個假設性的情境。"
       }
     },
     {

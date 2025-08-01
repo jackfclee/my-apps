@@ -1,6 +1,26 @@
 {
   "words": [
     {
+      "word": "Daft",
+      "type": "adjective",
+      "meaning": "Silly, foolish, or crazy",
+      "example": "It was a daft idea to go out in the storm.",
+      "chinese": {
+        "meaning": "愚蠢的，瘋狂的",
+        "example": "在暴風雨中外出是個愚蠢的想法。"
+      }
+    },
+    {
+      "word": "Daily",
+      "type": "adjective",
+      "meaning": "Happening or done every day",
+      "example": "She follows a daily routine of exercise.",
+      "chinese": {
+        "meaning": "每日的",
+        "example": "她每天都按固定的作息鍛煉。"
+      }
+    },
+    {
       "word": "Dainty",
       "type": "adjective",
       "letter": "D",
@@ -9,6 +29,16 @@
       "chinese": {
         "meaning": "精緻的；嬌小的",
         "example": "她戴著一條精緻的銀項鍊。"
+      }
+    },
+    {
+      "word": "Damaged",
+      "type": "adjective",
+      "meaning": "Harmed or injured",
+      "example": "The damaged car was taken to the garage.",
+      "chinese": {
+        "meaning": "受損的",
+        "example": "受損的汽車被送到車庫維修。"
       }
     },
     {
@@ -23,6 +53,26 @@
       }
     },
     {
+      "word": "Damnable",
+      "type": "adjective",
+      "meaning": "Deserving strong condemnation; extremely bad or unpleasant",
+      "example": "They were stuck in this damnable weather for hours.",
+      "chinese": {
+        "meaning": "可惡的，該死的",
+        "example": "他們在這該死的天氣裡困了好幾個小時。"
+      }
+    },
+    {
+      "word": "Damned",
+      "type": "adjective",
+      "meaning": "Condemned or cursed; extremely",
+      "example": "He was a damned fool to trust them.",
+      "chinese": {
+        "meaning": "被詛咒的，非常",
+        "example": "他相信他們真是個大傻瓜。"
+      }
+    },
+    {
       "word": "Damp",
       "type": "adjective",
       "letter": "D",
@@ -31,6 +81,26 @@
       "chinese": {
         "meaning": "潮濕的",
         "example": "衣服曬完後還是有點潮濕。"
+      }
+    },
+    {
+      "word": "Dangerous",
+      "type": "adjective",
+      "meaning": "Likely to cause harm or injury",
+      "example": "The road is dangerous at night.",
+      "chinese": {
+        "meaning": "危險的",
+        "example": "這條路晚上很危險。"
+      }
+    },
+    {
+      "word": "Dapper",
+      "type": "adjective",
+      "meaning": "Neat and trim in appearance",
+      "example": "He looked very dapper in his new suit.",
+      "chinese": {
+        "meaning": "整潔漂亮的",
+        "example": "他穿著新西裝看起來非常精神。"
       }
     },
     {
@@ -56,6 +126,26 @@
       }
     },
     {
+      "word": "Darkened",
+      "type": "adjective",
+      "meaning": "Made or became dark",
+      "example": "The room was darkened to watch the movie.",
+      "chinese": {
+        "meaning": "變暗的",
+        "example": "房間被弄暗以便看電影。"
+      }
+    },
+    {
+      "word": "Darling",
+      "type": "adjective",
+      "meaning": "Dearly loved or cherished",
+      "example": "She is his darling daughter.",
+      "chinese": {
+        "meaning": "心愛的",
+        "example": "她是他心愛的女兒。"
+      }
+    },
+    {
       "word": "Dashing",
       "type": "adjective",
       "letter": "D",
@@ -64,6 +154,16 @@
       "chinese": {
         "meaning": "瀟灑的；有型的",
         "example": "他穿著新西裝顯得非常瀟灑。"
+      }
+    },
+    {
+      "word": "Dated",
+      "type": "adjective",
+      "meaning": "Old-fashioned or no longer in style",
+      "example": "The decor in the house looks dated.",
+      "chinese": {
+        "meaning": "過時的",
+        "example": "房子裡的裝飾看起來過時了。"
       }
     },
     {
@@ -78,6 +178,26 @@
       }
     },
     {
+      "word": "Dauntless",
+      "type": "adjective",
+      "meaning": "Showing fearlessness and determination",
+      "example": "She was dauntless in the face of danger.",
+      "chinese": {
+        "meaning": "無畏的",
+        "example": "她在危險面前無所畏懼。"
+      }
+    },
+    {
+      "word": "Dazed",
+      "type": "adjective",
+      "meaning": "Unable to think or react properly; confused",
+      "example": "He looked dazed after the accident.",
+      "chinese": {
+        "meaning": "茫然的",
+        "example": "事故後他看起來一臉茫然。"
+      }
+    },
+    {
       "word": "Dazzling",
       "type": "adjective",
       "letter": "D",
@@ -89,6 +209,16 @@
       }
     },
     {
+      "word": "Dead",
+      "type": "adjective",
+      "meaning": "No longer alive",
+      "example": "The plant is completely dead.",
+      "chinese": {
+        "meaning": "死的",
+        "example": "那株植物完全死了。"
+      }
+    },
+    {
       "word": "Deadly",
       "type": "adjective",
       "letter": "D",
@@ -97,6 +227,16 @@
       "chinese": {
         "meaning": "致命的",
         "example": "這種病毒對人口造成致命影響。"
+      }
+    },
+    {
+      "word": "Deaf",
+      "type": "adjective",
+      "meaning": "Unable to hear",
+      "example": "She has been deaf since birth.",
+      "chinese": {
+        "meaning": "聾的",
+        "example": "她自出生以來就聾了。"
       }
     },
     {
@@ -122,6 +262,26 @@
       }
     },
     {
+      "word": "Deathly",
+      "type": "adjective",
+      "meaning": "Suggestive of death; extremely",
+      "example": "There was a deathly silence in the room.",
+      "chinese": {
+        "meaning": "死一般的，非常",
+        "example": "房間裡一片死寂。"
+      }
+    },
+    {
+      "word": "Debased",
+      "type": "adjective",
+      "meaning": "Reduced in quality or value",
+      "example": "The currency was debased by inflation.",
+      "chinese": {
+        "meaning": "貶值的，品質低下的",
+        "example": "貨幣因通脹而貶值。"
+      }
+    },
+    {
       "word": "Debatable",
       "type": "adjective",
       "letter": "D",
@@ -133,6 +293,46 @@
       }
     },
     {
+      "word": "Debilitated",
+      "type": "adjective",
+      "meaning": "Weakened or feeble",
+      "example": "She felt debilitated after the illness.",
+      "chinese": {
+        "meaning": "虛弱的",
+        "example": "她病後感覺非常虛弱。"
+      }
+    },
+    {
+      "word": "Decadent",
+      "type": "adjective",
+      "meaning": "Characterized by moral or cultural decline; luxurious",
+      "example": "The party was filled with decadent desserts.",
+      "chinese": {
+        "meaning": "頹廢的，奢靡的",
+        "example": "派對上擺滿了奢靡的甜點。"
+      }
+    },
+    {
+      "word": "Decaying",
+      "type": "adjective",
+      "meaning": "Rotting or decomposing",
+      "example": "The decaying leaves covered the ground.",
+      "chinese": {
+        "meaning": "腐爛的",
+        "example": "腐爛的落葉覆蓋了地面。"
+      }
+    },
+    {
+      "word": "Deceased",
+      "type": "adjective",
+      "meaning": "Dead",
+      "example": "The deceased man was honored at the funeral.",
+      "chinese": {
+        "meaning": "已故的",
+        "example": "葬禮上紀念了已故的那位男子。"
+      }
+    },
+    {
       "word": "Decent",
       "type": "adjective",
       "letter": "D",
@@ -141,6 +341,16 @@
       "chinese": {
         "meaning": "正派的；體面的",
         "example": "他來自一個體面的家庭。"
+      }
+    },
+    {
+      "word": "Decentralized",
+      "type": "adjective",
+      "meaning": "Distributed away from a central authority",
+      "example": "The company adopted a decentralized management system.",
+      "chinese": {
+        "meaning": "去中心化的",
+        "example": "公司採用了去中心化的管理制度。"
       }
     },
     {
@@ -166,6 +376,26 @@
       }
     },
     {
+      "word": "Declared",
+      "type": "adjective",
+      "meaning": "Formally announced",
+      "example": "The declared winner gave a speech.",
+      "chinese": {
+        "meaning": "已宣佈的",
+        "example": "宣佈獲勝的人發表了講話。"
+      }
+    },
+    {
+      "word": "Declining",
+      "type": "adjective",
+      "meaning": "Becoming smaller, fewer, or less",
+      "example": "The declining population is a concern.",
+      "chinese": {
+        "meaning": "下降的",
+        "example": "人口下降是一個令人擔憂的問題。"
+      }
+    },
+    {
       "word": "Decorative",
       "type": "adjective",
       "letter": "D",
@@ -177,6 +407,46 @@
       }
     },
     {
+      "word": "Decorous",
+      "type": "adjective",
+      "meaning": "Polite and restrained",
+      "example": "She gave a decorous bow.",
+      "chinese": {
+        "meaning": "端莊的，得體的",
+        "example": "她恭敬地鞠了一躬。"
+      }
+    },
+    {
+      "word": "Decreased",
+      "type": "adjective",
+      "meaning": "Reduced in size, amount, or degree",
+      "example": "There is a decreased risk after vaccination.",
+      "chinese": {
+        "meaning": "減少的",
+        "example": "接種疫苗後風險降低了。"
+      }
+    },
+    {
+      "word": "Decreasing",
+      "type": "adjective",
+      "meaning": "Becoming less and less",
+      "example": "The decreasing numbers worried the manager.",
+      "chinese": {
+        "meaning": "不斷減少的",
+        "example": "數字不斷減少讓經理擔憂。"
+      }
+    },
+    {
+      "word": "Decrepit",
+      "type": "adjective",
+      "meaning": "Old and in poor condition",
+      "example": "The decrepit building was unsafe.",
+      "chinese": {
+        "meaning": "破舊的，衰老的",
+        "example": "那棟破舊的建築不安全。"
+      }
+    },
+    {
       "word": "Dedicated",
       "type": "adjective",
       "letter": "D",
@@ -185,6 +455,86 @@
       "chinese": {
         "meaning": "投入的；專注的",
         "example": "他是一位全心投入、支持學生的老師。"
+      }
+    },
+    {
+      "word": "Deductive",
+      "type": "adjective",
+      "meaning": "Using logical reasoning from general principles",
+      "example": "He used a deductive approach to solve the mystery.",
+      "chinese": {
+        "meaning": "演繹的",
+        "example": "他用演繹的方法來解決這個謎團。"
+      }
+    },
+    {
+      "word": "Deep",
+      "type": "adjective",
+      "meaning": "Extending far down or inward; intense",
+      "example": "They have a deep understanding of the subject.",
+      "chinese": {
+        "meaning": "深的，深刻的",
+        "example": "他們對這個主題有深刻的理解。"
+      }
+    },
+    {
+      "word": "Deepened",
+      "type": "adjective",
+      "meaning": "Made deeper or more intense",
+      "example": "The mystery deepened as more clues appeared.",
+      "chinese": {
+        "meaning": "加深的",
+        "example": "隨著更多線索出現，謎團加深了。"
+      }
+    },
+    {
+      "word": "Default",
+      "type": "adjective",
+      "meaning": "Preselected or automatic",
+      "example": "The default settings can be changed.",
+      "chinese": {
+        "meaning": "默認的",
+        "example": "默認設置可以更改。"
+      }
+    },
+    {
+      "word": "Defeated",
+      "type": "adjective",
+      "meaning": "Having been beaten in a contest or battle",
+      "example": "The defeated team left the field quietly.",
+      "chinese": {
+        "meaning": "被打敗的",
+        "example": "被打敗的隊伍安靜地離開了球場。"
+      }
+    },
+    {
+      "word": "Defective",
+      "type": "adjective",
+      "meaning": "Having a fault or flaw",
+      "example": "The defective product was recalled.",
+      "chinese": {
+        "meaning": "有缺陷的",
+        "example": "有缺陷的產品被召回了。"
+      }
+    },
+    {
+      "word": "Defenceless",
+      "type": "adjective",
+      "meaning": "Without protection or ability to defend oneself",
+      "example": "The defenceless animal was rescued.",
+      "chinese": {
+        "meaning": "無防禦能力的",
+        "example": "那隻沒有防禦能力的動物被救了下來。"
+      }
+    },
+    {
+      "word": "Defensible",
+      "type": "adjective",
+      "meaning": "Able to be defended or justified",
+      "example": "His actions were morally defensible.",
+      "chinese": {
+        "meaning": "可防禦的，可辯護的",
+        "example": "他的行為在道德上是可辯護的。"
       }
     },
     {
@@ -221,6 +571,16 @@
       }
     },
     {
+      "word": "Defiled",
+      "type": "adjective",
+      "meaning": "Made dirty or impure",
+      "example": "The temple was defiled by vandals.",
+      "chinese": {
+        "meaning": "玷污的",
+        "example": "寺廟被破壞者玷污了。"
+      }
+    },
+    {
       "word": "Definite",
       "type": "adjective",
       "letter": "D",
@@ -229,6 +589,96 @@
       "chinese": {
         "meaning": "明確的",
         "example": "我們明天需要一個明確的答覆。"
+      }
+    },
+    {
+      "word": "Definitive",
+      "type": "adjective",
+      "meaning": "Conclusive and authoritative",
+      "example": "This book is the definitive guide on the subject.",
+      "chinese": {
+        "meaning": "權威的，最終的",
+        "example": "這本書是該主題的權威指南。"
+      }
+    },
+    {
+      "word": "Deflated",
+      "type": "adjective",
+      "meaning": "Let down in spirit; emptied of air or gas",
+      "example": "She felt deflated after the criticism.",
+      "chinese": {
+        "meaning": "氣餒的，洩氣的",
+        "example": "受到批評後她感到很氣餒。"
+      }
+    },
+    {
+      "word": "Deformed",
+      "type": "adjective",
+      "meaning": "Misshapen or distorted",
+      "example": "The tree had a deformed trunk.",
+      "chinese": {
+        "meaning": "畸形的",
+        "example": "那棵樹的樹幹是畸形的。"
+      }
+    },
+    {
+      "word": "Deft",
+      "type": "adjective",
+      "meaning": "Skillful and quick",
+      "example": "She gave a deft response to the question.",
+      "chinese": {
+        "meaning": "靈巧的",
+        "example": "她對問題做出了靈巧的回答。"
+      }
+    },
+    {
+      "word": "Defunct",
+      "type": "adjective",
+      "meaning": "No longer existing or functioning",
+      "example": "The company is now defunct.",
+      "chinese": {
+        "meaning": "已廢止的，不復存在的",
+        "example": "這家公司已經不存在了。"
+      }
+    },
+    {
+      "word": "Degenerate",
+      "type": "adjective",
+      "meaning": "Having declined in quality or morality",
+      "example": "The degenerate behavior shocked the community.",
+      "chinese": {
+        "meaning": "墮落的，退化的",
+        "example": "這種墮落的行為震驚了社區。"
+      }
+    },
+    {
+      "word": "Degraded",
+      "type": "adjective",
+      "meaning": "Treated or regarded with contempt or disrespect",
+      "example": "He felt degraded by the unfair treatment.",
+      "chinese": {
+        "meaning": "被侮辱的，降級的",
+        "example": "他感到被不公平對待侮辱了。"
+      }
+    },
+    {
+      "word": "Dehydrated",
+      "type": "adjective",
+      "meaning": "Lacking water or moisture",
+      "example": "The patient was dehydrated after the marathon.",
+      "chinese": {
+        "meaning": "脫水的",
+        "example": "患者在馬拉松後出現了脫水。"
+      }
+    },
+    {
+      "word": "Dejected",
+      "type": "adjective",
+      "meaning": "Sad and dispirited",
+      "example": "She looked dejected after hearing the news.",
+      "chinese": {
+        "meaning": "沮喪的",
+        "example": "聽到消息後她看起來很沮喪。"
       }
     },
     {
@@ -265,6 +715,16 @@
       }
     },
     {
+      "word": "Delighted",
+      "type": "adjective",
+      "meaning": "Feeling or showing great pleasure",
+      "example": "They were delighted to see each other.",
+      "chinese": {
+        "meaning": "高興的",
+        "example": "他們見到彼此時非常高興。"
+      }
+    },
+    {
       "word": "Delightful",
       "type": "adjective",
       "letter": "D",
@@ -273,6 +733,36 @@
       "chinese": {
         "meaning": "令人愉快的",
         "example": "我們在公園度過了一個愉快的下午。"
+      }
+    },
+    {
+      "word": "Delineated",
+      "type": "adjective",
+      "meaning": "Precisely described or outlined",
+      "example": "The boundaries were clearly delineated.",
+      "chinese": {
+        "meaning": "描繪的，劃定的",
+        "example": "邊界被清楚地劃定了。"
+      }
+    },
+    {
+      "word": "Delinquent",
+      "type": "adjective",
+      "meaning": "Failing to fulfill obligations; guilty of a minor offense",
+      "example": "He was labeled a delinquent teenager.",
+      "chinese": {
+        "meaning": "失職的，違法的",
+        "example": "他被認為是個違法的青少年。"
+      }
+    },
+    {
+      "word": "Delirious",
+      "type": "adjective",
+      "meaning": "In an excited or confused state",
+      "example": "The fans were delirious with joy.",
+      "chinese": {
+        "meaning": "狂喜的，神志不清的",
+        "example": "粉絲們因喜悅而狂喜。"
       }
     },
     {
@@ -287,6 +777,116 @@
       }
     },
     {
+      "word": "Democratic",
+      "type": "adjective",
+      "meaning": "Relating to democracy or equality",
+      "example": "The country has a democratic government.",
+      "chinese": {
+        "meaning": "民主的",
+        "example": "這個國家有一個民主政府。"
+      }
+    },
+    {
+      "word": "Demonic",
+      "type": "adjective",
+      "meaning": "Resembling or characteristic of demons",
+      "example": "He had a demonic expression on his face.",
+      "chinese": {
+        "meaning": "惡魔般的",
+        "example": "他臉上露出惡魔般的表情。"
+      }
+    },
+    {
+      "word": "Demonstrable",
+      "type": "adjective",
+      "meaning": "Capable of being shown or proved",
+      "example": "There is demonstrable evidence of his guilt.",
+      "chinese": {
+        "meaning": "可證明的",
+        "example": "有可證明的證據顯示他有罪。"
+      }
+    },
+    {
+      "word": "Demonstrative",
+      "type": "adjective",
+      "meaning": "Freely expressing emotions",
+      "example": "She was very demonstrative with her affection.",
+      "chinese": {
+        "meaning": "感情流露的",
+        "example": "她非常直白地表達了她的感情。"
+      }
+    },
+    {
+      "word": "Demoralized",
+      "type": "adjective",
+      "meaning": "Having lost confidence or hope",
+      "example": "The team felt demoralized after losing.",
+      "chinese": {
+        "meaning": "士氣低落的",
+        "example": "輸掉比賽後，團隊士氣低落。"
+      }
+    },
+    {
+      "word": "Demoralizing",
+      "type": "adjective",
+      "meaning": "Causing a loss of confidence or hope",
+      "example": "The defeat was demoralizing for the players.",
+      "chinese": {
+        "meaning": "令人洩氣的",
+        "example": "這場失敗對球員來說是令人洩氣的。"
+      }
+    },
+    {
+      "word": "Demotivated",
+      "type": "adjective",
+      "meaning": "Lacking enthusiasm or drive",
+      "example": "He felt demotivated after the rejection.",
+      "chinese": {
+        "meaning": "失去動力的",
+        "example": "被拒絕後他失去了動力。"
+      }
+    },
+    {
+      "word": "Demure",
+      "type": "adjective",
+      "meaning": "Reserved, modest, and shy",
+      "example": "She gave a demure smile.",
+      "chinese": {
+        "meaning": "端莊的，矜持的",
+        "example": "她露出端莊的微笑。"
+      }
+    },
+    {
+      "word": "Denatured",
+      "type": "adjective",
+      "meaning": "Altered from its natural state",
+      "example": "The protein is denatured by heat.",
+      "chinese": {
+        "meaning": "變性的",
+        "example": "蛋白質被加熱後變性了。"
+      }
+    },
+    {
+      "word": "Dendritic",
+      "type": "adjective",
+      "meaning": "Having a branching structure like a tree",
+      "example": "The dendritic pattern was beautiful.",
+      "chinese": {
+        "meaning": "樹枝狀的",
+        "example": "這種樹枝狀的圖案非常美麗。"
+      }
+    },
+    {
+      "word": "Denied",
+      "type": "adjective",
+      "meaning": "Refused or rejected",
+      "example": "Access was denied to unauthorized persons.",
+      "chinese": {
+        "meaning": "被拒絕的",
+        "example": "未經授權的人被拒絕進入。"
+      }
+    },
+    {
       "word": "Dense",
       "type": "adjective",
       "letter": "D",
@@ -295,6 +895,26 @@
       "chinese": {
         "meaning": "密集的；濃密的",
         "example": "那片森林非常密集，難以穿越。"
+      }
+    },
+    {
+      "word": "Dented",
+      "type": "adjective",
+      "meaning": "Having a small hollow or depression",
+      "example": "The car's door was dented in the accident.",
+      "chinese": {
+        "meaning": "凹陷的",
+        "example": "汽車門在事故中凹陷了。"
+      }
+    },
+    {
+      "word": "Dependable",
+      "type": "adjective",
+      "meaning": "Reliable and trustworthy",
+      "example": "She is a dependable friend.",
+      "chinese": {
+        "meaning": "可靠的",
+        "example": "她是一位可靠的朋友。"
       }
     },
     {
@@ -309,6 +929,16 @@
       }
     },
     {
+      "word": "Depleted",
+      "type": "adjective",
+      "meaning": "Reduced in quantity or resources",
+      "example": "The energy reserves were depleted.",
+      "chinese": {
+        "meaning": "耗盡的",
+        "example": "能源儲備已經耗盡。"
+      }
+    },
+    {
       "word": "Deplorable",
       "type": "adjective",
       "letter": "D",
@@ -317,6 +947,56 @@
       "chinese": {
         "meaning": "可悲的；糟糕的",
         "example": "生活條件非常糟糕。"
+      }
+    },
+    {
+      "word": "Depopulated",
+      "type": "adjective",
+      "meaning": "Having reduced population",
+      "example": "The village was depopulated after the disaster.",
+      "chinese": {
+        "meaning": "人口減少的",
+        "example": "災難後村莊人口減少。"
+      }
+    },
+    {
+      "word": "Deported",
+      "type": "adjective",
+      "meaning": "Removed from a country",
+      "example": "The illegal workers were deported.",
+      "chinese": {
+        "meaning": "被驅逐出境的",
+        "example": "非法勞工被驅逐出境。"
+      }
+    },
+    {
+      "word": "Depraved",
+      "type": "adjective",
+      "meaning": "Morally corrupt",
+      "example": "The film depicts a depraved villain.",
+      "chinese": {
+        "meaning": "墮落的，邪惡的",
+        "example": "這部電影描繪了一個墮落的反派。"
+      }
+    },
+    {
+      "word": "Depressed",
+      "type": "adjective",
+      "meaning": "Suffering from sadness or low spirits",
+      "example": "He has been feeling depressed lately.",
+      "chinese": {
+        "meaning": "沮喪的，抑鬱的",
+        "example": "他最近感到很沮喪。"
+      }
+    },
+    {
+      "word": "Depressing",
+      "type": "adjective",
+      "meaning": "Making you feel sad",
+      "example": "The depressing news ruined his day.",
+      "chinese": {
+        "meaning": "令人沮喪的",
+        "example": "令人沮喪的消息毀了一天的好心情。"
       }
     },
     {
@@ -331,6 +1011,76 @@
       }
     },
     {
+      "word": "Depriving",
+      "type": "adjective",
+      "meaning": "Causing someone to lose something",
+      "example": "The war was depriving people of basic needs.",
+      "chinese": {
+        "meaning": "剝奪的",
+        "example": "戰爭剝奪了人們的基本需求。"
+      }
+    },
+    {
+      "word": "Deranged",
+      "type": "adjective",
+      "meaning": "Mentally disturbed or insane",
+      "example": "The deranged man was shouting in the street.",
+      "chinese": {
+        "meaning": "精神錯亂的",
+        "example": "那個精神錯亂的男子在街上大喊大叫。"
+      }
+    },
+    {
+      "word": "Deregulated",
+      "type": "adjective",
+      "meaning": "Freed from government control or rules",
+      "example": "The deregulated industry faced increased competition.",
+      "chinese": {
+        "meaning": "解除管制的",
+        "example": "該行業解除管制後面臨更多競爭。"
+      }
+    },
+    {
+      "word": "Derived",
+      "type": "adjective",
+      "meaning": "Obtained from a source or origin",
+      "example": "The medicine is derived from a plant extract.",
+      "chinese": {
+        "meaning": "源自的",
+        "example": "這種藥是從植物提取物中提取的。"
+      }
+    },
+    {
+      "word": "Derogatory",
+      "type": "adjective",
+      "meaning": "Showing a critical or disrespectful attitude",
+      "example": "He made a derogatory remark about her appearance.",
+      "chinese": {
+        "meaning": "貶低的，輕蔑的",
+        "example": "他對她的外貌發表了貶低的言論。"
+      }
+    },
+    {
+      "word": "Desalinated",
+      "type": "adjective",
+      "meaning": "Having had salt removed, especially from water",
+      "example": "Desalinated water is used in arid regions.",
+      "chinese": {
+        "meaning": "脫鹽的",
+        "example": "脫鹽水被用於乾旱地區。"
+      }
+    },
+    {
+      "word": "Descendant",
+      "type": "adjective",
+      "meaning": "Related to those who come from an ancestor",
+      "example": "He is a descendant member of the royal family.",
+      "chinese": {
+        "meaning": "後代的",
+        "example": "他是皇室後代成員。"
+      }
+    },
+    {
       "word": "Descriptive",
       "type": "adjective",
       "letter": "D",
@@ -339,6 +1089,46 @@
       "chinese": {
         "meaning": "描述性的",
         "example": "她在作文中使用了描述性的語言。"
+      }
+    },
+    {
+      "word": "Desecrated",
+      "type": "adjective",
+      "meaning": "Violated or treated with disrespect",
+      "example": "The graves were desecrated by vandals.",
+      "chinese": {
+        "meaning": "被褻瀆的",
+        "example": "墳墓被破壞者褻瀆了。"
+      }
+    },
+    {
+      "word": "Deserted",
+      "type": "adjective",
+      "meaning": "Abandoned or empty",
+      "example": "The deserted town looked eerie at night.",
+      "chinese": {
+        "meaning": "被遺棄的，空無一人的",
+        "example": "這個被遺棄的小鎮在夜晚顯得陰森恐怖。"
+      }
+    },
+    {
+      "word": "Deserving",
+      "type": "adjective",
+      "meaning": "Worthy of reward or praise",
+      "example": "She is a deserving candidate for the award.",
+      "chinese": {
+        "meaning": "值得的，應得的",
+        "example": "她是這個獎項當之無愧的候選人。"
+      }
+    },
+    {
+      "word": "Designated",
+      "type": "adjective",
+      "meaning": "Officially assigned or appointed",
+      "example": "This area is designated for smoking.",
+      "chinese": {
+        "meaning": "指定的",
+        "example": "這個區域被指定為吸煙區。"
       }
     },
     {
@@ -353,6 +1143,26 @@
       }
     },
     {
+      "word": "Desired",
+      "type": "adjective",
+      "meaning": "Wanted or wished for",
+      "example": "She finally achieved the desired result.",
+      "chinese": {
+        "meaning": "渴望的，期望的",
+        "example": "她終於達到了期望的結果。"
+      }
+    },
+    {
+      "word": "Desirous",
+      "type": "adjective",
+      "meaning": "Having or expressing a desire for something",
+      "example": "He was desirous of success.",
+      "chinese": {
+        "meaning": "渴望的",
+        "example": "他渴望成功。"
+      }
+    },
+    {
       "word": "Desolate",
       "type": "adjective",
       "letter": "D",
@@ -361,6 +1171,16 @@
       "chinese": {
         "meaning": "荒涼的",
         "example": "暴風雨過後，這個小鎮顯得很荒涼。"
+      }
+    },
+    {
+      "word": "Despairing",
+      "type": "adjective",
+      "meaning": "Showing the loss of hope",
+      "example": "She gave him a despairing look.",
+      "chinese": {
+        "meaning": "絕望的",
+        "example": "她絕望地看了他一眼。"
       }
     },
     {
@@ -375,6 +1195,76 @@
       }
     },
     {
+      "word": "Despicable",
+      "type": "adjective",
+      "meaning": "Deserving hatred or contempt",
+      "example": "Cheating in the exam was a despicable act.",
+      "chinese": {
+        "meaning": "卑鄙的",
+        "example": "考試作弊是一種卑鄙的行為。"
+      }
+    },
+    {
+      "word": "Despised",
+      "type": "adjective",
+      "meaning": "Regarded with contempt or disdain",
+      "example": "He was despised by his former colleagues.",
+      "chinese": {
+        "meaning": "被鄙視的",
+        "example": "他被以前的同事鄙視。"
+      }
+    },
+    {
+      "word": "Destined",
+      "type": "adjective",
+      "meaning": "Certain to happen or intended for a purpose",
+      "example": "She was destined for greatness.",
+      "chinese": {
+        "meaning": "註定的",
+        "example": "她注定要成就偉業。"
+      }
+    },
+    {
+      "word": "Destitute",
+      "type": "adjective",
+      "meaning": "Extremely poor; lacking basic necessities",
+      "example": "The war left many families destitute.",
+      "chinese": {
+        "meaning": "貧困的",
+        "example": "戰爭使許多家庭陷入貧困。"
+      }
+    },
+    {
+      "word": "Destroyed",
+      "type": "adjective",
+      "meaning": "Ruined or demolished",
+      "example": "The city was destroyed by the earthquake.",
+      "chinese": {
+        "meaning": "被摧毀的",
+        "example": "這座城市被地震摧毀了。"
+      }
+    },
+    {
+      "word": "Destructive",
+      "type": "adjective",
+      "meaning": "Causing great harm or damage",
+      "example": "The destructive storm caused widespread flooding.",
+      "chinese": {
+        "meaning": "破壞性的",
+        "example": "這場破壞性的風暴引發了大範圍洪水。"
+      }
+    },
+    {
+      "word": "Detachable",
+      "type": "adjective",
+      "meaning": "Able to be removed or separated",
+      "example": "The bag comes with a detachable strap.",
+      "chinese": {
+        "meaning": "可拆卸的",
+        "example": "這個包有一條可拆卸的肩帶。"
+      }
+    },
+    {
       "word": "Detailed",
       "type": "adjective",
       "letter": "D",
@@ -383,6 +1273,56 @@
       "chinese": {
         "meaning": "詳細的",
         "example": "她給出了詳細的說明。"
+      }
+    },
+    {
+      "word": "Detectable",
+      "type": "adjective",
+      "meaning": "Able to be discovered or noticed",
+      "example": "There was no detectable trace of poison.",
+      "chinese": {
+        "meaning": "可檢測的",
+        "example": "沒有檢測到任何毒藥的痕跡。"
+      }
+    },
+    {
+      "word": "Deteriorated",
+      "type": "adjective",
+      "meaning": "Worsened in condition or quality",
+      "example": "His health deteriorated rapidly.",
+      "chinese": {
+        "meaning": "惡化的",
+        "example": "他的健康狀況迅速惡化。"
+      }
+    },
+    {
+      "word": "Deteriorating",
+      "type": "adjective",
+      "meaning": "Becoming progressively worse",
+      "example": "The deteriorating weather forced us indoors.",
+      "chinese": {
+        "meaning": "持續惡化的",
+        "example": "持續惡化的天氣迫使我們進屋。"
+      }
+    },
+    {
+      "word": "Determinant",
+      "type": "adjective",
+      "meaning": "Serving as a determining factor",
+      "example": "Education is a key determinant of income.",
+      "chinese": {
+        "meaning": "決定性的",
+        "example": "教育是收入的決定性因素。"
+      }
+    },
+    {
+      "word": "Determinate",
+      "type": "adjective",
+      "meaning": "Having exact and definite limits",
+      "example": "The rules were determinate and clear.",
+      "chinese": {
+        "meaning": "確定的",
+        "example": "規則是明確而確定的。"
       }
     },
     {
@@ -397,6 +1337,66 @@
       }
     },
     {
+      "word": "Determining",
+      "type": "adjective",
+      "meaning": "Having the power to decide or influence",
+      "example": "He played a determining role in the outcome.",
+      "chinese": {
+        "meaning": "決定性的",
+        "example": "他在結果中起了決定性作用。"
+      }
+    },
+    {
+      "word": "Detersive",
+      "type": "adjective",
+      "meaning": "Having cleansing or purifying qualities",
+      "example": "The soap has strong detersive properties.",
+      "chinese": {
+        "meaning": "清潔的",
+        "example": "這種肥皂具有很強的清潔作用。"
+      }
+    },
+    {
+      "word": "Detestable",
+      "type": "adjective",
+      "meaning": "Arousing intense dislike",
+      "example": "His detestable behavior upset everyone.",
+      "chinese": {
+        "meaning": "令人厭惡的",
+        "example": "他令人厭惡的行為讓大家不安。"
+      }
+    },
+    {
+      "word": "Detrimental",
+      "type": "adjective",
+      "meaning": "Causing harm or damage",
+      "example": "Smoking is detrimental to health.",
+      "chinese": {
+        "meaning": "有害的",
+        "example": "吸煙對健康有害。"
+      }
+    },
+    {
+      "word": "Devalued",
+      "type": "adjective",
+      "meaning": "Reduced in value or importance",
+      "example": "The currency was devalued overnight.",
+      "chinese": {
+        "meaning": "貶值的",
+        "example": "貨幣在一夜之間貶值了。"
+      }
+    },
+    {
+      "word": "Devastated",
+      "type": "adjective",
+      "meaning": "Overwhelmed by grief or shock; destroyed",
+      "example": "She was devastated by the news of his death.",
+      "chinese": {
+        "meaning": "極度悲痛的，毀滅性的",
+        "example": "聽到他的死訊，她極度悲痛。"
+      }
+    },
+    {
       "word": "Devastating",
       "type": "adjective",
       "letter": "D",
@@ -408,6 +1408,76 @@
       }
     },
     {
+      "word": "Developed",
+      "type": "adjective",
+      "meaning": "Advanced or matured",
+      "example": "The developed countries have strong economies.",
+      "chinese": {
+        "meaning": "發達的",
+        "example": "發達國家的經濟實力很強。"
+      }
+    },
+    {
+      "word": "Developing",
+      "type": "adjective",
+      "meaning": "In the process of growth or advancement",
+      "example": "The developing nations need more support.",
+      "chinese": {
+        "meaning": "發展中的",
+        "example": "發展中國家需要更多支持。"
+      }
+    },
+    {
+      "word": "Developmental",
+      "type": "adjective",
+      "meaning": "Relating to the process of growth or development",
+      "example": "The child showed developmental progress.",
+      "chinese": {
+        "meaning": "發展的",
+        "example": "這個孩子表現出了發展進步。"
+      }
+    },
+    {
+      "word": "Deviant",
+      "type": "adjective",
+      "meaning": "Departing from usual or accepted standards",
+      "example": "His deviant behavior worried his parents.",
+      "chinese": {
+        "meaning": "偏離常規的",
+        "example": "他偏離常規的行為讓父母擔心。"
+      }
+    },
+    {
+      "word": "Deviated",
+      "type": "adjective",
+      "meaning": "Departed from an established path",
+      "example": "The plane deviated from its flight path.",
+      "chinese": {
+        "meaning": "偏離的",
+        "example": "飛機偏離了飛行路線。"
+      }
+    },
+    {
+      "word": "Devious",
+      "type": "adjective",
+      "meaning": "Skillful at using underhanded tactics",
+      "example": "He took a devious route to avoid being followed.",
+      "chinese": {
+        "meaning": "狡詐的，曲折的",
+        "example": "他走了一條曲折的路以避免被跟蹤。"
+      }
+    },
+    {
+      "word": "Devoid",
+      "type": "adjective",
+      "meaning": "Entirely lacking or free from",
+      "example": "His voice was devoid of emotion.",
+      "chinese": {
+        "meaning": "缺乏的",
+        "example": "他的聲音毫無感情。"
+      }
+    },
+    {
       "word": "Devoted",
       "type": "adjective",
       "letter": "D",
@@ -416,6 +1486,106 @@
       "chinese": {
         "meaning": "忠誠的；摯愛的",
         "example": "他對家人非常忠誠。"
+      }
+    },
+    {
+      "word": "Devotional",
+      "type": "adjective",
+      "meaning": "Relating to religious worship or devotion",
+      "example": "She attended a devotional gathering.",
+      "chinese": {
+        "meaning": "虔誠的，宗教性的",
+        "example": "她參加了一個宗教聚會。"
+      }
+    },
+    {
+      "word": "Devouring",
+      "type": "adjective",
+      "meaning": "Intensely consuming or eager",
+      "example": "She had a devouring passion for music.",
+      "chinese": {
+        "meaning": "吞噬的，熱切的",
+        "example": "她對音樂有著吞噬一切的熱情。"
+      }
+    },
+    {
+      "word": "Dexterous",
+      "type": "adjective",
+      "meaning": "Showing skill, especially with the hands",
+      "example": "The dexterous craftsman carved intricate patterns.",
+      "chinese": {
+        "meaning": "靈巧的",
+        "example": "那位靈巧的工匠雕刻出了精緻的圖案。"
+      }
+    },
+    {
+      "word": "Diabetic",
+      "type": "adjective",
+      "meaning": "Relating to diabetes",
+      "example": "She follows a diabetic diet.",
+      "chinese": {
+        "meaning": "糖尿病的",
+        "example": "她遵循一個糖尿病飲食計劃。"
+      }
+    },
+    {
+      "word": "Diabolic",
+      "type": "adjective",
+      "meaning": "Characteristic of the devil; wicked",
+      "example": "The villain's plan was diabolic.",
+      "chinese": {
+        "meaning": "惡魔般的",
+        "example": "反派的計劃是惡魔般的。"
+      }
+    },
+    {
+      "word": "Diagonal",
+      "type": "adjective",
+      "meaning": "Joining opposite corners of a shape",
+      "example": "Draw a diagonal line across the square.",
+      "chinese": {
+        "meaning": "對角的",
+        "example": "在正方形上畫一條對角線。"
+      }
+    },
+    {
+      "word": "Dialectical",
+      "type": "adjective",
+      "meaning": "Relating to the logical discussion of ideas",
+      "example": "They engaged in a dialectical debate.",
+      "chinese": {
+        "meaning": "辯證的",
+        "example": "他們進行了一場辯證的辯論。"
+      }
+    },
+    {
+      "word": "Dialyzed",
+      "type": "adjective",
+      "meaning": "Having undergone dialysis",
+      "example": "The patient was dialyzed twice a week.",
+      "chinese": {
+        "meaning": "透析的",
+        "example": "病人每週進行兩次透析。"
+      }
+    },
+    {
+      "word": "Dictatorial",
+      "type": "adjective",
+      "meaning": "Typical of a dictator; oppressive",
+      "example": "The manager's style was dictatorial.",
+      "chinese": {
+        "meaning": "獨裁的",
+        "example": "這位經理的作風非常獨裁。"
+      }
+    },
+    {
+      "word": "Didactic",
+      "type": "adjective",
+      "meaning": "Intended to teach or instruct",
+      "example": "The novel had a didactic tone.",
+      "chinese": {
+        "meaning": "教導性的",
+        "example": "這部小說帶有教導的語氣。"
       }
     },
     {
@@ -441,6 +1611,46 @@
       }
     },
     {
+      "word": "Diffident",
+      "type": "adjective",
+      "meaning": "Shy due to lack of confidence",
+      "example": "He was too diffident to speak in public.",
+      "chinese": {
+        "meaning": "缺乏自信的，羞怯的",
+        "example": "他因缺乏自信而不敢在公眾面前發言。"
+      }
+    },
+    {
+      "word": "Diffuse",
+      "type": "adjective",
+      "meaning": "Spread over a wide area",
+      "example": "The light was soft and diffuse.",
+      "chinese": {
+        "meaning": "散佈的，分散的",
+        "example": "光線柔和而分散。"
+      }
+    },
+    {
+      "word": "Diffused",
+      "type": "adjective",
+      "meaning": "Spread widely or thinly",
+      "example": "The scent diffused through the room.",
+      "chinese": {
+        "meaning": "擴散的",
+        "example": "香味瀰漫在房間裡。"
+      }
+    },
+    {
+      "word": "Digital",
+      "type": "adjective",
+      "meaning": "Involving or relating to computer technology",
+      "example": "She bought a digital camera.",
+      "chinese": {
+        "meaning": "數碼的，數字的",
+        "example": "她買了一部數碼相機。"
+      }
+    },
+    {
       "word": "Dignified",
       "type": "adjective",
       "letter": "D",
@@ -449,6 +1659,26 @@
       "chinese": {
         "meaning": "有尊嚴的",
         "example": "他穿著制服看起來很有尊嚴。"
+      }
+    },
+    {
+      "word": "Digressive",
+      "type": "adjective",
+      "meaning": "Departing from the main subject",
+      "example": "The speaker was often digressive.",
+      "chinese": {
+        "meaning": "離題的",
+        "example": "演講者經常離題。"
+      }
+    },
+    {
+      "word": "Dilemmatic",
+      "type": "adjective",
+      "meaning": "Involving a difficult choice",
+      "example": "He faced a dilemmatic situation.",
+      "chinese": {
+        "meaning": "兩難的",
+        "example": "他面臨著一個兩難的處境。"
       }
     },
     {
@@ -463,6 +1693,16 @@
       }
     },
     {
+      "word": "Diluted",
+      "type": "adjective",
+      "meaning": "Made weaker by adding water or other substance",
+      "example": "The juice tasted diluted.",
+      "chinese": {
+        "meaning": "稀釋的",
+        "example": "果汁喝起來很稀。"
+      }
+    },
+    {
       "word": "Dim",
       "type": "adjective",
       "letter": "D",
@@ -471,6 +1711,26 @@
       "chinese": {
         "meaning": "昏暗的",
         "example": "房間燈光昏暗。"
+      }
+    },
+    {
+      "word": "Diminished",
+      "type": "adjective",
+      "meaning": "Reduced or lessened",
+      "example": "His influence has diminished over the years.",
+      "chinese": {
+        "meaning": "減少的，衰弱的",
+        "example": "多年來他的影響力減弱了。"
+      }
+    },
+    {
+      "word": "Diminishing",
+      "type": "adjective",
+      "meaning": "Becoming less or smaller",
+      "example": "The diminishing resources caused concern.",
+      "chinese": {
+        "meaning": "不斷減少的",
+        "example": "資源的不斷減少引起了擔憂。"
       }
     },
     {
@@ -507,6 +1767,26 @@
       }
     },
     {
+      "word": "Directed",
+      "type": "adjective",
+      "meaning": "Controlled or guided",
+      "example": "The project was directed by an expert.",
+      "chinese": {
+        "meaning": "被指導的",
+        "example": "該項目由專家指導。"
+      }
+    },
+    {
+      "word": "Directorial",
+      "type": "adjective",
+      "meaning": "Relating to a director's role or duties",
+      "example": "She received directorial credit for the film.",
+      "chinese": {
+        "meaning": "導演的",
+        "example": "她因這部電影獲得了導演署名。"
+      }
+    },
+    {
       "word": "Dirty",
       "type": "adjective",
       "letter": "D",
@@ -515,6 +1795,36 @@
       "chinese": {
         "meaning": "骯髒的",
         "example": "孩子們穿著髒衣服回家。"
+      }
+    },
+    {
+      "word": "Disabled",
+      "type": "adjective",
+      "meaning": "Having a physical or mental condition that limits movements or activities",
+      "example": "He works with disabled children.",
+      "chinese": {
+        "meaning": "殘疾的",
+        "example": "他和殘疾兒童一起工作。"
+      }
+    },
+    {
+      "word": "Disadvantaged",
+      "type": "adjective",
+      "meaning": "In an unfavorable situation, especially financially",
+      "example": "Programs support disadvantaged students.",
+      "chinese": {
+        "meaning": "弱勢的",
+        "example": "這些計劃支持弱勢學生。"
+      }
+    },
+    {
+      "word": "Disaffected",
+      "type": "adjective",
+      "meaning": "Dissatisfied and rebellious",
+      "example": "The disaffected youth protested the policies.",
+      "chinese": {
+        "meaning": "不滿的，叛逆的",
+        "example": "不滿的年輕人抗議這些政策。"
       }
     },
     {
@@ -529,6 +1839,46 @@
       }
     },
     {
+      "word": "Disappointed",
+      "type": "adjective",
+      "meaning": "Feeling sad because something did not happen as expected",
+      "example": "She was disappointed with the results.",
+      "chinese": {
+        "meaning": "失望的",
+        "example": "她對結果感到失望。"
+      }
+    },
+    {
+      "word": "Disappointing",
+      "type": "adjective",
+      "meaning": "Causing disappointment",
+      "example": "The movie was disappointing.",
+      "chinese": {
+        "meaning": "令人失望的",
+        "example": "這部電影令人失望。"
+      }
+    },
+    {
+      "word": "Disapproving",
+      "type": "adjective",
+      "meaning": "Showing that something is wrong or unacceptable",
+      "example": "She gave him a disapproving look.",
+      "chinese": {
+        "meaning": "不贊成的",
+        "example": "她給了他一個不贊成的眼神。"
+      }
+    },
+    {
+      "word": "Disarmed",
+      "type": "adjective",
+      "meaning": "Deprived of weapons or defenses",
+      "example": "The soldiers were disarmed at the border.",
+      "chinese": {
+        "meaning": "被解除武裝的",
+        "example": "士兵們在邊境被解除武裝。"
+      }
+    },
+    {
       "word": "Disastrous",
       "type": "adjective",
       "letter": "D",
@@ -537,6 +1887,16 @@
       "chinese": {
         "meaning": "災難性的",
         "example": "洪水對小鎮造成災難性影響。"
+      }
+    },
+    {
+      "word": "Discerning",
+      "type": "adjective",
+      "meaning": "Having good judgment or insight",
+      "example": "She is a discerning art collector.",
+      "chinese": {
+        "meaning": "有眼光的",
+        "example": "她是一位有眼光的藝術收藏家。"
       }
     },
     {
@@ -551,6 +1911,86 @@
       }
     },
     {
+      "word": "Disclosed",
+      "type": "adjective",
+      "meaning": "Revealed or made known",
+      "example": "The disclosed information shocked the public.",
+      "chinese": {
+        "meaning": "被公開的",
+        "example": "公開的信息震驚了公眾。"
+      }
+    },
+    {
+      "word": "Disconcerting",
+      "type": "adjective",
+      "meaning": "Causing one to feel unsettled or disturbed",
+      "example": "His disconcerting stare made her nervous.",
+      "chinese": {
+        "meaning": "令人不安的",
+        "example": "他令人不安的凝視讓她感到緊張。"
+      }
+    },
+    {
+      "word": "Disconnected",
+      "type": "adjective",
+      "meaning": "Not joined or linked together; lacking connection",
+      "example": "The argument felt disconnected and unclear.",
+      "chinese": {
+        "meaning": "分離的，缺乏聯繫的",
+        "example": "這個論點顯得脫節且不清楚。"
+      }
+    },
+    {
+      "word": "Discontent",
+      "type": "adjective",
+      "meaning": "Dissatisfied or unhappy",
+      "example": "Workers were discontent with the low wages.",
+      "chinese": {
+        "meaning": "不滿的",
+        "example": "工人對低工資感到不滿。"
+      }
+    },
+    {
+      "word": "Discontinued",
+      "type": "adjective",
+      "meaning": "No longer produced or used",
+      "example": "The model has been discontinued.",
+      "chinese": {
+        "meaning": "已停產的",
+        "example": "該款式已經停產。"
+      }
+    },
+    {
+      "word": "Discordant",
+      "type": "adjective",
+      "meaning": "Lacking harmony or agreement",
+      "example": "The choir sounded discordant.",
+      "chinese": {
+        "meaning": "不和諧的",
+        "example": "合唱團的聲音聽起來不和諧。"
+      }
+    },
+    {
+      "word": "Discouraged",
+      "type": "adjective",
+      "meaning": "Losing confidence or hope",
+      "example": "She felt discouraged after failing the test.",
+      "chinese": {
+        "meaning": "氣餒的",
+        "example": "考試失敗後她感到氣餒。"
+      }
+    },
+    {
+      "word": "Discouraging",
+      "type": "adjective",
+      "meaning": "Causing loss of confidence or hope",
+      "example": "The discouraging news made him anxious.",
+      "chinese": {
+        "meaning": "令人沮喪的",
+        "example": "這個令人沮喪的消息讓他焦慮不安。"
+      }
+    },
+    {
       "word": "Discreet",
       "type": "adjective",
       "letter": "D",
@@ -559,6 +1999,126 @@
       "chinese": {
         "meaning": "謹慎的",
         "example": "她對自己的私生活很謹慎。"
+      }
+    },
+    {
+      "word": "Discretionary",
+      "type": "adjective",
+      "meaning": "Available to be used at one's own discretion",
+      "example": "Managers have discretionary power over budgets.",
+      "chinese": {
+        "meaning": "酌情決定的",
+        "example": "管理者擁有對預算的酌情決定權。"
+      }
+    },
+    {
+      "word": "Discriminatory",
+      "type": "adjective",
+      "meaning": "Unfairly treating a person or group differently",
+      "example": "The law was found to be discriminatory.",
+      "chinese": {
+        "meaning": "歧視的",
+        "example": "該法律被認為具有歧視性。"
+      }
+    },
+    {
+      "word": "Discursive",
+      "type": "adjective",
+      "meaning": "Rambling or moving from topic to topic without order",
+      "example": "The professor's lecture was discursive and hard to follow.",
+      "chinese": {
+        "meaning": "離題的，散漫的",
+        "example": "教授的講課散漫且難以跟隨。"
+      }
+    },
+    {
+      "word": "Disdained",
+      "type": "adjective",
+      "meaning": "Regarded with contempt or scorn",
+      "example": "He was disdained by his peers.",
+      "chinese": {
+        "meaning": "被鄙視的",
+        "example": "他被同齡人鄙視。"
+      }
+    },
+    {
+      "word": "Disdainful",
+      "type": "adjective",
+      "meaning": "Showing contempt or lack of respect",
+      "example": "She gave him a disdainful glance.",
+      "chinese": {
+        "meaning": "輕蔑的",
+        "example": "她給了他一個輕蔑的眼神。"
+      }
+    },
+    {
+      "word": "Diseased",
+      "type": "adjective",
+      "meaning": "Affected by disease",
+      "example": "The diseased plants were removed.",
+      "chinese": {
+        "meaning": "患病的",
+        "example": "患病的植物被移除了。"
+      }
+    },
+    {
+      "word": "Disembodied",
+      "type": "adjective",
+      "meaning": "Separated from or lacking a physical body",
+      "example": "We heard a disembodied voice.",
+      "chinese": {
+        "meaning": "無形的，脫離軀體的",
+        "example": "我們聽到了一個無形的聲音。"
+      }
+    },
+    {
+      "word": "Disenchanted",
+      "type": "adjective",
+      "meaning": "Disappointed by something once admired",
+      "example": "She was disenchanted with her job.",
+      "chinese": {
+        "meaning": "不再著迷的，失望的",
+        "example": "她對工作不再著迷。"
+      }
+    },
+    {
+      "word": "Disfigured",
+      "type": "adjective",
+      "meaning": "Spoiled the appearance of",
+      "example": "The building was disfigured by graffiti.",
+      "chinese": {
+        "meaning": "毀容的，損壞外觀的",
+        "example": "這棟建築因塗鴉而外觀受損。"
+      }
+    },
+    {
+      "word": "Disgraceful",
+      "type": "adjective",
+      "meaning": "Shameful or dishonorable",
+      "example": "Their behavior was disgraceful.",
+      "chinese": {
+        "meaning": "可恥的",
+        "example": "他們的行為令人可恥。"
+      }
+    },
+    {
+      "word": "Disgruntled",
+      "type": "adjective",
+      "meaning": "Angry or dissatisfied",
+      "example": "The employees were disgruntled by the cuts.",
+      "chinese": {
+        "meaning": "不滿的",
+        "example": "員工對削減感到不滿。"
+      }
+    },
+    {
+      "word": "Disguised",
+      "type": "adjective",
+      "meaning": "Wearing or using a disguise",
+      "example": "The spy was disguised as a tourist.",
+      "chinese": {
+        "meaning": "偽裝的",
+        "example": "間諜偽裝成遊客。"
       }
     },
     {
@@ -573,6 +2133,16 @@
       }
     },
     {
+      "word": "Disgusting",
+      "type": "adjective",
+      "meaning": "Arousing strong dislike or disgust",
+      "example": "The food was disgusting.",
+      "chinese": {
+        "meaning": "令人噁心的",
+        "example": "那食物令人噁心。"
+      }
+    },
+    {
       "word": "Dishonest",
       "type": "adjective",
       "letter": "D",
@@ -581,6 +2151,86 @@
       "chinese": {
         "meaning": "不誠實的",
         "example": "不誠實的行為是不能容忍的。"
+      }
+    },
+    {
+      "word": "Dishonorable",
+      "type": "adjective",
+      "meaning": "Bringing shame or disgrace",
+      "example": "He was discharged for dishonorable conduct.",
+      "chinese": {
+        "meaning": "不名譽的",
+        "example": "他因不名譽的行為被開除。"
+      }
+    },
+    {
+      "word": "Disillusioned",
+      "type": "adjective",
+      "meaning": "Disappointed after finding something is less good than believed",
+      "example": "She became disillusioned with politics.",
+      "chinese": {
+        "meaning": "幻想破滅的",
+        "example": "她對政治幻想破滅。"
+      }
+    },
+    {
+      "word": "Disintegrated",
+      "type": "adjective",
+      "meaning": "Broken into pieces or parts",
+      "example": "The old manuscript had disintegrated.",
+      "chinese": {
+        "meaning": "分解的",
+        "example": "古老的手稿已經分解了。"
+      }
+    },
+    {
+      "word": "Disinterested",
+      "type": "adjective",
+      "meaning": "Not influenced by personal advantage; impartial",
+      "example": "A judge must remain disinterested.",
+      "chinese": {
+        "meaning": "公正的，漠不關心的",
+        "example": "法官必須保持公正。"
+      }
+    },
+    {
+      "word": "Disjointed",
+      "type": "adjective",
+      "meaning": "Lacking clear connection or organization",
+      "example": "His speech was disjointed and confusing.",
+      "chinese": {
+        "meaning": "不連貫的",
+        "example": "他的演講不連貫且令人困惑。"
+      }
+    },
+    {
+      "word": "Disliked",
+      "type": "adjective",
+      "meaning": "Not liked or approved",
+      "example": "The policy was widely disliked.",
+      "chinese": {
+        "meaning": "不受喜愛的",
+        "example": "該政策普遍不受喜愛。"
+      }
+    },
+    {
+      "word": "Dislocated",
+      "type": "adjective",
+      "meaning": "Moved out of its normal position",
+      "example": "He had a dislocated shoulder.",
+      "chinese": {
+        "meaning": "脫臼的",
+        "example": "他的肩膀脫臼了。"
+      }
+    },
+    {
+      "word": "Disloyal",
+      "type": "adjective",
+      "meaning": "Failing to be loyal to a person or cause",
+      "example": "He was accused of being disloyal to the company.",
+      "chinese": {
+        "meaning": "不忠誠的",
+        "example": "他被指控對公司不忠誠。"
       }
     },
     {
@@ -595,6 +2245,236 @@
       }
     },
     {
+      "word": "Dismayed",
+      "type": "adjective",
+      "meaning": "Feeling distress or anxiety",
+      "example": "She was dismayed by the bad news.",
+      "chinese": {
+        "meaning": "驚愕的，灰心的",
+        "example": "她因壞消息而感到驚愕。"
+      }
+    },
+    {
+      "word": "Dismaying",
+      "type": "adjective",
+      "meaning": "Causing distress or concern",
+      "example": "The dismaying news shocked everyone.",
+      "chinese": {
+        "meaning": "令人沮喪的",
+        "example": "這個令人沮喪的消息震驚了所有人。"
+      }
+    },
+    {
+      "word": "Dismissive",
+      "type": "adjective",
+      "meaning": "Showing that something is unworthy of consideration",
+      "example": "He gave a dismissive wave of the hand.",
+      "chinese": {
+        "meaning": "輕視的",
+        "example": "他輕蔑地揮了揮手。"
+      }
+    },
+    {
+      "word": "Disorderly",
+      "type": "adjective",
+      "meaning": "Lacking organization or control",
+      "example": "The room was left in a disorderly state.",
+      "chinese": {
+        "meaning": "雜亂的",
+        "example": "房間被弄得一片雜亂。"
+      }
+    },
+    {
+      "word": "Disoriented",
+      "type": "adjective",
+      "meaning": "Confused and lost",
+      "example": "The loud noise left her disoriented.",
+      "chinese": {
+        "meaning": "迷失方向的",
+        "example": "巨大的噪音使她迷失了方向。"
+      }
+    },
+    {
+      "word": "Disparate",
+      "type": "adjective",
+      "meaning": "Essentially different or distinct",
+      "example": "They hold disparate views on the subject.",
+      "chinese": {
+        "meaning": "截然不同的",
+        "example": "他們對這個主題持有截然不同的觀點。"
+      }
+    },
+    {
+      "word": "Dispassionate",
+      "type": "adjective",
+      "meaning": "Not influenced by strong emotion; impartial",
+      "example": "She remained dispassionate during the debate.",
+      "chinese": {
+        "meaning": "冷靜的，公正的",
+        "example": "她在辯論中保持冷靜。"
+      }
+    },
+    {
+      "word": "Dispelled",
+      "type": "adjective",
+      "meaning": "Driven away or eliminated",
+      "example": "The sunlight dispelled the morning fog.",
+      "chinese": {
+        "meaning": "驅散的",
+        "example": "陽光驅散了晨霧。"
+      }
+    },
+    {
+      "word": "Dispensable",
+      "type": "adjective",
+      "meaning": "Not necessary or essential",
+      "example": "Many considered the gadget dispensable.",
+      "chinese": {
+        "meaning": "非必需的",
+        "example": "許多人認為這個裝置是非必需的。"
+      }
+    },
+    {
+      "word": "Displaced",
+      "type": "adjective",
+      "meaning": "Moved from its usual place",
+      "example": "Thousands were displaced by the flood.",
+      "chinese": {
+        "meaning": "被迫離開的",
+        "example": "數千人因洪水被迫離開家園。"
+      }
+    },
+    {
+      "word": "Displeased",
+      "type": "adjective",
+      "meaning": "Feeling annoyed or dissatisfied",
+      "example": "She was displeased with the results.",
+      "chinese": {
+        "meaning": "不滿的",
+        "example": "她對結果感到不滿。"
+      }
+    },
+    {
+      "word": "Disproportionate",
+      "type": "adjective",
+      "meaning": "Too large or too small in comparison",
+      "example": "The punishment was disproportionate to the crime.",
+      "chinese": {
+        "meaning": "不成比例的",
+        "example": "懲罰與罪行不成比例。"
+      }
+    },
+    {
+      "word": "Disputed",
+      "type": "adjective",
+      "meaning": "Subject to disagreement or argument",
+      "example": "The land is a disputed territory.",
+      "chinese": {
+        "meaning": "有爭議的",
+        "example": "這片土地是一個有爭議的領土。"
+      }
+    },
+    {
+      "word": "Disquieting",
+      "type": "adjective",
+      "meaning": "Causing worry or unease",
+      "example": "There were disquieting signs of unrest.",
+      "chinese": {
+        "meaning": "令人不安的",
+        "example": "出現了令人不安的動盪跡象。"
+      }
+    },
+    {
+      "word": "Disregarded",
+      "type": "adjective",
+      "meaning": "Ignored or treated as unimportant",
+      "example": "His warnings were disregarded.",
+      "chinese": {
+        "meaning": "被忽視的",
+        "example": "他的警告被忽視了。"
+      }
+    },
+    {
+      "word": "Disreputable",
+      "type": "adjective",
+      "meaning": "Not respectable; having a bad reputation",
+      "example": "The business was known for its disreputable practices.",
+      "chinese": {
+        "meaning": "名聲不好的",
+        "example": "這家公司以其名聲不好的做法而聞名。"
+      }
+    },
+    {
+      "word": "Disruptive",
+      "type": "adjective",
+      "meaning": "Causing disturbance or problems",
+      "example": "The disruptive student was asked to leave.",
+      "chinese": {
+        "meaning": "擾亂的",
+        "example": "這個擾亂的學生被要求離開。"
+      }
+    },
+    {
+      "word": "Dissatisfied",
+      "type": "adjective",
+      "meaning": "Not content or happy with something",
+      "example": "She was dissatisfied with the service.",
+      "chinese": {
+        "meaning": "不滿意的",
+        "example": "她對服務感到不滿意。"
+      }
+    },
+    {
+      "word": "Dissimilar",
+      "type": "adjective",
+      "meaning": "Not alike; different",
+      "example": "Their cultures are quite dissimilar.",
+      "chinese": {
+        "meaning": "不同的",
+        "example": "他們的文化截然不同。"
+      }
+    },
+    {
+      "word": "Dissipated",
+      "type": "adjective",
+      "meaning": "Overindulging in pleasure; squandered",
+      "example": "He led a dissipated lifestyle.",
+      "chinese": {
+        "meaning": "放蕩的，揮霍的",
+        "example": "他過著放蕩的生活。"
+      }
+    },
+    {
+      "word": "Dissociated",
+      "type": "adjective",
+      "meaning": "Separated from association or connection",
+      "example": "She felt dissociated from reality.",
+      "chinese": {
+        "meaning": "分離的",
+        "example": "她感覺與現實脫節。"
+      }
+    },
+    {
+      "word": "Dissonant",
+      "type": "adjective",
+      "meaning": "Lacking harmony; harsh-sounding",
+      "example": "The band played a dissonant chord.",
+      "chinese": {
+        "meaning": "不和諧的",
+        "example": "樂隊彈奏出一個不和諧的和弦。"
+      }
+    },
+    {
+      "word": "Distal",
+      "type": "adjective",
+      "meaning": "Situated away from the center or point of attachment",
+      "example": "The distal end of the limb was injured.",
+      "chinese": {
+        "meaning": "遠端的",
+        "example": "肢體的遠端受傷了。"
+      }
+    },
+    {
       "word": "Distant",
       "type": "adjective",
       "letter": "D",
@@ -603,6 +2483,16 @@
       "chinese": {
         "meaning": "遙遠的",
         "example": "他們可以看到遠處的山。"
+      }
+    },
+    {
+      "word": "Distilled",
+      "type": "adjective",
+      "meaning": "Purified through a distillation process",
+      "example": "Distilled water is used in laboratories.",
+      "chinese": {
+        "meaning": "蒸餾的",
+        "example": "實驗室使用蒸餾水。"
       }
     },
     {
@@ -617,6 +2507,46 @@
       }
     },
     {
+      "word": "Distinctive",
+      "type": "adjective",
+      "meaning": "Characteristic of one person or thing; unique",
+      "example": "The singer has a distinctive voice.",
+      "chinese": {
+        "meaning": "獨特的",
+        "example": "這位歌手有獨特的嗓音。"
+      }
+    },
+    {
+      "word": "Distinguished",
+      "type": "adjective",
+      "meaning": "Recognized for excellence; eminent",
+      "example": "He is a distinguished professor.",
+      "chinese": {
+        "meaning": "卓越的",
+        "example": "他是一位卓越的教授。"
+      }
+    },
+    {
+      "word": "Distorted",
+      "type": "adjective",
+      "meaning": "Twisted out of shape; misrepresented",
+      "example": "The facts were distorted in the report.",
+      "chinese": {
+        "meaning": "扭曲的",
+        "example": "報告中的事實被扭曲了。"
+      }
+    },
+    {
+      "word": "Distracting",
+      "type": "adjective",
+      "meaning": "Taking attention away from something",
+      "example": "The noise outside was distracting.",
+      "chinese": {
+        "meaning": "分散注意力的",
+        "example": "外面的噪音令人分心。"
+      }
+    },
+    {
       "word": "Distraught",
       "type": "adjective",
       "letter": "D",
@@ -625,6 +2555,66 @@
       "chinese": {
         "meaning": "心煩意亂的",
         "example": "聽到這消息後她心煩意亂。"
+      }
+    },
+    {
+      "word": "Distressed",
+      "type": "adjective",
+      "meaning": "Suffering from anxiety, sorrow, or pain",
+      "example": "She felt distressed after the loss.",
+      "chinese": {
+        "meaning": "痛苦的",
+        "example": "失去後她感到痛苦。"
+      }
+    },
+    {
+      "word": "Distressing",
+      "type": "adjective",
+      "meaning": "Causing anxiety or suffering",
+      "example": "The movie contained some distressing scenes.",
+      "chinese": {
+        "meaning": "令人痛苦的",
+        "example": "這部電影包含一些令人痛苦的場景。"
+      }
+    },
+    {
+      "word": "Distributed",
+      "type": "adjective",
+      "meaning": "Spread out or shared among many",
+      "example": "The goods were distributed to the villages.",
+      "chinese": {
+        "meaning": "分佈的",
+        "example": "貨物被分發到各個村莊。"
+      }
+    },
+    {
+      "word": "Distrustful",
+      "type": "adjective",
+      "meaning": "Lacking trust; suspicious",
+      "example": "He was distrustful of strangers.",
+      "chinese": {
+        "meaning": "不信任的",
+        "example": "他對陌生人不信任。"
+      }
+    },
+    {
+      "word": "Disturbed",
+      "type": "adjective",
+      "meaning": "Experiencing mental or emotional agitation",
+      "example": "He looked disturbed by the incident.",
+      "chinese": {
+        "meaning": "心神不寧的",
+        "example": "這件事讓他看起來心神不寧。"
+      }
+    },
+    {
+      "word": "Disturbing",
+      "type": "adjective",
+      "meaning": "Causing worry or upset",
+      "example": "The disturbing news spread quickly.",
+      "chinese": {
+        "meaning": "令人不安的",
+        "example": "令人不安的消息迅速傳開。"
       }
     },
     {
@@ -639,6 +2629,26 @@
       }
     },
     {
+      "word": "Diversified",
+      "type": "adjective",
+      "meaning": "Having a variety of different elements",
+      "example": "The company has a diversified portfolio.",
+      "chinese": {
+        "meaning": "多樣化的",
+        "example": "這家公司擁有多樣化的投資組合。"
+      }
+    },
+    {
+      "word": "Divided",
+      "type": "adjective",
+      "meaning": "Separated into parts or groups",
+      "example": "The nation was deeply divided on the issue.",
+      "chinese": {
+        "meaning": "分裂的",
+        "example": "國家在這個問題上嚴重分裂。"
+      }
+    },
+    {
       "word": "Divine",
       "type": "adjective",
       "letter": "D",
@@ -647,6 +2657,26 @@
       "chinese": {
         "meaning": "神聖的；極好的",
         "example": "這食物味道極好。"
+      }
+    },
+    {
+      "word": "Divorced",
+      "type": "adjective",
+      "meaning": "Legally separated from a spouse",
+      "example": "She is a divorced mother of two.",
+      "chinese": {
+        "meaning": "離婚的",
+        "example": "她是兩個孩子的離婚母親。"
+      }
+    },
+    {
+      "word": "Dizzied",
+      "type": "adjective",
+      "meaning": "Feeling dizzy or confused",
+      "example": "He was dizzied by the rapid changes.",
+      "chinese": {
+        "meaning": "暈眩的",
+        "example": "快速的變化讓他感到暈眩。"
       }
     },
     {
@@ -672,6 +2702,46 @@
       }
     },
     {
+      "word": "Doctoral",
+      "type": "adjective",
+      "meaning": "Relating to a doctorate degree",
+      "example": "She is working on her doctoral thesis.",
+      "chinese": {
+        "meaning": "博士的",
+        "example": "她正在撰寫博士論文。"
+      }
+    },
+    {
+      "word": "Doctrinal",
+      "type": "adjective",
+      "meaning": "Relating to official principles or beliefs",
+      "example": "The decision was based on doctrinal considerations.",
+      "chinese": {
+        "meaning": "教義的",
+        "example": "該決定基於教義考量。"
+      }
+    },
+    {
+      "word": "Documented",
+      "type": "adjective",
+      "meaning": "Recorded in written or printed form",
+      "example": "The event was well documented.",
+      "chinese": {
+        "meaning": "有記載的",
+        "example": "這件事有詳細的記載。"
+      }
+    },
+    {
+      "word": "Dodgy",
+      "type": "adjective",
+      "meaning": "Dishonest or unreliable",
+      "example": "He made a dodgy business deal.",
+      "chinese": {
+        "meaning": "可疑的",
+        "example": "他做了一筆可疑的生意。"
+      }
+    },
+    {
       "word": "Dogged",
       "type": "adjective",
       "letter": "D",
@@ -680,6 +2750,26 @@
       "chinese": {
         "meaning": "頑強的；堅持不懈的",
         "example": "她頑強的決心讓大家印象深刻。"
+      }
+    },
+    {
+      "word": "Dogmatic",
+      "type": "adjective",
+      "meaning": "Asserting opinions in an arrogant manner",
+      "example": "She was dogmatic about her beliefs.",
+      "chinese": {
+        "meaning": "武斷的",
+        "example": "她在信仰上很武斷。"
+      }
+    },
+    {
+      "word": "Doleful",
+      "type": "adjective",
+      "meaning": "Expressing sorrow; mournful",
+      "example": "He had a doleful expression on his face.",
+      "chinese": {
+        "meaning": "悲哀的",
+        "example": "他臉上帶著悲哀的表情。"
       }
     },
     {
@@ -694,6 +2784,16 @@
       }
     },
     {
+      "word": "Domesticated",
+      "type": "adjective",
+      "meaning": "Tamed and kept by humans",
+      "example": "Dogs are domesticated animals.",
+      "chinese": {
+        "meaning": "馴化的",
+        "example": "狗是被人類馴化的動物。"
+      }
+    },
+    {
       "word": "Dominant",
       "type": "adjective",
       "letter": "D",
@@ -702,6 +2802,76 @@
       "chinese": {
         "meaning": "主要的；支配的",
         "example": "英語是澳洲的主要語言。"
+      }
+    },
+    {
+      "word": "Dominated",
+      "type": "adjective",
+      "meaning": "Controlled or ruled by someone or something",
+      "example": "The industry is dominated by a few large companies.",
+      "chinese": {
+        "meaning": "受支配的",
+        "example": "該行業被幾家大公司所支配。"
+      }
+    },
+    {
+      "word": "Dominating",
+      "type": "adjective",
+      "meaning": "Exercising control or influence",
+      "example": "He had a dominating presence in the room.",
+      "chinese": {
+        "meaning": "支配的",
+        "example": "他在房間裡有著支配的氣勢。"
+      }
+    },
+    {
+      "word": "Doomed",
+      "type": "adjective",
+      "meaning": "Destined to fail or suffer",
+      "example": "The mission was doomed from the start.",
+      "chinese": {
+        "meaning": "注定失敗的",
+        "example": "這個任務從一開始就注定失敗。"
+      }
+    },
+    {
+      "word": "Dormant",
+      "type": "adjective",
+      "meaning": "Inactive but capable of becoming active",
+      "example": "The volcano has been dormant for centuries.",
+      "chinese": {
+        "meaning": "休眠的",
+        "example": "這座火山已經休眠了幾個世紀。"
+      }
+    },
+    {
+      "word": "Dorsal",
+      "type": "adjective",
+      "meaning": "Relating to the back or upper side",
+      "example": "Sharks have a prominent dorsal fin.",
+      "chinese": {
+        "meaning": "背部的",
+        "example": "鯊魚有一個顯著的背鰭。"
+      }
+    },
+    {
+      "word": "Dotted",
+      "type": "adjective",
+      "meaning": "Scattered with small spots",
+      "example": "The field was dotted with wildflowers.",
+      "chinese": {
+        "meaning": "點綴的",
+        "example": "田野裡點綴著野花。"
+      }
+    },
+    {
+      "word": "Double",
+      "type": "adjective",
+      "meaning": "Consisting of two parts; twice as much",
+      "example": "He ordered a double espresso.",
+      "chinese": {
+        "meaning": "雙倍的",
+        "example": "他點了一杯雙份濃縮咖啡。"
       }
     },
     {
@@ -716,6 +2886,16 @@
       }
     },
     {
+      "word": "Doughy",
+      "type": "adjective",
+      "meaning": "Soft and slightly heavy in texture",
+      "example": "The bread was undercooked and doughy.",
+      "chinese": {
+        "meaning": "麵糰般的",
+        "example": "這麵包沒熟，口感像麵糰一樣。"
+      }
+    },
+    {
       "word": "Downcast",
       "type": "adjective",
       "letter": "D",
@@ -727,6 +2907,96 @@
       }
     },
     {
+      "word": "Downhearted",
+      "type": "adjective",
+      "meaning": "Discouraged or sad",
+      "example": "She felt downhearted after the loss.",
+      "chinese": {
+        "meaning": "沮喪的",
+        "example": "失敗後她感到沮喪。"
+      }
+    },
+    {
+      "word": "Downhill",
+      "type": "adjective",
+      "meaning": "Going downward or worsening",
+      "example": "Things started to go downhill from there.",
+      "chinese": {
+        "meaning": "走下坡的",
+        "example": "從那時起情況開始走下坡路。"
+      }
+    },
+    {
+      "word": "Downright",
+      "type": "adjective",
+      "meaning": "Absolutely or completely (negative)",
+      "example": "That was a downright lie.",
+      "chinese": {
+        "meaning": "徹底的",
+        "example": "那完全是一個謊言。"
+      }
+    },
+    {
+      "word": "Downstream",
+      "type": "adjective",
+      "meaning": "Situated or moving in the direction the river flows",
+      "example": "The waste was dumped downstream.",
+      "chinese": {
+        "meaning": "下游的",
+        "example": "廢物被傾倒在下游。"
+      }
+    },
+    {
+      "word": "Downtrodden",
+      "type": "adjective",
+      "meaning": "Oppressed or treated badly by people in power",
+      "example": "They fought for the rights of the downtrodden.",
+      "chinese": {
+        "meaning": "被踐踏的，受壓迫的",
+        "example": "他們為被壓迫者的權利而戰。"
+      }
+    },
+    {
+      "word": "Dozy",
+      "type": "adjective",
+      "meaning": "Feeling sleepy",
+      "example": "He felt dozy after lunch.",
+      "chinese": {
+        "meaning": "昏昏欲睡的",
+        "example": "午餐後他感到昏昏欲睡。"
+      }
+    },
+    {
+      "word": "Drab",
+      "type": "adjective",
+      "meaning": "Dull and lacking brightness",
+      "example": "The room looked drab and uninviting.",
+      "chinese": {
+        "meaning": "單調乏味的",
+        "example": "房間看起來單調乏味，毫無吸引力。"
+      }
+    },
+    {
+      "word": "Drafty",
+      "type": "adjective",
+      "meaning": "Having currents of cold air",
+      "example": "The old house was cold and drafty.",
+      "chinese": {
+        "meaning": "有穿堂風的",
+        "example": "這棟老房子又冷又有穿堂風。"
+      }
+    },
+    {
+      "word": "Dragged",
+      "type": "adjective",
+      "meaning": "Pulled with difficulty or tiredly",
+      "example": "He felt dragged after the long day.",
+      "chinese": {
+        "meaning": "疲憊的，被拖累的",
+        "example": "經過漫長的一天後，他感到很疲憊。"
+      }
+    },
+    {
       "word": "Dramatic",
       "type": "adjective",
       "letter": "D",
@@ -735,6 +3005,16 @@
       "chinese": {
         "meaning": "戲劇性的；引人注目的",
         "example": "天氣發生了戲劇性的變化。"
+      }
+    },
+    {
+      "word": "Drastic",
+      "type": "adjective",
+      "meaning": "Severe or extreme",
+      "example": "They had to take drastic measures.",
+      "chinese": {
+        "meaning": "激烈的，極端的",
+        "example": "他們不得不採取激烈的措施。"
       }
     },
     {
@@ -771,6 +3051,176 @@
       }
     },
     {
+      "word": "Drenched",
+      "type": "adjective",
+      "meaning": "Completely soaked with liquid",
+      "example": "He arrived home drenched from the rain.",
+      "chinese": {
+        "meaning": "濕透的",
+        "example": "他淋著雨回家，全身濕透。"
+      }
+    },
+    {
+      "word": "Dressed",
+      "type": "adjective",
+      "meaning": "Wearing clothes",
+      "example": "She was already dressed for the party.",
+      "chinese": {
+        "meaning": "穿著衣服的",
+        "example": "她已經穿好衣服準備參加派對。"
+      }
+    },
+    {
+      "word": "Dried",
+      "type": "adjective",
+      "meaning": "Having had moisture removed",
+      "example": "The dried leaves rustled underfoot.",
+      "chinese": {
+        "meaning": "乾的",
+        "example": "乾枯的葉子在腳下沙沙作響。"
+      }
+    },
+    {
+      "word": "Drifting",
+      "type": "adjective",
+      "meaning": "Moving slowly without direction",
+      "example": "He spent the day drifting through the city.",
+      "chinese": {
+        "meaning": "漂流的，無目的的",
+        "example": "他整天在城市裡無目的地閒逛。"
+      }
+    },
+    {
+      "word": "Drilled",
+      "type": "adjective",
+      "meaning": "Trained or practiced thoroughly",
+      "example": "The soldiers were well drilled.",
+      "chinese": {
+        "meaning": "訓練有素的",
+        "example": "這些士兵訓練有素。"
+      }
+    },
+    {
+      "word": "Dripping",
+      "type": "adjective",
+      "meaning": "Soaking wet, with water falling in drops",
+      "example": "She came in dripping wet.",
+      "chinese": {
+        "meaning": "濕透的，滴水的",
+        "example": "她全身濕透地走進來。"
+      }
+    },
+    {
+      "word": "Driven",
+      "type": "adjective",
+      "meaning": "Motivated to succeed",
+      "example": "She is a highly driven individual.",
+      "chinese": {
+        "meaning": "有上進心的",
+        "example": "她是一個非常有上進心的人。"
+      }
+    },
+    {
+      "word": "Driving",
+      "type": "adjective",
+      "meaning": "Providing strong motivation or force",
+      "example": "He played a driving role in the project.",
+      "chinese": {
+        "meaning": "推動的，驅動的",
+        "example": "他在該項目中起到了推動作用。"
+      }
+    },
+    {
+      "word": "Droll",
+      "type": "adjective",
+      "meaning": "Amusing in an odd or whimsical way",
+      "example": "He told a droll story about his travels.",
+      "chinese": {
+        "meaning": "滑稽的，古怪有趣的",
+        "example": "他講了一個關於旅行的滑稽故事。"
+      }
+    },
+    {
+      "word": "Drooling",
+      "type": "adjective",
+      "meaning": "Letting saliva fall from the mouth",
+      "example": "The baby was drooling constantly.",
+      "chinese": {
+        "meaning": "流口水的",
+        "example": "嬰兒不停地流口水。"
+      }
+    },
+    {
+      "word": "Drooping",
+      "type": "adjective",
+      "meaning": "Hanging down limply",
+      "example": "The flowers were drooping from the heat.",
+      "chinese": {
+        "meaning": "下垂的，無力的",
+        "example": "花因為高溫而下垂。"
+      }
+    },
+    {
+      "word": "Droopy",
+      "type": "adjective",
+      "meaning": "Hanging down or lacking energy",
+      "example": "He looked tired and droopy.",
+      "chinese": {
+        "meaning": "垂頭喪氣的",
+        "example": "他看起來很疲倦、垂頭喪氣。"
+      }
+    },
+    {
+      "word": "Drowsy",
+      "type": "adjective",
+      "meaning": "Sleepy and lethargic",
+      "example": "The medicine made her feel drowsy.",
+      "chinese": {
+        "meaning": "昏昏欲睡的",
+        "example": "這藥讓她感到昏昏欲睡。"
+      }
+    },
+    {
+      "word": "Drugged",
+      "type": "adjective",
+      "meaning": "Under the influence of drugs",
+      "example": "He looked drugged and confused.",
+      "chinese": {
+        "meaning": "被下藥的，吸毒的",
+        "example": "他看起來像是被下藥且神智不清。"
+      }
+    },
+    {
+      "word": "Drunk",
+      "type": "adjective",
+      "meaning": "Intoxicated by alcohol",
+      "example": "He was too drunk to drive.",
+      "chinese": {
+        "meaning": "喝醉的",
+        "example": "他喝得太醉，不能開車。"
+      }
+    },
+    {
+      "word": "Dry",
+      "type": "adjective",
+      "meaning": "Free from moisture",
+      "example": "The clothes are finally dry.",
+      "chinese": {
+        "meaning": "乾的",
+        "example": "衣服終於乾了。"
+      }
+    },
+    {
+      "word": "Dual",
+      "type": "adjective",
+      "meaning": "Having two parts or aspects",
+      "example": "She has dual citizenship.",
+      "chinese": {
+        "meaning": "雙重的",
+        "example": "她擁有雙重國籍。"
+      }
+    },
+    {
       "word": "Dubious",
       "type": "adjective",
       "letter": "D",
@@ -804,6 +3254,26 @@
       }
     },
     {
+      "word": "Dutiful",
+      "type": "adjective",
+      "meaning": "Performing duties because of obligation",
+      "example": "He was a dutiful son.",
+      "chinese": {
+        "meaning": "盡責的，孝順的",
+        "example": "他是一個盡責的兒子。"
+      }
+    },
+    {
+      "word": "Dwarfed",
+      "type": "adjective",
+      "meaning": "Made small by comparison",
+      "example": "The small house was dwarfed by the skyscrapers around it.",
+      "chinese": {
+        "meaning": "顯得矮小的",
+        "example": "小房子在周圍的摩天大樓襯托下顯得很矮小。"
+      }
+    },
+    {
       "word": "Dynamic",
       "type": "adjective",
       "letter": "D",
@@ -812,6 +3282,26 @@
       "chinese": {
         "meaning": "有活力的；動態的",
         "example": "她是一位有活力的領袖。"
+      }
+    },
+    {
+      "word": "Dysfunctional",
+      "type": "adjective",
+      "meaning": "Not working normally or properly",
+      "example": "He grew up in a dysfunctional family.",
+      "chinese": {
+        "meaning": "功能失常的，不健全的",
+        "example": "他在一個不健全的家庭長大。"
+      }
+    },
+    {
+      "word": "Dyslexic",
+      "type": "adjective",
+      "meaning": "Having difficulty reading or interpreting words",
+      "example": "She is dyslexic and struggles with reading.",
+      "chinese": {
+        "meaning": "閱讀困難的",
+        "example": "她有閱讀障礙，閱讀很吃力。"
       }
     }
   ]

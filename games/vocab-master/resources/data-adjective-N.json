@@ -12,6 +12,39 @@
       }
     },
     {
+      "word": "Naked",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Without clothing or covering; bare",
+      "example": "He walked outside in his naked skin.",
+      "chinese": {
+        "meaning": "裸體的",
+        "example": "他赤裸著皮膚走到外面。"
+      }
+    },
+    {
+      "word": "Nameless",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Without a name; anonymous",
+      "example": "The artist remains nameless.",
+      "chinese": {
+        "meaning": "無名的",
+        "example": "那位藝術家保持匿名。"
+      }
+    },
+    {
+      "word": "Napoleonic",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to Napoleon or his era",
+      "example": "The Napoleonic wars reshaped Europe.",
+      "chinese": {
+        "meaning": "拿破崙時代的",
+        "example": "拿破崙戰爭改變了歐洲。"
+      }
+    },
+    {
       "word": "Narrow",
       "type": "adjective",
       "letter": "N",
@@ -23,6 +56,28 @@
       }
     },
     {
+      "word": "Nasal",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to the nose",
+      "example": "He had a nasal voice due to a cold.",
+      "chinese": {
+        "meaning": "鼻子的",
+        "example": "因為感冒，他的聲音帶有鼻音。"
+      }
+    },
+    {
+      "word": "Nascent",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Just coming into existence; beginning to develop",
+      "example": "The nascent industry shows great promise.",
+      "chinese": {
+        "meaning": "初生的；萌芽的",
+        "example": "這個新興產業展現出巨大潛力。"
+      }
+    },
+    {
       "word": "Nasty",
       "type": "adjective",
       "letter": "N",
@@ -31,6 +86,39 @@
       "chinese": {
         "meaning": "令人不快的，惡劣的",
         "example": "那個人的態度非常令人不快。"
+      }
+    },
+    {
+      "word": "National",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to a nation or country",
+      "example": "They celebrate national holidays with pride.",
+      "chinese": {
+        "meaning": "國家的",
+        "example": "他們自豪地慶祝國家節日。"
+      }
+    },
+    {
+      "word": "Nationalist",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Advocating for the interests of one's own nation",
+      "example": "The nationalist movement gained momentum.",
+      "chinese": {
+        "meaning": "民族主義的",
+        "example": "民族主義運動獲得了動力。"
+      }
+    },
+    {
+      "word": "Native",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Associated with the place or environment where a person was born",
+      "example": "She is a native speaker of Spanish.",
+      "chinese": {
+        "meaning": "本地的；土著的",
+        "example": "她是西班牙語的母語者。"
       }
     },
     {
@@ -56,6 +144,39 @@
       }
     },
     {
+      "word": "Nautical",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to sailors, ships, or navigation",
+      "example": "They studied nautical charts for their voyage.",
+      "chinese": {
+        "meaning": "航海的",
+        "example": "他們研究航海圖為航行做準備。"
+      }
+    },
+    {
+      "word": "Naval",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to a navy or military ships",
+      "example": "The naval fleet docked at the harbor.",
+      "chinese": {
+        "meaning": "海軍的",
+        "example": "海軍艦隊停靠在港口。"
+      }
+    },
+    {
+      "word": "Navigable",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Able to be sailed on by ships or boats",
+      "example": "The river is navigable for small boats.",
+      "chinese": {
+        "meaning": "可航行的",
+        "example": "這條河適合小船航行。"
+      }
+    },
+    {
       "word": "Navy",
       "type": "adjective",
       "letter": "N",
@@ -67,6 +188,39 @@
       }
     },
     {
+      "word": "Near",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Close in distance or time",
+      "example": "The school is near the park.",
+      "chinese": {
+        "meaning": "近的",
+        "example": "學校在公園附近。"
+      }
+    },
+    {
+      "word": "Nearby",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Close by; not far away",
+      "example": "There is a restaurant nearby.",
+      "chinese": {
+        "meaning": "附近的",
+        "example": "附近有一家餐廳。"
+      }
+    },
+    {
+      "word": "Nearest",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Closest in distance",
+      "example": "The nearest hospital is five miles away.",
+      "chinese": {
+        "meaning": "最近的",
+        "example": "最近的醫院距離五英里。"
+      }
+    },
+    {
       "word": "Neat",
       "type": "adjective",
       "letter": "N",
@@ -75,6 +229,17 @@
       "chinese": {
         "meaning": "整潔的，利落的",
         "example": "他的房間總是保持得很整潔。"
+      }
+    },
+    {
+      "word": "Nebulous",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Vague or unclear",
+      "example": "His ideas were nebulous and hard to understand.",
+      "chinese": {
+        "meaning": "模糊的",
+        "example": "他的想法模糊難懂。"
       }
     },
     {
@@ -133,6 +298,17 @@
       }
     },
     {
+      "word": "Negligent",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Failing to take proper care",
+      "example": "The company was negligent in its safety measures.",
+      "chinese": {
+        "meaning": "疏忽的",
+        "example": "公司在安全措施上疏忽大意。"
+      }
+    },
+    {
       "word": "Negligible",
       "type": "adjective",
       "letter": "N",
@@ -144,6 +320,17 @@
       }
     },
     {
+      "word": "Negotiable",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Open to discussion or modification",
+      "example": "The price is negotiable.",
+      "chinese": {
+        "meaning": "可協商的",
+        "example": "價格可以協商。"
+      }
+    },
+    {
       "word": "Negroid",
       "type": "adjective",
       "letter": "N",
@@ -152,6 +339,72 @@
       "chinese": {
         "meaning": "尼格羅人的（人種分類）",
         "example": "這是人種分類的一種術語。"
+      }
+    },
+    {
+      "word": "Neighboring",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Situated next to or near",
+      "example": "They live in neighboring towns.",
+      "chinese": {
+        "meaning": "鄰近的",
+        "example": "他們住在鄰近的小鎮。"
+      }
+    },
+    {
+      "word": "Neoclassical",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to a revival of classical styles in art or architecture",
+      "example": "The building has neoclassical architecture.",
+      "chinese": {
+        "meaning": "新古典主義的",
+        "example": "這座建築具有新古典主義風格。"
+      }
+    },
+    {
+      "word": "Neocolonial",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to new forms of colonialism or control",
+      "example": "The country faced neocolonial influences.",
+      "chinese": {
+        "meaning": "新殖民主義的",
+        "example": "該國面臨新殖民主義的影響。"
+      }
+    },
+    {
+      "word": "Neoliberal",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Supporting free-market capitalism and minimal government intervention",
+      "example": "The policy reflected a neoliberal approach.",
+      "chinese": {
+        "meaning": "新自由主義的",
+        "example": "該政策反映了新自由主義的立場。"
+      }
+    },
+    {
+      "word": "Neon",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to bright fluorescent colors or the gas neon",
+      "example": "She wore a neon green jacket.",
+      "chinese": {
+        "meaning": "霓虹色的",
+        "example": "她穿著霓虹綠色的夾克。"
+      }
+    },
+    {
+      "word": "Neoplastic",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to the formation of new tissue or tumors",
+      "example": "The doctor studied neoplastic diseases.",
+      "chinese": {
+        "meaning": "新生的；腫瘤的",
+        "example": "醫生研究腫瘤相關疾病。"
       }
     },
     {
@@ -188,6 +441,28 @@
       }
     },
     {
+      "word": "Neurological",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to the nervous system",
+      "example": "She suffers from neurological disorders.",
+      "chinese": {
+        "meaning": "神經系統的",
+        "example": "她患有神經系統疾病。"
+      }
+    },
+    {
+      "word": "Neurotic",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Having excessive anxiety or emotional instability",
+      "example": "He has a neurotic personality.",
+      "chinese": {
+        "meaning": "神經質的",
+        "example": "他性格神經質。"
+      }
+    },
+    {
       "word": "Neutral",
       "type": "adjective",
       "letter": "N",
@@ -210,6 +485,28 @@
       }
     },
     {
+      "word": "Newborn",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Recently born",
+      "example": "The newborn baby is healthy.",
+      "chinese": {
+        "meaning": "新生的",
+        "example": "新生嬰兒很健康。"
+      }
+    },
+    {
+      "word": "Newer",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "More recent",
+      "example": "She bought a newer model of the phone.",
+      "chinese": {
+        "meaning": "更新的",
+        "example": "她買了更新款的手機。"
+      }
+    },
+    {
       "word": "Newfangled",
       "type": "adjective",
       "letter": "N",
@@ -218,6 +515,17 @@
       "chinese": {
         "meaning": "新奇的，最新式的",
         "example": "他不喜歡那些新奇的電子產品。"
+      }
+    },
+    {
+      "word": "Next",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Coming immediately after the present one",
+      "example": "He is the next candidate in line.",
+      "chinese": {
+        "meaning": "下一個的",
+        "example": "他是下一位候選人。"
       }
     },
     {
@@ -232,6 +540,28 @@
       }
     },
     {
+      "word": "Nicer",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "More pleasant or agreeable",
+      "example": "This restaurant is nicer than the last one.",
+      "chinese": {
+        "meaning": "更好的",
+        "example": "這家餐廳比上一家更好。"
+      }
+    },
+    {
+      "word": "Niche",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Specialized and suitable for a particular market or interest",
+      "example": "They found a niche audience for their product.",
+      "chinese": {
+        "meaning": "小眾的",
+        "example": "他們找到了產品的小眾市場。"
+      }
+    },
+    {
       "word": "Nifty",
       "type": "adjective",
       "letter": "N",
@@ -240,6 +570,17 @@
       "chinese": {
         "meaning": "巧妙的，俐落的",
         "example": "他發明了一個巧妙的工具。"
+      }
+    },
+    {
+      "word": "Nightly",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Happening every night",
+      "example": "The nightly news covers current events.",
+      "chinese": {
+        "meaning": "每晚的",
+        "example": "晚間新聞報導時事。"
       }
     },
     {
@@ -262,6 +603,17 @@
       "chinese": {
         "meaning": "靈巧的，手指靈活的",
         "example": "她是一位靈巧的編織者。"
+      }
+    },
+    {
+      "word": "Ninth",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Coming after the eighth in order",
+      "example": "He finished in ninth place.",
+      "chinese": {
+        "meaning": "第九的",
+        "example": "他獲得第九名。"
       }
     },
     {
@@ -331,6 +683,204 @@
       }
     },
     {
+      "word": "Nomadic",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Living the life of a nomad; wandering",
+      "example": "The nomadic tribe moved seasonally.",
+      "chinese": {
+        "meaning": "遊牧的",
+        "example": "這個部落過著遊牧生活。"
+      }
+    },
+    {
+      "word": "Nominal",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Existing in name only; very small or minimal",
+      "example": "He was the nominal head of the organization.",
+      "chinese": {
+        "meaning": "名義上的；微不足道的",
+        "example": "他是該組織的名義領導人。"
+      }
+    },
+    {
+      "word": "Nominated",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Proposed or formally suggested for a position or award",
+      "example": "She was a nominated candidate for the prize.",
+      "chinese": {
+        "meaning": "被提名的",
+        "example": "她是該獎項的被提名候選人。"
+      }
+    },
+    {
+      "word": "Non-committal",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not expressing or revealing commitment to a definite opinion or course of action",
+      "example": "He gave a non-committal answer to the question.",
+      "chinese": {
+        "meaning": "態度曖昧的",
+        "example": "他對這個問題給出含糊其辭的回答。"
+      }
+    },
+    {
+      "word": "Non-compliant",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Failing or refusing to comply with rules or standards",
+      "example": "The factory was non-compliant with safety regulations.",
+      "chinese": {
+        "meaning": "不遵守規定的",
+        "example": "該工廠不符合安全規定。"
+      }
+    },
+    {
+      "word": "Non-descript",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Lacking distinctive or interesting features or characteristics",
+      "example": "The building was dull and non-descript.",
+      "chinese": {
+        "meaning": "無特徵的",
+        "example": "這座建築毫無特色。"
+      }
+    },
+    {
+      "word": "Non-essential",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not absolutely necessary",
+      "example": "They cut all non-essential expenses.",
+      "chinese": {
+        "meaning": "非必要的",
+        "example": "他們削減了所有非必要開支。"
+      }
+    },
+    {
+      "word": "Non-existent",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not existing or not present",
+      "example": "The service was practically non-existent.",
+      "chinese": {
+        "meaning": "不存在的",
+        "example": "服務幾乎不存在。"
+      }
+    },
+    {
+      "word": "Non-fiction",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Based on facts and real events rather than fiction",
+      "example": "He prefers reading non-fiction books.",
+      "chinese": {
+        "meaning": "非小說的",
+        "example": "他喜歡讀非小說類書籍。"
+      }
+    },
+    {
+      "word": "Non-flammable",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not easily set on fire",
+      "example": "The material is non-flammable and safe to use.",
+      "chinese": {
+        "meaning": "不可燃的",
+        "example": "這種材料不可燃，用起來很安全。"
+      }
+    },
+    {
+      "word": "Non-linear",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not arranged in a straight line; not sequential",
+      "example": "The story has a non-linear structure.",
+      "chinese": {
+        "meaning": "非線性的",
+        "example": "這個故事的結構是非線性的。"
+      }
+    },
+    {
+      "word": "Non-negotiable",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not open to discussion or modification",
+      "example": "The price is fixed and non-negotiable.",
+      "chinese": {
+        "meaning": "不可協商的",
+        "example": "價格是固定的，不可協商。"
+      }
+    },
+    {
+      "word": "Non-partisan",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not biased toward any political group",
+      "example": "The committee is non-partisan and neutral.",
+      "chinese": {
+        "meaning": "無黨派的",
+        "example": "該委員會是無黨派中立的。"
+      }
+    },
+    {
+      "word": "Non-profit",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not making or intended to make a profit",
+      "example": "She works for a non-profit organization.",
+      "chinese": {
+        "meaning": "非營利的",
+        "example": "她在一家非營利組織工作。"
+      }
+    },
+    {
+      "word": "Non-renewable",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not able to be renewed or replaced",
+      "example": "Coal is a non-renewable resource.",
+      "chinese": {
+        "meaning": "不可再生的",
+        "example": "煤是一種不可再生資源。"
+      }
+    },
+    {
+      "word": "Non-responsive",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not reacting or replying",
+      "example": "The patient was non-responsive after the operation.",
+      "chinese": {
+        "meaning": "沒有反應的",
+        "example": "手術後病人沒有反應。"
+      }
+    },
+    {
+      "word": "Non-stick",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Designed to prevent food from sticking",
+      "example": "This pan has a non-stick coating.",
+      "chinese": {
+        "meaning": "不黏的",
+        "example": "這個鍋有不黏塗層。"
+      }
+    },
+    {
+      "word": "Non-verbal",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Communicating without words",
+      "example": "She gave a non-verbal cue by nodding.",
+      "chinese": {
+        "meaning": "非語言的",
+        "example": "她點頭給出了一個非語言的暗示。"
+      }
+    },
+    {
       "word": "Nonchalant",
       "type": "adjective",
       "letter": "N",
@@ -397,6 +947,17 @@
       }
     },
     {
+      "word": "Nonviolent",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Not using violence",
+      "example": "They led a nonviolent protest.",
+      "chinese": {
+        "meaning": "非暴力的",
+        "example": "他們發起了一場非暴力抗議。"
+      }
+    },
+    {
       "word": "Normal",
       "type": "adjective",
       "letter": "N",
@@ -405,6 +966,83 @@
       "chinese": {
         "meaning": "正常的，普通的",
         "example": "這是正常的反應。"
+      }
+    },
+    {
+      "word": "North",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Situated toward or facing the north",
+      "example": "The north side of the house gets little sun.",
+      "chinese": {
+        "meaning": "北方的",
+        "example": "房子的北側陽光很少。"
+      }
+    },
+    {
+      "word": "Northeastern",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Located in the northeast",
+      "example": "They live in the northeastern part of the country.",
+      "chinese": {
+        "meaning": "東北的",
+        "example": "他們住在該國的東北部。"
+      }
+    },
+    {
+      "word": "Northern",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to the north",
+      "example": "Northern regions experience colder winters.",
+      "chinese": {
+        "meaning": "北方的",
+        "example": "北方地區的冬天更冷。"
+      }
+    },
+    {
+      "word": "Northward",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Directed toward the north",
+      "example": "They took a northward route.",
+      "chinese": {
+        "meaning": "向北的",
+        "example": "他們走了一條向北的路線。"
+      }
+    },
+    {
+      "word": "Norwegian",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to Norway or its people",
+      "example": "She enjoys Norwegian culture and traditions.",
+      "chinese": {
+        "meaning": "挪威的",
+        "example": "她喜歡挪威文化和傳統。"
+      }
+    },
+    {
+      "word": "Nosey",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Too interested in other people's business",
+      "example": "The nosey neighbor kept asking questions.",
+      "chinese": {
+        "meaning": "愛打聽的",
+        "example": "那個愛打聽的鄰居不斷問問題。"
+      }
+    },
+    {
+      "word": "Nostalgic",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Feeling or expressing nostalgia",
+      "example": "The old song made her feel nostalgic.",
+      "chinese": {
+        "meaning": "懷舊的",
+        "example": "這首老歌讓她感到懷舊。"
       }
     },
     {
@@ -438,6 +1076,17 @@
       "chinese": {
         "meaning": "值得注意的，顯著的",
         "example": "這是一個值得注意的發現。"
+      }
+    },
+    {
+      "word": "Noticeable",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Easily seen or observed",
+      "example": "There was a noticeable improvement in her work.",
+      "chinese": {
+        "meaning": "顯著的",
+        "example": "她的工作有顯著的進步。"
       }
     },
     {
@@ -496,6 +1145,17 @@
       }
     },
     {
+      "word": "Novice",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Being new or inexperienced",
+      "example": "As a novice teacher, she learned quickly.",
+      "chinese": {
+        "meaning": "新手的",
+        "example": "作為一名新手老師，她學得很快。"
+      }
+    },
+    {
       "word": "Noxious",
       "type": "adjective",
       "letter": "N",
@@ -504,6 +1164,17 @@
       "chinese": {
         "meaning": "有害的，有毒的",
         "example": "煙霧對健康有害。"
+      }
+    },
+    {
+      "word": "Nuanced",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Characterized by subtle differences or distinctions",
+      "example": "The artist's work is full of nuanced detail.",
+      "chinese": {
+        "meaning": "有細微差別的",
+        "example": "這位藝術家的作品充滿細膩的細節。"
       }
     },
     {
@@ -540,6 +1211,17 @@
       }
     },
     {
+      "word": "Null",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Having no legal or binding force",
+      "example": "The agreement was declared null and void.",
+      "chinese": {
+        "meaning": "無效的",
+        "example": "協議被宣告為無效。"
+      }
+    },
+    {
       "word": "Numb",
       "type": "adjective",
       "letter": "N",
@@ -548,6 +1230,28 @@
       "chinese": {
         "meaning": "麻木的，失去感覺的",
         "example": "寒冷使他的手指麻木了。"
+      }
+    },
+    {
+      "word": "Numbered",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Having numbers assigned or marked",
+      "example": "Each page in the book is numbered.",
+      "chinese": {
+        "meaning": "有編號的",
+        "example": "書中的每一頁都有編號。"
+      }
+    },
+    {
+      "word": "Numbing",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Causing a loss of feeling or sensitivity",
+      "example": "The cold was numbing her fingers.",
+      "chinese": {
+        "meaning": "麻木的",
+        "example": "寒冷讓她的手指變得麻木。"
       }
     },
     {
@@ -573,6 +1277,17 @@
       }
     },
     {
+      "word": "Nuptial",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Relating to marriage or weddings",
+      "example": "They prepared for the nuptial ceremony.",
+      "chinese": {
+        "meaning": "婚禮的",
+        "example": "他們在準備婚禮儀式。"
+      }
+    },
+    {
       "word": "Nurtured",
       "type": "adjective",
       "letter": "N",
@@ -592,6 +1307,17 @@
       "chinese": {
         "meaning": "養育的，培育的",
         "example": "她有一顆養育孩子的心。"
+      }
+    },
+    {
+      "word": "Nutrient",
+      "type": "adjective",
+      "letter": "N",
+      "meaning": "Providing nourishment or nutrition",
+      "example": "This soil is nutrient rich.",
+      "chinese": {
+        "meaning": "有營養的",
+        "example": "這片土壤富含營養。"
       }
     },
     {
