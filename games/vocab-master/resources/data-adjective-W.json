@@ -12,6 +12,28 @@
       }
     },
     {
+      "word": "Wakeful",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Unable or not needing to sleep",
+      "example": "She lay wakeful all night worrying about the exam.",
+      "chinese": {
+        "meaning": "失眠的；醒著的",
+        "example": "她整晚醒著，擔心著考試。"
+      }
+    },
+    {
+      "word": "Wan",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Pale and giving the impression of illness or exhaustion",
+      "example": "He looked wan and tired after the long journey.",
+      "chinese": {
+        "meaning": "蒼白的；憔悴的",
+        "example": "長途旅行後，他看起來蒼白而疲憊。"
+      }
+    },
+    {
       "word": "Waning",
       "type": "adjective",
       "letter": "W",
@@ -23,6 +45,28 @@
       }
     },
     {
+      "word": "Wanted",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Desired or sought after",
+      "example": "The new device is one of the most wanted gadgets this year.",
+      "chinese": {
+        "meaning": "被需要的；被通緝的",
+        "example": "這款新設備是今年最受追捧的產品之一。"
+      }
+    },
+    {
+      "word": "Wanting",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Lacking or deficient in some quality",
+      "example": "Her work was found wanting in accuracy.",
+      "chinese": {
+        "meaning": "欠缺的",
+        "example": "她的工作被發現缺乏準確性。"
+      }
+    },
+    {
       "word": "Wanton",
       "type": "adjective",
       "letter": "W",
@@ -31,6 +75,39 @@
       "chinese": {
         "meaning": "無節制的，放縱的",
         "example": "森林的肆意破壞令人擔憂。"
+      }
+    },
+    {
+      "word": "Warm",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Having a moderately high temperature",
+      "example": "It was a warm day in spring.",
+      "chinese": {
+        "meaning": "溫暖的",
+        "example": "那是春天裡一個溫暖的日子。"
+      }
+    },
+    {
+      "word": "Warmer",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Comparative form of warm; having a higher temperature",
+      "example": "Today is warmer than yesterday.",
+      "chinese": {
+        "meaning": "較溫暖的",
+        "example": "今天比昨天更溫暖。"
+      }
+    },
+    {
+      "word": "Warmhearted",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Kind and sympathetic",
+      "example": "She is a warmhearted woman who helps everyone.",
+      "chinese": {
+        "meaning": "熱心腸的",
+        "example": "她是一位熱心腸的女士，總是幫助大家。"
       }
     },
     {
@@ -53,6 +130,28 @@
       "chinese": {
         "meaning": "謹慎的，小心翼翼的",
         "example": "對陌生人的幫助要保持警惕。"
+      }
+    },
+    {
+      "word": "Washed",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Cleaned with water or appearing faded",
+      "example": "The washed fabric looked soft and comfortable.",
+      "chinese": {
+        "meaning": "洗過的；褪色的",
+        "example": "這塊洗過的布料看起來柔軟而舒適。"
+      }
+    },
+    {
+      "word": "Wasted",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Used carelessly or appearing thin and weak",
+      "example": "He looked wasted after the illness.",
+      "chinese": {
+        "meaning": "浪費的；憔悴的",
+        "example": "生病後，他看起來非常憔悴。"
       }
     },
     {
@@ -89,6 +188,17 @@
       }
     },
     {
+      "word": "Waterproof",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Not allowing water to pass through",
+      "example": "This jacket is waterproof and ideal for rainy weather.",
+      "chinese": {
+        "meaning": "防水的",
+        "example": "這件外套防水，非常適合雨天穿。"
+      }
+    },
+    {
       "word": "Watery",
       "type": "adjective",
       "letter": "W",
@@ -97,6 +207,39 @@
       "chinese": {
         "meaning": "稀薄的，水汪汪的",
         "example": "他的眼睛因哭泣而水汪汪的。"
+      }
+    },
+    {
+      "word": "Wavy",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Having a series of curves",
+      "example": "She has long, wavy hair.",
+      "chinese": {
+        "meaning": "波浪形的",
+        "example": "她有一頭長長的波浪形頭髮。"
+      }
+    },
+    {
+      "word": "Waxen",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Having a smooth, pale appearance like wax",
+      "example": "His face was waxen and expressionless.",
+      "chinese": {
+        "meaning": "蠟質的；蒼白的",
+        "example": "他的臉色蒼白，毫無表情。"
+      }
+    },
+    {
+      "word": "Wayward",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Difficult to control or predict",
+      "example": "The wayward child refused to follow the rules.",
+      "chinese": {
+        "meaning": "任性的；不受控制的",
+        "example": "那個任性的孩子拒絕遵守規則。"
       }
     },
     {
@@ -111,6 +254,28 @@
       }
     },
     {
+      "word": "Weakened",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Made less strong or effective",
+      "example": "His immune system was weakened by stress.",
+      "chinese": {
+        "meaning": "虛弱的；削弱的",
+        "example": "他的免疫系統因壓力而變得虛弱。"
+      }
+    },
+    {
+      "word": "Weakly",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "In a way that lacks strength",
+      "example": "He smiled weakly after hearing the news.",
+      "chinese": {
+        "meaning": "虛弱地",
+        "example": "聽到這個消息後，他虛弱地笑了笑。"
+      }
+    },
+    {
       "word": "Wealthy",
       "type": "adjective",
       "letter": "W",
@@ -119,6 +284,39 @@
       "chinese": {
         "meaning": "富有的，富裕的",
         "example": "他們來自一個富裕的家庭。"
+      }
+    },
+    {
+      "word": "Wearable",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Suitable for wearing",
+      "example": "This fabric is durable and wearable.",
+      "chinese": {
+        "meaning": "耐穿的；適合穿戴的",
+        "example": "這種布料結實耐穿。"
+      }
+    },
+    {
+      "word": "Wearied",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Tired or exhausted",
+      "example": "She looked wearied after the long meeting.",
+      "chinese": {
+        "meaning": "疲憊的",
+        "example": "長時間的會議後，她看起來很疲憊。"
+      }
+    },
+    {
+      "word": "Wearisome",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Causing one to feel tired or bored",
+      "example": "The long speech was wearisome.",
+      "chinese": {
+        "meaning": "令人厭倦的",
+        "example": "那場冗長的演講令人厭倦。"
       }
     },
     {
@@ -133,6 +331,17 @@
       }
     },
     {
+      "word": "Weathered",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Worn by long exposure to the weather",
+      "example": "The weathered fence added charm to the garden.",
+      "chinese": {
+        "meaning": "風化的；飽經風霜的",
+        "example": "那道風化的圍欄為花園增添了魅力。"
+      }
+    },
+    {
       "word": "Webbed",
       "type": "adjective",
       "letter": "W",
@@ -141,6 +350,50 @@
       "chinese": {
         "meaning": "有蹼的（如鳥或兩棲動物的腳）",
         "example": "鴨子有蹼狀的腳幫助游泳。"
+      }
+    },
+    {
+      "word": "Weekly",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Occurring or produced once a week",
+      "example": "She attends a weekly yoga class.",
+      "chinese": {
+        "meaning": "每週的",
+        "example": "她每週參加一次瑜伽課。"
+      }
+    },
+    {
+      "word": "Weepy",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Tearful or inclined to cry easily",
+      "example": "She felt weepy after watching the sad movie.",
+      "chinese": {
+        "meaning": "愛哭的；想哭的",
+        "example": "看完那部悲傷的電影後，她覺得很想哭。"
+      }
+    },
+    {
+      "word": "Weightless",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Having little or no apparent weight",
+      "example": "Astronauts feel weightless in space.",
+      "chinese": {
+        "meaning": "失重的",
+        "example": "太空人會在太空中感到失重。"
+      }
+    },
+    {
+      "word": "Weighty",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Having considerable weight or importance",
+      "example": "The board made a weighty decision.",
+      "chinese": {
+        "meaning": "沉重的；重要的",
+        "example": "董事會作出了一個重要的決定。"
       }
     },
     {
@@ -155,6 +408,50 @@
       }
     },
     {
+      "word": "Welcoming",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Friendly and hospitable",
+      "example": "The host gave us a welcoming smile.",
+      "chinese": {
+        "meaning": "熱情好客的",
+        "example": "主人給了我們一個熱情的微笑。"
+      }
+    },
+    {
+      "word": "Well",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "In good health or good condition",
+      "example": "She is finally well after her illness.",
+      "chinese": {
+        "meaning": "健康的",
+        "example": "她病好後終於恢復了健康。"
+      }
+    },
+    {
+      "word": "Well-adjusted",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Emotionally stable and able to deal with life",
+      "example": "He is a well-adjusted teenager.",
+      "chinese": {
+        "meaning": "心理適應良好的",
+        "example": "他是一個心理適應良好的青少年。"
+      }
+    },
+    {
+      "word": "Well-balanced",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Sensible and showing good judgment",
+      "example": "She maintains a well-balanced lifestyle.",
+      "chinese": {
+        "meaning": "均衡的；理智的",
+        "example": "她保持著均衡的生活方式。"
+      }
+    },
+    {
       "word": "Well-behaved",
       "type": "adjective",
       "letter": "W",
@@ -163,6 +460,39 @@
       "chinese": {
         "meaning": "行為良好的，守規矩的",
         "example": "孩子們在活動中表現得很守規矩。"
+      }
+    },
+    {
+      "word": "Well-built",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Having a strong and attractive body",
+      "example": "The athlete is tall and well-built.",
+      "chinese": {
+        "meaning": "體格健壯的",
+        "example": "那名運動員身材高大且健壯。"
+      }
+    },
+    {
+      "word": "Well-defined",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Clearly expressed or easy to see",
+      "example": "He has well-defined goals for his career.",
+      "chinese": {
+        "meaning": "明確的",
+        "example": "他有明確的職業目標。"
+      }
+    },
+    {
+      "word": "Well-deserved",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Rightly earned through hard work or merit",
+      "example": "She received a well-deserved promotion.",
+      "chinese": {
+        "meaning": "當之無愧的",
+        "example": "她得到了當之無愧的晉升。"
       }
     },
     {
@@ -397,6 +727,28 @@
       }
     },
     {
+      "word": "Withered",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Shrunken or dried up from age or lack of moisture",
+      "example": "The withered flowers lay on the ground.",
+      "chinese": {
+        "meaning": "枯萎的",
+        "example": "枯萎的花朵躺在地上。"
+      }
+    },
+    {
+      "word": "Witty",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Showing quick and inventive verbal humor",
+      "example": "She entertained the guests with her witty remarks.",
+      "chinese": {
+        "meaning": "機智幽默的",
+        "example": "她用機智的言辭逗樂了客人們。"
+      }
+    },
+    {
       "word": "Woeful",
       "type": "adjective",
       "letter": "W",
@@ -405,6 +757,17 @@
       "chinese": {
         "meaning": "悲傷的，悲慘的",
         "example": "這個悲慘的消息讓大家都很難過。"
+      }
+    },
+    {
+      "word": "Womanly",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Having qualities traditionally associated with women",
+      "example": "She displayed womanly grace and strength.",
+      "chinese": {
+        "meaning": "有女人味的",
+        "example": "她展現出女人特有的優雅與力量。"
       }
     },
     {
@@ -430,6 +793,39 @@
       }
     },
     {
+      "word": "Wooded",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Covered with trees",
+      "example": "The cabin is located in a wooded valley.",
+      "chinese": {
+        "meaning": "多樹木的",
+        "example": "小屋位於一個林木繁茂的山谷中。"
+      }
+    },
+    {
+      "word": "Wooden",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Made of wood; stiff and awkward",
+      "example": "He gave a wooden performance on stage.",
+      "chinese": {
+        "meaning": "木製的；呆板的",
+        "example": "他在舞台上的表演很呆板。"
+      }
+    },
+    {
+      "word": "Woolen",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Made of wool",
+      "example": "She wore a woolen scarf in winter.",
+      "chinese": {
+        "meaning": "羊毛製的",
+        "example": "她冬天戴著一條羊毛圍巾。"
+      }
+    },
+    {
       "word": "Woozy",
       "type": "adjective",
       "letter": "W",
@@ -438,6 +834,17 @@
       "chinese": {
         "meaning": "頭暈的，昏昏沉沉的",
         "example": "他轉圈後感到頭暈。"
+      }
+    },
+    {
+      "word": "Wordless",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Not expressed in words; silent",
+      "example": "He gave her a wordless hug.",
+      "chinese": {
+        "meaning": "無言的",
+        "example": "他無言地擁抱了她。"
       }
     },
     {
@@ -452,6 +859,28 @@
       }
     },
     {
+      "word": "Workable",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Capable of being done or put into practice successfully",
+      "example": "They came up with a workable solution.",
+      "chinese": {
+        "meaning": "可行的",
+        "example": "他們提出了一個可行的解決方案。"
+      }
+    },
+    {
+      "word": "Working",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Having a job; functioning or operating",
+      "example": "The working machine was repaired quickly.",
+      "chinese": {
+        "meaning": "工作的；運行的",
+        "example": "運行的機器很快被修好了。"
+      }
+    },
+    {
       "word": "Worldly",
       "type": "adjective",
       "letter": "W",
@@ -463,6 +892,39 @@
       }
     },
     {
+      "word": "Worldwide",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Extending or reaching throughout the world",
+      "example": "The product has gained worldwide popularity.",
+      "chinese": {
+        "meaning": "全球的",
+        "example": "這款產品在全球廣受歡迎。"
+      }
+    },
+    {
+      "word": "Worm-eaten",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Damaged by worms; decayed",
+      "example": "The worm-eaten books crumbled at the touch.",
+      "chinese": {
+        "meaning": "被蟲蛀的",
+        "example": "那些被蟲蛀的書一碰就碎。"
+      }
+    },
+    {
+      "word": "Worn",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Damaged or thin from continual use; tired",
+      "example": "His worn shoes needed replacing.",
+      "chinese": {
+        "meaning": "磨損的；疲憊的",
+        "example": "他那雙磨損的鞋需要換新了。"
+      }
+    },
+    {
       "word": "Worn-out",
       "type": "adjective",
       "letter": "W",
@@ -471,6 +933,127 @@
       "chinese": {
         "meaning": "磨損的，疲憊不堪的",
         "example": "徒步旅行後他的鞋子磨損了。"
+      }
+    },
+    {
+      "word": "Worried",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Anxious or troubled about problems",
+      "example": "She looked worried about the test results.",
+      "chinese": {
+        "meaning": "擔心的",
+        "example": "她看起來很擔心考試成績。"
+      }
+    },
+    {
+      "word": "Worrisome",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Causing anxiety or concern",
+      "example": "The rising crime rate is worrisome.",
+      "chinese": {
+        "meaning": "令人擔心的",
+        "example": "不斷上升的犯罪率令人擔憂。"
+      }
+    },
+    {
+      "word": "Worse",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Of poorer quality or lower standard",
+      "example": "Her condition is worse than yesterday.",
+      "chinese": {
+        "meaning": "更糟的",
+        "example": "她的病情比昨天更糟糕。"
+      }
+    },
+    {
+      "word": "Worshipful",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Feeling or showing reverence and adoration",
+      "example": "They gave him a worshipful look.",
+      "chinese": {
+        "meaning": "崇拜的；敬仰的",
+        "example": "他們用崇拜的眼神看著他。"
+      }
+    },
+    {
+      "word": "Worst",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Of the lowest quality or most severe",
+      "example": "That was the worst day of my life.",
+      "chinese": {
+        "meaning": "最糟的",
+        "example": "那是我一生中最糟的一天。"
+      }
+    },
+    {
+      "word": "Worth",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Deserving or capable of a specified thing",
+      "example": "This painting is worth a lot of money.",
+      "chinese": {
+        "meaning": "值得的；價值…的",
+        "example": "這幅畫值很多錢。"
+      }
+    },
+    {
+      "word": "Worthless",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Having no real value or use",
+      "example": "The counterfeit money is worthless.",
+      "chinese": {
+        "meaning": "無價值的",
+        "example": "假鈔是沒有任何價值的。"
+      }
+    },
+    {
+      "word": "Worthwhile",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Worth the time, effort, or cost",
+      "example": "Helping others is always worthwhile.",
+      "chinese": {
+        "meaning": "值得的",
+        "example": "幫助別人總是值得的。"
+      }
+    },
+    {
+      "word": "Worthy",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Having value or merit; deserving respect",
+      "example": "She is a worthy candidate for the award.",
+      "chinese": {
+        "meaning": "值得的；值得尊敬的",
+        "example": "她是這個獎項的合格候選人。"
+      }
+    },
+    {
+      "word": "Wounded",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Injured, especially by a weapon",
+      "example": "The wounded soldier was taken to the hospital.",
+      "chinese": {
+        "meaning": "受傷的",
+        "example": "受傷的士兵被送往醫院。"
+      }
+    },
+    {
+      "word": "Woven",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Made by interlacing threads",
+      "example": "She bought a beautifully woven rug.",
+      "chinese": {
+        "meaning": "編織的",
+        "example": "她買了一塊編織精美的地毯。"
       }
     },
     {
@@ -507,6 +1090,50 @@
       }
     },
     {
+      "word": "Written",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Expressed in writing",
+      "example": "You need written permission to enter.",
+      "chinese": {
+        "meaning": "書面的",
+        "example": "你需要書面許可才能進入。"
+      }
+    },
+    {
+      "word": "Wrong",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Not correct or true; morally unacceptable",
+      "example": "That answer is wrong.",
+      "chinese": {
+        "meaning": "錯誤的",
+        "example": "那個答案是錯的。"
+      }
+    },
+    {
+      "word": "Wrongful",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Unjust or illegal",
+      "example": "He was imprisoned due to wrongful accusations.",
+      "chinese": {
+        "meaning": "不公正的；非法的",
+        "example": "他因遭到不公正的指控而入獄。"
+      }
+    },
+    {
+      "word": "Wrought",
+      "type": "adjective",
+      "letter": "W",
+      "meaning": "Carefully formed or fashioned",
+      "example": "The artist presented a finely wrought sculpture.",
+      "chinese": {
+        "meaning": "精心製作的",
+        "example": "藝術家展示了一件精心製作的雕塑。"
+      }
+    },
+    {
       "word": "Wry",
       "type": "adjective",
       "letter": "W",
@@ -515,61 +1142,6 @@
       "chinese": {
         "meaning": "扭曲的，諷刺的",
         "example": "笑話後他露出諷刺的微笑。"
-      }
-    },
-    {
-      "word": "Yielding",
-      "type": "adjective",
-      "letter": "W",
-      "meaning": "柔順的，易彎曲的",
-      "example": "The yielding material bent easily.",
-      "chinese": {
-        "meaning": "柔順的，易彎曲的",
-        "example": "這種材料容易彎曲。"
-      }
-    },
-    {
-      "word": "Young",
-      "type": "adjective",
-      "letter": "W",
-      "meaning": "年輕的，幼小的",
-      "example": "The young students are eager to learn.",
-      "chinese": {
-        "meaning": "年輕的，幼小的",
-        "example": "年輕的學生渴望學習。"
-      }
-    },
-    {
-      "word": "Youthful",
-      "type": "adjective",
-      "letter": "W",
-      "meaning": "年輕的，有青春活力的",
-      "example": "She has a youthful energy.",
-      "chinese": {
-        "meaning": "年輕的，有青春活力的",
-        "example": "她充滿青春活力。"
-      }
-    },
-    {
-      "word": "Zany",
-      "type": "adjective",
-      "letter": "W",
-      "meaning": "滑稽可笑的，古怪的",
-      "example": "His zany antics made everyone laugh.",
-      "chinese": {
-        "meaning": "滑稽可笑的，古怪的",
-        "example": "他滑稽的舉動逗得大家哈哈大笑。"
-      }
-    },
-    {
-      "word": "Zealous",
-      "type": "adjective",
-      "letter": "W",
-      "meaning": "熱情的，狂熱的",
-      "example": "She is zealous about environmental protection.",
-      "chinese": {
-        "meaning": "熱情的，狂熱的",
-        "example": "她對環保充滿熱情。"
       }
     }
   ]

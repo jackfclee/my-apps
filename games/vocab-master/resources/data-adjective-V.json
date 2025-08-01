@@ -12,6 +12,17 @@
       }
     },
     {
+      "word": "Vacillating",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Indecisive; wavering between different opinions or actions",
+      "example": "She was vacillating between going to college or finding a job.",
+      "chinese": {
+        "meaning": "猶豫不決的",
+        "example": "她在上大學還是找工作之間猶豫不決。"
+      }
+    },
+    {
       "word": "Vague",
       "type": "adjective",
       "letter": "V",
@@ -20,6 +31,17 @@
       "chinese": {
         "meaning": "模糊的，不清楚的。",
         "example": "她的指示模糊且令人困惑。"
+      }
+    },
+    {
+      "word": "Vain",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Having an excessively high opinion of one's appearance or achievements; useless",
+      "example": "He is too vain to admit his mistakes.",
+      "chinese": {
+        "meaning": "自負的；徒勞的",
+        "example": "他太自負，不願承認自己的錯誤。"
       }
     },
     {
@@ -78,6 +100,28 @@
       }
     },
     {
+      "word": "Vanished",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Disappeared suddenly and completely",
+      "example": "The vanished documents were never recovered.",
+      "chinese": {
+        "meaning": "消失的",
+        "example": "消失的文件再也沒有找回來。"
+      }
+    },
+    {
+      "word": "Vanishing",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Gradually disappearing",
+      "example": "These animals are a vanishing species.",
+      "chinese": {
+        "meaning": "正在消失的",
+        "example": "這些動物是一個正在消失的物種。"
+      }
+    },
+    {
       "word": "Vapid",
       "type": "adjective",
       "letter": "V",
@@ -97,6 +141,39 @@
       "chinese": {
         "meaning": "多變的，易變的。",
         "example": "春季的天氣多變。"
+      }
+    },
+    {
+      "word": "Varied",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Showing diversity; not uniform",
+      "example": "The artist uses a varied color palette.",
+      "chinese": {
+        "meaning": "多樣化的",
+        "example": "這位藝術家使用了多樣化的調色盤。"
+      }
+    },
+    {
+      "word": "Various",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Of different kinds; several",
+      "example": "There are various solutions to this problem.",
+      "chinese": {
+        "meaning": "各種各樣的",
+        "example": "這個問題有各種各樣的解決方案。"
+      }
+    },
+    {
+      "word": "Varying",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Differing in size, amount, degree, or nature",
+      "example": "The students have varying levels of ability.",
+      "chinese": {
+        "meaning": "不同的；多變的",
+        "example": "學生們的能力水平各不相同。"
       }
     },
     {
@@ -122,6 +199,17 @@
       }
     },
     {
+      "word": "Vaunted",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Highly praised or boasted about",
+      "example": "The vaunted technology failed to deliver results.",
+      "chinese": {
+        "meaning": "被吹捧的",
+        "example": "被吹捧的技術未能帶來成果。"
+      }
+    },
+    {
       "word": "Vegetative",
       "type": "adjective",
       "letter": "V",
@@ -144,6 +232,39 @@
       }
     },
     {
+      "word": "Veiled",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Partially concealed or disguised",
+      "example": "She gave a veiled criticism of his actions.",
+      "chinese": {
+        "meaning": "含蓄的；隱藏的",
+        "example": "她對他的行為提出了含蓄的批評。"
+      }
+    },
+    {
+      "word": "Veiny",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Marked with veins or vein-like lines",
+      "example": "His veiny hands showed years of hard work.",
+      "chinese": {
+        "meaning": "多靜脈的；多紋理的",
+        "example": "他多靜脈的雙手顯示了多年辛勤勞作。"
+      }
+    },
+    {
+      "word": "Velvety",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Having a smooth, soft texture like velvet",
+      "example": "The cake has a velvety texture.",
+      "chinese": {
+        "meaning": "柔軟光滑的",
+        "example": "這款蛋糕有著柔軟光滑的口感。"
+      }
+    },
+    {
       "word": "Venal",
       "type": "adjective",
       "letter": "V",
@@ -155,6 +276,17 @@
       }
     },
     {
+      "word": "Veneered",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Covered with a thin decorative layer",
+      "example": "The veneered table looked elegant.",
+      "chinese": {
+        "meaning": "貼面板的；虛飾的",
+        "example": "這張貼面板的桌子看起來很優雅。"
+      }
+    },
+    {
       "word": "Venerable",
       "type": "adjective",
       "letter": "V",
@@ -163,6 +295,17 @@
       "chinese": {
         "meaning": "值得尊敬的，莊重的。",
         "example": "那位德高望重的教授受到大學的尊敬。"
+      }
+    },
+    {
+      "word": "Venetian",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Relating to Venice or its people",
+      "example": "The Venetian architecture is stunning.",
+      "chinese": {
+        "meaning": "威尼斯的",
+        "example": "威尼斯的建築令人驚嘆。"
       }
     },
     {
@@ -185,6 +328,39 @@
       "chinese": {
         "meaning": "有毒的，分泌毒液的。",
         "example": "有毒的蛇對人類可能很危險。"
+      }
+    },
+    {
+      "word": "Ventilated",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Provided with fresh air",
+      "example": "The room was well-ventilated.",
+      "chinese": {
+        "meaning": "通風的",
+        "example": "這個房間通風良好。"
+      }
+    },
+    {
+      "word": "Ventral",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Relating to the underside of an animal or plant",
+      "example": "The fish has a white ventral side.",
+      "chinese": {
+        "meaning": "腹部的",
+        "example": "這條魚有白色的腹部。"
+      }
+    },
+    {
+      "word": "Venturesome",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Willing to take risks or try out new things",
+      "example": "She is a venturesome traveler.",
+      "chinese": {
+        "meaning": "大膽的；冒險的",
+        "example": "她是一位大膽的旅行者。"
       }
     },
     {
@@ -221,6 +397,28 @@
       }
     },
     {
+      "word": "Verifiable",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Able to be confirmed or proven true",
+      "example": "The facts must be verifiable.",
+      "chinese": {
+        "meaning": "可證實的",
+        "example": "這些事實必須是可證實的。"
+      }
+    },
+    {
+      "word": "Verified",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Confirmed as true or accurate",
+      "example": "The verified information was released to the press.",
+      "chinese": {
+        "meaning": "已核實的",
+        "example": "經核實的信息已經發布給媒體。"
+      }
+    },
+    {
       "word": "Veritable",
       "type": "adjective",
       "letter": "V",
@@ -229,6 +427,17 @@
       "chinese": {
         "meaning": "真正的，名副其實的。",
         "example": "這座島嶼是真正的天堂。"
+      }
+    },
+    {
+      "word": "Vernacular",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Spoken as the native language or characteristic of a region",
+      "example": "The book was written in the vernacular language.",
+      "chinese": {
+        "meaning": "本地語言的；民間的",
+        "example": "這本書是用當地語言寫的。"
       }
     },
     {
@@ -265,6 +474,50 @@
       }
     },
     {
+      "word": "Vesicular",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Characterized by or containing small sacs or vesicles",
+      "example": "The vesicular rash spread rapidly.",
+      "chinese": {
+        "meaning": "起泡的；小囊的",
+        "example": "起泡的皮疹迅速擴散開來。"
+      }
+    },
+    {
+      "word": "Vestigial",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Forming a very small remnant of something that was once larger",
+      "example": "Humans have a vestigial tailbone.",
+      "chinese": {
+        "meaning": "退化的；殘留的",
+        "example": "人類有一個退化的尾骨。"
+      }
+    },
+    {
+      "word": "Veteran",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Having long experience in a particular area",
+      "example": "He is a veteran journalist.",
+      "chinese": {
+        "meaning": "經驗豐富的",
+        "example": "他是一位經驗豐富的記者。"
+      }
+    },
+    {
+      "word": "Vexatious",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Causing irritation or annoyance",
+      "example": "The constant delays were vexatious.",
+      "chinese": {
+        "meaning": "令人惱火的",
+        "example": "不斷的延誤令人惱火。"
+      }
+    },
+    {
       "word": "Vexed",
       "type": "adjective",
       "letter": "V",
@@ -273,6 +526,17 @@
       "chinese": {
         "meaning": "煩惱的，惱怒的。",
         "example": "他因不斷的延誤而感到煩惱。"
+      }
+    },
+    {
+      "word": "Viable",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Capable of working successfully; feasible",
+      "example": "They need a viable plan to overcome the crisis.",
+      "chinese": {
+        "meaning": "可行的",
+        "example": "他們需要一個可行的計劃來克服危機。"
       }
     },
     {
@@ -295,6 +559,17 @@
       "chinese": {
         "meaning": "振動的，顫動的。",
         "example": "手機在桌上振動。"
+      }
+    },
+    {
+      "word": "Vicarious",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Experienced through the actions of another person",
+      "example": "She felt vicarious pleasure from her friend's success.",
+      "chinese": {
+        "meaning": "間接感受到的",
+        "example": "她從朋友的成功中感受到間接的快樂。"
       }
     },
     {
@@ -353,6 +628,17 @@
       }
     },
     {
+      "word": "Vile",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Extremely unpleasant; morally bad",
+      "example": "The vile smell made him feel sick.",
+      "chinese": {
+        "meaning": "卑鄙的；惡劣的",
+        "example": "那股惡臭讓他感到不適。"
+      }
+    },
+    {
       "word": "Villainous",
       "type": "adjective",
       "letter": "V",
@@ -364,6 +650,28 @@
       }
     },
     {
+      "word": "Vindictive",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Having or showing a strong desire for revenge",
+      "example": "He took vindictive actions after being betrayed.",
+      "chinese": {
+        "meaning": "報復性的",
+        "example": "被背叛後他採取了報復性的行動。"
+      }
+    },
+    {
+      "word": "Vinous",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Relating to or resembling wine",
+      "example": "The dish has a rich vinous flavor.",
+      "chinese": {
+        "meaning": "葡萄酒的",
+        "example": "這道菜有濃郁的葡萄酒味。"
+      }
+    },
+    {
       "word": "Violent",
       "type": "adjective",
       "letter": "V",
@@ -372,6 +680,50 @@
       "chinese": {
         "meaning": "暴力的，激烈的。",
         "example": "抗議變得暴力。"
+      }
+    },
+    {
+      "word": "Violet",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Of a bluish-purple color",
+      "example": "She wore a violet dress.",
+      "chinese": {
+        "meaning": "紫羅蘭色的",
+        "example": "她穿著一條紫羅蘭色的裙子。"
+      }
+    },
+    {
+      "word": "Viral",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Relating to a virus; rapidly spread online",
+      "example": "The video went viral overnight.",
+      "chinese": {
+        "meaning": "病毒的；迅速傳播的",
+        "example": "那段影片一夜之間迅速傳播開來。"
+      }
+    },
+    {
+      "word": "Virgin",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Pure, untouched, or unused",
+      "example": "They explored virgin territory.",
+      "chinese": {
+        "meaning": "未開發的；純潔的",
+        "example": "他們探索了未開發的領土。"
+      }
+    },
+    {
+      "word": "Virginal",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Pure and innocent; untouched",
+      "example": "She had a virginal charm about her.",
+      "chinese": {
+        "meaning": "純潔的；處女般的",
+        "example": "她身上有一種處女般的魅力。"
       }
     },
     {
@@ -419,6 +771,28 @@
       }
     },
     {
+      "word": "Visceral",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Relating to deep inward feelings rather than intellect",
+      "example": "He had a visceral reaction to the news.",
+      "chinese": {
+        "meaning": "本能的；內心深處的",
+        "example": "他對這個消息有一種本能的反應。"
+      }
+    },
+    {
+      "word": "Viscous",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Having a thick, sticky consistency",
+      "example": "The viscous liquid was hard to pour.",
+      "chinese": {
+        "meaning": "黏稠的",
+        "example": "那種黏稠的液體很難倒出來。"
+      }
+    },
+    {
       "word": "Visible",
       "type": "adjective",
       "letter": "V",
@@ -441,6 +815,17 @@
       }
     },
     {
+      "word": "Visual",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Relating to seeing or sight",
+      "example": "The movie is a visual masterpiece.",
+      "chinese": {
+        "meaning": "視覺的",
+        "example": "這部電影是一部視覺傑作。"
+      }
+    },
+    {
       "word": "Vital",
       "type": "adjective",
       "letter": "V",
@@ -449,6 +834,17 @@
       "chinese": {
         "meaning": "重要的，必不可少的。",
         "example": "水對所有生物都至關重要。"
+      }
+    },
+    {
+      "word": "Vitreous",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Like glass in appearance or physical properties",
+      "example": "The mineral has a vitreous luster.",
+      "chinese": {
+        "meaning": "玻璃質的",
+        "example": "這種礦物具有玻璃質的光澤。"
       }
     },
     {
@@ -474,6 +870,28 @@
       }
     },
     {
+      "word": "Viviparous",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Giving birth to live young rather than laying eggs",
+      "example": "Most mammals are viviparous animals.",
+      "chinese": {
+        "meaning": "胎生的",
+        "example": "大多數哺乳動物是胎生的。"
+      }
+    },
+    {
+      "word": "Vocal",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Relating to the voice; outspoken",
+      "example": "She was vocal about her dissatisfaction.",
+      "chinese": {
+        "meaning": "聲音的；直言不諱的",
+        "example": "她直言不諱地表達了自己的不滿。"
+      }
+    },
+    {
       "word": "Vociferous",
       "type": "adjective",
       "letter": "V",
@@ -485,6 +903,39 @@
       }
     },
     {
+      "word": "Vogue",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "In fashion; popular",
+      "example": "That style is currently in vogue.",
+      "chinese": {
+        "meaning": "流行的",
+        "example": "那種風格目前很流行。"
+      }
+    },
+    {
+      "word": "Voiced",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Expressed in words; having vibration of the vocal cords (phonetics)",
+      "example": "He voiced his opinion clearly.",
+      "chinese": {
+        "meaning": "表達出來的；有聲的（語音）",
+        "example": "他清楚地表達了自己的意見。"
+      }
+    },
+    {
+      "word": "Void",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Completely empty; lacking",
+      "example": "The contract is void without a signature.",
+      "chinese": {
+        "meaning": "無效的；空的",
+        "example": "合同沒有簽名就無效。"
+      }
+    },
+    {
       "word": "Volatile",
       "type": "adjective",
       "letter": "V",
@@ -493,6 +944,17 @@
       "chinese": {
         "meaning": "易變的，不穩定的。",
         "example": "近來股市波動劇烈。"
+      }
+    },
+    {
+      "word": "Volitional",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Done by conscious choice; intentional",
+      "example": "His actions were clearly volitional.",
+      "chinese": {
+        "meaning": "有意識的；自願的",
+        "example": "他的行為顯然是有意識的。"
       }
     },
     {
@@ -518,6 +980,17 @@
       }
     },
     {
+      "word": "Voluptuous",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Curvaceous and sexually attractive; luxurious",
+      "example": "She had a voluptuous figure.",
+      "chinese": {
+        "meaning": "性感的；奢華的",
+        "example": "她有著性感的身材。"
+      }
+    },
+    {
       "word": "Voracious",
       "type": "adjective",
       "letter": "V",
@@ -526,6 +999,28 @@
       "chinese": {
         "meaning": "貪吃的，渴求的。",
         "example": "他是個小說的貪讀者。"
+      }
+    },
+    {
+      "word": "Votive",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Offered or dedicated in fulfillment of a vow",
+      "example": "They lit votive candles in the chapel.",
+      "chinese": {
+        "meaning": "還願的；獻祭的",
+        "example": "他們在小教堂裡點燃了還願的蠟燭。"
+      }
+    },
+    {
+      "word": "Vowed",
+      "type": "adjective",
+      "letter": "V",
+      "meaning": "Promised solemnly",
+      "example": "He is a vowed supporter of the cause.",
+      "chinese": {
+        "meaning": "發誓的；莊嚴承諾的",
+        "example": "他是該事業的發誓支持者。"
       }
     },
     {

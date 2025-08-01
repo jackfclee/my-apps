@@ -1,6 +1,39 @@
 {
   "words": [
     {
+      "word": "Gabby",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Excessively talkative",
+      "example": "She is so gabby that meetings often run long.",
+      "chinese": {
+        "meaning": "愛說話的",
+        "example": "她太愛說話了，會議經常開得很長。"
+      }
+    },
+    {
+      "word": "Gaelic",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to the Gaels, their language, or culture",
+      "example": "They celebrated a traditional Gaelic festival.",
+      "chinese": {
+        "meaning": "蓋爾語的；蓋爾文化的",
+        "example": "他們慶祝了一個傳統的蓋爾節日。"
+      }
+    },
+    {
+      "word": "Gainful",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Providing money or other advantages",
+      "example": "He found gainful employment after months of searching.",
+      "chinese": {
+        "meaning": "有收益的",
+        "example": "經過幾個月的尋找，他找到了一份有收益的工作。"
+      }
+    },
+    {
       "word": "Gallant",
       "type": "adjective",
       "letter": "G",
@@ -9,6 +42,17 @@
       "chinese": {
         "meaning": "英勇的",
         "example": "那位英勇的騎士救了村民。"
+      }
+    },
+    {
+      "word": "Galling",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Causing extreme annoyance or irritation",
+      "example": "It was galling to be ignored like that.",
+      "chinese": {
+        "meaning": "令人惱火的",
+        "example": "被那樣忽視令人惱火。"
       }
     },
     {
@@ -23,6 +67,83 @@
       }
     },
     {
+      "word": "Galvanic",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Sudden and dramatic; producing an electric current",
+      "example": "The news had a galvanic effect on the community.",
+      "chinese": {
+        "meaning": "突發的；電流的",
+        "example": "這個消息對社區產生了突發的影響。"
+      }
+    },
+    {
+      "word": "Game",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Willing to try something new or challenging",
+      "example": "He is always game for an adventure.",
+      "chinese": {
+        "meaning": "有冒險精神的；願意嘗試的",
+        "example": "他總是願意嘗試新的冒險。"
+      }
+    },
+    {
+      "word": "Gamy",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Having the strong flavor of wild meat; slightly spoiled",
+      "example": "The stew had a gamy flavor.",
+      "chinese": {
+        "meaning": "有野味的；有點腐壞的",
+        "example": "燉菜有一種野味的味道。"
+      }
+    },
+    {
+      "word": "Gangling",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Tall, thin, and awkward in movement",
+      "example": "The gangling boy struggled to keep his balance.",
+      "chinese": {
+        "meaning": "高瘦笨拙的",
+        "example": "那個高瘦的男孩努力保持平衡。"
+      }
+    },
+    {
+      "word": "Gangrenous",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Affected by gangrene",
+      "example": "The doctor treated the gangrenous wound.",
+      "chinese": {
+        "meaning": "壞疽的",
+        "example": "醫生治療了那個壞疽的傷口。"
+      }
+    },
+    {
+      "word": "Gaping",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Wide open; large and exposed",
+      "example": "There was a gaping hole in the wall.",
+      "chinese": {
+        "meaning": "張開的；巨大的",
+        "example": "牆上有一個巨大的洞。"
+      }
+    },
+    {
+      "word": "Garbled",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Confused or distorted",
+      "example": "We received a garbled message over the radio.",
+      "chinese": {
+        "meaning": "混亂的；被竄改的",
+        "example": "我們在收音機上收到了一條混亂的訊息。"
+      }
+    },
+    {
       "word": "Gargantuan",
       "type": "adjective",
       "letter": "G",
@@ -34,6 +155,17 @@
       }
     },
     {
+      "word": "Garish",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Obtrusively bright and showy",
+      "example": "The room was decorated in garish colors.",
+      "chinese": {
+        "meaning": "過分鮮艷的；俗麗的",
+        "example": "房間用過分鮮艷的顏色裝飾。"
+      }
+    },
+    {
       "word": "Gastric",
       "type": "adjective",
       "letter": "G",
@@ -42,6 +174,28 @@
       "chinese": {
         "meaning": "胃的",
         "example": "他胃痛。"
+      }
+    },
+    {
+      "word": "Gastronomic",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to the practice of choosing, cooking, and eating good food",
+      "example": "The city is known for its gastronomic delights.",
+      "chinese": {
+        "meaning": "美食學的",
+        "example": "這座城市以其美食佳餚聞名。"
+      }
+    },
+    {
+      "word": "Gastronomical",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to the art or science of good eating",
+      "example": "They went on a gastronomical tour of Italy.",
+      "chinese": {
+        "meaning": "美食的；烹飪學的",
+        "example": "他們在意大利進行了一次美食之旅。"
       }
     },
     {
@@ -67,6 +221,83 @@
       }
     },
     {
+      "word": "Gauzy",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Thin and translucent",
+      "example": "She wore a gauzy scarf over her shoulders.",
+      "chinese": {
+        "meaning": "薄紗的；透明的",
+        "example": "她肩上披著一條薄紗圍巾。"
+      }
+    },
+    {
+      "word": "Gay",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Cheerful; relating to homosexuality",
+      "example": "He had a gay and carefree attitude.",
+      "chinese": {
+        "meaning": "快樂的；同性戀的",
+        "example": "他有一種快樂而無憂的態度。"
+      }
+    },
+    {
+      "word": "Gelatinous",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Having a jelly-like consistency",
+      "example": "The mixture became gelatinous as it cooled.",
+      "chinese": {
+        "meaning": "膠狀的",
+        "example": "混合物冷卻後變成了膠狀。"
+      }
+    },
+    {
+      "word": "General",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Affecting or concerning all or most people or things",
+      "example": "The general opinion was positive.",
+      "chinese": {
+        "meaning": "一般的；普遍的",
+        "example": "普遍的看法是積極的。"
+      }
+    },
+    {
+      "word": "Generalized",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Widespread or broad in scope",
+      "example": "The disease caused generalized weakness.",
+      "chinese": {
+        "meaning": "普遍的；概括的",
+        "example": "這種疾病導致普遍的虛弱。"
+      }
+    },
+    {
+      "word": "Generative",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Capable of producing or creating",
+      "example": "Language is a generative system.",
+      "chinese": {
+        "meaning": "生產的；有生產能力的",
+        "example": "語言是一個有生產能力的系統。"
+      }
+    },
+    {
+      "word": "Generic",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Not specific; characteristic of a whole group",
+      "example": "He gave a generic answer to the question.",
+      "chinese": {
+        "meaning": "一般的；通用的",
+        "example": "他對這個問題給出了一個一般性的回答。"
+      }
+    },
+    {
       "word": "Generous",
       "type": "adjective",
       "letter": "G",
@@ -75,6 +306,39 @@
       "chinese": {
         "meaning": "慷慨的",
         "example": "她在時間和資源上都很慷慨。"
+      }
+    },
+    {
+      "word": "Genetic",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to genes or heredity",
+      "example": "The disorder is caused by a genetic mutation.",
+      "chinese": {
+        "meaning": "遺傳的",
+        "example": "這種疾病是由遺傳突變引起的。"
+      }
+    },
+    {
+      "word": "Genial",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Friendly and cheerful",
+      "example": "The host was genial and welcoming.",
+      "chinese": {
+        "meaning": "友好的；親切的",
+        "example": "主人很親切，十分熱情。"
+      }
+    },
+    {
+      "word": "Genteel",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Polite, refined, or respectable",
+      "example": "She spoke in a genteel manner.",
+      "chinese": {
+        "meaning": "文雅的；有教養的",
+        "example": "她說話的方式很文雅。"
       }
     },
     {
@@ -100,6 +364,138 @@
       }
     },
     {
+      "word": "Geographic",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to geography or physical features",
+      "example": "The geographic area is prone to earthquakes.",
+      "chinese": {
+        "meaning": "地理的",
+        "example": "這個地理區域容易發生地震。"
+      }
+    },
+    {
+      "word": "Geographical",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to the physical features or location of an area",
+      "example": "They analyzed the geographical distribution of the species.",
+      "chinese": {
+        "meaning": "地理的",
+        "example": "他們分析了這個物種的地理分佈。"
+      }
+    },
+    {
+      "word": "Geologic",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to geology",
+      "example": "They studied the geologic history of the area.",
+      "chinese": {
+        "meaning": "地質的",
+        "example": "他們研究了該地區的地質歷史。"
+      }
+    },
+    {
+      "word": "Geological",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to the earth's physical structure and substance",
+      "example": "The region has many geological formations.",
+      "chinese": {
+        "meaning": "地質的",
+        "example": "該地區有許多地質構造。"
+      }
+    },
+    {
+      "word": "Geometric",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to geometry or shapes",
+      "example": "The artist used geometric patterns in her design.",
+      "chinese": {
+        "meaning": "幾何的",
+        "example": "藝術家在設計中使用了幾何圖案。"
+      }
+    },
+    {
+      "word": "Geometrical",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Pertaining to or using geometry",
+      "example": "The geometrical arrangement of the garden was impressive.",
+      "chinese": {
+        "meaning": "幾何的",
+        "example": "花園的幾何排列令人印象深刻。"
+      }
+    },
+    {
+      "word": "Geriatric",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to old people, especially their health care",
+      "example": "She specializes in geriatric medicine.",
+      "chinese": {
+        "meaning": "老年病學的",
+        "example": "她專門研究老年病學。"
+      }
+    },
+    {
+      "word": "German",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to Germany, its people, or language",
+      "example": "He studied German literature at university.",
+      "chinese": {
+        "meaning": "德國的",
+        "example": "他在大學裡學習德國文學。"
+      }
+    },
+    {
+      "word": "Germinal",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "In the earliest stage of development",
+      "example": "His ideas are still in a germinal stage.",
+      "chinese": {
+        "meaning": "萌芽的",
+        "example": "他的想法仍處於萌芽階段。"
+      }
+    },
+    {
+      "word": "Gerontological",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to the study of aging and the problems of elderly people",
+      "example": "She is conducting gerontological research.",
+      "chinese": {
+        "meaning": "老年學的",
+        "example": "她正在進行老年學研究。"
+      }
+    },
+    {
+      "word": "Gestating",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Carrying a fetus in the womb; in the process of developing",
+      "example": "The gestating mother needs proper nutrition.",
+      "chinese": {
+        "meaning": "懷孕的；孕育中的",
+        "example": "懷孕的母親需要適當的營養。"
+      }
+    },
+    {
+      "word": "Gestational",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to pregnancy or the development of an embryo",
+      "example": "She is in her third gestational month.",
+      "chinese": {
+        "meaning": "妊娠的",
+        "example": "她已經進入妊娠第三個月。"
+      }
+    },
+    {
       "word": "Ghastly",
       "type": "adjective",
       "letter": "G",
@@ -108,6 +504,39 @@
       "chinese": {
         "meaning": "可怕的",
         "example": "那可怕的場景一直縈繞在他的記憶中。"
+      }
+    },
+    {
+      "word": "Ghostly",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Resembling or characteristic of a ghost",
+      "example": "A ghostly figure appeared at the window.",
+      "chinese": {
+        "meaning": "幽靈般的",
+        "example": "窗戶出現了一個幽靈般的身影。"
+      }
+    },
+    {
+      "word": "Ghoulish",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Morbidly interested in death or disaster",
+      "example": "The reporter's ghoulish curiosity offended the family.",
+      "chinese": {
+        "meaning": "食屍鬼般的；病態著迷的",
+        "example": "記者對死亡的病態著迷冒犯了這家人。"
+      }
+    },
+    {
+      "word": "Giant",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Of very great size or force",
+      "example": "They built a giant tower in the city center.",
+      "chinese": {
+        "meaning": "巨大的",
+        "example": "他們在市中心建造了一座巨大的塔樓。"
       }
     },
     {
@@ -133,6 +562,94 @@
       }
     },
     {
+      "word": "Gigantic",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Extremely large",
+      "example": "The company made a gigantic investment.",
+      "chinese": {
+        "meaning": "龐大的",
+        "example": "這家公司進行了一項龐大的投資。"
+      }
+    },
+    {
+      "word": "Gilded",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Covered with a thin layer of gold or appearing wealthy and luxurious",
+      "example": "The gilded frame surrounded the painting.",
+      "chinese": {
+        "meaning": "鍍金的；奢華的",
+        "example": "畫作周圍有一個鍍金的畫框。"
+      }
+    },
+    {
+      "word": "Gilt",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Covered thinly with gold leaf or paint",
+      "example": "The gilt edges of the book were worn.",
+      "chinese": {
+        "meaning": "鍍金的",
+        "example": "書本的鍍金邊已經磨損了。"
+      }
+    },
+    {
+      "word": "Gingival",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to the gums of the mouth",
+      "example": "She was treated for gingival inflammation.",
+      "chinese": {
+        "meaning": "牙齦的",
+        "example": "她接受了牙齦發炎的治療。"
+      }
+    },
+    {
+      "word": "Girlish",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Characteristic of a young girl",
+      "example": "She had a girlish charm.",
+      "chinese": {
+        "meaning": "少女般的",
+        "example": "她有一種少女的魅力。"
+      }
+    },
+    {
+      "word": "Glacial",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to ice or glaciers; extremely cold",
+      "example": "He gave her a glacial stare.",
+      "chinese": {
+        "meaning": "冰川的；冷淡的",
+        "example": "他冷冷地盯著她。"
+      }
+    },
+    {
+      "word": "Glad",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Feeling pleasure or happiness",
+      "example": "I am glad to hear the good news.",
+      "chinese": {
+        "meaning": "高興的",
+        "example": "我很高興聽到這個好消息。"
+      }
+    },
+    {
+      "word": "Glam",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Attractive and exciting, often in a showy way",
+      "example": "She arrived at the party looking very glam.",
+      "chinese": {
+        "meaning": "迷人的；華麗的",
+        "example": "她盛裝打扮出席派對，顯得非常迷人。"
+      }
+    },
+    {
       "word": "Glamorous",
       "type": "adjective",
       "letter": "G",
@@ -152,6 +669,17 @@
       "chinese": {
         "meaning": "明顯的",
         "example": "報告中有一個明顯的錯誤。"
+      }
+    },
+    {
+      "word": "Glassy",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Smooth and shiny like glass; expressionless",
+      "example": "The lake had a glassy surface.",
+      "chinese": {
+        "meaning": "玻璃般光滑的；呆滯的",
+        "example": "湖面如玻璃般光滑。"
       }
     },
     {
@@ -177,6 +705,72 @@
       }
     },
     {
+      "word": "Glimmering",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Shining faintly",
+      "example": "A glimmering light could be seen in the distance.",
+      "chinese": {
+        "meaning": "微光閃爍的",
+        "example": "遠處可以看到微微閃爍的光。"
+      }
+    },
+    {
+      "word": "Glistening",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Shining with a sparkling light",
+      "example": "Her eyes were glistening with tears.",
+      "chinese": {
+        "meaning": "閃亮的",
+        "example": "她的眼睛閃著淚光。"
+      }
+    },
+    {
+      "word": "Glittering",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Shining brightly with flashing points of light",
+      "example": "The glittering stars lit up the sky.",
+      "chinese": {
+        "meaning": "閃閃發光的",
+        "example": "閃爍的星星照亮了天空。"
+      }
+    },
+    {
+      "word": "Global",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to the whole world",
+      "example": "Climate change is a global issue.",
+      "chinese": {
+        "meaning": "全球的",
+        "example": "氣候變化是一個全球性問題。"
+      }
+    },
+    {
+      "word": "Gloomy",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Dark or poorly lit; feeling depressed",
+      "example": "The room felt gloomy without any windows.",
+      "chinese": {
+        "meaning": "陰暗的；沮喪的",
+        "example": "房間沒有窗戶，顯得陰暗。"
+      }
+    },
+    {
+      "word": "Glorified",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Represented as more important or better than it really is",
+      "example": "He is just a glorified assistant.",
+      "chinese": {
+        "meaning": "被誇大的",
+        "example": "他只是一個被誇大的助理。"
+      }
+    },
+    {
       "word": "Glorious",
       "type": "adjective",
       "letter": "G",
@@ -185,6 +779,17 @@
       "chinese": {
         "meaning": "光榮的；輝煌的",
         "example": "他們欣賞了一場輝煌的日落。"
+      }
+    },
+    {
+      "word": "Glossy",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Shiny and smooth",
+      "example": "The magazine had glossy pages.",
+      "chinese": {
+        "meaning": "光滑的；有光澤的",
+        "example": "這本雜誌有光滑的頁面。"
       }
     },
     {
@@ -199,6 +804,17 @@
       }
     },
     {
+      "word": "Gluey",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Sticky like glue",
+      "example": "The gluey substance was hard to remove.",
+      "chinese": {
+        "meaning": "黏糊糊的",
+        "example": "這種黏糊糊的物質很難去除。"
+      }
+    },
+    {
       "word": "Glum",
       "type": "adjective",
       "letter": "G",
@@ -207,6 +823,17 @@
       "chinese": {
         "meaning": "沮喪的",
         "example": "聽到壞消息後，他感到沮喪。"
+      }
+    },
+    {
+      "word": "Gluttonous",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Excessively greedy, especially for food",
+      "example": "He was gluttonous at the buffet.",
+      "chinese": {
+        "meaning": "貪吃的",
+        "example": "他在自助餐上貪吃不已。"
       }
     },
     {
@@ -254,6 +881,17 @@
       }
     },
     {
+      "word": "Good-looking",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Attractive in appearance",
+      "example": "He is a good-looking young man.",
+      "chinese": {
+        "meaning": "好看的",
+        "example": "他是一個長得好看的年輕人。"
+      }
+    },
+    {
       "word": "Good-natured",
       "type": "adjective",
       "letter": "G",
@@ -287,6 +925,17 @@
       }
     },
     {
+      "word": "Gothic",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to the style of Gothic architecture or culture",
+      "example": "The cathedral is a masterpiece of Gothic design.",
+      "chinese": {
+        "meaning": "哥特式的",
+        "example": "這座大教堂是哥特式設計的傑作。"
+      }
+    },
+    {
       "word": "Graceful",
       "type": "adjective",
       "letter": "G",
@@ -298,6 +947,17 @@
       }
     },
     {
+      "word": "Graceless",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Lacking elegance or charm",
+      "example": "His graceless movements made him look awkward.",
+      "chinese": {
+        "meaning": "笨拙的；不優雅的",
+        "example": "他笨拙的動作使他看起來很不優雅。"
+      }
+    },
+    {
       "word": "Gracious",
       "type": "adjective",
       "letter": "G",
@@ -306,6 +966,61 @@
       "chinese": {
         "meaning": "親切的",
         "example": "她對所有客人都很親切。"
+      }
+    },
+    {
+      "word": "Graded",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Arranged in or by grades",
+      "example": "The school used a graded reading system.",
+      "chinese": {
+        "meaning": "分級的",
+        "example": "學校使用了分級閱讀系統。"
+      }
+    },
+    {
+      "word": "Gradual",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Taking place slowly over time",
+      "example": "There was a gradual change in the climate.",
+      "chinese": {
+        "meaning": "逐漸的",
+        "example": "氣候逐漸發生了變化。"
+      }
+    },
+    {
+      "word": "Graduated",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Marked with divisions or units of measurement; arranged in degrees",
+      "example": "The graduated cylinder is used in laboratories.",
+      "chinese": {
+        "meaning": "分級的；刻度的",
+        "example": "量筒用於實驗室測量液體。"
+      }
+    },
+    {
+      "word": "Grafted",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Inserted or transplanted as a graft",
+      "example": "The grafted plant grew successfully.",
+      "chinese": {
+        "meaning": "嫁接的",
+        "example": "嫁接的植物成功地生長起來。"
+      }
+    },
+    {
+      "word": "Grainy",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Having a rough texture or visible particles",
+      "example": "The old photo looked grainy.",
+      "chinese": {
+        "meaning": "顆粒狀的",
+        "example": "這張舊照片看起來有顆粒感。"
       }
     },
     {
@@ -331,6 +1046,28 @@
       }
     },
     {
+      "word": "Granular",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Composed of small particles",
+      "example": "The granular sugar dissolved quickly.",
+      "chinese": {
+        "meaning": "顆粒狀的",
+        "example": "顆粒狀的糖很快溶解了。"
+      }
+    },
+    {
+      "word": "Graphic",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Giving a vivid picture; relating to visual art",
+      "example": "The documentary gave a graphic account of the disaster.",
+      "chinese": {
+        "meaning": "生動的；圖像的",
+        "example": "紀錄片生動地描述了那場災難。"
+      }
+    },
+    {
       "word": "Grateful",
       "type": "adjective",
       "letter": "G",
@@ -339,6 +1076,72 @@
       "chinese": {
         "meaning": "感激的",
         "example": "她對支持表示感激。"
+      }
+    },
+    {
+      "word": "Gratified",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Pleased or satisfied",
+      "example": "She felt gratified by their response.",
+      "chinese": {
+        "meaning": "感到滿意的",
+        "example": "她對他們的回應感到滿意。"
+      }
+    },
+    {
+      "word": "Gratifying",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Giving pleasure or satisfaction",
+      "example": "It was gratifying to see her students succeed.",
+      "chinese": {
+        "meaning": "令人滿意的",
+        "example": "看到她的學生成功是令人滿意的。"
+      }
+    },
+    {
+      "word": "Gratis",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Free of charge",
+      "example": "The drinks were provided gratis.",
+      "chinese": {
+        "meaning": "免費的",
+        "example": "飲料是免費提供的。"
+      }
+    },
+    {
+      "word": "Gratuitous",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Unnecessary or unwarranted",
+      "example": "The film contained gratuitous violence.",
+      "chinese": {
+        "meaning": "無必要的；無端的",
+        "example": "電影中包含了不必要的暴力。"
+      }
+    },
+    {
+      "word": "Grave",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Serious or solemn",
+      "example": "He spoke in a grave tone.",
+      "chinese": {
+        "meaning": "嚴肅的",
+        "example": "他用嚴肅的語氣說話。"
+      }
+    },
+    {
+      "word": "Gravid",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Carrying eggs or young; pregnant",
+      "example": "The gravid fish was moved to a separate tank.",
+      "chinese": {
+        "meaning": "懷孕的",
+        "example": "懷孕的魚被移到一個單獨的水箱中。"
       }
     },
     {
@@ -353,6 +1156,17 @@
       }
     },
     {
+      "word": "Greased",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Covered or treated with grease",
+      "example": "The greased pan was ready for baking.",
+      "chinese": {
+        "meaning": "塗了油的",
+        "example": "塗了油的烤盤已經準備好了。"
+      }
+    },
+    {
       "word": "Great",
       "type": "adjective",
       "letter": "G",
@@ -361,6 +1175,28 @@
       "chinese": {
         "meaning": "偉大的；極好的",
         "example": "他們在項目上做得非常好。"
+      }
+    },
+    {
+      "word": "Greater",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Larger or more significant",
+      "example": "They faced even greater challenges.",
+      "chinese": {
+        "meaning": "更大的",
+        "example": "他們面臨更大的挑戰。"
+      }
+    },
+    {
+      "word": "Greatest",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "The largest or most significant",
+      "example": "She is the greatest singer of her generation.",
+      "chinese": {
+        "meaning": "最偉大的",
+        "example": "她是她那一代最偉大的歌手。"
       }
     },
     {
@@ -375,6 +1211,17 @@
       }
     },
     {
+      "word": "Greek",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to Greece, its people, or language",
+      "example": "They enjoyed Greek cuisine.",
+      "chinese": {
+        "meaning": "希臘的",
+        "example": "他們喜歡希臘菜。"
+      }
+    },
+    {
       "word": "Green",
       "type": "adjective",
       "letter": "G",
@@ -383,6 +1230,61 @@
       "chinese": {
         "meaning": "綠色的",
         "example": "春天的葉子是綠色的。"
+      }
+    },
+    {
+      "word": "Greenish",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Slightly green",
+      "example": "The soup had a greenish tint.",
+      "chinese": {
+        "meaning": "帶綠色的",
+        "example": "湯帶有綠色的色澤。"
+      }
+    },
+    {
+      "word": "Gregarious",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Fond of company; sociable",
+      "example": "She is a gregarious and outgoing person.",
+      "chinese": {
+        "meaning": "愛社交的",
+        "example": "她是一個愛社交、外向的人。"
+      }
+    },
+    {
+      "word": "Grey",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Of a color between black and white",
+      "example": "The grey sky signaled rain.",
+      "chinese": {
+        "meaning": "灰色的",
+        "example": "灰色的天空預示著下雨。"
+      }
+    },
+    {
+      "word": "Grieving",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Feeling or showing sorrow after a loss",
+      "example": "The grieving family needed support.",
+      "chinese": {
+        "meaning": "悲痛的",
+        "example": "悲痛的家人需要支持。"
+      }
+    },
+    {
+      "word": "Grievous",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Very severe or serious",
+      "example": "They suffered grievous injuries.",
+      "chinese": {
+        "meaning": "極嚴重的",
+        "example": "他們受了重傷。"
       }
     },
     {
@@ -408,6 +1310,17 @@
       }
     },
     {
+      "word": "Grinding",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Causing great hardship; producing a grinding noise",
+      "example": "The grinding poverty of the area was shocking.",
+      "chinese": {
+        "meaning": "令人痛苦的；碾磨的",
+        "example": "該地區的極度貧困令人震驚。"
+      }
+    },
+    {
       "word": "Gripping",
       "type": "adjective",
       "letter": "G",
@@ -416,6 +1329,28 @@
       "chinese": {
         "meaning": "引人入勝的",
         "example": "這本小說從頭到尾都很引人入勝。"
+      }
+    },
+    {
+      "word": "Grizzled",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Having grey or partly grey hair",
+      "example": "The grizzled man told stories of the past.",
+      "chinese": {
+        "meaning": "頭髮灰白的",
+        "example": "那個頭髮灰白的男人講述著過去的故事。"
+      }
+    },
+    {
+      "word": "Groaning",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Making a low sound expressing pain or discomfort",
+      "example": "The groaning patient needed attention.",
+      "chinese": {
+        "meaning": "呻吟的",
+        "example": "呻吟的病人需要關注。"
       }
     },
     {
@@ -496,6 +1431,17 @@
       }
     },
     {
+      "word": "Gruff",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Rough or stern in manner or speech",
+      "example": "His gruff voice scared the children.",
+      "chinese": {
+        "meaning": "粗暴的；生硬的",
+        "example": "他粗暴的聲音嚇到了孩子們。"
+      }
+    },
+    {
       "word": "Grumpy",
       "type": "adjective",
       "letter": "G",
@@ -540,6 +1486,28 @@
       }
     },
     {
+      "word": "Gummy",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Sticky or covered with gum; lacking teeth (informal)",
+      "example": "The candy was too gummy to chew easily.",
+      "chinese": {
+        "meaning": "黏糊糊的；沒牙的（非正式）",
+        "example": "這糖果太黏了，不容易咀嚼。"
+      }
+    },
+    {
+      "word": "Gushing",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Pouring out quickly and in large amounts; overly enthusiastic",
+      "example": "She was gushing with praise for the new book.",
+      "chinese": {
+        "meaning": "湧出的；過分熱情的",
+        "example": "她對這本新書讚美得過分熱情。"
+      }
+    },
+    {
       "word": "Gusty",
       "type": "adjective",
       "letter": "G",
@@ -562,6 +1530,17 @@
       }
     },
     {
+      "word": "Gutted",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Extremely disappointed or devastated; having the inside removed",
+      "example": "He was gutted when his team lost the final.",
+      "chinese": {
+        "meaning": "極度失望的；被挖空的",
+        "example": "當他的球隊輸掉決賽時，他極度失望。"
+      }
+    },
+    {
       "word": "Guttural",
       "type": "adjective",
       "letter": "G",
@@ -570,6 +1549,17 @@
       "chinese": {
         "meaning": "喉音的",
         "example": "他用喉音說話。"
+      }
+    },
+    {
+      "word": "Gynecological",
+      "type": "adjective",
+      "letter": "G",
+      "meaning": "Relating to the branch of medicine dealing with women's health, especially reproductive health",
+      "example": "She is undergoing gynecological treatment.",
+      "chinese": {
+        "meaning": "婦科的",
+        "example": "她正在接受婦科治療。"
       }
     },
     {

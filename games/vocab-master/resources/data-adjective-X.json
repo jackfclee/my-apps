@@ -34,6 +34,28 @@
       }
     },
     {
+      "word": "Xenobiotic",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "Relating to a substance that is foreign to a living organism",
+      "example": "The liver helps break down xenobiotic compounds in the body.",
+      "chinese": {
+        "meaning": "外源性的；對生物體外來的",
+        "example": "肝臟有助於分解體內的外源性化合物。"
+      }
+    },
+    {
+      "word": "Xenogeneic",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "Originating from a different species; foreign",
+      "example": "Xenogeneic transplants often face strong immune rejection.",
+      "chinese": {
+        "meaning": "異種的；來自不同物種的",
+        "example": "異種移植往往會面臨強烈的免疫排斥反應。"
+      }
+    },
+    {
       "word": "Xenogenic",
       "type": "adjective",
       "letter": "X",
@@ -89,6 +111,17 @@
       }
     },
     {
+      "word": "Xerographic",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "Relating to xerography, a dry photocopying process",
+      "example": "Xerographic printers are commonly used in offices for document duplication.",
+      "chinese": {
+        "meaning": "靜電複印的",
+        "example": "靜電複印印表機常用於辦公室文件複製。"
+      }
+    },
+    {
       "word": "Xeromorphic",
       "type": "adjective",
       "letter": "X",
@@ -141,6 +174,17 @@
       "chinese": {
         "meaning": "劍狀的；劍形的",
         "example": "劍突是胸骨下端的一個小軟骨延伸部分。"
+      }
+    },
+    {
+      "word": "Xylographic",
+      "type": "adjective",
+      "letter": "X",
+      "meaning": "Relating to xylography, the art of engraving on wood",
+      "example": "The museum showcased xylographic prints from the 18th century.",
+      "chinese": {
+        "meaning": "木刻版畫的",
+        "example": "博物館展出了18世紀的木刻版畫。"
       }
     },
     {

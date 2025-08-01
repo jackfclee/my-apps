@@ -1,6 +1,17 @@
 {
   "words": [
     {
+      "word": "Jacked",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Having well-developed muscles; excited or energized",
+      "example": "He is really jacked after months of training.",
+      "chinese": {
+        "meaning": "肌肉發達的；興奮的",
+        "example": "經過幾個月的訓練，他的肌肉變得非常發達。"
+      }
+    },
+    {
       "word": "Jaded",
       "type": "adjective",
       "letter": "J",
@@ -64,6 +75,28 @@
       "chinese": {
         "meaning": "叮噹作響的",
         "example": "叮噹作響的鑰匙吵醒了嬰兒。"
+      }
+    },
+    {
+      "word": "Janitorial",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to the work of a janitor",
+      "example": "She was responsible for janitorial duties in the building.",
+      "chinese": {
+        "meaning": "管理員的；清潔工的",
+        "example": "她負責大樓的清潔工作。"
+      }
+    },
+    {
+      "word": "Japanese",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to Japan, its people, or language",
+      "example": "They went to a Japanese restaurant for dinner.",
+      "chinese": {
+        "meaning": "日本的",
+        "example": "他們去了一家日本餐廳吃晚餐。"
       }
     },
     {
@@ -144,6 +177,17 @@
       }
     },
     {
+      "word": "Jelly",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Having a soft, gelatinous texture",
+      "example": "The dessert had a jelly consistency.",
+      "chinese": {
+        "meaning": "果凍狀的；軟糯的",
+        "example": "這款甜點有果凍般的質感。"
+      }
+    },
+    {
       "word": "Jerky",
       "type": "adjective",
       "letter": "J",
@@ -185,6 +229,17 @@
       "chinese": {
         "meaning": "像寶石的",
         "example": "鳥兒像寶石般的色彩讓我們驚嘆。"
+      }
+    },
+    {
+      "word": "Jewish",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to Jews, their religion, or culture",
+      "example": "They celebrate Jewish holidays with their family.",
+      "chinese": {
+        "meaning": "猶太人的",
+        "example": "他們和家人一起慶祝猶太節日。"
       }
     },
     {
@@ -276,6 +331,17 @@
       }
     },
     {
+      "word": "Jokey",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Full of jokes or intended to be humorous",
+      "example": "He has a jokey personality that everyone enjoys.",
+      "chinese": {
+        "meaning": "愛開玩笑的",
+        "example": "他有一種愛開玩笑的個性，大家都喜歡。"
+      }
+    },
+    {
       "word": "Jolly",
       "type": "adjective",
       "letter": "J",
@@ -342,6 +408,17 @@
       }
     },
     {
+      "word": "Joyous",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Full of happiness and joy",
+      "example": "It was a joyous occasion for the entire family.",
+      "chinese": {
+        "meaning": "充滿喜悅的",
+        "example": "這是全家人都非常喜悅的時刻。"
+      }
+    },
+    {
       "word": "Jubilant",
       "type": "adjective",
       "letter": "J",
@@ -383,6 +460,17 @@
       "chinese": {
         "meaning": "可審判的",
         "example": "這個糾紛可以在法庭上審判。"
+      }
+    },
+    {
+      "word": "Judicial",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to judges, courts, or the administration of justice",
+      "example": "The law was challenged through the judicial system.",
+      "chinese": {
+        "meaning": "司法的；法庭的",
+        "example": "這條法律透過司法系統受到挑戰。"
       }
     },
     {
@@ -441,6 +529,17 @@
       }
     },
     {
+      "word": "Junior",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Of a lower rank or younger",
+      "example": "She is a junior employee at the company.",
+      "chinese": {
+        "meaning": "年輕的；職位較低的",
+        "example": "她是公司裡一名職位較低的員工。"
+      }
+    },
+    {
       "word": "Jurassic",
       "type": "adjective",
       "letter": "J",
@@ -452,6 +551,17 @@
       }
     },
     {
+      "word": "Juridic",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to the law or legal rights",
+      "example": "He is involved in juridic studies at the university.",
+      "chinese": {
+        "meaning": "法律的；司法的",
+        "example": "他在大學從事法律研究。"
+      }
+    },
+    {
       "word": "Juridical",
       "type": "adjective",
       "letter": "J",
@@ -460,6 +570,17 @@
       "chinese": {
         "meaning": "司法的",
         "example": "司法制度必須公平。"
+      }
+    },
+    {
+      "word": "Jurisdictional",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Relating to the authority to administer justice",
+      "example": "There were jurisdictional disputes between the two states.",
+      "chinese": {
+        "meaning": "管轄權的",
+        "example": "兩州之間存在管轄權的爭議。"
       }
     },
     {
@@ -482,6 +603,17 @@
       "chinese": {
         "meaning": "有正當理由的",
         "example": "在這種情況下，他的憤怒是有正當理由的。"
+      }
+    },
+    {
+      "word": "Justified",
+      "type": "adjective",
+      "letter": "J",
+      "meaning": "Having a good reason or being shown to be right",
+      "example": "Her actions were completely justified.",
+      "chinese": {
+        "meaning": "有正當理由的",
+        "example": "她的行為完全是有正當理由的。"
       }
     },
     {

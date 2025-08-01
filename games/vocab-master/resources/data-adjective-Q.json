@@ -1,6 +1,28 @@
 {
   "words": [
     {
+      "word": "Quadratic",
+      "type": "adjective",
+      "letter": "Q",
+      "meaning": "Involving the square of a variable",
+      "example": "They solved the quadratic equation quickly.",
+      "chinese": {
+        "meaning": "二次的；平方的",
+        "example": "他們很快解出了這個二次方程。"
+      }
+    },
+    {
+      "word": "Quadruple",
+      "type": "adjective",
+      "letter": "Q",
+      "meaning": "Consisting of four parts or elements; four times as much",
+      "example": "The company reported quadruple profits this year.",
+      "chinese": {
+        "meaning": "四倍的；四重的",
+        "example": "公司報告今年的利潤是去年的四倍。"
+      }
+    },
+    {
       "word": "Quaint",
       "type": "adjective",
       "letter": "Q",
@@ -42,6 +64,17 @@
       "chinese": {
         "meaning": "質的，定性的",
         "example": "這項研究著重於質性資料而非數值結果。"
+      }
+    },
+    {
+      "word": "Quantifiable",
+      "type": "adjective",
+      "letter": "Q",
+      "meaning": "Able to be measured or expressed as a quantity",
+      "example": "The benefits of the program are easily quantifiable.",
+      "chinese": {
+        "meaning": "可量化的",
+        "example": "這個計畫的好處很容易量化。"
       }
     },
     {
@@ -97,6 +130,17 @@
       "chinese": {
         "meaning": "每季的，季度的",
         "example": "他們出版一本關於科技的季刊。"
+      }
+    },
+    {
+      "word": "Quasi",
+      "type": "adjective",
+      "letter": "Q",
+      "meaning": "Seemingly; apparently but not really",
+      "example": "The agreement is quasi-legal.",
+      "chinese": {
+        "meaning": "類似的；準的",
+        "example": "這個協議是準法律性的。"
       }
     },
     {
@@ -229,6 +273,17 @@
       "chinese": {
         "meaning": "五倍的，五重的",
         "example": "公司的利潤在五年內增長了五倍。"
+      }
+    },
+    {
+      "word": "Quirky",
+      "type": "adjective",
+      "letter": "Q",
+      "meaning": "Characterized by peculiar or unexpected traits",
+      "example": "She has a quirky sense of humor.",
+      "chinese": {
+        "meaning": "古怪的；離奇的",
+        "example": "她有一種古怪的幽默感。"
       }
     },
     {

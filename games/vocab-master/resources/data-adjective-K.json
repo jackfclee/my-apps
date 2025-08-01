@@ -78,6 +78,17 @@
       }
     },
     {
+      "word": "Khaki",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "A light brownish-yellow color; made of khaki fabric",
+      "example": "He wore a pair of khaki trousers.",
+      "chinese": {
+        "meaning": "卡其色的；卡其布的",
+        "example": "他穿著一條卡其色的褲子。"
+      }
+    },
+    {
       "word": "Kind",
       "type": "adjective",
       "letter": "K",
@@ -133,6 +144,17 @@
       }
     },
     {
+      "word": "Kinky",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Tightly curled; unusual or eccentric",
+      "example": "She has naturally kinky hair.",
+      "chinese": {
+        "meaning": "捲曲的；古怪的",
+        "example": "她天生有著捲曲的頭髮。"
+      }
+    },
+    {
       "word": "Kitschy",
       "type": "adjective",
       "letter": "K",
@@ -166,6 +188,17 @@
       }
     },
     {
+      "word": "Knitted",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Made by interlacing yarn with needles",
+      "example": "She wore a knitted sweater.",
+      "chinese": {
+        "meaning": "針織的",
+        "example": "她穿著一件針織毛衣。"
+      }
+    },
+    {
       "word": "Knotty",
       "type": "adjective",
       "letter": "K",
@@ -174,6 +207,17 @@
       "chinese": {
         "meaning": "多結的；棘手的",
         "example": "這個棘手的問題需要仔細思考。"
+      }
+    },
+    {
+      "word": "Knowing",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Showing knowledge or awareness of something secret",
+      "example": "He gave her a knowing smile.",
+      "chinese": {
+        "meaning": "心照不宣的；有見識的",
+        "example": "他給了她一個心照不宣的微笑。"
       }
     },
     {
@@ -188,6 +232,28 @@
       }
     },
     {
+      "word": "Known",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Recognized or familiar to people",
+      "example": "She is a known expert in the field.",
+      "chinese": {
+        "meaning": "已知的；著名的",
+        "example": "她是這個領域著名的專家。"
+      }
+    },
+    {
+      "word": "Knurled",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having a small ridged or beaded pattern for grip",
+      "example": "The tool has a knurled handle for better control.",
+      "chinese": {
+        "meaning": "有凸紋的",
+        "example": "這個工具有一個有凸紋的手柄，方便控制。"
+      }
+    },
+    {
       "word": "Kooky",
       "type": "adjective",
       "letter": "K",
@@ -199,6 +265,17 @@
       }
     },
     {
+      "word": "Korean",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Relating to Korea, its people, or language",
+      "example": "They enjoy Korean food every weekend.",
+      "chinese": {
+        "meaning": "韓國的",
+        "example": "他們每個週末都喜歡吃韓國料理。"
+      }
+    },
+    {
       "word": "Kosher",
       "type": "adjective",
       "letter": "K",
@@ -207,6 +284,28 @@
       "chinese": {
         "meaning": "合規的；正當的",
         "example": "他的解釋聽起來不太合規。"
+      }
+    },
+    {
+      "word": "Kryptic",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Having a meaning that is mysterious or obscure (alternate spelling of cryptic)",
+      "example": "He left a kryptic message on the board.",
+      "chinese": {
+        "meaning": "神秘的；隱晦的",
+        "example": "他在板子上留下了一條神秘的訊息。"
+      }
+    },
+    {
+      "word": "Kurdish",
+      "type": "adjective",
+      "letter": "K",
+      "meaning": "Relating to the Kurds, their language, or culture",
+      "example": "The Kurdish community held a cultural festival.",
+      "chinese": {
+        "meaning": "庫爾德的",
+        "example": "庫爾德社群舉辦了一場文化節。"
       }
     }
   ]
