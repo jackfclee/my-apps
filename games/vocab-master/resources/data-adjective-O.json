@@ -719,7 +719,7 @@
       "word": "Operative",
       "type": "adjective",
       "letter": "O",
-      "meaning": "運作中的，有效的",
+      "meaning": "Functioning or having effect; currently in operation",
       "example": "The plan is now operative.",
       "chinese": {
         "meaning": "運作中的，有效的",
@@ -807,7 +807,7 @@
       "word": "Opposite",
       "type": "adjective",
       "letter": "O",
-      "meaning": "相反的，對立的",
+      "meaning": "Being completely different or contrary",
       "example": "They have opposite opinions.",
       "chinese": {
         "meaning": "相反的，對立的",
@@ -840,7 +840,7 @@
       "word": "Optimal",
       "type": "adjective",
       "letter": "O",
-      "meaning": "最佳的，最理想的",
+      "meaning": "Best or most favorable",
       "example": "This is the optimal solution.",
       "chinese": {
         "meaning": "最佳的，最理想的",
@@ -862,7 +862,7 @@
       "word": "Optional",
       "type": "adjective",
       "letter": "O",
-      "meaning": "可選擇的，非強制的",
+      "meaning": "Available to be chosen but not mandatory",
       "example": "Participation is optional.",
       "chinese": {
         "meaning": "可選擇的，非強制的",
@@ -873,7 +873,7 @@
       "word": "Opulent",
       "type": "adjective",
       "letter": "O",
-      "meaning": "豪華的，富裕的",
+      "meaning": "Luxurious and wealthy",
       "example": "They live in an opulent mansion.",
       "chinese": {
         "meaning": "豪華的，富裕的",
@@ -1038,7 +1038,7 @@
       "word": "Ornamental",
       "type": "adjective",
       "letter": "O",
-      "meaning": "裝飾性的，美觀的",
+      "meaning": "Decorative and aesthetically pleasing",
       "example": "The garden has many ornamental plants.",
       "chinese": {
         "meaning": "裝飾性的，美觀的",
@@ -1049,7 +1049,7 @@
       "word": "Orthodox",
       "type": "adjective",
       "letter": "O",
-      "meaning": "傳統的，正統的",
+      "meaning": "Conforming to traditional or established beliefs",
       "example": "He holds orthodox views.",
       "chinese": {
         "meaning": "傳統的，正統的",
@@ -1115,7 +1115,7 @@
       "word": "Otherworldly",
       "type": "adjective",
       "letter": "O",
-      "meaning": "超凡的，異世界的",
+      "meaning": "Relating to or suggestive of a world beyond the normal or physical one",
       "example": "The painting has an otherworldly quality.",
       "chinese": {
         "meaning": "超凡的，異世界的",
@@ -1159,7 +1159,7 @@
       "word": "Outgoing",
       "type": "adjective",
       "letter": "O",
-      "meaning": "外向的，友善的",
+      "meaning": "Sociable and friendly",
       "example": "She is very outgoing and sociable.",
       "chinese": {
         "meaning": "外向的，友善的",
@@ -1170,7 +1170,7 @@
       "word": "Outlandish",
       "type": "adjective",
       "letter": "O",
-      "meaning": "古怪的，異國風味的",
+      "meaning": "Unusual, bizarre, or strange, often in an exotic way",
       "example": "He wore an outlandish costume.",
       "chinese": {
         "meaning": "古怪的，異國風味的",
@@ -1214,7 +1214,7 @@
       "word": "Outrageous",
       "type": "adjective",
       "letter": "O",
-      "meaning": "駭人聽聞的，無法接受的",
+      "meaning": "Shocking and unacceptable",
       "example": "The price was outrageous.",
       "chinese": {
         "meaning": "駭人聽聞的，無法接受的",
@@ -1247,7 +1247,7 @@
       "word": "Outstanding",
       "type": "adjective",
       "letter": "O",
-      "meaning": "傑出的，突出的",
+      "meaning": "Exceptionally good or impressive",
       "example": "She did an outstanding job.",
       "chinese": {
         "meaning": "傑出的，突出的",
@@ -1335,7 +1335,7 @@
       "word": "Overconfident",
       "type": "adjective",
       "letter": "O",
-      "meaning": "過於自信的",
+      "meaning": "Excessively confident",
       "example": "He was overconfident before the exam.",
       "chinese": {
         "meaning": "過於自信的",
@@ -1357,7 +1357,7 @@
       "word": "Overjoyed",
       "type": "adjective",
       "letter": "O",
-      "meaning": "非常高興的，欣喜若狂的",
+      "meaning": "Extremely happy or delighted",
       "example": "She was overjoyed with the good news.",
       "chinese": {
         "meaning": "非常高興的，欣喜若狂的",
@@ -1390,7 +1390,7 @@
       "word": "Overrated",
       "type": "adjective",
       "letter": "O",
-      "meaning": "被高估的",
+      "meaning": "Rated higher than it deserves",
       "example": "The movie was overrated.",
       "chinese": {
         "meaning": "被高估的",
@@ -1401,7 +1401,7 @@
       "word": "Overseas",
       "type": "adjective",
       "letter": "O",
-      "meaning": "海外的，國外的",
+      "meaning": "Relating to or situated in a foreign country",
       "example": "She has an overseas job.",
       "chinese": {
         "meaning": "海外的，國外的",
@@ -1434,7 +1434,7 @@
       "word": "Overwhelming",
       "type": "adjective",
       "letter": "O",
-      "meaning": "壓倒性的，巨大的",
+      "meaning": "Very great in amount or effect",
       "example": "The support was overwhelming.",
       "chinese": {
         "meaning": "壓倒性的，巨大的",
@@ -1478,7 +1478,7 @@
       "word": "Oxidized",
       "type": "adjective",
       "letter": "O",
-      "meaning": "氧化的，生銹的",
+      "meaning": "Affected by oxidation; rusted",
       "example": "The oxidized metal looked old.",
       "chinese": {
         "meaning": "氧化的，生銹的",
@@ -1489,7 +1489,7 @@
       "word": "Ozone-depleting",
       "type": "adjective",
       "letter": "O",
-      "meaning": "破壞臭氧層的",
+      "meaning": "Causing damage to the ozone layer",
       "example": "Certain chemicals are ozone-depleting substances.",
       "chinese": {
         "meaning": "破壞臭氧層的",
