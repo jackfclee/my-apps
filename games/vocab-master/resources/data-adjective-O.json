@@ -4,7 +4,7 @@
       "word": "Oafish",
       "type": "adjective",
       "letter": "O",
-      "meaning": "愚笨的，笨拙的",
+      "meaning": "Clumsy or stupid in behavior or appearance",
       "example": "His oafish behavior embarrassed everyone at the party.",
       "chinese": {
         "meaning": "愚笨的，笨拙的",
@@ -26,7 +26,7 @@
       "word": "Obedient",
       "type": "adjective",
       "letter": "O",
-      "meaning": "服從的，順從的",
+      "meaning": "Willing to obey rules or follow orders",
       "example": "The obedient dog followed all the commands.",
       "chinese": {
         "meaning": "服從的，順從的",
@@ -37,7 +37,7 @@
       "word": "Obese",
       "type": "adjective",
       "letter": "O",
-      "meaning": "肥胖的，過胖的",
+      "meaning": "Extremely overweight",
       "example": "Obese individuals are at higher risk for health problems.",
       "chinese": {
         "meaning": "肥胖的，過胖的",
@@ -103,7 +103,7 @@
       "word": "Oblong",
       "type": "adjective",
       "letter": "O",
-      "meaning": "長方形的，橢圓形的",
+      "meaning": "Having an elongated shape, like a rectangle or oval",
       "example": "The table has an oblong shape.",
       "chinese": {
         "meaning": "長方形的，橢圓形的",
@@ -114,7 +114,7 @@
       "word": "Obnoxious",
       "type": "adjective",
       "letter": "O",
-      "meaning": "令人討厭的，令人不快的",
+      "meaning": "Extremely unpleasant or offensive",
       "example": "His obnoxious remarks upset everyone.",
       "chinese": {
         "meaning": "令人討厭的，令人不快的",
@@ -136,7 +136,7 @@
       "word": "Obscure",
       "type": "adjective",
       "letter": "O",
-      "meaning": "模糊的，不清楚的",
+      "meaning": "Not clear or difficult to understand",
       "example": "The meaning of the poem is obscure.",
       "chinese": {
         "meaning": "模糊的，不清楚的",
@@ -147,7 +147,7 @@
       "word": "Obsequious",
       "type": "adjective",
       "letter": "O",
-      "meaning": "諂媚的，奉承的",
+      "meaning": "Too eager to please or obey someone",
       "example": "He was obsequious to his boss.",
       "chinese": {
         "meaning": "諂媚的，奉承的",
@@ -169,7 +169,7 @@
       "word": "Observant",
       "type": "adjective",
       "letter": "O",
-      "meaning": "善於觀察的，注意的",
+      "meaning": "Quick to notice or perceive things",
       "example": "She is very observant and notices small details.",
       "chinese": {
         "meaning": "善於觀察的，注意的",
@@ -202,7 +202,7 @@
       "word": "Obsolete",
       "type": "adjective",
       "letter": "O",
-      "meaning": "過時的，廢棄的",
+      "meaning": "No longer in use or out of date",
       "example": "Many old technologies become obsolete quickly.",
       "chinese": {
         "meaning": "過時的，廢棄的",
@@ -213,7 +213,7 @@
       "word": "Obstinate",
       "type": "adjective",
       "letter": "O",
-      "meaning": "固執的，頑固的",
+      "meaning": "Stubbornly refusing to change one's opinion or course of action",
       "example": "He was obstinate and refused to change his mind.",
       "chinese": {
         "meaning": "固執的，頑固的",
@@ -257,7 +257,7 @@
       "word": "Obtuse",
       "type": "adjective",
       "letter": "O",
-      "meaning": "遲鈍的，愚笨的",
+      "meaning": "Slow to understand or perceive; dull-witted",
       "example": "He was too obtuse to understand the joke.",
       "chinese": {
         "meaning": "遲鈍的，愚笨的",
@@ -268,7 +268,7 @@
       "word": "Obvious",
       "type": "adjective",
       "letter": "O",
-      "meaning": "Easily perceived or understood",
+      "meaning": "Easily perceived or understood; clear and apparent",
       "example": "It was obvious she was upset.",
       "chinese": {
         "meaning": "明顯的",
@@ -279,7 +279,7 @@
       "word": "Occasional",
       "type": "adjective",
       "letter": "O",
-      "meaning": "偶爾的，間或的",
+      "meaning": "Happening or done infrequently or irregularly",
       "example": "They meet for occasional dinners.",
       "chinese": {
         "meaning": "偶爾的，間或的",
@@ -290,7 +290,7 @@
       "word": "Occidental",
       "type": "adjective",
       "letter": "O",
-      "meaning": "Relating to the Western world",
+      "meaning": "Relating to the Western world or its cultures",
       "example": "The design has an Occidental influence.",
       "chinese": {
         "meaning": "西方的",
@@ -312,7 +312,7 @@
       "word": "Occupational",
       "type": "adjective",
       "letter": "O",
-      "meaning": "職業的，工作上的",
+      "meaning": "Relating to a job, profession, or work",
       "example": "Occupational hazards can be dangerous.",
       "chinese": {
         "meaning": "職業的，工作上的",
@@ -323,7 +323,7 @@
       "word": "Occupied",
       "type": "adjective",
       "letter": "O",
-      "meaning": "Being used by someone or full",
+      "meaning": "Being used by someone or already taken; busy",
       "example": "The room is currently occupied.",
       "chinese": {
         "meaning": "被佔用的",
@@ -356,7 +356,7 @@
       "word": "Odd",
       "type": "adjective",
       "letter": "O",
-      "meaning": "奇怪的，古怪的",
+      "meaning": "Strange or unusual; not ordinary",
       "example": "He has an odd way of speaking.",
       "chinese": {
         "meaning": "奇怪的，古怪的",
@@ -367,7 +367,7 @@
       "word": "Odious",
       "type": "adjective",
       "letter": "O",
-      "meaning": "Extremely unpleasant or repulsive",
+      "meaning": "Extremely unpleasant or repulsive; deserving strong dislike",
       "example": "The odious smell filled the room.",
       "chinese": {
         "meaning": "令人厭惡的",
@@ -400,7 +400,7 @@
       "word": "Offensive",
       "type": "adjective",
       "letter": "O",
-      "meaning": "冒犯的，令人不快的",
+      "meaning": "Causing someone to feel deeply hurt, upset, or angry; unpleasant or insulting",
       "example": "His comments were offensive to many people.",
       "chinese": {
         "meaning": "冒犯的，令人不快的",
@@ -411,7 +411,7 @@
       "word": "Official",
       "type": "adjective",
       "letter": "O",
-      "meaning": "官方的，正式的",
+      "meaning": "Relating to an authority or public body; formal or authorized",
       "example": "The official statement was released yesterday.",
       "chinese": {
         "meaning": "官方的，正式的",
@@ -455,7 +455,7 @@
       "word": "Old-fashioned",
       "type": "adjective",
       "letter": "O",
-      "meaning": "老式的，過時的",
+      "meaning": "Outdated or not in style; characteristic of a past time",
       "example": "She prefers old-fashioned clothes.",
       "chinese": {
         "meaning": "老式的，過時的",
@@ -477,7 +477,7 @@
       "word": "Olive",
       "type": "adjective",
       "letter": "O",
-      "meaning": "Of a yellowish-green color like an olive",
+      "meaning": "Having a yellowish-green color like that of an olive",
       "example": "She wore an olive jacket.",
       "chinese": {
         "meaning": "橄欖色的",
@@ -488,7 +488,7 @@
       "word": "Ominous",
       "type": "adjective",
       "letter": "O",
-      "meaning": "不祥的，預兆的",
+      "meaning": "Giving the impression that something bad or unpleasant is going to happen",
       "example": "The dark clouds looked ominous.",
       "chinese": {
         "meaning": "不祥的，預兆的",
@@ -499,7 +499,7 @@
       "word": "Omnipotent",
       "type": "adjective",
       "letter": "O",
-      "meaning": "全能的，無所不能的",
+      "meaning": "Having unlimited power and able to do anything",
       "example": "The deity was believed to be omnipotent.",
       "chinese": {
         "meaning": "全能的，無所不能的",
@@ -510,7 +510,7 @@
       "word": "Omnipresent",
       "type": "adjective",
       "letter": "O",
-      "meaning": "無所不在的",
+      "meaning": "Present everywhere at the same time",
       "example": "The internet is omnipresent in modern life.",
       "chinese": {
         "meaning": "無所不在的",
@@ -521,7 +521,7 @@
       "word": "Omniscient",
       "type": "adjective",
       "letter": "O",
-      "meaning": "無所不知的，全知的",
+      "meaning": "Knowing everything; having unlimited understanding or knowledge",
       "example": "The narrator seemed omniscient in the story.",
       "chinese": {
         "meaning": "無所不知的，全知的",
@@ -587,7 +587,7 @@
       "word": "Onerous",
       "type": "adjective",
       "letter": "O",
-      "meaning": "繁重的，麻煩的",
+      "meaning": "Burdensome, involving a great deal of effort or difficulty",
       "example": "The task was onerous and time-consuming.",
       "chinese": {
         "meaning": "繁重的，麻煩的",
@@ -598,7 +598,7 @@
       "word": "Onetime",
       "type": "adjective",
       "letter": "O",
-      "meaning": "曾經的，從前的",
+      "meaning": "Former; having occurred once in the past",
       "example": "He is a onetime champion.",
       "chinese": {
         "meaning": "曾經的，從前的",
@@ -631,7 +631,7 @@
       "word": "Only",
       "type": "adjective",
       "letter": "O",
-      "meaning": "唯一的，僅有的",
+      "meaning": "Sole; being the single one and no others",
       "example": "She is the only person who knows the secret.",
       "chinese": {
         "meaning": "唯一的，僅有的",
@@ -653,7 +653,7 @@
       "word": "Open",
       "type": "adjective",
       "letter": "O",
-      "meaning": "開放的，公開的",
+      "meaning": "Allowing access, passage, or a view; not closed or blocked",
       "example": "The store is open 24 hours.",
       "chinese": {
         "meaning": "開放的，公開的",
