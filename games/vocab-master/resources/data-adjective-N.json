@@ -4,8 +4,8 @@
       "word": "Naive",
       "type": "adjective",
       "letter": "N",
-      "meaning": "天真的，幼稚的",
-      "example": "她的天真讓她相信了陌生人的話。",
+      "meaning": "Innocent or inexperienced; showing lack of wisdom or judgment",
+      "example": "Her naive trust made her believe the stranger.",
       "chinese": {
         "meaning": "天真的，幼稚的",
         "example": "她的天真讓她相信了陌生人的話。"
@@ -48,8 +48,8 @@
       "word": "Narrow",
       "type": "adjective",
       "letter": "N",
-      "meaning": "狹窄的，有限的",
-      "example": "這條街道非常狹窄，兩輛車無法同時通過。",
+      "meaning": "Limited in width or extent",
+      "example": "The street is so narrow that two cars cannot pass at the same time.",
       "chinese": {
         "meaning": "狹窄的，有限的",
         "example": "這條街道非常狹窄，兩輛車無法同時通過。"
@@ -81,8 +81,8 @@
       "word": "Nasty",
       "type": "adjective",
       "letter": "N",
-      "meaning": "令人不快的，惡劣的",
-      "example": "那個人的態度非常令人不快。",
+      "meaning": "Unpleasant or offensive",
+      "example": "That person's attitude was very nasty.",
       "chinese": {
         "meaning": "令人不快的，惡劣的",
         "example": "那個人的態度非常令人不快。"
@@ -125,8 +125,8 @@
       "word": "Natural",
       "type": "adjective",
       "letter": "N",
-      "meaning": "自然的，天生的",
-      "example": "她擁有自然的美麗。",
+      "meaning": "Existing in nature; innate",
+      "example": "She has natural beauty.",
       "chinese": {
         "meaning": "自然的，天生的",
         "example": "她擁有自然的美麗。"
@@ -136,8 +136,8 @@
       "word": "Naughty",
       "type": "adjective",
       "letter": "N",
-      "meaning": "頑皮的，不聽話的",
-      "example": "那個小孩很頑皮，經常惹麻煩。",
+      "meaning": "Behaving badly or disobediently",
+      "example": "The child is naughty and often causes trouble.",
       "chinese": {
         "meaning": "頑皮的，不聽話的",
         "example": "那個小孩很頑皮，經常惹麻煩。"
@@ -180,8 +180,8 @@
       "word": "Navy",
       "type": "adjective",
       "letter": "N",
-      "meaning": "海軍的，藏青色的",
-      "example": "他穿著藏青色的制服。",
+      "meaning": "Related to the military sea force; dark blue color",
+      "example": "He wore a navy uniform.",
       "chinese": {
         "meaning": "海軍的，藏青色的",
         "example": "他穿著藏青色的制服。"
@@ -224,8 +224,8 @@
       "word": "Neat",
       "type": "adjective",
       "letter": "N",
-      "meaning": "整潔的，利落的",
-      "example": "他的房間總是保持得很整潔。",
+      "meaning": "Tidy and well-organized",
+      "example": "His room is always kept very neat.",
       "chinese": {
         "meaning": "整潔的，利落的",
         "example": "他的房間總是保持得很整潔。"
@@ -246,8 +246,8 @@
       "word": "Necessary",
       "type": "adjective",
       "letter": "N",
-      "meaning": "必要的，必須的",
-      "example": "完成這個任務是必要的。",
+      "meaning": "Required or essential",
+      "example": "It is necessary to complete this task.",
       "chinese": {
         "meaning": "必要的，必須的",
         "example": "完成這個任務是必要的。"
@@ -257,8 +257,8 @@
       "word": "Needy",
       "type": "adjective",
       "letter": "N",
-      "meaning": "貧困的，需要幫助的",
-      "example": "這個慈善機構幫助貧困的人。",
+      "meaning": "Poor and in need of help",
+      "example": "This charity helps needy people.",
       "chinese": {
         "meaning": "貧困的，需要幫助的",
         "example": "這個慈善機構幫助貧困的人。"
@@ -268,8 +268,8 @@
       "word": "Nefarious",
       "type": "adjective",
       "letter": "N",
-      "meaning": "邪惡的，惡毒的",
-      "example": "那是一個邪惡的計劃。",
+      "meaning": "Wicked or criminal",
+      "example": "That was a nefarious plan.",
       "chinese": {
         "meaning": "邪惡的，惡毒的",
         "example": "那是一個邪惡的計劃。"
@@ -279,8 +279,8 @@
       "word": "Negative",
       "type": "adjective",
       "letter": "N",
-      "meaning": "負面的，消極的",
-      "example": "他對這個計畫持負面態度。",
+      "meaning": "Unfavorable or pessimistic",
+      "example": "He has a negative attitude toward the project.",
       "chinese": {
         "meaning": "負面的，消極的",
         "example": "他對這個計畫持負面態度。"
@@ -290,8 +290,8 @@
       "word": "Neglected",
       "type": "adjective",
       "letter": "N",
-      "meaning": "被忽視的，被疏忽的",
-      "example": "那棟房子被忽視多年。",
+      "meaning": "Ignored or not cared for",
+      "example": "That house has been neglected for many years.",
       "chinese": {
         "meaning": "被忽視的，被疏忽的",
         "example": "那棟房子被忽視多年。"
@@ -312,8 +312,8 @@
       "word": "Negligible",
       "type": "adjective",
       "letter": "N",
-      "meaning": "微不足道的，可以忽略的",
-      "example": "誤差非常微小，可以忽略。",
+      "meaning": "So small or unimportant as to be not worth considering",
+      "example": "The error is negligible and can be ignored.",
       "chinese": {
         "meaning": "微不足道的，可以忽略的",
         "example": "誤差非常微小，可以忽略。"
@@ -334,8 +334,8 @@
       "word": "Negroid",
       "type": "adjective",
       "letter": "N",
-      "meaning": "尼格羅人的（人種分類）",
-      "example": "這是人種分類的一種術語。",
+      "meaning": "Relating to a racial classification (historical term)",
+      "example": "This is a term used in racial classification.",
       "chinese": {
         "meaning": "尼格羅人的（人種分類）",
         "example": "這是人種分類的一種術語。"
@@ -411,8 +411,8 @@
       "word": "Neoteric",
       "type": "adjective",
       "letter": "N",
-      "meaning": "現代的，新的",
-      "example": "這是一種現代的設計風格。",
+      "meaning": "Modern or new",
+      "example": "This is a neoteric design style.",
       "chinese": {
         "meaning": "現代的，新的",
         "example": "這是一種現代的設計風格。"
@@ -422,8 +422,8 @@
       "word": "Nervous",
       "type": "adjective",
       "letter": "N",
-      "meaning": "緊張的，焦慮的",
-      "example": "考試前她感到非常緊張。",
+      "meaning": "Anxious or worried",
+      "example": "She felt very nervous before the exam.",
       "chinese": {
         "meaning": "緊張的，焦慮的",
         "example": "考試前她感到非常緊張。"
@@ -433,8 +433,8 @@
       "word": "Nervy",
       "type": "adjective",
       "letter": "N",
-      "meaning": "大膽的，勇敢的",
-      "example": "他在比賽中表現得非常大膽。",
+      "meaning": "Bold or daring",
+      "example": "He was nervy during the competition.",
       "chinese": {
         "meaning": "大膽的，勇敢的",
         "example": "他在比賽中表現得非常大膽。"
@@ -466,8 +466,8 @@
       "word": "Neutral",
       "type": "adjective",
       "letter": "N",
-      "meaning": "中立的，不偏不倚的",
-      "example": "他在爭論中保持中立。",
+      "meaning": "Not supporting either side; impartial",
+      "example": "He remained neutral in the argument.",
       "chinese": {
         "meaning": "中立的，不偏不倚的",
         "example": "他在爭論中保持中立。"
@@ -477,8 +477,8 @@
       "word": "New",
       "type": "adjective",
       "letter": "N",
-      "meaning": "新的，嶄新的",
-      "example": "我買了一雙新的鞋子。",
+      "meaning": "Recently made or obtained",
+      "example": "I bought a new pair of shoes.",
       "chinese": {
         "meaning": "新的，嶄新的",
         "example": "我買了一雙新的鞋子。"
@@ -510,8 +510,8 @@
       "word": "Newfangled",
       "type": "adjective",
       "letter": "N",
-      "meaning": "新奇的，最新式的",
-      "example": "他不喜歡那些新奇的電子產品。",
+      "meaning": "New and often strange or unfamiliar",
+      "example": "He doesn't like those newfangled electronic devices.",
       "chinese": {
         "meaning": "新奇的，最新式的",
         "example": "他不喜歡那些新奇的電子產品。"
@@ -532,8 +532,8 @@
       "word": "Nice",
       "type": "adjective",
       "letter": "N",
-      "meaning": "好的，令人愉快的",
-      "example": "她是一個很好的人。",
+      "meaning": "Pleasant, agreeable, or kind",
+      "example": "She is a very nice person.",
       "chinese": {
         "meaning": "好的，令人愉快的",
         "example": "她是一個很好的人。"
@@ -565,8 +565,8 @@
       "word": "Nifty",
       "type": "adjective",
       "letter": "N",
-      "meaning": "巧妙的，俐落的",
-      "example": "他發明了一個巧妙的工具。",
+      "meaning": "Clever and effective",
+      "example": "He invented a nifty tool.",
       "chinese": {
         "meaning": "巧妙的，俐落的",
         "example": "他發明了一個巧妙的工具。"
@@ -587,8 +587,8 @@
       "word": "Nimble",
       "type": "adjective",
       "letter": "N",
-      "meaning": "靈活的，敏捷的",
-      "example": "貓的動作非常靈活。",
+      "meaning": "Quick and light in movement or action; agile",
+      "example": "The cat moves very nimbly.",
       "chinese": {
         "meaning": "靈活的，敏捷的",
         "example": "貓的動作非常靈活。"
@@ -598,8 +598,8 @@
       "word": "Nimble-fingered",
       "type": "adjective",
       "letter": "N",
-      "meaning": "靈巧的，手指靈活的",
-      "example": "她是一位靈巧的編織者。",
+      "meaning": "Having skillful and quick fingers",
+      "example": "She is a nimble-fingered weaver.",
       "chinese": {
         "meaning": "靈巧的，手指靈活的",
         "example": "她是一位靈巧的編織者。"
@@ -620,8 +620,8 @@
       "word": "Nippy",
       "type": "adjective",
       "letter": "N",
-      "meaning": "寒冷的，刺骨的",
-      "example": "今天天氣有點寒冷。",
+      "meaning": "Chilly or cold",
+      "example": "It's a bit nippy outside today.",
       "chinese": {
         "meaning": "寒冷的，刺骨的",
         "example": "今天天氣有點寒冷。"
@@ -631,8 +631,8 @@
       "word": "Noble",
       "type": "adjective",
       "letter": "N",
-      "meaning": "高貴的，崇高的",
-      "example": "他有一顆高貴的心。",
+      "meaning": "Having high moral qualities; honorable and dignified",
+      "example": "He has a noble heart.",
       "chinese": {
         "meaning": "高貴的，崇高的",
         "example": "他有一顆高貴的心。"
@@ -642,8 +642,8 @@
       "word": "Noble-minded",
       "type": "adjective",
       "letter": "N",
-      "meaning": "高尚的，有崇高思想的",
-      "example": "他是一個高尚的人。",
+      "meaning": "Having honorable and lofty thoughts or ideals",
+      "example": "He is a noble-minded person.",
       "chinese": {
         "meaning": "高尚的，有崇高思想的",
         "example": "他是一個高尚的人。"
@@ -653,8 +653,8 @@
       "word": "Nocturnal",
       "type": "adjective",
       "letter": "N",
-      "meaning": "夜間活動的",
-      "example": "貓頭鷹是夜間活動的動物。",
+      "meaning": "Active at night",
+      "example": "Owls are nocturnal animals.",
       "chinese": {
         "meaning": "夜間活動的",
         "example": "貓頭鷹是夜間活動的動物。"
@@ -664,8 +664,8 @@
       "word": "Noiseless",
       "type": "adjective",
       "letter": "N",
-      "meaning": "無聲的，安靜的",
-      "example": "這台機器運轉時非常無聲。",
+      "meaning": "Without noise; quiet",
+      "example": "This machine runs noiselessly.",
       "chinese": {
         "meaning": "無聲的，安靜的",
         "example": "這台機器運轉時非常無聲。"
@@ -675,8 +675,8 @@
       "word": "Noisy",
       "type": "adjective",
       "letter": "N",
-      "meaning": "吵鬧的，嘈雜的",
-      "example": "工地附近非常吵鬧。",
+      "meaning": "Making a lot of noise",
+      "example": "The construction site is very noisy.",
       "chinese": {
         "meaning": "吵鬧的，嘈雜的",
         "example": "工地附近非常吵鬧。"
@@ -884,8 +884,8 @@
       "word": "Nonchalant",
       "type": "adjective",
       "letter": "N",
-      "meaning": "漠不關心的，冷淡的",
-      "example": "他對問題表現得很漠不關心。",
+      "meaning": "Casual and indifferent; unconcerned",
+      "example": "He acted nonchalantly about the problem.",
       "chinese": {
         "meaning": "漠不關心的，冷淡的",
         "example": "他對問題表現得很漠不關心。"
@@ -906,8 +906,8 @@
       "word": "Nonplussed",
       "type": "adjective",
       "letter": "N",
-      "meaning": "困惑的，不知所措的",
-      "example": "他對問題感到困惑。",
+      "meaning": "Confused and unsure how to react",
+      "example": "He was nonplussed by the unexpected question.",
       "chinese": {
         "meaning": "困惑的，不知所措的",
         "example": "他對問題感到困惑。"
@@ -917,8 +917,8 @@
       "word": "Nonsensical",
       "type": "adjective",
       "letter": "N",
-      "meaning": "荒謬的，無意義的",
-      "example": "他的說法完全荒謬。",
+      "meaning": "Making no sense; absurd",
+      "example": "His statement was completely nonsensical.",
       "chinese": {
         "meaning": "荒謬的，無意義的",
         "example": "他的說法完全荒謬。"
@@ -928,8 +928,8 @@
       "word": "Nonstop",
       "type": "adjective",
       "letter": "N",
-      "meaning": "不停的，不間斷的",
-      "example": "飛機進行了不停的飛行。",
+      "meaning": "Without stopping or interruption",
+      "example": "The plane made a nonstop flight.",
       "chinese": {
         "meaning": "不停的，不間斷的",
         "example": "飛機進行了不停的飛行。"
@@ -939,8 +939,8 @@
       "word": "Nonverbal",
       "type": "adjective",
       "letter": "N",
-      "meaning": "非語言的",
-      "example": "非語言溝通很重要。",
+      "meaning": "Communication without words",
+      "example": "Nonverbal communication is very important.",
       "chinese": {
         "meaning": "非語言的",
         "example": "非語言溝通很重要。"
@@ -961,8 +961,8 @@
       "word": "Normal",
       "type": "adjective",
       "letter": "N",
-      "meaning": "正常的，普通的",
-      "example": "這是正常的反應。",
+      "meaning": "Usual, typical, or expected",
+      "example": "This is a normal reaction.",
       "chinese": {
         "meaning": "正常的，普通的",
         "example": "這是正常的反應。"
@@ -1049,8 +1049,8 @@
       "word": "Notable",
       "type": "adjective",
       "letter": "N",
-      "meaning": "顯著的，值得注意的",
-      "example": "他在科學界有顯著的成就。",
+      "meaning": "Remarkable or worthy of attention",
+      "example": "He has notable achievements in science.",
       "chinese": {
         "meaning": "顯著的，值得注意的",
         "example": "他在科學界有顯著的成就。"
@@ -1060,8 +1060,8 @@
       "word": "Noted",
       "type": "adjective",
       "letter": "N",
-      "meaning": "著名的，知名的",
-      "example": "他是一位著名的藝術家。",
+      "meaning": "Famous or well known",
+      "example": "He is a noted artist.",
       "chinese": {
         "meaning": "著名的，知名的",
         "example": "他是一位著名的藝術家。"
@@ -1071,8 +1071,8 @@
       "word": "Noteworthy",
       "type": "adjective",
       "letter": "N",
-      "meaning": "值得注意的，顯著的",
-      "example": "這是一個值得注意的發現。",
+      "meaning": "Deserving attention; significant",
+      "example": "This is a noteworthy discovery.",
       "chinese": {
         "meaning": "值得注意的，顯著的",
         "example": "這是一個值得注意的發現。"
@@ -1093,8 +1093,8 @@
       "word": "Notorious",
       "type": "adjective",
       "letter": "N",
-      "meaning": "臭名昭著的",
-      "example": "這個地區因犯罪率高而臭名昭著。",
+      "meaning": "Famous for a bad reason",
+      "example": "This area is notorious for its high crime rate.",
       "chinese": {
         "meaning": "臭名昭著的",
         "example": "這個地區因犯罪率高而臭名昭著。"
@@ -1104,8 +1104,8 @@
       "word": "Nourished",
       "type": "adjective",
       "letter": "N",
-      "meaning": "營養良好的",
-      "example": "這些孩子都營養良好。",
+      "meaning": "Provided with food and other substances necessary for growth",
+      "example": "These children are well nourished.",
       "chinese": {
         "meaning": "營養良好的",
         "example": "這些孩子都營養良好。"
@@ -1115,8 +1115,8 @@
       "word": "Nourishing",
       "type": "adjective",
       "letter": "N",
-      "meaning": "滋養的，有營養的",
-      "example": "這頓飯非常滋養。",
+      "meaning": "Providing nutrients; healthy",
+      "example": "This meal is very nourishing.",
       "chinese": {
         "meaning": "滋養的，有營養的",
         "example": "這頓飯非常滋養。"
@@ -1126,8 +1126,8 @@
       "word": "Novel",
       "type": "adjective",
       "letter": "N",
-      "meaning": "新穎的，獨特的",
-      "example": "這是一種新穎的解決方案。",
+      "meaning": "New and original",
+      "example": "This is a novel solution.",
       "chinese": {
         "meaning": "新穎的，獨特的",
         "example": "這是一種新穎的解決方案。"
@@ -1137,8 +1137,8 @@
       "word": "Novelistic",
       "type": "adjective",
       "letter": "N",
-      "meaning": "小說風格的",
-      "example": "他的寫作風格很有小說風格。",
+      "meaning": "Relating to the style or characteristics of a novel",
+      "example": "His writing has a very novelistic style.",
       "chinese": {
         "meaning": "小說風格的",
         "example": "他的寫作風格很有小說風格。"
@@ -1159,8 +1159,8 @@
       "word": "Noxious",
       "type": "adjective",
       "letter": "N",
-      "meaning": "有害的，有毒的",
-      "example": "煙霧對健康有害。",
+      "meaning": "Harmful or poisonous",
+      "example": "Smoke is noxious to health.",
       "chinese": {
         "meaning": "有害的，有毒的",
         "example": "煙霧對健康有害。"
@@ -1181,8 +1181,8 @@
       "word": "Nubby",
       "type": "adjective",
       "letter": "N",
-      "meaning": "有結節的，粗糙的",
-      "example": "這件毛衣的質地有點粗糙。",
+      "meaning": "Having small lumps or bumps; rough texture",
+      "example": "The texture of this sweater is a bit nubby.",
       "chinese": {
         "meaning": "有結節的，粗糙的",
         "example": "這件毛衣的質地有點粗糙。"
@@ -1192,8 +1192,8 @@
       "word": "Nuclear",
       "type": "adjective",
       "letter": "N",
-      "meaning": "核能的，核子的",
-      "example": "核能發電是一種能源。",
+      "meaning": "Related to atomic nuclei or nuclear energy",
+      "example": "Nuclear power is a source of energy.",
       "chinese": {
         "meaning": "核能的，核子的",
         "example": "核能發電是一種能源。"
@@ -1203,8 +1203,8 @@
       "word": "Nude",
       "type": "adjective",
       "letter": "N",
-      "meaning": "裸體的，裸露的",
-      "example": "畫中的人物是裸體的。",
+      "meaning": "Without clothes; naked",
+      "example": "The person in the painting is nude.",
       "chinese": {
         "meaning": "裸體的，裸露的",
         "example": "畫中的人物是裸體的。"
@@ -1225,8 +1225,8 @@
       "word": "Numb",
       "type": "adjective",
       "letter": "N",
-      "meaning": "麻木的，失去感覺的",
-      "example": "寒冷使他的手指麻木了。",
+      "meaning": "Feeling without sensation; unable to feel physically or emotionally",
+      "example": "The cold made his fingers numb.",
       "chinese": {
         "meaning": "麻木的，失去感覺的",
         "example": "寒冷使他的手指麻木了。"
@@ -1258,8 +1258,8 @@
       "word": "Numerical",
       "type": "adjective",
       "letter": "N",
-      "meaning": "數字的，數值的",
-      "example": "我們需要分析數字資料。",
+      "meaning": "Related to numbers or expressed in numbers",
+      "example": "We need to analyze numerical data.",
       "chinese": {
         "meaning": "數字的，數值的",
         "example": "我們需要分析數字資料。"
@@ -1269,8 +1269,8 @@
       "word": "Numerous",
       "type": "adjective",
       "letter": "N",
-      "meaning": "大量的，許多的",
-      "example": "有許多問題需要解決。",
+      "meaning": "Many or very many",
+      "example": "There are numerous problems to solve.",
       "chinese": {
         "meaning": "大量的，許多的",
         "example": "有許多問題需要解決。"
@@ -1291,8 +1291,8 @@
       "word": "Nurtured",
       "type": "adjective",
       "letter": "N",
-      "meaning": "被培育的，被養育的",
-      "example": "這些植物被精心培育。",
+      "meaning": "Cared for and encouraged to grow",
+      "example": "These plants were carefully nurtured.",
       "chinese": {
         "meaning": "被培育的，被養育的",
         "example": "這些植物被精心培育。"
@@ -1302,8 +1302,8 @@
       "word": "Nurturing",
       "type": "adjective",
       "letter": "N",
-      "meaning": "養育的，培育的",
-      "example": "她有一顆養育孩子的心。",
+      "meaning": "Providing care and encouragement for growth",
+      "example": "She has a nurturing heart for children.",
       "chinese": {
         "meaning": "養育的，培育的",
         "example": "她有一顆養育孩子的心。"
@@ -1324,8 +1324,8 @@
       "word": "Nutritious",
       "type": "adjective",
       "letter": "N",
-      "meaning": "有營養的",
-      "example": "這些蔬菜非常有營養。",
+      "meaning": "Healthy and full of nutrients",
+      "example": "These vegetables are very nutritious.",
       "chinese": {
         "meaning": "有營養的",
         "example": "這些蔬菜非常有營養。"
@@ -1335,8 +1335,8 @@
       "word": "Nutritive",
       "type": "adjective",
       "letter": "N",
-      "meaning": "有營養的",
-      "example": "這種食物很有營養。",
+      "meaning": "Providing nutrition",
+      "example": "This food is nutritive.",
       "chinese": {
         "meaning": "有營養的",
         "example": "這種食物很有營養。"
@@ -1346,8 +1346,8 @@
       "word": "Nutshell",
       "type": "adjective",
       "letter": "N",
-      "meaning": "簡潔的，扼要的",
-      "example": "他用簡潔的方式說明了問題。",
+      "meaning": "Brief and concise",
+      "example": "He explained the problem in a nutshell.",
       "chinese": {
         "meaning": "簡潔的，扼要的",
         "example": "他用簡潔的方式說明了問題。"
@@ -1357,8 +1357,8 @@
       "word": "Nutty",
       "type": "adjective",
       "letter": "N",
-      "meaning": "堅果味的，瘋狂的",
-      "example": "這個點心有堅果味。",
+      "meaning": "Tasting like nuts; or crazy/odd",
+      "example": "This snack has a nutty flavor.",
       "chinese": {
         "meaning": "堅果味的，瘋狂的",
         "example": "這個點心有堅果味。"
@@ -1368,8 +1368,8 @@
       "word": "Nuzzling",
       "type": "adjective",
       "letter": "N",
-      "meaning": "愛撫的，親昵的",
-      "example": "小貓親昵地蹭著主人。",
+      "meaning": "Showing affection by rubbing or touching gently",
+      "example": "The kitten was nuzzling its owner.",
       "chinese": {
         "meaning": "愛撫的，親昵的",
         "example": "小貓親昵地蹭著主人。"

@@ -4,7 +4,7 @@
       "word": "Wacky",
       "type": "adjective",
       "letter": "W",
-      "meaning": "古怪的，瘋狂的",
+      "meaning": "Silly or eccentric",
       "example": "She wore a wacky hat to the party.",
       "chinese": {
         "meaning": "古怪的，瘋狂的",
@@ -37,7 +37,7 @@
       "word": "Waning",
       "type": "adjective",
       "letter": "W",
-      "meaning": "逐漸減弱的，衰退的",
+      "meaning": "Becoming weaker or smaller",
       "example": "The moon was waning last night.",
       "chinese": {
         "meaning": "逐漸減弱的，衰退的",
@@ -70,7 +70,7 @@
       "word": "Wanton",
       "type": "adjective",
       "letter": "W",
-      "meaning": "無節制的，放縱的",
+      "meaning": "Deliberate and without reason or limit",
       "example": "The wanton destruction of the forest is alarming.",
       "chinese": {
         "meaning": "無節制的，放縱的",
@@ -114,7 +114,7 @@
       "word": "Warped",
       "type": "adjective",
       "letter": "W",
-      "meaning": "扭曲的，變形的",
+      "meaning": "Twisted or bent out of shape",
       "example": "The old floorboards were warped by water.",
       "chinese": {
         "meaning": "扭曲的，變形的",
@@ -125,7 +125,7 @@
       "word": "Wary",
       "type": "adjective",
       "letter": "W",
-      "meaning": "謹慎的，小心翼翼的",
+      "meaning": "Cautious and careful to avoid danger",
       "example": "Be wary of strangers offering help.",
       "chinese": {
         "meaning": "謹慎的，小心翼翼的",
@@ -158,7 +158,7 @@
       "word": "Wasteful",
       "type": "adjective",
       "letter": "W",
-      "meaning": "浪費的，不節約的",
+      "meaning": "Using resources carelessly or extravagantly",
       "example": "His wasteful habits cost him a lot of money.",
       "chinese": {
         "meaning": "浪費的，不節約的",
@@ -169,7 +169,7 @@
       "word": "Watchful",
       "type": "adjective",
       "letter": "W",
-      "meaning": "警覺的，留心的",
+      "meaning": "Carefully observant or alert",
       "example": "The watchful guard noticed the suspicious activity.",
       "chinese": {
         "meaning": "警覺的，留心的",
@@ -180,7 +180,7 @@
       "word": "Waterlogged",
       "type": "adjective",
       "letter": "W",
-      "meaning": "水浸的，飽和水分的",
+      "meaning": "Soaked or filled with water",
       "example": "The fields were waterlogged after the heavy rain.",
       "chinese": {
         "meaning": "水浸的，飽和水分的",
@@ -202,7 +202,7 @@
       "word": "Watery",
       "type": "adjective",
       "letter": "W",
-      "meaning": "稀薄的，水汪汪的",
+      "meaning": "Containing a lot of water; thin or weak",
       "example": "His eyes were watery from crying.",
       "chinese": {
         "meaning": "稀薄的，水汪汪的",
@@ -246,7 +246,7 @@
       "word": "Weak",
       "type": "adjective",
       "letter": "W",
-      "meaning": "虛弱的，無力的",
+      "meaning": "Lacking physical strength or energy",
       "example": "After the illness, he felt weak for weeks.",
       "chinese": {
         "meaning": "虛弱的，無力的",
@@ -279,7 +279,7 @@
       "word": "Wealthy",
       "type": "adjective",
       "letter": "W",
-      "meaning": "富有的，富裕的",
+      "meaning": "Having a lot of money or possessions",
       "example": "They come from a wealthy family.",
       "chinese": {
         "meaning": "富有的，富裕的",
@@ -323,7 +323,7 @@
       "word": "Weary",
       "type": "adjective",
       "letter": "W",
-      "meaning": "疲倦的，厭倦的",
+      "meaning": "Very tired or bored",
       "example": "She felt weary after the long journey.",
       "chinese": {
         "meaning": "疲倦的，厭倦的",
@@ -345,7 +345,7 @@
       "word": "Webbed",
       "type": "adjective",
       "letter": "W",
-      "meaning": "有蹼的（如鳥或兩棲動物的腳）",
+      "meaning": "Having the toes or fingers connected by a membrane",
       "example": "Ducks have webbed feet to help them swim.",
       "chinese": {
         "meaning": "有蹼的（如鳥或兩棲動物的腳）",
@@ -400,7 +400,7 @@
       "word": "Weird",
       "type": "adjective",
       "letter": "W",
-      "meaning": "奇異的，怪異的",
+      "meaning": "Strange or unusual",
       "example": "That movie was really weird.",
       "chinese": {
         "meaning": "奇異的，怪異的",
@@ -455,7 +455,7 @@
       "word": "Well-behaved",
       "type": "adjective",
       "letter": "W",
-      "meaning": "行為良好的，守規矩的",
+      "meaning": "Acting in a polite and proper way",
       "example": "The children were well-behaved during the event.",
       "chinese": {
         "meaning": "行為良好的，守規矩的",
@@ -499,7 +499,7 @@
       "word": "Well-informed",
       "type": "adjective",
       "letter": "W",
-      "meaning": "消息靈通的，見多識廣的",
+      "meaning": "Having a lot of knowledge or information",
       "example": "She is well-informed about current events.",
       "chinese": {
         "meaning": "消息靈通的，見多識廣的",
@@ -510,7 +510,7 @@
       "word": "Well-intentioned",
       "type": "adjective",
       "letter": "W",
-      "meaning": "出於善意的，善意的",
+      "meaning": "Having or showing good intentions",
       "example": "His well-intentioned advice was appreciated.",
       "chinese": {
         "meaning": "出於善意的，善意的",
@@ -521,7 +521,7 @@
       "word": "Well-known",
       "type": "adjective",
       "letter": "W",
-      "meaning": "著名的，眾所周知的",
+      "meaning": "Famous or widely recognized",
       "example": "She is a well-known author.",
       "chinese": {
         "meaning": "著名的，眾所周知的",
@@ -532,7 +532,7 @@
       "word": "Well-off",
       "type": "adjective",
       "letter": "W",
-      "meaning": "富裕的，生活富足的",
+      "meaning": "Rich or in a good financial situation",
       "example": "They are well-off and live comfortably.",
       "chinese": {
         "meaning": "富裕的，生活富足的",
@@ -543,7 +543,7 @@
       "word": "Well-organized",
       "type": "adjective",
       "letter": "W",
-      "meaning": "組織良好的，有條理的",
+      "meaning": "Arranged or structured in an efficient way",
       "example": "The event was well-organized and ran smoothly.",
       "chinese": {
         "meaning": "組織良好的，有條理的",
@@ -554,7 +554,7 @@
       "word": "Well-rounded",
       "type": "adjective",
       "letter": "W",
-      "meaning": "全面發展的，多方面的",
+      "meaning": "Having a variety of skills or experiences",
       "example": "She is a well-rounded student excelling in academics and sports.",
       "chinese": {
         "meaning": "全面發展的，多方面的",
@@ -565,7 +565,7 @@
       "word": "Wet",
       "type": "adjective",
       "letter": "W",
-      "meaning": "濕的，潮濕的",
+      "meaning": "Covered or soaked with liquid",
       "example": "My clothes got wet in the rain.",
       "chinese": {
         "meaning": "濕的，潮濕的",
@@ -576,7 +576,7 @@
       "word": "Whimsical",
       "type": "adjective",
       "letter": "W",
-      "meaning": "異想天開的，古怪的",
+      "meaning": "Playfully unusual or imaginative",
       "example": "The story has a whimsical tone.",
       "chinese": {
         "meaning": "異想天開的，古怪的",
@@ -587,7 +587,7 @@
       "word": "Whiny",
       "type": "adjective",
       "letter": "W",
-      "meaning": "愛抱怨的，愛發牢騷的",
+      "meaning": "Complaining in a petulant or annoying way",
       "example": "Stop being so whiny and cheer up.",
       "chinese": {
         "meaning": "愛抱怨的，愛發牢騷的",
@@ -598,7 +598,7 @@
       "word": "Wholehearted",
       "type": "adjective",
       "letter": "W",
-      "meaning": "全心全意的，誠摯的",
+      "meaning": "Fully or sincerely devoted",
       "example": "She gave a wholehearted effort to the project.",
       "chinese": {
         "meaning": "全心全意的，誠摯的",
@@ -609,7 +609,7 @@
       "word": "Wholesome",
       "type": "adjective",
       "letter": "W",
-      "meaning": "有益健康的，健康的",
+      "meaning": "Promoting health or well-being",
       "example": "They promote wholesome food choices.",
       "chinese": {
         "meaning": "有益健康的，健康的",
@@ -620,7 +620,7 @@
       "word": "Wicked",
       "type": "adjective",
       "letter": "W",
-      "meaning": "邪惡的，壞的",
+      "meaning": "Morally bad or evil",
       "example": "The villain had a wicked plan.",
       "chinese": {
         "meaning": "邪惡的，壞的",
@@ -631,7 +631,7 @@
       "word": "Wide",
       "type": "adjective",
       "letter": "W",
-      "meaning": "寬的，廣泛的",
+      "meaning": "Measuring a large distance from side to side; broad",
       "example": "The river is wide at this point.",
       "chinese": {
         "meaning": "寬的，廣泛的",
@@ -642,7 +642,7 @@
       "word": "Willing",
       "type": "adjective",
       "letter": "W",
-      "meaning": "願意的，樂意的",
+      "meaning": "Ready or eager to do something",
       "example": "She is willing to help with the project.",
       "chinese": {
         "meaning": "願意的，樂意的",
@@ -653,7 +653,7 @@
       "word": "Wilted",
       "type": "adjective",
       "letter": "W",
-      "meaning": "枯萎的，凋謝的",
+      "meaning": "Dried out or shriveled, usually from heat or lack of water",
       "example": "The flowers looked wilted after the heat.",
       "chinese": {
         "meaning": "枯萎的，凋謝的",
@@ -664,7 +664,7 @@
       "word": "Wily",
       "type": "adjective",
       "letter": "W",
-      "meaning": "狡猾的，詭計多端的",
+      "meaning": "Clever and skilled at gaining an advantage",
       "example": "The wily fox escaped the trap.",
       "chinese": {
         "meaning": "狡猾的，詭計多端的",
@@ -675,7 +675,7 @@
       "word": "Windy",
       "type": "adjective",
       "letter": "W",
-      "meaning": "多風的，刮風的",
+      "meaning": "Characterized by a lot of wind",
       "example": "It was a windy day at the beach.",
       "chinese": {
         "meaning": "多風的，刮風的",
@@ -686,7 +686,7 @@
       "word": "Wiry",
       "type": "adjective",
       "letter": "W",
-      "meaning": "瘦而結實的，強健的",
+      "meaning": "Thin but strong and tough",
       "example": "He has a wiry build from years of exercise.",
       "chinese": {
         "meaning": "瘦而結實的，強健的",
@@ -697,7 +697,7 @@
       "word": "Wise",
       "type": "adjective",
       "letter": "W",
-      "meaning": "明智的，有智慧的",
+      "meaning": "Having or showing good judgment or knowledge",
       "example": "She gave me some wise advice.",
       "chinese": {
         "meaning": "明智的，有智慧的",
@@ -708,7 +708,7 @@
       "word": "Wishful",
       "type": "adjective",
       "letter": "W",
-      "meaning": "渴望的，抱有希望的",
+      "meaning": "Full of hope or desire",
       "example": "He had a wishful look in his eyes.",
       "chinese": {
         "meaning": "渴望的，抱有希望的",
@@ -719,7 +719,7 @@
       "word": "Wistful",
       "type": "adjective",
       "letter": "W",
-      "meaning": "渴望的，惆悵的",
+      "meaning": "Showing a feeling of vague longing or regret",
       "example": "She had a wistful smile thinking of the past.",
       "chinese": {
         "meaning": "渴望的，惆悵的",
@@ -752,7 +752,7 @@
       "word": "Woeful",
       "type": "adjective",
       "letter": "W",
-      "meaning": "悲傷的，悲慘的",
+      "meaning": "Full of sorrow or misery",
       "example": "The woeful news saddened everyone.",
       "chinese": {
         "meaning": "悲傷的，悲慘的",
@@ -774,7 +774,7 @@
       "word": "Wonderful",
       "type": "adjective",
       "letter": "W",
-      "meaning": "極好的，精彩的",
+      "meaning": "Extremely good or impressive",
       "example": "We had a wonderful time at the concert.",
       "chinese": {
         "meaning": "極好的，精彩的",
@@ -785,7 +785,7 @@
       "word": "Wondrous",
       "type": "adjective",
       "letter": "W",
-      "meaning": "奇妙的，令人驚嘆的",
+      "meaning": "Causing wonder; remarkable",
       "example": "The view from the mountain was wondrous.",
       "chinese": {
         "meaning": "奇妙的，令人驚嘆的",
@@ -829,7 +829,7 @@
       "word": "Woozy",
       "type": "adjective",
       "letter": "W",
-      "meaning": "頭暈的，昏昏沉沉的",
+      "meaning": "Feeling dizzy or light-headed",
       "example": "He felt woozy after spinning around.",
       "chinese": {
         "meaning": "頭暈的，昏昏沉沉的",
@@ -851,7 +851,7 @@
       "word": "Wordy",
       "type": "adjective",
       "letter": "W",
-      "meaning": "冗長的，囉唆的",
+      "meaning": "Using more words than necessary; verbose",
       "example": "The essay was too wordy and hard to follow.",
       "chinese": {
         "meaning": "冗長的，囉唆的",
@@ -884,7 +884,7 @@
       "word": "Worldly",
       "type": "adjective",
       "letter": "W",
-      "meaning": "世俗的，現實的",
+      "meaning": "Concerned with material values or practical matters",
       "example": "He has a worldly view of life.",
       "chinese": {
         "meaning": "世俗的，現實的",
@@ -928,7 +928,7 @@
       "word": "Worn-out",
       "type": "adjective",
       "letter": "W",
-      "meaning": "磨損的，疲憊不堪的",
+      "meaning": "Extremely tired or no longer usable",
       "example": "His shoes were worn-out after the hike.",
       "chinese": {
         "meaning": "磨損的，疲憊不堪的",
@@ -1060,7 +1060,7 @@
       "word": "Wrathful",
       "type": "adjective",
       "letter": "W",
-      "meaning": "憤怒的，狂怒的",
+      "meaning": "Full of intense anger",
       "example": "The wrathful king punished the traitors.",
       "chinese": {
         "meaning": "憤怒的，狂怒的",
@@ -1071,7 +1071,7 @@
       "word": "Wretched",
       "type": "adjective",
       "letter": "W",
-      "meaning": "可憐的，悲慘的",
+      "meaning": "In a very bad or unpleasant state",
       "example": "They lived in wretched conditions.",
       "chinese": {
         "meaning": "可憐的，悲慘的",
@@ -1082,7 +1082,7 @@
       "word": "Wrinkled",
       "type": "adjective",
       "letter": "W",
-      "meaning": "有皺紋的，起皺的",
+      "meaning": "Having small lines or folds, usually from age or pressure",
       "example": "Her face was wrinkled with age.",
       "chinese": {
         "meaning": "有皺紋的，起皺的",
@@ -1137,7 +1137,7 @@
       "word": "Wry",
       "type": "adjective",
       "letter": "W",
-      "meaning": "扭曲的，諷刺的",
+      "meaning": "Showing dry or mocking humor; twisted in expression",
       "example": "He gave a wry smile after the joke.",
       "chinese": {
         "meaning": "扭曲的，諷刺的",
