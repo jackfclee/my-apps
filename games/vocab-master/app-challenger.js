@@ -1,4 +1,4 @@
-import { loadAllWordData } from './data-loader.js';
+import { loadAllWordData } from './data-loader-with-cache.js';
 
 let words = [];
 
