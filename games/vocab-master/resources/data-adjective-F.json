@@ -2401,12 +2401,11 @@
     {
       "word": "Frustrated",
       "type": "adjective",
-      "letter": "F",
-      "meaning": "Feeling or expressing distress and annoyance",
-      "example": "She was frustrated by the delay.",
+      "meaning": "Feeling or expressing distress and annoyance, especially because of inability to change or achieve something",
+      "example": "She felt frustrated by the lack of progress.",
       "chinese": {
-        "meaning": "沮喪的",
-        "example": "延誤讓她感到沮喪。"
+        "meaning": "感到沮喪的；受挫的",
+        "example": "因為缺乏進展，她感到非常沮喪。"
       }
     },
     {
