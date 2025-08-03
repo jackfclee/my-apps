@@ -90,7 +90,8 @@ document.getElementById('searchInput').addEventListener('input', renderCheatShee
 document.getElementById('refreshBtn').addEventListener('click', async (e) => {
   e.preventDefault();
 
-  localStorage.removeItem('allWordData');
+  localStorage.removeItem('VocabMaster_allWordDataRaw');
+  localStorage.removeItem('VocabMaster_allWordDataExpiry');
 
   await loadDataAndRender(true);
 });

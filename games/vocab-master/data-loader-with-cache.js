@@ -1,11 +1,18 @@
 export async function loadAllWordData(onProgress, forceRefresh = false) {
-  const cacheKey = 'allWordData';
+  const cacheKey = 'VocabMaster_allWordDataRaw';
+  const expiryKey = 'VocabMaster_allWordDataExpiry';
   const cached = localStorage.getItem(cacheKey);
+  const expiry = localStorage.getItem(expiryKey);
 
-  if (cached && !forceRefresh) {
+  const now = Date.now();
+  const oneMonth = 30 * 24 * 60 * 60 * 1000; // 30 days in ms
+
+  // Check cache expiry and forceRefresh flag
+  if (cached && expiry && now < parseInt(expiry, 10) && !forceRefresh) {
     return JSON.parse(cached);
   }
 
+  // fetch fresh data
   const dataFolder = 'resources/';
   const dataPrefix = 'data-';
   const dataSuffix = '.json';
@@ -31,7 +38,10 @@ export async function loadAllWordData(onProgress, forceRefresh = false) {
   }
 
   const sortedWords = allWords.sort((a, b) => a.word.localeCompare(b.word));
-  localStorage.setItem(cacheKey, JSON.stringify(sortedWords)); // persist cache
+
+  // Save data and set expiry for 1 month from now
+  localStorage.setItem(cacheKey, JSON.stringify(sortedWords));
+  localStorage.setItem(expiryKey, now + oneMonth);
 
   return sortedWords;
 }
