@@ -1,8 +1,8 @@
-export async function loadAllWordData(onProgress) {
+export async function loadAllWordData(onProgress, forceRefresh = false) {
   const cacheKey = 'allWordData';
   const cached = localStorage.getItem(cacheKey);
 
-  if (cached) {
+  if (cached && !forceRefresh) {
     return JSON.parse(cached);
   }
 

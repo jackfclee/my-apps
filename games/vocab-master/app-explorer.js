@@ -49,8 +49,7 @@ function renderCheatSheet() {
   });
 }
 
-
-async function initExplorerPage() {
+async function loadDataAndRender(isReload = false) {
   const overlay = document.getElementById('loadingOverlay');
   const loadingProgress = document.getElementById('loadingProgress');
 
@@ -62,9 +61,9 @@ async function initExplorerPage() {
     words = await loadAllWordData(progress => {
       if (loadingProgress) {
         const percent = Math.round(progress * 100);
-        loadingProgress.textContent = `Loading ${percent}%`;
+        loadingProgress.textContent = `${isReload ? 'Reloading' : 'Loading'} ${percent}%`;
       }
-    });
+    }, isReload);
     renderCheatSheet();
   } catch (err) {
     console.error('Error loading data:', err);
@@ -78,8 +77,20 @@ async function initExplorerPage() {
   }
 }
 
+async function initExplorerPage() {
+  await loadDataAndRender();
+}
+
 initExplorerPage();
 
 document.getElementById('typeFilter').addEventListener('change', renderCheatSheet);
 document.getElementById('letterFilter').addEventListener('change', renderCheatSheet);
 document.getElementById('searchInput').addEventListener('input', renderCheatSheet);
+
+document.getElementById('refreshBtn').addEventListener('click', async (e) => {
+  e.preventDefault();
+
+  localStorage.removeItem('allWordData');
+
+  await loadDataAndRender(true);
+});
