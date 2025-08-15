@@ -13,7 +13,9 @@
               <th><a href="javascript: resort('title');">Title</a><xsl:call-template name="hdr"><xsl:with-param name="header" select="'title'" /></xsl:call-template></th>
               <th><a href="javascript: resort('year');">Year</a><xsl:call-template name="hdr"><xsl:with-param name="header" select="'year'" /></xsl:call-template></th>
               <th><a href="javascript: resort('type');">Type</a><xsl:call-template name="hdr"><xsl:with-param name="header" select="'type'" /></xsl:call-template></th>
+              <!--
               <th><a href="javascript: resort('hasBackup');">Has Backup?</a><xsl:call-template name="hdr"><xsl:with-param name="header" select="'hasBackup'" /></xsl:call-template></th>
+              -->
               <th><a href="javascript: resort('insertDTTM');">Insert Date/Time</a><xsl:call-template name="hdr"><xsl:with-param name="header" select="'insertDTTM'" /></xsl:call-template></th>
               <th><a href="javascript: resort('viewSource');">Source</a><xsl:call-template name="hdr"><xsl:with-param name="header" select="'viewSource'" /></xsl:call-template></th>
             </tr>
@@ -29,6 +31,7 @@
               <td><xsl:value-of select="title"/></td>
               <td><xsl:value-of select="year"/></td>
               <td><xsl:value-of select="type"/></td>
+              <!--
               <td>
                 <xsl:if test="hasBackup = 0">
                   <xsl:text>No</xsl:text>
@@ -37,6 +40,7 @@
                   <xsl:text>Yes</xsl:text>
                 </xsl:if>
               </td>
+              -->
               <td><xsl:value-of select="insertDTTM"/></td>
               <td>
                 <xsl:if test="viewSource = ''">
