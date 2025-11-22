@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Street Guardian: Side Scroller</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: #222;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-family: "Courier New", Courier, monospace;
+        overflow: hidden;
+      }
+      canvas {
+        border: 4px solid #444;
+        background: linear-gradient(
+          to bottom,
+          #87ceeb,
+          #e0f6ff
+        ); /* Sky background */
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+      }
+      #ui {
+        position: absolute;
+        top: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+        color: white;
+        text-shadow: 2px 2px 0 #000;
+        pointer-events: none;
+      }
+      #controls-hint {
+        position: absolute;
+        bottom: 10px;
+        color: #fff;
+        font-size: 14px;
+        opacity: 0.8;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="ui">
+      <h1 style="margin: 0">STREET GUARDIAN</h1>
+      <p>
+        Health: <span id="healthVal">100</span> | Score:
+        <span id="scoreVal">0</span>
+      </p>
+    </div>
+
+    <canvas id="gameCanvas" width="800" height="450"></canvas>
+    <div id="controls-hint">ARROWS to Move/Jump | SPACE to Attack</div>
+
+    <script>
+      const canvas = document.getElementById("gameCanvas");
+      const ctx = canvas.getContext("2d");
+      const healthDisplay = document.getElementById("healthVal");
+      const scoreDisplay = document.getElementById("scoreVal");
+
+      // --- Game Constants ---
+      const GRAVITY = 0.6;
+      const GROUND_Y = 380;
+
+      // --- Game State ---
+      let gameState = "playing"; // playing, gameover
+      let score = 0;
+      let cameraX = 0;
+
+      // --- Input Handling ---
+      const keys = {
+        ArrowRight: false,
+        ArrowLeft: false,
+        ArrowUp: false,
+        Space: false,
+      };
+
+      window.addEventListener("keydown", (e) => {
+        if (e.code === "Space") keys.Space = true;
+        if (e.code === "ArrowRight") keys.ArrowRight = true;
+        if (e.code === "ArrowLeft") keys.ArrowLeft = true;
+        if (e.code === "ArrowUp") keys.ArrowUp = true;
+
+        // Restart if game over
+        if (gameState === "gameover" && e.code === "Space") resetGame();
+      });
+
+      window.addEventListener("keyup", (e) => {
+        if (e.code === "Space") keys.Space = false;
+        if (e.code === "ArrowRight") keys.ArrowRight = false;
+        if (e.code === "ArrowLeft") keys.ArrowLeft = false;
+        if (e.code === "ArrowUp") keys.ArrowUp = false;
+      });
+
+      // --- Classes ---
+
+      class Hero {
+        constructor() {
+          this.width = 40;
+          this.height = 60;
+          this.x = 100;
+          this.y = GROUND_Y - this.height;
+          this.vx = 0;
+          this.vy = 0;
+          this.speed = 5;
+          this.jumpPower = -12;
+          this.color = "#3498db";
+          this.facingRight = true;
+          this.health = 100;
+
+          // Attack stats
+          this.isAttacking = false;
+          this.attackTimer = 0;
+          this.attackDuration = 15;
+          this.attackCooldown = 0;
+        }
+
+        update() {
+          // Horizontal Movement
+          if (keys.ArrowRight) {
+            this.vx = this.speed;
+            this.facingRight = true;
+          } else if (keys.ArrowLeft) {
+            this.vx = -this.speed;
+            this.facingRight = false;
+          } else {
+            this.vx = 0;
+          }
+
+          // Jumping
+          if (keys.ArrowUp && this.onGround()) {
+            this.vy = this.jumpPower;
+          }
+
+          // Attack Logic
+          if (this.attackCooldown > 0) this.attackCooldown--;
+          if (keys.Space && this.attackCooldown === 0) {
+            this.isAttacking = true;
+            this.attackTimer = this.attackDuration;
+            this.attackCooldown = 30; // Frames before next attack
+          }
+
+          if (this.isAttacking) {
+            this.attackTimer--;
+            if (this.attackTimer <= 0) {
+              this.isAttacking = false;
+            }
+          }
+
+          // Physics
+          this.x += this.vx;
+          this.y += this.vy;
+          this.vy += GRAVITY;
+
+          // Boundaries
+          if (this.onGround()) {
+            this.y = GROUND_Y - this.height;
+            this.vy = 0;
+          }
+
+          // Keep player from going off left edge relative to camera start
+          if (this.x < cameraX) this.x = cameraX;
+
+          // Move Camera if player moves right
+          if (this.x > cameraX + 300) {
+            cameraX = this.x - 300;
+          }
+        }
+
+        onGround() {
+          return this.y >= GROUND_Y - this.height;
+        }
+
+        draw(ctx) {
+          // Draw Body
+          ctx.fillStyle = this.color;
+          ctx.fillRect(this.x - cameraX, this.y, this.width, this.height);
+
+          // Draw Head
+          ctx.fillStyle = "#ffe0bd"; // skin tone
+          ctx.fillRect(this.x - cameraX + 5, this.y - 15, 30, 20);
+
+          // Draw Bandana
+          ctx.fillStyle = "red";
+          ctx.fillRect(this.x - cameraX + 5, this.y - 15, 30, 5);
+
+          // Draw Sword
+          ctx.save();
+          ctx.translate(
+            this.x - cameraX + (this.facingRight ? this.width : 0),
+            this.y + 30
+          );
+
+          if (this.isAttacking) {
+            // Swing animation
+            ctx.rotate(this.facingRight ? 1 : -1);
+            ctx.fillStyle = "#FFF"; // Sword flash
+          } else {
+            // Idle sword
+            ctx.rotate(this.facingRight ? -0.5 : 0.5);
+            ctx.fillStyle = "#bdc3c7";
+          }
+
+          // Blade
+          ctx.fillRect(0, -2, this.facingRight ? 40 : -40, 4);
+          // Hilt
+          ctx.fillStyle = "#8e44ad";
+          ctx.fillRect(0, -5, this.facingRight ? 10 : -10, 10);
+
+          ctx.restore();
+        }
+      }
+
+      class Enemy {
+        constructor(x) {
+          this.width = 40;
+          this.height = 60;
+          this.x = x;
+          this.y = GROUND_Y - this.height;
+          this.vx = -2; // Move left
+          this.color = "#e74c3c";
+          this.health = 30;
+          this.markedForDeletion = false;
+          this.hitTimer = 0;
+        }
+
+        update(hero) {
+          // Simple AI: Move toward hero
+          if (this.x > hero.x) {
+            this.vx = -2;
+          } else {
+            this.vx = 2;
+          }
+          this.x += this.vx;
+
+          // Collision with Hero (Damage Hero)
+          if (
+            rectIntersect(
+              this.x,
+              this.y,
+              this.width,
+              this.height,
+              hero.x,
+              hero.y,
+              hero.width,
+              hero.height
+            )
+          ) {
+            if (hero.health > 0 && gameState === "playing") {
+              hero.health -= 0.5; // Damage per frame
+            }
+          }
+
+          // Flash white if hit
+          if (this.hitTimer > 0) this.hitTimer--;
+        }
+
+        takeDamage(amount) {
+          this.health -= amount;
+          this.hitTimer = 5; // Flash for 5 frames
+          if (this.health <= 0) {
+            this.markedForDeletion = true;
+            score += 100;
+          }
+        }
+
+        draw(ctx) {
+          ctx.fillStyle = this.hitTimer > 0 ? "#fff" : this.color;
+          ctx.fillRect(this.x - cameraX, this.y, this.width, this.height);
+
+          // Draw angry eyes
+          ctx.fillStyle = "yellow";
+          ctx.fillRect(this.x - cameraX + 5, this.y + 10, 10, 5);
+          ctx.fillRect(this.x - cameraX + 25, this.y + 10, 10, 5);
+        }
+      }
+
+      class Building {
+        constructor(x, w, h) {
+          this.x = x;
+          this.w = w;
+          this.h = h;
+        }
+        draw(ctx) {
+          ctx.fillStyle = "#555";
+          // Simple parallax: buildings move slightly slower than foreground to create depth
+          let parallaxX = this.x - cameraX * 0.5;
+          ctx.fillRect(parallaxX, GROUND_Y - this.h, this.w, this.h);
+
+          // Windows
+          ctx.fillStyle = "#777";
+          for (let i = 10; i < this.w; i += 20) {
+            for (let j = 10; j < this.h; j += 30) {
+              if (Math.random() > 0.2)
+                // Random lights
+                ctx.fillRect(parallaxX + i, GROUND_Y - this.h + j, 10, 15);
+            }
+          }
+        }
+      }
+
+      // --- Initialization ---
+      let hero = new Hero();
+      let enemies = [];
+      let buildings = [];
+      let frame = 0;
+
+      function initWorld() {
+        // Generate infinite-looking buildings
+        for (let i = 0; i < 50; i++) {
+          let h = 100 + Math.random() * 200;
+          let w = 60 + Math.random() * 100;
+          let x = i * 200;
+          buildings.push(new Building(x, w, h));
+        }
+      }
+
+      function resetGame() {
+        hero = new Hero();
+        enemies = [];
+        score = 0;
+        cameraX = 0;
+        gameState = "playing";
+        loop();
+      }
+
+      initWorld();
+
+      // --- Utils ---
+      function rectIntersect(x1, y1, w1, h1, x2, y2, w2, h2) {
+        return x2 < x1 + w1 && x2 + w2 > x1 && y2 < y1 + h1 && y2 + h2 > y1;
+      }
+
+      // --- Main Loop ---
+      function loop() {
+        if (gameState !== "playing") {
+          drawGameOver();
+          return;
+        }
+
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        // 1. Draw Background (City)
+        buildings.forEach((b) => b.draw(ctx));
+
+        // 2. Draw Ground
+        ctx.fillStyle = "#2c3e50";
+        ctx.fillRect(0, GROUND_Y, canvas.width, canvas.height - GROUND_Y);
+        // Street lines
+        ctx.strokeStyle = "#fff";
+        ctx.setLineDash([40, 40]);
+        ctx.beginPath();
+        ctx.moveTo(0 - (cameraX % 80), GROUND_Y + 30);
+        ctx.lineTo(canvas.width, GROUND_Y + 30);
+        ctx.stroke();
+        ctx.setLineDash([]);
+
+        // 3. Update & Draw Hero
+        hero.update();
+        hero.draw(ctx);
+
+        // 4. Manage Enemies
+        // Spawn enemy every 100 frames roughly ahead of player
+        if (frame % 120 === 0) {
+          enemies.push(new Enemy(cameraX + 850 + Math.random() * 200));
+        }
+
+        enemies.forEach((enemy) => {
+          enemy.update(hero);
+          enemy.draw(ctx);
+
+          // Check Sword Hit
+          if (hero.isAttacking) {
+            // Define sword hitbox based on direction
+            let swordX = hero.facingRight ? hero.x + hero.width : hero.x - 40;
+            let swordY = hero.y + 10;
+            let swordW = 40;
+            let swordH = 40;
+
+            if (
+              rectIntersect(
+                swordX,
+                swordY,
+                swordW,
+                swordH,
+                enemy.x,
+                enemy.y,
+                enemy.width,
+                enemy.height
+              )
+            ) {
+              enemy.takeDamage(5);
+            }
+          }
+        });
+
+        // Remove dead enemies
+        enemies = enemies.filter((e) => !e.markedForDeletion);
+
+        // 5. Update UI
+        healthDisplay.innerText = Math.floor(hero.health);
+        scoreDisplay.innerText = score;
+
+        if (hero.health <= 0) {
+          gameState = "gameover";
+        }
+
+        frame++;
+        requestAnimationFrame(loop);
+      }
+
+      function drawGameOver() {
+        ctx.fillStyle = "rgba(0, 0, 0, 0.7)";
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+        ctx.fillStyle = "#e74c3c";
+        ctx.font = "40px Courier New";
+        ctx.textAlign = "center";
+        ctx.fillText("GAME OVER", canvas.width / 2, canvas.height / 2 - 20);
+
+        ctx.fillStyle = "white";
+        ctx.font = "20px Courier New";
+        ctx.fillText(
+          "Press SPACE to Restart",
+          canvas.width / 2,
+          canvas.height / 2 + 20
+        );
+      }
+
+      // Start
+      loop();
+    </script>
+  </body>
+</html>

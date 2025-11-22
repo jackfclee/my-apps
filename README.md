@@ -21,8 +21,9 @@
 
 ## Game App
 
-- [Car Racing @ jackfclee](https://jackfclee.github.io/my-apps/games/car-racing)
 - [Crossy Road @ jackfclee](https://jackfclee.github.io/my-apps/games/crossy-road)
+- [Neon Drift @ jackfclee](https://jackfclee.github.io/my-apps/games/neon-drift)
+- [Street Guardian @ jackfclee](https://jackfclee.github.io/my-apps/games/street-guardian)
 - [Tetris Arcade @ jackfclee](https://jackfclee.github.io/my-apps/games/tetris-arcade)
 - [Vocab Master @ jackfclee](https://jackfclee.github.io/my-apps/games/vocab-master)
 - [Whack-a-Mole @ jackfclee](https://jackfclee.github.io/my-apps/games/whack-a-mole)
