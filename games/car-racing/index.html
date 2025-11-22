@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Neon Drift: Crash Update</title>
+    <title>Neon Drift: Balanced Edition</title>
     <style>
       body {
         margin: 0;
@@ -12,7 +12,7 @@
         font-family: "Courier New", Courier, monospace;
       }
 
-      /* UI OVERLAYS */
+      /* UI LAYERS */
       #ui-layer {
         position: absolute;
         top: 0;
@@ -41,6 +41,19 @@
         font-size: 48px;
         font-style: italic;
         text-shadow: 3px 3px #000;
+      }
+
+      /* TURN INDICATOR (New) */
+      #turn-indicator {
+        position: absolute;
+        top: 20%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 80px;
+        font-weight: 900;
+        color: rgba(255, 255, 0, 0.7);
+        text-shadow: 0 0 10px yellow;
+        display: none;
       }
 
       /* CRASH FLASH */
@@ -89,11 +102,18 @@
           opacity: 0;
         }
       }
+      .instructions {
+        margin-top: 30px;
+        color: #aaa;
+        text-align: center;
+        line-height: 1.5;
+      }
     </style>
   </head>
   <body>
     <div id="game-container"></div>
     <div id="crash-overlay"></div>
+    <div id="turn-indicator"></div>
 
     <div id="ui-layer">
       <div class="hud-top">
@@ -106,9 +126,12 @@
     <div id="start-screen">
       <h1>NEON DRIFT</h1>
       <div class="blink">[ CLICK TO START ]</div>
-      <p style="margin-top: 30px; color: #aaa">
-        Avoid the Grass! | SPACE to Drift
-      </p>
+      <div class="instructions">
+        UP: Gas | DOWN: Brake<br />
+        LEFT/RIGHT: Steer<br />
+        SPACE: Drift<br /><br />
+        <span style="color: #00ffff">Stay on the gray road!</span>
+      </div>
     </div>
 
     <script type="importmap">
@@ -124,13 +147,18 @@
 
       // --- CONFIG ---
       const CFG = {
-        roadWidth: 20, // Total width (center to edge is 10)
+        roadWidth: 20,
         segLength: 10,
-        numSegments: 60,
-        maxSpeed: 1.2,
+        numSegments: 80,
+        maxSpeed: 1.4,
         accel: 0.01,
         decel: 0.02,
-        turnSpeed: 0.05,
+
+        // PHYSICS TWEAKS (THE FIX)
+        // Steering is now 3x stronger than the curve force
+        turnSpeed: 0.12, // Was 0.06 (Doubled)
+        centrifugalForce: 0.15, // Was 0.4 (Lowered)
+
         colors: {
           road: 0x222222,
           grass: 0x101010,
@@ -149,6 +177,7 @@
         score: 0,
         isCrashed: false,
         crashTimer: 0,
+        roadCurve: 0,
       };
 
       const keys = {
@@ -162,7 +191,7 @@
       // --- SCENE SETUP ---
       const scene = new THREE.Scene();
       scene.background = new THREE.Color(0x0f0c29);
-      scene.fog = new THREE.FogExp2(0x0f0c29, 0.015);
+      scene.fog = new THREE.FogExp2(0x0f0c29, 0.012);
 
       const camera = new THREE.PerspectiveCamera(
         60,
@@ -184,9 +213,7 @@
       dirLight.position.set(5, 10, 0);
       scene.add(dirLight);
 
-      // --- OBJECTS ---
-
-      // CAR GROUP
+      // --- CAR SETUP ---
       const carGroup = new THREE.Group();
       const bodyMesh = new THREE.Mesh(
         new THREE.BoxGeometry(1.6, 0.6, 3.5),
@@ -215,20 +242,16 @@
       });
       scene.add(carGroup);
 
-      // ROAD SEGMENTS
+      // --- ROAD SETUP ---
       const segments = [];
       function createSegment(index) {
         const group = new THREE.Group();
-
-        // Road
         const road = new THREE.Mesh(
           new THREE.PlaneGeometry(CFG.roadWidth, CFG.segLength),
           new THREE.MeshPhongMaterial({ color: CFG.colors.road })
         );
         road.rotation.x = -Math.PI / 2;
         group.add(road);
-
-        // Curbs
         const curbGeo = new THREE.PlaneGeometry(1.5, CFG.segLength);
         const curbMat = new THREE.MeshBasicMaterial({
           color: index % 2 === 0 ? CFG.colors.curbR : CFG.colors.curbW,
@@ -241,8 +264,6 @@
         rightCurb.position.x = CFG.roadWidth / 2 + 0.75;
         group.add(leftCurb);
         group.add(rightCurb);
-
-        // Grass
         const grass = new THREE.Mesh(
           new THREE.PlaneGeometry(200, CFG.segLength),
           new THREE.MeshBasicMaterial({
@@ -254,7 +275,6 @@
         group.add(grass);
         return group;
       }
-
       for (let i = 0; i < CFG.numSegments; i++) {
         const seg = createSegment(i);
         seg.position.z = -i * CFG.segLength;
@@ -277,22 +297,17 @@
       window.addEventListener("keydown", (e) => (keys[e.code] = true));
       window.addEventListener("keyup", (e) => (keys[e.code] = false));
 
-      // --- AUDIO ENGINE ---
-      let audioCtx, osc, noiseNode, gainNode, crashGain;
-
+      // --- AUDIO ---
+      let audioCtx, osc, gainNode;
       function initAudio() {
         audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-
-        // Engine Sound
         osc = audioCtx.createOscillator();
         gainNode = audioCtx.createGain();
         osc.type = "sawtooth";
         osc.connect(gainNode);
         gainNode.connect(audioCtx.destination);
         osc.start();
-        gainNode.gain.value = 0.0; // Start silent
-
-        // Update pitch
+        gainNode.gain.value = 0.0;
         setInterval(() => {
           if (state.playing && !state.isCrashed) {
             osc.frequency.setTargetAtTime(
@@ -310,106 +325,104 @@
           }
         }, 100);
       }
-
       function playCrashSound() {
         if (!audioCtx) return;
-        // Create White Noise Buffer
-        const bufferSize = audioCtx.sampleRate * 0.5; // 0.5 seconds
+        const bufferSize = audioCtx.sampleRate * 0.5;
         const buffer = audioCtx.createBuffer(
           1,
           bufferSize,
           audioCtx.sampleRate
         );
         const data = buffer.getChannelData(0);
-        for (let i = 0; i < bufferSize; i++) {
-          data[i] = Math.random() * 2 - 1;
-        }
-
+        for (let i = 0; i < bufferSize; i++) data[i] = Math.random() * 2 - 1;
         const noise = audioCtx.createBufferSource();
         noise.buffer = buffer;
         const noiseGain = audioCtx.createGain();
         noiseGain.gain.value = 0.5;
-
         noise.connect(noiseGain);
         noiseGain.connect(audioCtx.destination);
         noise.start();
       }
 
-      // --- PHYSICS & LOGIC ---
-
+      // --- PHYSICS CORE ---
       function triggerCrash() {
         state.isCrashed = true;
-        state.crashTimer = 60; // Frames to spin
+        state.crashTimer = 60;
         state.speed = 0;
-
         playCrashSound();
-
-        // Visual Flash
         const overlay = document.getElementById("crash-overlay");
         overlay.style.opacity = 0.5;
         setTimeout(() => (overlay.style.opacity = 0), 200);
-
-        // Bounce back towards center slightly
         const bounceDir = state.playerX > 0 ? -1 : 1;
-        state.playerX += bounceDir * 2;
+        state.playerX += bounceDir * 3;
       }
 
       function updatePhysics() {
-        // HANDLE CRASH STATE
         if (state.isCrashed) {
           state.crashTimer--;
-
-          // Spin animation
           carGroup.rotation.y += 0.4;
-          carGroup.rotation.z = (Math.random() - 0.5) * 0.2; // Shake
-
+          carGroup.rotation.z = (Math.random() - 0.5) * 0.2;
           if (state.crashTimer <= 0) {
             state.isCrashed = false;
             carGroup.rotation.y = 0;
             carGroup.rotation.z = 0;
           }
-          return; // SKIP normal movement
+          return;
         }
 
-        // NORMAL DRIVING
+        // ACCEL / DECEL
         if (keys.ArrowUp) state.speed += CFG.accel;
         else state.speed -= CFG.decel / 2;
         if (keys.ArrowDown) state.speed -= CFG.decel;
-
         state.speed = Math.max(0, Math.min(state.speed, CFG.maxSpeed));
         state.distance += state.speed;
 
-        // STEERING
-        let turn = 0;
-        if (keys.ArrowLeft) turn = 1;
-        if (keys.ArrowRight) turn = -1;
+        // --- CURVE CALCULATION ---
+        // Sin wave controls the road bend
+        const curveValue = Math.sin(state.distance * 0.01);
 
-        const isDrifting = keys.Space && state.speed > 0.3;
-        const turnPower = isDrifting ? CFG.turnSpeed * 0.6 : CFG.turnSpeed;
+        // --- CENTRIFUGAL FORCE ---
+        // If curve is positive (Right Turn), force pushes Negative (Left)
+        // We multiply by speed so it only affects you when moving
+        const envForce = -curveValue * CFG.centrifugalForce * state.speed;
+        state.playerX += envForce;
 
-        // Move Player
-        state.playerX += turn * turnPower * (state.speed * 2.5);
-
-        // --- CRASH CHECK ---
-        // Road width is CFG.roadWidth (20). Half is 10.
-        // Give a little buffer (11) so wheels can touch grass slightly.
-        if (Math.abs(state.playerX) > CFG.roadWidth / 2 + 1.5) {
-          if (state.speed > 0.2) {
-            triggerCrash();
-          } else {
-            // Just clamp if moving super slow
-            state.playerX =
-              Math.sign(state.playerX) * (CFG.roadWidth / 2 + 1.5);
-          }
+        // --- UI INDICATOR ---
+        const indicator = document.getElementById("turn-indicator");
+        if (Math.abs(curveValue) > 0.3) {
+          indicator.style.display = "block";
+          // If curve > 0 (Right Turn), show Right Arrow
+          indicator.innerText = curveValue > 0 ? ">>>" : "<<<";
+          indicator.style.right = curveValue > 0 ? "20%" : "auto";
+          indicator.style.left = curveValue > 0 ? "auto" : "20%";
+        } else {
+          indicator.style.display = "none";
         }
 
-        // CAR VISUALS
-        const targetRot = turn * (isDrifting ? 0.6 : 0.3);
+        // --- STEERING ---
+        let turn = 0;
+        if (keys.ArrowLeft) turn = -1;
+        if (keys.ArrowRight) turn = 1;
+
+        const isDrifting = keys.Space && state.speed > 0.3;
+        // Drifting gives you sharper turning but less grip vs the force
+        const turnPower = isDrifting ? CFG.turnSpeed * 1.5 : CFG.turnSpeed;
+
+        state.playerX += turn * turnPower * (state.speed * 2.0);
+
+        // --- BOUNDARY CHECK ---
+        const limit = CFG.roadWidth / 2 + 2;
+        if (Math.abs(state.playerX) > limit) {
+          if (state.speed > 0.2) triggerCrash();
+          else state.playerX = Math.sign(state.playerX) * limit;
+        }
+
+        // --- VISUALS ---
+        const targetRot = -turn * (isDrifting ? 0.6 : 0.3);
         carGroup.rotation.y += (targetRot - carGroup.rotation.y) * 0.1;
-        carGroup.rotation.z = -turn * 0.1; // Roll
+        carGroup.rotation.z = -turn * 0.1;
         carGroup.position.x = state.playerX;
 
-        // UI
         state.score += state.speed;
         document.getElementById("speed").innerText = Math.floor(
           state.speed * 200
@@ -420,7 +433,6 @@
 
       function renderWorld() {
         const totalTrackLength = CFG.numSegments * CFG.segLength;
-        const curveAmount = Math.sin(state.distance * 0.01) * 40; // World Curve
 
         for (let i = 0; i < segments.length; i++) {
           const seg = segments[i];
@@ -430,11 +442,15 @@
 
           seg.position.z = zPos;
           const depth = Math.abs(zPos) / 100;
-          seg.position.x = depth * depth * curveAmount; // Curve effect
+
+          // Visual Curve (Look ahead)
+          const lookAheadCurve = Math.sin(state.distance * 0.01 + depth * 0.5);
+          seg.position.x = depth * depth * lookAheadCurve * 50;
+
           seg.visible = zPos < 5;
         }
 
-        // Move Particles
+        // Particles
         const positions = particles.geometry.attributes.position.array;
         for (let i = 2; i < positions.length; i += 3) {
           positions[i] += state.speed * 20;
@@ -451,7 +467,6 @@
         requestAnimationFrame(animate);
       }
 
-      // --- INIT ---
       const startBtn = document.getElementById("start-screen");
       startBtn.addEventListener("click", () => {
         startBtn.style.display = "none";
@@ -471,7 +486,6 @@
         }, 1000);
         animate();
       });
-
       window.addEventListener("resize", () => {
         camera.aspect = window.innerWidth / window.innerHeight;
         camera.updateProjectionMatrix();

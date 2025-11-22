@@ -21,11 +21,9 @@
 
 ## Game App
 
+- [Car Racing @ jackfclee](https://jackfclee.github.io/my-apps/games/car-racing)
 - [Crossy Road @ jackfclee](https://jackfclee.github.io/my-apps/games/crossy-road)
 - [Tetris Arcade @ jackfclee](https://jackfclee.github.io/my-apps/games/tetris-arcade)
 - [Vocab Master @ jackfclee](https://jackfclee.github.io/my-apps/games/vocab-master)
 - [Whack-a-Mole @ jackfclee](https://jackfclee.github.io/my-apps/games/whack-a-mole)
 - [Word Guess @ jackfclee](https://jackfclee.github.io/my-apps/games/word-guess)
-
-
-
