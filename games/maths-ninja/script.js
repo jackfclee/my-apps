@@ -2,7 +2,7 @@ class MathsNinja {
   constructor() {
     // State
     this.settings = {
-      mode: "normal", // normal (MC), advanced (input)
+      mode: "normal", // normal (MC), expert (MC), advanced (input)
       count: 10,
       timerType: "stopwatch", // stopwatch, countdown
     };
@@ -176,27 +176,81 @@ class MathsNinja {
     const operator = operators[Math.floor(Math.random() * operators.length)];
     let num1, num2, answer;
 
-    switch (operator) {
-      case "+":
-        num1 = Math.floor(Math.random() * 20) + 1;
-        num2 = Math.floor(Math.random() * 20) + 1;
-        answer = num1 + num2;
-        break;
-      case "-":
-        num1 = Math.floor(Math.random() * 20) + 1;
-        num2 = Math.floor(Math.random() * num1); // Ensure positive result
-        answer = num1 - num2;
-        break;
-      case "*":
-        num1 = Math.floor(Math.random() * 10) + 1;
-        num2 = Math.floor(Math.random() * 10) + 1;
-        answer = num1 * num2;
-        break;
-      case "/":
-        num2 = Math.floor(Math.random() * 10) + 1;
-        answer = Math.floor(Math.random() * 10) + 1;
-        num1 = num2 * answer; // Ensure clean division
-        break;
+    if (this.settings.mode === "expert") {
+      switch (operator) {
+        case "+":
+          // 3-digit addition (50-999)
+          num1 = Math.floor(Math.random() * 950) + 50;
+          num2 = Math.floor(Math.random() * 950) + 50;
+          answer = num1 + num2;
+          break;
+        case "-":
+          // 3-digit subtraction
+          num1 = Math.floor(Math.random() * 950) + 50;
+          num2 = Math.floor(Math.random() * num1);
+          answer = num1 - num2;
+          break;
+        case "*":
+          // Mixed multiplication scenarios
+          const type = Math.random();
+          if (type < 0.4) {
+            // 2-digit x 2-digit (11-20 x 11-20)
+            num1 = Math.floor(Math.random() * 10) + 11;
+            num2 = Math.floor(Math.random() * 10) + 11;
+          } else if (type < 0.7) {
+            // 3-digit x 1-digit (100-999 x 2-9)
+            num1 = Math.floor(Math.random() * 900) + 100;
+            num2 = Math.floor(Math.random() * 8) + 2;
+          } else {
+            // 2-digit x 1-digit (20-99 x 2-9)
+            num1 = Math.floor(Math.random() * 80) + 20;
+            num2 = Math.floor(Math.random() * 8) + 2;
+          }
+          answer = num1 * num2;
+          break;
+        case "/":
+          // Inverse of multiplication
+          const divType = Math.random();
+          if (divType < 0.4) {
+            // Result is 11-20
+            answer = Math.floor(Math.random() * 10) + 11;
+            num2 = Math.floor(Math.random() * 10) + 11;
+          } else if (divType < 0.7) {
+            // Result is 100-999 (divisor 2-9)
+            answer = Math.floor(Math.random() * 900) + 100;
+            num2 = Math.floor(Math.random() * 8) + 2;
+          } else {
+            // Result is 20-99 (divisor 2-9)
+            answer = Math.floor(Math.random() * 80) + 20;
+            num2 = Math.floor(Math.random() * 8) + 2;
+          }
+          num1 = num2 * answer;
+          break;
+      }
+    } else {
+      // Normal / Advanced Logic (Existing)
+      switch (operator) {
+        case "+":
+          num1 = Math.floor(Math.random() * 20) + 1;
+          num2 = Math.floor(Math.random() * 20) + 1;
+          answer = num1 + num2;
+          break;
+        case "-":
+          num1 = Math.floor(Math.random() * 20) + 1;
+          num2 = Math.floor(Math.random() * num1); // Ensure positive result
+          answer = num1 - num2;
+          break;
+        case "*":
+          num1 = Math.floor(Math.random() * 10) + 1;
+          num2 = Math.floor(Math.random() * 10) + 1;
+          answer = num1 * num2;
+          break;
+        case "/":
+          num2 = Math.floor(Math.random() * 10) + 1;
+          answer = Math.floor(Math.random() * 10) + 1;
+          num1 = num2 * answer; // Ensure clean division
+          break;
+      }
     }
 
     return {
@@ -280,7 +334,7 @@ class MathsNinja {
   renderInputMethod(question) {
     this.elements.inputArea.innerHTML = "";
 
-    if (this.settings.mode === "normal") {
+    if (this.settings.mode === "normal" || this.settings.mode === "expert") {
       // Multiple Choice
       const options = this.generateOptions(question.answer);
       const container = document.createElement("div");
@@ -326,7 +380,16 @@ class MathsNinja {
   generateOptions(correctAnswer) {
     const options = new Set([correctAnswer]);
     while (options.size < 4) {
-      const offset = Math.floor(Math.random() * 10) - 5; // Random offset -5 to +5
+      let offset;
+      if (this.settings.mode === "expert") {
+        // Larger offset for expert mode
+        offset = Math.floor(Math.random() * 40) - 20; // -20 to +20
+        // Avoid 0 offset
+        if (offset === 0) offset = 1;
+      } else {
+        offset = Math.floor(Math.random() * 10) - 5; // -5 to +5
+      }
+
       const val = correctAnswer + offset;
       if (val >= 0 && val !== correctAnswer) options.add(val);
     }
