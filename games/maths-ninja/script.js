@@ -362,6 +362,7 @@ class MathsNinja {
       total: this.settings.count,
       time: this.elements.timerDisplay.textContent,
       mode: this.settings.mode,
+      timerType: this.settings.timerType,
       status: status,
       pauses: this.gameState.pauseCount,
     };
@@ -405,9 +406,9 @@ class MathsNinja {
 
       item.innerHTML = `
                 <div class="history-info">
-                    <span class="history-mode">${record.mode.toUpperCase()} • ${
-        record.time
-      }${pauseInfo}</span>
+                    <span class="history-mode">${record.mode.toUpperCase()} (${(
+        record.timerType || "stopwatch"
+      ).toUpperCase()}) • ${record.time}${pauseInfo}</span>
                     <span class="history-date">${
                       record.date
                     }${statusBadge}</span>
