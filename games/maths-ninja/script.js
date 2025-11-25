@@ -75,21 +75,11 @@ class MathsNinja {
 
     // Navigation
     this.elements.startBtn.addEventListener("click", () => this.startGame());
-    this.elements.historyBtn.addEventListener("click", () =>
-      this.showScreen("history")
-    );
-    this.elements.closeHistoryBtn.addEventListener("click", () =>
-      this.showScreen("menu")
-    );
-    this.elements.playAgainBtn.addEventListener("click", () =>
-      this.startGame()
-    );
-    this.elements.menuBtn.addEventListener("click", () =>
-      this.showScreen("menu")
-    );
-    this.elements.clearHistoryBtn.addEventListener("click", () =>
-      this.clearHistory()
-    );
+    this.elements.historyBtn.addEventListener("click", () => this.showScreen("history"));
+    this.elements.closeHistoryBtn.addEventListener("click", () => this.showScreen("menu"));
+    this.elements.playAgainBtn.addEventListener("click", () => this.startGame());
+    this.elements.menuBtn.addEventListener("click", () => this.showScreen("menu"));
+    this.elements.clearHistoryBtn.addEventListener("click", () => this.clearHistory());
 
     // Pause/Exit
     this.elements.pauseBtn.addEventListener("click", () => this.togglePause());
@@ -102,9 +92,7 @@ class MathsNinja {
     element.addEventListener("click", (e) => {
       if (e.target.classList.contains("toggle-btn")) {
         // Update UI
-        element
-          .querySelectorAll(".toggle-btn")
-          .forEach((btn) => btn.classList.remove("active"));
+        element.querySelectorAll(".toggle-btn").forEach((btn) => btn.classList.remove("active"));
         e.target.classList.add("active");
 
         // Update State
@@ -185,8 +173,7 @@ class MathsNinja {
   }
 
   startTimer(isResume = false) {
-    if (this.gameState.timerInterval)
-      clearInterval(this.gameState.timerInterval);
+    if (this.gameState.timerInterval) clearInterval(this.gameState.timerInterval);
 
     if (!isResume) {
       this.gameState.startTime = Date.now();
@@ -196,8 +183,7 @@ class MathsNinja {
         // Give 5 seconds per question? Or 10? Let's go with 10s per question for now.
         // 10 q = 100s, 50 q = 500s.
         const secondsPerQuestion = 10;
-        this.gameState.totalTimeLimit =
-          this.settings.count * secondsPerQuestion;
+        this.gameState.totalTimeLimit = this.settings.count * secondsPerQuestion;
         this.gameState.timeRemaining = this.gameState.totalTimeLimit;
       }
     }
@@ -206,9 +192,7 @@ class MathsNinja {
       const now = Date.now();
 
       if (this.settings.timerType === "stopwatch") {
-        this.gameState.timeElapsed = Math.floor(
-          (now - this.gameState.startTime) / 1000
-        );
+        this.gameState.timeElapsed = Math.floor((now - this.gameState.startTime) / 1000);
         this.updateTimerDisplay();
       } else {
         const elapsed = Math.floor((now - this.gameState.startTime) / 1000);
@@ -252,12 +236,9 @@ class MathsNinja {
 
     const q = this.gameState.questions[this.gameState.currentQuestion];
     this.elements.equationDisplay.textContent = `${q.text} = ?`;
-    this.elements.questionCounter.textContent = `${
-      this.gameState.currentQuestion + 1
-    } / ${this.settings.count}`;
+    this.elements.questionCounter.textContent = `${this.gameState.currentQuestion + 1} / ${this.settings.count}`;
 
-    const progress =
-      (this.gameState.currentQuestion / this.settings.count) * 100;
+    const progress = (this.gameState.currentQuestion / this.settings.count) * 100;
     this.elements.progressBar.style.width = `${progress}%`;
 
     this.renderInputMethod(q);
@@ -298,8 +279,7 @@ class MathsNinja {
         btn.className = "num-btn";
         btn.textContent = key;
         if (key === "C") btn.onclick = () => this.updateInput("clear");
-        else if (key === "OK")
-          btn.onclick = () => this.submitInput(question.answer);
+        else if (key === "OK") btn.onclick = () => this.submitInput(question.answer);
         else btn.onclick = () => this.updateInput(key);
         grid.appendChild(btn);
       });
@@ -372,8 +352,7 @@ class MathsNinja {
 
     // Update Results Screen
     this.elements.finalScore.textContent = `${this.gameState.score}/${this.settings.count}`;
-    this.elements.finalTime.textContent =
-      this.elements.timerDisplay.textContent;
+    this.elements.finalTime.textContent = this.elements.timerDisplay.textContent;
 
     this.renderHistory();
     this.showScreen("results");
@@ -383,8 +362,7 @@ class MathsNinja {
     this.elements.historyList.innerHTML = "";
 
     if (this.history.length === 0) {
-      this.elements.historyList.innerHTML =
-        '<div class="empty-state">No games played yet.</div>';
+      this.elements.historyList.innerHTML = '<div class="empty-state">No games played yet.</div>';
       return;
     }
 
@@ -399,19 +377,13 @@ class MathsNinja {
 
       let pauseInfo = "";
       if (record.pauses > 0) {
-        pauseInfo = `<span style="color: var(--text-dim); font-size: 0.8rem;"> • ${
-          record.pauses
-        } pause${record.pauses > 1 ? "s" : ""}</span>`;
+        pauseInfo = `<span style="color: var(--text-dim); font-size: 0.8rem;"> • ${record.pauses} pause${record.pauses > 1 ? "s" : ""}</span>`;
       }
 
       item.innerHTML = `
                 <div class="history-info">
-                    <span class="history-mode">${record.mode.toUpperCase()} (${(
-        record.timerType || "stopwatch"
-      ).toUpperCase()}) • ${record.time}${pauseInfo}</span>
-                    <span class="history-date">${
-                      record.date
-                    }${statusBadge}</span>
+                    <span class="history-mode">${record.mode.toUpperCase()} (${(record.timerType || "stopwatch").toUpperCase()}) • ${record.time}${pauseInfo}</span>
+                    <span class="history-date">${record.date}${statusBadge}</span>
                 </div>
                 <div class="history-score">${record.score}/${record.total}</div>
             `;
@@ -457,9 +429,7 @@ class MathsNinja {
         // => (now - newStartTime)/1000 = totalTimeLimit - timeRemaining
         // => now - newStartTime = (totalTimeLimit - timeRemaining) * 1000
         // => newStartTime = now - (totalTimeLimit - timeRemaining) * 1000
-        this.gameState.startTime =
-          now -
-          (this.gameState.totalTimeLimit - this.gameState.timeRemaining) * 1000;
+        this.gameState.startTime = now - (this.gameState.totalTimeLimit - this.gameState.timeRemaining) * 1000;
       }
 
       this.startTimer(true); // true = resume
@@ -467,11 +437,7 @@ class MathsNinja {
   }
 
   confirmExit() {
-    if (
-      confirm(
-        'Are you sure you want to exit? Progress will be saved as "Exited".'
-      )
-    ) {
+    if (confirm('Are you sure you want to exit? Progress will be saved as "Exited".')) {
       this.quitGame();
     }
   }
@@ -483,16 +449,14 @@ class MathsNinja {
 
   // Modified startTimer to handle resume
   startTimer(isResume = false) {
-    if (this.gameState.timerInterval)
-      clearInterval(this.gameState.timerInterval);
+    if (this.gameState.timerInterval) clearInterval(this.gameState.timerInterval);
 
     if (!isResume) {
       this.gameState.startTime = Date.now();
 
       if (this.settings.timerType === "countdown") {
         const secondsPerQuestion = 10;
-        this.gameState.totalTimeLimit =
-          this.settings.count * secondsPerQuestion;
+        this.gameState.totalTimeLimit = this.settings.count * secondsPerQuestion;
         this.gameState.timeRemaining = this.gameState.totalTimeLimit;
       }
     }
@@ -501,9 +465,7 @@ class MathsNinja {
       const now = Date.now();
 
       if (this.settings.timerType === "stopwatch") {
-        this.gameState.timeElapsed = Math.floor(
-          (now - this.gameState.startTime) / 1000
-        );
+        this.gameState.timeElapsed = Math.floor((now - this.gameState.startTime) / 1000);
         this.updateTimerDisplay();
       } else {
         const elapsed = Math.floor((now - this.gameState.startTime) / 1000);
