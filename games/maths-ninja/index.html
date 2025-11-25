@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Maths Ninja</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app-container">
+      <!-- Main Menu Screen -->
+      <section id="menu-screen" class="screen active">
+        <h1 class="logo">Maths Ninja 🥷</h1>
+
+        <div class="settings-group">
+          <label>Game Mode</label>
+          <div class="toggle-group" id="mode-select">
+            <button class="toggle-btn active" data-value="normal">
+              Normal (MC)
+            </button>
+            <button class="toggle-btn" data-value="advanced">
+              Advanced (Input)
+            </button>
+          </div>
+        </div>
+
+        <div class="settings-group">
+          <label>Questions</label>
+          <div class="toggle-group" id="count-select">
+            <button class="toggle-btn active" data-value="10">10</button>
+            <button class="toggle-btn" data-value="50">50</button>
+            <button class="toggle-btn" data-value="100">100</button>
+          </div>
+        </div>
+
+        <div class="settings-group">
+          <label>Timer Type</label>
+          <div class="toggle-group" id="timer-select">
+            <button class="toggle-btn active" data-value="stopwatch">
+              Stopwatch
+            </button>
+            <button class="toggle-btn" data-value="countdown">Countdown</button>
+          </div>
+        </div>
+
+        <button id="start-btn" class="primary-btn">Start Game</button>
+        <button id="history-btn" class="secondary-btn">History</button>
+      </section>
+
+      <!-- Game Screen -->
+      <section id="game-screen" class="screen hidden">
+        <div class="game-controls">
+          <button id="pause-btn" class="icon-btn">⏸</button>
+          <button id="exit-btn" class="icon-btn">✕</button>
+        </div>
+        <div class="game-header">
+          <div class="progress-container">
+            <div class="progress-bar" id="progress-bar"></div>
+          </div>
+          <div class="stats-row">
+            <span id="question-counter">1 / 10</span>
+            <span id="timer-display">00:00</span>
+          </div>
+        </div>
+
+        <div class="equation-container">
+          <div id="equation-display" class="equation">2 + 2 = ?</div>
+        </div>
+
+        <div id="input-area" class="input-area">
+          <!-- Will be populated by JS based on mode -->
+        </div>
+      </section>
+
+      <!-- Results Screen -->
+      <section id="results-screen" class="screen hidden">
+        <h2>Mission Complete!</h2>
+        <div class="score-card">
+          <div class="stat-item">
+            <span class="label">Score</span>
+            <span class="value" id="final-score">10/10</span>
+          </div>
+          <div class="stat-item">
+            <span class="label">Time</span>
+            <span class="value" id="final-time">00:45</span>
+          </div>
+        </div>
+        <div class="action-buttons">
+          <button id="play-again-btn" class="primary-btn">Play Again</button>
+          <button id="menu-btn" class="secondary-btn">Main Menu</button>
+        </div>
+      </section>
+
+      <!-- History Screen -->
+      <section id="history-screen" class="screen hidden">
+        <div class="header-row">
+          <h2>History</h2>
+          <button id="close-history-btn" class="icon-btn">✕</button>
+        </div>
+        <div class="history-list" id="history-list">
+          <!-- History items will go here -->
+          <div class="empty-state">No games played yet.</div>
+        </div>
+        <button id="clear-history-btn" class="danger-btn">Clear History</button>
+      </section>
+
+      <!-- Pause Modal -->
+      <div id="pause-modal" class="modal hidden">
+        <div class="modal-content">
+          <h2>Game Paused</h2>
+          <button id="resume-btn" class="primary-btn">Resume</button>
+          <button id="quit-btn" class="danger-btn">Exit Game</button>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
