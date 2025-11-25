@@ -7,6 +7,16 @@ class MathsNinja {
       timerType: "stopwatch", // stopwatch, countdown
     };
 
+    // Load settings from localStorage
+    const savedSettings = localStorage.getItem("mathsNinjaSettings");
+    if (savedSettings) {
+      try {
+        this.settings = { ...this.settings, ...JSON.parse(savedSettings) };
+      } catch (e) {
+        console.error("Failed to parse saved settings", e);
+      }
+    }
+
     this.gameState = {
       currentQuestion: 0,
       score: 0,
@@ -64,7 +74,27 @@ class MathsNinja {
 
   init() {
     this.bindEvents();
+    this.updateSettingsUI();
     this.renderHistory();
+  }
+
+  updateSettingsUI() {
+    // Update Mode
+    this.updateToggleGroupUI(this.elements.modeSelect, this.settings.mode);
+    // Update Count
+    this.updateToggleGroupUI(this.elements.countSelect, this.settings.count);
+    // Update Timer Type
+    this.updateToggleGroupUI(this.elements.timerSelect, this.settings.timerType);
+  }
+
+  updateToggleGroupUI(element, value) {
+    element.querySelectorAll(".toggle-btn").forEach((btn) => {
+      if (btn.dataset.value == value) {
+        btn.classList.add("active");
+      } else {
+        btn.classList.remove("active");
+      }
+    });
   }
 
   bindEvents() {
@@ -99,6 +129,9 @@ class MathsNinja {
         let value = e.target.dataset.value;
         if (settingKey === "count") value = parseInt(value);
         this.settings[settingKey] = value;
+
+        // Save settings
+        localStorage.setItem("mathsNinjaSettings", JSON.stringify(this.settings));
       }
     });
   }
