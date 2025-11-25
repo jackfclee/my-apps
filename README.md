@@ -22,6 +22,7 @@
 ## Game App
 
 - [Crossy Road @ jackfclee](https://jackfclee.github.io/my-apps/games/crossy-road)
+- [Maths Ninja @ jackfclee](https://jackfclee.github.io/my-apps/games/maths-ninja)
 - [Neon Drift @ jackfclee](https://jackfclee.github.io/my-apps/games/neon-drift)
 - [Street Guardian @ jackfclee](https://jackfclee.github.io/my-apps/games/street-guardian)
 - [Tetris Arcade @ jackfclee](https://jackfclee.github.io/my-apps/games/tetris-arcade)
