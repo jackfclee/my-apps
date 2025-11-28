@@ -1,10 +1,9 @@
 const qbList = [
-  "qb-pca/qb-pca-01-practice-tests.xml.encrypted",
-  "qb-pca/qb-pca-02-practice-tests.xml.encrypted",
-  "qb-pca/qb-pca-03-practice-tests.xml.encrypted",
-  "qb-pca/qb-pca-04-practice-tests.xml.encrypted",
-  "qb-pca/qb-pca-05-practice-tests.xml.encrypted",
-  "qb-pca/qb-pca-06-practice-tests.xml.encrypted"
+  "qb-pca/qb-pcd-01-practice-tests.xml.encrypted",
+  "qb-pca/qb-pcd-02-practice-tests.xml.encrypted",
+  "qb-pca/qb-pcd-03-practice-tests.xml.encrypted",
+  "qb-pca/qb-pcd-04-practice-tests.xml.encrypted",
+  "qb-pca/qb-pcd-05-practice-tests.xml.encrypted"
 ];
 
 function setQuestions(currentQuestions) {
