@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>FX Chart Viewer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+        margin: 20px;
+        background: #f7f7f7;
+      }
+      h1 {
+        font-size: 1.4rem;
+        margin-bottom: 10px;
+      }
+      .controls {
+        margin-bottom: 20px;
+      }
+      select {
+        padding: 6px 10px;
+        font-size: 1rem;
+      }
+      .charts {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+        gap: 16px;
+      }
+      .chart-card {
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+        padding: 10px;
+      }
+      .chart-card h2 {
+        font-size: 1rem;
+        margin: 6px 0 10px;
+        text-align: center;
+      }
+      img {
+        width: 100%;
+        max-width: 420px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="controls">
+      <select id="chartTypeSelect"></select>
+    </div>
+
+    <div class="charts" id="chartsContainer">
+      <!-- Dynamic content will go here -->
+    </div>
+
+    <script>
+      const stockIds = ["900214", "900205", "910063", "910073", "900218", "900222", "900217", "900225", "900215", "900227", "900220", "900228", "910185"];
+
+      const chartTypes = [
+        { name: "3-Month Daily", period: "47" },
+        { name: "1-Year Daily", period: "9" },
+        { name: "3-Year Weekly", period: "51" },
+        { name: "8-Year Monthly", period: "54" },
+      ];
+
+      const select = document.getElementById("chartTypeSelect");
+      const container = document.getElementById("chartsContainer");
+
+      // Populate chart types
+      chartTypes.forEach((type) => {
+        const option = document.createElement("option");
+        option.value = type.period;
+        option.textContent = type.name;
+        select.appendChild(option);
+      });
+
+      function buildUrl(period, stockId) {
+        const base = "http://charts.aastocks.com/servlet/Charts";
+        const params = new URLSearchParams({
+          scheme: "1",
+          com: "121",
+          chartwidth: "500",
+          chartheight: "360",
+          period: period,
+          type: "1",
+          Indicator: "1",
+          indpara1: "10",
+          indpara2: "20",
+          indpara3: "50",
+          indpara4: "0",
+          subChart1: "2",
+          ref1para1: "14",
+          ref1para2: "0",
+          ref1para3: "0",
+          subChart2: "0",
+          ref2para1: "0",
+          ref2para2: "0",
+          ref2para3: "0",
+          stockid: stockId,
+        });
+        return `${base}?${params.toString()}`;
+      }
+
+      function updateCharts() {
+        const period = select.value;
+        container.innerHTML = ""; // Clear existing
+
+        stockIds.forEach((id) => {
+          const card = document.createElement("div");
+          card.className = "chart-card";
+
+          const title = document.createElement("h2");
+          title.textContent = id;
+
+          const img = document.createElement("img");
+          img.src = buildUrl(period, id);
+          img.alt = `${id} chart`;
+          img.loading = "lazy";
+
+          card.appendChild(img);
+          container.appendChild(card);
+        });
+      }
+
+      select.addEventListener("change", updateCharts);
+
+      // Initialize
+      if (chartTypes.length > 0) {
+        select.value = chartTypes[0].period;
+        updateCharts();
+      }
+    </script>
+  </body>
+</html>

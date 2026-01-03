@@ -17,6 +17,7 @@
 - [QR Code @ jackfclee](https://jackfclee.github.io/my-apps/utilities/qrcode)
 - [Stock Buy/Sell Calculator @ jackfclee](https://jackfclee.github.io/my-apps/utilities/stock-calculator)
 - [Stock Price Quote @ jackfclee](https://jackfclee.github.io/my-apps/utilities/stock-quote)
+- [FX Charts @ jackfclee](https://jackfclee.github.io/my-apps/utilities/fx-charts)
 - [TimeMate @ jackfclee](https://jackfclee.github.io/my-apps/utilities/time-mate/)
 
 ## Game App
