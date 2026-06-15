@@ -29,9 +29,92 @@ const qbList = [
   "qb-pmle/qb-pmle-08-practice-tests.xml.encrypted",
 ];
 
-function setQuestions(currentQuestions) {
+const progressStorageKey = "mcEngineProgress";
+const loginSessionStorageKey = "mcEngineLoginSession";
+const loginSessionDurationMs = 24 * 60 * 60 * 1000;
 
-  let currentQuestionIndex = 0;
+function loadLoginSession() {
+  try {
+    const session = JSON.parse(localStorage.getItem(loginSessionStorageKey));
+    const isValid = session
+      && typeof session.decryptionKey === "string"
+      && session.decryptionKey.length > 0
+      && Number.isFinite(session.expiresAt)
+      && session.expiresAt > Date.now();
+
+    if (isValid) {
+      return session;
+    }
+  } catch (error) {
+    console.warn("Unable to load saved MC Engine login:", error);
+  }
+
+  clearLoginSession();
+  return null;
+}
+
+function saveLoginSession(currentDecryptionKey) {
+  try {
+    localStorage.setItem(loginSessionStorageKey, JSON.stringify({
+      decryptionKey: currentDecryptionKey,
+      expiresAt: Date.now() + loginSessionDurationMs,
+    }));
+  } catch (error) {
+    console.warn("Unable to save MC Engine login:", error);
+  }
+}
+
+function clearLoginSession() {
+  try {
+    localStorage.removeItem(loginSessionStorageKey);
+  } catch (error) {
+    console.warn("Unable to clear saved MC Engine login:", error);
+  }
+}
+
+function loadSavedProgress() {
+  try {
+    const savedProgress = JSON.parse(localStorage.getItem(progressStorageKey));
+    return savedProgress && typeof savedProgress === "object" ? savedProgress : null;
+  } catch (error) {
+    console.warn("Unable to load saved MC Engine progress:", error);
+    return null;
+  }
+}
+
+function saveProgress(currentTopic, currentQuestionIndex, currentQuestion) {
+  try {
+    localStorage.setItem(progressStorageKey, JSON.stringify({
+      topic: currentTopic,
+      questionIndex: currentQuestionIndex,
+      questionText: currentQuestion.text,
+    }));
+  } catch (error) {
+    console.warn("Unable to save MC Engine progress:", error);
+  }
+}
+
+function findSavedQuestionIndex(savedProgress, currentTopic, currentQuestions) {
+  if (!savedProgress || savedProgress.topic !== currentTopic) {
+    return -1;
+  }
+
+  const savedIndex = savedProgress.questionIndex;
+  if (
+    Number.isInteger(savedIndex)
+    && savedIndex >= 0
+    && savedIndex < currentQuestions.length
+    && currentQuestions[savedIndex].text === savedProgress.questionText
+  ) {
+    return savedIndex;
+  }
+
+  return currentQuestions.findIndex(question => question.text === savedProgress.questionText);
+}
+
+function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) {
+
+  let currentQuestionIndex = initialQuestionIndex;
 
   function updateQuestionSummary() {
     const summaryText = currentQuestions.length === 1
@@ -75,6 +158,7 @@ function setQuestions(currentQuestions) {
     currentQuestionIndex = index;
     updateQuestionSummary();
     const thisQuestion = currentQuestions[currentQuestionIndex];
+    saveProgress(currentTopic, currentQuestionIndex, thisQuestion);
     $("#questionIndex").text("Q" + (index + 1) + ". ");
     const questionTextHTML = marked.parse(thisQuestion.text);
     $("#questionText").html('<div>' + questionTextHTML.replace(/<table>/g, '<table class="markdownTable">').replace(/<table>/g, '<table class="markdownTable">') + "</div>");
@@ -181,7 +265,7 @@ function setQuestions(currentQuestions) {
 }
 
 //--------------------------------------------------------------------------------
-function loadTextFile(filename, callback) {
+function loadTextFile(filename, callback, errorCallback) {
   fetch(filename)
     .then(response => {
       if (!response.ok) {
@@ -190,7 +274,7 @@ function loadTextFile(filename, callback) {
       return response.text();
     })
     .then(data => callback(data))
-    .catch(error => console.error('Error fetching the file:', error));
+    .catch(error => errorCallback(error));
 }
 
 //--------------------------------------------------------------------------------
@@ -306,25 +390,48 @@ let decryptionKey = "";
 
 $(document).ready(function () {
   $("#mcEngineContainer").hide();
-  $("#submitPassword").click(function () {
+  const savedLoginSession = loadLoginSession();
+
+  if (savedLoginSession) {
+    decryptionKey = savedLoginSession.decryptionKey;
+    $("#passwordDialog").hide();
+    loadFiles(false);
+  } else {
+    $("#passwordDialog").show();
+  }
+
+  $("#submitPassword").click(function (e) {
+    e.preventDefault();
     decryptionKey = $("#passwordInput").val();
     if (decryptionKey) {
-      try {
-        loadFiles();
-        $("#passwordDialog").hide();
-        $("#mcEngineContainer").show();
-      } catch (error) {
-        $("#passwordDialog").show();
-        $("#mcEngineContainer").hide();
-        $("#errorMessage").show();
-      }
+      $("#errorMessage").hide();
+      loadFiles(true);
     }
   });
 });
 
-function loadFiles() {
+function loadFiles(rememberLoginOnSuccess) {
   let loadedCount = 0; // Track the number of XML files loaded
   let hasErrorOccurred = false; // Flag to prevent further processing after an error
+  topicQuestionsMap.clear();
+  document.getElementById("topicOptions").innerHTML = "";
+
+  function handleLoadError(path, error) {
+    if (hasErrorOccurred) return;
+
+    console.error(`Error processing file "${path}":`, error);
+    hasErrorOccurred = true;
+    clearLoginSession();
+    decryptionKey = "";
+
+    const cause = error && error.message ? error.message : String(error);
+    $("#passwordInput").val("");
+    $("#passwordDialog").show();
+    $("#mcEngineContainer").hide();
+    $("#errorMessage")
+      .html(`Unable to load question bank.<br/>${cause}<br/>Please confirm the passcode and the XML content for this file.`)
+      .show();
+  }
 
   qbList.forEach(path => {
     loadTextFile(path, function(responseText) {
@@ -363,27 +470,41 @@ function loadFiles() {
         // After all files are loaded successfully
         if (loadedCount === qbList.length && qbList.length > 0) {
           sortDropdownOptions();
-          const firstOptionValue = document.getElementById("topicOptions").options[0].value;
-          setQuestions(topicQuestionsMap.get(firstOptionValue));
-          document.getElementById("topicOptions").selectedIndex = 0;
+          const dropdown = document.getElementById("topicOptions");
+          const firstOptionValue = dropdown.options[0].value;
+          const savedProgress = loadSavedProgress();
+          const selectedTopic = savedProgress && topicQuestionsMap.has(savedProgress.topic)
+            ? savedProgress.topic
+            : firstOptionValue;
+          const selectedQuestions = topicQuestionsMap.get(selectedTopic);
+          const savedQuestionIndex = findSavedQuestionIndex(
+            savedProgress,
+            selectedTopic,
+            selectedQuestions
+          );
+          const initialQuestionIndex = savedQuestionIndex >= 0 ? savedQuestionIndex : 0;
 
-          $("#topicOptions").change(function() {
-            setQuestions(topicQuestionsMap.get($(this).val()));
+          dropdown.value = selectedTopic;
+          setQuestions(selectedTopic, selectedQuestions, initialQuestionIndex);
+
+          if (rememberLoginOnSuccess) {
+            saveLoginSession(decryptionKey);
+          }
+
+          $("#passwordDialog").hide();
+          $("#mcEngineContainer").show();
+
+          $("#topicOptions").off("change").on("change", function() {
+            const currentTopic = $(this).val();
+            setQuestions(currentTopic, topicQuestionsMap.get(currentTopic));
           });
         }
 
       } catch (error) {
-        console.error(`Error processing file "${path}":`, error);
-
-        hasErrorOccurred = true;
-
-        const cause = error && error.message ? error.message : String(error);
-        $("#passwordDialog").show();
-        $("#mcEngineContainer").hide();
-        $("#errorMessage")
-          .html(`Unable to load question bank.<br/>${cause}<br/>Please confirm the passcode and the XML content for this file.`)
-          .show();
+        handleLoadError(path, error);
       }
+    }, function(error) {
+      handleLoadError(path, error);
     });
   });
 }
