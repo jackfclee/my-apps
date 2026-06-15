@@ -12,8 +12,8 @@
 <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
 <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
 <link rel="manifest" href="assets/site.webmanifest">
-<link rel="stylesheet" href="McEngine.css"> 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="McEngine.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
@@ -21,38 +21,56 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
 </head>
 <body>
-<div id="passwordDialog" class="container">
-  <div id="appHeader" class="jumbotron question-content">
-    <label for="passwordInput">Please enter password to load MC Engine:</label>
-  </div>
-  <input type="password" id="passwordInput" />
-  <div class="control-bar">
-    <button id="submitPassword" class="btn btn-success">Submit</button>
-    <div id="errorMessage" style="color: red; display: none;">Incorrect password, please try again.</div>  
-  </div>
-</div>
-<div id="mcEngineContainer" class="container">
-  <div id="appHeader" class="app-header">
-    <div id="topic" class="app-header-left"><select id="topicOptions"></select></div>
-    <div id="totalQuestions" class="app-header-right"></div>
-  </div>
-  <div id="questionContainer" class="jumbotron question-content">
-    <div id="questionIndex" class="question-item"></div>
-    <div id="questionText" class="question-item"></div>
-  </div>
-  <div id="answerContainer" class="jumbotron answer-content">
-    <form id="answersForm">
-          <!-- Options will be populated here -->
-    </form>
-  </div>
-  <div id="buttonContainer" class="control-bar">
-    <button id="resetBtn" class="btn btn-dark">Reset</button>
-    <button id="submitBtn" class="btn btn-primary">Submit</button>
-    <br/>
-    <button id="previousBtn" class="btn btn-success">Previous</button>
-    <button id="nextBtn" class="btn btn-success">Next</button>
-  </div>
-</div>
-<script src="McEngine.js"></script>
+  <main class="app-shell">
+    <section id="passwordDialog" class="container auth-screen">
+      <article class="auth-card">
+        <p class="eyebrow">MC Engine</p>
+        <h1>Unlock your practice question bank</h1>
+        <p class="intro-copy">Enter the passcode to load the practice topics and start your review session.</p>
+        <label class="field-label" for="passwordInput">Please enter the password to load MC Engine:</label>
+        <input type="password" id="passwordInput" placeholder="Enter passcode" />
+        <div class="control-bar auth-actions">
+          <button id="submitPassword" class="btn btn-success">Submit</button>
+          <div id="errorMessage" class="error-message">Incorrect password, please try again.</div>
+        </div>
+      </article>
+    </section>
+
+    <section id="mcEngineContainer" class="container app-frame" aria-label="MC Engine practice panel">
+      <header id="appHeader" class="app-header">
+        <div class="header-left">
+          <p class="eyebrow">MC Engine</p>
+          <label class="topic-label" for="topicOptions">Question bank</label>
+          <select id="topicOptions" aria-label="Choose a question bank"></select>
+        </div>
+        <div id="totalQuestions" class="header-right"></div>
+      </header>
+
+      <div class="dashboard-grid">
+        <article id="questionContainer" class="panel question-card">
+          <div class="panel-label">Question</div>
+          <div id="questionIndex" class="question-index"></div>
+          <div id="questionText" class="question-text"></div>
+        </article>
+
+        <aside id="answerContainer" class="panel answer-card">
+          <div class="panel-label">Answer choices</div>
+          <form id="answersForm">
+            <!-- Options will be populated here -->
+          </form>
+        </aside>
+      </div>
+
+      <footer id="buttonContainer" class="control-bar action-bar">
+        <div class="button-row action-group right-aligned">
+          <button id="previousBtn" class="btn btn-success">Previous</button>
+          <button id="resetBtn" class="btn btn-dark">Reset</button>
+          <button id="submitBtn" class="btn btn-primary">Submit</button>
+          <button id="nextBtn" class="btn btn-success">Next</button>
+        </div>
+      </footer>
+    </section>
+  </main>
+  <script src="McEngine.js"></script>
 </body>
 </html>
