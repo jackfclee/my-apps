@@ -33,14 +33,47 @@ function setQuestions(currentQuestions) {
 
   let currentQuestionIndex = 0;
 
+  function updateQuestionSummary() {
+    const summaryText = currentQuestions.length === 1
+      ? "1 question loaded."
+      : currentQuestions.length + " questions loaded.";
+
+    const canJump = currentQuestions.length > 50;
+
+    $("#totalQuestions")
+      .text(summaryText)
+      .toggleClass("jump-enabled", canJump)
+      .attr("title", canJump ? "Jump to a question block" : "")
+      .off("click")
+      .on("click", function (e) {
+        if (!canJump) {
+          return;
+        }
+
+        e.preventDefault();
+
+        const jumpButtons = [];
+        for (let startIndex = 0; startIndex < currentQuestions.length; startIndex += 50) {
+          jumpButtons.push(`
+            <button type="button" class="btn btn-outline-primary jump-option" data-question-index="${startIndex}">
+              ${startIndex + 1}
+            </button>
+          `);
+        }
+
+        $("#jumpOptions").html(jumpButtons.join(""));
+        $("#jumpDialog").addClass("is-visible").attr("aria-hidden", "false");
+      });
+  }
+
+  function closeJumpDialog() {
+    $("#jumpDialog").removeClass("is-visible").attr("aria-hidden", "true");
+  }
+
   //--------------------------------------------------------------------------------
   function displayQuestion(index) {
     currentQuestionIndex = index;
-    if (currentQuestions.length == 1) {
-      $("#totalQuestions").text("1 question loaded.");
-    } else {
-      $("#totalQuestions").text(currentQuestions.length + " questions loaded.");
-    }
+    updateQuestionSummary();
     const thisQuestion = currentQuestions[currentQuestionIndex];
     $("#questionIndex").text("Q" + (index + 1) + ". ");
     const questionTextHTML = marked.parse(thisQuestion.text);
@@ -79,6 +112,29 @@ function setQuestions(currentQuestions) {
       $("#nextBtn").prop('disabled', false);
     }
   }
+
+  $("#closeJumpDialog").off('click');
+  $("#closeJumpDialog").click(function (e) {
+    e.preventDefault();
+    closeJumpDialog();
+  });
+
+  $("#jumpDialog").off('click');
+  $("#jumpDialog").click(function (e) {
+    if (e.target === this) {
+      closeJumpDialog();
+    }
+  });
+
+  $("#jumpOptions").off('click', '.jump-option');
+  $("#jumpOptions").on('click', '.jump-option', function (e) {
+    e.preventDefault();
+    const targetIndex = Number($(this).data('question-index'));
+    if (!Number.isNaN(targetIndex) && targetIndex >= 0 && targetIndex < currentQuestions.length) {
+      displayQuestion(targetIndex);
+      closeJumpDialog();
+    }
+  });
 
   //--------------------------------------------------------------------------------
   $("#resetBtn").off('click');
@@ -120,6 +176,7 @@ function setQuestions(currentQuestions) {
     } 
   });
 
+  updateQuestionSummary();
   displayQuestion(currentQuestionIndex);
 }
 
