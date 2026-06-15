@@ -157,7 +157,7 @@ body {
 .dashboard-grid {
   display: grid;
   grid-template-columns: 1.1fr 0.9fr;
-  gap: 16px;
+  gap: 8px;
   min-height: 0;
 }
 
@@ -350,7 +350,7 @@ body {
 
   .auth-card,
   .app-frame {
-    border-radius: 18px;
+    border-radius: 0px;
   }
 
   .app-header {
