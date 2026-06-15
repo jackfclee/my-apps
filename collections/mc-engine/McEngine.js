@@ -1,9 +1,30 @@
 const qbList = [
+  "qb-pca/qb-pca-01-practice-tests.xml.encrypted",
+  "qb-pca/qb-pca-02-practice-tests.xml.encrypted",
+  "qb-pca/qb-pca-03-practice-tests.xml.encrypted",
+  "qb-pca/qb-pca-04-practice-tests.xml.encrypted",
+  "qb-pca/qb-pca-05-practice-tests.xml.encrypted",
   "qb-pcd/qb-pcd-01-practice-tests.xml.encrypted",
   "qb-pcd/qb-pcd-02-practice-tests.xml.encrypted",
   "qb-pcd/qb-pcd-03-practice-tests.xml.encrypted",
   "qb-pcd/qb-pcd-04-practice-tests.xml.encrypted",
-  "qb-pcd/qb-pcd-05-practice-tests.xml.encrypted"
+  "qb-pcd/qb-pcd-05-practice-tests.xml.encrypted",
+  "qb-pde/qb-pde-01-practice-tests.xml.encrypted",
+  "qb-pde/qb-pde-02-practice-tests.xml.encrypted",
+  "qb-pde/qb-pde-03-practice-tests.xml.encrypted",
+  "qb-pde/qb-pde-04-practice-tests.xml.encrypted",
+  "qb-pde/qb-pde-05-practice-tests.xml.encrypted",
+  "qb-pde/qb-pde-06-practice-tests.xml.encrypted",
+  "qb-pde/qb-pde-07-practice-tests.xml.encrypted",
+  "qb-pde/qb-pde-08-practice-tests.xml.encrypted",
+  "qb-pde/qb-pde-09-practice-tests.xml.encrypted",
+  "qb-pde/qb-pde-10-practice-tests.xml.encrypted",
+  "qb-pmle/qb-pmle-01-practice-tests.xml.encrypted",
+  "qb-pmle/qb-pmle-02-practice-tests.xml.encrypted",
+  "qb-pmle/qb-pmle-03-practice-tests.xml.encrypted",
+  "qb-pmle/qb-pmle-04-practice-tests.xml.encrypted",
+  "qb-pmle/qb-pmle-05-practice-tests.xml.encrypted",
+  "qb-pmle/qb-pmle-06-practice-tests.xml.encrypted",
 ];
 
 function setQuestions(currentQuestions) {
@@ -114,24 +135,89 @@ function loadTextFile(filename, callback) {
 }
 
 //--------------------------------------------------------------------------------
-function parseXML(xmlString) {
+function getRequiredElement(parent, tagName, contextLabel) {
+  const element = parent.getElementsByTagName(tagName)[0];
+  if (!element) {
+    throw new Error(`${contextLabel}: missing <${tagName}> element.`);
+  }
+  return element;
+}
+
+function getElementText(element, contextLabel) {
+  if (!element) {
+    throw new Error(`${contextLabel}: missing element.`);
+  }
+
+  const text = (element.textContent || "").replace(/\s+/g, " ").trim();
+  if (text.length === 0) {
+    return "";
+  }
+
+  return text;
+}
+
+function parseXML(xmlString, sourceLabel) {
+  if (!xmlString || !xmlString.trim()) {
+    throw new Error(`${sourceLabel}: decrypted XML is empty.`);
+  }
+
   const parser = new DOMParser();
   const xmlDoc = parser.parseFromString(xmlString, "text/xml");
-  const entries = xmlDoc.getElementsByTagName("entry");
-  const currentTopic = xmlDoc.getElementsByTagName("topic")[0].childNodes[0].nodeValue;
-  const questions = [];
-  for (let entry of entries) {
-    const question = new Object();
-    question.text = entry.getElementsByTagName("question")[0].childNodes[0].nodeValue;
-    const options = entry.getElementsByTagName("option");
-    question.options = [];
-    for (let option of options) {
-      const isValid = option.getElementsByTagName("valid")[0].childNodes[0].nodeValue === "true";
-      const detail = option.getElementsByTagName("detail")[0].childNodes[0].nodeValue;
-      question.options.push({ isValid, detail });
-    }
-    questions.push(question);
+  const parserError = xmlDoc.getElementsByTagName("parsererror")[0];
+
+  if (parserError) {
+    const parseMessage = getElementText(parserError, `${sourceLabel}: XML parser error`)
+      || "The XML could not be parsed. This often means the file is corrupted or the passcode is wrong.";
+    throw new Error(`${sourceLabel}: ${parseMessage}`);
   }
+
+  const rootElement = xmlDoc.documentElement;
+  if (!rootElement || rootElement.nodeName.toLowerCase() === "parsererror") {
+    throw new Error(`${sourceLabel}: XML document has no valid root element.`);
+  }
+
+  const topicElement = getRequiredElement(xmlDoc, "topic", sourceLabel);
+  const currentTopic = getElementText(topicElement, `${sourceLabel}: topic`);
+
+  const entries = Array.from(xmlDoc.getElementsByTagName("entry"));
+  if (entries.length === 0) {
+    throw new Error(`${sourceLabel}: no <entry> elements were found in the XML.`);
+  }
+
+  const questions = [];
+
+  entries.forEach((entry, entryIndex) => {
+    const entryLabel = `${sourceLabel} (entry ${entryIndex + 1})`;
+    const questionElement = getRequiredElement(entry, "question", entryLabel);
+    const questionText = getElementText(questionElement, `${entryLabel}: question`);
+
+    const optionElements = Array.from(entry.getElementsByTagName("option"));
+    if (optionElements.length === 0) {
+      throw new Error(`${entryLabel}: no <option> elements were found.`);
+    }
+
+    const options = optionElements.map((option, optionIndex) => {
+      const optionLabel = `${entryLabel}: option ${optionIndex + 1}`;
+      const validElement = getRequiredElement(option, "valid", optionLabel);
+      const detailElement = getRequiredElement(option, "detail", optionLabel);
+
+      const validText = getElementText(validElement, `${optionLabel}: valid`).toLowerCase();
+      if (validText !== "true" && validText !== "false") {
+        throw new Error(`${optionLabel}: <valid> must be true or false, found "${validText || "<empty>"}".`);
+      }
+
+      return {
+        isValid: validText === "true",
+        detail: getElementText(detailElement, `${optionLabel}: detail`),
+      };
+    });
+
+    questions.push({
+      text: questionText,
+      options,
+    });
+  });
+
   return { currentTopic, questions };
 }
 
@@ -192,15 +278,18 @@ function loadFiles() {
           const bytes = CryptoJS.AES.decrypt(responseText, decryptionKey);
           decryptedText = bytes.toString(CryptoJS.enc.Utf8);
 
-          // Validate decrypted text
-          if (!decryptedText) {
-            throw new Error("Decryption failed: Decrypted text is empty.");
+          if (!decryptedText || !decryptedText.trim()) {
+            throw new Error(`Decryption failed for ${path}: the passcode may be incorrect or the file content is empty.`);
+          }
+
+          if (!decryptedText.trim().startsWith("<")) {
+            throw new Error(`Decryption failed for ${path}: the decrypted text is not valid XML. Please verify the passcode.`);
           }
         } else {
           decryptedText = responseText;
         }
 
-        const { currentTopic, questions } = parseXML(decryptedText);
+        const { currentTopic, questions } = parseXML(decryptedText, path);
 
         // Validate parsed XML structure
         if (!currentTopic || !questions || questions.length === 0) {
@@ -227,13 +316,14 @@ function loadFiles() {
       } catch (error) {
         console.error(`Error processing file "${path}":`, error);
 
-        // Set the error flag to prevent further processing
         hasErrorOccurred = true;
 
-        // Display error UI elements
+        const cause = error && error.message ? error.message : String(error);
         $("#passwordDialog").show();
         $("#mcEngineContainer").hide();
-        $("#errorMessage").text('Incorrect password, please try again. [cause: ' + error.message + ']').show();
+        $("#errorMessage")
+          .html(`Unable to load question bank.<br/>${cause}<br/>Please confirm the passcode and the XML content for this file.`)
+          .show();
       }
     });
   });
