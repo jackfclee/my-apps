@@ -64,7 +64,7 @@ body {
   letter-spacing: 0.22em;
   font-size: 0.72rem;
   font-weight: 700;
-  color: #2563eb;
+  color: #ffffff;
 }
 
 .auth-card h1 {
@@ -213,18 +213,16 @@ body {
 #answersForm .form-check {
   display: flex;
   align-items: flex-start;
-  gap: 14px;
-  padding: 6px 6px 6px 6px;
+  gap: 6px;
+  padding: 12px 14px 12px 18px;
   border: 1px solid #e5e7eb;
   border-radius: 14px;
   margin-bottom: 0;
-}
-  border-radius: 14px;
   background: #f8fafc;
   transition: transform 0.15s ease, background-color 0.15s ease;
 }
 
-.form-check:hover {
+#answersForm .form-check:hover {
   background: #fff7d6;
   transform: translateY(-1px);
 }
@@ -281,7 +279,7 @@ body {
 
 .btn {
   min-width: 110px;
-  border-radius: 999px;
+  border-radius: 12px;
   padding: 0.55rem 0.95rem;
   font-weight: 700;
   border: none;
