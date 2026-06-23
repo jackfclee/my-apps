@@ -27,6 +27,7 @@ const qbList = [
   "qb-pmle/qb-pmle-06-practice-tests.xml.encrypted",
   "qb-pmle/qb-pmle-07-practice-tests.xml.encrypted",
   "qb-pmle/qb-pmle-08-practice-tests.xml.encrypted",
+  "qb-pmle/qb-pmle-09-practice-tests.xml.encrypted",
 ];
 
 const progressStorageKey = "mcEngineProgress";
