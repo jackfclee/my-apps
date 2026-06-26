@@ -3,19 +3,26 @@
   "name": "WordGuess",
   "icons": [
     {
-      "src": "/word-guess/index_files/word_guess_logo_32x32.png",
-      "type": "image/png",
-      "sizes": "32x32"
+      "src": "./index_files/word_guess_logo_32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
     },
     {
-      "src": "/word-guess/index_files/word_guess_logo_192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "./index_files/word_guess_logo_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./index_files/word_guess_logo_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
-  "start_url": "https://jackfclee.github.io/my-apps/",
+  "start_url": "./",
   "background_color": "#6aaa64",
   "display": "standalone",
   "theme_color": "#6aaa64",
-  "description": "A choral-themed parody of Wordle"
+  "description": "A choral-themed parody of Wordle",
+  "scope": "./",
+  "id": "/my-apps/games/word-guess/"
 }
