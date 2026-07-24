@@ -364,6 +364,16 @@ body {
   justify-content: flex-end;
 }
 
+#navigationContainer .button-row,
+#navigationContainer .button-row-group {
+  gap: 4px;
+}
+
+#navigationContainer .btn {
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+}
+
 .btn {
   min-width: 110px;
   border-radius: 12px;

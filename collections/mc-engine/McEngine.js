@@ -261,6 +261,20 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     } 
   });
 
+  $(document).off('keydown.mcEngineNavigation').on('keydown.mcEngineNavigation', function (e) {
+    if ($(e.target).is('input, textarea, select, button, [contenteditable="true"]')) {
+      return;
+    }
+
+    if (e.key === 'ArrowLeft') {
+      e.preventDefault();
+      $('#previousBtn').trigger('click');
+    } else if (e.key === 'ArrowRight') {
+      e.preventDefault();
+      $('#nextBtn').trigger('click');
+    }
+  });
+
   updateQuestionSummary();
   displayQuestion(currentQuestionIndex);
 }
