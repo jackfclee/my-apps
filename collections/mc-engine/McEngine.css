@@ -224,6 +224,11 @@ body {
   font-size: 0.95rem;
 }
 
+#navigationContainer {
+  margin-top: -12px;
+  margin-bottom: -10px;
+}
+
 .dashboard-grid {
   display: grid;
   grid-template-columns: 1.1fr 0.9fr;
@@ -330,6 +335,10 @@ body {
 
 .action-bar {
   background: transparent;
+}
+
+#buttonContainer {
+  margin-top: -10px;
 }
 
 .button-row {
