@@ -262,6 +262,18 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   });
 
   $(document).off('keydown.mcEngineNavigation').on('keydown.mcEngineNavigation', function (e) {
+    if (e.key === 'Escape') {
+      e.preventDefault();
+      $('#resetBtn').trigger('click');
+      return;
+    }
+
+    if (e.key === 'Enter' && !$(e.target).is('button, select, textarea, [contenteditable="true"]')) {
+      e.preventDefault();
+      $('#submitBtn').trigger('click');
+      return;
+    }
+
     if ($(e.target).is('input, textarea, select, button, [contenteditable="true"]')) {
       return;
     }
