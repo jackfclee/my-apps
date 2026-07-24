@@ -38,24 +38,26 @@
     </section>
 
     <section id="mcEngineContainer" class="container app-frame" aria-label="MC Engine practice panel">
-      <header id="appHeader" class="app-header">
-        <div class="header-left">
-          <p class="eyebrow">MC Engine</p>
-          <label class="topic-label" for="topicOptions">Question bank</label>
-          <select id="topicOptions" aria-label="Choose a question bank"></select>
-        </div>
-        <div id="totalQuestions" class="header-right"></div>
-      </header>
-
-      <div id="navigationContainer" class="control-bar action-bar">
-        <div class="button-row action-group right-aligned">
-          <div class="button-row-group">
-            <button id="previousBtn" class="btn btn-success">Previous</button>
-            <button id="nextBtn" class="btn btn-success">Next</button>
+      <div class="top-controls-layout">
+        <header id="appHeader" class="app-header">
+          <div class="header-left">
+            <p class="eyebrow">MC Engine</p>
+            <label class="topic-label" for="topicOptions">Question bank</label>
+            <select id="topicOptions" aria-label="Choose a question bank"></select>
           </div>
-          <div class="button-row-group">
-            <button id="resetBtn" class="btn btn-dark">Reset</button>
-            <button id="submitBtn" class="btn btn-primary">Submit</button>
+          <div id="totalQuestions" class="header-right"></div>
+        </header>
+
+        <div id="navigationContainer" class="control-bar action-bar">
+          <div class="button-row action-group right-aligned">
+            <div class="button-row-group">
+              <button id="previousBtn" class="btn btn-success">Previous</button>
+              <button id="nextBtn" class="btn btn-success">Next</button>
+            </div>
+            <div class="button-row-group">
+              <button id="resetBtn" class="btn btn-dark">Reset</button>
+              <button id="submitBtn" class="btn btn-primary">Submit</button>
+            </div>
           </div>
         </div>
       </div>
