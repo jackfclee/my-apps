@@ -292,6 +292,10 @@ body {
   line-height: 1.5;
 }
 
+.question-text {
+  white-space: break-spaces;
+}
+
 .question-text p,
 .optionPara {
   margin: 0 0 0.75rem;

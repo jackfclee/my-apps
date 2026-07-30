@@ -161,7 +161,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     const thisQuestion = currentQuestions[currentQuestionIndex];
     saveProgress(currentTopic, currentQuestionIndex, thisQuestion);
     $("#questionIndex").text("Q" + (index + 1) + ". ");
-    const questionTextHTML = marked.parse(thisQuestion.text);
+    const questionTextHTML = marked.parse(thisQuestion.text, { breaks: true });
     $("#questionText").html('<div>' + questionTextHTML.replace(/<table>/g, '<table class="markdownTable">').replace(/<table>/g, '<table class="markdownTable">') + "</div>");
     $("#answersForm").empty(); // Clear previous options
 
@@ -313,12 +313,15 @@ function getRequiredElement(parent, tagName, contextLabel) {
   return element;
 }
 
-function getElementText(element, contextLabel) {
+function getElementText(element, contextLabel, preserveLineBreaks = false) {
   if (!element) {
     throw new Error(`${contextLabel}: missing element.`);
   }
 
-  const text = (element.textContent || "").replace(/\s+/g, " ").trim();
+  const rawText = element.textContent || "";
+  const text = preserveLineBreaks
+    ? rawText.replace(/\r\n?/g, "\n").trim()
+    : rawText.replace(/\s+/g, " ").trim();
   if (text.length === 0) {
     return "";
   }
@@ -359,7 +362,7 @@ function parseXML(xmlString, sourceLabel) {
   entries.forEach((entry, entryIndex) => {
     const entryLabel = `${sourceLabel} (entry ${entryIndex + 1})`;
     const questionElement = getRequiredElement(entry, "question", entryLabel);
-    const questionText = getElementText(questionElement, `${entryLabel}: question`);
+    const questionText = getElementText(questionElement, `${entryLabel}: question`, true);
 
     const optionElements = Array.from(entry.getElementsByTagName("option"));
     if (optionElements.length === 0) {
