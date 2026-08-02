@@ -2,6 +2,15 @@ html,
 body {
   height: 100%;
   margin: 0;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 body {
@@ -15,6 +24,8 @@ body {
 
 .app-shell {
   min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
 }
 
 .container {
@@ -258,6 +269,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 0;
+  min-width: 0;
   border-radius: 8px;
   padding: 14px;
   background: #fff;
@@ -294,6 +306,7 @@ body {
 
 .question-text {
   white-space: break-spaces;
+  overflow-wrap: anywhere;
 }
 
 .question-text p,
@@ -344,6 +357,8 @@ body {
 
 .form-check-label > div {
   width: 100%;
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 
 .control-bar {
@@ -436,8 +451,15 @@ body {
 
 .markdownTable {
   width: 100%;
+  max-width: 100%;
   border-collapse: collapse;
   margin: 0.5rem 0;
+}
+
+.question-text img,
+.form-check-label img {
+  max-width: 100%;
+  height: auto;
 }
 
 .markdownTable th,
