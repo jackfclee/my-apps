@@ -28,6 +28,7 @@ const qbList = [
 
 const progressStorageKey = "mcEngineProgress";
 const loginSessionStorageKey = "mcEngineLoginSession";
+const randomOptionsStorageKey = "mcEngineRandomOptions";
 const loginSessionDurationMs = 24 * 60 * 60 * 1000;
 
 function loadLoginSession() {
@@ -67,6 +68,32 @@ function clearLoginSession() {
   } catch (error) {
     console.warn("Unable to clear saved MC Engine login:", error);
   }
+}
+
+function loadRandomOptionsEnabled() {
+  try {
+    return localStorage.getItem(randomOptionsStorageKey) === "true";
+  } catch (error) {
+    console.warn("Unable to load random answer choice setting:", error);
+    return false;
+  }
+}
+
+function saveRandomOptionsEnabled(isEnabled) {
+  try {
+    localStorage.setItem(randomOptionsStorageKey, String(isEnabled));
+  } catch (error) {
+    console.warn("Unable to save random answer choice setting:", error);
+  }
+}
+
+function shuffleOptions(options) {
+  const shuffledOptions = options.slice();
+  for (let index = shuffledOptions.length - 1; index > 0; index--) {
+    const swapIndex = Math.floor(Math.random() * (index + 1));
+    [shuffledOptions[index], shuffledOptions[swapIndex]] = [shuffledOptions[swapIndex], shuffledOptions[index]];
+  }
+  return shuffledOptions;
 }
 
 function loadSavedProgress() {
@@ -112,6 +139,19 @@ function findSavedQuestionIndex(savedProgress, currentTopic, currentQuestions) {
 function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) {
 
   let currentQuestionIndex = initialQuestionIndex;
+  let isRandomOptionsEnabled = loadRandomOptionsEnabled();
+
+  function updateRandomOptionsButton() {
+    $("#randomOptionsBtn")
+      .toggleClass("is-active", isRandomOptionsEnabled)
+      .attr("aria-pressed", String(isRandomOptionsEnabled))
+      .attr(
+        "title",
+        isRandomOptionsEnabled
+          ? "Answer choices are randomized"
+          : "Randomize answer choices"
+      );
+  }
 
   function updateQuestionSummary() {
     const summaryText = currentQuestions.length === 1
@@ -164,7 +204,11 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     const isMultipleCorrect = thisQuestion.options.filter(option => option.isValid).length > 1;
     const inputType = isMultipleCorrect ? "checkbox" : "radio";
 
-    thisQuestion.options.forEach((option, index) => {
+    const displayedOptions = isRandomOptionsEnabled
+      ? shuffleOptions(thisQuestion.options)
+      : thisQuestion.options;
+
+    displayedOptions.forEach((option, index) => {
       // Convert Markdown in option.detail to HTML
       const detailHTML = marked.parse(option.detail);
 
@@ -221,6 +265,16 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   $("#resetBtn").off('click');
   $("#resetBtn").click(function (e) {
     e.preventDefault();
+    displayQuestion(currentQuestionIndex);
+  });
+
+  //--------------------------------------------------------------------------------
+  $("#randomOptionsBtn").off('click');
+  $("#randomOptionsBtn").click(function (e) {
+    e.preventDefault();
+    isRandomOptionsEnabled = !isRandomOptionsEnabled;
+    saveRandomOptionsEnabled(isRandomOptionsEnabled);
+    updateRandomOptionsButton();
     displayQuestion(currentQuestionIndex);
   });
 
@@ -283,6 +337,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     }
   });
 
+  updateRandomOptionsButton();
   updateQuestionSummary();
   displayQuestion(currentQuestionIndex);
 }

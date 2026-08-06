@@ -188,6 +188,60 @@ body {
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
+.topic-control-row {
+  display: flex;
+  align-items: stretch;
+  gap: 8px;
+  width: 100%;
+}
+
+.topic-control-row #topicOptions {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.icon-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 48px;
+  width: 48px;
+  min-width: 48px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  padding: 0;
+  background: #ffffff;
+  color: #0f172a;
+  cursor: pointer;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease, color 0.2s ease, transform 0.15s ease;
+}
+
+.icon-toggle-btn:hover {
+  transform: translateY(-1px);
+}
+
+.icon-toggle-btn:focus {
+  outline: none;
+  border-color: #38bdf8;
+  box-shadow: 0 0 0 4px rgba(56, 189, 248, 0.18);
+}
+
+.icon-toggle-btn.is-active {
+  border-color: #facc15;
+  background: #fde047;
+  color: #713f12;
+}
+
+.icon-toggle-svg {
+  width: 22px;
+  height: 22px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
 #passwordInput:focus,
 #topicOptions:focus {
   outline: none;

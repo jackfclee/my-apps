@@ -43,7 +43,25 @@
           <div class="header-left">
             <p class="eyebrow">MC Engine</p>
             <label class="topic-label" for="topicOptions">Question bank</label>
-            <select id="topicOptions" aria-label="Choose a question bank"></select>
+            <div class="topic-control-row">
+              <select id="topicOptions" aria-label="Choose a question bank"></select>
+              <button
+                id="randomOptionsBtn"
+                class="icon-toggle-btn"
+                type="button"
+                aria-label="Randomize answer choices"
+                aria-pressed="false"
+                title="Randomize answer choices"
+              >
+                <svg aria-hidden="true" viewBox="0 0 24 24" class="icon-toggle-svg">
+                  <path d="M16 3h5v5"></path>
+                  <path d="M4 20 21 3"></path>
+                  <path d="M21 16v5h-5"></path>
+                  <path d="M15 15l6 6"></path>
+                  <path d="M4 4l5 5"></path>
+                </svg>
+              </button>
+            </div>
           </div>
           <div id="totalQuestions" class="header-right"></div>
         </header>
