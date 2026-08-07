@@ -96,6 +96,52 @@ function shuffleOptions(options) {
   return shuffledOptions;
 }
 
+function markdownToPlainText(markdownText) {
+  const html = marked.parse(markdownText || "", { breaks: true });
+  const container = document.createElement("div");
+  container.innerHTML = html;
+  return (container.textContent || "")
+    .replace(/\u00a0/g, " ")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+function getAnswerLabel(index) {
+  let label = "";
+  let currentIndex = index;
+
+  do {
+    label = String.fromCharCode(65 + (currentIndex % 26)) + label;
+    currentIndex = Math.floor(currentIndex / 26) - 1;
+  } while (currentIndex >= 0);
+
+  return label;
+}
+
+function writeTextToClipboard(text) {
+  if (navigator.clipboard && window.isSecureContext) {
+    return navigator.clipboard.writeText(text);
+  }
+
+  const textarea = document.createElement("textarea");
+  textarea.value = text;
+  textarea.setAttribute("readonly", "");
+  textarea.style.position = "fixed";
+  textarea.style.opacity = "0";
+  document.body.appendChild(textarea);
+  textarea.select();
+
+  try {
+    const wasCopied = document.execCommand("copy");
+    return wasCopied
+      ? Promise.resolve()
+      : Promise.reject(new Error("The browser did not allow copying."));
+  } finally {
+    document.body.removeChild(textarea);
+  }
+}
+
 function loadSavedProgress() {
   try {
     const savedProgress = JSON.parse(localStorage.getItem(progressStorageKey));
@@ -140,6 +186,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
 
   let currentQuestionIndex = initialQuestionIndex;
   let isRandomOptionsEnabled = loadRandomOptionsEnabled();
+  let currentDisplayedOptions = [];
 
   function updateRandomOptionsButton() {
     $("#randomOptionsBtn")
@@ -207,6 +254,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     const displayedOptions = isRandomOptionsEnabled
       ? shuffleOptions(thisQuestion.options)
       : thisQuestion.options;
+    currentDisplayedOptions = displayedOptions;
 
     displayedOptions.forEach((option, index) => {
       // Convert Markdown in option.detail to HTML
@@ -276,6 +324,31 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     saveRandomOptionsEnabled(isRandomOptionsEnabled);
     updateRandomOptionsButton();
     displayQuestion(currentQuestionIndex);
+  });
+
+  //--------------------------------------------------------------------------------
+  $("#copyQuestionBtn").off('click');
+  $("#copyQuestionBtn").click(function (e) {
+    e.preventDefault();
+
+    const thisQuestion = currentQuestions[currentQuestionIndex];
+    const questionText = markdownToPlainText(thisQuestion.text);
+    const answerLines = currentDisplayedOptions.map((option, index) => {
+      return getAnswerLabel(index) + ". " + markdownToPlainText(option.detail);
+    });
+    const clipboardText = "Question: " + questionText + "\nAnswers:\n" + answerLines.join("\n");
+
+    writeTextToClipboard(clipboardText)
+      .then(function () {
+        $("#copyQuestionBtn").addClass("is-copied").attr("title", "Copied");
+        window.setTimeout(function () {
+          $("#copyQuestionBtn").removeClass("is-copied").attr("title", "Copy question and answers");
+        }, 1200);
+      })
+      .catch(function (error) {
+        console.warn("Unable to copy question and answers:", error);
+        $("#copyQuestionBtn").attr("title", "Copy failed");
+      });
   });
 
   //--------------------------------------------------------------------------------
