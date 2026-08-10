@@ -238,9 +238,13 @@ document.addEventListener('DOMContentLoaded', () => {
     
         selectedItems.forEach((listItem) => {
             let url = listItem.dataset.url;
-            if (url.startsWith('https://screenshot.googleplex.com/') || url.startsWith('https://screenshot-v2.corp.google.com/')) {
+            if (url.startsWith('https://screenshot.googleplex.com/')) {
                 if (!url.endsWith('.jpg')) {
                     url += '.jpg';
+                }
+            } else if ( url.startsWith('https://screenshot-v2.corp.google.com/')) {
+                if (!url.endsWith('.png')) {
+                    url += '.png';
                 }
             }
     
