@@ -30,6 +30,7 @@ const qbList = [
 const progressStorageKey = "mcEngineProgress";
 const loginSessionStorageKey = "mcEngineLoginSession";
 const randomOptionsStorageKey = "mcEngineRandomOptions";
+const answerModeStorageKey = "mcEngineAnswerMode";
 const loginSessionDurationMs = 24 * 60 * 60 * 1000;
 
 function loadLoginSession() {
@@ -85,6 +86,23 @@ function saveRandomOptionsEnabled(isEnabled) {
     localStorage.setItem(randomOptionsStorageKey, String(isEnabled));
   } catch (error) {
     console.warn("Unable to save random answer choice setting:", error);
+  }
+}
+
+function loadAnswerModeEnabled() {
+  try {
+    return localStorage.getItem(answerModeStorageKey) === "true";
+  } catch (error) {
+    console.warn("Unable to load answer mode setting:", error);
+    return false;
+  }
+}
+
+function saveAnswerModeEnabled(isEnabled) {
+  try {
+    localStorage.setItem(answerModeStorageKey, String(isEnabled));
+  } catch (error) {
+    console.warn("Unable to save answer mode setting:", error);
   }
 }
 
@@ -187,6 +205,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
 
   let currentQuestionIndex = initialQuestionIndex;
   let isRandomOptionsEnabled = loadRandomOptionsEnabled();
+  let isAnswerModeEnabled = loadAnswerModeEnabled();
   let currentDisplayedOptions = [];
 
   function updateRandomOptionsButton() {
@@ -199,6 +218,32 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
           ? "Answer choices are randomized"
           : "Randomize answer choices"
       );
+  }
+
+  function updateAnswerModeButton() {
+    $("#answerModeBtn")
+      .toggleClass("is-active", isAnswerModeEnabled)
+      .attr("aria-pressed", String(isAnswerModeEnabled))
+      .attr(
+        "title",
+        isAnswerModeEnabled
+          ? "Answer mode is on"
+          : "Answer mode"
+      );
+  }
+
+  function revealAnswers() {
+    $("#answersForm input").each(function () {
+      const isCorrect = $(this).val() === "true";
+      $(this)
+        .next("label")
+        .css("color", isCorrect ? "green" : "red");
+    });
+  }
+
+  function updateAnswerControls() {
+    $("#resetBtn").prop('disabled', isAnswerModeEnabled);
+    $("#submitBtn").prop('disabled', isAnswerModeEnabled);
   }
 
   function updateQuestionSummary() {
@@ -285,6 +330,11 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     } else {
       $("#nextBtn").prop('disabled', false);
     }
+
+    if (isAnswerModeEnabled) {
+      revealAnswers();
+    }
+    updateAnswerControls();
   }
 
   $("#closeJumpDialog").off('click');
@@ -328,6 +378,16 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   });
 
   //--------------------------------------------------------------------------------
+  $("#answerModeBtn").off('click');
+  $("#answerModeBtn").click(function (e) {
+    e.preventDefault();
+    isAnswerModeEnabled = !isAnswerModeEnabled;
+    saveAnswerModeEnabled(isAnswerModeEnabled);
+    updateAnswerModeButton();
+    displayQuestion(currentQuestionIndex);
+  });
+
+  //--------------------------------------------------------------------------------
   $("#copyQuestionBtn").off('click');
   $("#copyQuestionBtn").click(function (e) {
     e.preventDefault();
@@ -356,12 +416,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   $("#submitBtn").off('click');
   $("#submitBtn").click(function (e) {
     e.preventDefault();
-    $("#answersForm input").each(function () {
-      const isCorrect = $(this).val() === "true";
-      $(this)
-        .next("label")
-        .css("color", isCorrect ? "green" : "red");
-    });
+    revealAnswers();
     $("#submitBtn").prop('disabled', true);
   });
 
@@ -386,13 +441,13 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   });
 
   $(document).off('keydown.mcEngineNavigation').on('keydown.mcEngineNavigation', function (e) {
-    if (e.key === 'Escape') {
+    if (e.key === 'Escape' && !isAnswerModeEnabled) {
       e.preventDefault();
       $('#resetBtn').trigger('click');
       return;
     }
 
-    if (e.key === 'Enter' && !$(e.target).is('button, select, textarea, [contenteditable="true"]')) {
+    if (e.key === 'Enter' && !isAnswerModeEnabled && !$(e.target).is('button, select, textarea, [contenteditable="true"]')) {
       e.preventDefault();
       $('#submitBtn').trigger('click');
       return;
@@ -412,6 +467,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   });
 
   updateRandomOptionsButton();
+  updateAnswerModeButton();
   updateQuestionSummary();
   displayQuestion(currentQuestionIndex);
 }
