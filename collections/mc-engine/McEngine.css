@@ -533,7 +533,7 @@ body {
 }
 
 .control-bar .btn:disabled {
-  opacity: 0.55;
+  opacity: 0.12;
   cursor: not-allowed;
   transform: none;
 }
