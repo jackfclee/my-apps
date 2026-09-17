@@ -31,6 +31,7 @@ const progressStorageKey = "mcEngineProgress";
 const loginSessionStorageKey = "mcEngineLoginSession";
 const randomOptionsStorageKey = "mcEngineRandomOptions";
 const answerModeStorageKey = "mcEngineAnswerMode";
+const reasoningStorageKey = "mcEngineReasoning";
 const loginSessionDurationMs = 24 * 60 * 60 * 1000;
 
 function loadLoginSession() {
@@ -113,6 +114,15 @@ function shuffleOptions(options) {
     [shuffledOptions[index], shuffledOptions[swapIndex]] = [shuffledOptions[swapIndex], shuffledOptions[index]];
   }
   return shuffledOptions;
+}
+
+function loadReasoningEnabled() {
+  try {
+    return localStorage.getItem(reasoningStorageKey) !== "false";
+  } catch (error) {
+    console.warn("Unable to load reasoning setting:", error);
+    return true;
+  }
 }
 
 function markdownToPlainText(markdownText) {
@@ -206,7 +216,19 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   let currentQuestionIndex = initialQuestionIndex;
   let isRandomOptionsEnabled = loadRandomOptionsEnabled();
   let isAnswerModeEnabled = loadAnswerModeEnabled();
+  let isReasoningEnabled = loadReasoningEnabled();
+  let areAnswersRevealed = false;
   let currentDisplayedOptions = [];
+
+  function updateReasoningDisplay() {
+    $("#reasoningBtn")
+      .toggleClass("is-active", isReasoningEnabled)
+      .attr("aria-pressed", String(isReasoningEnabled))
+      .attr("title", isReasoningEnabled ? "Hide reasoning" : "Show reasoning");
+    $("#answersForm .option-reasoning").each(function (index) {
+      $(this).prop("hidden", !areAnswersRevealed || !isReasoningEnabled || !currentDisplayedOptions[index].reasoning);
+    });
+  }
 
   function updateRandomOptionsButton() {
     $("#randomOptionsBtn")
@@ -233,12 +255,25 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   }
 
   function revealAnswers() {
-    $("#answersForm input").each(function () {
-      const isCorrect = $(this).val() === "true";
-      $(this)
-        .next("label")
-        .css("color", isCorrect ? "green" : "red");
+    areAnswersRevealed = true;
+    $("#answersForm input").each(function (index) {
+      const option = currentDisplayedOptions[index];
+      const isSelected = this.checked;
+      const $card = $(this).closest(".form-check");
+      $card.addClass(option.isValid ? "is-correct" : "is-incorrect");
+      $card.find(".option-verdict")
+        .text((option.isValid ? "Correct answer" : "Incorrect answer") + (isSelected ? " · Your choice" : ""))
+        .prop("hidden", false);
+      const $reasoning = $card.find(".option-reasoning");
+      if (option.reasoning) {
+        // Render only after reveal so explanations cannot spoil the question.
+        // Plain text also keeps source-provided HTML inert.
+        $reasoning.find(".reasoning-text").text(option.reasoning);
+      }
+      $(this).prop("disabled", true);
     });
+    $("#answerInstructions").prop("hidden", true);
+    updateReasoningDisplay();
   }
 
   function updateAnswerControls() {
@@ -285,6 +320,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
 
   //--------------------------------------------------------------------------------
   function displayQuestion(index) {
+    areAnswersRevealed = false;
     currentQuestionIndex = index;
     updateQuestionSummary();
     const thisQuestion = currentQuestions[currentQuestionIndex];
@@ -296,6 +332,9 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
 
     const isMultipleCorrect = thisQuestion.options.filter(option => option.isValid).length > 1;
     const inputType = isMultipleCorrect ? "checkbox" : "radio";
+    $("#answerInstructions").text(isMultipleCorrect
+      ? "Select all correct answers."
+      : "Select one answer.").prop("hidden", false);
 
     const displayedOptions = isRandomOptionsEnabled
       ? shuffleOptions(thisQuestion.options)
@@ -309,12 +348,20 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
       // Create a new div element for the option
       const $optionDiv = $(`
         <div class="form-check">
+          <div class="option-choice">
           <input class="form-check-input" type="${inputType}" name="answer" id="option${index}" value="${option.isValid}">
           <label class="form-check-label" for="option${index}"></label>
+          </div>
+          <div class="option-review">
+            <span class="option-verdict" hidden></span>
+            <section class="option-reasoning" aria-label="Reasoning for option ${getAnswerLabel(index)}" hidden>
+              <div class="reasoning-text"></div>
+            </section>
+          </div>
         </div>
       `);
       // Append the converted HTML to the label within the div
-      $optionDiv.find(`label[for="option${index}"]`).html("<div>" + detailHTML.replace(/<table>/g, '<table class="markdownTable">').replace(/<p>/g, '<p class="optionPara">') + "</div>");
+      $optionDiv.find(`label[for="option${index}"]`).html('<span class="option-letter">' + getAnswerLabel(index) + '</span><div>' + detailHTML.replace(/<table>/g, '<table class="markdownTable">').replace(/<p>/g, '<p class="optionPara">') + "</div>");
       // Append the option div to the form
       $("#answersForm").append($optionDiv);
     });
@@ -388,6 +435,16 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   });
 
   //--------------------------------------------------------------------------------
+  $("#reasoningBtn").off('click').on('click', function () {
+    isReasoningEnabled = !isReasoningEnabled;
+    try {
+      localStorage.setItem(reasoningStorageKey, String(isReasoningEnabled));
+    } catch (error) {
+      console.warn("Unable to save reasoning setting:", error);
+    }
+    updateReasoningDisplay();
+  });
+
   $("#copyQuestionBtn").off('click');
   $("#copyQuestionBtn").click(function (e) {
     e.preventDefault();
@@ -470,6 +527,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   updateAnswerModeButton();
   updateQuestionSummary();
   displayQuestion(currentQuestionIndex);
+  updateReasoningDisplay();
 }
 
 //--------------------------------------------------------------------------------
@@ -554,6 +612,7 @@ function parseXML(xmlString, sourceLabel) {
       const optionLabel = `${entryLabel}: option ${optionIndex + 1}`;
       const validElement = getRequiredElement(option, "valid", optionLabel);
       const detailElement = getRequiredElement(option, "detail", optionLabel);
+      const reasoningElement = option.getElementsByTagName("reasoning")[0];
 
       const validText = getElementText(validElement, `${optionLabel}: valid`).toLowerCase();
       if (validText !== "true" && validText !== "false") {
@@ -563,6 +622,9 @@ function parseXML(xmlString, sourceLabel) {
       return {
         isValid: validText === "true",
         detail: getElementText(detailElement, `${optionLabel}: detail`),
+        reasoning: reasoningElement
+          ? getElementText(reasoningElement, `${optionLabel}: reasoning`, true)
+          : "",
       };
     });
 

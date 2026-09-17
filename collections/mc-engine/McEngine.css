@@ -4,7 +4,7 @@ body {
   margin: 0;
   width: 100%;
   max-width: 100%;
-  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 *,
@@ -25,7 +25,7 @@ body {
 .app-shell {
   min-height: 100vh;
   width: 100%;
-  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 .container {
@@ -426,6 +426,7 @@ body {
 
 #answersForm .form-check {
   display: flex;
+  flex-direction: column;
   align-items: flex-start;
   gap: 3px;
   padding: 12px 14px 12px 18px;
@@ -452,11 +453,111 @@ body {
 
 .form-check-label {
   display: flex;
+  gap: 10px;
   width: 100%;
   align-items: flex-start;
   white-space: pre-wrap;
   color: #111827;
   margin-left: 0;
+}
+
+.answer-instructions {
+  margin: 0 0 16px;
+  color: #475569;
+  font-size: 0.9rem;
+}
+
+.option-choice {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  min-width: 0;
+}
+
+.option-choice label { cursor: pointer; }
+.option-choice input:disabled + label { cursor: default; }
+
+.option-letter {
+  flex: 0 0 auto;
+  color: #64748b;
+  font-weight: 700;
+}
+
+.option-review {
+  width: 100%;
+  min-width: 0;
+}
+
+.option-verdict {
+  display: inline-block;
+  margin: 4px 0 8px;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+#answersForm .form-check.is-correct {
+  border-color: #86bba0;
+  background: #f0fdf4;
+}
+
+#answersForm .form-check.is-incorrect {
+  border-color: #e1b5b5;
+  background: #fffafa;
+}
+
+.is-correct .option-verdict { color: #166534; }
+.is-incorrect .option-verdict { color: #991b1b; }
+
+#answersForm .form-check:focus-within {
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
+
+#answersForm .form-check:has(input:checked):not(.is-correct):not(.is-incorrect) {
+  border-color: #2563eb;
+  background: #eff6ff;
+}
+
+#answersForm .form-check:has(input:disabled):hover {
+  transform: none;
+}
+
+.option-reasoning {
+  border-top: 1px solid #dce3ea;
+  padding-top: 12px;
+  margin-top: 2px;
+}
+
+.reasoning-text {
+  color: #334155;
+  font-size: 0.94rem;
+  line-height: 1.65;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+[hidden] { display: none !important; }
+
+@media (min-width: 981px) {
+  .dashboard-grid { align-items: start; }
+  .question-card { position: sticky; top: 12px; max-height: calc(100vh - 24px); }
+}
+
+@media (max-width: 640px) {
+  .topic-control-row { flex-wrap: wrap; }
+  .topic-control-row #topicOptions { flex-basis: 100%; }
+  .topic-control-row .icon-toggle-btn { min-height: 44px; }
+  #answersForm .form-check { padding: 12px; }
+  .option-choice { min-height: 44px; }
+  .reasoning-text { font-size: 0.95rem; }
+  #navigationContainer {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: #ffffff;
+    padding: 8px 0;
+  }
+  #navigationContainer .btn { min-height: 44px; }
 }
 
 .form-check-label > div {
