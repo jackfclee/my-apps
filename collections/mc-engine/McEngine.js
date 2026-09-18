@@ -349,6 +349,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
       const $optionDiv = $(`
         <div class="form-check">
           <div class="option-choice">
+          <label class="option-letter" for="option${index}">${getAnswerLabel(index)}</label>
           <input class="form-check-input" type="${inputType}" name="answer" id="option${index}" value="${option.isValid}">
           <label class="form-check-label" for="option${index}"></label>
           </div>
@@ -361,7 +362,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
         </div>
       `);
       // Append the converted HTML to the label within the div
-      $optionDiv.find(`label[for="option${index}"]`).html('<span class="option-letter">' + getAnswerLabel(index) + '</span><div>' + detailHTML.replace(/<table>/g, '<table class="markdownTable">').replace(/<p>/g, '<p class="optionPara">') + "</div>");
+      $optionDiv.find('.form-check-label').html('<div>' + detailHTML.replace(/<table>/g, '<table class="markdownTable">').replace(/<p>/g, '<p class="optionPara">') + "</div>");
       // Append the option div to the form
       $("#answersForm").append($optionDiv);
     });

@@ -475,12 +475,23 @@ body {
 }
 
 .option-choice label { cursor: pointer; }
+.option-choice:has(input:disabled) .option-letter,
 .option-choice input:disabled + label { cursor: default; }
 
 .option-letter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   flex: 0 0 auto;
-  color: #64748b;
-  font-weight: 700;
+  margin: 0 0.75rem 0 0;
+  min-width: 1.38rem;
+  min-height: 1.38rem;
+  padding: 0.025rem 0.025rem;
+  border-radius: 5px;
+  background: #334155;
+  color: #fff;
+  font-weight: 300;
+  line-height: 1;
 }
 
 .option-review {
