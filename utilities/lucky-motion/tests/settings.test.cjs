@@ -4,7 +4,7 @@ const fs = require('node:fs');
 const vm = require('node:vm');
 const source = fs.readFileSync(require('node:path').join(__dirname, '../script.js'), 'utf8');
 
-function app({ saved = null, blocked = false, permission } = {}) {
+function app({ saved = null, blocked = false, permission, reduced = false } = {}) {
   const elements = new Map(), listeners = new Map(), frames = [];
   let stored = saved, now = 1000, permissionCalls = 0;
   function element(id) {
@@ -29,7 +29,7 @@ function app({ saved = null, blocked = false, permission } = {}) {
       getItem() { if (blocked) throw Error('blocked'); return stored; },
       setItem(key, value) { if (blocked) throw Error('blocked'); stored = value; }
     },
-    performance: { now: () => now }, matchMedia: () => ({ matches: false }),
+    performance: { now: () => now }, matchMedia: () => ({ matches: reduced }),
     crypto: require('node:crypto').webcrypto,
     requestAnimationFrame(fn) { frames.push(fn); }, setTimeout() { return 1; }, clearTimeout() {}
   });
@@ -121,4 +121,46 @@ test('denied motion permission leaves retry and button mixing available', async 
   assert.equal(a.run('motionPreferred'), false);
   a.run('startDraw()');
   assert.equal(a.run('state'), 'drawing');
+});
+
+test('balls wait in ordered, non-overlapping rows above the chamber for every supported size', () => {
+  const a = app();
+  for (const n of [1, 6, 49, 500]) {
+    a.run(`total = ${n}; reset()`);
+    assert.equal(a.run('particles.length'), n);
+    assert(a.run('particles.every((b,i) => b.number === i+1 && b.phase === "queued" && b.y+b.r < trayHeight && b.x-b.r > 10 && b.x+b.r < 440)'));
+    assert(a.run('particles.every((b,i) => particles.slice(i+1).every(c => Math.hypot(b.x-c.x,b.y-c.y) >= b.r+c.r))'));
+    a.run('particles.forEach(b => updateDrop(b, 99999))');
+    assert(a.run('particles.every(b => b.phase === "queued")'));
+  }
+});
+
+test('movement releases balls in order and reset returns them to the tray', () => {
+  const a = app();
+  a.run('addEnergy(1); particles.forEach(b => updateDrop(b, 1010))');
+  assert.equal(a.run('particles[0].phase'), 'falling');
+  assert.equal(a.run('particles[1].phase'), 'queued');
+  a.run('particles.forEach(b => updateDrop(b, 3100))');
+  assert(a.run('particles.every(b => b.phase === "mixing" && Math.hypot(b.x-225,b.y-chamberY) <= 214-b.r)'));
+  a.run('reset()');
+  assert.equal(a.run('dropStarted'), null);
+  assert(a.run('particles.every(b => b.phase === "queued" && b.x === b.homeX && b.y === b.homeY)'));
+});
+
+test('a full meter cannot reveal winners before the last ball has entered', () => {
+  const a = app();
+  a.run('total = 500; reset(); addEnergy(100)');
+  a.frames.pop()(2000);
+  assert.equal(a.run('state'), 'drawing');
+  a.frames.pop()(3100);
+  assert.equal(a.run('state'), 'done');
+  assert.equal(a.run('particles.length'), 494);
+  assert(a.run('particles.every(b => b.phase === "mixing")'));
+});
+
+test('reduced-motion mode places balls inside without a falling animation', () => {
+  const a = app({ reduced: true });
+  a.run('addEnergy(1); particles.forEach(b => updateDrop(b, 1000))');
+  assert(a.run('particles.every(b => b.phase === "mixing" && Math.hypot(b.x-225,b.y-chamberY) <= 214-b.r)'));
+  assert.equal(a.run('new Set(particles.map(b => `${b.x},${b.y}`)).size'), 49);
 });

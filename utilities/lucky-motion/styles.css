@@ -18,7 +18,7 @@ h1 em { font-family:Georgia,serif; font-weight:400; color:var(--orange); }
 .layout { display:grid; grid-template-columns:minmax(0,1.4fr) minmax(290px,1fr); gap:48px; align-items:center; margin-top:32px; }
 .stage { min-width:0; text-align:center; position:relative; }
 .machine { position:relative; width:min(100%,460px); margin:auto; }
-canvas { display:block; width:100%; aspect-ratio:1; border-radius:50%; background:radial-gradient(circle at 35% 25%,#fffef9 0%,#e8edde 70%,#d9e1d3); border:10px solid #d0d8ca; box-shadow:inset 0 0 0 3px #fdfef7,0 10px 30px #314e3510; position:relative; z-index:2; }
+canvas { display:block; width:100%; height:auto; position:relative; z-index:2; }
 .base { width:64%; margin:-27px auto 0; height:88px; background:var(--ink); border-radius:18px 18px 32px 32px; border-bottom:8px solid #172b23; display:flex; justify-content:center; align-items:end; padding-bottom:17px; color:#faf9ef; font-size:10px; letter-spacing:3px; }
 .base::before { content:""; width:6px; height:6px; background:#d7edb4; border-radius:50%; margin:0 9px 3px 0; }
 .stage-caption { color:var(--muted); font-size:12px; margin:20px 0 0; }
