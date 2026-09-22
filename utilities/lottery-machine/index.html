@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f3eb">
+  <title>Lucky Motion · Lottery Machine</title>
+  <style>
+    :root { color-scheme: light; --paper:#f5f3eb; --ink:#243a31; --muted:#65746a; --line:#d8ddd2; --orange:#ec643b; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--paper); color:var(--ink); font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    button,input { font:inherit; }
+    button { cursor:pointer; }
+    button:focus-visible,input:focus-visible { outline:3px solid #bd4a24; outline-offset:4px; }
+    button:disabled { cursor:default; opacity:.5; }
+    header { max-width:1200px; margin:auto; padding:27px 32px; display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid var(--line); }
+    .brand { font-size:19px; font-weight:800; letter-spacing:-.7px; display:flex; align-items:center; gap:10px; }
+    .brand span { background:var(--orange); color:white; border-radius:50%; width:31px; height:31px; display:grid; place-items:center; font-size:22px; }
+    .local { font-size:11px; letter-spacing:1.6px; text-transform:uppercase; }
+    .local::before { content:""; display:inline-block; width:7px; height:7px; border-radius:50%; background:#749779; margin-right:8px; }
+    main { max-width:1120px; margin:auto; padding:45px 28px 24px; }
+    .eyebrow { text-transform:uppercase; font-size:11px; font-weight:700; letter-spacing:2px; color:var(--muted); }
+    h1 { font-size:clamp(36px,5vw,58px); letter-spacing:-2.8px; line-height:1.07; margin:14px 0; font-weight:750; }
+    h1 em { font-family:Georgia,serif; font-weight:400; color:var(--orange); }
+    .intro { color:var(--muted); font-size:15px; line-height:1.7; margin:0; }
+    .layout { display:grid; grid-template-columns:minmax(0,1.4fr) minmax(290px,1fr); gap:48px; align-items:center; margin-top:32px; }
+    .stage { min-width:0; text-align:center; position:relative; }
+    .machine { position:relative; width:min(100%,460px); margin:auto; }
+    canvas { display:block; width:100%; aspect-ratio:1; border-radius:50%; background:radial-gradient(circle at 35% 25%,#fffef9 0%,#e8edde 70%,#d9e1d3); border:10px solid #d0d8ca; box-shadow:inset 0 0 0 3px #fdfef7,0 10px 30px #314e3510; position:relative; z-index:2; }
+    .base { width:64%; margin:-27px auto 0; height:88px; background:var(--ink); border-radius:18px 18px 32px 32px; border-bottom:8px solid #172b23; display:flex; justify-content:center; align-items:end; padding-bottom:17px; color:#faf9ef; font-size:10px; letter-spacing:3px; }
+    .base::before { content:""; width:6px; height:6px; background:#d7edb4; border-radius:50%; margin:0 9px 3px 0; }
+    .stage-caption { color:var(--muted); font-size:12px; margin:20px 0 0; }
+    .card { background:#fffef8; border:1px solid var(--line); border-radius:20px; padding:26px; box-shadow:0 8px 24px #20382b04; }
+    .card-head { display:flex; justify-content:space-between; align-items:center; margin-bottom:25px; }
+    h2 { font-size:19px; letter-spacing:-.5px; margin:0; }
+    .tag { font-size:10px; letter-spacing:1px; padding:6px 9px; background:#eaf0e4; border-radius:6px; }
+    .fields { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+    label { font-size:12px; font-weight:600; display:block; }
+    label small { display:block; font-weight:400; color:var(--muted); margin-top:5px; }
+    input { width:100%; border:1px solid var(--line); border-radius:10px; padding:12px; margin-top:10px; color:var(--ink); background:var(--paper); font-size:23px; font-weight:650; }
+    .error { color:#a23320; font-size:12px; line-height:1.5; min-height:18px; margin:8px 0; }
+    .instruction { border-top:1px solid var(--line); padding-top:18px; font-size:13px; line-height:1.6; }
+    .instruction strong { display:block; font-size:14px; }
+    .instruction p { margin:5px 0 18px; color:var(--muted); }
+    .meter-label { display:flex; justify-content:space-between; font-size:11px; margin-bottom:8px; }
+    progress { display:block; width:100%; height:7px; border:0; border-radius:10px; overflow:hidden; background:#e8ecdf; accent-color:var(--orange); }
+    progress::-webkit-progress-bar { background:#e8ecdf; }
+    progress::-webkit-progress-value { background:var(--orange); border-radius:10px; }
+    progress::-moz-progress-bar { background:var(--orange); }
+    .primary,.secondary { border:0; border-radius:10px; padding:13px 18px; font-size:13px; font-weight:650; width:100%; }
+    .primary { background:var(--orange); color:white; margin-top:22px; }
+    .primary:hover:not(:disabled) { background:#d9512b; }
+    .secondary { border:1px solid var(--line); background:transparent; color:var(--ink); margin-top:10px; }
+    .motion-note { font-size:11px; line-height:1.6; color:var(--muted); margin:10px 0 0; }
+    .results { margin-top:38px; border-top:1px solid var(--line); padding:25px 0; }
+    .result-heading { display:flex; align-items:center; justify-content:space-between; gap:16px; }
+    .result-heading span { color:var(--muted); font-size:12px; }
+    .balls { display:flex; flex-wrap:wrap; gap:12px; margin-top:22px; min-height:62px; }
+    .result-ball { width:60px; height:60px; display:grid; place-items:center; border-radius:50%; font-size:21px; font-weight:750; color:var(--ink); background:#e7eddf; box-shadow:inset -3px -4px 0 #0000000c; animation:appear .35s ease-out both; }
+    .placeholder { border:1px dashed #c9d0c2; background:transparent; box-shadow:none; color:#a8b2a1; }
+    .history { margin-top:24px; padding-top:20px; border-top:1px solid var(--line); }
+    .history h3 { font-size:12px; margin:0 0 12px; color:var(--muted); }
+    .history-row { display:flex; gap:18px; font-size:12px; padding:8px 0; line-height:1.6; }
+    .history-row time { color:var(--muted); flex-shrink:0; }
+    .history-row span { overflow-wrap:anywhere; }
+    footer { display:flex; justify-content:space-between; gap:20px; font-size:11px; color:var(--muted); padding:20px 0; border-top:1px solid var(--line); line-height:1.7; }
+    @keyframes appear { from { opacity:0; transform:translateY(12px) scale(.8); } to { opacity:1; transform:none; } }
+    @media(max-width:700px) { header { padding:20px; } .local { font-size:9px; letter-spacing:.7px; } main { padding:30px 20px 12px; } .layout { grid-template-columns:1fr; gap:26px; } .machine { width:min(85%,360px); } h1 { letter-spacing:-1.8px; } .card { padding:22px; } footer { flex-direction:column; gap:3px; } .results { margin-top:28px; } }
+    @media(prefers-reduced-motion:reduce) { .result-ball { animation:none; } }
+  </style>
+</head>
+<body>
+  <header><div class="brand"><span aria-hidden="true">✳</span> lucky motion</div><div class="local">100% on your device</div></header>
+  <main>
+    <div class="eyebrow">A little movement. A little luck.</div>
+    <h1>Give chance a <em>shake.</em></h1>
+    <p class="intro">Your very own lottery machine. Set the numbers, mix things up, and see what comes out.</p>
+    <div class="layout">
+      <section class="stage" aria-label="Animated lottery machine">
+        <div class="machine"><canvas id="machine" width="900" height="900" aria-label="Numbered balls mixing in a round lottery machine"></canvas><div class="base">THE CHANCE MACHINE</div></div>
+        <p class="stage-caption" id="stageCaption">49 possibilities. 6 lucky picks.</p>
+      </section>
+      <section class="card" aria-labelledby="setupHeading">
+        <div class="card-head"><h2 id="setupHeading">Make it your draw</h2><span class="tag" id="stateTag">READY</span></div>
+        <div class="fields">
+          <label for="total">Total balls <small>Numbered 1 to N</small><input id="total" type="number" min="1" max="500" step="1" value="49" inputmode="numeric" aria-describedby="error"></label>
+          <label for="picks">Balls to pick <small>X unique numbers</small><input id="picks" type="number" min="1" max="49" step="1" value="6" inputmode="numeric" aria-describedby="error"></label>
+        </div>
+        <p class="error" id="error" role="alert"></p>
+        <div class="instruction"><strong id="instruction">Move your mouse to mix</strong><p>Move around this page, shake your phone, or use the button. Fill the meter to draw.</p></div>
+        <div class="meter-label"><span id="mixLabel">Waiting for a little movement</span><span id="percent">0%</span></div>
+        <progress id="energy" max="100" value="0" aria-label="Mixing progress"></progress>
+        <button class="primary" id="draw" type="button">Mix & draw <span aria-hidden="true">↗</span></button>
+        <button class="secondary" id="motion" type="button">Enable phone shake</button>
+        <p class="motion-note" id="motionNote" role="status">On a phone, enable motion access first. Touch dragging also works.</p>
+      </section>
+    </div>
+    <section class="results" aria-labelledby="resultsHeading">
+      <div class="result-heading"><h2 id="resultsHeading">Your lucky numbers</h2><span id="resultMeta">The next draw is yours.</span></div>
+      <div class="balls" id="results"></div>
+      <p id="announcement" role="status" class="motion-note"></p>
+      <div class="history" id="history" hidden><h3>PREVIOUS DRAWS · THIS SESSION</h3><div id="historyRows"></div></div>
+    </section>
+    <footer><span>Fair picks. No duplicates. Just possibility.</span><span>No accounts, no uploads, no data leaves this page.</span></footer>
+  </main>
+  <script>
+    'use strict';
+    const $ = id => document.getElementById(id);
+    const canvas = $('machine'), ctx = canvas.getContext('2d');
+    const palette = ['#f3bd59','#e98970','#a9c3a5','#b7c9dc','#d6bdcf'];
+    const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
+    let total = 49, picks = 6, energy = 0, state = 'ready', valid = true;
+    let particles = [], selected = [], history = [], drawNumber = 0, lastFrame = 0;
+    let animationToken = 0, lastPointer = null, lastMotion = 0, gravity = null;
+
+    // Rejection sampling avoids modulo bias; partial Fisher–Yates avoids duplicates.
+    function randomBelow(limit) {
+      const buffer = new Uint32Array(1);
+      const ceiling = Math.floor(4294967296 / limit) * limit;
+      do { crypto.getRandomValues(buffer); } while (buffer[0] >= ceiling);
+      return buffer[0] % limit;
+    }
+    function sample(n, count) {
+      const pool = Array.from({length:n}, (_, i) => i + 1);
+      for (let i = 0; i < count; i++) {
+        const j = i + randomBelow(n - i);
+        [pool[i], pool[j]] = [pool[j], pool[i]];
+      }
+      return pool.slice(0, count);
+    }
+    function buildParticles() {
+      const radius = Math.max(9, Math.min(29, 230 / Math.sqrt(total)));
+      particles = Array.from({length:total}, (_, i) => {
+        const angle = Math.random() * Math.PI * 2, distance = Math.sqrt(Math.random()) * (210 - radius);
+        return {number:i+1, x:225+Math.cos(angle)*distance, y:225+Math.sin(angle)*distance, vx:(Math.random()-.5)*3, vy:(Math.random()-.5)*3, r:radius};
+      });
+    }
+    function updateMeter() {
+      $('energy').value = energy;
+      $('percent').textContent = Math.floor(energy) + '%';
+      $('mixLabel').textContent = state === 'done' ? 'Draw complete' : energy > 0 ? 'Keep the good luck moving…' : 'Waiting for a little movement';
+    }
+    function showPlaceholders() {
+      $('results').replaceChildren();
+      for (let i = 0; i < Math.min(picks, 12); i++) {
+        const ball = document.createElement('span'); ball.className = 'result-ball placeholder'; ball.textContent = '·'; ball.setAttribute('aria-hidden','true'); $('results').append(ball);
+      }
+    }
+    function reset() {
+      animationToken++; state = 'ready'; energy = 0; selected = []; lastPointer = null;
+      $('total').disabled = $('picks').disabled = false;
+      $('draw').disabled = !valid; $('draw').textContent = 'Mix & draw ↗';
+      $('stateTag').textContent = 'READY'; $('announcement').textContent = '';
+      $('resultMeta').textContent = 'The next draw is yours.';
+      $('stageCaption').textContent = `${total} possibilities. ${picks} lucky ${picks === 1 ? 'pick' : 'picks'}.`;
+      showPlaceholders(); buildParticles(); updateMeter();
+    }
+    function configure() {
+      const n = Number($('total').value), x = Number($('picks').value);
+      valid = Number.isInteger(n) && n >= 1 && n <= 500 && Number.isInteger(x) && x >= 1 && x <= n;
+      $('error').textContent = valid ? '' : 'Use whole numbers: 1–500 total balls, and 1 to N picks.';
+      $('total').setAttribute('aria-invalid', String(!Number.isInteger(n) || n < 1 || n > 500));
+      $('picks').setAttribute('aria-invalid', String(!Number.isInteger(x) || x < 1 || x > n));
+      $('draw').disabled = !valid;
+      if (valid) { total = n; picks = x; $('picks').max = n; reset(); }
+      else { energy = 0; updateMeter(); }
+    }
+    function addEnergy(amount) {
+      if (!valid || state !== 'ready' || document.hidden) return;
+      energy = Math.min(100, energy + amount);
+      updateMeter();
+      if (energy >= 100) startDraw();
+    }
+    function startDraw() {
+      if (!valid || state !== 'ready') return;
+      state = 'drawing'; const token = ++animationToken;
+      $('draw').disabled = $('total').disabled = $('picks').disabled = true;
+      $('stateTag').textContent = 'MIXING'; $('draw').textContent = 'Mixing your numbers…';
+      $('results').replaceChildren(); $('announcement').textContent = 'Mixing the balls…';
+      const started = performance.now(), startingEnergy = energy;
+      const duration = reducedMotion.matches ? 150 : 1400;
+      function mix(now) {
+        if (token !== animationToken) return;
+        const fraction = Math.min(1, (now - started) / duration);
+        energy = startingEnergy + (100 - startingEnergy) * fraction; updateMeter();
+        if (fraction < 1) requestAnimationFrame(mix);
+        else reveal(token);
+      }
+      requestAnimationFrame(mix);
+    }
+    function reveal(token) {
+      if (token !== animationToken) return;
+      selected = sample(total, picks);
+      const winners = new Set(selected); particles = particles.filter(ball => !winners.has(ball.number));
+      selected.forEach((number, i) => {
+        const ball = document.createElement('span'); ball.className = 'result-ball'; ball.textContent = number;
+        ball.style.background = palette[(number-1) % palette.length];
+        ball.style.animationDelay = Math.min(i * 90, 1800) + 'ms'; $('results').append(ball);
+      });
+      state = 'done'; drawNumber++;
+      $('stateTag').textContent = 'DRAWN'; $('draw').disabled = false; $('draw').textContent = 'Start a new draw ↻';
+      $('total').disabled = $('picks').disabled = false;
+      $('resultMeta').textContent = `Draw ${String(drawNumber).padStart(2,'0')} · ${picks} of ${total}`;
+      $('announcement').textContent = `Draw complete. Selected numbers: ${selected.join(', ')}.`;
+      $('stageCaption').textContent = 'A little movement. A brand new possibility.';
+      renderHistory();
+      history.unshift({numbers:[...selected], total, time:new Date().toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})});
+      history = history.slice(0, 5); updateMeter();
+    }
+    function renderHistory() {
+      $('history').hidden = history.length === 0; $('historyRows').replaceChildren();
+      history.forEach(draw => {
+        const row = document.createElement('div'), time = document.createElement('time'), numbers = document.createElement('span');
+        row.className = 'history-row'; time.textContent = draw.time;
+        numbers.textContent = `${draw.numbers.join(' · ')} (${draw.numbers.length} of ${draw.total})`;
+        row.append(time, numbers); $('historyRows').append(row);
+      });
+    }
+    $('total').addEventListener('input', configure); $('picks').addEventListener('input', configure);
+    $('draw').addEventListener('click', () => state === 'done' ? reset() : startDraw());
+    document.addEventListener('pointermove', event => {
+      if (event.pointerType === 'touch' && !event.buttons) return;
+      if (lastPointer && lastPointer.id === event.pointerId) {
+        const distance = Math.hypot(event.clientX-lastPointer.x, event.clientY-lastPointer.y);
+        addEnergy(Math.min(distance, 80) / 18);
+      }
+      lastPointer = {x:event.clientX, y:event.clientY, id:event.pointerId};
+    });
+    document.addEventListener('pointerup', () => { lastPointer = null; });
+    document.documentElement.addEventListener('pointerleave', () => { lastPointer = null; });
+    document.addEventListener('visibilitychange', () => { lastPointer = null; gravity = null; lastMotion = 0; });
+    let motionEnabled = false, motionReceived = false;
+    function onMotion(event) {
+      const now = performance.now();
+      const a = event.acceleration, g = event.accelerationIncludingGravity;
+      let strength = 0;
+      if (a && [a.x,a.y,a.z].every(Number.isFinite)) strength = Math.hypot(a.x,a.y,a.z);
+      else if (g && [g.x,g.y,g.z].every(Number.isFinite)) {
+        if (gravity) strength = Math.hypot(g.x-gravity.x,g.y-gravity.y,g.z-gravity.z);
+        gravity = {x:g.x,y:g.y,z:g.z};
+      } else return;
+      if (!motionReceived) { motionReceived = true; $('motionNote').textContent = 'Motion connected. Gently shake your phone to fill the meter.'; }
+      const elapsed = lastMotion ? Math.min((now-lastMotion)/1000,.1) : 0; lastMotion = now;
+      if (strength > 3) addEnergy(Math.min(strength-3,25) * elapsed * 2.5);
+    }
+    $('motion').addEventListener('click', async () => {
+      if (motionEnabled) return;
+      if (!window.isSecureContext || !window.DeviceMotionEvent) {
+        $('motionNote').textContent = 'Phone motion needs a supported browser and HTTPS (or localhost). You can still drag or use Mix & draw.'; return;
+      }
+      try {
+        if (typeof DeviceMotionEvent.requestPermission === 'function' && await DeviceMotionEvent.requestPermission() !== 'granted') {
+          $('motionNote').textContent = 'Motion access was not granted. Use touch dragging or Mix & draw instead.'; return;
+        }
+        window.addEventListener('devicemotion', onMotion); motionEnabled = true;
+        $('motion').textContent = 'Phone shake enabled ✓'; $('motion').disabled = true;
+        $('instruction').textContent = 'Shake your phone to mix';
+        $('motionNote').textContent = 'Waiting for your phone’s motion sensor…';
+        setTimeout(() => {
+          if (!motionReceived) $('motionNote').textContent = 'No motion data detected. Check browser motion settings, or use touch dragging or Mix & draw.';
+        }, 4000);
+      } catch {
+        $('motionNote').textContent = 'Motion access is unavailable. Try your browser’s motion settings, or use Mix & draw.';
+      }
+    });
+    function frame(now) {
+      const dt = Math.min((now-lastFrame)/16.667,2) || 1; lastFrame = now;
+      ctx.setTransform(2,0,0,2,0,0); ctx.clearRect(0,0,450,450);
+      const active = (state === 'drawing' || state === 'ready' && energy > 0) && !reducedMotion.matches;
+      particles.forEach(ball => {
+        if (!reducedMotion.matches) {
+          ball.vx += (Math.random()-.5) * (active ? 1.6 : .09) * dt;
+          ball.vy += (active ? (Math.random()-.5)*1.6 : .06) * dt;
+          ball.vx *= .995; ball.vy *= .995;
+          const speed = Math.hypot(ball.vx,ball.vy), max = active ? 8 : 1.3;
+          if (speed > max) { ball.vx *= max/speed; ball.vy *= max/speed; }
+          ball.x += ball.vx*dt; ball.y += ball.vy*dt;
+          const dx = ball.x-225, dy = ball.y-225, distance = Math.hypot(dx,dy), boundary = 214-ball.r;
+          if (distance > boundary) {
+            const nx = dx/distance, ny = dy/distance, dot = ball.vx*nx+ball.vy*ny;
+            ball.x = 225+nx*boundary; ball.y = 225+ny*boundary;
+            if (dot > 0) { ball.vx -= 1.9*dot*nx; ball.vy -= 1.9*dot*ny; }
+          }
+        }
+        ctx.beginPath(); ctx.arc(ball.x,ball.y,ball.r,0,Math.PI*2);
+        ctx.fillStyle = palette[(ball.number-1)%palette.length]; ctx.fill();
+        ctx.strokeStyle = '#243a311c'; ctx.lineWidth = 1; ctx.stroke();
+        ctx.beginPath(); ctx.arc(ball.x,ball.y,ball.r*.67,0,Math.PI*2); ctx.fillStyle = '#ffffffc9'; ctx.fill();
+        ctx.fillStyle = '#243a31'; ctx.font = `700 ${Math.max(8,ball.r*.68)}px system-ui`; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText(ball.number,ball.x,ball.y+.5);
+      });
+      ctx.beginPath(); ctx.arc(225,225,199,Math.PI*1.08,Math.PI*1.64); ctx.strokeStyle = '#ffffffa0'; ctx.lineWidth = 5; ctx.lineCap = 'round'; ctx.stroke();
+      requestAnimationFrame(frame);
+    }
+    reset(); requestAnimationFrame(frame);
+  </script>
+</body>
+</html>
