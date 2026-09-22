@@ -48,6 +48,8 @@ progress::-moz-progress-bar { background:var(--orange); }
 .primary { background:var(--orange); color:white; margin-top:22px; }
 .primary:hover:not(:disabled) { background:#d9512b; }
 .secondary { border:1px solid var(--line); background:transparent; color:var(--ink); margin-top:10px; }
+.sound-setting { display:flex; align-items:center; gap:10px; min-height:40px; margin-top:6px; }
+.sound-setting input,#settingsDialog .sound-setting input { width:18px; height:18px; padding:0; margin:0; accent-color:var(--orange); }
 .motion-note { font-size:11px; line-height:1.6; color:var(--muted); margin:10px 0 0; }
 .results { margin-top:38px; border-top:1px solid var(--line); padding:25px 0; }
 .result-heading { display:flex; align-items:center; justify-content:space-between; gap:16px; }
@@ -135,5 +137,6 @@ html:has(.results.sheet-open),body:has(.results.sheet-open) { touch-action:pan-y
   #settingsDialog .duration-label,#settingsDialog #mixDuration,#settingsDialog #settingsNote { grid-column:2; }
   #settingsDialog #motion { grid-column:1; margin:0; }
   #settingsDialog #motionNote { grid-column:2; margin:0; }
+  #settingsDialog .sound-setting { grid-column:1 / -1; margin:0; }
 }
 @media(prefers-reduced-motion:reduce) { .results { transition:none; } }

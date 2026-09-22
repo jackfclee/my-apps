@@ -11,6 +11,39 @@ let particles = [], selected = [], history = [], drawNumber = 0, lastFrame = 0;
 let animationToken = 0, lastPointer = null, lastMotion = 0, gravity = null;
 const settingsKey = 'lucky-motion.settings.v1';
 let mixSeconds = 5, motionPreferred = false, lastMovementCredit = 0;
+let soundEnabled = true, bounceAudio = null, bounceOutput = null, lastBounceSound = -Infinity;
+function unlockBounceAudio() {
+  if (!soundEnabled) return;
+  try {
+    const AudioContext = window.AudioContext || window.webkitAudioContext;
+    if (!AudioContext) return;
+    if (!bounceAudio) {
+      bounceAudio = new AudioContext();
+      bounceOutput = bounceAudio.createGain();
+      bounceOutput.gain.value = 1; bounceOutput.connect(bounceAudio.destination);
+    }
+    if (bounceAudio.state !== 'running') bounceAudio.resume().catch(() => {});
+  } catch { /* Audio is optional; the lottery remains usable without it. */ }
+}
+function playBounceSound(impact, now) {
+  if (!soundEnabled || !bounceAudio || bounceAudio.state !== 'running' || !bounceOutput ||
+      document.hidden || settingsOpen || !valid || state !== 'ready' || energy <= 0 ||
+      !motionEnabled || lastMotion <= 0 || now - lastMotion > 150 ||
+      (mobileLayout.matches && !mobileArmed) || impact < .5 || now - lastBounceSound < 75) return;
+  try {
+    const time = bounceAudio.currentTime;
+    const tone = bounceAudio.createOscillator(), envelope = bounceAudio.createGain();
+    tone.type = 'sine';
+    tone.frequency.setValueAtTime(260 + Math.random() * 180, time);
+    tone.frequency.exponentialRampToValueAtTime(100, time + .055);
+    envelope.gain.setValueAtTime(.0001, time);
+    envelope.gain.exponentialRampToValueAtTime(Math.min(.12, .025 + impact * .012), time + .003);
+    envelope.gain.exponentialRampToValueAtTime(.0001, time + .065);
+    tone.connect(envelope); envelope.connect(bounceOutput);
+    tone.onended = () => { tone.disconnect(); envelope.disconnect(); };
+    tone.start(time); tone.stop(time + .07); lastBounceSound = now;
+  } catch { /* A suspended or unavailable audio device must not stop animation. */ }
+}
 let trayHeight = 0, chamberY = 225, dropStarted = null;
 const dropFlight = 650;
 function releaseDelay(index) { return index * Math.min(65, 1400 / Math.max(1, total - 1)); }
@@ -43,7 +76,7 @@ function updateDrop(ball, now) {
 
 function saveSettings() {
   try {
-    localStorage.setItem(settingsKey, JSON.stringify({total, picks, mixSeconds, motionPreferred}));
+    localStorage.setItem(settingsKey, JSON.stringify({total, picks, mixSeconds, motionPreferred, soundEnabled}));
     $('settingsNote').textContent = 'Settings are remembered on this device.';
   } catch {
     $('settingsNote').textContent = 'Settings work for this visit, but this browser could not save them.';
@@ -59,12 +92,14 @@ function restoreSettings() {
       }
       if (Number.isInteger(saved.mixSeconds) && saved.mixSeconds >= 3 && saved.mixSeconds <= 12) mixSeconds = saved.mixSeconds;
       motionPreferred = saved.motionPreferred === true;
+      soundEnabled = saved.soundEnabled !== false;
     }
   } catch {
     $('settingsNote').textContent = 'Saved settings could not be read. Using defaults for this visit.';
   }
   $('total').value = total; $('picks').value = picks; $('picks').max = Math.min(total, 10);
   $('mixDuration').value = mixSeconds; updateDuration();
+  $('bounceSound').checked = soundEnabled;
 }
 function updateDuration() {
   $('durationValue').textContent = `${mixSeconds} seconds`;
@@ -259,6 +294,7 @@ function onMotion(event) {
   else lastMotion = 0;
 }
 async function enableMotion(fromClick = false) {
+  if (fromClick) unlockBounceAudio();
   if (motionEnabled) return;
   if (!window.isSecureContext || !window.DeviceMotionEvent) {
     $('motionNote').textContent = 'Phone motion needs a supported browser and HTTPS (or localhost). You can still drag or use Mix & draw.'; return;
@@ -295,6 +331,12 @@ $('motion').addEventListener('click', () => {
   saveSettings(); $('motion').textContent = 'Enable phone shake'; $('motion').setAttribute('aria-pressed', 'false');
   $('instruction').textContent = 'Move your mouse to mix';
   $('motionNote').textContent = 'Phone shake is off. Touch dragging and Mix & draw still work.';
+});
+$('bounceSound').addEventListener('change', () => {
+  soundEnabled = $('bounceSound').checked;
+  if (bounceOutput) bounceOutput.gain.value = soundEnabled ? 1 : 0;
+  if (soundEnabled) unlockBounceAudio();
+  saveSettings();
 });
 
 function setSheetOpen(open) {
@@ -452,7 +494,10 @@ function frame(now) {
       if (distance > boundary) {
         const nx = dx/distance, ny = dy/distance, dot = ball.vx*nx+ball.vy*ny;
         ball.x = 225+nx*boundary; ball.y = chamberY+ny*boundary;
-        if (dot > 0) { ball.vx -= 1.9*dot*nx; ball.vy -= 1.9*dot*ny; }
+        if (dot > 0) {
+          ball.vx -= 1.9*dot*nx; ball.vy -= 1.9*dot*ny;
+          playBounceSound(dot, now);
+        }
       }
     }
     ctx.beginPath(); ctx.arc(ball.x,ball.y,ball.r,0,Math.PI*2);

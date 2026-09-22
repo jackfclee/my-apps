@@ -332,3 +332,52 @@ test('scrolling results does not dismiss the sheet and only single-finger conten
   a.listeners.get('touchmove')({target:{closest(){return null;}},touches:[{}],preventDefault(){prevented=true;}});
   assert.equal(prevented,true);
 });
+
+const fakeAudio = `
+  let audioStarts = 0, audioResumes = 0;
+  window.AudioContext = class {
+    constructor() { this.state = 'suspended'; this.currentTime = 1; this.destination = {}; }
+    resume() { this.state = 'running'; audioResumes++; return Promise.resolve(); }
+    createGain() { return {gain:{value:1,setValueAtTime(){},exponentialRampToValueAtTime(){}},connect(){},disconnect(){}}; }
+    createOscillator() { return {frequency:{setValueAtTime(){},exponentialRampToValueAtTime(){}},connect(){},disconnect(){},start(){audioStarts++;},stop(){}}; }
+  };
+`;
+
+test('bounce audio requires active shaking and throttles repeated wall impacts', () => {
+  const a = app({mobile:true});
+  a.run(fakeAudio);
+  a.run('unlockBounceAudio(); playBounceSound(5,1000)');
+  assert.equal(a.run('audioResumes'),1);
+  assert.equal(a.run('audioStarts'),0);
+  a.run('motionEnabled = true; mobileArmed = true; energy = 20; lastMotion = 1000; playBounceSound(5,1000)');
+  assert.equal(a.run('audioStarts'),1);
+  a.run('playBounceSound(5,1020)');
+  assert.equal(a.run('audioStarts'),1);
+  a.run('playBounceSound(5,1080)');
+  assert.equal(a.run('audioStarts'),2);
+  a.run('playBounceSound(5,1400)');
+  assert.equal(a.run('audioStarts'),2);
+  a.run('lastMotion = 1400; settingsOpen = true; playBounceSound(5,1400)');
+  assert.equal(a.run('audioStarts'),2);
+  a.run('settingsOpen = false; state = "done"; playBounceSound(5,1400)');
+  assert.equal(a.run('audioStarts'),2);
+});
+
+test('sound preference is saved and muting blocks sounds without breaking unsupported devices', () => {
+  const a = app({mobile:true});
+  a.run('unlockBounceAudio()'); // No Web Audio implementation: no crash.
+  a.run(fakeAudio);
+  a.run('unlockBounceAudio(); motionEnabled = true; mobileArmed = true; energy = 20; lastMotion = 1000');
+  a.element('bounceSound').checked = false;
+  a.element('bounceSound').listeners.change();
+  a.run('playBounceSound(5,1000)');
+  assert.equal(a.run('audioStarts'),0);
+  assert.equal(a.run('bounceOutput.gain.value'),0);
+  assert.equal(a.saved().soundEnabled,false);
+  const b = app({saved:JSON.stringify(a.saved())});
+  assert.equal(b.element('bounceSound').checked,false);
+  a.element('bounceSound').checked = true;
+  a.element('bounceSound').listeners.change();
+  a.run('playBounceSound(5,1000)');
+  assert.equal(a.run('audioStarts'),1);
+});
