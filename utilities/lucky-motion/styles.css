@@ -31,6 +31,11 @@ label { font-size:12px; font-weight:600; display:block; }
 label small { display:block; font-weight:400; color:var(--muted); margin-top:5px; }
 input { width:100%; border:1px solid var(--line); border-radius:10px; padding:12px; margin-top:10px; color:var(--ink); background:var(--paper); font-size:23px; font-weight:650; }
 .error { color:#a23320; font-size:12px; line-height:1.5; min-height:18px; margin:8px 0; }
+.duration-label { display:flex; justify-content:space-between; gap:12px; }
+.duration-label output { color:var(--muted); font-weight:400; }
+input[type="range"] { padding:0; height:24px; accent-color:var(--orange); cursor:pointer; }
+.duration-help { margin-top:2px; }
+#settingsNote { margin-bottom:18px; }
 .instruction { border-top:1px solid var(--line); padding-top:18px; font-size:13px; line-height:1.6; }
 .instruction strong { display:block; font-size:14px; }
 .instruction p { margin:5px 0 18px; color:var(--muted); }

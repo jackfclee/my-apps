@@ -31,11 +31,15 @@
           <label for="picks">Balls to pick <small>X unique numbers</small><input id="picks" type="number" min="1" max="49" step="1" value="6" inputmode="numeric" aria-describedby="error"></label>
         </div>
         <p class="error" id="error" role="alert"></p>
+        <label class="duration-label" for="mixDuration">Mixing duration <output id="durationValue" for="mixDuration">5 seconds</output></label>
+        <input id="mixDuration" type="range" min="3" max="30" step="1" value="5" aria-describedby="durationHelp">
+        <p class="motion-note duration-help" id="durationHelp">Seconds of active movement before a draw. Pauses keep your progress. The button mixes automatically.</p>
+        <p class="motion-note" id="settingsNote" role="status">Settings are remembered on this device.</p>
         <div class="instruction"><strong id="instruction">Move your mouse to mix</strong><p>Move around this page, shake your phone, or use the button. Fill the meter to draw.</p></div>
         <div class="meter-label"><span id="mixLabel">Waiting for a little movement</span><span id="percent">0%</span></div>
         <progress id="energy" max="100" value="0" aria-label="Mixing progress"></progress>
         <button class="primary" id="draw" type="button">Mix & draw <span aria-hidden="true">↗</span></button>
-        <button class="secondary" id="motion" type="button">Enable phone shake</button>
+        <button class="secondary" id="motion" type="button" aria-pressed="false">Enable phone shake</button>
         <p class="motion-note" id="motionNote" role="status">On a phone, enable motion access first. Touch dragging also works.</p>
       </section>
     </div>
@@ -45,7 +49,7 @@
       <p id="announcement" role="status" class="motion-note"></p>
       <div class="history" id="history" hidden><h3>PREVIOUS DRAWS · THIS SESSION</h3><div id="historyRows"></div></div>
     </section>
-    <footer><span>Fair picks. No duplicates. Just possibility.</span><span>No accounts, no uploads, no data leaves this page.</span></footer>
+    <footer><span>Fair picks. No duplicates. Just possibility.</span></footer>
   </main>
   <script src="script.js"></script>
 </body>

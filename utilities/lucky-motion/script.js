@@ -6,6 +6,46 @@ const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
 let total = 49, picks = 6, energy = 0, state = 'ready', valid = true;
 let particles = [], selected = [], history = [], drawNumber = 0, lastFrame = 0;
 let animationToken = 0, lastPointer = null, lastMotion = 0, gravity = null;
+const settingsKey = 'lucky-motion.settings.v1';
+let mixSeconds = 5, motionPreferred = false, lastMovementCredit = 0;
+
+function saveSettings() {
+  try {
+    localStorage.setItem(settingsKey, JSON.stringify({total, picks, mixSeconds, motionPreferred}));
+    $('settingsNote').textContent = 'Settings are remembered on this device.';
+  } catch {
+    $('settingsNote').textContent = 'Settings work for this visit, but this browser could not save them.';
+  }
+}
+function restoreSettings() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(settingsKey));
+    if (saved && typeof saved === 'object') {
+      if (Number.isInteger(saved.total) && saved.total >= 1 && saved.total <= 500 &&
+          Number.isInteger(saved.picks) && saved.picks >= 1 && saved.picks <= saved.total) {
+        total = saved.total; picks = saved.picks;
+      }
+      if (Number.isInteger(saved.mixSeconds) && saved.mixSeconds >= 3 && saved.mixSeconds <= 30) mixSeconds = saved.mixSeconds;
+      motionPreferred = saved.motionPreferred === true;
+    }
+  } catch {
+    $('settingsNote').textContent = 'Saved settings could not be read. Using defaults for this visit.';
+  }
+  $('total').value = total; $('picks').value = picks; $('picks').max = total;
+  $('mixDuration').value = mixSeconds; updateDuration();
+}
+function updateDuration() {
+  $('durationValue').textContent = `${mixSeconds} seconds`;
+  $('mixDuration').setAttribute('aria-valuetext', `${mixSeconds} seconds`);
+}
+// Credit only closely spaced movement events, never idle time or both sensors twice.
+function recordMovement(now, previous) {
+  if (previous !== null && now - previous <= 200) {
+    const elapsed = Math.max(0, Math.min(now - previous, now - lastMovementCredit));
+    addEnergy(elapsed / (mixSeconds * 1000) * 100);
+  }
+  lastMovementCredit = now;
+}
 
 // Rejection sampling avoids modulo bias; partial Fisher–Yates avoids duplicates.
 function randomBelow(limit) {
@@ -42,7 +82,8 @@ function showPlaceholders() {
 }
 function reset() {
   animationToken++; state = 'ready'; energy = 0; selected = []; lastPointer = null;
-  $('total').disabled = $('picks').disabled = false;
+  lastMotion = 0; gravity = null; lastMovementCredit = performance.now();
+  $('total').disabled = $('picks').disabled = $('mixDuration').disabled = false;
   $('draw').disabled = !valid; $('draw').textContent = 'Mix & draw ↗';
   $('stateTag').textContent = 'READY'; $('announcement').textContent = '';
   $('resultMeta').textContent = 'The next draw is yours.';
@@ -56,7 +97,7 @@ function configure() {
   $('total').setAttribute('aria-invalid', String(!Number.isInteger(n) || n < 1 || n > 500));
   $('picks').setAttribute('aria-invalid', String(!Number.isInteger(x) || x < 1 || x > n));
   $('draw').disabled = !valid;
-  if (valid) { total = n; picks = x; $('picks').max = n; reset(); }
+  if (valid) { total = n; picks = x; $('picks').max = n; saveSettings(); reset(); }
   else { energy = 0; updateMeter(); }
 }
 function addEnergy(amount) {
@@ -68,11 +109,11 @@ function addEnergy(amount) {
 function startDraw() {
   if (!valid || state !== 'ready') return;
   state = 'drawing'; const token = ++animationToken;
-  $('draw').disabled = $('total').disabled = $('picks').disabled = true;
+  $('draw').disabled = $('total').disabled = $('picks').disabled = $('mixDuration').disabled = true;
   $('stateTag').textContent = 'MIXING'; $('draw').textContent = 'Mixing your numbers…';
   $('results').replaceChildren(); $('announcement').textContent = 'Mixing the balls…';
   const started = performance.now(), startingEnergy = energy;
-  const duration = reducedMotion.matches ? 150 : 1400;
+  const duration = Math.max(1, mixSeconds * 1000 * (1 - startingEnergy / 100));
   function mix(now) {
     if (token !== animationToken) return;
     const fraction = Math.min(1, (now - started) / duration);
@@ -93,7 +134,7 @@ function reveal(token) {
   });
   state = 'done'; drawNumber++;
   $('stateTag').textContent = 'DRAWN'; $('draw').disabled = false; $('draw').textContent = 'Start a new draw ↻';
-  $('total').disabled = $('picks').disabled = false;
+  $('total').disabled = $('picks').disabled = $('mixDuration').disabled = false;
   $('resultMeta').textContent = `Draw ${String(drawNumber).padStart(2,'0')} · ${picks} of ${total}`;
   $('announcement').textContent = `Draw complete. Selected numbers: ${selected.join(', ')}.`;
   $('stageCaption').textContent = 'A little movement. A brand new possibility.';
@@ -111,20 +152,27 @@ function renderHistory() {
   });
 }
 $('total').addEventListener('input', configure); $('picks').addEventListener('input', configure);
+$('mixDuration').addEventListener('input', () => {
+  mixSeconds = Number($('mixDuration').value); updateDuration(); saveSettings(); reset();
+});
 $('draw').addEventListener('click', () => state === 'done' ? reset() : startDraw());
 document.addEventListener('pointermove', event => {
+  if (event.target.closest('input, button, label')) { lastPointer = null; return; }
   if (event.pointerType === 'touch' && !event.buttons) return;
+  const now = performance.now();
   if (lastPointer && lastPointer.id === event.pointerId) {
     const distance = Math.hypot(event.clientX-lastPointer.x, event.clientY-lastPointer.y);
-    addEnergy(Math.min(distance, 80) / 18);
+    if (distance >= 1) recordMovement(now, lastPointer.time);
   }
-  lastPointer = {x:event.clientX, y:event.clientY, id:event.pointerId};
+  lastPointer = {x:event.clientX, y:event.clientY, id:event.pointerId, time:now};
 });
 document.addEventListener('pointerup', () => { lastPointer = null; });
 document.documentElement.addEventListener('pointerleave', () => { lastPointer = null; });
-document.addEventListener('visibilitychange', () => { lastPointer = null; gravity = null; lastMotion = 0; });
+document.addEventListener('visibilitychange', () => { lastPointer = null; gravity = null; lastMotion = 0; lastMovementCredit = performance.now(); });
 let motionEnabled = false, motionReceived = false;
+let motionTimer;
 function onMotion(event) {
+  if (document.hidden) { lastMotion = 0; gravity = null; return; }
   const now = performance.now();
   const a = event.acceleration, g = event.accelerationIncludingGravity;
   let strength = 0;
@@ -134,28 +182,45 @@ function onMotion(event) {
     gravity = {x:g.x,y:g.y,z:g.z};
   } else return;
   if (!motionReceived) { motionReceived = true; $('motionNote').textContent = 'Motion connected. Gently shake your phone to fill the meter.'; }
-  const elapsed = lastMotion ? Math.min((now-lastMotion)/1000,.1) : 0; lastMotion = now;
-  if (strength > 3) addEnergy(Math.min(strength-3,25) * elapsed * 2.5);
+  if (strength > 3) { recordMovement(now, lastMotion || null); lastMotion = now; }
+  else lastMotion = 0;
 }
-$('motion').addEventListener('click', async () => {
+async function enableMotion(fromClick = false) {
   if (motionEnabled) return;
   if (!window.isSecureContext || !window.DeviceMotionEvent) {
     $('motionNote').textContent = 'Phone motion needs a supported browser and HTTPS (or localhost). You can still drag or use Mix & draw.'; return;
   }
+  if (!fromClick && typeof DeviceMotionEvent.requestPermission === 'function') {
+    $('motion').textContent = 'Resume phone shake';
+    $('motionNote').textContent = 'Phone shake is remembered. Tap Resume phone shake to allow sensor access for this visit.';
+    return;
+  }
+  $('motion').disabled = true;
   try {
     if (typeof DeviceMotionEvent.requestPermission === 'function' && await DeviceMotionEvent.requestPermission() !== 'granted') {
       $('motionNote').textContent = 'Motion access was not granted. Use touch dragging or Mix & draw instead.'; return;
     }
     window.addEventListener('devicemotion', onMotion); motionEnabled = true;
-    $('motion').textContent = 'Phone shake enabled ✓'; $('motion').disabled = true;
+    motionPreferred = true; saveSettings();
+    $('motion').textContent = 'Disable phone shake'; $('motion').setAttribute('aria-pressed', 'true');
     $('instruction').textContent = 'Shake your phone to mix';
     $('motionNote').textContent = 'Waiting for your phone’s motion sensor…';
-    setTimeout(() => {
-      if (!motionReceived) $('motionNote').textContent = 'No motion data detected. Check browser motion settings, or use touch dragging or Mix & draw.';
+    motionTimer = setTimeout(() => {
+      if (motionEnabled && !motionReceived) $('motionNote').textContent = 'No motion data detected. Check browser motion settings, or use touch dragging or Mix & draw.';
     }, 4000);
   } catch {
     $('motionNote').textContent = 'Motion access is unavailable. Try your browser’s motion settings, or use Mix & draw.';
+  } finally {
+    $('motion').disabled = false;
   }
+}
+$('motion').addEventListener('click', () => {
+  if (!motionEnabled) { enableMotion(true); return; }
+  window.removeEventListener('devicemotion', onMotion); clearTimeout(motionTimer);
+  motionEnabled = false; motionPreferred = false; motionReceived = false; lastMotion = 0; gravity = null;
+  saveSettings(); $('motion').textContent = 'Enable phone shake'; $('motion').setAttribute('aria-pressed', 'false');
+  $('instruction').textContent = 'Move your mouse to mix';
+  $('motionNote').textContent = 'Phone shake is off. Touch dragging and Mix & draw still work.';
 });
 function frame(now) {
   const dt = Math.min((now-lastFrame)/16.667,2) || 1; lastFrame = now;
@@ -185,4 +250,6 @@ function frame(now) {
   ctx.beginPath(); ctx.arc(225,225,199,Math.PI*1.08,Math.PI*1.64); ctx.strokeStyle = '#ffffffa0'; ctx.lineWidth = 5; ctx.lineCap = 'round'; ctx.stroke();
   requestAnimationFrame(frame);
 }
-reset(); requestAnimationFrame(frame);
+restoreSettings(); reset();
+if (motionPreferred) enableMotion();
+requestAnimationFrame(frame);
