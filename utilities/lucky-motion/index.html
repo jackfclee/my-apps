@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f3eb">
+  <title>Lucky Motion</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
+  <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
+  <link rel="manifest" href="assets/site.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+<script defer src="../../pwa.js"></script>
+</head>
+<body>
+  <header><div class="brand"><span aria-hidden="true">✳</span> lucky motion</div><div class="local">100% on your device</div></header>
+  <main>
+    <div class="eyebrow">A little movement. A little luck.</div>
+    <h1>Give chance a <em>shake.</em></h1>
+    <p class="intro">Your very own lottery machine. Set the numbers, mix things up, and see what comes out.</p>
+    <div class="layout">
+      <section class="stage" aria-label="Animated lottery machine">
+        <div class="machine"><canvas id="machine" width="900" height="900" aria-label="Numbered balls mixing in a round lottery machine"></canvas><div class="base">THE CHANCE MACHINE</div></div>
+        <p class="stage-caption" id="stageCaption">49 possibilities. 6 lucky picks.</p>
+      </section>
+      <section class="card" aria-labelledby="setupHeading">
+        <div class="card-head"><h2 id="setupHeading">Make it your draw</h2><span class="tag" id="stateTag">READY</span></div>
+        <div class="fields">
+          <label for="total">Total balls <small>Numbered 1 to N</small><input id="total" type="number" min="1" max="500" step="1" value="49" inputmode="numeric" aria-describedby="error"></label>
+          <label for="picks">Balls to pick <small>X unique numbers</small><input id="picks" type="number" min="1" max="49" step="1" value="6" inputmode="numeric" aria-describedby="error"></label>
+        </div>
+        <p class="error" id="error" role="alert"></p>
+        <div class="instruction"><strong id="instruction">Move your mouse to mix</strong><p>Move around this page, shake your phone, or use the button. Fill the meter to draw.</p></div>
+        <div class="meter-label"><span id="mixLabel">Waiting for a little movement</span><span id="percent">0%</span></div>
+        <progress id="energy" max="100" value="0" aria-label="Mixing progress"></progress>
+        <button class="primary" id="draw" type="button">Mix & draw <span aria-hidden="true">↗</span></button>
+        <button class="secondary" id="motion" type="button">Enable phone shake</button>
+        <p class="motion-note" id="motionNote" role="status">On a phone, enable motion access first. Touch dragging also works.</p>
+      </section>
+    </div>
+    <section class="results" aria-labelledby="resultsHeading">
+      <div class="result-heading"><h2 id="resultsHeading">Your lucky numbers</h2><span id="resultMeta">The next draw is yours.</span></div>
+      <div class="balls" id="results"></div>
+      <p id="announcement" role="status" class="motion-note"></p>
+      <div class="history" id="history" hidden><h3>PREVIOUS DRAWS · THIS SESSION</h3><div id="historyRows"></div></div>
+    </section>
+    <footer><span>Fair picks. No duplicates. Just possibility.</span><span>No accounts, no uploads, no data leaves this page.</span></footer>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

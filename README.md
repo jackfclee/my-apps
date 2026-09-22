@@ -26,6 +26,7 @@
 - [CsvViewer @ jackfclee](https://jackfclee.github.io/my-apps/utilities/csv-viewer/)
 - [FX Charts @ jackfclee](https://jackfclee.github.io/my-apps/utilities/fx-charts)
 - [ImgViewer @ jackfclee](https://jackfclee.github.io/my-apps/utilities/img-viewer/)
+- [LuckyMotion @ jackfclee](https://jackfclee.github.io/my-apps/utilities/lucky-motion/)
 - [QR Code @ jackfclee](https://jackfclee.github.io/my-apps/utilities/qrcode)
 - [Stock Buy/Sell Calculator @ jackfclee](https://jackfclee.github.io/my-apps/utilities/stock-calculator)
 - [Stock Price Quote @ jackfclee](https://jackfclee.github.io/my-apps/utilities/stock-quote)
