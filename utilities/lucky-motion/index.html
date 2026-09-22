@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f5f3eb">
   <title>Lucky Motion</title>
   <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
@@ -14,21 +14,21 @@
 <script defer src="../../pwa.js"></script>
 </head>
 <body>
-  <header><div class="brand"><span aria-hidden="true">7</span> lucky motion</div><div class="local">100% on your device</div></header>
+  <header><div class="brand"><span aria-hidden="true">7</span> lucky motion</div><div class="local">100% on your device</div><button id="openSettings" class="settings-button" type="button" aria-label="Open draw settings" aria-haspopup="dialog" aria-controls="settingsDialog"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"><polygon points="21.91,10.69 21.91,13.31 19.53,14.02 18.75,15.90 19.93,18.09 18.09,19.93 15.90,18.75 14.02,19.53 13.31,21.91 10.69,21.91 9.98,19.53 8.10,18.75 5.91,19.93 4.07,18.09 5.25,15.90 4.47,14.02 2.09,13.31 2.09,10.69 4.47,9.98 5.25,8.10 4.07,5.91 5.91,4.07 8.10,5.25 9.98,4.47 10.69,2.09 13.31,2.09 14.02,4.47 15.90,5.25 18.09,4.07 19.93,5.91 18.75,8.10 19.53,9.98"/><circle cx="12" cy="12" r="3.2"/></svg></button></header>
   <main>
     <div class="eyebrow">A little movement. A little luck.</div>
     <h1>Give chance a <em>shake.</em></h1>
     <p class="intro">Your very own lottery machine. Set the numbers, mix things up, and see what comes out.</p>
-    <div class="layout">
+    <div class="layout" id="mainLayout">
       <section class="stage" aria-label="Animated lottery machine">
         <div class="machine"><canvas id="machine" width="900" height="900" aria-label="Numbered balls mixing in a round lottery machine"></canvas><div class="base">THE CHANCE MACHINE</div></div>
         <p class="stage-caption" id="stageCaption">49 possibilities. 6 lucky picks.</p>
       </section>
-      <section class="card" aria-labelledby="setupHeading">
+      <section class="card" id="setupCard" aria-labelledby="setupHeading">
         <div class="card-head"><h2 id="setupHeading">Make it your draw</h2><span class="tag" id="stateTag">READY</span></div>
         <div class="fields">
           <label for="total">Total balls <small>Numbered 1 to N</small><input id="total" type="number" min="1" max="500" step="1" value="49" inputmode="numeric" aria-describedby="error"></label>
-          <label for="picks">Balls to pick <small>X unique numbers</small><input id="picks" type="number" min="1" max="49" step="1" value="6" inputmode="numeric" aria-describedby="error"></label>
+          <label for="picks">Balls to pick <small>Up to 10 unique numbers</small><input id="picks" type="number" min="1" max="10" step="1" value="6" inputmode="numeric" aria-describedby="error"></label>
         </div>
         <p class="error" id="error" role="alert"></p>
         <label class="duration-label" for="mixDuration">Mixing duration <output id="durationValue" for="mixDuration">5 seconds</output></label>
@@ -43,14 +43,27 @@
         <p class="motion-note" id="motionNote" role="status">On a phone, enable motion access first. Touch dragging also works.</p>
       </section>
     </div>
-    <section class="results" aria-labelledby="resultsHeading">
+    <div class="mobile-controls" id="mobileControls">
+      <p id="mobileSummary"></p>
+      <p id="mobileHint" role="status">Double-tap the machine to start</p>
+      <progress id="mobileEnergy" max="100" value="0" aria-label="Mixing progress"></progress>
+      <button id="mobileAuto" type="button">Mix automatically</button>
+    </div>
+    <section class="results" id="resultSheet" aria-labelledby="resultsHeading">
+      <button class="sheet-handle" id="sheetToggle" type="button" aria-expanded="false" aria-controls="sheetContent"><span aria-hidden="true"></span><span id="sheetLabel">Results will appear here</span></button>
+      <div id="sheetContent" tabindex="0" role="region" aria-label="Latest result and previous draws">
       <div class="result-heading"><h2 id="resultsHeading">Your lucky numbers</h2><span id="resultMeta">The next draw is yours.</span></div>
       <div class="balls" id="results"></div>
       <p id="announcement" role="status" class="motion-note"></p>
-      <div class="history" id="history" hidden><h3>PREVIOUS DRAWS · THIS SESSION</h3><div id="historyRows"></div></div>
+      <div class="history" id="history" hidden><h3>PREVIOUS DRAWS · LAST 5 THIS SESSION</h3><div id="historyRows"></div></div>
+      </div>
     </section>
     <footer><span>Fair picks. No duplicates. Just possibility.</span></footer>
   </main>
+  <dialog id="settingsDialog" aria-labelledby="settingsTitle">
+    <div class="settings-heading"><h2 id="settingsTitle">Draw settings</h2><button id="closeSettings" type="button" autofocus>Done</button></div>
+    <div id="settingsBody"></div>
+  </dialog>
   <script src="script.js"></script>
 </body>
 </html>

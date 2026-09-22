@@ -52,15 +52,88 @@ progress::-moz-progress-bar { background:var(--orange); }
 .results { margin-top:38px; border-top:1px solid var(--line); padding:25px 0; }
 .result-heading { display:flex; align-items:center; justify-content:space-between; gap:16px; }
 .result-heading span { color:var(--muted); font-size:12px; }
-.balls { display:flex; flex-wrap:wrap; gap:12px; margin-top:22px; min-height:62px; }
-.result-ball { width:60px; height:60px; display:grid; place-items:center; border-radius:50%; font-size:21px; font-weight:750; color:var(--ink); background:#e7eddf; box-shadow:inset -3px -4px 0 #0000000c; animation:appear .35s ease-out both; }
+.balls { display:grid; grid-template-columns:repeat(var(--ball-count,6),minmax(0,60px)); gap:clamp(3px,1vw,12px); margin-top:22px; min-height:62px; align-items:center; }
+.result-ball { width:100%; height:auto; aspect-ratio:1; display:grid; place-items:center; border-radius:50%; font-size:21px; font-weight:750; color:var(--ink); background:#e7eddf; box-shadow:inset -3px -4px 0 #0000000c; animation:appear .35s ease-out both; }
 .placeholder { border:1px dashed #c9d0c2; background:transparent; box-shadow:none; color:#a8b2a1; }
 .history { margin-top:24px; padding-top:20px; border-top:1px solid var(--line); }
 .history h3 { font-size:12px; margin:0 0 12px; color:var(--muted); }
-.history-row { display:flex; gap:18px; font-size:12px; padding:8px 0; line-height:1.6; }
+.history-row { font-size:12px; padding:14px 0; line-height:1.6; border-bottom:1px solid var(--line); }
+.history-row:last-child { border-bottom:0; }
+.history-heading { display:flex; justify-content:space-between; gap:12px; color:var(--muted); }
+.history-balls { margin-top:10px; min-height:0; }
+.history-balls .result-ball { animation:none; }
 .history-row time { color:var(--muted); flex-shrink:0; }
 .history-row span { overflow-wrap:anywhere; }
 footer { display:flex; justify-content:space-between; gap:20px; font-size:11px; color:var(--muted); padding:20px 0; border-top:1px solid var(--line); line-height:1.7; }
 @keyframes appear { from { opacity:0; transform:translateY(12px) scale(.8); } to { opacity:1; transform:none; } }
 @media(max-width:700px) { header { padding:20px; } .local { font-size:9px; letter-spacing:.7px; } main { padding:30px 20px 12px; } .layout { grid-template-columns:1fr; gap:26px; } .machine { width:min(85%,360px); } h1 { letter-spacing:-1.8px; } .card { padding:22px; } footer { flex-direction:column; gap:3px; } .results { margin-top:28px; } }
 @media(prefers-reduced-motion:reduce) { .result-ball { animation:none; } }
+
+.mobile-controls,.sheet-handle,.settings-button { display:none; }
+.settings-button svg { display:block; width:24px; height:24px; }
+#settingsDialog { width:min(440px,calc(100% - 24px)); max-height:calc(100dvh - 24px); padding:16px; border:1px solid var(--line); border-radius:20px; background:#fffef8; color:var(--ink); overflow:auto; overscroll-behavior:contain; touch-action:pan-y; }
+#settingsDialog::backdrop { background:#172b2380; }
+.settings-heading { display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom:14px; }
+#closeSettings { min-height:44px; padding:8px 16px; border:0; border-radius:10px; background:var(--orange); color:white; font-weight:650; }
+#settingsDialog .card { display:block; padding:0; border:0; box-shadow:none; background:transparent; }
+#settingsDialog .card-head,#settingsDialog .instruction,#settingsDialog .meter-label,#settingsDialog #energy,#settingsDialog #draw,#settingsDialog #durationHelp { display:none; }
+#settingsDialog input { padding:8px 10px; margin-top:6px; font-size:20px; }
+#settingsDialog input[type="range"] { padding:0; }
+#settingsDialog #settingsNote { margin:6px 0; }
+#settingsDialog #motion { margin-top:8px; }
+html:has(#settingsDialog[open]),body:has(#settingsDialog[open]) { touch-action:manipulation; }
+html:has(.results.sheet-open),body:has(.results.sheet-open) { touch-action:pan-y; }
+@media (max-width:700px), (pointer:coarse) and (max-width:1100px) {
+  html,body { width:100%; height:100%; overflow:hidden; overscroll-behavior:none; touch-action:none; }
+  body { position:fixed; inset:0; height:100dvh; display:flex; flex-direction:column; user-select:none; -webkit-user-select:none; }
+  header { flex:none; width:100%; padding:calc(10px + env(safe-area-inset-top)) 18px 10px; }
+  .brand { font-size:17px; } .brand span { width:26px; height:26px; }
+  .local { font-size:8px; letter-spacing:.5px; }
+  header .local { margin-left:auto; margin-right:8px; }
+  .settings-button { display:grid; place-items:center; width:40px; height:40px; padding:0; line-height:1; appearance:none; flex:none; border:1px solid var(--line); border-radius:12px; background:#fffef8; color:var(--ink); font-size:24px; }
+  main { flex:1; min-height:0; width:100%; padding:10px 16px calc(60px + env(safe-area-inset-bottom)); display:flex; flex-direction:column; overflow:hidden; }
+  .eyebrow,.intro,.card,footer,.stage-caption { display:none; }
+  h1 { flex:none; font-size:30px; text-align:center; margin:0 0 8px; letter-spacing:-1px; }
+  .layout { display:flex; flex:1; min-height:0; margin:0; }
+  .stage { width:100%; height:100%; min-height:0; }
+  .machine { width:100%; height:100%; margin:0; }
+  canvas { width:100%; height:100%; object-fit:contain; }
+  .base { display:none; }
+  .mobile-controls { display:block; flex:none; text-align:center; padding-top:6px; }
+  #mobileSummary { margin:0; font-size:11px; color:var(--muted); }
+  #mobileHint { font-size:13px; margin:6px 0; min-height:18px; }
+  #mobileEnergy { max-width:320px; margin:auto; }
+  #mobileAuto { border:0; color:var(--ink); background:transparent; font-size:12px; min-height:38px; padding:8px 16px; }
+  .results { position:fixed; z-index:5; bottom:0; left:0; width:100%; height:67dvh; margin:0; padding:0 16px env(safe-area-inset-bottom); background:#fffef8; border:1px solid var(--line); border-radius:24px 24px 0 0; box-shadow:0 -8px 35px #243a3120; transform:translateY(calc(100% - 48px - env(safe-area-inset-bottom))); transition:transform .25s ease; display:flex; flex-direction:column; overflow:hidden; touch-action:none; }
+  .results.sheet-open { transform:translateY(0); touch-action:pan-y; }
+  .sheet-handle { display:flex; flex:none; height:48px; width:100%; align-items:center; justify-content:center; flex-direction:column; gap:6px; border:0; background:transparent; color:var(--muted); font-size:11px; }
+  .sheet-handle > span:first-child { width:36px; height:4px; background:#c4cdbd; border-radius:10px; }
+  .sheet-handle { touch-action:none; }
+  #sheetContent { display:flex; flex:1; min-height:0; flex-direction:column; padding:0 0 16px; overflow-y:auto; overflow-x:hidden; overscroll-behavior:contain; touch-action:pan-y; }
+  .result-heading { flex:none; min-height:34px; gap:8px; }
+  .result-heading h2 { font-size:18px; } .result-heading span { font-size:10px; }
+  .balls { flex:none; min-height:0; margin:16px 0; display:grid; grid-template-columns:repeat(var(--ball-count,6),minmax(0,64px)); grid-template-rows:auto; gap:3px; place-items:center; align-content:center; justify-content:center; }
+  .result-ball { width:100%; height:auto; max-width:64px; aspect-ratio:1; font-size:clamp(8px,calc(28vw / var(--ball-count,6)),24px); }
+  #announcement { display:none; }
+  .history { flex:none; margin-top:12px; padding-top:16px; }
+  .history:not([hidden]) { display:block; }
+  .history-row .balls { margin:10px 0 0; }
+}
+@media (pointer:coarse) and (max-width:1100px) and (orientation:landscape), (max-width:700px) and (orientation:landscape) {
+  header { padding-top:4px; padding-bottom:4px; }
+  h1 { display:none; }
+  main { flex-direction:row; gap:16px; padding-top:4px; }
+  .layout { flex:1; } .mobile-controls { flex:1; align-self:center; }
+  .balls { margin:3px 0; }
+  .sheet-handle { height:36px; gap:3px; }
+  .result-heading { min-height:24px; }
+  #settingsDialog { width:min(660px,calc(100% - 24px)); padding:10px 16px; }
+  #settingsDialog .settings-heading { margin-bottom:4px; }
+  #settingsDialog .card { display:grid; grid-template-columns:1fr 1fr; column-gap:20px; align-items:center; }
+  #settingsDialog .fields { grid-column:1; grid-row:1 / 4; }
+  #settingsDialog .error { grid-column:1; grid-row:4; }
+  #settingsDialog .duration-label,#settingsDialog #mixDuration,#settingsDialog #settingsNote { grid-column:2; }
+  #settingsDialog #motion { grid-column:1; margin:0; }
+  #settingsDialog #motionNote { grid-column:2; margin:0; }
+}
+@media(prefers-reduced-motion:reduce) { .results { transition:none; } }
