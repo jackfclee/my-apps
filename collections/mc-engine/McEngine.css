@@ -314,7 +314,7 @@ body {
 
 .dashboard-grid {
   display: grid;
-  grid-template-columns: 1.1fr 0.9fr;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 8px;
   min-height: 0;
 }
@@ -409,13 +409,34 @@ body {
 }
 
 .question-text {
-  white-space: break-spaces;
+  white-space: normal;
   overflow-wrap: anywhere;
 }
 
 .question-text p,
 .optionPara {
-  margin: 0 0 0.75rem;
+  margin: 0 0 0.3rem;
+}
+
+/* Markdown supplies paragraph/list breaks; HTML whitespace must not add more. */
+.question-text ul,
+.question-text ol,
+.form-check-label ul,
+.form-check-label ol {
+  margin: 0 0 0.3rem;
+  padding-left: 1.5rem;
+}
+
+.question-text li + li,
+.form-check-label li + li {
+  margin-top: 0.2rem;
+}
+
+.question-text > div > :last-child,
+.form-check-label > div > :last-child,
+.question-text li > :last-child,
+.form-check-label li > :last-child {
+  margin-bottom: 0;
 }
 
 #answersForm {
@@ -456,7 +477,7 @@ body {
   gap: 10px;
   width: 100%;
   align-items: flex-start;
-  white-space: pre-wrap;
+  white-space: normal;
   color: #111827;
   margin-left: 0;
 }
@@ -497,6 +518,10 @@ body {
 .option-review {
   width: 100%;
   min-width: 0;
+}
+
+.option-review:not(:has(> :not([hidden]))) {
+  display: none;
 }
 
 .option-verdict {

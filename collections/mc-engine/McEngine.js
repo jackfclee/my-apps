@@ -343,7 +343,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
 
     displayedOptions.forEach((option, index) => {
       // Convert Markdown in option.detail to HTML
-      const detailHTML = marked.parse(option.detail);
+      const detailHTML = marked.parse(option.detail, { breaks: true });
 
       // Create a new div element for the option
       const $optionDiv = $(`
@@ -622,7 +622,7 @@ function parseXML(xmlString, sourceLabel) {
 
       return {
         isValid: validText === "true",
-        detail: getElementText(detailElement, `${optionLabel}: detail`),
+        detail: getElementText(detailElement, `${optionLabel}: detail`, true),
         reasoning: reasoningElement
           ? getElementText(reasoningElement, `${optionLabel}: reasoning`, true)
           : "",
