@@ -328,6 +328,9 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     $("#questionIndex").text("Q" + (index + 1) + ". ");
     const questionTextHTML = marked.parse(thisQuestion.text, { breaks: true });
     $("#questionText").html('<div>' + questionTextHTML.replace(/<table>/g, '<table class="markdownTable">').replace(/<table>/g, '<table class="markdownTable">') + "</div>");
+    $("#questionCategory")
+      .text(thisQuestion.categoryLabel || "")
+      .prop("hidden", !thisQuestion.categoryLabel);
     $("#answersForm").empty(); // Clear previous options
 
     const isMultipleCorrect = thisQuestion.options.filter(option => option.isValid).length > 1;
@@ -591,6 +594,19 @@ function parseXML(xmlString, sourceLabel) {
 
   const topicElement = getRequiredElement(xmlDoc, "topic", sourceLabel);
   const currentTopic = getElementText(topicElement, `${sourceLabel}: topic`);
+  const categoryMappings = new Map();
+  const categoryMappingsElement = rootElement.getElementsByTagName("category-mappings")[0];
+  if (categoryMappingsElement) {
+    Array.from(categoryMappingsElement.getElementsByTagName("category-mapping")).forEach(mapping => {
+      const keyElement = mapping.getElementsByTagName("key")[0];
+      const valueElement = mapping.getElementsByTagName("value")[0];
+      if (!keyElement || !valueElement) return;
+
+      const key = getElementText(keyElement, `${sourceLabel}: category key`);
+      const value = getElementText(valueElement, `${sourceLabel}: category value`);
+      if (key && value) categoryMappings.set(key, value);
+    });
+  }
 
   const entries = Array.from(xmlDoc.getElementsByTagName("entry"));
   if (entries.length === 0) {
@@ -603,6 +619,10 @@ function parseXML(xmlString, sourceLabel) {
     const entryLabel = `${sourceLabel} (entry ${entryIndex + 1})`;
     const questionElement = getRequiredElement(entry, "question", entryLabel);
     const questionText = getElementText(questionElement, `${entryLabel}: question`, true);
+    const categoryElement = entry.getElementsByTagName("category")[0];
+    const categoryKey = categoryElement
+      ? getElementText(categoryElement, `${entryLabel}: category`)
+      : "";
 
     const optionElements = Array.from(entry.getElementsByTagName("option"));
     if (optionElements.length === 0) {
@@ -631,6 +651,7 @@ function parseXML(xmlString, sourceLabel) {
 
     questions.push({
       text: questionText,
+      categoryLabel: categoryMappings.get(categoryKey) || "",
       options,
     });
   });

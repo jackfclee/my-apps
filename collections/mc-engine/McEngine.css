@@ -413,6 +413,17 @@ body {
   overflow-wrap: anywhere;
 }
 
+.question-category {
+  margin-top: 16px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: #eff6ff;
+  color: #1e40af;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
 .question-text p,
 .optionPara {
   margin: 0 0 0.3rem;
