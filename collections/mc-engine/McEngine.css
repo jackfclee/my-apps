@@ -176,7 +176,8 @@ body {
 }
 
 #passwordInput,
-#topicOptions {
+#topicOptions,
+#categoryOptions {
   width: 100%;
   box-sizing: border-box;
   border: 1px solid #cbd5e1;
@@ -195,8 +196,9 @@ body {
   width: 100%;
 }
 
-.topic-control-row #topicOptions {
-  flex: 1 1 auto;
+.topic-control-row #topicOptions,
+.topic-control-row #categoryOptions {
+  flex: 1 1 0;
   min-width: 0;
 }
 
@@ -243,7 +245,8 @@ body {
 }
 
 #passwordInput:focus,
-#topicOptions:focus {
+#topicOptions:focus,
+#categoryOptions:focus {
   outline: none;
   border-color: #38bdf8;
   box-shadow: 0 0 0 4px rgba(56, 189, 248, 0.18);
@@ -592,7 +595,8 @@ body {
 
 @media (max-width: 640px) {
   .topic-control-row { flex-wrap: wrap; }
-  .topic-control-row #topicOptions { flex-basis: 100%; }
+  .topic-control-row #topicOptions,
+  .topic-control-row #categoryOptions { flex-basis: calc(50% - 4px); }
   .topic-control-row .icon-toggle-btn { min-height: 44px; }
   #answersForm .form-check { padding: 12px; }
   .option-choice { min-height: 44px; }

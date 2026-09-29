@@ -212,12 +212,29 @@ function findSavedQuestionIndex(savedProgress, currentTopic, currentQuestions) {
 
 function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) {
 
+  const allQuestions = currentQuestions;
   let currentQuestionIndex = initialQuestionIndex;
   let isRandomOptionsEnabled = loadRandomOptionsEnabled();
   let isAnswerModeEnabled = loadAnswerModeEnabled();
   let isReasoningEnabled = loadReasoningEnabled();
   let areAnswersRevealed = false;
   let currentDisplayedOptions = [];
+
+  const categories = [...new Set(allQuestions.map(question => question.categoryLabel).filter(Boolean))]
+    .sort((a, b) => a.localeCompare(b));
+  const categorySelect = document.getElementById("categoryOptions");
+  categorySelect.replaceChildren(new Option("Show all questions", ""));
+  categories.forEach(category => categorySelect.add(new Option(category, category)));
+  categorySelect.disabled = categories.length === 0;
+
+  $("#categoryOptions").off("change").on("change", function () {
+    const currentQuestion = currentQuestions[currentQuestionIndex];
+    currentQuestions = this.value
+      ? allQuestions.filter(question => question.categoryLabel === this.value)
+      : allQuestions;
+    closeJumpDialog();
+    displayQuestion(Math.max(0, currentQuestions.indexOf(currentQuestion)));
+  });
 
   function updateReasoningDisplay() {
     $("#reasoningBtn")
@@ -323,13 +340,13 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     currentQuestionIndex = index;
     updateQuestionSummary();
     const thisQuestion = currentQuestions[currentQuestionIndex];
-    saveProgress(currentTopic, currentQuestionIndex, thisQuestion);
+    saveProgress(currentTopic, allQuestions.indexOf(thisQuestion), thisQuestion);
     $("#questionIndex").text("Q" + (index + 1) + ". ");
     const questionTextHTML = marked.parse(thisQuestion.text, { breaks: true });
     $("#questionText").html('<div>' + questionTextHTML.replace(/<table>/g, '<table class="markdownTable">').replace(/<table>/g, '<table class="markdownTable">') + "</div>");
     $("#questionCategory")
       .text(thisQuestion.categoryLabel || "")
-      .prop("hidden", !thisQuestion.categoryLabel);
+      .prop("hidden", !thisQuestion.categoryLabel || Boolean(categorySelect.value));
     $("#answersForm").empty(); // Clear previous options
 
     const isMultipleCorrect = thisQuestion.options.filter(option => option.isValid).length > 1;
@@ -693,6 +710,13 @@ $(document).ready(function () {
   } else {
     $("#passwordDialog").show();
   }
+
+  $("#passwordInput").on("keydown", function (e) {
+    if (e.key === "Enter" && !e.originalEvent?.isComposing) {
+      e.preventDefault();
+      $("#submitPassword").trigger("click");
+    }
+  });
 
   $("#submitPassword").click(function (e) {
     e.preventDefault();
