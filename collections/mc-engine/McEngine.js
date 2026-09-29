@@ -31,6 +31,7 @@ const loginSessionStorageKey = "mcEngineLoginSession";
 const randomOptionsStorageKey = "mcEngineRandomOptions";
 const answerModeStorageKey = "mcEngineAnswerMode";
 const reasoningStorageKey = "mcEngineReasoning";
+const categoryStorageKeyPrefix = "mcEngineCategory:";
 const loginSessionDurationMs = 24 * 60 * 60 * 1000;
 
 function loadLoginSession() {
@@ -121,6 +122,23 @@ function loadReasoningEnabled() {
   } catch (error) {
     console.warn("Unable to load reasoning setting:", error);
     return true;
+  }
+}
+
+function loadSelectedCategory(currentTopic) {
+  try {
+    return localStorage.getItem(categoryStorageKeyPrefix + currentTopic) || "";
+  } catch (error) {
+    console.warn("Unable to load selected category:", error);
+    return "";
+  }
+}
+
+function saveSelectedCategory(currentTopic, category) {
+  try {
+    localStorage.setItem(categoryStorageKeyPrefix + currentTopic, category);
+  } catch (error) {
+    console.warn("Unable to save selected category:", error);
   }
 }
 
@@ -227,7 +245,16 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   categories.forEach(category => categorySelect.add(new Option(category, category)));
   categorySelect.disabled = categories.length === 0;
 
+  const savedCategory = loadSelectedCategory(currentTopic);
+  categorySelect.value = categories.includes(savedCategory) ? savedCategory : "";
+  if (categorySelect.value) {
+    const initialQuestion = allQuestions[initialQuestionIndex];
+    currentQuestions = allQuestions.filter(question => question.categoryLabel === categorySelect.value);
+    currentQuestionIndex = Math.max(0, currentQuestions.indexOf(initialQuestion));
+  }
+
   $("#categoryOptions").off("change").on("change", function () {
+    saveSelectedCategory(currentTopic, this.value);
     const currentQuestion = currentQuestions[currentQuestionIndex];
     currentQuestions = this.value
       ? allQuestions.filter(question => question.categoryLabel === this.value)
