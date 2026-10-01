@@ -427,6 +427,37 @@ body {
   color: #111827;
 }
 
+.panel-layout-toggle {
+  align-self: flex-start;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  text-align: left;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+.panel-layout-toggle:focus-visible {
+  outline: 2px solid #2563eb;
+  outline-offset: 4px;
+}
+
+.panel-layout-toggle:disabled {
+  cursor: default;
+}
+
+@media (min-width: 981px) {
+  .dashboard-grid.answers-left #answerContainer {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .dashboard-grid.answers-left #questionContainer {
+    grid-column: 2;
+    grid-row: 1;
+  }
+}
+
 .question-title-row {
   display: flex;
   align-items: center;

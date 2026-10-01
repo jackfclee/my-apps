@@ -33,13 +33,13 @@ const answerModeStorageKey = "mcEngineAnswerMode";
 const reasoningStorageKey = "mcEngineReasoning";
 const categoryStorageKeyPrefix = "mcEngineCategory:";
 const controlsSideStorageKey = "mcEngineControlsSide";
+const panelsSideStorageKey = "mcEnginePanelsSide";
 const loginSessionDurationMs = 24 * 60 * 60 * 1000;
 
 function initializeLayoutToggle() {
   const frame = document.getElementById("mcEngineContainer");
   const toggle = document.getElementById("layoutToggle");
   let controlsOnLeft = false;
-  let lastClick = null;
 
   try {
     controlsOnLeft = localStorage.getItem(controlsSideStorageKey) === "left";
@@ -50,20 +50,10 @@ function initializeLayoutToggle() {
   function updateLayout() {
     frame.classList.toggle("controls-left", controlsOnLeft);
     toggle.setAttribute("aria-pressed", String(controlsOnLeft));
-    toggle.title = `Double-click or double-tap to move controls ${controlsOnLeft ? "right" : "left"}`;
+    toggle.title = `Click or tap to move controls ${controlsOnLeft ? "right" : "left"}`;
   }
 
-  toggle.addEventListener("click", function (event) {
-    // Native button activation supports Enter, Space, and assistive technology.
-    const isKeyboardClick = event.detail === 0;
-    const isDoubleClick = lastClick !== null
-      && event.timeStamp - lastClick.timeStamp <= 400
-      && Math.hypot(event.clientX - lastClick.clientX, event.clientY - lastClick.clientY) <= 24;
-    if (!isKeyboardClick && !isDoubleClick) {
-      lastClick = event;
-      return;
-    }
-    lastClick = null;
+  toggle.addEventListener("click", function () {
     controlsOnLeft = !controlsOnLeft;
     updateLayout();
     try {
@@ -72,6 +62,49 @@ function initializeLayoutToggle() {
       console.warn("Unable to save controls layout:", error);
     }
   });
+
+  updateLayout();
+}
+
+function initializePanelLayoutToggle() {
+  const grid = document.querySelector(".dashboard-grid");
+  const toggles = document.querySelectorAll(".panel-layout-toggle");
+  let answersOnLeft = false;
+  let answerModeEnabled = loadAnswerMode() !== "off";
+
+  try {
+    answersOnLeft = localStorage.getItem(panelsSideStorageKey) === "answers-left";
+  } catch (error) {
+    console.warn("Unable to load panel layout:", error);
+  }
+
+  function updateLayout() {
+    const showAnswersOnLeft = answersOnLeft && !answerModeEnabled;
+    grid.classList.toggle("answers-left", showAnswersOnLeft);
+    toggles.forEach(toggle => {
+      toggle.setAttribute("aria-pressed", String(showAnswersOnLeft));
+      toggle.disabled = answerModeEnabled;
+      toggle.title = answerModeEnabled
+        ? "Turn off answer mode to swap question and answer panels"
+        : "Swap question and answer panels";
+    });
+  }
+
+  grid.addEventListener("answer-mode-change", function (event) {
+    answerModeEnabled = event.detail.enabled;
+    updateLayout();
+  });
+
+  toggles.forEach(toggle => toggle.addEventListener("click", function () {
+    if (this.disabled) return;
+    answersOnLeft = !answersOnLeft;
+    updateLayout();
+    try {
+      localStorage.setItem(panelsSideStorageKey, answersOnLeft ? "answers-left" : "questions-left");
+    } catch (error) {
+      console.warn("Unable to save panel layout:", error);
+    }
+  }));
 
   updateLayout();
 }
@@ -332,6 +365,9 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   }
 
   function updateAnswerModeButton() {
+    document.querySelector(".dashboard-grid").dispatchEvent(new CustomEvent("answer-mode-change", {
+      detail: { enabled: isAnswerModeEnabled },
+    }));
     const label = answerMode === "off"
       ? "Answers hidden. Click to show all answers."
       : answerMode === "all"
@@ -814,6 +850,7 @@ document.getElementById("networkDialog").addEventListener("cancel", function (ev
 
 document.addEventListener("DOMContentLoaded", function () {
   initializeLayoutToggle();
+  initializePanelLayoutToggle();
   document.getElementById("mcEngineContainer").style.display = "none";
   if (navigator.onLine === false || !window.jQuery || !window.CryptoJS || !window.marked) {
     showNetworkWarning();

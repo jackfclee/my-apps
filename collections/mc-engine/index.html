@@ -46,7 +46,7 @@
       <div class="top-controls-layout">
         <header id="appHeader" class="app-header">
           <div class="header-left">
-            <button id="layoutToggle" class="eyebrow layout-toggle" type="button" aria-label="Left-handed controls" aria-pressed="false" title="Double-click or double-tap to move controls left">MC Engine</button>
+            <button id="layoutToggle" class="eyebrow layout-toggle" type="button" aria-label="Left-handed controls" aria-pressed="false" title="Click or tap to move controls left">MC Engine</button>
             <label class="topic-label" for="topicOptions">Question bank</label>
             <div class="topic-control-row">
               <select id="topicOptions" aria-label="Choose a question bank"></select>
@@ -114,7 +114,7 @@
 
       <div class="dashboard-grid">
         <article id="questionContainer" class="panel question-card">
-          <div class="panel-label">Question</div>
+          <button class="panel-label panel-layout-toggle" type="button" aria-label="Question: swap question and answer panels" aria-pressed="false" title="Swap question and answer panels">Question</button>
           <div class="question-title-row">
             <div id="questionIndex" class="question-index"></div>
             <button
@@ -135,7 +135,7 @@
         </article>
 
         <aside id="answerContainer" class="panel answer-card">
-          <div class="panel-label">Answer choices</div>
+          <button class="panel-label panel-layout-toggle" type="button" aria-label="Answer choices: swap question and answer panels" aria-pressed="false" title="Swap question and answer panels">Answer choices</button>
           <p id="answerInstructions" class="answer-instructions"></p>
           <form id="answersForm" aria-describedby="answerInstructions">
             <!-- Options will be populated here -->
