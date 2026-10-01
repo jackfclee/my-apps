@@ -191,6 +191,41 @@ body {
   color: #0f172a;
 }
 
+.layout-toggle {
+  display: block;
+  align-self: flex-start;
+  width: fit-content;
+  text-align: left;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  user-select: none;
+  touch-action: manipulation;
+}
+
+.layout-toggle:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
+@media (min-width: 981px) {
+  .controls-left .top-controls-layout {
+    grid-template-columns: auto minmax(0, 1fr);
+  }
+
+  .controls-left #navigationContainer {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .controls-left #appHeader {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+}
+
 .intro-copy,
 .field-label,
 .error-message {

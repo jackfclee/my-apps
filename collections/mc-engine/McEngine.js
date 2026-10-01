@@ -32,7 +32,49 @@ const randomOptionsStorageKey = "mcEngineRandomOptions";
 const answerModeStorageKey = "mcEngineAnswerMode";
 const reasoningStorageKey = "mcEngineReasoning";
 const categoryStorageKeyPrefix = "mcEngineCategory:";
+const controlsSideStorageKey = "mcEngineControlsSide";
 const loginSessionDurationMs = 24 * 60 * 60 * 1000;
+
+function initializeLayoutToggle() {
+  const frame = document.getElementById("mcEngineContainer");
+  const toggle = document.getElementById("layoutToggle");
+  let controlsOnLeft = false;
+  let lastClick = null;
+
+  try {
+    controlsOnLeft = localStorage.getItem(controlsSideStorageKey) === "left";
+  } catch (error) {
+    console.warn("Unable to load controls layout:", error);
+  }
+
+  function updateLayout() {
+    frame.classList.toggle("controls-left", controlsOnLeft);
+    toggle.setAttribute("aria-pressed", String(controlsOnLeft));
+    toggle.title = `Double-click or double-tap to move controls ${controlsOnLeft ? "right" : "left"}`;
+  }
+
+  toggle.addEventListener("click", function (event) {
+    // Native button activation supports Enter, Space, and assistive technology.
+    const isKeyboardClick = event.detail === 0;
+    const isDoubleClick = lastClick !== null
+      && event.timeStamp - lastClick.timeStamp <= 400
+      && Math.hypot(event.clientX - lastClick.clientX, event.clientY - lastClick.clientY) <= 24;
+    if (!isKeyboardClick && !isDoubleClick) {
+      lastClick = event;
+      return;
+    }
+    lastClick = null;
+    controlsOnLeft = !controlsOnLeft;
+    updateLayout();
+    try {
+      localStorage.setItem(controlsSideStorageKey, controlsOnLeft ? "left" : "right");
+    } catch (error) {
+      console.warn("Unable to save controls layout:", error);
+    }
+  });
+
+  updateLayout();
+}
 
 function loadLoginSession() {
   try {
@@ -771,6 +813,7 @@ document.getElementById("networkDialog").addEventListener("cancel", function (ev
 });
 
 document.addEventListener("DOMContentLoaded", function () {
+  initializeLayoutToggle();
   document.getElementById("mcEngineContainer").style.display = "none";
   if (navigator.onLine === false || !window.jQuery || !window.CryptoJS || !window.marked) {
     showNetworkWarning();
