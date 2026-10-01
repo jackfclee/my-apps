@@ -378,9 +378,10 @@ body {
 
 @media (min-width: 981px) {
   #navigationContainer {
-    align-items: flex-end;
+    align-items: center;
+    justify-content: center;
     margin: 0;
-    padding: 12px;
+    padding: 16px;
     border: 5px solid #1f2937;
     border-radius: 8px;
     background: #ffffff;
@@ -731,12 +732,35 @@ body {
 
 #navigationContainer .button-row,
 #navigationContainer .button-row-group {
-  gap: 4px;
+  gap: 8px;
+  width: 100%;
+}
+
+#navigationContainer .button-row {
+  align-items: stretch;
+  margin-left: 0;
+}
+
+#navigationContainer .button-row-group {
+  flex-wrap: nowrap;
 }
 
 #navigationContainer .btn {
-  padding-top: 0.35rem;
-  padding-bottom: 0.35rem;
+  flex: 1 1 0;
+  min-height: 44px;
+  padding: 0.5rem 0.95rem;
+  box-shadow: none;
+}
+
+#navigationContainer #resetBtn {
+  background: #ffffff;
+  color: #475569;
+  border: 1px solid #cbd5e1;
+}
+
+#navigationContainer #resetBtn:hover:not(:disabled) {
+  background: #f1f5f9;
+  border-color: #94a3b8;
 }
 
 .btn {
