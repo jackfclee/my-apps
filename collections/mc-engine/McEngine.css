@@ -261,6 +261,14 @@ body {
   color: #713f12;
 }
 
+.icon-toggle-btn.is-correct-only {
+  border-color: #059669;
+}
+
+#answersForm .form-check[hidden] {
+  display: none;
+}
+
 .icon-toggle-svg {
   width: 22px;
   height: 22px;
@@ -722,7 +730,8 @@ body {
   color: #fff;
 }
 
-.btn-success {
+.btn-success,
+.icon-toggle-btn.is-correct-only {
   background: linear-gradient(135deg, #10b981, #059669);
   color: #fff;
 }

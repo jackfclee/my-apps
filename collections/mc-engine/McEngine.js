@@ -90,18 +90,20 @@ function saveRandomOptionsEnabled(isEnabled) {
   }
 }
 
-function loadAnswerModeEnabled() {
+function loadAnswerMode() {
   try {
-    return localStorage.getItem(answerModeStorageKey) === "true";
+    const savedMode = localStorage.getItem(answerModeStorageKey);
+    if (savedMode === "correct-only") return "correct-only";
+    return savedMode === "true" || savedMode === "all" ? "all" : "off";
   } catch (error) {
     console.warn("Unable to load answer mode setting:", error);
-    return false;
+    return "off";
   }
 }
 
-function saveAnswerModeEnabled(isEnabled) {
+function saveAnswerMode(mode) {
   try {
-    localStorage.setItem(answerModeStorageKey, String(isEnabled));
+    localStorage.setItem(answerModeStorageKey, mode);
   } catch (error) {
     console.warn("Unable to save answer mode setting:", error);
   }
@@ -233,10 +235,12 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   const allQuestions = currentQuestions;
   let currentQuestionIndex = initialQuestionIndex;
   let isRandomOptionsEnabled = loadRandomOptionsEnabled();
-  let isAnswerModeEnabled = loadAnswerModeEnabled();
+  let answerMode = loadAnswerMode();
+  let isAnswerModeEnabled = answerMode !== "off";
   let isReasoningEnabled = loadReasoningEnabled();
   let areAnswersRevealed = false;
   let currentDisplayedOptions = [];
+  let currentDisplayedQuestion = null;
 
   const categories = [...new Set(allQuestions.map(question => question.categoryLabel).filter(Boolean))]
     .sort((a, b) => a.localeCompare(b));
@@ -280,21 +284,23 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
       .attr(
         "title",
         isRandomOptionsEnabled
-          ? "Answer choices are randomized"
-          : "Randomize answer choices"
+          ? "Randomize answer choices on Previous, Next, or Reset"
+          : "Enable random answer choices on Previous, Next, or Reset"
       );
   }
 
   function updateAnswerModeButton() {
+    const label = answerMode === "off"
+      ? "Answers hidden. Click to show all answers."
+      : answerMode === "all"
+        ? "All answers shown. Click to show only correct answers."
+        : "Only correct answers shown. Click to hide answers.";
     $("#answerModeBtn")
-      .toggleClass("is-active", isAnswerModeEnabled)
+      .toggleClass("is-active", answerMode === "all")
+      .toggleClass("is-correct-only", answerMode === "correct-only")
       .attr("aria-pressed", String(isAnswerModeEnabled))
-      .attr(
-        "title",
-        isAnswerModeEnabled
-          ? "Answer mode is on"
-          : "Answer mode"
-      );
+      .attr("aria-label", label)
+      .attr("title", label);
   }
 
   function revealAnswers() {
@@ -303,6 +309,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
       const option = currentDisplayedOptions[index];
       const isSelected = this.checked;
       const $card = $(this).closest(".form-check");
+      $card.prop("hidden", answerMode === "correct-only" && !option.isValid);
       $card.addClass(option.isValid ? "is-correct" : "is-incorrect");
       $card.find(".option-verdict")
         .text((option.isValid ? "Correct answer" : "Incorrect answer") + (isSelected ? " · Your choice" : ""))
@@ -362,7 +369,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   }
 
   //--------------------------------------------------------------------------------
-  function displayQuestion(index) {
+  function displayQuestion(index, reshuffleOptions = false) {
     areAnswersRevealed = false;
     currentQuestionIndex = index;
     updateQuestionSummary();
@@ -382,10 +389,13 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
       ? "Select all correct answers."
       : "Select one answer.").prop("hidden", false);
 
-    const displayedOptions = isRandomOptionsEnabled
+    const displayedOptions = reshuffleOptions && isRandomOptionsEnabled
       ? shuffleOptions(thisQuestion.options)
-      : thisQuestion.options;
+      : currentDisplayedQuestion === thisQuestion && !reshuffleOptions
+        ? currentDisplayedOptions
+        : thisQuestion.options;
     currentDisplayedOptions = displayedOptions;
+    currentDisplayedQuestion = thisQuestion;
 
     displayedOptions.forEach((option, index) => {
       // Convert Markdown in option.detail to HTML
@@ -395,7 +405,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
       const $optionDiv = $(`
         <div class="form-check">
           <div class="option-choice">
-          <label class="option-letter" for="option${index}">${getAnswerLabel(index)}</label>
+          <label class="option-letter" for="option${index}">${answerMode === "correct-only" ? "✓" : getAnswerLabel(index)}</label>
           <input class="form-check-input" type="${inputType}" name="answer" id="option${index}" value="${option.isValid}">
           <label class="form-check-label" for="option${index}"></label>
           </div>
@@ -458,7 +468,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   $("#resetBtn").off('click');
   $("#resetBtn").click(function (e) {
     e.preventDefault();
-    displayQuestion(currentQuestionIndex);
+    displayQuestion(currentQuestionIndex, true);
   });
 
   //--------------------------------------------------------------------------------
@@ -468,15 +478,15 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     isRandomOptionsEnabled = !isRandomOptionsEnabled;
     saveRandomOptionsEnabled(isRandomOptionsEnabled);
     updateRandomOptionsButton();
-    displayQuestion(currentQuestionIndex);
   });
 
   //--------------------------------------------------------------------------------
   $("#answerModeBtn").off('click');
   $("#answerModeBtn").click(function (e) {
     e.preventDefault();
-    isAnswerModeEnabled = !isAnswerModeEnabled;
-    saveAnswerModeEnabled(isAnswerModeEnabled);
+    answerMode = answerMode === "off" ? "all" : answerMode === "all" ? "correct-only" : "off";
+    isAnswerModeEnabled = answerMode !== "off";
+    saveAnswerMode(answerMode);
     updateAnswerModeButton();
     displayQuestion(currentQuestionIndex);
   });
@@ -530,7 +540,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     e.preventDefault();
     currentQuestionIndex++;
     if (currentQuestionIndex < currentQuestions.length) {
-      displayQuestion(currentQuestionIndex);
+      displayQuestion(currentQuestionIndex, true);
     }
   });
 
@@ -540,7 +550,7 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
     e.preventDefault();
     currentQuestionIndex--;
     if (currentQuestionIndex < currentQuestions.length) {
-      displayQuestion(currentQuestionIndex);
+      displayQuestion(currentQuestionIndex, true);
     } 
   });
 
