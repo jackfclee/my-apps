@@ -736,6 +736,20 @@ const topicQuestionsMap = new Map();
 
 let decryptionKey = "";
 
+// Desktop trackpad pinch gestures appear as Ctrl+wheel in Chromium/Firefox.
+document.addEventListener("wheel", function (event) {
+  if (event.ctrlKey && event.cancelable) event.preventDefault();
+}, { passive: false });
+
+// Safari uses gesture events. Keep touchscreen pinch-to-zoom available.
+["gesturestart", "gesturechange", "gestureend"].forEach(function (eventName) {
+  document.addEventListener(eventName, function (event) {
+    if (window.matchMedia("(hover: hover) and (pointer: fine)").matches && event.cancelable) {
+      event.preventDefault();
+    }
+  }, { passive: false });
+});
+
 function showNetworkWarning() {
   document.getElementById("errorMessage").style.display = "none";
   const dialog = document.getElementById("networkDialog");

@@ -5,6 +5,8 @@ body {
   width: 100%;
   max-width: 100%;
   overflow-x: clip;
+  /* Prevent double-tap zoom while preserving scrolling and pinch-to-zoom. */
+  touch-action: manipulation;
 }
 
 *,
