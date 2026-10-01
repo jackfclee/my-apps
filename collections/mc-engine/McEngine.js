@@ -741,12 +741,19 @@ document.addEventListener("wheel", function (event) {
   if (event.ctrlKey && event.cancelable) event.preventDefault();
 }, { passive: false });
 
-// Safari uses gesture events. Keep touchscreen pinch-to-zoom available.
+// Block Safari pinch gestures on both trackpads and touchscreens.
 ["gesturestart", "gesturechange", "gestureend"].forEach(function (eventName) {
   document.addEventListener(eventName, function (event) {
-    if (window.matchMedia("(hover: hover) and (pointer: fine)").matches && event.cancelable) {
+    if (event.cancelable) {
       event.preventDefault();
     }
+  }, { passive: false });
+});
+
+// Fallback for touch browsers: leave single-finger scrolling untouched.
+["touchstart", "touchmove"].forEach(function (eventName) {
+  document.addEventListener(eventName, function (event) {
+    if (event.touches.length > 1 && event.cancelable) event.preventDefault();
   }, { passive: false });
 });
 
