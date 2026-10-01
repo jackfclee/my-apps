@@ -22,6 +22,11 @@
 <script defer src="../../pwa.js"></script>
 </head>
 <body>
+  <dialog id="networkDialog" aria-labelledby="networkDialogTitle" aria-describedby="networkDialogMessage">
+    <h2 id="networkDialogTitle">Connection unavailable</h2>
+    <p id="networkDialogMessage">Unable to connect. Check your internet connection, then refresh to try again.</p>
+    <button id="refreshNetworkButton" class="btn btn-primary" type="button" autofocus>Refresh</button>
+  </dialog>
   <main class="app-shell">
     <section id="passwordDialog" class="container auth-screen">
       <article class="auth-card">

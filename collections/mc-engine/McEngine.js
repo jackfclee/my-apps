@@ -726,7 +726,25 @@ const topicQuestionsMap = new Map();
 
 let decryptionKey = "";
 
-$(document).ready(function () {
+function showNetworkWarning() {
+  document.getElementById("errorMessage").style.display = "none";
+  const dialog = document.getElementById("networkDialog");
+  if (!dialog.open) dialog.showModal();
+}
+
+document.getElementById("refreshNetworkButton").addEventListener("click", function () {
+  window.location.reload();
+});
+document.getElementById("networkDialog").addEventListener("cancel", function (event) {
+  event.preventDefault();
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+  document.getElementById("mcEngineContainer").style.display = "none";
+  if (navigator.onLine === false || !window.jQuery || !window.CryptoJS || !window.marked) {
+    showNetworkWarning();
+    return;
+  }
   $("#mcEngineContainer").hide();
   const savedLoginSession = loadLoginSession();
 
@@ -756,6 +774,10 @@ $(document).ready(function () {
 });
 
 function loadFiles(rememberLoginOnSuccess) {
+  if (navigator.onLine === false) {
+    showNetworkWarning();
+    return;
+  }
   let loadedCount = 0; // Track the number of XML files loaded
   let hasErrorOccurred = false; // Flag to prevent further processing after an error
   topicQuestionsMap.clear();
@@ -849,6 +871,12 @@ function loadFiles(rememberLoginOnSuccess) {
         handleLoadError(path, error);
       }
     }, function(error) {
+      if (hasErrorOccurred) return;
+      if (navigator.onLine === false || error instanceof TypeError) {
+        hasErrorOccurred = true;
+        showNetworkWarning();
+        return;
+      }
       handleLoadError(path, error);
     });
   });
