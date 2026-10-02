@@ -25,7 +25,9 @@
   <dialog id="networkDialog" aria-labelledby="networkDialogTitle" aria-describedby="networkDialogMessage">
     <h2 id="networkDialogTitle">Connection unavailable</h2>
     <p id="networkDialogMessage">Unable to connect. Check your internet connection, then refresh to try again.</p>
-    <button id="refreshNetworkButton" class="btn btn-primary" type="button" autofocus>Refresh</button>
+    <!-- Keep recovery independent of the app script and bypass cached page responses. -->
+    <button id="refreshNetworkButton" class="btn btn-primary" type="button" autofocus
+      onclick="const url = new window.URL(window.location.href); url.searchParams.set('_refresh', Date.now().toString()); window.location.replace(url.href);">Refresh</button>
   </dialog>
   <main class="app-shell">
     <section id="passwordDialog" class="container auth-screen">
@@ -156,6 +158,6 @@
       </div>
     </section>
   </main>
-  <script src="McEngine.js"></script>
+  <script src="McEngine.js?v=20261010"></script>
 </body>
 </html>

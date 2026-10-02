@@ -841,9 +841,6 @@ function showNetworkWarning() {
   if (!dialog.open) dialog.showModal();
 }
 
-document.getElementById("refreshNetworkButton").addEventListener("click", function () {
-  window.location.reload();
-});
 document.getElementById("networkDialog").addEventListener("cancel", function (event) {
   event.preventDefault();
 });
