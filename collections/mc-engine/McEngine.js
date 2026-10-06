@@ -322,10 +322,13 @@ function setQuestions(currentTopic, currentQuestions, initialQuestionIndex = 0) 
   const categorySelect = document.getElementById("categoryOptions");
   categorySelect.replaceChildren(new Option("Show all questions", ""));
   categories.forEach(category => categorySelect.add(new Option(category, category)));
-  categorySelect.disabled = categories.length === 0;
+  const canFilterByCategory = categories.length > 0
+    && new Set(allQuestions.map(question => question.categoryLabel || "")).size > 1;
+  categorySelect.disabled = !canFilterByCategory;
+  categorySelect.hidden = !canFilterByCategory;
 
   const savedCategory = loadSelectedCategory(currentTopic);
-  categorySelect.value = categories.includes(savedCategory) ? savedCategory : "";
+  categorySelect.value = canFilterByCategory && categories.includes(savedCategory) ? savedCategory : "";
   if (categorySelect.value) {
     const initialQuestion = allQuestions[initialQuestionIndex];
     currentQuestions = allQuestions.filter(question => question.categoryLabel === categorySelect.value);
