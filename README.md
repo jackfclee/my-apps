@@ -21,7 +21,6 @@
 
 ## Utility App
 
-- [Bible @ jackfclee](https://jackfclee.github.io/my-apps/utilities/bible)
 - [Convertor - Captialise All Words @ jackfclee](https://jackfclee.github.io/my-apps/utilities/convertor/capitalise-all-words.html)
 - [CsvViewer @ jackfclee](https://jackfclee.github.io/my-apps/utilities/csv-viewer/)
 - [FX Charts @ jackfclee](https://jackfclee.github.io/my-apps/utilities/fx-charts)
