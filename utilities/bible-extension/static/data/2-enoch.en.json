@@ -1,0 +1,2158 @@
+{
+  "id": "2-enoch",
+  "title": {
+    "en": "2 Enoch",
+    "zh-Hant": "以諾二書"
+  },
+  "language": "en",
+  "source": {
+    "url": "https://www.studylight.org/historical-writings/pseudepigrapha/2-enoch.html",
+    "credit": "Translation by W. R. Morfill, The Book of the Secrets of Enoch, translated by W. R. Morfill, edited by R. H. Charles (Oxford: Clarendon Press, 1896) ; public domain. Introduction by StudyLight.org.",
+    "retrieved": "2026-10-24",
+    "sha256": "362094cc76fd0b339ff565f60b552f74c8230b22187cf7fab5dd7efdbb50c4d1",
+    "editionNote": "This is the 68-chapter Morfill/Charles 1896 main text. Chapter 22 begins at verse 4 because the editors print 22:1–3 in manuscript A’s apparatus on printed page 27, not in the running text. Numbering is preserved. 這是1896年版正文；第22章從第4節開始，因第1–3節列於第27頁抄本A的校勘註中。",
+    "editionCheckUrl": "https://archive.org/details/bookofsecretsofe00morf/page/27"
+  },
+  "chapters": [
+    {
+      "id": "1",
+      "label": "Chapter 1",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "THE BOOK OF THE SECRETS OF ENOCH THE SON OF ARED; A MAN WISE AND BELOVED OF GOD. [Concerning the Life and the Dream of Enoch.] There was a very wise man and a worker of great things: God loved him, and received him, so that he should see the heavenly abodes, the kingdoms of the wise, great, inconceivable and never-changing God, the Lord of all, the wonderful and glorious, and bright and all-beholding station of the servants of the Lord, and the unapproachable throne of the Lord, and the degrees and manifestations of the incorporeal hosts, and should be an eye-witness of the unspeakable ministrations of the multitude of creatures, and of the varying appearance, and indescribable singing of the host of Cherubim, and of the immeasurable world."
+        },
+        {
+          "number": "1",
+          "text": "At that time he said: ‘Hardly had I accomplished 165 years, when I begat my son Methusal: after that I lived 200 years and accomplished all the years of my life, 365 years."
+        },
+        {
+          "number": "2",
+          "text": "On the first day of the first month I was alone in my house, and I rested on my bed and slept."
+        },
+        {
+          "number": "3",
+          "text": "And as I slept a great grief came upon my heart, and I wept with mine eyes in my dream, and I could not understand what this grief meant, or what would happen to me."
+        },
+        {
+          "number": "4",
+          "text": "And there appeared to me two men very tall, such as I have never seen on earth."
+        },
+        {
+          "number": "5",
+          "text": "And their faces shone like the sun, and their eyes were like burning lamps; and fire came forth from their lips. Their dress had the appearance of feathers: their feet were purple, their wings were brighter than gold; their hands whiter than snow. They stood at the head of my bed and called me by my name."
+        },
+        {
+          "number": "6",
+          "text": "I awoke from my sleep and saw clearly these men standing in front of me."
+        },
+        {
+          "number": "7",
+          "text": "I hastened and made obeisance to them and was terrified, and the appearance of my countenance was changed from fear."
+        },
+        {
+          "number": "8",
+          "text": "And these men said to me: “Be of good cheer, Enoch, be not afraid; the everlasting God hath sent us to thee, and lo! to-day thou shalt ascend with us into heaven."
+        },
+        {
+          "number": "9",
+          "text": "And tell thy sons and thy servants, all who work in thy house, and let no one seek thee, till the Lord bring thee back to them.”"
+        },
+        {
+          "number": "10",
+          "text": "And I hastened to obey them, and went out of my house. And I called my sons Methusal, Regim [and Gaidal], and told them what wonderful things the two men had said to me.’"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "Chapter 2",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[The Instruction: how Enoch taught his Sons.]"
+        },
+        {
+          "number": "1",
+          "text": "‘Hear me, my children, for I do not know whither I am going, or what awaits me."
+        },
+        {
+          "number": "2",
+          "text": "Now, my children, I say unto you: turn not aside from God: walk before the face of the Lord and keep his judgements and do not worship vain gods, who did not make heaven and earth, for these will perish, and also those who worship them."
+        },
+        {
+          "number": "3",
+          "text": "But may God make confident your hearts in the fear of Him."
+        },
+        {
+          "number": "4",
+          "text": "And now, my children, let no one seek me till the Lord brings me back to you.’"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "Chapter 3",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Of the taking up of Enoch; how the Angels took him up into the first heaven.]"
+        },
+        {
+          "number": "1",
+          "text": "It came to pass when I had spoken to my sons, these men summoned me and took me on their wings and placed me on the clouds. And lo! the clouds moved."
+        },
+        {
+          "number": "2",
+          "text": "And again (going) higher I saw the air and (going still) higher I saw the ether, and they placed me in the first heaven."
+        },
+        {
+          "number": "3",
+          "text": "And they showed me a very great sea, greater than the earthly sea."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "Chapter 4",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Of the Angels who rule the Stars.]"
+        },
+        {
+          "number": "1",
+          "text": "And they brought before my face the elders, and the rulers of the orders of the stars, and they showed me the two hundred angels who rule the stars and their heavenly service;"
+        },
+        {
+          "number": "2",
+          "text": "And they fly with their wings and go round all (the stars) as they float."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "label": "Chapter 5",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How the Angels guard the Habitations of the Snow.]"
+        },
+        {
+          "number": "1",
+          "text": "And then I looked and saw the treasuries of the snow and ice and the angels who guard their terrible store-places;"
+        },
+        {
+          "number": "2",
+          "text": "And the treasuries of the clouds from which they come forth and into which they enter."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "label": "Chapter 6",
+      "section": "",
+      "verses": [
+        {
+          "number": "paragraph",
+          "text": "[Concerning the Dew and the Oil, and different Colours.] And they showed me the treasuries of the dew, like oil for anointing, and its form was in appearance like that of all earthly colours: also many angels keeping their treasuries, and they shut and open them."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "label": "Chapter 7",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How Enoch was taken into the second Heaven.]"
+        },
+        {
+          "number": "1",
+          "text": "And the men took me and brought me to the second heaven, and showed me the darkness, and there I saw the prisoners suspended, reserved for (and) awaiting the eternal judgement."
+        },
+        {
+          "number": "2",
+          "text": "And these angels were gloomy in appearance, more than the darkness of the earth. And they unceasingly wept every hour, and I said to the men who were with me: ‘Why are these men continually tortured?’"
+        },
+        {
+          "number": "3",
+          "text": "And the men answered me: ‘These are they who apostatized from the Lord: who obeyed not the commandments of God, and took counsel of their own will and transgressed together with their prince and have been already confined to the second heaven."
+        },
+        {
+          "number": "4",
+          "text": "And I felt great pity for them. And lo! the angels made obeisance to me, and said to me: “O man of God! pray for us to the Lord.”"
+        },
+        {
+          "number": "5",
+          "text": "And I answered them: “Who am I, a mortal man, that I should pray for angels? Who knows whither I go, or what awaits me: or who prays for me?”.’"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "label": "Chapter 8",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Of the taking of Enoch to the third Heaven.]"
+        },
+        {
+          "number": "1",
+          "text": "And these men took me from thence, and brought me to the third heaven, and placed me in the midst of a garden—a place such as has never been known for the goodliness of its appearance."
+        },
+        {
+          "number": "2",
+          "text": "And I saw all the trees of beautiful colours and their fruits ripe and fragrant, and all kinds of food which they produced, springing up with delightful fragrance."
+        },
+        {
+          "number": "3",
+          "text": "And in the midst (there is) the tree of life, in that place, on which God rests, when He comes into Paradise. And this tree cannot be described for its excellence and sweet odour."
+        },
+        {
+          "number": "4",
+          "text": "And it is beautiful more than any created thing. And on all sides in appearance it is like gold and crimson and transparent as fire, and it covers everything."
+        },
+        {
+          "number": "5",
+          "text": "From its root in the garden there go forth four streams which pour honey and milk, oil and wine, and are separated in four directions, and go about with a soft course."
+        },
+        {
+          "number": "6",
+          "text": "And they go down to the Paradise of Eden, between corruptibility and incorruptibility. And thence they go along the earth, and have a revolution in their circle like also the other elements."
+        },
+        {
+          "number": "7",
+          "text": "And there is another tree, an olive tree always distilling oil. And there is no tree there without fruit, and every tree is blessed."
+        },
+        {
+          "number": "8",
+          "text": "And there are three hundred angels very glorious, who keep the garden, and with never ceasing voices and blessed singing, they serve the Lord every day. And I said: ‘What a very blessed place is this!’ And those men spake unto me:"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "label": "Chapter 9",
+      "section": "",
+      "verses": [
+        {
+          "number": "paragraph",
+          "text": "[The showing to Enoch of the Righteous, and the Place of Prayers.] ‘This place, O Enoch, is prepared for the righteous who endure every kind of attack in their lives from those who afflict their souls: who turn away their eyes from unrighteousness, and accomplish a righteous judgement, and also give bread to the hungry, and clothe the naked, and raise the fallen, and assist the orphans who are oppressed, and who walk without blame before the face of the Lord, and serve him only. For them this place is prepared as an eternal inheritance.’"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "label": "Chapter 10",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Here they showed Enoch the terrible Places, and various Tortures.]"
+        },
+        {
+          "number": "1",
+          "text": "And the men then led me to the Northern region, and showed me there a very terrible place."
+        },
+        {
+          "number": "2",
+          "text": "And there are all sorts of tortures in that place. Savage darkness and impenetrable gloom; and there is no light there, but a gloomy fire is always burning, and a fiery river goes forth. And all that place has fire on all sides, and on all sides cold and ice, thus it burns and freezes."
+        },
+        {
+          "number": "3",
+          "text": "And the prisoners are very savage. And the angels terrible and without pity, carrying savage weapons, and their torture was unmerciful."
+        },
+        {
+          "number": "4",
+          "text": "And I said: ‘Woe, woe! How terrible is this place!’ And the men said to me: ‘This place, Enoch, is prepared for those who do not honour God; who commit evil deeds on earth, vitium sodomiticum, witchcraft, enchantments, devilish magic; and who boast of their evil deeds, stealing, lying, calumnies, envy, evil thoughts, fornication, and murder."
+        },
+        {
+          "number": "5",
+          "text": "Who steal the souls of wretched men, oppressing the poor and spoiling them of their possessions, and themselves grow rich by the taking of other men’s possessions, injuring them. Who when they might feed the hungry, allow them to die of famine; who when they might clothe them, strip them naked."
+        },
+        {
+          "number": "6",
+          "text": "Who do not know their Creator and have worshipped gods without life; who can neither see nor hear, being vain gods, and have fashioned the forms of idols, and bow down to a contemptible thing, made with hands; for all these this place is prepared for an eternal inheritance."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "label": "Chapter 11",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Here they took Enoch to the fourth Heaven, where is the Course of the Sun and Moon.]"
+        },
+        {
+          "number": "1",
+          "text": "And the men took me and conducted me to the fourth heaven, and showed me all the comings and goings forth and all the rays of the light of the sun and moon. And I measured their goings, and computed their light."
+        },
+        {
+          "number": "2",
+          "text": "And I saw that the sun has a light seven times greater than the moon. I beheld their circle, and their chariot on which each goes like a wind advancing with astonishing swiftness, and they have no rest day or night coming or going."
+        },
+        {
+          "number": "3",
+          "text": "There are four great stars; each star has under it a thousand stars at the right of the chariot of the sun; and four at the left, each having under it a thousand stars, altogether eight thousand."
+        },
+        {
+          "number": "4",
+          "text": "Fifteen myriads of angels go out with the sun and attend him during the day, and by night one thousand. Each angel has six wings. They go before the chariot of the sun."
+        },
+        {
+          "number": "5",
+          "text": "And a hundred angels keep warm and light up the sun."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "label": "Chapter 12",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Of the wonderful Creatures of the Sun.]"
+        },
+        {
+          "number": "1",
+          "text": "And I looked and saw other flying creatures, their names phoenixes and chalkadri wonderful and strange in appearance, with the feet and tails of lions, and the heads of crocodiles; their appearance was of a purple colour, like the rainbow; their size nine hundred measures."
+        },
+        {
+          "number": "2",
+          "text": "Their wings were like those of angels, each with twelve, and they attend the chariot of the sun, and go with him, bringing heat and dew as they are ordered by God."
+        },
+        {
+          "number": "3",
+          "text": "So the sun makes his revolutions, and goes under the heavens, and goes under the earth with the light of his beams unceasingly."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "label": "Chapter 13",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[The Angels took Enoch, and placed him on the East at the Gates of the Sun.]"
+        },
+        {
+          "number": "1",
+          "text": "These men brought me to the East and showed me the gates by which the sun goes forth at the appointed seasons, and according to the revolution of the months of the whole year, and according to the number of the hours, day and night."
+        },
+        {
+          "number": "2",
+          "text": "And I saw the six great gates open, each gate having sixty-one stadia and a quarter of one stadium; and I truly measured them and understood their size to be so much, by which the sun goes forth; and he goes to the west and makes his course correspond. And he proceeds through all the months."
+        },
+        {
+          "number": "3",
+          "text": "And by the first gates he goes out forty-two days; by the second gates thirty-five days; by the fourth gates thirty-five; by the fifth gates thirty-five; by the sixth gates forty-five."
+        },
+        {
+          "number": "4",
+          "text": "And so he returns from the sixth gates in the course of time: and he enters by the fifth gates during thirty-five days, by the fourth gates thirty-five, by the third gates during thirty-five days; by the second gates thirty-five."
+        },
+        {
+          "number": "5",
+          "text": "And so the days of the whole year are finished according to the alternation of the four seasons."
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "label": "Chapter 14",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[They took Enoch to the West.]"
+        },
+        {
+          "number": "1",
+          "text": "And then these men took me to the West of the heavens and showed me six great gates open, corresponding to the Eastern gates, opposite to which the sun goes out by the Eastern gates, according to the number of the days three hundred and sixty-five, and the quarter of a day."
+        },
+        {
+          "number": "2",
+          "text": "So he sets by the Western gates. When he goes out by the Western gates four hundred angels take his crown and bring it to the Lord."
+        },
+        {
+          "number": "3",
+          "text": "And the sun revolves in his chariot and goes without light for seven complete hours in the night. And when he comes near the East at the eighth hour of the night, the four hundred angels bring his crown and crown him."
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "label": "Chapter 15",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[The Creatures of the Sun; the Phoenixes and Chalkidri sang.]"
+        },
+        {
+          "number": "1",
+          "text": "Then sang the creatures called the Phoenixes and the Chalkidri. On this account every bird claps its wings, rejoicing at the giver of light, and they sang a song at the command of the Lord."
+        },
+        {
+          "number": "2",
+          "text": "The giver of light comes to give his brightness to the whole world."
+        },
+        {
+          "number": "3",
+          "text": "And they showed me the calculation of the going of the sun. And the gates by which he enters and goes out are great gates, which God made for the computation of the year."
+        },
+        {
+          "number": "4",
+          "text": "On this account the sun is great."
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "label": "Chapter 16",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[The Men took Enoch and placed him at the East, at the Course of the Moon.]"
+        },
+        {
+          "number": "1",
+          "text": "The other, the computation of the moon these men showed me; all the goings and revolutions. And they pointed out the gates to me, twelve great gates extending from the West to the East, by which the moon enters and goes out at the customary times."
+        },
+        {
+          "number": "2",
+          "text": "She enters the first gate when the sun is in the West thirty-one days exactly; by the second gate thirty-one days exactly; by the third gate thirty days exactly; by the fourth gate thirty days exactly; by the fifth gate thirty-one days exactly; by the sixth gate thirty-one days exactly; by the seventh gate thirty days exactly; by the eighth gate thirty-one days exactly; by the ninth gate thirty-one days exactly; by the tenth gate thirty exactly; by the eleventh gate thirty-one days exactly; by the twelfth gate twenty-eight days exactly."
+        },
+        {
+          "number": "3",
+          "text": "And so by the Western gates in her revolutions, and corresponding to the number of the Eastern gates she goes, and accomplishes the year."
+        },
+        {
+          "number": "4",
+          "text": "And unto the sun there are three hundred and sixty-five days and a quarter of one day."
+        },
+        {
+          "number": "5",
+          "text": "But in the lunar year there are three hundred and fifty-four days, making twelve months of twenty-nine days; and there remain eleven days over, which belong to the solar circle of the whole year, and are lunar epacts of the whole year. [Thus the great circle has five hundred and thirty-two years.]"
+        },
+        {
+          "number": "6",
+          "text": "The fourth part (of one day) is neglected during three years and the fourth year completes it exactly. On account of this they are omitted from the heavens during three years, and are not added to the number of the days, on which account these change the seasons of the year in two new months, to make the number complete and there are two others to diminish."
+        },
+        {
+          "number": "7",
+          "text": "And when she has gone through the Western gates, she returns and goes to the Eastern, with her light, and so she goes day and night in the heavenly circles, below all the circles more quickly than the winds of the heavens, and there are spirits and creatures, and angels flying, with six wings to each of the angels."
+        },
+        {
+          "number": "8",
+          "text": "And seven (months) are computed to the circle of the moon during a revolution of nineteen years."
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "label": "Chapter 17",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Of the singing of the Angels, which cannot be described.]"
+        },
+        {
+          "number": "1",
+          "text": "In the middle of the heavens I saw an armed host serving the Lord with cymbals, and organs, and unceasing voice. I was delighted at hearing it."
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "label": "Chapter 18",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Of the taking up of Enoch into the fifth Heaven.]"
+        },
+        {
+          "number": "1",
+          "text": "The men took and brought me up into the fifth heaven, and I saw there many hosts not to be counted called Grigori; and their appearance was like men, and their size was greater than that of the giants."
+        },
+        {
+          "number": "2",
+          "text": "And their countenances were withered, and their lips are always silent. And there was no service in the fifth heaven. And I said to the men who were with me: ‘Why are these men very withered, and their faces melancholy, and their lips silent, and there is no service in this heaven?’"
+        },
+        {
+          "number": "3",
+          "text": "And they said to me: ‘These are the Grigori, who, with their prince Satanail, rejected the holy Lord."
+        },
+        {
+          "number": "4",
+          "text": "And in consequence of these things they are kept in great darkness in the second heaven; and of them there went three to the earth from the throne of God to the place Ermon; and they entered into dealings on the side of Mount Iermon, and they saw the daughters of men, that they were fair, and took unto themselves wives."
+        },
+        {
+          "number": "5",
+          "text": "And they made the earth foul with their deeds. And they acted lawlessly in all times of this age, and wrought confusion, and the giants were born, and the strangely tall men, and there was much wickedness."
+        },
+        {
+          "number": "6",
+          "text": "And on account of this God judged them with a mighty judgement. And they lament for their brethren, and they will be punished at the great day of the Lord."
+        },
+        {
+          "number": "7",
+          "text": "And I said to the Grigori: ‘I have seen your brethren and their works, and their great torments. And I have prayed for them, but God has condemned them (to be) under the earth, till the heaven and earth are ended for ever.’"
+        },
+        {
+          "number": "8",
+          "text": "And I said: ‘Why do ye wait, brethren, and not serve before the face of the Lord? and perform your duties before the face of the Lord, and do not anger your Lord to the end.’"
+        },
+        {
+          "number": "9",
+          "text": "And they listened to my rebuke. And they stood in the four orders in this heaven, and lo! as I was standing with these men, four trumpets resounded together with a loud voice, and the Grigori sang with one voice, and their voices went forth before the Lord with sadness and tenderness."
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "label": "Chapter 19",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[The taking up of Enoch into the sixth Heaven.]"
+        },
+        {
+          "number": "1",
+          "text": "And these men took me thence and brought me to the sixth heaven, and I saw there seven bands of angels, very bright and glorious, and their faces shining more than the rays of the sun. They are resplendent, and there is no difference in their countenances, or their manner, or the style of their clothing."
+        },
+        {
+          "number": "2",
+          "text": "And these orders arrange and study the revolutions of the stars, and the changes of the moon, and revolutions of the sun, and superintend the good or evil condition of the world."
+        },
+        {
+          "number": "3",
+          "text": "And they arrange teachings, and instructions, and sweet speaking, and singing, and all kinds of glorious praise. These are the archangels who are appointed over the angels! They hold in subjection all living things both in heaven and earth."
+        },
+        {
+          "number": "4",
+          "text": "And there are the angels who are over seasons and years, and the angels who are over rivers and the sea, and those who are over the fruits of the earth, and the angels over every herb, giving all kinds of nourishment to every living thing."
+        },
+        {
+          "number": "5",
+          "text": "And the angels over all souls of men, who write down all their works and their lives before the face of the Lord."
+        },
+        {
+          "number": "6",
+          "text": "In the midst of them are seven phoenixes and seven cherubims, and seven six-winged creatures, being as one voice and singing with one voice; and it is not possible to describe their singing, and they rejoice before the Lord at His footstool."
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "label": "Chapter 20",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Thence Enoch is taken into the seventh Heaven.]"
+        },
+        {
+          "number": "1",
+          "text": "And these men took me thence and brought me to the seventh heaven, and I saw there a very great light and all the fiery hosts of great archangels, and incorporeal powers and lordships, and principalities, and powers; cherubim and seraphim, thrones and the watchfulness of many eyes. There were ten troops, a station of brightness, and I was afraid, and trembled with a great terror."
+        },
+        {
+          "number": "2",
+          "text": "And those men took hold of me and brought me into their midst and said to me: ‘Be of good cheer, Enoch, be not afraid.’"
+        },
+        {
+          "number": "3",
+          "text": "And they showed me the Lord from afar sitting on His lofty throne. And all the heavenly hosts having approached stood on the ten steps, according to their rank: and made obeisance to the Lord."
+        },
+        {
+          "number": "4",
+          "text": "And so they proceeded to their places in joy and mirth, and in boundless light singing songs with low and gentle voices, and gloriously serving Him."
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "label": "Chapter 21",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How the Angels placed Enoch there at the limits of the seventh Heaven, and departed from him invisibly.]"
+        },
+        {
+          "number": "1",
+          "text": "They leave not nor depart day or night standing before the face of the Lord, working His will, cherubim and seraphim, standing round His throne. And the six-winged creatures overshadow all His throne, singing with a soft voice before the face of the Lord: ‘Holy, Holy, Holy: Lord God of Sabaoth! heaven and earth are full of Thy glory!’"
+        },
+        {
+          "number": "2",
+          "text": "When I had seen all these things, these men said unto me: ‘Enoch, up to this time we have been ordered to accompany thee.’ And those men departed from me, and I saw them no more. And I remained alone at the extremity of the heaven, and was afraid, and fell on my face, and said within myself: ‘Woe is me! what has come upon me!.’"
+        },
+        {
+          "number": "3",
+          "text": "And the Lord sent one of His glorious archangels, Gabriel, and he said to me: ‘Be of good cheer, Enoch, be not afraid, stand up, come with me, and stand up before the face of the Lord for ever."
+        },
+        {
+          "number": "4",
+          "text": "And I answered him, and said: ‘Oh! Lord, my spirit has departed from me with fear and trembling! call to me the men who have brought me to this place: upon them I have relied, and with them I would go before the face of the Lord.’"
+        },
+        {
+          "number": "5",
+          "text": "And Gabriel hurried me away like a leaf carried off by the wind, and he took me and set me before the face of the Lord."
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "label": "Chapter 22",
+      "section": "",
+      "verses": [
+        {
+          "number": "4",
+          "text": "I fell down and worshipped the Lord."
+        },
+        {
+          "number": "5",
+          "text": "And the Lord spake with His lips to me: ‘Be of good cheer, Enoch, be not afraid: rise up and stand before my face for ever.’"
+        },
+        {
+          "number": "6",
+          "text": "And Michael, the chief captain, lifted me up, and brought me before the face of the Lord, and the Lord said to His servants making trial of them: ‘Let Enoch come to stand before My face for ever!’"
+        },
+        {
+          "number": "7",
+          "text": "And the glorious ones made obeisance to the Lord, and said: ‘Let Enoch proceed according to Thy word!’"
+        },
+        {
+          "number": "8",
+          "text": "And the Lord said to Michael: ‘Go and take from Enoch his earthly robe, and anoint him with My holy oil, and clothe him with the raiment of My glory.’"
+        },
+        {
+          "number": "9",
+          "text": "And so Michael did as the Lord spake unto him. He anointed me and clothed me, and the appearance of that oil was more than a great light, and its anointing was like excellent dew; and its fragrance like myrrh, shining like a ray of the sun."
+        },
+        {
+          "number": "10",
+          "text": "And I gazed upon myself, and I was like one of His glorious ones. And there was no difference, and fear and trembling departed from me."
+        },
+        {
+          "number": "11",
+          "text": "And the Lord called one of His archangels, by name Vretil, who was more wise than the other archangels, and wrote down all the doings of the Lord."
+        },
+        {
+          "number": "12",
+          "text": "And the Lord said to Vretil, ‘Bring forth the books from my store-places, and give a reed to Enoch, and interpret to him the books.’ And Vretil made haste and brought me the books, fragrant with myrrh, and gave me a reed from his hand."
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "label": "Chapter 23",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Of the Writing of Enoch how he wrote about his wonderful Goings and the heavenly Visions, and he himself wrote 366 Books.]"
+        },
+        {
+          "number": "1",
+          "text": "And he told me all the works of the heaven and the earth and the sea, and their goings and comings, the noise of the thunder; the sun and moon and the movement of the stars; their changings; the seasons and years; days and hours; and goings of the winds; and the numbers of the angels; the songs of the armed hosts."
+        },
+        {
+          "number": "2",
+          "text": "And everything relating to man, and every language of their songs, and the lives of men, and the precepts and instructions, and sweet-voiced singings, and all which it is suitable to be instructed in."
+        },
+        {
+          "number": "3",
+          "text": "And Vretil instructed me thirty days and thirty nights, and his lips never ceased speaking; and I did not cease thirty days and thirty nights writing all the remarks."
+        },
+        {
+          "number": "4",
+          "text": "And Vretil said to me: ‘All the things which I have told thee, thou hast written down. Sit down and write all about the souls of men, those of them which are not born, and the places prepared for them for ever."
+        },
+        {
+          "number": "5",
+          "text": "For every soul was created eternally before the foundation of the world.’"
+        },
+        {
+          "number": "6",
+          "text": "And I wrote all out continuously during thirty days and thirty nights, and I copied all out accurately, and I wrote 366 books."
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "label": "Chapter 24",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Of the great Secrets of God, which God revealed and told to Enoch, and spoke with him Face to Face.]"
+        },
+        {
+          "number": "1",
+          "text": "And the Lord called me and said to me: ‘Enoch, sit thou on My left hand with Gabriel.’ And I made obeisance to the Lord."
+        },
+        {
+          "number": "2",
+          "text": "And the Lord spake to me: ‘Enoch, the things which thou seest at rest and in motion were completed by me. I will tell thee now, even from the first, what things I created from the non-existent, and what visible things from the invisible."
+        },
+        {
+          "number": "3",
+          "text": "Not even to My angels have I told My secrets, nor have I informed them of their origin, nor have they understood My infinite creation which I tell thee of to-day."
+        },
+        {
+          "number": "4",
+          "text": "For before anything which is visible existed, I alone held my course among the invisible things, like the sun from the east to the west, and from the west to the east."
+        },
+        {
+          "number": "5",
+          "text": "But even the sun has rest in himself, but I did not find rest, because I was creating every thing. And I planned to lay the foundations and to make the visible creation."
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "label": "Chapter 25",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[God tells Enoch how out of the lowest Darkness, there comes forth the visible and the invisible.]"
+        },
+        {
+          "number": "1",
+          "text": "‘And I commanded in the depths that visible things should come out of invisible. And out came Adoil very great, and I gazed upon him. And lo! his colour was red, of great brightness."
+        },
+        {
+          "number": "2",
+          "text": "And I said unto him: “Burst asunder, Adoil, and let that which comes from thee be visible.”"
+        },
+        {
+          "number": "3",
+          "text": "And he burst asunder, and there came forth a great light, and I was in the midst of a great light, and as the light came forth from the light, there came forth the great world, revealing all the creation, which I had purposed to make, and I saw that it was good."
+        },
+        {
+          "number": "4",
+          "text": "And I made for Myself a throne, and sat upon it, and I said to the light: “Go forth on high and be established above My throne, and be the foundation for things on high.’"
+        },
+        {
+          "number": "5",
+          "text": "And there was nothing higher than the light, and as I reclined, I saw it from My throne."
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "label": "Chapter 26",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[God again calls from the Depths and there came forth Arkhas, Tazhis, and one who is very red.]"
+        },
+        {
+          "number": "1",
+          "text": "And I summoned a second time from the depths, and said: ‘Let the solid thing which is visible come forth from the invisible.’ And Arkhas came forth firm and heavy and very red."
+        },
+        {
+          "number": "2",
+          "text": "And I said: ‘Be thou divided, O Arkhas, and let that be seen which is produced from thee.’ And when he was divided, the world came forth, very dark and great, bringing the creation of all things below."
+        },
+        {
+          "number": "3",
+          "text": "And I saw that it was good. And I said to him: ‘Go thou down and be thou established. And be a foundation for things below’; and it was so. And it came forth and was established, and was a foundation for things below. And there was nothing else below the darkness."
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "label": "Chapter 27",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How God established the Water, and surrounded it with Light, and established upon it Seven Islands.]"
+        },
+        {
+          "number": "1",
+          "text": "And I ordered that there should be a separation between the light and the darkness, and I said: ‘Let there be a thick substance,’ and it was so."
+        },
+        {
+          "number": "2",
+          "text": "And I spread this out and there was water, and I spread it over the darkness, below the light."
+        },
+        {
+          "number": "3",
+          "text": "And thus I made firm the waters, that is, the depths, and I surrounded the waters with light, and I created seven circles and I fashioned them like crystal, moist and dry, that is to say, like glass and ice, and as for the waters, and also the other elements, I showed each of them their paths, (viz.) to the seven stars, each of them in their heaven, how they should go; and I saw that it was good."
+        },
+        {
+          "number": "4",
+          "text": "And I separated between the light and the darkness; that is to say, between the waters here and there. And I said to the light: ‘Let it be day’; and to the darkness, ‘Let it be night.’ And the evening and the morning were the first day."
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "label": "Chapter 28",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "And thus I made firm the circles of the heavens, and caused the waters below, which are under the heavens to be gathered into one place, and that the waves should be dried up, and it was so."
+        },
+        {
+          "number": "2",
+          "text": "Out of the waves I made firm and great stones, and out of the stones I heaped together a dry substance, and I called the dry substance earth."
+        },
+        {
+          "number": "3",
+          "text": "And in the midst of the earth I appointed a pit, that is to say an abyss."
+        },
+        {
+          "number": "4",
+          "text": "I gathered the sea into one place, and I restrained it with a yoke. And I said to the sea: ‘Lo! I give thee an eternal portion and thou shalt not move from thy established position.’ So I made fast the firmament and fixed it above the water."
+        },
+        {
+          "number": "5",
+          "text": "This I called the first day of the creation. Then it was evening, and again morning, and it was the second day."
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "label": "Chapter 29",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "And for all the heavenly hosts I fashioned a nature like that of fire, and My eye gazed on the very firm and hard stone. And from the brightness of My eye the lightning received its wonderful nature."
+        },
+        {
+          "number": "2",
+          "text": "And fire is in the water and water in the fire, and neither is the one quenched, nor the other dried up. On this account lightning is brighter than the sun, and soft water is stronger than hard stone."
+        },
+        {
+          "number": "3",
+          "text": "And from the stone I cut the mighty fire. And from the fire I made the ranks of the spiritual hosts, ten thousand angels, and their weapons are fiery, and their garment is a burning flame, and I ordered them to stand each in their ranks. [Here Satanail was hurled from the Heights with his Angels.]"
+        },
+        {
+          "number": "4",
+          "text": "One of these in the ranks of the Archangels, having turned away with the rank below him, entertained an impossible idea, that he should make his throne higher than the clouds over the earth, and should be equal in rank to My power."
+        },
+        {
+          "number": "5",
+          "text": "And I hurled him from the heights with his angels. And he was flying in the air continually, above the abyss."
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "label": "Chapter 30",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "And so I created all the heavens, and it was the third day. On the third day I ordered the earth to produce great trees, such as bear fruit, and mountains, and every sort of herb and every seed that is sown, and I planted Paradise, and enclosed it, and placed fiery angels armed, and so I made a renewing."
+        },
+        {
+          "number": "2",
+          "text": "Then it was evening, and it was morning, being the fourth day. On the fourth day I ordered that there should be great lights in the circles of the heavens."
+        },
+        {
+          "number": "3",
+          "text": "In the first and highest circle I placed the star Kruno; and on the second Aphrodite; on the third Ares; on the fourth the Sun; on the fifth Zeus; on the sixth Hermes; on the seventh the moon."
+        },
+        {
+          "number": "4",
+          "text": "And the lower air I adorned with the lesser stars."
+        },
+        {
+          "number": "5",
+          "text": "And I placed the sun to give light to the day, and the moon and the stars to give light to the night; the sun that he should go according to each sign of the Zodiac; and the course of the moon through the twelve signs of the Zodiac."
+        },
+        {
+          "number": "6",
+          "text": "And I fixed their names and existence, the thunders, and the revolutions of the hours, how they take place."
+        },
+        {
+          "number": "7",
+          "text": "Then it was evening and the morning, the fifth day. On the fifth day I commanded the sea to produce fish, and winged fowls of all kinds, and all things that creep upon the earth, and four-footed things that go about the earth, and the things that fly in the air, male and female, and every living thing breathing with life."
+        },
+        {
+          "number": "8",
+          "text": "And it was evening and morning the sixth day. On the sixth day I ordered My Wisdom to make man of seven substances. (1) His flesh from the earth; (2) his blood from the dew; (3) his eyes from the sun; (4) his bones from the stones; (5) his thoughts from the swiftness of the angels, and the clouds; (6) his veins and hair from the grass of the earth; (7) his spirit from My spirit and from the wind."
+        },
+        {
+          "number": "9",
+          "text": "And I gave him seven natures: hearing to his body, sight to his eyes, smell to the perception, touch to the veins, taste to the blood, the bones for endurance, sweetness for thought."
+        },
+        {
+          "number": "10",
+          "text": "I purposed a subtle thing: from the invisible and visible nature I made man. From both are his death and life, and his form; and the word was like a deed both small in a great thing, and great in a small thing."
+        },
+        {
+          "number": "11",
+          "text": "And I placed him upon the earth; like a second angel, in an honourable, great, and glorious way."
+        },
+        {
+          "number": "12",
+          "text": "And I made him a ruler to rule upon the earth, and to have My wisdom. And there was no one like him upon the earth of all My creations."
+        },
+        {
+          "number": "13",
+          "text": "And I gave him a name from the four substances: the East, the West, the North, and the South."
+        },
+        {
+          "number": "14",
+          "text": "And I appointed for him four special stars, and I gave him the name Adam."
+        },
+        {
+          "number": "15",
+          "text": "And I gave him his will, and I showed him the two ways, the light and the darkness. And I said unto him: ‘This is good and this is evil’; that I should know whether he has love for Me or hate: that he should appear in his race as loving Me."
+        },
+        {
+          "number": "16",
+          "text": "I knew his nature, he did not know his nature. Therefore his ignorance is a woe to him that he should sin, and I appointed death on account of his sin."
+        },
+        {
+          "number": "17",
+          "text": "And I caused him to sleep, and he slumbered. And I took from him a rib, and I made him a wife."
+        },
+        {
+          "number": "18",
+          "text": "And by his wife death came, and I received his last word. And I called her by a name, the mother; that is Eve."
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "label": "Chapter 31",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[God gives Paradise to Adam, and gives him Knowledge, so as to see the Heavens open, and that he should see the Angels singing a Song of Triumph.]"
+        },
+        {
+          "number": "1",
+          "text": "Adam had a life on earth, . . . and I made a garden in Eden in the East, and (I ordained) that he should observe the law and keep the instruction."
+        },
+        {
+          "number": "2",
+          "text": "I made for him the heavens open that he should perceive the angels singing the song of triumph. And there was light without any darkness continually in Paradise."
+        },
+        {
+          "number": "3",
+          "text": "And the devil took thought, as if wishing to make another world, because things were subservient to Adam on earth, to rule it and have lordship over it."
+        },
+        {
+          "number": "4",
+          "text": "The devil is to be the evil spirit of the lowest places; he became Satan, after he left the heavens. His name was formerly Satanail."
+        },
+        {
+          "number": "5",
+          "text": "And then, though he became different from the angels in nature, he did not change his understanding of just and sinful thoughts. He understood the judgement upon him, and the former sin which he had sinned."
+        },
+        {
+          "number": "6",
+          "text": "And on account of this, he conceived designs against Adam; in such a manner he entered and deceived Eve. But he did not touch Adam."
+        },
+        {
+          "number": "7",
+          "text": "But I cursed him for (his) ignorance: but those I previously blessed, them I did not curse,"
+        },
+        {
+          "number": "8",
+          "text": "nor man did I curse, nor the earth, nor any other things created, but the evil fruit of man, and then his works."
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "label": "Chapter 32",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[On account of the Sin of Adam, God sends him to the Earth, ‘From which I took thee,’ but He does not wish to destroy him in the Life to come.]"
+        },
+        {
+          "number": "1",
+          "text": "I said to him: ‘Earth thou art, and to earth also from whence I took thee shalt thou return. I will not destroy thee, but will send thee whence I took thee. Then I can also take thee in My second coming’; and I have blessed all My creation, visible and invisible."
+        },
+        {
+          "number": "2",
+          "text": "And I blessed the seventh day, which is the Sabbath, for in it I rested from all My labours."
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "label": "Chapter 33",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[God shows Enoch the Duration of this World, 7000 Years, and the eighth Thousand is the End. (There will be) no Years, no Months, no Weeks, no Days.]"
+        },
+        {
+          "number": "1",
+          "text": "Then also I established the eighth day. Let the eighth be the first after My work, and let the days be after the fashion of seven thousand."
+        },
+        {
+          "number": "2",
+          "text": "Let there be at the beginning of the eighth thousand a time when there is no computation, and no end; neither years, nor months, nor weeks, nor days, nor hours."
+        },
+        {
+          "number": "3",
+          "text": "And now Enoch, what things I have told thee, and what thou hast understood, and what heavenly things thou hast seen, and what thou hast seen upon the earth, and what thou hast written in books, by My wisdom all these things I devised so as to create them, and I made them from the highest foundation to the lowest, and to the end."
+        },
+        {
+          "number": "4",
+          "text": "And there is no counsellor nor inheritor of My works. I am the eternal One, and the One not made with hands: My thought is without change, My wisdom is My counsellor and My word is reality; and My eyes see all things, if I look to all things they stand fast. If I turn away My face, all are in need of Me."
+        },
+        {
+          "number": "5",
+          "text": "And now pay attention, Enoch, and know thou who is speaking to thee, and do thou take the books which thou thyself hast written."
+        },
+        {
+          "number": "6",
+          "text": "And I give thee Samuil and Raguil who brought thee to Me. And go with them upon the earth, and tell thy sons what things I have said to thee, and what thou hast seen from the lowest heaven up to My throne."
+        },
+        {
+          "number": "7",
+          "text": "For I have created all the hosts, and all the powers, and there is none that opposes Me, or is disobedient to Me. For all are obedient to My sole power, and labour for My rule alone."
+        },
+        {
+          "number": "8",
+          "text": "Give them the works written out by thee, and they shall read them, and know Me to be the Creator of all; and shall understand that there is no other God beside Me."
+        },
+        {
+          "number": "9",
+          "text": "They shall distribute the books of thy writing to their children’s children, and from generation to generation, and from nation to nation."
+        },
+        {
+          "number": "10",
+          "text": "And I will give thee, Enoch, My messenger, the great captain Michael, for thy writings and for the writings of thy fathers, Adam, Seth, Enos, Kainan, Malaleel, and Jared, thy father."
+        },
+        {
+          "number": "11",
+          "text": "And I shall not require them till the last age, for I have instructed My two angels, Ariukh and Pariukh, whom I have put upon the earth as their guardians."
+        },
+        {
+          "number": "12",
+          "text": "And I have ordered them in time to guard them that the account of what I shall do in thy family may not be lost in the deluge to come."
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "label": "Chapter 34",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[God accuses the Idolators; the Workers of Iniquity, such as Sodom, and on this account He brings the Deluge upon them.]"
+        },
+        {
+          "number": "1",
+          "text": "For I know the wickedness of men that they will not bear the yoke which I have put upon them, nor sow the seeds which I have given them, but will cast off My yoke and accept another, and sow vain seeds and bow to vain gods, and deny Me the only God."
+        },
+        {
+          "number": "2",
+          "text": "And they will fill all the world with wickedness and iniquity, and foul impurities with one another, sodomy and all other impure practices, which it is foul to speak about."
+        },
+        {
+          "number": "3",
+          "text": "And on this account I will bring a deluge upon the earth and I will destroy all, and the earth shall be destroyed in great corruption."
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "label": "Chapter 35",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[God leaves one Just Man from the Family of Enoch, with all his House, which pleased God according to His Will.]"
+        },
+        {
+          "number": "1",
+          "text": "And I will leave a righteous man of thy race, with all his house who shall act according to My will. From their seed after some time will be raised up a numerous generation, but of these, many will be very insatiable."
+        },
+        {
+          "number": "2",
+          "text": "Then on the extinction of that family, I will show them the books of thy writings, and of thy fathers, and the guardians of them on earth will show them to the men who are true, and please Me, who do not take My name in vain."
+        },
+        {
+          "number": "3",
+          "text": "And they shall tell to another generation, and these having read them, shall be glorified at last more than before."
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "label": "Chapter 36",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[God ordered Enoch to live on the Earth thirty Days, so as to teach his Sons, and his Sons’ Sons. After thirty Days he was thus taken up into Heaven.]"
+        },
+        {
+          "number": "1",
+          "text": "And now, Enoch, I give thee a period of thirty days to work in thy house. And tell thou thy sons, and all thy household before Me; that they may listen to what is spoken to them by thee; that they read and understand, how there is no other God beside Me; and let them always keep My commandments, and begin to read and understand the books written out by thee."
+        },
+        {
+          "number": "2",
+          "text": "And after thirty days, I will send My angels for thee, and they shall take thee from the earth, and from thy sons, according to My will."
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "label": "Chapter 37",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Here God summons an Angel.]"
+        },
+        {
+          "number": "1",
+          "text": "[And God called one of His greatest angels, terrible and awful, and placed him by me, and the appearance of that angel was like snow, and his hands were like ice; he had a very cold appearance, and my face was chilled because I could not endure the fear of the Lord; just as it is not possible to endure the mighty fire and heat of the sun, and the frost of the air."
+        },
+        {
+          "number": "2",
+          "text": "And the Lord said to me, ‘Enoch, if thy face is not chill here, no man can look upon thy face.’]"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "label": "Chapter 38",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Mathusal had Hope, and awaited his Father Enoch by his Bed, Day and Night.]"
+        },
+        {
+          "number": "1",
+          "text": "And the Lord said to those men who first took me: ‘Take Enoch with you to the earth, and wait for him till the appointed day.’"
+        },
+        {
+          "number": "2",
+          "text": "And at night they placed me upon my bed, and Mathusal, expecting my coming by day and by night, was a guard at my bed."
+        },
+        {
+          "number": "3",
+          "text": "And he was terrified when he heard my coming, and I gave him directions that all my household should come, that I might tell them everything."
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "label": "Chapter 39",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[The mournful Admonition of Enoch to his Sons, with Weeping and great Sorrow, speaking to them.]"
+        },
+        {
+          "number": "1",
+          "text": "Listen, my children, what things are according to the will of the Lord. I am sent to-day to you to tell you from the lips of the Lord, what was and what is happening now, and what will be before the day of judgement."
+        },
+        {
+          "number": "2",
+          "text": "Hear, my children, for I do not speak to you to-day from my lips, but from the lips of the Lord who has sent me to you. For you hear the words of my lips, a mortal man like yourselves."
+        },
+        {
+          "number": "3",
+          "text": "I have seen the face of the Lord as it were iron that is heated in the fire, and when brought out sends forth sparks and burns."
+        },
+        {
+          "number": "4",
+          "text": "Look at the eyes of me, a man laden with a sign for you. I have seen the eyes of the Lord shining like a ray of the sun and striking with terror human eyes."
+        },
+        {
+          "number": "5",
+          "text": "You, my children, see the right hand of a man made like yourselves assisting you. I have seen the right hand of the Lord assisting me, and filling the heavens."
+        },
+        {
+          "number": "6",
+          "text": "You see the compass of my actions, like to your own. I have seen the measureless and harmonious form of the Lord. To Him there is no end."
+        },
+        {
+          "number": "7",
+          "text": "You therefore hear the words of my lips, but I have heard the words of the Lord, like great thunder, with continual agitation of the clouds."
+        },
+        {
+          "number": "8",
+          "text": "And now, my children, listen to the discourses of your earthly father. It is terrible and awful to stand before the face of an earthly prince—terrible and very awful because the will of the prince is death and the will of the prince is life; how much more is it terrible and awful to stand before the face of the Lord of lords, and of the earthly and the heavenly hosts. Who can endure this never-ending terror?"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "label": "Chapter 40",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Enoch instructs faithfully his Children about all Things from the Mouth of the Lord; how he saw, and heard and wrote them down.]"
+        },
+        {
+          "number": "1",
+          "text": "And now, my children, I know all things from the lips of the Lord; for my eyes have seen from the beginning to the end."
+        },
+        {
+          "number": "2",
+          "text": "I know all things and have written all things in the books, both the heavens and the end of them, and their fulness, and all the hosts, and I have measured their goings, and written down the stars and their innumerable quantity."
+        },
+        {
+          "number": "3",
+          "text": "What man has seen their alternations and their goings? Not even the angels know their number; I have written down the names of all."
+        },
+        {
+          "number": "4",
+          "text": "And I have measured the circle of the sun, and I have measured his rays; and his coming in and going out, through all the months, and all his courses, and their names I have written down."
+        },
+        {
+          "number": "5",
+          "text": "I have measured the circle of the moon, and its waning which occurs during every day, and the secret places in which it hides every day and ascends according to all the hours."
+        },
+        {
+          "number": "6",
+          "text": "I have laid down the four seasons, and from the seasons I made four circles, and in the circles I placed the years; I placed the months, and from the months I calculated the days, and from the days I have calculated the hours."
+        },
+        {
+          "number": "7",
+          "text": "Moreover, I have written down all things moving upon the earth. I have written down all things that are nourished, all seed sown and unsown, which grows on the earth, and all things belonging to the garden, and every herb and every flower, and their fragrance and their names."
+        },
+        {
+          "number": "8",
+          "text": "And the dwellings of the clouds, and their conformations and their wings, how they bring rain and the rain-drops, I investigated all."
+        },
+        {
+          "number": "9",
+          "text": "And I wrote down the course of the thunder and lightning, and they showed me the keys, and their guardians and their path by which they go. They are brought forth in bonds, in measured degree, and are let go in bonds, lest by their heavy course and vehemence they should overload the clouds of wrath and destroy everything on earth."
+        },
+        {
+          "number": "10",
+          "text": "I have written down the treasuries of the snow, and the store-houses of the hail, and the cool breezes. And I observed the holder of the keys of them during the season: and how he fills the clouds with them, and yet does not exhaust their treasuries."
+        },
+        {
+          "number": "11",
+          "text": "I wrote down the abodes of the winds, and I observed and saw how those who hold their keys bear balances and measures, and in the first place they put them on a balance, in the second they let them go in measure moderately, with care over the whole earth, so that with their heavy breathing they should not shake the whole earth."
+        },
+        {
+          "number": "12",
+          "text": "For I have measured the whole earth, its mountains and all hills, fields, trees, stones, rivers; all things that exist I have written down, the height from earth to the seventh heaven, and down to the lowest hell, the place of judgement and the mighty hell laid open, and full of lamentation. And I saw how the prisoners suffer, awaiting the immeasurable judgement."
+        },
+        {
+          "number": "13",
+          "text": "And I wrote out all of those who are being judged by the judge, and all the judgement they receive, and all their deeds."
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "label": "Chapter 41",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How Enoch wept for the Sins of Adam.]"
+        },
+        {
+          "number": "1",
+          "text": "And I saw all our forefathers from the beginning with Adam and Eve, and I sighed and wept, and spake of the ruin (caused by) their wickedness: Woe is me for my infirmity and that of my forefathers."
+        },
+        {
+          "number": "2",
+          "text": "And I meditated in my heart and said: ‘Blessed is the man who was not born, or, having been born, has never sinned before the face of the Lord, so that he should not come into this place, to bear the yoke of this place!’"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "label": "Chapter 42",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How Enoch saw those who keep the Keys, and the Guardians of the Gates of Hades standing by.]"
+        },
+        {
+          "number": "1",
+          "text": "I saw those who keep the keys, and are the guardians of the gates of hell, standing, like great serpents, and their faces were like quenched lamps, and their eyes were fiery, and their teeth were sharp. And they were stripped to the waist."
+        },
+        {
+          "number": "2",
+          "text": "And I said before their faces, ‘Would that I had not seen you, nor heard of your doings, and that those of my race had never come to you! Now they have only sinned a little in this life, and always suffer in the eternal life.’"
+        },
+        {
+          "number": "3",
+          "text": "I went out to the East, to the paradise of Eden, where rest has been prepared for the just, and it is open to the third heaven, and shut from this world."
+        },
+        {
+          "number": "4",
+          "text": "And guards are placed at the very great gates of the east of the sun, i.e. fiery angels, singing triumphant songs, that never cease rejoicing in the presence of the just."
+        },
+        {
+          "number": "5",
+          "text": "At the last coming they will lead forth Adam with our forefathers, and conduct them there, that they may rejoice, as a man calls those whom he loves to feast with him; and they having come with joy hold converse, before the dwelling of that man, with joy awaiting his feast, the enjoyment and the immeasurable wealth, and joy and merriment in the light, and eternal life."
+        },
+        {
+          "number": "6",
+          "text": "Then I said, ‘I tell you, my children: blessed is he who fears the name of the Lord, and serves continually before His face, and brings his gifts with fear continually in this life, and lives all his life justly, and dies."
+        },
+        {
+          "number": "7",
+          "text": "Blessed is he who executes a just judgement, not for the sake of recompense, but for the sake of righteousness, expecting nothing in return: a sincere judgement shall afterwards come to him."
+        },
+        {
+          "number": "8",
+          "text": "Blessed is he who clothes the naked with a garment, and gives his bread to the hungry."
+        },
+        {
+          "number": "9",
+          "text": "Blessed is he who gives a just judgement for the orphan and the widow, and assists every one who is wronged."
+        },
+        {
+          "number": "10",
+          "text": "Blessed is he who turns from the unstable path of this vain world, and walks by the righteous path which leads to eternal life."
+        },
+        {
+          "number": "11",
+          "text": "Blessed is he who sows just seed, he shall reap sevenfold."
+        },
+        {
+          "number": "12",
+          "text": "Blessed is he in whom is the truth, that he may speak the truth to his neighbour."
+        },
+        {
+          "number": "13",
+          "text": "Blessed is he who has love upon his lips, and tenderness in his heart."
+        },
+        {
+          "number": "14",
+          "text": "Blessed is he who understands every work of the Lord, and glorifies the Lord God; for the works of the Lord are just, and of the works of man some are good, and others evil, and by their works those who have wrought them are known."
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "label": "Chapter 43",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Enoch shows his Children how he measured and wrote out the Judgements of God.]"
+        },
+        {
+          "number": "1",
+          "text": "Lo! my children, the things which I have gained on the earth and meditated upon from the Lord God I have written down both winter and summer. I have compiled the account of all, and concerning the years I have calculated each hour; I have measured the hours and written out the lists of them and I have ascertained all their differences."
+        },
+        {
+          "number": "2",
+          "text": "As one year is more honourable than another, so is one man more honourable than another. This man on account of many possessions, that man on account of the wisdom of the heart; this man on account of understanding, another on account of cunning; this man for the silence of the lips; this man on account of purity, that on account of strength; this man on account of comeliness, another on account of youth; this man on account of sharpness of mind, another on account of quicksightedness of body, and another for the perception of many things."
+        },
+        {
+          "number": "3",
+          "text": "Let it be heard everywhere; there is no one greater than he who fears God. He shall be the most glorious for ever."
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "label": "Chapter 44",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Enoch instructs his Sons that they should not revile the Persons of Men, whether they are great or small.]"
+        },
+        {
+          "number": "1",
+          "text": "God made man with His own hands, in the likeness of His countenance, both small and great the Lord created him. He who reviles the countenance of man, reviles the countenance of the Lord."
+        },
+        {
+          "number": "2",
+          "text": "He who shows wrath against another without injury, the great wrath of the Lord shall consume him."
+        },
+        {
+          "number": "3",
+          "text": "If a man spits at the face of another insultingly, he shall be consumed in the great judgement of the Lord."
+        },
+        {
+          "number": "4",
+          "text": "Blessed is the man who does not direct his heart with malice against any man, and who assists the man who is injured, and under judgement, and raises up the oppressed, and accomplishes the prayer of him who asks!"
+        },
+        {
+          "number": "5",
+          "text": "For in the day of the great judgement, every measure and standard and weight, which is for traffic, namely, that which is hung on a balance and stands for traffic, knows its own measure, and shall receive its reward by measure."
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "label": "Chapter 45",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[God shows that He does not wish Sacrifices from Man, nor Burnt-Offerings, but pure and contrite Hearts.]"
+        },
+        {
+          "number": "1",
+          "text": "He who hastens and brings his offering before the face of the Lord, then the Lord will hasten the accomplishment of his work, and will execute a just judgement for him."
+        },
+        {
+          "number": "2",
+          "text": "He who increases his lamp before the face of the Lord, the Lord increases greatly his treasure in the heavenly kingdom."
+        },
+        {
+          "number": "3",
+          "text": "God does not require bread, nor a light, nor an animal, nor any other sacrifice, for it is as nothing."
+        },
+        {
+          "number": "4",
+          "text": "But God requires a pure heart, and by means of all this, He tries the heart of man."
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "label": "Chapter 46",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How an earthly Prince will not receive Gifts from Man which are contemptible and impure. How much more does God loath impure Gifts, and rejects them with Wrath, and will not receive the Gifts of such a Man.]"
+        },
+        {
+          "number": "1",
+          "text": "Hear, my people, and pay attention to the words of my lips. If any one brings gifts to an earthly prince, but having unfaithfulness in his heart: if the prince knows it, will he not be angry with him on account of that, and he will not take his gifts, and will hand him over to condemnation?"
+        },
+        {
+          "number": "2",
+          "text": "Or if a man flatters another in his language, but (plans) evil against him in his heart, will not the other understand the craft of his heart, and he himself will be condemned, so that his unrighteousness will be evident to all?"
+        },
+        {
+          "number": "3",
+          "text": "But when God shall send a great light, by means of that there will be judgement to the just and unjust, and nothing will be concealed."
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "label": "Chapter 47",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Enoch instructs his Sons from the Lips of God, and gives them the Manuscripts of this Book.]"
+        },
+        {
+          "number": "1",
+          "text": "Now, my children, put my thoughts in your hearts; pay attention to the words of your father, which have come to you from the mouth of the Lord."
+        },
+        {
+          "number": "2",
+          "text": "Take these books of the writings of your father, and read them, and in them ye shall learn all the works of the Lord. There have been many books from the beginning of creation, and shall be to the end of the world, but none shall make things known to you like my writings."
+        },
+        {
+          "number": "3",
+          "text": "But if you shall preserve my writings, you will not sin against God. For there is no other besides the Lord, neither in heaven nor on earth, nor the depths below, nor the solitary foundations."
+        },
+        {
+          "number": "4",
+          "text": "God established the foundations upon things that are unknown, and stretched out the visible and invisible heavens, and made firm the earth upon the waters, and established the waters on things that are not fixed. Who has created all the innumerable works of creation?"
+        },
+        {
+          "number": "5",
+          "text": "Who has numbered the dust of the earth, and the sand of the sea, and the drops of rain, and the dew of the morning, and the breath of the wind? Who has bound earth and sea with bonds that cannot be broken up: and has cut the stars out of fire, and beautified the heavens, and placed the sun in the midst of them so that."
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "label": "Chapter 48",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Of the course of the Sun throughout the seven Circles.]"
+        },
+        {
+          "number": "1",
+          "text": "The sun goes in the seven circles of the heavens, and I gave him 182 thrones when he goes on a short day, and also 182 thrones when he goes on a long day."
+        },
+        {
+          "number": "2",
+          "text": "And he has two great thrones on which he rests, returning hither and thither above the monthly thrones. From the month Tsivan after seventeen days he descends to the month Thevan, and from the seventeenth day of Thevad he ascends."
+        },
+        {
+          "number": "3",
+          "text": "And so the sun goes through all the courses of the heaven; when he goes near the earth, then the earth rejoices and produces its fruit; when he departs, then the earth is sad, and the trees and all the fruits have no development."
+        },
+        {
+          "number": "4",
+          "text": "All this by measure and minute arrangement of time He has arranged by His wisdom, both in the case of things visible and invisible."
+        },
+        {
+          "number": "5",
+          "text": "He has made all things visible out of invisible, Himself being invisible."
+        },
+        {
+          "number": "6",
+          "text": "Thus I tell you, my children, distribute the books to your children, in all your families, and among the nations."
+        },
+        {
+          "number": "7",
+          "text": "Those who are wise let them fear God, and let them receive them and let them love them more than any kind of food, and read them."
+        },
+        {
+          "number": "8",
+          "text": "But those who are senseless and have no thought of the Lord and do not fear God will not receive them but turn away, and keep themselves from them, the terrible judgement shall await them."
+        },
+        {
+          "number": "9",
+          "text": "Blessed is the man who bears their yoke, and puts it on, for he shall be set free in the day of the great judgement."
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "label": "Chapter 49",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Enoch instructs his Sons not to swear either by the Heaven or the Earth; and shows the Promise of God to a Man even in the Womb of his Mother.]"
+        },
+        {
+          "number": "1",
+          "text": "For I swear to you my children, but I will not swear by a single oath, neither by heaven, nor by earth, nor by any other creature which God made. God said: ‘There is no swearing in me, nor injustice, but truth. If there is no truth in men, let them swear by a word, yea, yea, or nay, nay."
+        },
+        {
+          "number": "2",
+          "text": "But I swear to you, yea, yea, that there has not been even a man in his mother’s womb, for whom a place has not been prepared for every soul; and a measure is fixed how long a man shall be tried in this world. O! my children, be not deceived there is a place prepared there for every soul of man."
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "label": "Chapter 50",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How Nobody born upon the Earth can hide himself, nor are his Deeds concealed. (God) commands that he should be on the Earth a short time, endure Temptation, and Annoyance, and not injure the Widow and Orphan.]"
+        },
+        {
+          "number": "1",
+          "text": "I have laid down in the writings the actions of every man, and no one born on the earth can hide himself, nor can his deeds be concealed; I see all."
+        },
+        {
+          "number": "2",
+          "text": "Now, therefore, my children, in patience and meekness accomplish the number of your days, and ye shall inherit the endless life which is to come."
+        },
+        {
+          "number": "3",
+          "text": "Every wound, and every affliction, and every evil word, and attack endure for the sake of the Lord."
+        },
+        {
+          "number": "4",
+          "text": "And when you might have vengeance do not repay, either your neighbour or your enemy. For God will repay as your avenger in the day of the great judgement. Let it not be for you to take vengeance."
+        },
+        {
+          "number": "5",
+          "text": "Whoever of you shall spend gold or silver for the sake of a brother, shall receive abundant treasure in the day of judgement and stretch out your hands to the orphan, the widow, and the stranger."
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "label": "Chapter 51",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Enoch instructs his Sons, not to hide their Treasures upon Earth, but bids them give Alms to the Needy.]"
+        },
+        {
+          "number": "1",
+          "text": "Stretch out your hands to the poor man according to your powers."
+        },
+        {
+          "number": "2",
+          "text": "Do not hide your silver in the earth: assist the honest man in his affliction, and affliction shall not come upon you, in the time of your labour."
+        },
+        {
+          "number": "3",
+          "text": "And whatever violent and grievous yoke shall be put upon you, endure all for the Lord’s sake, and so you will receive your reward in the day of judgement."
+        },
+        {
+          "number": "4",
+          "text": "Morning, afternoon, and evening, it is good to go into the house of the Lord to glorify the Creator of all."
+        },
+        {
+          "number": "5",
+          "text": "Wherefore let every thing that hath breath glorify Him, and let every creature visible and invisible give forth praise."
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "label": "Chapter 52",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[God instructs His faithful Servants how they are to praise His Name.]"
+        },
+        {
+          "number": "1",
+          "text": "Blessed is the man who opens his lips to praise the God of Sabaoth, and praises the Lord with his heart."
+        },
+        {
+          "number": "2",
+          "text": "Cursed is every man who opens his lips to abuse and to calumniate his neighbour."
+        },
+        {
+          "number": "3",
+          "text": "Blessed is he who opens his lips to the blessing and praise of God!"
+        },
+        {
+          "number": "4",
+          "text": "Cursed is he who opens his lips to swearing and blasphemy before the face of the Lord all his days."
+        },
+        {
+          "number": "5",
+          "text": "Blessed is he who blesses all the works of the Lord."
+        },
+        {
+          "number": "6",
+          "text": "Cursed is he who speaks ill of the works of the Lord."
+        },
+        {
+          "number": "7",
+          "text": "Blessed is he who looks to raise his own hand for labour."
+        },
+        {
+          "number": "8",
+          "text": "Cursed is he who looks to make use of another man’s labour."
+        },
+        {
+          "number": "9",
+          "text": "Blessed is he who preserves the foundations of his fathers from the beginning."
+        },
+        {
+          "number": "10",
+          "text": "Cursed is he who breaks the enactments of his fathers."
+        },
+        {
+          "number": "11",
+          "text": "Blessed is he who establishes peace and love."
+        },
+        {
+          "number": "12",
+          "text": "Cursed is he who troubles those who are at peace."
+        },
+        {
+          "number": "13",
+          "text": "Blessed is he who does not speak peace with his tongue, but in his heart there is peace to all!"
+        },
+        {
+          "number": "14",
+          "text": "Cursed is he who speaks peace with his tongue, but in his heart there is no peace."
+        },
+        {
+          "number": "15",
+          "text": "For all these things in measures and in books will be revealed in the day of the great judgement."
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "label": "Chapter 53",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Let us not say that our Father is with God, and will plead for us at the Day of Judgement. For I know that a Father cannot help his Son, nor a Son a Father.]"
+        },
+        {
+          "number": "1",
+          "text": "And now, my children, do not say; Our father stands before God, and prays for us (to be released) from sin; for there is no person there to help any man who has sinned."
+        },
+        {
+          "number": "2",
+          "text": "You see how I have written down all the works of every man before his creation, which is done in the case of all men for ever."
+        },
+        {
+          "number": "3",
+          "text": "And no man can say or unsay what I have written with my hand. For God sees all things, even the thoughts of wicked men, which lie in the storeplaces of the heart."
+        },
+        {
+          "number": "4",
+          "text": "And now, my children, pay attention to all the words of your father which I say to you: that ye may not grieve afterwards and say: Our father for some cause or other, never told them to us, in the time of this folly."
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "label": "Chapter 54",
+      "section": "",
+      "verses": [
+        {
+          "number": "paragraph",
+          "text": "[Enoch admonishes his Sons that they should give the Books to Others.] Let these books which I have given you be the inheritance of your peace: do not conceal them but tell them to all desiring them and admonish them that they may know the works of the Lord which are very wonderful."
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "label": "Chapter 55",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Here Enoch makes a Declaration to his Sons: and speaks to them with Tears: ‘My children, my Hour draws near, that I should go to Heaven. Lo! Angels stand before me!’]"
+        },
+        {
+          "number": "1",
+          "text": "My children, the appointed day and time have drawn near and constrain me to depart. The angels will come and stand before me on the earth awaiting what has been ordered them."
+        },
+        {
+          "number": "2",
+          "text": "In the morning I shall go to the highest heavens to my eternal habitation."
+        },
+        {
+          "number": "3",
+          "text": "Therefore I tell you to do all that is good before the face of the Lord."
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "label": "Chapter 56",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Methosalem asks a Blessing of his Father; that he may give him Bread to eat.]"
+        },
+        {
+          "number": "1",
+          "text": "Methosalem having answered his father Enoch said: ‘If it is good in thine eyes, my father, let me put food before thy face and then, having blessed our houses and thy sons, and all thy family, let thy people be glorified by thee; and then afterwards thou wilt depart, as God hath said.’"
+        },
+        {
+          "number": "2",
+          "text": "Enoch answered his son Methosalem and said: ‘Hear, my child, since God has anointed me with the oil of his glory, there has been no food in me, and my soul remembers nothing of earthly pleasure nor do I desire anything earthly."
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "label": "Chapter 57",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Enoch orders his Son Methosalem to call all his Brothers.]"
+        },
+        {
+          "number": "1",
+          "text": "But call all thy brothers, and all your families, and the elders of the people, that I may speak to them and depart as is appointed for me."
+        },
+        {
+          "number": "2",
+          "text": "And Methosalem hastened, and called his brethren, Regim, Riman, Ukhan, Khermion, [Gaidal], and the elders of the people, and brought them all before the face of his father Enoch. And having blessed them, he spake to them."
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "label": "Chapter 58",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[The Instruction of Enoch to his Sons.]"
+        },
+        {
+          "number": "1",
+          "text": "‘Listen to me, my sons. In those days when the Lord came upon the earth for the sake of Adam, and visited all his creation, which He Himself had made."
+        },
+        {
+          "number": "2",
+          "text": "The Lord called all the cattle of the earth, and all creeping things, and all the fowls that fly in the air, and brought them all before the face of our father Adam, and he gave names to all living things on the earth."
+        },
+        {
+          "number": "3",
+          "text": "And the Lord made him lord over all, and put all things under his hands, and subdued (them) to submission and to all obedience to man. So the Lord created man as master over all His possessions."
+        },
+        {
+          "number": "4",
+          "text": "The Lord will not judge any soul of beast on account of man, but he will judge the soul of man on account of the souls of beasts in the world to come."
+        },
+        {
+          "number": "5",
+          "text": "For as there is a special place for mankind for all the souls of men according to their number, so there is also of beasts. And not one soul shall perish which God has made till the great judgement."
+        },
+        {
+          "number": "6",
+          "text": "And every soul of beast shall bring a charge against man if he feeds them badly."
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "label": "Chapter 59",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Enoch teaches all his Sons why they must not touch the Flesh of Cattle, because of what comes from it.]"
+        },
+        {
+          "number": "1",
+          "text": "He, who acts lawlessly with regard to the souls of beasts, acts lawlessly with regard to his own soul."
+        },
+        {
+          "number": "2",
+          "text": "For a man offers clean animals and makes his sacrifice that he may preserve his soul. And if he offer as a sacrifice from clean beasts and birds, he preserves his soul."
+        },
+        {
+          "number": "3",
+          "text": "Everything that is given you for food, bind by the four feet: that is an atonement: he acts righteously (therein) and preserves his soul."
+        },
+        {
+          "number": "4",
+          "text": "But he who kills a beast without a wound kills his own soul and sins against his own flesh."
+        },
+        {
+          "number": "5",
+          "text": "And if any one does an injury to an animal secretly, it is an evil custom and he sins against his soul."
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "label": "Chapter 60",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How we ought not to kill a Man, neither with Weapon nor with Tongue.]"
+        },
+        {
+          "number": "1",
+          "text": "If he does an injury to the soul of man, he does an injury to his own soul; and there is no salvation for his flesh, nor forgiveness for ever."
+        },
+        {
+          "number": "2",
+          "text": "He who kills the soul of a man, kills his own soul, and destroys his own body, and there is no salvation for him for ever."
+        },
+        {
+          "number": "3",
+          "text": "He who prepares a net for another man will fall into it himself and there is no salvation for him for ever."
+        },
+        {
+          "number": "4",
+          "text": "He, who prepares a weapon against a man, shall not escape punishment in the great judgement for ever."
+        },
+        {
+          "number": "5",
+          "text": "If a man acts crookedly or speaks evil against any soul, he shall have no righteousness for himself for ever."
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "label": "Chapter 61",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Enoch admonishes his Sons to preserve themselves from Unrighteousness, and to stretch out their hands frequently to the Poor, and to give them something from their Labours.]"
+        },
+        {
+          "number": "1",
+          "text": "Now therefore, my children, preserve your hearts from every unrighteousness which the Lord hates. As a man asks his soul from God, so let him do to every living soul."
+        },
+        {
+          "number": "2",
+          "text": "For in the world to come, I know all things how that there are many mansions prepared for men; good for the good; evil for the evil; many and without number."
+        },
+        {
+          "number": "3",
+          "text": "Blessed are those who shall go to the mansions of the blessed; for in the evil ones there is no rest nor any means of return from them."
+        },
+        {
+          "number": "4",
+          "text": "Listen, my children, both small and great: When a man conceives a good thought in his heart and brings gifts before the Lord of his labours—if his hands have not wrought them then the Lord turns away His face from the labour of his hands, and he cannot gain advantage from the work of his hand."
+        },
+        {
+          "number": "5",
+          "text": "But if his hands have wrought, but his heart murmurs and he does not make an offering of his heart, but murmurs continually, he has no success."
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "label": "Chapter 62",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How it is proper to bring one’s Gifts with Faith, and how there is no Repentance after Death.]"
+        },
+        {
+          "number": "1",
+          "text": "Blessed is the man who in patience shall bring his gifts before the face of the Lord, for he shall avert the recompense of his sin."
+        },
+        {
+          "number": "2",
+          "text": "If he speaks words out of season there is no repentance for him: if he lets the appointed time pass and does not perform the work, he is not blessed; for there is no repentance after death."
+        },
+        {
+          "number": "3",
+          "text": "For every deed which a man does unseasonably is an offence before men, and a sin before God."
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "label": "Chapter 63",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How one must not despise the Humble, but give to them truly, so that thou mayest not be accursed before God.]"
+        },
+        {
+          "number": "1",
+          "text": "When a man clothes the naked and feeds the hungry, he gets a recompense from God."
+        },
+        {
+          "number": "2",
+          "text": "If his heart murmurs, he works for himself a double evil: he works destruction to that which he gives and there shall be no reward for it:"
+        },
+        {
+          "number": "3",
+          "text": "And the poor man, when his heart is satisfied or his flesh is clothed and he acts contemptuously, he destroys the effect of all his endurance of poverty and shall not gain the blessing of a recompense."
+        },
+        {
+          "number": "4",
+          "text": "For the Lord hates every contemptuous and proud-speaking man: and likewise every lying word: and that which is covered with unrighteousness. And it is cut with the sharpness of a deadly sword, and thrown into the fire, and burns for ever."
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "label": "Chapter 64",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[How the Lord calls Enoch: the People take Counsel to go to kiss him in the Place called Achuzan.]"
+        },
+        {
+          "number": "1",
+          "text": "When Enoch said these words to his sons, and the princes of the people, all the people far and near heard how the Lord called Enoch. And they took counsel, and they all said: ‘Let us go and kiss Enoch!’"
+        },
+        {
+          "number": "2",
+          "text": "And the men assembled to the number of 2000, and came to the place Achuzan, where Enoch was, and his sons."
+        },
+        {
+          "number": "3",
+          "text": "And the elders of the people came together and made obeisance and kissed Enoch, and said to him: ‘Enoch, our father; be thou blessed of the Lord, the eternal King!’"
+        },
+        {
+          "number": "4",
+          "text": "And now bless thy sons, and all the people, that we may be glorified before thee to-day."
+        },
+        {
+          "number": "5",
+          "text": "For thou art glorified before the face of the Lord for ever; since God has chosen thee above all men upon the earth, and has appointed thee as the scribe of His creation of visible and invisible things, and an avenger of the sins of men, and a succour to thy family!’ And Enoch answered all his people saying:"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "label": "Chapter 65",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Of the Exhortation of Enoch to his Sons.]"
+        },
+        {
+          "number": "1",
+          "text": "‘Listen, my children: before that anything existed and all creatures were made, the Lord made all things both visible and invisible."
+        },
+        {
+          "number": "2",
+          "text": "When the times of these things had come and were passed, understand how after all these things He made man in His own image after His likeness, and placed in him eyes to see; and ears to hear; and a heart to understand, and reason to take counsel."
+        },
+        {
+          "number": "3",
+          "text": "And the Lord contemplated the world for the sake of man, and made all the creation for his sake, and divided it into times. And from the times He made years, and from the years He made months, and from the months He made days, and of the days He made seven."
+        },
+        {
+          "number": "4",
+          "text": "And in these He made the hours and divided them into small portions, that a man should understand the seasons, and compute years and months, and hours; their alternations and beginnings and ends: and that he should compute his life from the beginning till death, and should meditate upon his sin, and should write down his evil and good deeds."
+        },
+        {
+          "number": "5",
+          "text": "For nothing done is concealed before the Lord. Let each man know his deeds, and not transgress the commandments and let him keep My writings securely from generation to generation."
+        },
+        {
+          "number": "6",
+          "text": "When all the creation of visible and invisible things comes to an end which the Lord has made; then every man shall come to the great judgement of the Lord."
+        },
+        {
+          "number": "7",
+          "text": "Then the times shall perish, and there shall be no year, nor month, nor day, and there shall be no hours nor shall they be reckoned."
+        },
+        {
+          "number": "8",
+          "text": "There shall be one eternity, and all the just who shall escape the great judgement of the Lord shall be gathered together in eternal life and for ever and ever the just shall be gathered together and they shall be eternal."
+        },
+        {
+          "number": "9",
+          "text": "Moreover there shall be no labour, nor sickness, nor sorrow, nor anxiety, nor need, nor night, nor darkness, but a great light."
+        },
+        {
+          "number": "10",
+          "text": "And there shall be to them a great wall that cannot be broken down; and bright and incorruptible paradise shall be their protection, and their eternal habitation. For all corruptible things shall vanish, and there shall be eternal life."
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "label": "Chapter 66",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[Enoch instructs his Sons, and all the Elders of the People: how with Fear and Trembling they ought to walk before the Lord, and serve Him alone, and not to worship Idols; for God made Heaven and Earth and every Creature and its Form.]"
+        },
+        {
+          "number": "1",
+          "text": "And now, my children, preserve your souls from all unrighteousness, which the Lord hates. Walk before His face with fear and trembling, and serve Him alone. Worship the true God, and not dumb idols."
+        },
+        {
+          "number": "2",
+          "text": "But pay attention to His command, and bring every just offering before the face of the Lord. But the Lord hates that which is unrighteous."
+        },
+        {
+          "number": "3",
+          "text": "For the Lord sees every thing; whatever man meditates in his heart, and what counsel he plans, and every thought is continually before the Lord."
+        },
+        {
+          "number": "4",
+          "text": "If ye look at the heavens there is the Lord, as the Lord made the heavens. If ye look at the earth then the Lord is there since the Lord made firm the earth and established every creature in it. If ye scrutinize the depths of the sea, and every thing under the earth there also is the Lord. For the Lord created all things."
+        },
+        {
+          "number": "5",
+          "text": "Do not bow down to the work of men, nor to the work of the Lord, leaving the Lord of all creation; for no deed is concealed before the face of the Lord."
+        },
+        {
+          "number": "6",
+          "text": "Walk, my children, in long suffering, in humility, in spite of calumny, and insult; in faith, and truth: in the promises, and sickness, in abuse, in wounds, in temptation, in nakedness, in deprivation, loving one another, till ye depart from this world of sickness. Then ye shall be heirs of eternity."
+        },
+        {
+          "number": "7",
+          "text": "Blessed are the just, who shall escape the great judgement! And they shall be seven times brighter than the sun, for in this age altogether the seventh part is separated."
+        },
+        {
+          "number": "8",
+          "text": "(Now concerning) the light, the darkness, the food, the sweetnesses, the bitternesses, the paradise, the tortures, the fires, the frosts and other things; I have put all this down in writing, that ye may read and understand."
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "label": "Chapter 67",
+      "section": "",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "[The Lord sent a Darkness upon the Earth, and covered the People and Enoch; and he was taken up on high; and there was Light in the Heavens.]"
+        },
+        {
+          "number": "1",
+          "text": "When Enoch had discoursed with the people, the Lord sent a darkness upon the earth, and there was a gloom, and it hid those men standing with Enoch."
+        },
+        {
+          "number": "2",
+          "text": "And the angels hasted and took Enoch and carried him to the highest heaven where the Lord received him, and set him before His face, and the darkness departed from the earth, and there was light."
+        },
+        {
+          "number": "3",
+          "text": "And the people saw and did not understand, how Enoch was taken, and they glorified God. And they who had seen such things departed to their houses."
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "label": "Chapter 68",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "Enoch was born on the sixth day of the month Tsivan! he lived 365 years. He was taken up into heaven on the first day of the month Tsivan, and he was in heaven sixty days."
+        },
+        {
+          "number": "2",
+          "text": "He wrote down the descriptions of all the creation which the Lord had made, and he wrote 366 books, and gave them to his sons."
+        },
+        {
+          "number": "3",
+          "text": "And he was on earth thirty days, and thus he was taken to heaven in the same month Tsivan on the same day the sixth day; the day on which he was born, and the same hour."
+        },
+        {
+          "number": "4",
+          "text": "As each man has but a dark existence in this life, so also is his beginning and birth, and departure from this life. In what hour he began; in that he was born, and in that he departs."
+        },
+        {
+          "number": "5",
+          "text": "And Methusalem hasted, and all his brethren, the sons of Enoch, and built an altar in the place called Achuzan, whence and when Enoch was taken up to heaven."
+        },
+        {
+          "number": "6",
+          "text": "And they took cattle, and invited all the people and sacrificed victims before the face of the Lord."
+        },
+        {
+          "number": "7",
+          "text": "All the people came and the elders of the people; all the host of them to the festivity, and brought their gifts to the sons of Enoch, and made a great festivity, rejoicing and being merry for three days; praising God who had given such a sign by means of Enoch, who had found favour with Him. And that they should hand it down to their son’s sons, from generation to generation, for ever. Amen."
+        }
+      ]
+    }
+  ]
+}

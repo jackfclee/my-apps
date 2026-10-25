@@ -1,0 +1,2974 @@
+{
+  "id": "4-ezra",
+  "title": {
+    "en": "4 Ezra",
+    "zh-Hant": "以斯拉四書"
+  },
+  "language": "en",
+  "source": {
+    "url": "https://ebible.org/eng-web/2ES03.htm",
+    "credit": "World English Bible Classic, 2 Esdras chapters 3–14 (the Jewish apocalypse commonly called 4 Ezra). Public domain. Original chapter numbering retained; chapters 1–2 and 15–16 are separate works and excluded. Chapter 7 includes the restored passage.",
+    "rightsUrl": "https://ebible.org/eng-web/copyright.htm",
+    "retrieved": "2026-10-24",
+    "sha256": {
+      "4-ezra-3.html": "f0ab43fe512f9d63cac293fc7d6e2aa3172a070763ef6c4aa3b676a01a6c5a61",
+      "4-ezra-4.html": "6bfdfa091c0575afb4e2bd7875d286dd28343a11b5d05bb6f72fbd869db1f7d9",
+      "4-ezra-5.html": "407a169766cd5c00b87ece0267d3222606e3784c3ac4f9fb0804aba64640fab0",
+      "4-ezra-6.html": "85835e226378423e9c538ef3c3b746d9bd2a030511c64ede1bfe2fa797a40a48",
+      "4-ezra-7.html": "728a2eacd2bd6a5a63522b1f25d87ad4154b7e32f0e2a6311b6c9cd511a328c1",
+      "4-ezra-8.html": "a81dd8e3ee3b88acebbc09c7ac9c00cecba8188e3728fc6ec26db7333c94728a",
+      "4-ezra-9.html": "5f50657012669e1efffb7d98b0249e5f412f040c94563d81fe43675ebd2cb6ef",
+      "4-ezra-10.html": "aaa5d3197dc73fc3c8332bec526ae86be21535c7b0a94bd4f6dfd90f2e506964",
+      "4-ezra-11.html": "1a0c13575fb351f0b4db35363fd58d358e3ea25a4d33de03185851036068ec13",
+      "4-ezra-12.html": "3e2c957b2523324980a60edbdc03521a6983b6b2c20f959e6315ad9d31f93f10",
+      "4-ezra-13.html": "76893d36ffe57cbf9b37cf134bfdcedfc0cc196bca472f1ddedd7edcf95dc159",
+      "4-ezra-14.html": "635101656e4df50d142815e4a9a81a614826a2badda54ddec4ba63aadebbdfb5"
+    }
+  },
+  "chapters": [
+    {
+      "id": "3",
+      "label": "Chapter 3",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "In the thirtieth year after the ruin of the city, I Salathiel, also called Esdras, was in Babylon, and lay troubled upon my bed, and my thoughts came up over my heart,"
+        },
+        {
+          "number": "2",
+          "text": "for I saw the desolation of Zion and the wealth of those who lived at Babylon."
+        },
+        {
+          "number": "3",
+          "text": "My spirit was very agitated, so that I began to speak words full of fear to the Most High, and said,"
+        },
+        {
+          "number": "4",
+          "text": "“O sovereign Lord, didn’t you speak at the beginning when you formed the earth—and that yourself alone—and commanded the dust"
+        },
+        {
+          "number": "5",
+          "text": "and it gave you Adam, a body without a soul? Yet it was the workmanship of your hands, and you breathed into him the breath of life, and he was made alive in your presence."
+        },
+        {
+          "number": "6",
+          "text": "You led him into the garden which your right hand planted before the earth appeared."
+        },
+        {
+          "number": "7",
+          "text": "You gave him your one commandment, which he transgressed, and immediately you appointed death for him and his descendants. From him were born nations, tribes, peoples, and kindred without number."
+        },
+        {
+          "number": "8",
+          "text": "Every nation walked after their own will, did ungodly things in your sight, and despised your commandments, and you didn’t hinder them."
+        },
+        {
+          "number": "9",
+          "text": "Nevertheless, again in process of time, you brought the flood on those who lived in the world and destroyed them."
+        },
+        {
+          "number": "10",
+          "text": "It came to pass that the same thing happened to them. Just as death came to Adam, so was the flood to these."
+        },
+        {
+          "number": "11",
+          "text": "Nevertheless, you left one of them, Noah with his household, and all the righteous men who descended from him."
+        },
+        {
+          "number": "12",
+          "text": "“It came to pass that when those who lived upon the earth began to multiply, they also multiplied children, peoples, and many nations, and began again to be more ungodly than their ancestors."
+        },
+        {
+          "number": "13",
+          "text": "It came to pass, when they did wickedly before you, you chose one from among them, whose name was Abraham."
+        },
+        {
+          "number": "14",
+          "text": "You loved, and to him only you showed the end of the times secretly by night,"
+        },
+        {
+          "number": "15",
+          "text": "and made an everlasting covenant with him, promising him that you would never forsake his descendants. To him, you gave Isaac, and to Isaac you gave Jacob and Esau."
+        },
+        {
+          "number": "16",
+          "text": "You set apart Jacob for yourself, but rejected Esau. Jacob became a great multitude."
+        },
+        {
+          "number": "17",
+          "text": "It came to pass that when you led his descendants out of Egypt, you brought them up to Mount Sinai."
+        },
+        {
+          "number": "18",
+          "text": "You bowed the heavens also, shook the earth, moved the whole world, made the depths tremble, and troubled the age."
+        },
+        {
+          "number": "19",
+          "text": "Your glory went through four gates, of fire, of earthquake, of wind, and of ice, that you might give the law to the descendants of Jacob, and the commandment to the descendants of Israel."
+        },
+        {
+          "number": "20",
+          "text": "“Yet you didn’t take away from them their wicked heart, that your law might produce fruit in them."
+        },
+        {
+          "number": "21",
+          "text": "For the first Adam, burdened with a wicked heart transgressed and was overcome, as were all who are descended from him."
+        },
+        {
+          "number": "22",
+          "text": "Thus disease was made permanent. The law was in the heart of the people along with the wickedness of the root. So the good departed away and that which was wicked remained."
+        },
+        {
+          "number": "23",
+          "text": "So the times passed away, and the years were brought to an end. Then you raised up a servant, called David,"
+        },
+        {
+          "number": "24",
+          "text": "whom you commanded to build a city to your name, and to offer burnt offerings to you in it from what is yours."
+        },
+        {
+          "number": "25",
+          "text": "When this was done many years, then those who inhabited the city did evil,"
+        },
+        {
+          "number": "26",
+          "text": "in all things doing as Adam and all his generations had done, for they also had a wicked heart."
+        },
+        {
+          "number": "27",
+          "text": "So you gave your city over into the hands of your enemies."
+        },
+        {
+          "number": "28",
+          "text": "“Then I said in my heart, ‘Are their deeds of those who inhabit Babylon any better? Is that why it gained dominion over Zion?’"
+        },
+        {
+          "number": "29",
+          "text": "For it came to pass when I came here, that I also saw impieties without number, and my soul saw many sinners in this thirtieth year, so that my heart failed me."
+        },
+        {
+          "number": "30",
+          "text": "For I have seen how you endure them sinning, and have spared those who act ungodly, and have destroyed your people, and have preserved your enemies;"
+        },
+        {
+          "number": "31",
+          "text": "and you have not shown how your way may be comprehended. Are the deeds of Babylon better than those of Zion?"
+        },
+        {
+          "number": "32",
+          "text": "Or is there any other nation that knows you beside Israel? Or what tribes have so believed your covenants as these tribes of Jacob?"
+        },
+        {
+          "number": "33",
+          "text": "Yet their reward doesn’t appear, and their labor has no fruit, for I have gone here and there through the nations, and I see that they abound in wealth, and don’t think about your commandments."
+        },
+        {
+          "number": "34",
+          "text": "Weigh therefore our iniquities now in the balance, and theirs also who dwell in the world, and so will it be found which way the scale inclines."
+        },
+        {
+          "number": "35",
+          "text": "Or when was it that they who dwell on the earth have not sinned in your sight? Or what nation has kept your commandments so well?"
+        },
+        {
+          "number": "36",
+          "text": "You will find some men by name who have kept your precepts, but you won’t find nations.”"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "Chapter 4",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "The angel who was sent to me, whose name was Uriel, gave me an answer,"
+        },
+        {
+          "number": "2",
+          "text": "and said to me, “Your understanding has utterly failed you regarding this world. Do you think you can comprehend the way of the Most High?”"
+        },
+        {
+          "number": "3",
+          "text": "Then I said, “Yes, my Lord.” He answered me, “I have been sent to show you three ways, and to set before you three problems."
+        },
+        {
+          "number": "4",
+          "text": "If you can solve one for me, I also will show you the way that you desire to see, and I will teach you why the heart is wicked.”"
+        },
+        {
+          "number": "5",
+          "text": "I said, “Say on, my Lord.” Then said he to me, “Go, weigh for me the weight of a fire, or measure for me a blast of wind, or call back for me the day that is past.”"
+        },
+        {
+          "number": "6",
+          "text": "Then answered I and said, “Who of the sons of men is able to do this, that you should ask me about such things?”"
+        },
+        {
+          "number": "7",
+          "text": "He said to me, “If I had asked you, ‘How many dwellings are there in the heart of the sea? Or how many springs are there at the fountain head of the deep? Or how many streams are above the firmament? Or which are the exits of hell? Or which are the entrances of paradise?’"
+        },
+        {
+          "number": "8",
+          "text": "perhaps you would say to me, ‘I never went down into the deep, or as yet into hell, neither did I ever climb up into heaven.’"
+        },
+        {
+          "number": "9",
+          "text": "Nevertheless now I have only asked you about the fire, wind, and the day, things which you have experienced, and from which you can’t be separated, and yet you have given me no answer about them. ”"
+        },
+        {
+          "number": "10",
+          "text": "He said moreover to me, “You can’t understand your own things that you grew up with."
+        },
+        {
+          "number": "11",
+          "text": "How then can your mind comprehend the way of the Most High? How can he who is already worn out with the corrupted world understand incorruption?” When I heard these things, I fell on my face"
+        },
+        {
+          "number": "12",
+          "text": "and said to him, “It would have been better if we weren’t here at all, than that we should come here and live in the midst of ungodliness, and suffer, and not know why.”"
+        },
+        {
+          "number": "13",
+          "text": "He answered me, and said, “A forest of the trees of the field went out, and took counsel together,"
+        },
+        {
+          "number": "14",
+          "text": "and said, ‘Come! Let’s go and make war against the sea, that it may depart away before us, and that we may make ourselves more forests.’"
+        },
+        {
+          "number": "15",
+          "text": "The waves of the sea also in like manner took counsel together, and said, ‘Come! Let’s go up and subdue the forest of the plain, that there also we may gain more territory.’"
+        },
+        {
+          "number": "16",
+          "text": "The counsel of the wood was in vain, for the fire came and consumed it."
+        },
+        {
+          "number": "17",
+          "text": "Likewise also the counsel of the waves of the sea, for the sand stood up and stopped them."
+        },
+        {
+          "number": "18",
+          "text": "If you were judge now between these two, which would you justify, or which would you condemn?”"
+        },
+        {
+          "number": "19",
+          "text": "I answered and said, “It is a foolish counsel that they both have taken, for the ground is given to the wood, and the place of the sea is given to bear its waves.”"
+        },
+        {
+          "number": "20",
+          "text": "Then answered he me, and said, “You have given a right judgment. Why don’t you judge your own case?"
+        },
+        {
+          "number": "21",
+          "text": "For just as the ground is given to the wood, and the sea to its waves, even so those who dwell upon the earth may understand nothing but what is upon the earth. Only he who dwells above the heavens understands the things that are above the height of the heavens.”"
+        },
+        {
+          "number": "22",
+          "text": "Then answered I and said, “I beg you, O Lord, why has the power of understanding been given to me?"
+        },
+        {
+          "number": "23",
+          "text": "For it was not in my mind to be curious of the ways above, but of such things as pass by us daily, because Israel is given up as a reproach to the heathen. The people whom you have loved have been given over to ungodly nations. The law of our forefathers is made of no effect, and the written covenants are nowhere regarded."
+        },
+        {
+          "number": "24",
+          "text": "We pass away out of the world like locusts. Our life is like a vapor, and we aren’t worthy to obtain mercy."
+        },
+        {
+          "number": "25",
+          "text": "What will he then do for his name by which we are called? I have asked about these things.”"
+        },
+        {
+          "number": "26",
+          "text": "Then he answered me, and said, “If you are alive you will see, and if you live long, you will marvel, for the world hastens quickly to pass away."
+        },
+        {
+          "number": "27",
+          "text": "For it is not able to bear the things that are promised to the righteous in the times to come; for this world is full of sadness and infirmities."
+        },
+        {
+          "number": "28",
+          "text": "For the evil about which you asked me has been sown, but its harvest hasn’t yet come."
+        },
+        {
+          "number": "29",
+          "text": "If therefore that which is sown isn’t reaped, and if the place where the evil is sown doesn’t pass away, the field where the good is sown won’t come."
+        },
+        {
+          "number": "30",
+          "text": "For a grain of evil seed was sown in the heart of Adam from the beginning, and how much wickedness it has produced to this time! How much more it will yet produce until the time of threshing comes!"
+        },
+        {
+          "number": "31",
+          "text": "Ponder now by yourself, how much fruit of wickedness a grain of evil seed has produced."
+        },
+        {
+          "number": "32",
+          "text": "When the grains which are without number are sown, how great a threshing floor they will fill!”"
+        },
+        {
+          "number": "33",
+          "text": "Then I answered and said, “How long? When will these things come to pass? Why are our years few and evil?”"
+        },
+        {
+          "number": "34",
+          "text": "He answered me, and said, “Don’t hurry faster than the Most High; for your haste is for your own self, but he who is above hurries on behalf of many."
+        },
+        {
+          "number": "35",
+          "text": "Didn’t the souls of the righteous ask about these things in their chambers, saying, ‘How long will we be here? When does the fruit of the threshing floor come?’"
+        },
+        {
+          "number": "36",
+          "text": "To them, Jeremiel the archangel answered, ‘When the number is fulfilled of those who are like you. For he has weighed the world in the balance."
+        },
+        {
+          "number": "37",
+          "text": "By measure, he has measured the times. By number, he has counted the seasons. He won’t move or stir them until that measure is fulfilled.’ ”"
+        },
+        {
+          "number": "38",
+          "text": "Then I answered, “O sovereign Lord, all of us are full of ungodliness."
+        },
+        {
+          "number": "39",
+          "text": "Perhaps it is for our sakes that the threshing time of the righteous is kept back—because of the sins of those who dwell on the earth.”"
+        },
+        {
+          "number": "40",
+          "text": "So he answered me, “Go your way to a woman with child, and ask of her when she has fulfilled her nine months, if her womb may keep the baby any longer within her.”"
+        },
+        {
+          "number": "41",
+          "text": "Then I said, “No, Lord, that can it not.” He said to me, “In Hades, the chambers of souls are like the womb."
+        },
+        {
+          "number": "42",
+          "text": "For just like a woman in labor hurries to escape the anguish of the labor pains, even so these places hurry to deliver those things that are committed to them from the beginning."
+        },
+        {
+          "number": "43",
+          "text": "Then you will be shown those things which you desire to see.”"
+        },
+        {
+          "number": "44",
+          "text": "Then I answered, “If I have found favor in your sight, and if it is possible, and if I am worthy,"
+        },
+        {
+          "number": "45",
+          "text": "show me this also, whether there is more to come than is past, or whether the greater part has gone over us."
+        },
+        {
+          "number": "46",
+          "text": "For what is gone I know, but I don’t know what is to come.”"
+        },
+        {
+          "number": "47",
+          "text": "He said to me, “Stand up on my right side, and I will explain the parable to you.”"
+        },
+        {
+          "number": "48",
+          "text": "So I stood, looked, and saw a hot burning oven passed by before me. It happened that when the flame had gone by I looked, and saw that the smoke remained."
+        },
+        {
+          "number": "49",
+          "text": "After this, a watery cloud passed in front of me, and sent down much rain with a storm. When the stormy rain was past, the drops still remained in it.”"
+        },
+        {
+          "number": "50",
+          "text": "Then said he to me, “Consider with yourself; as the rain is more than the drops, and the fire is greater than the smoke, so the quantity which is past was far greater; but the drops and the smoke still remained.”"
+        },
+        {
+          "number": "51",
+          "text": "Then I prayed, and said, “Do you think that I will live until that time? Or who will be alive in those days?”"
+        },
+        {
+          "number": "52",
+          "text": "He answered me, “As for the signs you asked me about, I may tell you of them in part; but I wasn’t sent to tell you about your life, for I don’t know."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "label": "Chapter 5",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "“Nevertheless, concerning the signs, behold, the days will come when those who dwell on earth will be taken with great amazement, and the way of truth will be hidden, and the land will be barren of faith."
+        },
+        {
+          "number": "2",
+          "text": "Iniquity will be increased above what now you see, and beyond what you have heard long ago."
+        },
+        {
+          "number": "3",
+          "text": "The land that you now see ruling will be a trackless waste, and men will see it desolate."
+        },
+        {
+          "number": "4",
+          "text": "But if the Most High grants you to live, you will see troubles after the third period. The sun will suddenly shine in the night, and the moon in the day."
+        },
+        {
+          "number": "5",
+          "text": "Blood will drop out of wood, and the stone will utter its voice. The peoples will be troubled, and the stars will fall."
+        },
+        {
+          "number": "6",
+          "text": "He will rule whom those who dwell on the earth don’t expect, and the birds will fly away together."
+        },
+        {
+          "number": "7",
+          "text": "The Sodomite sea will cast out fish, and make a noise in the night, which many have not known; but all will hear its voice."
+        },
+        {
+          "number": "8",
+          "text": "There will also be chaos in many places. Fires will break out often, and the wild animals will change their places, and women will bring forth monsters."
+        },
+        {
+          "number": "9",
+          "text": "Salt waters will be found in the sweet, and all friends will destroy one another. Then reason will hide itself, and understanding withdraw itself into its chamber."
+        },
+        {
+          "number": "10",
+          "text": "It will be sought by many, and won’t be found. Unrighteousness and lack of restraint will be multiplied on earth."
+        },
+        {
+          "number": "11",
+          "text": "One country will ask another, ‘Has righteousness, or a man that does righteousness, gone through you?’ And it will say, ‘No.’"
+        },
+        {
+          "number": "12",
+          "text": "It will come to pass at that time that men will hope, but won’t obtain. They will labor, but their ways won’t prosper."
+        },
+        {
+          "number": "13",
+          "text": "I am permitted to show you such signs. If you will pray again, and weep as now, and fast seven days, you will hear yet greater things than these.”"
+        },
+        {
+          "number": "14",
+          "text": "Then I woke up, and an extreme trembling went through my body, and my mind was so troubled that it fainted."
+        },
+        {
+          "number": "15",
+          "text": "So the angel who had come to talk with me held me, comforted me, and set me on my feet."
+        },
+        {
+          "number": "16",
+          "text": "In the second night, it came to pass that Phaltiel the captain of the people came to me, saying, “Where have you been? Why is your face sad?"
+        },
+        {
+          "number": "17",
+          "text": "Or don’t you know that Israel is committed to you in the land of their captivity?"
+        },
+        {
+          "number": "18",
+          "text": "Get up then, and eat some bread, and don’t forsake us, like a shepherd who leaves the flock in the power of cruel wolves.”"
+        },
+        {
+          "number": "19",
+          "text": "Then said I to him, “Go away from me and don’t come near me for seven days, and then you shall come to me.” He heard what I said and left me."
+        },
+        {
+          "number": "20",
+          "text": "So I fasted seven days, mourning and weeping, like Uriel the angel had commanded me."
+        },
+        {
+          "number": "21",
+          "text": "After seven days, the thoughts of my heart were very grievous to me again,"
+        },
+        {
+          "number": "22",
+          "text": "and my soul recovered the spirit of understanding, and I began to speak words before the Most High again."
+        },
+        {
+          "number": "23",
+          "text": "I said, “O sovereign Lord of all the woods of the earth, and of all the trees thereof, you have chosen one vine for yourself."
+        },
+        {
+          "number": "24",
+          "text": "Of all the lands of the world you have chosen one country for yourself. Of all the flowers of the world, you have chosen one lily for yourself."
+        },
+        {
+          "number": "25",
+          "text": "Of all the depths of the sea, you have filled one river for yourself. Of all built cities, you have consecrated Zion for yourself."
+        },
+        {
+          "number": "26",
+          "text": "Of all the birds that are created you have named for yourself one dove. Of all the livestock that have been made, you have provided for yourself one sheep."
+        },
+        {
+          "number": "27",
+          "text": "Among all the multitudes of peoples you have gotten yourself one people. To this people, whom you loved, you gave a law that is approved by all."
+        },
+        {
+          "number": "28",
+          "text": "Now, O Lord, why have you given this one people over to many, and have dishonored the one root above others, and have scattered your only one among many?"
+        },
+        {
+          "number": "29",
+          "text": "Those who opposed your promises have trampled down those who believed your covenants."
+        },
+        {
+          "number": "30",
+          "text": "If you really do hate your people so much, they should be punished with your own hands.”"
+        },
+        {
+          "number": "31",
+          "text": "Now when I had spoken these words, the angel that came to me the night before was sent to me,"
+        },
+        {
+          "number": "32",
+          "text": "and said to me, “Hear me, and I will instruct you. Listen to me, and I will tell you more.”"
+        },
+        {
+          "number": "33",
+          "text": "I said, “Speak on, my Lord.” Then said he to me, “You are very troubled in mind for Israel’s sake. Do you love that people more than he who made them?”"
+        },
+        {
+          "number": "34",
+          "text": "I said, “No, Lord; but I have spoken out of grief; for my heart is in agony every hour while I labor to comprehend the way of the Most High, and to seek out part of his judgment.”"
+        },
+        {
+          "number": "35",
+          "text": "He said to me, “You can’t.” And I said, “Why, Lord? Why was I born? Why wasn’t my mother’s womb my grave, that I might not have seen the travail of Jacob, and the wearisome toil of the people of Israel?”"
+        },
+        {
+          "number": "36",
+          "text": "He said to me, “Count for me those who haven’t yet come. Gather together for me the drops that are scattered abroad, and make the withered flowers green again for me."
+        },
+        {
+          "number": "37",
+          "text": "Open for me the chambers that are closed, and bring out the winds for me that are shut up in them. Or show me the image of a voice. Then I will declare to you the travail that you asked to see.”"
+        },
+        {
+          "number": "38",
+          "text": "And I said, “O sovereign Lord, who may know these things except he who doesn’t have his dwelling with men?"
+        },
+        {
+          "number": "39",
+          "text": "As for me, I lack wisdom. How can I then speak of these things you asked me about?”"
+        },
+        {
+          "number": "40",
+          "text": "Then said he to me, “Just as you can do none of these things that I have spoken of, even so you can’t find out my judgment, or the end of the love that I have promised to my people.”"
+        },
+        {
+          "number": "41",
+          "text": "I said, “But, behold, O Lord, you have made the promise to those who are alive at the end. What should they do who have been before us, or we ourselves, or those who will come after us?”"
+        },
+        {
+          "number": "42",
+          "text": "He said to me, “I will compare my judgment to a ring. Just as there is no slowness of those who are last, even so there is no swiftness of those who be first.”"
+        },
+        {
+          "number": "43",
+          "text": "So I answered, “Couldn’t you make them all at once that have been made, and that are now, and that are yet to come, that you might show your judgment sooner?”"
+        },
+        {
+          "number": "44",
+          "text": "Then he answered me, “The creature may not move faster than the creator, nor can the world hold them at once who will be created in it.”"
+        },
+        {
+          "number": "45",
+          "text": "And I said, “How have you said to your servant, that you will surely make alive at once the creature that you have created? If therefore they will be alive at once, and the creation will sustain them, even so it might now also support them to be present at once.”"
+        },
+        {
+          "number": "46",
+          "text": "And he said to me, “Ask the womb of a woman, and say to her, ‘If you bear ten children, why do you it at different times? Ask her therefore to give birth to ten children at once.”"
+        },
+        {
+          "number": "47",
+          "text": "I said, “She can’t, but must do it each in their own time.”"
+        },
+        {
+          "number": "48",
+          "text": "Then said he to me, “Even so, I have given the womb of the earth to those who are sown in it in their own times."
+        },
+        {
+          "number": "49",
+          "text": "For just as a young child may not give birth, neither she who has grown old any more, even so have I organized the world which I created.”"
+        },
+        {
+          "number": "50",
+          "text": "I asked, “Seeing that you have now shown me the way, I will speak before you. Is our mother, of whom you have told me, still young? Or does she now draw near to old age?”"
+        },
+        {
+          "number": "51",
+          "text": "He answered me, “Ask a woman who bears children, and she will tell you."
+        },
+        {
+          "number": "52",
+          "text": "Say to her, ‘Why aren’t they whom you have now brought forth like those who were before, but smaller in stature?’"
+        },
+        {
+          "number": "53",
+          "text": "She also will answer you, ‘Those who are born in the strength of youth are different from those who are born in the time of old age, when the womb fails.’"
+        },
+        {
+          "number": "54",
+          "text": "Consider therefore you also, how you are shorter than those who were before you."
+        },
+        {
+          "number": "55",
+          "text": "So are those who come after you smaller than you, as born of the creature which now begins to be old, and is past the strength of youth.”"
+        },
+        {
+          "number": "56",
+          "text": "Then I said, “Lord, I implore you, if I have found favor in your sight, show your servant by whom you visit your creation.”"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "label": "Chapter 6",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "He said to me, “In the beginning, when the earth was made, before the portals of the world were fixed and before the gatherings of the winds blew,"
+        },
+        {
+          "number": "2",
+          "text": "before the voices of the thunder sounded and before the flashes of the lightning shone, before the foundations of paradise were laid,"
+        },
+        {
+          "number": "3",
+          "text": "before the fair flowers were seen, before the powers of the earthquake were established, before the innumerable army of angels were gathered together,"
+        },
+        {
+          "number": "4",
+          "text": "before the heights of the air were lifted up, before the measures of the firmament were named, before the footstool of Zion was established,"
+        },
+        {
+          "number": "5",
+          "text": "before the present years were reckoned, before the imaginations of those who now sin were estranged, and before they were sealed who have gathered faith for a treasure—"
+        },
+        {
+          "number": "6",
+          "text": "then I considered these things, and they all were made through me alone, and not through another; just as by me also they will be ended, and not by another.”"
+        },
+        {
+          "number": "7",
+          "text": "Then I answered, “What will be the dividing of the times? Or when will be the end of the first and the beginning of the age that follows?”"
+        },
+        {
+          "number": "8",
+          "text": "He said to me, “From Abraham to Isaac, because Jacob and Esau were born to him, for Jacob’s hand held Esau’s heel from the beginning."
+        },
+        {
+          "number": "9",
+          "text": "For Esau is the end of this age, and Jacob is the beginning of the one that follows."
+        },
+        {
+          "number": "10",
+          "text": "The beginning of a man is his hand, and the end of a man is his heel. Seek nothing else between the heel and the hand, Esdras!”"
+        },
+        {
+          "number": "11",
+          "text": "Then I answered, “O sovereign Lord, if I have found favor in your sight,"
+        },
+        {
+          "number": "12",
+          "text": "I beg you, show your servant the end of your signs which you showed me part on a previous night.”"
+        },
+        {
+          "number": "13",
+          "text": "So he answered, “Stand up upon your feet, and you will hear a mighty sounding voice."
+        },
+        {
+          "number": "14",
+          "text": "If the place you stand on is greatly moved"
+        },
+        {
+          "number": "15",
+          "text": "when it speaks don’t be afraid, for the word is of the end, and the foundations of the earth will understand"
+        },
+        {
+          "number": "16",
+          "text": "that the speech is about them. They will tremble and be moved, for they know that their end must be changed.”"
+        },
+        {
+          "number": "17",
+          "text": "It happened that when I had heard it, I stood up on my feet, and listened, and, behold, there was a voice that spoke, and its sound was like the sound of many waters."
+        },
+        {
+          "number": "18",
+          "text": "It said, “Behold, the days come when I draw near to visit those who dwell upon the earth,"
+        },
+        {
+          "number": "19",
+          "text": "and when I investigate those who have caused harm unjustly with their unrighteousness, and when the affliction of Zion is complete,"
+        },
+        {
+          "number": "20",
+          "text": "and when the seal will be set on the age that is to pass away, then I will show these signs: the books will be opened before the firmament, and all will see together."
+        },
+        {
+          "number": "21",
+          "text": "The children a year old will speak with their voices. The women with child will deliver premature children at three or four months, and they will live and dance."
+        },
+        {
+          "number": "22",
+          "text": "Suddenly the sown places will appear unsown. The full storehouses will suddenly be found empty."
+        },
+        {
+          "number": "23",
+          "text": "The trumpet will give a sound which when every man hears, they will suddenly be afraid."
+        },
+        {
+          "number": "24",
+          "text": "At that time friends will make war against one another like enemies. The earth will stand in fear with those who dwell in it. The springs of the fountains will stand still, so that for three hours they won’t flow."
+        },
+        {
+          "number": "25",
+          "text": "“It will be that whoever remains after all these things that I have told you of, he will be saved and will see my salvation, and the end of my world."
+        },
+        {
+          "number": "26",
+          "text": "They will see the men who have been taken up, who have not tasted death from their birth. The heart of the inhabitants will be changed and turned into a different spirit."
+        },
+        {
+          "number": "27",
+          "text": "For evil will be blotted out and deceit will be quenched."
+        },
+        {
+          "number": "28",
+          "text": "Faith will flourish. Corruption will be overcome, and the truth, which has been so long without fruit, will be declared.”"
+        },
+        {
+          "number": "29",
+          "text": "When he talked with me, behold, little by little, the place I stood on rocked back and forth."
+        },
+        {
+          "number": "30",
+          "text": "He said to me, “I came to show you these things tonight."
+        },
+        {
+          "number": "31",
+          "text": "If therefore you will pray yet again, and fast seven more days, I will again tell you greater things than these."
+        },
+        {
+          "number": "32",
+          "text": "For your voice has surely been heard before the Most High. For the Mighty has seen your righteousness. He has also seen your purity, which you have maintained ever since your youth."
+        },
+        {
+          "number": "33",
+          "text": "Therefore he has sent me to show you all these things, and to say to you, ‘Believe, and don’t be afraid!"
+        },
+        {
+          "number": "34",
+          "text": "Don’t be hasty to think vain things about the former times, that you may not hasten in the latter times.’ ”"
+        },
+        {
+          "number": "35",
+          "text": "It came to pass after this, that I wept again, and fasted seven days in like manner, that I might fulfill the three weeks which he told me."
+        },
+        {
+          "number": "36",
+          "text": "On the eighth night, my heart was troubled within me again, and I began to speak in the presence of the Most High."
+        },
+        {
+          "number": "37",
+          "text": "For my spirit was greatly aroused, and my soul was in distress."
+        },
+        {
+          "number": "38",
+          "text": "I said, “O Lord, truly you spoke at the beginning of the creation, on the first day, and said this: ‘Let heaven and earth be made,’ and your word perfected the work."
+        },
+        {
+          "number": "39",
+          "text": "Then the spirit was hovering, and darkness and silence were on every side. The sound of man’s voice was not yet there."
+        },
+        {
+          "number": "40",
+          "text": "Then you commanded a ray of light to be brought out of your treasuries, that your works might then appear."
+        },
+        {
+          "number": "41",
+          "text": "“On the second day, again you made the spirit of the firmament and commanded it to divide and to separate the waters, that the one part might go up, and the other remain beneath."
+        },
+        {
+          "number": "42",
+          "text": "“On the third day, you commanded that the waters should be gathered together in the seventh part of the earth. You dried up six parts and kept them, to the intent that of these some being both planted and tilled might serve before you."
+        },
+        {
+          "number": "43",
+          "text": "For as soon as your word went out, the work was done."
+        },
+        {
+          "number": "44",
+          "text": "Immediately, great and innumerable fruit grew, with many pleasant tastes, and flowers of inimitable color, and fragrances of most exquisite smell. This was done the third day."
+        },
+        {
+          "number": "45",
+          "text": "“On the fourth day, you commanded that the sun should shine, the moon give its light, and the stars should be in their order;"
+        },
+        {
+          "number": "46",
+          "text": "and gave them a command to serve mankind, who was to be made."
+        },
+        {
+          "number": "47",
+          "text": "“On the fifth day, you said to the seventh part, where the water was gathered together, that it should produce living creatures, fowls and fishes; and so it came to pass"
+        },
+        {
+          "number": "48",
+          "text": "that the mute and lifeless water produced living things as it was told, that the nations might therefore praise your wondrous works."
+        },
+        {
+          "number": "49",
+          "text": "“Then you preserved two living creatures. The one you called Behemoth, and the other you called Leviathan."
+        },
+        {
+          "number": "50",
+          "text": "You separated the one from the other; for the seventh part, namely, where the water was gathered together, might not hold them both."
+        },
+        {
+          "number": "51",
+          "text": "To Behemoth, you gave one part, which was dried up on the third day, that he should dwell in it, in which are a thousand hills;"
+        },
+        {
+          "number": "52",
+          "text": "but to Leviathan you gave the seventh part, namely, the watery part. You have kept them to be devoured by whom you wish, when you wish."
+        },
+        {
+          "number": "53",
+          "text": "“But on the sixth day, you commanded the earth to produce before you cattle, animals, and creeping things."
+        },
+        {
+          "number": "54",
+          "text": "Over these, you ordained Adam as ruler over all the works that you have made. Of him came all of us, the people whom you have chosen."
+        },
+        {
+          "number": "55",
+          "text": "“All this have I spoken before you, O Lord, because you have said that for our sakes you made this world."
+        },
+        {
+          "number": "56",
+          "text": "As for the other nations, which also come from Adam, you have said that they are nothing, and are like spittle. You have likened the abundance of them to a drop that falls from a bucket."
+        },
+        {
+          "number": "57",
+          "text": "Now, O Lord, behold these nations, which are reputed as nothing, being rulers over us and devouring us."
+        },
+        {
+          "number": "58",
+          "text": "But we your people, whom you have called your firstborn, your only children, and your fervent lover, are given into their hands."
+        },
+        {
+          "number": "59",
+          "text": "Now if the world is made for our sakes, why don’t we possess our world for an inheritance? How long will this endure?”"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "label": "Chapter 7",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "When I had finished speaking these words, the angel which had been sent to me the nights before was sent to me."
+        },
+        {
+          "number": "2",
+          "text": "He said to me, “Rise, Esdras, and hear the words that I have come to tell you.”"
+        },
+        {
+          "number": "3",
+          "text": "I said, “Speak on, my Lord.” Then he said to me, “There is a sea set in a wide place, that it might be broad and vast,"
+        },
+        {
+          "number": "4",
+          "text": "but its entrance is set in a narrow place so as to be like a river."
+        },
+        {
+          "number": "5",
+          "text": "Whoever desires to go into the sea to look at it, or to rule it, if he didn’t go through the narrow entrance, how could he come into the broad part?"
+        },
+        {
+          "number": "6",
+          "text": "Another thing also: There is a city built and set in a plain country, and full of all good things,"
+        },
+        {
+          "number": "7",
+          "text": "but its entrance is narrow, and is set in a dangerous place to fall, having fire on the right hand, and deep water on the left."
+        },
+        {
+          "number": "8",
+          "text": "There is only one path between them both, even between the fire and the water, so that only one person can go there at once."
+        },
+        {
+          "number": "9",
+          "text": "If this city is now given to a man for an inheritance, if the heir doesn’t pass the danger before him, how will he receive his inheritance?”"
+        },
+        {
+          "number": "10",
+          "text": "I said, “That is so, Lord.” Then said he to me, “Even so also is Israel’s portion."
+        },
+        {
+          "number": "11",
+          "text": "I made the world for their sakes. What is now done was decreed when Adam transgressed my statutes."
+        },
+        {
+          "number": "12",
+          "text": "Then the entrances of this world were made narrow, sorrowful, and toilsome. They are but few and evil, full of perils, and involved in great toils."
+        },
+        {
+          "number": "13",
+          "text": "For the entrances of the greater world are wide and safe, and produce fruit of immortality."
+        },
+        {
+          "number": "14",
+          "text": "So if those who live don’t enter these difficult and vain things, they can never receive those that are reserved for them."
+        },
+        {
+          "number": "15",
+          "text": "Now therefore why are you disturbed, seeing you are but a corruptible man? Why are you moved, since you are mortal?"
+        },
+        {
+          "number": "16",
+          "text": "Why haven’t you considered in your mind that which is to come, rather than that which is present?”"
+        },
+        {
+          "number": "17",
+          "text": "Then I answered and said, “O sovereign Lord, behold, you have ordained in your law that the righteous will inherit these things, but that the ungodly will perish."
+        },
+        {
+          "number": "18",
+          "text": "The righteous therefore will suffer difficult things, and hope for easier things, but those who have done wickedly have suffered the difficult things, and yet will not see the easier things.”"
+        },
+        {
+          "number": "19",
+          "text": "He said to me, “You are not a judge above God, neither do you have more understanding than the Most High."
+        },
+        {
+          "number": "20",
+          "text": "Yes, let many perish who now live, rather than that the law of God which is set before them be despised."
+        },
+        {
+          "number": "21",
+          "text": "For God strictly commanded those who came, even as they came, what they should do to live, and what they should observe to avoid punishment."
+        },
+        {
+          "number": "22",
+          "text": "Nevertheless, they weren’t obedient to him, but spoke against him and imagined for themselves vain things."
+        },
+        {
+          "number": "23",
+          "text": "They made cunning plans of wickedness, and said moreover of the Most High that he doesn’t exist, and they didn’t know his ways."
+        },
+        {
+          "number": "24",
+          "text": "They despised his law and denied his covenants. They haven’t been faithful to his statutes, and haven’t performed his works."
+        },
+        {
+          "number": "25",
+          "text": "Therefore, Esdras, for the empty are empty things, and for the full are the full things."
+        },
+        {
+          "number": "26",
+          "text": "For behold, the time will come, and it will be, when these signs of which I told you before will come to pass, that the bride will appear, even the city coming forth, and she will be seen who now is withdrawn from the earth."
+        },
+        {
+          "number": "27",
+          "text": "Whoever is delivered from the foretold evils will see my wonders."
+        },
+        {
+          "number": "28",
+          "text": "For my son Jesus will be revealed with those who are with him, and those who remain will rejoice four hundred years."
+        },
+        {
+          "number": "29",
+          "text": "After these years my son Christ will die, along with all of those who have the breath of life ."
+        },
+        {
+          "number": "30",
+          "text": "Then the world will be turned into the old silence seven days, like as in the first beginning, so that no human will remain."
+        },
+        {
+          "number": "31",
+          "text": "After seven days the world that is not yet awake will be raised up, and what is corruptible will die."
+        },
+        {
+          "number": "32",
+          "text": "The earth will restore those who are asleep in it, and the dust those who dwell in it in silence, and the secret places will deliver those souls that were committed to them."
+        },
+        {
+          "number": "33",
+          "text": "The Most High will be revealed on the judgment seat, and compassion will pass away, and patience will be withdrawn."
+        },
+        {
+          "number": "34",
+          "text": "Only judgment will remain. Truth will stand. Faith will grow strong."
+        },
+        {
+          "number": "35",
+          "text": "Recompense will follow. The reward will be shown. Good deeds will awake, and wicked deeds won’t sleep."
+        },
+        {
+          "number": "36",
+          "text": "The pit of torment will appear, and near it will be the place of rest. The furnace of hell will be shown, and near it the paradise of delight."
+        },
+        {
+          "number": "37",
+          "text": "Then the Most High will say to the nations that are raised from the dead, ‘Look and understand whom you have denied, whom you haven’t served, whose commandments you have despised."
+        },
+        {
+          "number": "38",
+          "text": "Look on this side and on that. Here is delight and rest, and there fire and torments.’ Thus he will speak to them in the day of judgment."
+        },
+        {
+          "number": "39",
+          "text": "This is a day that has neither sun, nor moon, nor stars,"
+        },
+        {
+          "number": "40",
+          "text": "neither cloud, nor thunder, nor lightning, neither wind, nor water, nor air, neither darkness, nor evening, nor morning,"
+        },
+        {
+          "number": "41",
+          "text": "neither summer, nor spring, nor heat, nor winter, neither frost, nor cold, nor hail, nor rain, nor dew,"
+        },
+        {
+          "number": "42",
+          "text": "neither noon, nor night, nor dawn, neither shining, nor brightness, nor light, except only the splendor of the glory of the Most High, by which all will see the things that are set before them."
+        },
+        {
+          "number": "43",
+          "text": "It will endure as though it were a week of years."
+        },
+        {
+          "number": "44",
+          "text": "This is my judgment and its prescribed order; but I have only shown these things to you.”"
+        },
+        {
+          "number": "45",
+          "text": "I answered, “I said then, O Lord, and I say now: Blessed are those who are now alive and keep your commandments!"
+        },
+        {
+          "number": "46",
+          "text": "But what about those for whom I prayed? For who is there of those who are alive who has not sinned, and who of the children of men hasn’t transgressed your covenant?"
+        },
+        {
+          "number": "47",
+          "text": "Now I see that the world to come will bring delight to few, but torments to many."
+        },
+        {
+          "number": "48",
+          "text": "For an evil heart has grown up in us, which has led us astray from these commandments and has brought us into corruption and into the ways of death. It has shown us the paths of perdition and removed us far from life—and that, not a few only, but nearly all who have been created.”"
+        },
+        {
+          "number": "49",
+          "text": "He answered me, “Listen to me, and I will instruct you. I will admonish you yet again."
+        },
+        {
+          "number": "50",
+          "text": "For this reason, the Most High has not made one world, but two."
+        },
+        {
+          "number": "51",
+          "text": "For because you have said that the just are not many, but few, and the ungodly abound, hear the explanation."
+        },
+        {
+          "number": "52",
+          "text": "If you have just a few precious stones, will you add them to lead and clay?”"
+        },
+        {
+          "number": "53",
+          "text": "I said, “Lord, how could that be?”"
+        },
+        {
+          "number": "54",
+          "text": "He said to me, “Not only that, but ask the earth, and she will tell you. Defer to her, and she will declare it to you."
+        },
+        {
+          "number": "55",
+          "text": "Say to her, ‘You produce gold, silver, and brass, and also iron, lead, and clay;"
+        },
+        {
+          "number": "56",
+          "text": "but silver is more abundant than gold, and brass than silver, and iron than brass, and lead than iron, and clay than lead.’"
+        },
+        {
+          "number": "57",
+          "text": "Judge therefore which things are precious and to be desired, what is abundant or what is rare?”"
+        },
+        {
+          "number": "58",
+          "text": "I said, “O sovereign Lord, that which is plentiful is of less worth, for that which is more rare is more precious.”"
+        },
+        {
+          "number": "59",
+          "text": "He answered me, “Weigh within yourself the things that you have thought, for he who has what is hard to get rejoices over him who has what is plentiful."
+        },
+        {
+          "number": "60",
+          "text": "So also is the judgment which I have promised; for I will rejoice over the few that will be saved, because these are those who have made my glory to prevail now, and through them, my name is now honored."
+        },
+        {
+          "number": "61",
+          "text": "I won’t grieve over the multitude of those who perish; for these are those who are now like mist, and have become like flame and smoke; they are set on fire and burn hotly, and are extinguished.”"
+        },
+        {
+          "number": "62",
+          "text": "I answered, “O earth, why have you produced, if the mind is made out of dust, like all other created things?"
+        },
+        {
+          "number": "63",
+          "text": "For it would have been better that the dust itself had been unborn, so that the mind might not have been made from it."
+        },
+        {
+          "number": "64",
+          "text": "But now the mind grows with us, and because of this we are tormented, because we perish and we know it."
+        },
+        {
+          "number": "65",
+          "text": "Let the race of men lament and the animals of the field be glad. Let all who are born lament, but let the four-footed animals and the livestock rejoice."
+        },
+        {
+          "number": "66",
+          "text": "For it is far better with them than with us; for they don’t look forward to judgment, neither do they know of torments or of salvation promised to them after death."
+        },
+        {
+          "number": "67",
+          "text": "For what does it profit us, that we will be preserved alive, but yet be afflicted with torment?"
+        },
+        {
+          "number": "68",
+          "text": "For all who are born are defiled with iniquities, and are full of sins and laden with transgressions."
+        },
+        {
+          "number": "69",
+          "text": "If after death we were not to come into judgment, perhaps it would have been better for us.”"
+        },
+        {
+          "number": "70",
+          "text": "He answered me, “When the Most High made the world and Adam and all those who came from him, he first prepared the judgment and the things that pertain to the judgment."
+        },
+        {
+          "number": "71",
+          "text": "Now understand from your own words, for you have said that the mind grows with us."
+        },
+        {
+          "number": "72",
+          "text": "They therefore who dwell on the earth will be tormented for this reason, that having understanding they have committed iniquity, and receiving commandments have not kept them, and having obtained a law they dealt unfaithfully with that which they received."
+        },
+        {
+          "number": "73",
+          "text": "What then will they have to say in the judgment, or how will they answer in the last times?"
+        },
+        {
+          "number": "74",
+          "text": "For how long a time has the Most High been patient with those who inhabit the world, and not for their sakes, but because of the times which he has foreordained!”"
+        },
+        {
+          "number": "75",
+          "text": "I answered, “If I have found grace in your sight, O Lord, show this also to your servant, whether after death, even now when every one of us gives up his soul, we will be kept in rest until those times come, in which you renew the creation, or whether we will be tormented immediately.”"
+        },
+        {
+          "number": "76",
+          "text": "He answered me, “I will show you this also; but don’t join yourself with those who are scorners, nor count yourself with those who are tormented."
+        },
+        {
+          "number": "77",
+          "text": "For you have a treasure of works laid up with the Most High, but it won’t be shown you until the last times."
+        },
+        {
+          "number": "78",
+          "text": "For concerning death the teaching is: When the decisive sentence has gone out from the Most High that a man shall die, as the spirit leaves the body to return again to him who gave it, it adores the glory of the Most High first of all."
+        },
+        {
+          "number": "79",
+          "text": "And if it is one of those who have been scorners and have not kept the way of the Most High, and that have despised his law, and who hate those who fear God,"
+        },
+        {
+          "number": "80",
+          "text": "these spirits won’t enter into habitations, but will wander and be in torments immediately, ever grieving and sad, in seven ways."
+        },
+        {
+          "number": "81",
+          "text": "The first way, because they have despised the law of the Most High."
+        },
+        {
+          "number": "82",
+          "text": "The second way, because they can’t now make a good repentance that they may live."
+        },
+        {
+          "number": "83",
+          "text": "The third way, they will see the reward laid up for those who have believed the covenants of the Most High."
+        },
+        {
+          "number": "84",
+          "text": "The fourth way, they will consider the torment laid up for themselves in the last days."
+        },
+        {
+          "number": "85",
+          "text": "The fifth way, they will see the dwelling places of the others guarded by angels, with great quietness."
+        },
+        {
+          "number": "86",
+          "text": "The sixth way, they will see how immediately some of them will pass into torment."
+        },
+        {
+          "number": "87",
+          "text": "The seventh way, which is more grievous than all the aforesaid ways, because they will pine away in confusion and be consumed with shame, and will be withered up by fears, seeing the glory of the Most High before whom they have sinned while living, and before whom they will be judged in the last times."
+        },
+        {
+          "number": "88",
+          "text": "“Now this is the order of those who have kept the ways of the Most High, when they will be separated from their mortal body."
+        },
+        {
+          "number": "89",
+          "text": "In the time that they lived in it, they painfully served the Most High, and were in jeopardy every hour, that they might keep the law of the lawgiver perfectly."
+        },
+        {
+          "number": "90",
+          "text": "Therefore this is the teaching concerning them:"
+        },
+        {
+          "number": "91",
+          "text": "First of all they will see with great joy the glory of him who takes them up, for they will have rest in seven orders."
+        },
+        {
+          "number": "92",
+          "text": "The first order, because they have labored with great effort to overcome the evil thought which was fashioned together with them, that it might not lead them astray from life into death."
+        },
+        {
+          "number": "93",
+          "text": "The second order, because they see the perplexity in which the souls of the ungodly wander, and the punishment that awaits them."
+        },
+        {
+          "number": "94",
+          "text": "The third order, they see the testimony which he who fashioned them gives concerning them, that while they lived they kept the law which was given them in trust."
+        },
+        {
+          "number": "95",
+          "text": "The fourth order, they understand the rest which, being gathered in their chambers, they now enjoy with great quietness, guarded by angels, and the glory that awaits them in the last days."
+        },
+        {
+          "number": "96",
+          "text": "The fifth order, they rejoice that they have now escaped from that which is corruptible, and that they will inherit that which is to come, while they see in addition the difficulty and the pain from which they have been delivered, and the spacious liberty which they will receive with joy and immortality."
+        },
+        {
+          "number": "97",
+          "text": "The sixth order, when it is shown to them how their face will shine like the sun, and how they will be made like the light of the stars, being incorruptible from then on."
+        },
+        {
+          "number": "98",
+          "text": "The seventh order, which is greater than all the previously mentioned orders, because they will rejoice with confidence, and because they will be bold without confusion, and will be glad without fear, for they hurry to see the face of him whom in their lifetime they served, and from whom they will receive their reward in glory."
+        },
+        {
+          "number": "99",
+          "text": "This is the order of the souls of the just, as from henceforth is announced to them. Previously mentioned are the ways of torture which those who would not give heed will suffer from after this.”"
+        },
+        {
+          "number": "100",
+          "text": "I answered, “Will time therefore be given to the souls after they are separated from the bodies, that they may see what you have described to me?”"
+        },
+        {
+          "number": "101",
+          "text": "He said, “Their freedom will be for seven days, that for seven days they may see the things you have been told, and afterwards they will be gathered together in their habitations.”"
+        },
+        {
+          "number": "102",
+          "text": "I answered, “If I have found favor in your sight, show further to me your servant whether in the day of judgment the just will be able to intercede for the ungodly or to entreat the Most High for them,"
+        },
+        {
+          "number": "103",
+          "text": "whether fathers for children, or children for parents, or kindred for kindred, or kinsfolk for their next of kin, or friends for those who are most dear.”"
+        },
+        {
+          "number": "104",
+          "text": "He answered me, “Since you have found favor in my sight, I will show you this also. The day of judgment is a day of decision, and displays to all the seal of truth. Even as now a father doesn’t send his son, or a son his father, or a master his slave, or a friend him that is most dear, that in his place he may understand, or sleep, or eat, or be healed,"
+        },
+        {
+          "number": "105",
+          "text": "so no one will ever pray for another in that day, neither will one lay a burden on another, for then everyone will each bear his own righteousness or unrighteousness.”"
+        },
+        {
+          "number": "106",
+          "text": "I answered, “How do we now find that first Abraham prayed for the people of Sodom, and Moses for the ancestors who sinned in the wilderness,"
+        },
+        {
+          "number": "107",
+          "text": "and Joshua after him for Israel in the days of Achan,"
+        },
+        {
+          "number": "108",
+          "text": "and Samuel in the days of Saul, and David for the plague, and Solomon for those who would worship in the sanctuary,"
+        },
+        {
+          "number": "109",
+          "text": "and Elijah for those that received rain, and for the dead, that he might live,"
+        },
+        {
+          "number": "110",
+          "text": "and Hezekiah for the people in the days of Sennacherib, and many others prayed for many?"
+        },
+        {
+          "number": "111",
+          "text": "If therefore now, when corruption has grown and unrighteousness increased, the righteous have prayed for the ungodly, why will it not be so then also?”"
+        },
+        {
+          "number": "112",
+          "text": "He answered me, “This present world is not the end. The full glory doesn’t remain in it. Therefore those who were able prayed for the weak."
+        },
+        {
+          "number": "113",
+          "text": "But the day of judgment will be the end of this age, and the beginning of the immortality to come, in which corruption has passed away,"
+        },
+        {
+          "number": "114",
+          "text": "intemperance is at an end, infidelity is cut off, but righteousness has grown, and truth has sprung up."
+        },
+        {
+          "number": "115",
+          "text": "Then no one will be able to have mercy on him who is condemned in judgment, nor to harm someone who is victorious.”"
+        },
+        {
+          "number": "116",
+          "text": "I answered then, “This is my first and last saying, that it would have been better if the earth had not produced Adam, or else, when it had produced him, to have restrained him from sinning."
+        },
+        {
+          "number": "117",
+          "text": "For what profit is it for all who are in this present time to live in heaviness, and after death to look for punishment?"
+        },
+        {
+          "number": "118",
+          "text": "O Adam, what have you done? For though it was you who sinned, the evil hasn’t fallen on you alone, but on all of us who come from you."
+        },
+        {
+          "number": "119",
+          "text": "For what profit is it to us, if an immortal time is promised to us, but we have done deeds that bring death?"
+        },
+        {
+          "number": "120",
+          "text": "And that there is promised us an everlasting hope, but we have most miserably failed?"
+        },
+        {
+          "number": "121",
+          "text": "And that there are reserved habitations of health and safety, but we have lived wickedly?"
+        },
+        {
+          "number": "122",
+          "text": "And that the glory of the Most High will defend those who have led a pure life, but we have walked in the most wicked ways of all?"
+        },
+        {
+          "number": "123",
+          "text": "And that a paradise will be revealed, whose fruit endures without decay, in which is abundance and healing, but we won’t enter into it,"
+        },
+        {
+          "number": "124",
+          "text": "for we have lived in perverse ways?"
+        },
+        {
+          "number": "125",
+          "text": "And that the faces of those who have practiced self-control will shine more than the stars, but our faces will be blacker than darkness?"
+        },
+        {
+          "number": "126",
+          "text": "For while we lived and committed iniquity, we didn’t consider what we would have to suffer after death.”"
+        },
+        {
+          "number": "127",
+          "text": "Then he answered, “This is the significance of the battle which humans born on the earth will fight:"
+        },
+        {
+          "number": "128",
+          "text": "if they are overcome, they will suffer as you have said, but if they get the victory, they will receive the thing that I say."
+        },
+        {
+          "number": "129",
+          "text": "For this is the way that Moses spoke to the people while he lived, saying, ‘Choose life, that you may live!’"
+        },
+        {
+          "number": "130",
+          "text": "Nevertheless they didn’t believe him or the prophets after him, not even me, who have spoken to them."
+        },
+        {
+          "number": "131",
+          "text": "Therefore there won’t be such heaviness in their destruction, as there will be joy over those who are assured of salvation.”"
+        },
+        {
+          "number": "132",
+          "text": "Then I answered, “I know, Lord, that the Most High is now called merciful, in that he has mercy upon those who have not yet come into the world;"
+        },
+        {
+          "number": "133",
+          "text": "and compassionate, in that he has compassion upon those who turn to his law;"
+        },
+        {
+          "number": "134",
+          "text": "and patient, in that he is patient with those who have sinned, since they are his creatures;"
+        },
+        {
+          "number": "135",
+          "text": "and bountiful, in that he is ready to give rather than to take away;"
+        },
+        {
+          "number": "136",
+          "text": "and very merciful, in that he multiplies more and more mercies to those who are present, and who are past, and also to those who are to come—"
+        },
+        {
+          "number": "137",
+          "text": "for if he wasn’t merciful, the world wouldn’t continue with those who dwell in it—"
+        },
+        {
+          "number": "138",
+          "text": "and one who forgives, for if he didn’t forgive out of his goodness, that those who have committed iniquities might be relieved of them, not even one ten thousandth part of mankind would remain living;"
+        },
+        {
+          "number": "139",
+          "text": "and a judge, for if he didn’t pardon those who were created by his word, and blot out the multitude of sins,"
+        },
+        {
+          "number": "140",
+          "text": "there would perhaps be very few left of an innumerable multitude.”"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "label": "Chapter 8",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "He answered me, “The Most High has made this world for many, but the world to come for few."
+        },
+        {
+          "number": "2",
+          "text": "Now I will tell you a parable, Esdras. Just as when you ask the earth, it will say to you that it gives very much clay from which earthen vessels are made, but little dust that gold comes from. Even so is the course of the present world."
+        },
+        {
+          "number": "3",
+          "text": "Many have been created, but few will be saved.”"
+        },
+        {
+          "number": "4",
+          "text": "I answered, “Drink your fill of understanding then, O my soul, and let my heart devour wisdom."
+        },
+        {
+          "number": "5",
+          "text": "For you have come here apart from your will, and depart against your will, for you have only been given a short time to live."
+        },
+        {
+          "number": "6",
+          "text": "O Lord over us, grant to your servant that we may pray before you, and give us seed for our heart and cultivation for our understanding, that fruit may grow from it, by which everyone who is corrupt, who bears the likeness of a man, may live."
+        },
+        {
+          "number": "7",
+          "text": "For you alone exist, and we all one workmanship of your hands, just as you have said."
+        },
+        {
+          "number": "8",
+          "text": "Because you give life to the body that is now fashioned in the womb, and give it members, your creature is preserved in fire and water, and your workmanship endures nine months as your creation which is created in it."
+        },
+        {
+          "number": "9",
+          "text": "But that which keeps and that which is kept will both be kept by your keeping. When the womb gives up again what has grown in it,"
+        },
+        {
+          "number": "10",
+          "text": "you have commanded that out of the parts of the body, that is to say, out of the breasts, be given milk, which is the fruit of the breasts,"
+        },
+        {
+          "number": "11",
+          "text": "that the body that is fashioned may be nourished for a time, and afterwards you guide it in your mercy."
+        },
+        {
+          "number": "12",
+          "text": "Yes, you have brought it up in your righteousness, nurtured it in your law, and corrected it with your judgment."
+        },
+        {
+          "number": "13",
+          "text": "You put it to death as your creation, and make it live as your work."
+        },
+        {
+          "number": "14",
+          "text": "If therefore you lightly and suddenly destroy him which with so great labor was fashioned by your commandment, to what purpose was he made?"
+        },
+        {
+          "number": "15",
+          "text": "Now therefore I will speak. About man in general, you know best, but about your people for whose sake I am sorry,"
+        },
+        {
+          "number": "16",
+          "text": "and for your inheritance, for whose cause I mourn, for Israel, for whom I am heavy, and for the seed of Jacob, for whose sake I am troubled,"
+        },
+        {
+          "number": "17",
+          "text": "therefore I will begin to pray before you for myself and for them; for I see the failings of us who dwell in the land;"
+        },
+        {
+          "number": "18",
+          "text": "but I have heard the swiftness of the judgment which is to come."
+        },
+        {
+          "number": "19",
+          "text": "Therefore hear my voice, and understand my saying, and I will speak before you.” The beginning of the words of Esdras, before he was taken up. He said,"
+        },
+        {
+          "number": "20",
+          "text": "“O Lord, you who remain forever, whose eyes are exalted, and whose chambers are in the air,"
+        },
+        {
+          "number": "21",
+          "text": "whose throne is beyond measure, whose glory is beyond comprehension, before whom the army of angels stand with trembling,"
+        },
+        {
+          "number": "22",
+          "text": "at whose bidding they are changed to wind and fire, whose word is sure, and sayings constant, whose ordinance is strong, and commandment fearful,"
+        },
+        {
+          "number": "23",
+          "text": "whose look dries up the depths, and whose indignation makes the mountains to melt away, and whose truth bears witness—"
+        },
+        {
+          "number": "24",
+          "text": "hear, O Lord, the prayer of your servant, and give ear to the petition of your handiwork."
+        },
+        {
+          "number": "25",
+          "text": "Attend to my words, for as long as I live, I will speak, and as long as I have understanding, I will answer."
+        },
+        {
+          "number": "26",
+          "text": "Don’t look at the sins of your people, but on those who have served you in truth."
+        },
+        {
+          "number": "27",
+          "text": "Don’t regard the doings of those who act wickedly, but of those who have kept your covenants in affliction."
+        },
+        {
+          "number": "28",
+          "text": "Don’t think about those who have lived wickedly before you, but remember those who have willingly known your fear."
+        },
+        {
+          "number": "29",
+          "text": "Let it not be your will to destroy those who have lived like cattle, but look at those who have clearly taught your law."
+        },
+        {
+          "number": "30",
+          "text": "Don’t be indignant at those who are deemed worse than animals, but love those who have always put their trust in your glory."
+        },
+        {
+          "number": "31",
+          "text": "For we and our fathers have passed our lives in ways that bring death, but you are called merciful because of us sinners."
+        },
+        {
+          "number": "32",
+          "text": "For if you have a desire to have mercy upon us who have no works of righteousness, then you will be called merciful."
+        },
+        {
+          "number": "33",
+          "text": "For the just, which have many good works laid up with you, will be rewarded for their own deeds."
+        },
+        {
+          "number": "34",
+          "text": "For what is man, that you should take displeasure at him? Or what is a corruptible race, that you should be so bitter toward it?"
+        },
+        {
+          "number": "35",
+          "text": "For in truth, there is no man among those who are born who has not done wickedly, and among those who have lived, there is none which have not done wrong."
+        },
+        {
+          "number": "36",
+          "text": "For in this, O Lord, your righteousness and your goodness will be declared, if you are merciful to those who have no store of good works.”"
+        },
+        {
+          "number": "37",
+          "text": "Then he answered me, “Some things you have spoken rightly, and it will happen according to your words."
+        },
+        {
+          "number": "38",
+          "text": "For indeed I will not think about the fashioning of those who have sinned, or about their death, their judgment, or their destruction;"
+        },
+        {
+          "number": "39",
+          "text": "but I will rejoice over the creation of the righteous and their pilgrimage, their salvation, and the reward that they will have."
+        },
+        {
+          "number": "40",
+          "text": "Therefore as I have spoken, so it will be."
+        },
+        {
+          "number": "41",
+          "text": "For as the farmer sows many seeds in the ground, and plants many trees, and yet not all that is sown will come up in due season, neither will all that is planted take root, even so those who are sown in the world will not all be saved.”"
+        },
+        {
+          "number": "42",
+          "text": "Then I answered, “If I have found favor, let me speak before you."
+        },
+        {
+          "number": "43",
+          "text": "If the farmer’s seed doesn’t come up because it hasn’t received your rain in due season, or if it is ruined by too much rain and perishes,"
+        },
+        {
+          "number": "44",
+          "text": "likewise man, who is formed with your hands and is called your own image, because he is made like you, for whose sake you have formed all things, even him you have made like the farmer’s seed."
+        },
+        {
+          "number": "45",
+          "text": "Don’t be angry with us, but spare your people and have mercy upon your inheritance, for you have mercy upon your own creation.”"
+        },
+        {
+          "number": "46",
+          "text": "Then he answered me, “Things present are for those who live now, and things to come for those who will live hereafter."
+        },
+        {
+          "number": "47",
+          "text": "For you come far short of being able to love my creature more than I. But you have compared yourself to the unrighteous. Don’t do that!"
+        },
+        {
+          "number": "48",
+          "text": "Yet in this will you be admirable to the Most High,"
+        },
+        {
+          "number": "49",
+          "text": "in that you have humbled yourself, as it becomes you, and have not judged yourself among the righteous, so as to be much glorified."
+        },
+        {
+          "number": "50",
+          "text": "For many grievous miseries will fall on those who dwell in the world in the last times, because they have walked in great pride."
+        },
+        {
+          "number": "51",
+          "text": "But understand for yourself, and for those who inquire concerning the glory of those like you,"
+        },
+        {
+          "number": "52",
+          "text": "because paradise is opened to you. The tree of life is planted. The time to come is prepared. Plenteousness is made ready. A city is built. Rest is allowed. Goodness is perfected, and wisdom is perfected beforehand."
+        },
+        {
+          "number": "53",
+          "text": "The root of evil is sealed up from you. Weakness is done away from you, and death is hidden. Hell and corruption have fled into forgetfulness."
+        },
+        {
+          "number": "54",
+          "text": "Sorrows have passed away, and in the end, the treasure of immortality is shown."
+        },
+        {
+          "number": "55",
+          "text": "Therefore ask no more questions concerning the multitude of those who perish."
+        },
+        {
+          "number": "56",
+          "text": "For when they had received liberty, they despised the Most High, scorned his law, and forsook his ways."
+        },
+        {
+          "number": "57",
+          "text": "Moreover they have trodden down his righteous,"
+        },
+        {
+          "number": "58",
+          "text": "and said in their heart that there is no God—even knowing that they must die."
+        },
+        {
+          "number": "59",
+          "text": "For as the things I have said will welcome you, so thirst and pain which are prepared for them. For the Most High didn’t intend that men should be destroyed,"
+        },
+        {
+          "number": "60",
+          "text": "but those who are created have themselves defiled the name of him who made them, and were unthankful to him who prepared life for them."
+        },
+        {
+          "number": "61",
+          "text": "Therefore my judgment is now at hand,"
+        },
+        {
+          "number": "62",
+          "text": "which I have not shown to all men, but to you, and a few like you.” Then I answered,"
+        },
+        {
+          "number": "63",
+          "text": "“Behold, O Lord, now you have shown me the multitude of the wonders which you will do in the last times, but you haven’t shown me when.”"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "label": "Chapter 9",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "He answered me, “Measure diligently within yourself. When you see that a certain part of the signs are past, which have been told you beforehand,"
+        },
+        {
+          "number": "2",
+          "text": "then will you understand that it is the very time in which the Most High will visit the world which was made by him."
+        },
+        {
+          "number": "3",
+          "text": "When earthquakes, tumult of peoples, plans of nations, wavering of leaders, and confusion of princes are seen in the world,"
+        },
+        {
+          "number": "4",
+          "text": "then will you understand that the Most High spoke of these things from the days that were of old, from the beginning."
+        },
+        {
+          "number": "5",
+          "text": "For just as with everything that is made in the world, the beginning is evident and the end manifest,"
+        },
+        {
+          "number": "6",
+          "text": "so also are the times of the Most High: the beginnings are manifest in wonders and mighty works, and the end in effects and signs."
+        },
+        {
+          "number": "7",
+          "text": "Everyone who will be saved, and will be able to escape by his works, or by faith by which they have believed,"
+        },
+        {
+          "number": "8",
+          "text": "will be preserved from the said perils, and will see my salvation in my land and within my borders, which I have sanctified for myself from the beginning."
+        },
+        {
+          "number": "9",
+          "text": "Then those who now have abused my ways will be amazed. Those who have cast them away despitefully will live in torments."
+        },
+        {
+          "number": "10",
+          "text": "For as many as in their life have received benefits, and yet have not known me,"
+        },
+        {
+          "number": "11",
+          "text": "and as many as have scorned my law, while they still had liberty and when an opportunity to repent was open to them, didn’t understand, but despised it,"
+        },
+        {
+          "number": "12",
+          "text": "must know it in torment after death."
+        },
+        {
+          "number": "13",
+          "text": "Therefore don’t be curious any longer how the ungodly will be punished, but inquire how the righteous will be saved, those who the world belongs to, and for whom the world was created.”"
+        },
+        {
+          "number": "14",
+          "text": "I answered,"
+        },
+        {
+          "number": "15",
+          "text": "“I have said before, and now speak, and will say it again hereafter, that there are more of those who perish than of those who will be saved,"
+        },
+        {
+          "number": "16",
+          "text": "like a wave is greater than a drop.”"
+        },
+        {
+          "number": "17",
+          "text": "He answered me, “Just as the field is, so also the seed. As the flowers are, so are the colors. As the work is, so also is the judgment on it. As is the farmer, so also is his threshing floor. For there was a time in the world"
+        },
+        {
+          "number": "18",
+          "text": "when I was preparing for those who now live, before the world was made for them to dwell in. Then no one spoke against me,"
+        },
+        {
+          "number": "19",
+          "text": "for no one existed. But now those who are created in this world that is prepared, both with a table that doesn’t fail and a law which is unsearchable, are corrupted in their ways."
+        },
+        {
+          "number": "20",
+          "text": "So I considered my world, and behold, it was destroyed, and my earth, and behold, it was in peril, because of the plans that had come into it."
+        },
+        {
+          "number": "21",
+          "text": "I saw and spared them, but not greatly, and saved myself a grape out of a cluster, and a plant out of a great forest."
+        },
+        {
+          "number": "22",
+          "text": "Let the multitude perish then, which were born in vain. Let my grape be saved, and my plant, for I have made them perfect with great labor."
+        },
+        {
+          "number": "23",
+          "text": "Nevertheless, if you will wait seven more days—however don’t fast in them,"
+        },
+        {
+          "number": "24",
+          "text": "but go into a field of flowers, where no house is built, and eat only of the flowers of the field, and you shall taste no flesh, and shall drink no wine, but shall eat flowers only—"
+        },
+        {
+          "number": "25",
+          "text": "and pray to the Most High continually, then I will come and talk with you.”"
+        },
+        {
+          "number": "26",
+          "text": "So I went my way, just as he commanded me, into the field which is called Ardat. There I sat among the flowers, and ate of the herbs of the field, and this food satisfied me."
+        },
+        {
+          "number": "27",
+          "text": "It came to pass after seven days that I lay on the grass, and my heart was troubled again, like before."
+        },
+        {
+          "number": "28",
+          "text": "My mouth was opened, and I began to speak before the Lord Most High, and said,"
+        },
+        {
+          "number": "29",
+          "text": "“O Lord, you showed yourself among us, to our fathers in the wilderness, when they went out of Egypt, and when they came into the wilderness, where no man treads and that bears no fruit."
+        },
+        {
+          "number": "30",
+          "text": "You said, ‘Hear me, O Israel. Heed my words, O seed of Jacob."
+        },
+        {
+          "number": "31",
+          "text": "For behold, I sow my law in you, and it will bring forth fruit in you, and you will be glorified in it forever.’"
+        },
+        {
+          "number": "32",
+          "text": "But our fathers, who received the law, didn’t keep it, and didn’t observe the statutes. The fruit of the law didn’t perish, for it couldn’t, because it was yours."
+        },
+        {
+          "number": "33",
+          "text": "Yet those who received it perished, because they didn’t keep the thing that was sown in them."
+        },
+        {
+          "number": "34",
+          "text": "Behold, it is a custom that when the ground has received seed, or the sea a ship, or any vessel food or drink, and when it comes to pass that that which is sown, or that which is launched,"
+        },
+        {
+          "number": "35",
+          "text": "or the things which have been received, should come to an end, these come to an end, but the receptacles remain. Yet with us, it doesn’t happen that way."
+        },
+        {
+          "number": "36",
+          "text": "For we who have received the law will perish by sin, along with our heart which received it."
+        },
+        {
+          "number": "37",
+          "text": "Notwithstanding the law doesn’t perish, but remains in its honor.”"
+        },
+        {
+          "number": "38",
+          "text": "When I spoke these things in my heart, I looked around me with my eyes, and on my right side I saw a woman, and behold, she mourned and wept with a loud voice, and was much grieved in mind. Her clothes were torn, and she had ashes on her head."
+        },
+        {
+          "number": "39",
+          "text": "Then let I my thoughts go in which I was occupied, and turned myself to her,"
+        },
+        {
+          "number": "40",
+          "text": "and said to her, “Why are you weeping? Why are you grieved in your mind?”"
+        },
+        {
+          "number": "41",
+          "text": "She said to me, “Leave me alone, my Lord, that I may weep for myself and add to my sorrow, for I am very troubled in my mind, and brought very low.”"
+        },
+        {
+          "number": "42",
+          "text": "I said to her, “What ails you? Tell me.”"
+        },
+        {
+          "number": "43",
+          "text": "She said to me, “I, your servant, was barren and had no child, though I had a husband thirty years."
+        },
+        {
+          "number": "44",
+          "text": "Every hour and every day these thirty years I made my prayer to the Most High day and night."
+        },
+        {
+          "number": "45",
+          "text": "It came to pass after thirty years that God heard me, your handmaid, and saw my low estate, and considered my trouble, and gave me a son. I rejoiced in him greatly, I and my husband, and all my neighbors. We gave great honor to the Mighty One."
+        },
+        {
+          "number": "46",
+          "text": "I nourished him with great care."
+        },
+        {
+          "number": "47",
+          "text": "So when he grew up, and I came to take him a wife, I made him a feast day."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "label": "Chapter 10",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "“So it came to pass that when my son was entered into his wedding chamber, he fell down and died."
+        },
+        {
+          "number": "2",
+          "text": "Then we all put out the lamps, and all my neighbors rose up to comfort me. I remained quiet until the second day at night."
+        },
+        {
+          "number": "3",
+          "text": "It came to pass, when they had all stopped consoling me, encouraging me to be quiet, then rose I up by night, and fled, and came here into this field, as you see."
+        },
+        {
+          "number": "4",
+          "text": "Now I don’t intend to return into the city, but to stay here, and not eat or drink, but to continually mourn and fast until I die.”"
+        },
+        {
+          "number": "5",
+          "text": "Then I left the reflections I was engaged in, and answered her in anger,"
+        },
+        {
+          "number": "6",
+          "text": "“You most foolish woman, don’t you see our mourning, and what has happened to us?"
+        },
+        {
+          "number": "7",
+          "text": "For Zion the mother of us all is full of sorrow, and much humbled."
+        },
+        {
+          "number": "8",
+          "text": "It is right now to mourn deeply, since we all mourn, and to be sorrowful, since we are all in sorrow, but you are mourning for one son."
+        },
+        {
+          "number": "9",
+          "text": "Ask the earth, and she will tell you that it is she which ought to mourn for so many that grow upon her."
+        },
+        {
+          "number": "10",
+          "text": "For out of her, all had their beginnings, and others will come; and, behold, almost all of them walk into destruction, and the multitude of them is utterly doomed."
+        },
+        {
+          "number": "11",
+          "text": "Who then should mourn more, she who has lost so great a multitude, or you, who are grieved but for one?"
+        },
+        {
+          "number": "12",
+          "text": "But if you say to me, ‘My lamentation is not like the earth’s, for I have lost the fruit of my womb, which I brought forth with pains, and bare with sorrows;’"
+        },
+        {
+          "number": "13",
+          "text": "but it is with the earth after the manner of the earth. The multitude present in it has gone as it came."
+        },
+        {
+          "number": "14",
+          "text": "Then say I to you, ‘Just as you have brought forth with sorrow, even so the earth also has given her fruit, namely, people, ever since the beginning to him who made her.’"
+        },
+        {
+          "number": "15",
+          "text": "Now therefore keep your sorrow to yourself, and bear with a good courage the adversities which have happened to you."
+        },
+        {
+          "number": "16",
+          "text": "For if you will acknowledge the decree of God to be just, you will both receive your son in time, and will be praised among women."
+        },
+        {
+          "number": "17",
+          "text": "Go your way then into the city to your husband.”"
+        },
+        {
+          "number": "18",
+          "text": "She said to me, “I won’t do that. I will not go into the city, but I will die here.”"
+        },
+        {
+          "number": "19",
+          "text": "So I proceeded to speak further to her, and said,"
+        },
+        {
+          "number": "20",
+          "text": "“Don’t do so, but allow yourself to be persuaded by reason of the adversities of Zion; and be comforted by reason of the sorrow of Jerusalem."
+        },
+        {
+          "number": "21",
+          "text": "For you see that our sanctuary has been laid waste, our altar broken down, our temple destroyed,"
+        },
+        {
+          "number": "22",
+          "text": "our lute has been brought low, our song is put to silence, our rejoicing is at an end, the light of our candlestick is put out, the ark of our covenant is plundered, our holy things are defiled, and the name that we are called is profaned. Our free men are despitefully treated, our priests are burned, our Levites have gone into captivity, our virgins are defiled and our wives ravished, our righteous men carried away, our little ones betrayed, our young men are brought into bondage, and our strong men have become weak."
+        },
+        {
+          "number": "23",
+          "text": "What is more than all, the seal of Zion has now lost the seal of her honor, and is delivered into the hands of those who hate us."
+        },
+        {
+          "number": "24",
+          "text": "Therefore shake off your great heaviness, and put away from yourself the multitude of sorrows, that the Mighty One may be merciful to you again, and the Most High may give you rest, even ease from your troubles.”"
+        },
+        {
+          "number": "25",
+          "text": "It came to pass while I was talking with her, behold, her face suddenly began to shine exceedingly, and her countenance flashed like lightning, so that I was very afraid of her, and wondered what this meant."
+        },
+        {
+          "number": "26",
+          "text": "Behold, suddenly she made a great and very fearful cry, so that the earth shook at the noise."
+        },
+        {
+          "number": "27",
+          "text": "I looked, and behold, the woman appeared to me no more, but there was a city built, and a place shown itself from large foundations. Then I was afraid, and cried with a loud voice,"
+        },
+        {
+          "number": "28",
+          "text": "“Where is Uriel the angel, who came to me at the first? For he has caused me to fall into this great trance, and my end has turned into corruption, and my prayer a reproach!”"
+        },
+        {
+          "number": "29",
+          "text": "As I was speaking these words, behold, the angel who had come to me at first came to me, and he looked at me."
+        },
+        {
+          "number": "30",
+          "text": "Behold, I lay as one who had been dead, and my understanding was taken from me. He took me by the right hand, and comforted me, and set me on my feet, and said to me,"
+        },
+        {
+          "number": "31",
+          "text": "“What ails you? Why are you so troubled? Why is your understanding and the thoughts of your heart troubled?”"
+        },
+        {
+          "number": "32",
+          "text": "I said, “Because you have forsaken me; yet I did according to your words, and went into the field, and, behold, I have seen, and still see, that which I am not able to explain.”"
+        },
+        {
+          "number": "33",
+          "text": "He said to me, “Stand up like a man, and I will instruct you.”"
+        },
+        {
+          "number": "34",
+          "text": "Then I said, “Speak on, my Lord; only don’t forsake me, lest I die before my time."
+        },
+        {
+          "number": "35",
+          "text": "For I have seen what I didn’t know, and hear what I don’t know."
+        },
+        {
+          "number": "36",
+          "text": "Or is my sense deceived, or my soul in a dream?"
+        },
+        {
+          "number": "37",
+          "text": "Now therefore I beg you to explain to your servant what this vision means.”"
+        },
+        {
+          "number": "38",
+          "text": "He answered me, “Listen to me, and I will inform you, and tell you about the things you are afraid of, for the Most High has revealed many secret things to you."
+        },
+        {
+          "number": "39",
+          "text": "He has seen that your way is righteous, because you are continually sorry for your people, and make great lamentation for Zion."
+        },
+        {
+          "number": "40",
+          "text": "This therefore is the meaning of the vision."
+        },
+        {
+          "number": "41",
+          "text": "The woman who appeared to you a little while ago, whom you saw mourning, and began to comfort her,"
+        },
+        {
+          "number": "42",
+          "text": "but now you no longer see the likeness of the woman, but a city under construction appeared to you,"
+        },
+        {
+          "number": "43",
+          "text": "and she told you of the death of her son, this is the interpretation:"
+        },
+        {
+          "number": "44",
+          "text": "This woman, whom you saw, is Zion, whom you now see as a city being built."
+        },
+        {
+          "number": "45",
+          "text": "She told you that she had been barren for thirty years because there were three thousand years in the world in which there was no offering as yet offered in her."
+        },
+        {
+          "number": "46",
+          "text": "And it came to pass after three thousand years that Solomon built the city and offered offerings. It was then that the barren bore a son."
+        },
+        {
+          "number": "47",
+          "text": "She told you that she nourished him with great care. That was the dwelling in Jerusalem."
+        },
+        {
+          "number": "48",
+          "text": "When she said to you, ‘My son died when he entered into his marriage chamber, and that misfortune befell her,’ this was the destruction that came to Jerusalem."
+        },
+        {
+          "number": "49",
+          "text": "Behold, you saw her likeness, how she mourned for her son, and you began to comfort her for what has happened to her. These were the things to be opened to you."
+        },
+        {
+          "number": "50",
+          "text": "For now the Most High, seeing that you are sincerely grieved and suffer from your whole heart for her, has shown you the brightness of her glory and the attractiveness of her beauty."
+        },
+        {
+          "number": "51",
+          "text": "Therefore I asked you to remain in the field where no house was built,"
+        },
+        {
+          "number": "52",
+          "text": "for I knew that the Most High would show this to you."
+        },
+        {
+          "number": "53",
+          "text": "Therefore I commanded you to come into the field, where no foundation of any building was."
+        },
+        {
+          "number": "54",
+          "text": "For no human construction could stand in the place in which the city of the Most High was to be shown."
+        },
+        {
+          "number": "55",
+          "text": "Therefore don’t be afraid nor let your heart be terrified, but go your way in and see the beauty and greatness of the building, as much as your eyes are able to see."
+        },
+        {
+          "number": "56",
+          "text": "Then will you hear as much as your ears may comprehend."
+        },
+        {
+          "number": "57",
+          "text": "For you are more blessed than many, and are called by name to be with the Most High, like only a few."
+        },
+        {
+          "number": "58",
+          "text": "But tomorrow at night you shall remain here,"
+        },
+        {
+          "number": "59",
+          "text": "and so the Most High will show you those visions in dreams of what the Most High will do to those who live on the earth in the last days.” So I slept that night and another, as he commanded me."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "label": "Chapter 11",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "It came to pass the second night that I saw a dream, and behold, an eagle which had twelve feathered wings and three heads came up from the sea."
+        },
+        {
+          "number": "2",
+          "text": "I saw, and behold, she spread her wings over all the earth, and all the winds of heaven blew on her, and the clouds were gathered together against her."
+        },
+        {
+          "number": "3",
+          "text": "I saw, and out of her wings there grew other wings near them; and they became little, tiny wings."
+        },
+        {
+          "number": "4",
+          "text": "But her heads were at rest. The head in the middle was larger than the other heads, yet rested it with them."
+        },
+        {
+          "number": "5",
+          "text": "Moreover I saw, and behold, the eagle flew with her wings to reign over the earth and over those who dwell therein."
+        },
+        {
+          "number": "6",
+          "text": "I saw how all things under heaven were subject to her, and no one spoke against her—no, not one creature on earth."
+        },
+        {
+          "number": "7",
+          "text": "I saw, and behold, the eagle rose on her talons, and uttered her voice to her wings, saying,"
+        },
+        {
+          "number": "8",
+          "text": "“Don’t all watch at the same time. Let each one sleep in his own place and watch in turn;"
+        },
+        {
+          "number": "9",
+          "text": "but let the heads be preserved for the last.”"
+        },
+        {
+          "number": "10",
+          "text": "I saw, and behold, the voice didn’t come out of her heads, but from the midst of her body."
+        },
+        {
+          "number": "11",
+          "text": "I counted her wings that were near the others, and behold, there were eight of them."
+        },
+        {
+          "number": "12",
+          "text": "I saw, and behold, on the right side one wing arose and reigned over all the earth."
+        },
+        {
+          "number": "13",
+          "text": "When it reigned, the end of it came, and it disappeared, so that its place appeared no more. The next wing rose up and reigned, and it ruled a long time."
+        },
+        {
+          "number": "14",
+          "text": "It happened that when it reigned, its end came also, so that it disappeared, like the first."
+        },
+        {
+          "number": "15",
+          "text": "Behold, a voice came to it, and said,"
+        },
+        {
+          "number": "16",
+          "text": "“Listen, you who have ruled over the earth all this time! I proclaim this to you, before you disappear,"
+        },
+        {
+          "number": "17",
+          "text": "none after you will rule as long as you, not even half as long.”"
+        },
+        {
+          "number": "18",
+          "text": "Then the third arose, and ruled as the others before, and it also disappeared."
+        },
+        {
+          "number": "19",
+          "text": "So it went with all the wings one after another, as every one ruled, and then disappeared."
+        },
+        {
+          "number": "20",
+          "text": "I saw, and behold, in process of time the wings that followed were set up on the right side, that they might rule also. Some of them ruled, but in a while they disappeared."
+        },
+        {
+          "number": "21",
+          "text": "Some of them also were set up, but didn’t rule."
+        },
+        {
+          "number": "22",
+          "text": "After this I saw, and behold, the twelve wings disappeared, along with two of the little wings."
+        },
+        {
+          "number": "23",
+          "text": "There was no more left on the eagle’s body, except the three heads that rested, and six little wings."
+        },
+        {
+          "number": "24",
+          "text": "I saw, and behold, two little wings divided themselves from the six and remained under the head that was on the right side; but four remained in their place."
+        },
+        {
+          "number": "25",
+          "text": "I saw, and behold, these under wings planned to set themselves up and to rule."
+        },
+        {
+          "number": "26",
+          "text": "I saw, and behold, there was one set up, but in a while it disappeared."
+        },
+        {
+          "number": "27",
+          "text": "A second also did so, and it disappeared faster than the first."
+        },
+        {
+          "number": "28",
+          "text": "I saw, and behold, the two that remained also planned between themselves to reign."
+        },
+        {
+          "number": "29",
+          "text": "While they thought about it, behold, one of the heads at rest awakened, the one that was in the middle, for that was greater than the two other heads."
+        },
+        {
+          "number": "30",
+          "text": "I saw how it joined the two other heads with it."
+        },
+        {
+          "number": "31",
+          "text": "Behold, the head turned with those who were with it, and ate the two under wings that planned to reign."
+        },
+        {
+          "number": "32",
+          "text": "But this head held the whole earth in possession, and ruled over those who dwell in it with much oppression. It had stronger governance over the world than all the wings that had gone before."
+        },
+        {
+          "number": "33",
+          "text": "After this I saw, and behold, the head also that was in the middle suddenly disappeared, like the wings."
+        },
+        {
+          "number": "34",
+          "text": "But the two heads remained, which also reigned the same way over the earth and over those who dwell in it."
+        },
+        {
+          "number": "35",
+          "text": "I saw, and behold, the head on the right side devoured the one that was on the left side."
+        },
+        {
+          "number": "36",
+          "text": "Then I heard a voice, which said to me, “Look in front of you, and consider the thing that you see.”"
+        },
+        {
+          "number": "37",
+          "text": "I saw, and behold, something like a lion roused out of the woods roaring. I heard how he sent out a man’s voice to the eagle, and spoke, saying,"
+        },
+        {
+          "number": "38",
+          "text": "“Listen and I will talk with you. The Most High will say to you,"
+        },
+        {
+          "number": "39",
+          "text": "‘Aren’t you the one that remains of the four animals whom I made to reign in my world, that the end of my times might come through them?"
+        },
+        {
+          "number": "40",
+          "text": "The fourth came and overcame all the animals that were past, and ruled the world with great trembling, and the whole extent of the earth with grievous oppression. He lived on the earth such a long time with deceit."
+        },
+        {
+          "number": "41",
+          "text": "You have judged the earth, but not with truth."
+        },
+        {
+          "number": "42",
+          "text": "For you have afflicted the meek, you have hurt the peaceful, you have hated those who speak truth, you have loved liars, destroyed the dwellings of those who produced fruit, and threw down the walls of those who did you no harm."
+        },
+        {
+          "number": "43",
+          "text": "Your insolence has come up to the Most High, and your pride to the Mighty."
+        },
+        {
+          "number": "44",
+          "text": "The Most High also has looked at his times, and behold, they are ended, and his ages are fulfilled."
+        },
+        {
+          "number": "45",
+          "text": "Therefore appear no more, you eagle, nor your horrible wings, nor your evil little wings, nor your cruel heads, nor your hurtful talons, nor all your worthless body,"
+        },
+        {
+          "number": "46",
+          "text": "that all the earth may be refreshed and relieved, being delivered from your violence, and that she may hope for the judgment and mercy of him who made her.’ ”"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "label": "Chapter 12",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "It came to pass, while the lion spoke these words to the eagle, I saw,"
+        },
+        {
+          "number": "2",
+          "text": "and behold, the head that remained disappeared, and the two wings which went over to it arose and set themselves up to reign; and their kingdom was brief and full of uproar."
+        },
+        {
+          "number": "3",
+          "text": "I saw, and behold, they disappeared, and the whole body of the eagle was burned, so that the earth was in great fear. Then I woke up because of great perplexity of mind and great fear, and said to my spirit,"
+        },
+        {
+          "number": "4",
+          "text": "“Behold, you have done this to me, because you search out the ways of the Most High."
+        },
+        {
+          "number": "5",
+          "text": "Behold, I am still weary in my mind, and very weak in my spirit. There isn’t even a little strength in me, because of the great fear with which I was frightened tonight."
+        },
+        {
+          "number": "6",
+          "text": "Therefore I will now ask the Most High that he would strengthen me to the end.”"
+        },
+        {
+          "number": "7",
+          "text": "Then I said, “O sovereign Lord, if I have found favor in your sight, and if I am justified with you more than many others, and if my prayer has indeed come up before your face,"
+        },
+        {
+          "number": "8",
+          "text": "strengthen me then, and show me, your servant, the interpretation and plain meaning of this fearful vision, that you may fully comfort my soul."
+        },
+        {
+          "number": "9",
+          "text": "For you have judged me worthy to show me the end of time and the last events of the times.”"
+        },
+        {
+          "number": "10",
+          "text": "He said to me, “This is the interpretation of this vision which you saw:"
+        },
+        {
+          "number": "11",
+          "text": "The eagle, whom you saw come up from the sea, is the fourth kingdom which appeared in a vision to your brother Daniel."
+        },
+        {
+          "number": "12",
+          "text": "But it was not explained to him, as I now explain it to you or have explained it."
+        },
+        {
+          "number": "13",
+          "text": "Behold, the days come that a kingdom will rise up on earth, and it will be feared more than all the kingdoms that were before it."
+        },
+        {
+          "number": "14",
+          "text": "Twelve kings will reign in it, one after another."
+        },
+        {
+          "number": "15",
+          "text": "Of those, the second will begin to reign, and will reign a longer time than others of the twelve."
+        },
+        {
+          "number": "16",
+          "text": "This is the interpretation of the twelve wings which you saw."
+        },
+        {
+          "number": "17",
+          "text": "As for when you heard a voice which spoke, not going out from the heads, but from the midst of its body, this is the interpretation:"
+        },
+        {
+          "number": "18",
+          "text": "That after the time of that kingdom, there will arise no small contentions, and it will stand in peril of falling. Nevertheless, it won’t fall then, but will be restored again to its former power."
+        },
+        {
+          "number": "19",
+          "text": "You saw the eight under wings sticking to her wings. This is the interpretation:"
+        },
+        {
+          "number": "20",
+          "text": "That in it eight kings will arise, whose times will be short and their years swift."
+        },
+        {
+          "number": "21",
+          "text": "Two of them will perish when the middle time approaches. Four will be kept for a while until the time of the ending of it will approach; but two will be kept to the end."
+        },
+        {
+          "number": "22",
+          "text": "You saw three heads resting. This is the interpretation:"
+        },
+        {
+          "number": "23",
+          "text": "In its last days, the Most High will raise up three kingdoms and renew many things in them. They will rule over the earth,"
+        },
+        {
+          "number": "24",
+          "text": "and over those who dwell in it, with much oppression, more than all those who were before them. Therefore they are called the heads of the eagle."
+        },
+        {
+          "number": "25",
+          "text": "For these are those who will accomplish her wickedness, and who will finish her last actions."
+        },
+        {
+          "number": "26",
+          "text": "You saw that the great head disappeared. It signifies that one of them will die on his bed, and yet with pain."
+        },
+        {
+          "number": "27",
+          "text": "But for the two that remained, the sword will devour them."
+        },
+        {
+          "number": "28",
+          "text": "For the sword of the one will devour him that was with him, but he will also fall by the sword in the last days."
+        },
+        {
+          "number": "29",
+          "text": "You saw two under wings passing over to the head that is on the right side."
+        },
+        {
+          "number": "30",
+          "text": "This is the interpretation: These are they whom the Most High has kept to his end. This is the brief reign that was full of trouble, as you saw."
+        },
+        {
+          "number": "31",
+          "text": "“The lion, whom you saw rising up out of the forest, roaring, speaking to the eagle, and rebuking her for her unrighteousness, and all her words which you have heard,"
+        },
+        {
+          "number": "32",
+          "text": "this is the anointed one, whom the Most High has kept to the end [of days, who will spring up out of the seed of David, and he will come and speak] to them and reprove them for their wickedness and unrighteousness, and will heap up before them their contemptuous dealings."
+        },
+        {
+          "number": "33",
+          "text": "For at first he will set them alive in his judgment, and when he has reproved them, he will destroy them."
+        },
+        {
+          "number": "34",
+          "text": "For he will deliver the rest of my people with mercy, those who have been preserved throughout my borders, and he will make them joyful until the coming of the end, even the day of judgment, about which I have spoken to you from the beginning."
+        },
+        {
+          "number": "35",
+          "text": "This is the dream that you saw, and this is its interpretation."
+        },
+        {
+          "number": "36",
+          "text": "Only you have been worthy to know the secret of the Most High."
+        },
+        {
+          "number": "37",
+          "text": "Therefore write all these things that you have seen in a book, and put it in a secret place."
+        },
+        {
+          "number": "38",
+          "text": "You shall teach them to the wise of your people, whose hearts you know are able to comprehend and keep these secrets."
+        },
+        {
+          "number": "39",
+          "text": "But wait here yourself seven more days, that you may be shown whatever it pleases the Most High to show you.” Then he departed from me."
+        },
+        {
+          "number": "40",
+          "text": "It came to pass, when all the people saw that the seven days were past, and I had not come again into the city, they all gathered together, from the least to the greatest, and came to me, and spoke to me, saying,"
+        },
+        {
+          "number": "41",
+          "text": "“How have we offended you? What evil have we done against you, that you have utterly forsaken us, and sit in this place?"
+        },
+        {
+          "number": "42",
+          "text": "For of all the prophets, only you are left to us, like a cluster of the vintage, and like a lamp in a dark place, and like a harbor for a ship saved from the tempest."
+        },
+        {
+          "number": "43",
+          "text": "Aren’t the evils which have come to us sufficient?"
+        },
+        {
+          "number": "44",
+          "text": "If you will forsake us, how much better had it been for us if we also had been consumed in the burning of Zion!"
+        },
+        {
+          "number": "45",
+          "text": "For we are not better than those who died there.” Then they wept with a loud voice. I answered them,"
+        },
+        {
+          "number": "46",
+          "text": "“Take courage, O Israel! Don’t be sorrowful, you house of Jacob;"
+        },
+        {
+          "number": "47",
+          "text": "for the Most High remembers you. The Mighty has not forgotten you forever."
+        },
+        {
+          "number": "48",
+          "text": "As for me, I have not forsaken you. I haven’t departed from you; but I have come into this place to pray for the desolation of Zion, and that I might seek mercy for the humiliation of your sanctuary."
+        },
+        {
+          "number": "49",
+          "text": "Now go your way, every man to his own house, and after these days I will come to you.”"
+        },
+        {
+          "number": "50",
+          "text": "So the people went their way into the city, as I told them to do."
+        },
+        {
+          "number": "51",
+          "text": "But I sat in the field seven days, as the angel commanded me. In those days, I ate only of the flowers of the field, and my food was from plants."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "label": "Chapter 13",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "It came to pass after seven days, I dreamed a dream by night."
+        },
+        {
+          "number": "2",
+          "text": "Behold, a wind arose from the sea that moved all its waves."
+        },
+        {
+          "number": "3",
+          "text": "I saw, and behold, [this wind caused to come up from the midst of the sea something like the appearance of a man. I saw, and behold,] that man flew with the clouds of heaven. When he turned his face to look, everything that he saw trembled."
+        },
+        {
+          "number": "4",
+          "text": "Whenever the voice went out of his mouth, all who heard his voice melted, like the wax melts when it feels the fire."
+        },
+        {
+          "number": "5",
+          "text": "After this I saw, and behold, an innumerable multitude of people was gathered together from the four winds of heaven to make war against the man who came out of the sea."
+        },
+        {
+          "number": "6",
+          "text": "I saw, and behold, he carved himself a great mountain, and flew up onto it."
+        },
+        {
+          "number": "7",
+          "text": "I tried to see the region or place from which the mountain was carved, and I couldn’t."
+        },
+        {
+          "number": "8",
+          "text": "After this I saw, and behold, all those who were gathered together to fight against him were very afraid, and yet they dared to fight."
+        },
+        {
+          "number": "9",
+          "text": "Behold, as he saw the assault of the multitude that came, he didn’t lift up his hand, or hold a spear or any weapon of war;"
+        },
+        {
+          "number": "10",
+          "text": "but I saw only how he sent out of his mouth something like a flood of fire, and out of his lips a flaming breath, and out of his tongue he shot out a storm of sparks."
+        },
+        {
+          "number": "11",
+          "text": "These were all mixed together: the flood of fire, the flaming breath, and the great storm, and fell upon the assault of the multitude which was prepared to fight, and burned up every one of them, so that all of a sudden an innumerable multitude was seen to be nothing but the dust of ashes and the smell of smoke. When I saw this, I was amazed."
+        },
+        {
+          "number": "12",
+          "text": "Afterward, I saw the same man come down from the mountain, and call to himself another multitude which was peaceful."
+        },
+        {
+          "number": "13",
+          "text": "Many people came to him. Some of them were glad. Some were sorry. Some of them were bound, and some others brought some of those as offerings. Then through great fear I woke up and prayed to the Most High, and said,"
+        },
+        {
+          "number": "14",
+          "text": "“You have shown your servant these wonders from the beginning, and have counted me worthy that you should receive my prayer."
+        },
+        {
+          "number": "15",
+          "text": "Now show me also the interpretation of this dream."
+        },
+        {
+          "number": "16",
+          "text": "For as I conceive in my understanding, woe to those who will be left in those days! Much more woe to those who are not left!"
+        },
+        {
+          "number": "17",
+          "text": "For those who were not left will be in heaviness,"
+        },
+        {
+          "number": "18",
+          "text": "understanding the things that are laid up in the latter days, but not attaining to them."
+        },
+        {
+          "number": "19",
+          "text": "But woe to them also who are left, because they will see great perils and much distress, like these dreams declare."
+        },
+        {
+          "number": "20",
+          "text": "Yet is it better for one to be in peril and to come into these things, than to pass away as a cloud out of the world, and not to see the things that will happen in the last days.” He answered me,"
+        },
+        {
+          "number": "21",
+          "text": "“I will tell you the interpretation of the vision, and I will also open to you the things about which you mentioned."
+        },
+        {
+          "number": "22",
+          "text": "You have spoken of those who are left behind. This is the interpretation:"
+        },
+        {
+          "number": "23",
+          "text": "He that will endure the peril in that time will protect those who fall into danger, even those who have works and faith toward the Almighty."
+        },
+        {
+          "number": "24",
+          "text": "Know therefore that those who are left behind are more blessed than those who are dead."
+        },
+        {
+          "number": "25",
+          "text": "These are the interpretations of the vision: Whereas you saw a man coming up from the midst of the sea,"
+        },
+        {
+          "number": "26",
+          "text": "this is he whom the Most High has been keeping for many ages, who by his own self will deliver his creation. He will direct those who are left behind."
+        },
+        {
+          "number": "27",
+          "text": "Whereas you saw that out of his mouth came wind, fire, and storm,"
+        },
+        {
+          "number": "28",
+          "text": "and whereas he held neither spear, nor any weapon of war, but destroyed the assault of that multitude which came to fight against him, this is the interpretation:"
+        },
+        {
+          "number": "29",
+          "text": "Behold, the days come when the Most High will begin to deliver those who are on the earth."
+        },
+        {
+          "number": "30",
+          "text": "Astonishment of mind will come upon those who dwell on the earth."
+        },
+        {
+          "number": "31",
+          "text": "One will plan to make war against another, city against city, place against place, people against people, and kingdom against kingdom."
+        },
+        {
+          "number": "32",
+          "text": "It will be, when these things come to pass, and the signs happen which I showed you before, then my Son will be revealed, whom you saw as a man ascending."
+        },
+        {
+          "number": "33",
+          "text": "It will be, when all the nations hear his voice, every man will leave his own land and the battle they have against one another."
+        },
+        {
+          "number": "34",
+          "text": "An innumerable multitude will be gathered together, as you saw, desiring to come and to fight against him."
+        },
+        {
+          "number": "35",
+          "text": "But he will stand on the top of Mount Zion."
+        },
+        {
+          "number": "36",
+          "text": "Zion will come, and will be shown to all men, being prepared and built, like you saw the mountain carved without hands."
+        },
+        {
+          "number": "37",
+          "text": "My Son will rebuke the nations which have come for their wickedness, with plagues that are like a storm,"
+        },
+        {
+          "number": "38",
+          "text": "and will rebuke them to their face with their evil thoughts, and the torments with which they will be tormented, which are like a flame. He will destroy them without labor by the law, which is like fire."
+        },
+        {
+          "number": "39",
+          "text": "Whereas you saw that he gathered to himself another multitude that was peaceful,"
+        },
+        {
+          "number": "40",
+          "text": "these are the ten tribes which were led away out of their own land in the time of Osea the king, whom Salmananser the king of the Assyrians led away captive, and he carried them beyond the River, and they were taken into another land."
+        },
+        {
+          "number": "41",
+          "text": "But they made this plan among themselves, that they would leave the multitude of the heathen, and go out into a more distant region, where mankind had never lived,"
+        },
+        {
+          "number": "42",
+          "text": "that there they might keep their statutes which they had not kept in their own land."
+        },
+        {
+          "number": "43",
+          "text": "They entered by the narrow passages of the river Euphrates."
+        },
+        {
+          "number": "44",
+          "text": "For the Most High then did signs for them, and stopped the springs of the River until they had passed over."
+        },
+        {
+          "number": "45",
+          "text": "For through that country there was a long way to go, namely, of a year and a half. The same region is called Arzareth."
+        },
+        {
+          "number": "46",
+          "text": "Then they lived there until the latter time. Now when they begin to come again,"
+        },
+        {
+          "number": "47",
+          "text": "the Most High stops the springs of the River again, that they may go through. Therefore you saw the multitude gathered together with peace."
+        },
+        {
+          "number": "48",
+          "text": "But those who are left behind of your people are those who are found within my holy border."
+        },
+        {
+          "number": "49",
+          "text": "It will be therefore when he will destroy the multitude of the nations that are gathered together, he will defend the people who remain."
+        },
+        {
+          "number": "50",
+          "text": "Then he will show them very many wonders.”"
+        },
+        {
+          "number": "51",
+          "text": "Then I said, “O sovereign Lord, explain this to me: Why have I seen the man coming up from the midst of the sea?”"
+        },
+        {
+          "number": "52",
+          "text": "He said to me, as no one can explore or know what is in the depths of the sea, even so no man on earth can see my Son, or those who are with him, except in the time of his day."
+        },
+        {
+          "number": "53",
+          "text": "This is the interpretation of the dream which you saw, and for this only you are enlightened about this,"
+        },
+        {
+          "number": "54",
+          "text": "for you have forsaken your own ways, and applied your diligence to mine, and have searched out my law."
+        },
+        {
+          "number": "55",
+          "text": "You have ordered your life in wisdom, and have called understanding your mother."
+        },
+        {
+          "number": "56",
+          "text": "Therefore I have shown you this, for there is a reward laid up with the Most High. It will be, after another three days I will speak other things to you, and declare to you mighty and wondrous things.”"
+        },
+        {
+          "number": "57",
+          "text": "Then I went out and passed into the field, giving praise and thanks greatly to the Most High because of his wonders, which he did from time to time,"
+        },
+        {
+          "number": "58",
+          "text": "and because he governs the time, and such things as happen in their seasons. So I sat there three days."
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "label": "Chapter 14",
+      "section": "4 Ezra (2 Esdras 3–14)",
+      "verses": [
+        {
+          "number": "1",
+          "text": "It came to pass upon the third day, I sat under an oak, and, behold, a voice came out of a bush near me, and said, “Esdras, Esdras!”"
+        },
+        {
+          "number": "2",
+          "text": "I said, “Here I am, Lord,” and I stood up on my feet."
+        },
+        {
+          "number": "3",
+          "text": "Then he said to me, “I revealed myself in a bush and talked with Moses when my people were in bondage in Egypt."
+        },
+        {
+          "number": "4",
+          "text": "I sent him, and he led my people out of Egypt. I brought him up to Mount Sinai, where I kept him with me for many days."
+        },
+        {
+          "number": "5",
+          "text": "I told him many wondrous things, and showed him the secrets of the times and the end of the seasons. I commanded him, saying,"
+        },
+        {
+          "number": "6",
+          "text": "‘You shall publish these openly, and these you shall hide.’"
+        },
+        {
+          "number": "7",
+          "text": "Now I say to you:"
+        },
+        {
+          "number": "8",
+          "text": "Lay up in your heart the signs that I have shown, the dreams that you have seen, and the interpretations which you have heard;"
+        },
+        {
+          "number": "9",
+          "text": "for you will be taken away from men, and from now on you will live with my Son and with those who are like you, until the times have ended."
+        },
+        {
+          "number": "10",
+          "text": "For the world has lost its youth, and the times begin to grow old."
+        },
+        {
+          "number": "11",
+          "text": "For the age is divided into twelve parts, and ten parts of it are already gone, even the half of the tenth part."
+        },
+        {
+          "number": "12",
+          "text": "There remain of it two parts after the middle of the tenth part."
+        },
+        {
+          "number": "13",
+          "text": "Now therefore set your house in order, reprove your people, comfort the lowly among them, and instruct those of them who are wise, and now renounce the life that is corruptible,"
+        },
+        {
+          "number": "14",
+          "text": "and let go of the mortal thoughts, cast away from you the burdens of man, put off now your weak nature,"
+        },
+        {
+          "number": "15",
+          "text": "lay aside the thoughts that are most grievous to you, and hurry to escape from these times."
+        },
+        {
+          "number": "16",
+          "text": "For worse evils than those which you have seen happen will be done after this."
+        },
+        {
+          "number": "17",
+          "text": "For look how much the world will be weaker through age, so much that more evils will increase on those who dwell in it."
+        },
+        {
+          "number": "18",
+          "text": "For the truth will withdraw itself further off, and falsehood will be near. For now the eagle which you saw in vision hurries to come.”"
+        },
+        {
+          "number": "19",
+          "text": "Then I answered and said, “Let me speak in your presence, O Lord."
+        },
+        {
+          "number": "20",
+          "text": "Behold, I will go, as you have commanded me, and reprove the people who now live, but who will warn those who will be born afterward? For the world is set in darkness, and those who dwell in it are without light."
+        },
+        {
+          "number": "21",
+          "text": "For your law has been burned, therefore no one knows the things that are done by you, or the works that will be done."
+        },
+        {
+          "number": "22",
+          "text": "But if I have found favor before you, send the Holy Spirit to me, and I will write all that has been done in the world since the beginning, even the things that were written in your law, that men may be able to find the path, and that those who would live in the latter days may live.”"
+        },
+        {
+          "number": "23",
+          "text": "He answered me and said, “Go your way, gather the people together, and tell them not to seek you for forty days."
+        },
+        {
+          "number": "24",
+          "text": "But prepare for yourself many tablets, and take with you Sarea, Dabria, Selemia, Ethanus, and Asiel, these five, which are ready to write swiftly;"
+        },
+        {
+          "number": "25",
+          "text": "and come here, and I will light a lamp of understanding in your heart which will not be put out until the things have ended about which you will write."
+        },
+        {
+          "number": "26",
+          "text": "When you are done, some things you shall publish openly, and some things you shall deliver in secret to the wise. Tomorrow at this hour you will begin to write.”"
+        },
+        {
+          "number": "27",
+          "text": "Then I went out, as he commanded me, and gathered all the people together, and said,"
+        },
+        {
+          "number": "28",
+          "text": "“Hear these words, O Israel!"
+        },
+        {
+          "number": "29",
+          "text": "Our fathers at the beginning were foreigners in Egypt, and they were delivered from there,"
+        },
+        {
+          "number": "30",
+          "text": "and received the law of life, which they didn’t keep, which you also have transgressed after them."
+        },
+        {
+          "number": "31",
+          "text": "Then the land of Zion was given to you for a possession; but you yourselves and your ancestors have done unrighteousness, and have not kept the ways which the Most High commanded you."
+        },
+        {
+          "number": "32",
+          "text": "Because he is a righteous judge, in due time, he took from you what he had given you."
+        },
+        {
+          "number": "33",
+          "text": "Now you are here, and your kindred are among you."
+        },
+        {
+          "number": "34",
+          "text": "Therefore if you will rule over your own understanding and instruct your hearts, you will be kept alive, and after death you will obtain mercy."
+        },
+        {
+          "number": "35",
+          "text": "For after death the judgment will come, when we will live again. Then the names of the righteous will become manifest, and the works of the ungodly will be declared."
+        },
+        {
+          "number": "36",
+          "text": "Let no one therefore come to me now, nor seek me for forty days.”"
+        },
+        {
+          "number": "37",
+          "text": "So I took the five men, as he commanded me, and we went out into the field, and remained there."
+        },
+        {
+          "number": "38",
+          "text": "It came to pass on the next day that, behold, a voice called me, saying, “Esdras, open your mouth, and drink what I give you to drink.”"
+        },
+        {
+          "number": "39",
+          "text": "Then opened I my mouth, and behold, a full cup was handed to me. It was full of something like water, but its color was like fire."
+        },
+        {
+          "number": "40",
+          "text": "I took it, and drank. When I had drunk it, my heart uttered understanding, and wisdom grew in my chest, for my spirit retained its memory."
+        },
+        {
+          "number": "41",
+          "text": "My mouth was opened, and shut no more."
+        },
+        {
+          "number": "42",
+          "text": "The Most High gave understanding to the five men, and they wrote by course the things that were told them, in characters which they didn’t know, and they sat forty days. Now they wrote in the day-time, and at night they ate bread."
+        },
+        {
+          "number": "43",
+          "text": "As for me, I spoke in the day, and by night I didn’t hold my tongue."
+        },
+        {
+          "number": "44",
+          "text": "So in forty days, ninety-four books were written."
+        },
+        {
+          "number": "45",
+          "text": "It came to pass, when the forty days were fulfilled, that the Most High spoke to me, saying, “The first books that you have written, publish openly, and let the worthy and unworthy read them;"
+        },
+        {
+          "number": "46",
+          "text": "but keep the last seventy, that you may deliver them to those who are wise among your people;"
+        },
+        {
+          "number": "47",
+          "text": "for in them is the spring of understanding, the fountain of wisdom, and the stream of knowledge.”"
+        },
+        {
+          "number": "48",
+          "text": "I did so."
+        }
+      ]
+    }
+  ]
+}
